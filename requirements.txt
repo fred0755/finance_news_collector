@@ -1,0 +1,6 @@
+requests>=2.28
+beautifulsoup4>=4.11
+apscheduler>=3.10
+sqlalchemy>=2.0
+pymysql  # 如果您用MySQL
+redis>=4.5  # 如果需要缓存

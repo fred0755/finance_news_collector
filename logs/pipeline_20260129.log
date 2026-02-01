@@ -1,0 +1,52 @@
+2026-01-29 18:44:06 - 采集流水线 - INFO - 新闻采集流水线初始化完成
+2026-01-29 18:44:06 - 采集流水线 - INFO - 开始运行采集器...
+2026-01-29 18:44:06 - 采集流水线 - INFO - 共有 2 个启用的新闻源
+2026-01-29 18:44:06 - 采集流水线 - INFO - 采集: 东方财富网快讯
+2026-01-29 18:44:06 - 采集流水线 - ERROR -   ✗ 采集失败: No module named 'collectors.eastmoneycollector'
+2026-01-29 18:44:08 - 采集流水线 - INFO - 采集: 证券时报快讯
+2026-01-29 18:44:08 - 采集流水线 - ERROR -   ✗ 采集失败: No module named 'collectors.stcncollector'
+2026-01-29 18:44:10 - 采集流水线 - INFO - 采集完成，总共 0 条原始新闻
+2026-01-29 18:46:03 - 采集流水线 - INFO - 新闻采集流水线初始化完成
+2026-01-29 18:46:03 - 采集流水线 - INFO - 开始运行采集器...
+2026-01-29 18:46:03 - 采集流水线 - INFO - 共有 2 个启用的新闻源
+2026-01-29 18:46:03 - 采集流水线 - INFO - 采集: 东方财富网快讯
+2026-01-29 18:46:03 - 采集流水线 - WARNING - 导入失败 collectors.EastMoneyCollector: No module named 'collectors.EastMoneyCollector', 尝试备用名称
+2026-01-29 18:46:03 - 采集流水线 - WARNING - 使用基础采集器
+2026-01-29 18:46:04 - 采集流水线 - WARNING -   ⚠ 未采集到新闻
+2026-01-29 18:46:06 - 采集流水线 - INFO - 采集: 证券时报快讯
+2026-01-29 18:46:06 - 采集流水线 - WARNING - 导入失败 collectors.StcnCollector: No module named 'collectors.StcnCollector', 尝试备用名称
+2026-01-29 18:46:06 - 采集流水线 - WARNING - 使用基础采集器
+2026-01-29 18:46:06 - 采集流水线 - WARNING -   ⚠ 未采集到新闻
+2026-01-29 18:46:08 - 采集流水线 - INFO - 采集完成，总共 0 条原始新闻
+2026-01-29 18:46:55 - 采集流水线 - INFO - 新闻采集流水线初始化完成
+2026-01-29 18:46:55 - 采集流水线 - INFO - 开始运行采集器...
+2026-01-29 18:46:55 - 采集流水线 - INFO - 共有 2 个启用的新闻源
+2026-01-29 18:46:55 - 采集流水线 - INFO - 采集: 东方财富网快讯
+2026-01-29 18:46:55 - 采集流水线 - WARNING - 导入失败 collectors.EastMoneyCollector: No module named 'collectors.EastMoneyCollector', 尝试备用名称
+2026-01-29 18:46:55 - 采集流水线 - WARNING - 使用基础采集器
+2026-01-29 18:46:56 - 采集流水线 - WARNING -   ⚠ 未采集到新闻
+2026-01-29 18:46:58 - 采集流水线 - INFO - 采集: 证券时报快讯
+2026-01-29 18:46:58 - 采集流水线 - WARNING - 导入失败 collectors.StcnCollector: No module named 'collectors.StcnCollector', 尝试备用名称
+2026-01-29 18:46:58 - 采集流水线 - WARNING - 使用基础采集器
+2026-01-29 18:46:58 - 采集流水线 - WARNING -   ⚠ 未采集到新闻
+2026-01-29 18:47:00 - 采集流水线 - INFO - 采集完成，总共 0 条原始新闻
+2026-01-29 18:50:29 - 采集流水线 - INFO - 新闻采集流水线初始化完成
+2026-01-29 18:50:29 - 采集流水线 - INFO - 开始运行采集器...
+2026-01-29 18:50:29 - 采集流水线 - INFO - 共有 2 个启用的新闻源
+2026-01-29 18:50:29 - 采集流水线 - INFO - 采集: 东方财富网快讯
+2026-01-29 18:50:29 - 采集流水线 - WARNING - 导入失败 collectors.EastMoneyCollector: No module named 'collectors.EastMoneyCollector', 尝试备用名称
+2026-01-29 18:50:29 - 采集流水线 - WARNING - 使用基础采集器
+2026-01-29 18:50:30 - 采集流水线 - INFO -   ✓ 采集到 2 条新闻
+2026-01-29 18:50:32 - 采集流水线 - INFO - 采集: 证券时报快讯
+2026-01-29 18:50:32 - 采集流水线 - WARNING - 导入失败 collectors.StcnCollector: No module named 'collectors.StcnCollector', 尝试备用名称
+2026-01-29 18:50:32 - 采集流水线 - WARNING - 使用基础采集器
+2026-01-29 18:50:33 - 采集流水线 - INFO -   ✓ 采集到 2 条新闻
+2026-01-29 18:50:35 - 采集流水线 - INFO - 采集完成，总共 4 条原始新闻
+2026-01-29 18:51:30 - 采集流水线 - INFO - 新闻采集流水线初始化完成
+2026-01-29 18:51:30 - 采集流水线 - INFO - 开始运行采集器...
+2026-01-29 18:51:30 - 采集流水线 - INFO - 共有 2 个启用的新闻源
+2026-01-29 18:51:30 - 采集流水线 - INFO - 采集: 东方财富网快讯
+2026-01-29 18:51:30 - 采集流水线 - ERROR -   ✗ 采集失败: expected an indented block after class definition on line 3 (eastmoney_collector.py, line 4)
+2026-01-29 18:51:32 - 采集流水线 - INFO - 采集: 证券时报快讯
+2026-01-29 18:51:32 - 采集流水线 - ERROR -   ✗ 采集失败: expected an indented block after class definition on line 3 (eastmoney_collector.py, line 4)
+2026-01-29 18:51:34 - 采集流水线 - INFO - 采集完成，总共 0 条原始新闻
