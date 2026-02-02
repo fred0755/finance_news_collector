@@ -1,188 +1,343 @@
-"""
-东方财富快讯 (kuaixun.eastmoney.com) 采集器 - 动态页面版本
-使用 requests-html 处理JavaScript渲染
-"""
-import logging
+import requests
+import json
+import time
 from datetime import datetime
 from typing import List, Dict, Optional
-from requests_html import HTMLSession, AsyncHTMLSession
+import hashlib
 
-# 配置日志
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
 
 class EastMoneyCollector:
-    """东方财富快讯采集器（动态页面版本）"""
+    """东方财富快讯采集器（使用真实API）"""
 
-    LIST_URL = 'https://kuaixun.eastmoney.com/'
+    def __init__(self):
+        # 您找到的真实API地址
+        self.base_url = "https://np-weblist.eastmoney.com/comm/web/getFastNewsList"
 
-    def __init__(self, use_async=False):
-        """
-        初始化采集器
-        :param use_async: 是否使用异步模式（更快但更复杂）
-        """
-        self.use_async = use_async
-        if use_async:
-            self.session = AsyncHTMLSession()
-        else:
-            self.session = HTMLSession()
-
-        # 设置请求头，模拟浏览器
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Referer': 'https://kuaixun.eastmoney.com/',
+            'Accept': '*/*',
             'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-            'Referer': 'https://www.eastmoney.com/',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
         }
 
-    async def fetch_html_async(self, url: str = None) -> Optional[str]:
-        """异步获取页面（包含JavaScript渲染）"""
-        target_url = url or self.LIST_URL
+        # 根据您截图中的参数构建
+        self.base_params = {
+            'client': 'web',
+            'biz': 'web_724',
+            'fastColumn': '102',  # 快讯栏目ID
+            'pageSize': 20,  # 每页条数
+            'sortEnd': int(time.time() * 1000000),  # 微秒时间戳
+            'req_trace': int(time.time() * 1000),  # 毫秒时间戳
+            '_': int(time.time() * 1000),
+            'callback': f'jQuery_{int(time.time() * 1000)}'
+        }
+
+    def fetch_news(self, page_size: int = 20) -> Optional[List[Dict]]:
+        """
+        获取东方财富快讯新闻
+
+        Args:
+            page_size: 每页数量
+
+        Returns:
+            结构化的新闻列表
+        """
         try:
-            logger.info(f"异步抓取（含JS渲染）: {target_url}")
-            response = await self.session.get(target_url, headers=self.headers, timeout=30)
-            # 等待JavaScript执行，渲染页面
-            await response.html.arender(timeout=30, sleep=2)
-            return response.html.html
+            # 更新参数
+            params = self.base_params.copy()
+            params['pageSize'] = page_size
+            params['sortEnd'] = int(time.time() * 1000000)
+            params['_'] = int(time.time() * 1000)
+            params['callback'] = f'jQuery_{int(time.time() * 1000)}'
+
+            print(f"正在抓取快讯，每页 {page_size} 条...")
+            print(f"API URL: {self.base_url}")
+
+            response = requests.get(
+                self.base_url,
+                params=params,
+                headers=self.headers,
+                timeout=15
+            )
+
+            response.raise_for_status()
+            print(f"HTTP状态码: {response.status_code}")
+
+            # 处理JSONP响应
+            raw_text = response.text
+            print(f"原始响应长度: {len(raw_text)} 字符")
+
+            # 提取JSON部分（JSONP格式：callback({...})）
+            json_start = raw_text.find('(')
+            json_end = raw_text.rfind(')')
+
+            if json_start != -1 and json_end != -1:
+                json_str = raw_text[json_start + 1:json_end]
+                data = json.loads(json_str)
+                print(f"成功解析JSON数据")
+
+                # 解析新闻数据
+                news_list = self._parse_news_data(data)
+                return news_list
+            else:
+                print(f"响应不是有效的JSONP格式")
+                print(f"响应预览: {raw_text[:200]}...")
+                return None
+
+        except requests.exceptions.RequestException as e:
+            print(f"网络请求失败: {e}")
+            return None
+        except json.JSONDecodeError as e:
+            print(f"JSON解析失败: {e}")
+            print(f"原始响应: {raw_text[:500]}...")
+            return None
         except Exception as e:
-            logger.error(f"异步抓取失败: {e}")
+            print(f"未知错误: {e}")
+            import traceback
+            traceback.print_exc()
             return None
 
-    def fetch_html_sync(self, url: str = None) -> Optional[str]:
-        """同步获取页面（包含JavaScript渲染）"""
-        target_url = url or self.LIST_URL
+    def _parse_news_data(self, data: Dict) -> List[Dict]:
+        """
+        解析API返回的新闻数据
+
+        根据东方财富API的实际数据结构进行解析
+        """
+        news_items = []
+
+        print(f"API返回数据键名: {list(data.keys())}")
+
+        # 根据常见的API结构查找新闻数据
+        # 可能的数据结构：data字段、result字段或直接是数组
+        if isinstance(data, dict):
+            # 尝试不同的数据位置
+            data_locations = ['data', 'result', 'list', 'news']
+
+            news_data = None
+            for location in data_locations:
+                if location in data:
+                    news_data = data[location]
+                    print(f"找到新闻数据在 '{location}' 字段")
+                    break
+
+            # 如果没找到特定字段，尝试data本身
+            if news_data is None:
+                news_data = data
+        elif isinstance(data, list):
+            news_data = data
+            print(f"API直接返回列表，长度: {len(news_data)}")
+        else:
+            print(f"未知的数据类型: {type(data)}")
+            return news_items
+
+        # 处理新闻数据
+        if isinstance(news_data, list):
+            print(f"开始解析 {len(news_data)} 条新闻...")
+
+            for i, item in enumerate(news_data):
+                try:
+                    # 解析单条新闻
+                    news_item = self._parse_single_news(item)
+                    if news_item and news_item.get('title'):
+                        news_items.append(news_item)
+
+                        # 只显示前3条作为示例
+                        if i < 3:
+                            print(f"  示例{i + 1}: {news_item['title'][:50]}...")
+
+                except Exception as e:
+                    print(f"解析第{i + 1}条新闻失败: {e}")
+                    continue
+
+        elif isinstance(news_data, dict):
+            # 如果是字典，可能包含分页信息
+            print(f"新闻数据是字典，键名: {list(news_data.keys())}")
+
+            # 尝试在字典中查找列表
+            for key, value in news_data.items():
+                if isinstance(value, list):
+                    print(f"在 '{key}' 中找到列表数据，长度: {len(value)}")
+                    news_items.extend([self._parse_single_news(item) for item in value[:10]])
+                    break
+        else:
+            print(f"无法处理的新闻数据类型: {type(news_data)}")
+
+        return news_items
+
+    def _parse_single_news(self, item) -> Dict:
+        """解析单条新闻"""
         try:
-            logger.info(f"同步抓取（含JS渲染）: {target_url}")
-            response = self.session.get(target_url, headers=self.headers, timeout=30)
-            # 等待JavaScript执行，渲染页面
-            response.html.render(timeout=30, sleep=2)
-            return response.html.html
+            # 为新闻生成唯一ID
+            news_id = hashlib.md5(str(item).encode()).hexdigest()[:16]
+
+            # 根据常见的字段名提取信息
+            news_item = {
+                'id': news_id,
+                'raw_data': item  # 保存原始数据用于调试
+            }
+
+            # 尝试提取标准字段（根据东方财富的实际字段名）
+            field_mapping = {
+                'title': ['title', 'Title', 'tit', 'newstitle'],
+                'content': ['content', 'Content', 'body', 'newscontent', 'digest'],
+                'time': ['time', 'Time', 'publish_time', 'showtime', 'ctime', 'timestamp'],
+                'source': ['source', 'Source', 'media', 'author'],
+                'url': ['url', 'Url', 'link', 'newsurl'],
+                'category': ['category', 'Category', 'type', 'column'],
+                'importance': ['importance', 'level', 'rank', 'hot']
+            }
+
+            # 自动匹配字段
+            if isinstance(item, dict):
+                for field_name, possible_keys in field_mapping.items():
+                    for key in possible_keys:
+                        if key in item and item[key] is not None:
+                            news_item[field_name] = str(item[key])
+                            break
+                    if field_name not in news_item:
+                        news_item[field_name] = ''
+
+            # 确保必要字段
+            news_item.setdefault('title', '')
+            news_item.setdefault('content', '')
+            news_item.setdefault('time', datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+            news_item.setdefault('source', '东方财富')
+            news_item.setdefault('url', '')
+            news_item.setdefault('category', '')
+            news_item.setdefault('importance', 0)
+
+            # 清理数据
+            news_item['title'] = news_item['title'].strip()
+            news_item['content'] = news_item['content'].strip()
+
+            # 生成摘要（如果没有内容则用标题）
+            if not news_item['content'] and news_item['title']:
+                news_item['content'] = news_item['title']
+
+            return news_item
+
         except Exception as e:
-            logger.error(f"同步抓取失败: {e}")
-            return None
+            print(f"解析单条新闻异常: {e}")
+            return {'title': '解析失败', 'content': str(item)[:100]}
 
-    def parse_list(self, html: str) -> List[Dict]:
-        """解析渲染后的HTML页面"""
-        if not html:
-            logger.warning("HTML内容为空，无法解析")
-            return []
+    def test_collection(self):
+        """测试采集功能"""
+        print("=" * 60)
+        print("东方财富快讯采集器测试（使用真实API）")
+        print("=" * 60)
 
-        from bs4 import BeautifulSoup
-        soup = BeautifulSoup(html, 'html.parser')
-        news_list = []
+        # 尝试抓取不同数量的新闻进行测试
+        for page_size in [5, 10, 20]:
+            print(f"\n尝试抓取 {page_size} 条新闻...")
+            news_list = self.fetch_news(page_size=page_size)
 
-        # 使用您之前提供的精确选择器
-        news_elements = soup.select('div.news_item')
+            if news_list:
+                print(f"✅ 成功采集到 {len(news_list)} 条新闻!")
+                print("-" * 50)
 
-        if not news_elements:
-            # 尝试其他可能的选择器
-            news_elements = soup.select('[class*="news"]')
-            logger.warning(f"主选择器未找到，尝试备用选择器找到 {len(news_elements)} 个元素")
+                # 显示所有新闻标题
+                for i, news in enumerate(news_list[:10], 1):
+                    time_str = news.get('time', 'N/A')
+                    title = news.get('title', '无标题')[:60]
+                    source = news.get('source', 'N/A')
+                    print(f"{i:2d}. [{time_str}] {title}... (来源: {source})")
 
-            # 如果还是找不到，保存HTML用于调试
-            if not news_elements:
-                with open('rendered_page.html', 'w', encoding='utf-8') as f:
-                    f.write(html[:20000])
-                logger.error("未找到新闻元素，已将渲染后页面保存到 rendered_page.html")
-                return []
+                if len(news_list) > 10:
+                    print(f"... 还有 {len(news_list) - 10} 条未显示")
 
-        logger.info(f"找到 {len(news_elements)} 个新闻条目")
+                # 保存详细数据用于分析
+                self._save_debug_data(news_list)
 
-        for item in news_elements[:20]:  # 限制处理前20条
-            try:
-                # 1. 提取标题
-                title_elem = item.select_one('span.news_detail_text')
-                title = title_elem.get_text(strip=True) if title_elem else ''
+                # 验证数据质量
+                self._validate_data(news_list)
+                return True
+            else:
+                print(f"❌ 采集 {page_size} 条失败，尝试调整参数...")
 
-                # 备用标题提取
-                if not title:
-                    link_elem = item.select_one('a.news_detail_link')
-                    if link_elem:
-                        title = link_elem.get_text(strip=True).replace('[点击查看全文]', '').strip()
+        print("\n所有尝试均失败，请检查网络或API参数")
+        return False
 
-                if not title:
-                    continue  # 跳过无标题的条目
+    def _save_debug_data(self, news_list):
+        """保存调试数据"""
+        if news_list:
+            # 保存第一条新闻的完整数据
+            debug_data = {
+                'total_count': len(news_list),
+                'sample_news': news_list[0] if news_list else {},
+                'all_titles': [news.get('title', '') for news in news_list]
+            }
 
-                # 2. 提取链接
-                link_elem = item.select_one('a.news_detail_link')
-                url = link_elem.get('href') if link_elem else ''
+            with open('debug_eastmoney_news.json', 'w', encoding='utf-8') as f:
+                json.dump(debug_data, f, ensure_ascii=False, indent=2)
 
-                # 处理链接格式
-                if url:
-                    if url.startswith('//'):
-                        url = 'https:' + url
-                    elif url.startswith('/'):
-                        url = 'https://finance.eastmoney.com' + url
+            print(f"\n调试数据已保存到: debug_eastmoney_news.json")
 
-                # 3. 提取时间
-                time_elem = item.select_one('div.news_time')
-                publish_time = time_elem.get_text(strip=True) if time_elem else ''
+            # 也保存原始响应用于分析
+            if news_list and 'raw_data' in news_list[0]:
+                with open('debug_raw_response.json', 'w', encoding='utf-8') as f:
+                    json.dump(news_list[0]['raw_data'], f, ensure_ascii=False, indent=2)
+                print(f"原始响应数据已保存到: debug_raw_response.json")
 
-                # 4. 提取相关股票
-                stock_elems = item.select('span.stock_name')
-                related_stocks = [stock.get_text(strip=True) for stock in stock_elems]
+    def _validate_data(self, news_list):
+        """验证数据质量"""
+        print("\n数据质量检查:")
+        print("-" * 30)
 
-                # 5. 构建新闻条目
-                news_item = {
-                    'title': title,
-                    'url': url,
-                    'publish_time': publish_time,
-                    'source': '东方财富快讯',
-                    'collected_at': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-                    'related_stocks': related_stocks
-                }
+        total = len(news_list)
+        if total == 0:
+            print("❌ 没有采集到任何新闻")
+            return
 
-                news_list.append(news_item)
-                logger.debug(f"解析: {publish_time} | {title[:50]}...")
+        # 统计字段完整性
+        fields = ['title', 'content', 'time', 'source']
+        stats = {}
 
-            except Exception as e:
-                logger.warning(f"解析条目时出错: {e}")
-                continue
+        for field in fields:
+            count = sum(1 for news in news_list if news.get(field))
+            stats[field] = count
 
-        logger.info(f"成功解析 {len(news_list)} 条新闻")
-        return news_list
+        print(f"新闻总数: {total}")
+        for field, count in stats.items():
+            percentage = (count / total) * 100
+            status = "✅" if percentage > 80 else "⚠️" if percentage > 50 else "❌"
+            print(f"{status} {field}: {count}/{total} ({percentage:.1f}%)")
 
-    async def run_async(self) -> List[Dict]:
-        """异步运行采集器"""
-        html = await self.fetch_html_async()
-        if html:
-            return self.parse_list(html)
-        return []
+        # 检查标题长度
+        avg_title_len = sum(len(news.get('title', '')) for news in news_list) / total
+        print(f"平均标题长度: {avg_title_len:.1f} 字符")
 
-    def run_sync(self) -> List[Dict]:
-        """同步运行采集器（推荐）"""
-        html = self.fetch_html_sync()
-        if html:
-            return self.parse_list(html)
-        return []
+        if avg_title_len < 5:
+            print("⚠️ 警告: 平均标题长度过短，可能数据解析有误")
 
 
-def test_collector():
-    """测试采集器"""
-    print("=== 测试东方财富快讯采集器（动态页面版） ===")
-
-    # 使用同步版本（更简单）
-    collector = EastMoneyCollector(use_async=False)
-    news = collector.run_sync()
-
-    if news:
-        print(f"\n✅ 成功抓取到 {len(news)} 条新闻：")
-        for i, item in enumerate(news[:5], 1):
-            print(f"{i}. 时间：{item['publish_time']}")
-            print(f"   标题：{item['title'][:60]}...")
-            print(f"   链接：{item['url'][:80]}..." if item['url'] else "   链接：无")
-            if item['related_stocks']:
-                print(f"   相关股票：{', '.join(item['related_stocks'])}")
-            print(f"   来源：{item['source']}")
-            print(f"   采集于：{item['collected_at']}")
-            print("-" * 70)
-    else:
-        print("\n❌ 未能抓取到任何新闻。可能原因：")
-        print("   1. 网络问题或超时")
-        print("   2. 页面结构已大幅变更")
-        print("   3. 网站反爬机制")
-        print("\n建议：检查生成的 rendered_page.html 文件查看渲染后页面")
-
-
+# 主函数 - 直接运行测试
 if __name__ == "__main__":
-    test_collector()
+    print("东方财富快讯采集器 v2.0")
+    print("基于真实API: https://np-weblist.eastmoney.com/comm/web/getFastNewsList")
+    print()
+
+    collector = EastMoneyCollector()
+    success = collector.test_collection()
+
+    print("\n" + "=" * 60)
+    if success:
+        print("✅ 采集器测试成功！")
+        print("\n🎉 恭喜！您已成功完成：")
+        print("1. ✅ 找到东方财富真实快讯API")
+        print("2. ✅ 实现可工作的采集器")
+        print("3. ✅ 获取结构化新闻数据")
+
+        print("\n📋 下一步计划（M1.1 完成后的后续步骤）:")
+        print("1. 集成调度器（APScheduler）实现定时采集")
+        print("2. 设计数据库表结构并实现存储")
+        print("3. 添加基础去重功能（URL哈希）")
+        print("4. 创建简单的命令行管理界面")
+    else:
+        print("❌ 采集器测试失败")
+        print("\n🔧 调试建议:")
+        print("1. 检查网络连接")
+        print("2. 检查API参数是否过期")
+        print("3. 查看生成的调试文件分析数据结构")
+        print("4. 尝试在浏览器中直接访问API链接测试")
