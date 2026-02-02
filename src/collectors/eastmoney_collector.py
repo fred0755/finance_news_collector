@@ -1,269 +1,188 @@
-# collectors/eastmoney_collector.py
-from .base_collector import BaseCollector
-class StcnCollector(BaseCollector):
-from bs4 import BeautifulSoup
-import re
-import json
-from datetime import datetime, timedelta
-import time
+"""
+东方财富快讯 (kuaixun.eastmoney.com) 采集器 - 动态页面版本
+使用 requests-html 处理JavaScript渲染
+"""
+import logging
+from datetime import datetime
+from typing import List, Dict, Optional
+from requests_html import HTMLSession, AsyncHTMLSession
 
+# 配置日志
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-class EastMoneyCollector(BaseCollector):
-    """东方财富网快讯采集器 - 增强版"""
+class EastMoneyCollector:
+    """东方财富快讯采集器（动态页面版本）"""
 
-    def 获取网页内容(self) -> str:
-        """重写父类方法，添加更真实的请求头"""
-        import requests
-        from config import 系统配置
+    LIST_URL = 'https://kuaixun.eastmoney.com/'
 
-        # 更真实的请求头
-        请求头 = {
+    def __init__(self, use_async=False):
+        """
+        初始化采集器
+        :param use_async: 是否使用异步模式（更快但更复杂）
+        """
+        self.use_async = use_async
+        if use_async:
+            self.session = AsyncHTMLSession()
+        else:
+            self.session = HTMLSession()
+
+        # 设置请求头，模拟浏览器
+        self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
             'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-            'Accept-Encoding': 'gzip, deflate, br',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1',
-            'Sec-Fetch-Dest': 'document',
-            'Sec-Fetch-Mode': 'navigate',
-            'Sec-Fetch-Site': 'none',
-            'Sec-Fetch-User': '?1',
-            'Cache-Control': 'max-age=0',
-            'Referer': 'https://www.eastmoney.com/'
+            'Referer': 'https://www.eastmoney.com/',
         }
 
+    async def fetch_html_async(self, url: str = None) -> Optional[str]:
+        """异步获取页面（包含JavaScript渲染）"""
+        target_url = url or self.LIST_URL
         try:
-            # 添加随机延迟，避免请求太快
-            time.sleep(1)
-
-            response = requests.get(
-                self.网址,
-                headers=请求头,
-                timeout=系统配置['请求超时'],
-                verify=False  # 忽略SSL证书验证（如果需要）
-            )
-            response.encoding = 'utf-8'
-
-            if response.status_code == 200:
-                self.logger.info(f"成功获取页面，长度: {len(response.text):,} 字符")
-                return response.text
-            else:
-                self.logger.warning(f'HTTP {response.status_code}: {self.网址}')
-                return ''
-
+            logger.info(f"异步抓取（含JS渲染）: {target_url}")
+            response = await self.session.get(target_url, headers=self.headers, timeout=30)
+            # 等待JavaScript执行，渲染页面
+            await response.html.arender(timeout=30, sleep=2)
+            return response.html.html
         except Exception as e:
-            self.logger.error(f'请求失败: {e}')
-            return ''
+            logger.error(f"异步抓取失败: {e}")
+            return None
 
-    def 解析新闻列表(self, html: str):
-        """解析东方财富快讯页面 - 增强版"""
+    def fetch_html_sync(self, url: str = None) -> Optional[str]:
+        """同步获取页面（包含JavaScript渲染）"""
+        target_url = url or self.LIST_URL
         try:
-            soup = BeautifulSoup(html, 'html.parser')
-            新闻列表 = []
-
-            # 方法1：尝试查找特定ID的容器（东方财富快讯常见结构）
-            self.logger.debug("尝试方法1: 查找特定ID容器")
-
-            # 常见的东方财富快讯容器
-            可能容器 = [
-                {'id': 'newsListContent'},  # 常见ID
-                {'class': 'news-list'},  # 常见class
-                {'id': 'livenews-list'},  # 直播新闻列表
-                {'class': 'livenews-media'},  # 直播媒体
-                {'class': 'item-list'},  # 项目列表
-                {'id': 'newsContent'},  # 新闻内容
-            ]
-
-            新闻容器 = None
-            for 选择器 in 可能容器:
-                if 'id' in 选择器:
-                    element = soup.find(id=选择器['id'])
-                else:
-                    element = soup.find(class_=选择器['class'])
-
-                if element:
-                    新闻容器 = element
-                    self.logger.info(f"找到容器: {选择器}")
-                    break
-
-            # 如果没找到特定容器，使用通用方法
-            if not 新闻容器:
-                self.logger.info("未找到特定容器，使用通用解析")
-                新闻容器 = soup
-
-            # 查找所有可能的新闻项
-            新闻项 = 新闻容器.find_all(['div', 'li', 'tr', 'article'])
-
-            if not 新闻项:
-                # 尝试其他选择器
-                新闻项 = 新闻容器.select('.item, .news-item, .list-item, .media-item')
-
-            self.logger.info(f"找到 {len(新闻项)} 个可能的新闻项")
-
-            for i, 项 in enumerate(新闻项[:30]):  # 最多处理30个
-                try:
-                    # 提取标题
-                    标题 = ""
-                    标题元素 = 项.find('a')
-                    if 标题元素:
-                        标题 = 标题元素.get_text(strip=True)
-
-                    # 如果标题太短，可能是导航或无关内容
-                    if len(标题) < 10:
-                        continue
-
-                    # 过滤无关内容
-                    过滤词 = ['首页', '更多', '>>', '查看全部', '返回顶部', '刷新', '展开', '收起']
-                    if any(词 in 标题 for 词 in 过滤词):
-                        continue
-
-                    # 提取链接
-                    链接 = ""
-                    if 标题元素 and 标题元素.get('href'):
-                        链接 = 标题元素.get('href').strip()
-                        if 链接 and not 链接.startswith(('http://', 'https://')):
-                            if 链接.startswith('//'):
-                                链接 = 'https:' + 链接
-                            elif 链接.startswith('/'):
-                                链接 = 'https://kuaixun.eastmoney.com' + 链接
-
-                    # 提取时间
-                    时间 = ""
-                    时间元素 = 项.find('span', class_=re.compile(r'time|date|pub'))
-                    if not 时间元素:
-                        时间元素 = 项.find('em') or 项.find('time') or 项.find('i', class_=re.compile(r'time|date'))
-
-                    if 时间元素:
-                        时间 = 时间元素.get_text(strip=True)
-
-                    # 如果没找到时间，使用当前时间
-                    if not 时间:
-                        当前 = datetime.now()
-                        时间 = 当前.strftime('%H:%M:%S')
-
-                    # 处理时间格式（如果只有时间，补充日期）
-                    if len(时间) < 6 and ':' in 时间:
-                        today = datetime.now().strftime('%Y-%m-%d ')
-                        时间 = today + 时间
-
-                    # 提取内容摘要
-                    内容 = ""
-                    内容元素 = 项.find('p', class_=re.compile(r'content|summary|text|desc|abstract'))
-                    if not 内容元素:
-                        内容元素 = 项.find('div', class_=re.compile(r'content|summary|text|desc|abstract'))
-
-                    if 内容元素:
-                        内容 = 内容元素.get_text(strip=True)
-
-                    # 如果内容太长，截断
-                    if len(内容) > 200:
-                        内容 = 内容[:200] + "..."
-
-                    self.logger.debug(f"解析到新闻: {标题[:30]}...")
-
-                    新闻列表.append({
-                        'title': 标题,
-                        'url': 链接,
-                        'publish_time': 时间,
-                        'content': 内容,
-                        'source': '东方财富',
-                        'raw_html': str(项)[:200]  # 保存原始HTML片段用于调试
-                    })
-
-                except Exception as e:
-                    self.logger.debug(f'解析第{i + 1}个新闻项失败: {e}')
-                    continue
-
-            # 如果没解析到新闻，尝试备用方法
-            if len(新闻列表) < 3:
-                self.logger.info("尝试备用方法：搜索所有包含'快讯'的链接")
-
-                # 查找所有链接
-                all_links = soup.find_all('a', href=True)
-                for link in all_links[:50]:
-                    title = link.get_text(strip=True)
-
-                    # 筛选条件
-                    if len(title) >= 15:
-                        # 包含关键词或看起来像新闻标题
-                        keywords = ['快讯', '突发', '：', ':', '今日', '最新', '重磅', '紧急']
-                        if any(kw in title for kw in keywords) or '：' in title:
-
-                            链接 = link.get('href', '').strip()
-                            if 链接 and not 链接.startswith(('http://', 'https://')):
-                                if 链接.startswith('//'):
-                                    链接 = 'https:' + 链接
-                                elif 链接.startswith('/'):
-                                    链接 = 'https://kuaixun.eastmoney.com' + 链接
-
-                            # 尝试在父元素中找时间
-                            时间 = ""
-                            父元素 = link.parent
-                            if 父元素:
-                                时间元素 = 父元素.find('span') or 父元素.find('em') or 父元素.find('time')
-                                if 时间元素:
-                                    时间 = 时间元素.get_text(strip=True)
-
-                            if not 时间:
-                                时间 = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-
-                            新闻列表.append({
-                                'title': title,
-                                'url': 链接,
-                                'publish_time': 时间,
-                                'content': '',
-                                'source': '东方财富'
-                            })
-
-            self.logger.info(f"总共解析到 {len(新闻列表)} 条新闻")
-
-            # 如果还是没有数据，使用模拟数据
-            if not 新闻列表:
-                self.logger.warning("未解析到任何新闻，使用模拟数据")
-                return self.生成模拟数据()
-
-            # 去重：基于标题的简单去重
-            去重后 = []
-            已出现标题 = set()
-            for 新闻 in 新闻列表:
-                标题 = 新闻['title']
-                # 标题标准化（去掉多余空格）
-                标准化标题 = re.sub(r'\s+', ' ', 标题).strip()
-                if 标准化标题 not in 已出现标题:
-                    已出现标题.add(标准化标题)
-                    去重后.append(新闻)
-
-            self.logger.info(f"去重后剩余 {len(去重后)} 条新闻")
-            return 去重后[:15]  # 最多返回15条
-
+            logger.info(f"同步抓取（含JS渲染）: {target_url}")
+            response = self.session.get(target_url, headers=self.headers, timeout=30)
+            # 等待JavaScript执行，渲染页面
+            response.html.render(timeout=30, sleep=2)
+            return response.html.html
         except Exception as e:
-            self.logger.error(f'解析页面失败: {e}', exc_info=True)
-            # 失败时返回模拟数据
-            return self.生成模拟数据()
+            logger.error(f"同步抓取失败: {e}")
+            return None
 
-    def 生成模拟数据(self):
-        """生成更真实的模拟数据"""
-        当前时间 = datetime.now()
+    def parse_list(self, html: str) -> List[Dict]:
+        """解析渲染后的HTML页面"""
+        if not html:
+            logger.warning("HTML内容为空，无法解析")
+            return []
 
-        模拟新闻 = [
-            {
-                'title': f'东方财富快讯：测试新闻1 - 当前时间{当前时间.strftime("%H:%M:%S")}',
-                'content': f'这是来自东方财富的测试内容1，用于验证采集系统。当前时间：{当前时间.strftime("%Y-%m-%d %H:%M:%S")}',
-                'url': f'{self.网址}#test1',
-                'publish_time': 当前时间.strftime('%Y-%m-%d %H:%M:%S')
-            },
-            {
-                'title': f'东方财富快讯：测试新闻2 - 当前时间{当前时间.strftime("%H:%M:%S")}',
-                'content': f'这是来自东方财富的测试内容2，用于验证采集系统。当前时间：{当前时间.strftime("%Y-%m-%d %H:%M:%S")}',
-                'url': f'{self.网址}#test2',
-                'publish_time': (当前时间 - timedelta(minutes=5)).strftime('%Y-%m-%d %H:%M:%S')
-            },
-            {
-                'title': f'东方财富快讯：测试新闻3 - 当前时间{当前时间.strftime("%H:%M:%S")}',
-                'content': f'这是来自东方财富的测试内容3，用于验证采集系统。当前时间：{当前时间.strftime("%Y-%m-%d %H:%M:%S")}',
-                'url': f'{self.网址}#test3',
-                'publish_time': (当前时间 - timedelta(minutes=10)).strftime('%Y-%m-%d %H:%M:%S')
-            }
-        ]
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(html, 'html.parser')
+        news_list = []
 
-        return [self.标准化新闻格式(新闻) for 新闻 in 模拟新闻]
+        # 使用您之前提供的精确选择器
+        news_elements = soup.select('div.news_item')
+
+        if not news_elements:
+            # 尝试其他可能的选择器
+            news_elements = soup.select('[class*="news"]')
+            logger.warning(f"主选择器未找到，尝试备用选择器找到 {len(news_elements)} 个元素")
+
+            # 如果还是找不到，保存HTML用于调试
+            if not news_elements:
+                with open('rendered_page.html', 'w', encoding='utf-8') as f:
+                    f.write(html[:20000])
+                logger.error("未找到新闻元素，已将渲染后页面保存到 rendered_page.html")
+                return []
+
+        logger.info(f"找到 {len(news_elements)} 个新闻条目")
+
+        for item in news_elements[:20]:  # 限制处理前20条
+            try:
+                # 1. 提取标题
+                title_elem = item.select_one('span.news_detail_text')
+                title = title_elem.get_text(strip=True) if title_elem else ''
+
+                # 备用标题提取
+                if not title:
+                    link_elem = item.select_one('a.news_detail_link')
+                    if link_elem:
+                        title = link_elem.get_text(strip=True).replace('[点击查看全文]', '').strip()
+
+                if not title:
+                    continue  # 跳过无标题的条目
+
+                # 2. 提取链接
+                link_elem = item.select_one('a.news_detail_link')
+                url = link_elem.get('href') if link_elem else ''
+
+                # 处理链接格式
+                if url:
+                    if url.startswith('//'):
+                        url = 'https:' + url
+                    elif url.startswith('/'):
+                        url = 'https://finance.eastmoney.com' + url
+
+                # 3. 提取时间
+                time_elem = item.select_one('div.news_time')
+                publish_time = time_elem.get_text(strip=True) if time_elem else ''
+
+                # 4. 提取相关股票
+                stock_elems = item.select('span.stock_name')
+                related_stocks = [stock.get_text(strip=True) for stock in stock_elems]
+
+                # 5. 构建新闻条目
+                news_item = {
+                    'title': title,
+                    'url': url,
+                    'publish_time': publish_time,
+                    'source': '东方财富快讯',
+                    'collected_at': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                    'related_stocks': related_stocks
+                }
+
+                news_list.append(news_item)
+                logger.debug(f"解析: {publish_time} | {title[:50]}...")
+
+            except Exception as e:
+                logger.warning(f"解析条目时出错: {e}")
+                continue
+
+        logger.info(f"成功解析 {len(news_list)} 条新闻")
+        return news_list
+
+    async def run_async(self) -> List[Dict]:
+        """异步运行采集器"""
+        html = await self.fetch_html_async()
+        if html:
+            return self.parse_list(html)
+        return []
+
+    def run_sync(self) -> List[Dict]:
+        """同步运行采集器（推荐）"""
+        html = self.fetch_html_sync()
+        if html:
+            return self.parse_list(html)
+        return []
+
+
+def test_collector():
+    """测试采集器"""
+    print("=== 测试东方财富快讯采集器（动态页面版） ===")
+
+    # 使用同步版本（更简单）
+    collector = EastMoneyCollector(use_async=False)
+    news = collector.run_sync()
+
+    if news:
+        print(f"\n✅ 成功抓取到 {len(news)} 条新闻：")
+        for i, item in enumerate(news[:5], 1):
+            print(f"{i}. 时间：{item['publish_time']}")
+            print(f"   标题：{item['title'][:60]}...")
+            print(f"   链接：{item['url'][:80]}..." if item['url'] else "   链接：无")
+            if item['related_stocks']:
+                print(f"   相关股票：{', '.join(item['related_stocks'])}")
+            print(f"   来源：{item['source']}")
+            print(f"   采集于：{item['collected_at']}")
+            print("-" * 70)
+    else:
+        print("\n❌ 未能抓取到任何新闻。可能原因：")
+        print("   1. 网络问题或超时")
+        print("   2. 页面结构已大幅变更")
+        print("   3. 网站反爬机制")
+        print("\n建议：检查生成的 rendered_page.html 文件查看渲染后页面")
+
+
+if __name__ == "__main__":
+    test_collector()
