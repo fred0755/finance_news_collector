@@ -1,14 +1,20 @@
+# src/scheduler/news_scheduler.py 文件开头部分
+
 from apscheduler.schedulers.blocking import BlockingScheduler
 from datetime import datetime
 import logging
 import sys
 import os
 
-# 添加项目根目录到Python路径，以便导入collectors模块
+# ============ 1. 路径配置 ============
+# 添加项目根目录到Python路径，以便导入其他模块
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+# ============ 2. 导入模块 ============
 from collectors.eastmoney_collector import EastMoneyCollector
+from storage.news_storage import get_storage  # 确保这行存在
 
+# ============ 3. 日志配置（必须在函数外部！）============
 # 配置日志
 logging.basicConfig(
     level=logging.INFO,
@@ -18,14 +24,16 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__)  # 这行定义了logger变量！
+# ========================================================
 
-
+# ============ 4. 采集任务函数 ============
 def collect_eastmoney_news():
     """定时采集任务"""
     try:
-        logger.info("=" * 50)
+        logger.info("=" * 50)  # 这里开始使用logger
         logger.info("开始执行东方财富快讯采集任务...")
+        # ... 函数其余部分保持不变
 
         collector = EastMoneyCollector()
         # 每次采集20条最新快讯
@@ -38,8 +46,16 @@ def collect_eastmoney_news():
             for i, news in enumerate(news_list[:3]):
                 logger.info(f"  示例{i + 1}: [{news.get('time', 'N/A')}] {news.get('title', '无标题')[:60]}...")
 
-            # TODO: 这里后续会添加存储到数据库的逻辑
-            logger.info(f"📊 数据待存储到数据库（M1.3实现）")
+            # ============ 新增：保存到数据库 ============
+            try:
+                storage = get_storage()
+                stats = storage.save_news_batch(news_list)
+                logger.info(f"💾 数据存储完成: 新增 {stats['saved']} 条, 跳过 {stats['duplicates']} 条重复数据")
+                logger.info(f"📊 数据库总计: {storage.get_news_count()} 条新闻")
+            except Exception as storage_error:
+                logger.error(f"❌ 数据存储失败: {storage_error}")
+            # ==========================================
+
         else:
             logger.warning("⚠️ 采集失败或无新数据")
 

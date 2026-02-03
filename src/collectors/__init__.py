@@ -1,19 +1,6 @@
-# collectors/__init__.py
-from .base_collector import BaseCollector
+# src/collectors/__init__.py
 from .eastmoney_collector import EastMoneyCollector
-from .stcn_collector import StcnCollector
 
-__all__ = ['BaseCollector', 'EastMoneyCollector', 'StcnCollector', 'SinaCollector']
-
-# 尝试导入其他采集器
-try:
-    from .sina_collector import SinaCollector
-except ImportError:
-    # 如果文件不存在，创建一个简单的替代类
-    class SinaCollector(BaseCollector):
-        def __init__(self, **kwargs):
-            super().__init__(**kwargs)
-            self.source_name = "新浪财经"
-
-        def fetch_news_list(self):
-            return []
+# 注释掉或删除其他尚未完成的采集器导入
+# from .stcn_collector import StcnCollector
+# from .其他采集器 import ...
