@@ -7,10 +7,10 @@ DINGTALK_CONFIG = {
     "secret": "SECfc699d2056a92e6a8594b836e916bd0df8af8b774ba5424a508349896ab42ee2",
 
     # 推送配置
-    "msg_type": "markdown",  # 使用Markdown格式，支持富文本
+    "msg_type": "markdown",  # 使用Markdown格式
     "importance_threshold": 7,  # 重要性阈值：>=7分的新闻才推送
     "at_all": False,  # 是否@所有人
-    "keywords": ["财经快讯"],  # 钉钉要求的关键词（消息中需包含）
+    "keywords": ["财经快讯"],  # 钉钉要求的关键词
 
     # 情感倾向表情映射
     "sentiment_emoji": {
