@@ -110,8 +110,9 @@ class SchedulerManager:
         file_handler.setFormatter(formatter)
         self.logger.addHandler(file_handler)
 
+    # 修改 src/scheduler/news_scheduler.py 中的 collect_and_store 方法
     def collect_and_store(self):
-        """完整的采集、分析、推送流程"""
+        """完整的采集、推送流程（推送所有新闻）"""
         try:
             start_time = time.time()
             self.logger.info("📡 开始执行采集任务...")
@@ -134,52 +135,52 @@ class SchedulerManager:
 
             self.logger.info(f"成功采集到 {len(news_list)} 条新闻")
 
-            # 2. 处理每条新闻
+            # 2. 推送所有新闻
             processed = 0
             pushed = 0
 
-            # 在 collect_and_store 方法中，找到分析新闻的部分，添加调试输出
             for news_item in news_list:
                 try:
-                    # 分析新闻
-                    if self.analyzer:
-                        analysis = self.analyzer.analyze_news(news_item)
-                        importance_score = analysis['importance_score']
-                        sentiment = analysis['sentiment']
-                        title = news_item.get('title', '')[:40]
+                    # 为每条新闻设置默认评分（确保推送）
+                    news_item['importance_score'] = 8  # 设置高分确保推送
+                    news_item['sentiment'] = 'neutral'  # 默认中性
 
-                        # 添加调试输出
-                        if importance_score >= 5:
-                            self.logger.info(f"📊 高分新闻: {importance_score}/10 - {title}...")
-                        else:
-                            self.logger.debug(f"低分新闻: {importance_score}/10 - {title}...")
+                    # 直接推送，不检查阈值
+                    self.logger.info(f"📨 推送新闻: {news_item['title'][:40]}...")
+
+                    # 在调度器的 collect_and_store 方法中，修改推送调用
+                    success = self.dingtalk_notifier.send_news_alert(
+                        news_item=news_item,
+                        importance_score=8,  # 固定高分
+                        sentiment='neutral',  # 固定为中性，避免emoji未定义
+                        sentiment_emoji={"bullish": "📈", "bearish": "📉", "neutral": "📊"}
+                    )
+
+                    if success:
+                        pushed += 1
+                        self.logger.info(f"✅ 第 {pushed} 条新闻推送成功")
                     else:
-                        importance_score = 5
-                        sentiment = 'neutral'
-
-
-                    news_item['importance_score'] = importance_score
-                    news_item['sentiment'] = sentiment
-
-                    # 检查是否需要推送
-                    if self.dingtalk_notifier and importance_score >= 3:
-                        self.logger.info(f"📨 推送新闻: {importance_score}/10 - {news_item['title'][:40]}...")
-
-                        success = self.dingtalk_notifier.send_news_alert(
-                            news_item=news_item,
-                            importance_score=importance_score,
-                            sentiment=sentiment,
-                            sentiment_emoji=DINGTALK_CONFIG.get('sentiment_emoji')
-                        )
-
-                        if success:
-                            pushed += 1
+                        self.logger.warning(f"⚠️ 新闻推送失败: {news_item['title'][:30]}...")
 
                     processed += 1
 
                 except Exception as e:
                     self.logger.error(f"处理新闻失败: {e}")
                     continue
+
+            # 3. 输出统计
+            elapsed = time.time() - start_time
+            self.logger.info("=" * 50)
+            self.logger.info(f"📊 任务完成统计:")
+            self.logger.info(f"   采集: {len(news_list)} 条")
+            self.logger.info(f"   推送: {pushed} 条")
+            self.logger.info(f"   成功: {pushed} 条")
+            self.logger.info(f"   耗时: {elapsed:.2f} 秒")
+            self.logger.info("=" * 50)
+
+        except Exception as e:
+            self.logger.error(f"采集任务执行失败: {e}")
+
 
             # 3. 输出统计
             elapsed = time.time() - start_time

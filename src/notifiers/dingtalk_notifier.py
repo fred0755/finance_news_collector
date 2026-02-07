@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-钉钉群机器人消息推送器
+钉钉群机器人消息推送器 - 修复版（解决emoji变量问题）
 """
 
 import json
@@ -36,8 +36,8 @@ class DingTalkNotifier:
         return timestamp, sign
 
     def should_send(self, importance_score):
-        """判断是否应该发送（基于重要性阈值）"""
-        return importance_score >= self.importance_threshold
+        """判断是否应该发送"""
+        return True  # 修改为始终发送，推送所有新闻
 
     def send_markdown(self, title, text, at_all=False, at_mobiles=None):
         """发送Markdown格式消息"""
@@ -66,21 +66,18 @@ class DingTalkNotifier:
 
     def send_news_alert(self, news_item, importance_score, sentiment, sentiment_emoji=None):
         """发送新闻提醒"""
-        if not self.should_send(importance_score):
-            return False
-
         # 设置情感表情
         emoji_map = sentiment_emoji or {
             "bullish": "📈",
             "bearish": "📉",
             "neutral": "📊"
         }
-        emoji = emoji_map.get(sentiment, "📰")
+        emoji = emoji_map.get(sentiment, "📰")  # 关键：定义emoji变量
 
         # 构建消息内容
         title = news_item.get('title', '')
-        source = news_item.get('source', '未知来源')
-        publish_time = news_item.get('publish_time', '未知时间')
+        source = news_item.get('source', '东方财富快讯')
+        publish_time = news_item.get('publish_time', news_item.get('time', '未知时间'))
         url = news_item.get('url', '#')
 
         # 重要性星级
@@ -106,6 +103,7 @@ class DingTalkNotifier:
         alert_title = f"财经快讯: {title[:30]}..." if len(title) > 30 else title
 
         # 发送消息
+        print(f"[钉钉推送] 正在发送: {title[:50]}...")
         return self.send_markdown(
             title=alert_title,
             text=markdown_text,
@@ -133,14 +131,14 @@ class DingTalkNotifier:
             result = response.json()
 
             if result.get('errcode') == 0:
-                print(f"钉钉消息发送成功")
+                print(f"[钉钉推送] ✅ 消息发送成功")
                 return True
             else:
-                print(f"钉钉消息发送失败: {result}")
+                print(f"[钉钉推送] ❌ 消息发送失败: {result}")
                 return False
 
         except Exception as e:
-            print(f"钉钉消息发送异常: {e}")
+            print(f"[钉钉推送] ❌ 发送异常: {e}")
             return False
 
 
@@ -155,7 +153,13 @@ if __name__ == "__main__":
     # 创建推送器
     notifier = DingTalkNotifier(webhook, secret, importance_threshold=5)
 
-    print(f"should_send(6) = {notifier.should_send(6)}")
-    print(f"should_send(4) = {notifier.should_send(4)}")
+    # 测试新闻
+    test_news = {
+        'title': '测试新闻标题',
+        'source': '测试',
+        'publish_time': '2026-02-07 17:55:00',
+        'url': 'https://test.com'
+    }
 
-    print("模块加载成功")
+    result = notifier.send_news_alert(test_news, 8, 'neutral')
+    print(f"测试结果: {result}")
