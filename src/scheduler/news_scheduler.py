@@ -204,7 +204,7 @@ class SchedulerManager:
 def main():
     parser = argparse.ArgumentParser(description='财经新闻采集调度器')
     parser.add_argument('--test', action='store_true', help='测试模式')
-    parser.add_argument('--interval', type=int, default=30, help='采集间隔（分钟）')
+    parser.add_argument('--interval', type=int, default=1, help='采集间隔（分钟）')
     args = parser.parse_args()
 
     print("\n" + "=" * 60)
