@@ -70,3 +70,125 @@
 2026-02-06 18:34:20 - INFO -    推送: 0 条
 2026-02-06 18:34:20 - INFO -    耗时: 0.57 秒
 2026-02-06 18:34:20 - INFO - ========================================
+2026-02-07 17:02:02 - INFO - ==================================================
+2026-02-07 17:02:02 - INFO - 初始化财经新闻采集调度器
+2026-02-07 17:02:02 - INFO - 项目根目录: C:\Users\xiefe\PycharmProjects\finance_news_collector
+2026-02-07 17:02:02 - INFO - ==================================================
+2026-02-07 17:04:15 - NewsScheduler - ERROR - ❌ 模块加载失败，调度器无法正常工作
+2026-02-07 17:04:15 - NewsScheduler - INFO - 📡 开始执行采集任务...
+2026-02-07 17:04:16 - NewsScheduler - INFO - 成功采集到 10 条新闻
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:04:16 - NewsScheduler - INFO - ========================================
+2026-02-07 17:04:16 - NewsScheduler - INFO - 📊 任务完成统计:
+2026-02-07 17:04:16 - NewsScheduler - INFO -    采集: 10 条
+2026-02-07 17:04:16 - NewsScheduler - INFO -    处理: 0 条
+2026-02-07 17:04:16 - NewsScheduler - INFO -    推送: 0 条
+2026-02-07 17:04:16 - NewsScheduler - INFO -    耗时: 0.58 秒
+2026-02-07 17:04:16 - NewsScheduler - INFO - ========================================
+2026-02-07 17:07:06 - NewsScheduler - ERROR - ❌ 模块加载失败，调度器无法正常工作
+2026-02-07 17:07:06 - NewsScheduler - INFO - 📡 开始执行采集任务...
+2026-02-07 17:07:06 - NewsScheduler - INFO - 成功采集到 10 条新闻
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:07:06 - NewsScheduler - INFO - ========================================
+2026-02-07 17:07:06 - NewsScheduler - INFO - 📊 任务完成统计:
+2026-02-07 17:07:06 - NewsScheduler - INFO -    采集: 10 条
+2026-02-07 17:07:06 - NewsScheduler - INFO -    处理: 0 条
+2026-02-07 17:07:06 - NewsScheduler - INFO -    推送: 0 条
+2026-02-07 17:07:06 - NewsScheduler - INFO -    耗时: 0.58 秒
+2026-02-07 17:07:06 - NewsScheduler - INFO - ========================================
+2026-02-07 17:08:11 - NewsScheduler - ERROR - ❌ 模块加载失败，调度器无法正常工作
+2026-02-07 17:08:11 - NewsScheduler - INFO - 📡 开始执行采集任务...
+2026-02-07 17:08:11 - NewsScheduler - INFO - 成功采集到 10 条新闻
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - ERROR - 处理新闻失败: 'SchedulerManager' object has no attribute 'analyzer'
+2026-02-07 17:08:11 - NewsScheduler - INFO - ========================================
+2026-02-07 17:08:11 - NewsScheduler - INFO - 📊 任务完成统计:
+2026-02-07 17:08:11 - NewsScheduler - INFO -    采集: 10 条
+2026-02-07 17:08:11 - NewsScheduler - INFO -    处理: 0 条
+2026-02-07 17:08:11 - NewsScheduler - INFO -    推送: 0 条
+2026-02-07 17:08:11 - NewsScheduler - INFO -    耗时: 0.58 秒
+2026-02-07 17:08:11 - NewsScheduler - INFO - ========================================
+2026-02-07 17:15:12,457 - INFO - 初始化组件...
+2026-02-07 17:15:12,457 - INFO - ✅ 新闻分析器初始化成功
+2026-02-07 17:15:12,457 - WARNING - ⚠️ 钉钉推送器不可用，仅模拟推送
+2026-02-07 17:15:12,457 - INFO - ✅ 东方财富采集器可用
+2026-02-07 17:15:12,457 - INFO - ✅ 调度管理器初始化完成
+2026-02-07 17:15:12,457 - INFO - 📡 开始执行采集任务...
+2026-02-07 17:15:13,030 - INFO - 成功采集到 10 条新闻
+2026-02-07 17:15:13,030 - INFO - ==================================================
+2026-02-07 17:15:13,030 - INFO - 📊 任务完成统计:
+2026-02-07 17:15:13,030 - INFO -    采集: 10 条
+2026-02-07 17:15:13,031 - INFO -    处理: 10 条
+2026-02-07 17:15:13,031 - INFO -    推送: 0 条
+2026-02-07 17:15:13,031 - INFO -    耗时: 0.57 秒
+2026-02-07 17:15:13,031 - INFO - ==================================================
+2026-02-07 17:26:45,682 - INFO - 初始化组件...
+2026-02-07 17:26:45,683 - INFO - ✅ 新闻分析器初始化成功
+2026-02-07 17:26:45,683 - INFO - ✅ 钉钉推送器初始化成功
+2026-02-07 17:26:45,683 - INFO - ✅ 东方财富采集器可用
+2026-02-07 17:26:45,683 - INFO - ✅ 调度管理器初始化完成
+2026-02-07 17:26:45,684 - INFO - 📡 开始执行采集任务...
+2026-02-07 17:26:46,297 - INFO - 成功采集到 10 条新闻
+2026-02-07 17:26:46,297 - INFO - ==================================================
+2026-02-07 17:26:46,297 - INFO - 📊 任务完成统计:
+2026-02-07 17:26:46,297 - INFO -    采集: 10 条
+2026-02-07 17:26:46,297 - INFO -    处理: 10 条
+2026-02-07 17:26:46,297 - INFO -    推送: 0 条
+2026-02-07 17:26:46,298 - INFO -    耗时: 0.61 秒
+2026-02-07 17:26:46,298 - INFO - ==================================================
+2026-02-07 17:27:20,936 - INFO - 初始化组件...
+2026-02-07 17:27:20,936 - INFO - ✅ 新闻分析器初始化成功
+2026-02-07 17:27:20,936 - INFO - ✅ 钉钉推送器初始化成功
+2026-02-07 17:27:20,936 - INFO - ✅ 调度管理器初始化完成
+2026-02-07 17:27:20,937 - INFO - 📡 开始执行采集任务...
+2026-02-07 17:27:21,515 - INFO - 成功采集到 10 条新闻
+2026-02-07 17:27:21,515 - INFO - ==================================================
+2026-02-07 17:27:21,515 - INFO - 📊 任务完成统计:
+2026-02-07 17:27:21,515 - INFO -    采集: 10 条
+2026-02-07 17:27:21,515 - INFO -    处理: 10 条
+2026-02-07 17:27:21,515 - INFO -    推送: 0 条
+2026-02-07 17:27:21,515 - INFO -    耗时: 0.58 秒
+2026-02-07 17:27:21,516 - INFO - ==================================================
+2026-02-07 17:29:13,346 - INFO - 初始化组件...
+2026-02-07 17:29:13,346 - INFO - ✅ 新闻分析器初始化成功
+2026-02-07 17:29:13,346 - INFO - ✅ 钉钉推送器初始化成功
+2026-02-07 17:29:13,346 - INFO - ✅ 调度管理器初始化完成
+2026-02-07 17:29:13,346 - INFO - 📡 开始执行采集任务...
+2026-02-07 17:29:13,920 - INFO - 成功采集到 10 条新闻
+2026-02-07 17:29:13,920 - INFO - ==================================================
+2026-02-07 17:29:13,921 - INFO - 📊 任务完成统计:
+2026-02-07 17:29:13,921 - INFO -    采集: 10 条
+2026-02-07 17:29:13,921 - INFO -    处理: 10 条
+2026-02-07 17:29:13,921 - INFO -    推送: 0 条
+2026-02-07 17:29:13,921 - INFO -    耗时: 0.57 秒
+2026-02-07 17:29:13,921 - INFO - ==================================================
+2026-02-07 17:30:33,266 - INFO - 初始化组件...
+2026-02-07 17:30:33,267 - INFO - ✅ 新闻分析器初始化成功
+2026-02-07 17:30:33,267 - INFO - ✅ 钉钉推送器初始化成功
+2026-02-07 17:30:33,267 - INFO - ✅ 调度管理器初始化完成
