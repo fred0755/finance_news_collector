@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-钉钉群机器人消息推送器 - 修复版（解决emoji变量问题）
+钉钉群机器人消息推送器 - 最终优化版（直接在消息中显示完整内容）
 """
 
 import json
@@ -10,12 +10,13 @@ import base64
 import hmac
 import requests
 from urllib.parse import quote_plus
+import re
 
 
 class DingTalkNotifier:
-    """钉钉群机器人消息推送器"""
+    """钉钉群机器人消息推送器 - 优化版"""
 
-    def __init__(self, webhook_url, secret=None, importance_threshold=7, keywords=None):
+    def __init__(self, webhook_url, secret=None, importance_threshold=5, keywords=None):
         self.webhook_url = webhook_url
         self.secret = secret
         self.importance_threshold = importance_threshold
@@ -64,51 +65,93 @@ class DingTalkNotifier:
 
         return self._send_request(message)
 
-    def send_news_alert(self, news_item, importance_score, sentiment, sentiment_emoji=None):
-        """发送新闻提醒"""
-        # 设置情感表情
-        emoji_map = sentiment_emoji or {
-            "bullish": "📈",
-            "bearish": "📉",
-            "neutral": "📊"
-        }
-        emoji = emoji_map.get(sentiment, "📰")  # 关键：定义emoji变量
+    def send_news_direct(self, news_item):
+        """发送新闻 - 直接在消息中显示内容（推荐使用）"""
+        try:
+            # 提取新闻信息
+            title = news_item.get('title', '财经快讯')
+            content = news_item.get('full_content', news_item.get('content', title))
+            source = news_item.get('source', '东方财富快讯')
+            publish_time = news_item.get('publish_time', news_item.get('time', '未知时间'))
+            importance = news_item.get('importance', 5)
+            sentiment = news_item.get('sentiment', 'neutral')
 
-        # 构建消息内容
-        title = news_item.get('title', '')
-        source = news_item.get('source', '东方财富快讯')
-        publish_time = news_item.get('publish_time', news_item.get('time', '未知时间'))
-        url = news_item.get('url', '#')
+            # 情感表情映射
+            emoji_map = {
+                "bullish": "📈",
+                "bearish": "📉",
+                "neutral": "📊"
+            }
+            emoji = emoji_map.get(sentiment, "📰")
 
-        # 重要性星级
-        stars = "⭐" * min(importance_score, 5)
+            # 重要性星级
+            stars = "⭐" * min(importance, 5)
 
-        # 构建Markdown消息
-        markdown_text = f"""### {emoji} 财经快讯 {emoji}
+            # 格式化内容
+            formatted_content = self._format_content_for_dingtalk(content)
 
-**{title}**
+            # 构建Markdown消息
+            markdown_text = f"""# {emoji} 财经快讯 {emoji}
+
+## {title}
+
+**📅 发布时间**: {publish_time}  
+**📋 新闻来源**: {source}  
+**🎯 重要性评分**: {importance}/10 {stars}  
+**📊 市场情绪**: {sentiment} ({emoji})
 
 ---
 
-> **来源**: {source}  
-> **时间**: {publish_time}  
-> **重要性**: {importance_score}/10 {stars}  
-> **情感倾向**: {sentiment} ({emoji})
+### 📝 详细内容：
 
-📌 关键词: {', '.join(self.keywords)}
+{formatted_content}
 
-[查看详情]({url})"""
+---
 
-        # 消息标题
-        alert_title = f"财经快讯: {title[:30]}..." if len(title) > 30 else title
+> 🔄 实时采集 · 自动推送  
+> ⏰ 推送时间: {time.strftime('%Y-%m-%d %H:%M:%S')}  
+> 📌 关键词: 财经快讯"""
 
-        # 发送消息
-        print(f"[钉钉推送] 正在发送: {title[:50]}...")
-        return self.send_markdown(
-            title=alert_title,
-            text=markdown_text,
-            at_all=False
-        )
+            # 消息标题
+            alert_title = f"快讯: {title[:30]}..." if len(title) > 30 else title
+
+            # 发送消息
+            print(f"[钉钉推送] 正在发送: {title[:50]}...")
+            return self.send_markdown(
+                title=alert_title,
+                text=markdown_text,
+                at_all=False
+            )
+
+        except Exception as e:
+            print(f"[钉钉推送] 发送新闻失败: {e}")
+            return False
+
+    def _format_content_for_dingtalk(self, content):
+        """为钉钉格式化内容"""
+        if not content:
+            return "暂无详细内容"
+
+        # 清理内容
+        content = content.strip()
+
+        # 移除HTML标签
+        content = re.sub(r'<[^>]+>', '', content)
+
+        # 替换多个换行为单个
+        content = re.sub(r'\n{3,}', '\n\n', content)
+
+        # 确保内容长度合适（钉钉Markdown支持最多2000字符）
+        max_length = 1500
+        if len(content) > max_length:
+            content = content[:max_length] + "...\n\n【内容已截断，完整内容请查看原文】"
+
+        return content
+
+    def send_news_alert(self, news_item, importance_score, sentiment, sentiment_emoji=None):
+        """发送新闻提醒（兼容旧版）"""
+        # 使用新的直接发送方法
+        return self.send_news_direct(news_item)
 
     def _send_request(self, message):
         """发送HTTP请求到钉钉"""
@@ -147,19 +190,22 @@ if __name__ == "__main__":
     print("钉钉推送器模块测试")
 
     # 测试配置
-    webhook = "https://oapi.dingtalk.com/robot/send?access_token=test"
-    secret = "SECtest"
+    webhook = "https://oapi.dingtalk.com/robot/send?access_token=e08a39e5f72e5fa6966a72507bed3c6c3c7133288696bcfc585297c13f3df611"
+    secret = "SECfc699d2056a92e6a8594b836e916bd0df8af8b774ba5424a508349896ab42ee2"
 
     # 创建推送器
     notifier = DingTalkNotifier(webhook, secret, importance_threshold=5)
 
     # 测试新闻
     test_news = {
-        'title': '测试新闻标题',
-        'source': '测试',
-        'publish_time': '2026-02-07 17:55:00',
-        'url': 'https://test.com'
+        'title': '马斯克：是时候大规模重返月球了',
+        'full_content': '【马斯克：是时候大规模重返月球了】马斯克发帖表示，是时候大规模重返月球了。此外，有消息称SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。这一表态引发市场对太空探索相关公司的关注。',
+        'content': '马斯克发帖表示，是时候大规模重返月球了。',
+        'source': '东方财富快讯',
+        'publish_time': '2026-02-08 17:29:40',
+        'importance': 8,
+        'sentiment': 'neutral'
     }
 
-    result = notifier.send_news_alert(test_news, 8, 'neutral')
+    result = notifier.send_news_direct(test_news)
     print(f"测试结果: {result}")

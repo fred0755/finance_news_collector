@@ -110,24 +110,15 @@ class SchedulerManager:
         file_handler.setFormatter(formatter)
         self.logger.addHandler(file_handler)
 
-    # 修改 src/scheduler/news_scheduler.py 中的 collect_and_store 方法
     def collect_and_store(self):
-        """完整的采集、推送流程（推送所有新闻）"""
+        """完整的采集、推送流程（直接在消息中显示内容）"""
         try:
             start_time = time.time()
             self.logger.info("📡 开始执行采集任务...")
 
             # 1. 采集新闻
             collector = EastMoneyCollector()
-
-            # 尝试不同的采集方法
-            news_list = []
-            if hasattr(collector, 'fetch_news'):
-                news_list = collector.fetch_news()
-            elif hasattr(collector, 'collect_latest_news'):
-                news_list = collector.collect_latest_news()
-            elif hasattr(collector, 'collect'):
-                news_list = collector.collect()
+            news_list = collector.fetch_news()
 
             if not news_list:
                 self.logger.warning("未采集到新闻数据")
@@ -141,20 +132,10 @@ class SchedulerManager:
 
             for news_item in news_list:
                 try:
-                    # 为每条新闻设置默认评分（确保推送）
-                    news_item['importance_score'] = 8  # 设置高分确保推送
-                    news_item['sentiment'] = 'neutral'  # 默认中性
-
-                    # 直接推送，不检查阈值
                     self.logger.info(f"📨 推送新闻: {news_item['title'][:40]}...")
 
-                    # 在调度器的 collect_and_store 方法中，修改推送调用
-                    success = self.dingtalk_notifier.send_news_alert(
-                        news_item=news_item,
-                        importance_score=8,  # 固定高分
-                        sentiment='neutral',  # 固定为中性，避免emoji未定义
-                        sentiment_emoji={"bullish": "📈", "bearish": "📉", "neutral": "📊"}
-                    )
+                    # 使用新的直接发送方法
+                    success = self.dingtalk_notifier.send_news_direct(news_item)
 
                     if success:
                         pushed += 1
@@ -163,6 +144,10 @@ class SchedulerManager:
                         self.logger.warning(f"⚠️ 新闻推送失败: {news_item['title'][:30]}...")
 
                     processed += 1
+
+                    # 添加短暂延迟，避免请求过快
+                    if processed < len(news_list):
+                        time.sleep(0.5)
 
                 except Exception as e:
                     self.logger.error(f"处理新闻失败: {e}")
@@ -204,7 +189,7 @@ class SchedulerManager:
 def main():
     parser = argparse.ArgumentParser(description='财经新闻采集调度器')
     parser.add_argument('--test', action='store_true', help='测试模式')
-    parser.add_argument('--interval', type=int, default=2, help='采集间隔（分钟）')
+    parser.add_argument('--interval', type=int, default=1, help='采集间隔（分钟）')
     args = parser.parse_args()
 
     print("\n" + "=" * 60)
