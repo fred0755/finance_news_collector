@@ -1,0 +1,52 @@
+[
+  {
+    "id": "test_1770711705_0",
+    "title": "测试新闻标题 1",
+    "content": "这是测试新闻内容 1，用于验证GitHub Actions运行环境。",
+    "source": "测试源",
+    "timestamp": "2026-02-10T16:21:45.742143",
+    "importance": 0,
+    "url": "https://example.com/news/0",
+    "news_code": "TEST0000"
+  },
+  {
+    "id": "test_1770711705_1",
+    "title": "测试新闻标题 2",
+    "content": "这是测试新闻内容 2，用于验证GitHub Actions运行环境。",
+    "source": "测试源",
+    "timestamp": "2026-02-10T16:21:45.742164",
+    "importance": 1,
+    "url": "https://example.com/news/1",
+    "news_code": "TEST0001"
+  },
+  {
+    "id": "test_1770711705_2",
+    "title": "测试新闻标题 3",
+    "content": "这是测试新闻内容 3，用于验证GitHub Actions运行环境。",
+    "source": "测试源",
+    "timestamp": "2026-02-10T16:21:45.742170",
+    "importance": 2,
+    "url": "https://example.com/news/2",
+    "news_code": "TEST0002"
+  },
+  {
+    "id": "test_1770711705_3",
+    "title": "测试新闻标题 4",
+    "content": "这是测试新闻内容 4，用于验证GitHub Actions运行环境。",
+    "source": "测试源",
+    "timestamp": "2026-02-10T16:21:45.742174",
+    "importance": 3,
+    "url": "https://example.com/news/3",
+    "news_code": "TEST0003"
+  },
+  {
+    "id": "test_1770711705_4",
+    "title": "测试新闻标题 5",
+    "content": "这是测试新闻内容 5，用于验证GitHub Actions运行环境。",
+    "source": "测试源",
+    "timestamp": "2026-02-10T16:21:45.742178",
+    "importance": 4,
+    "url": "https://example.com/news/4",
+    "news_code": "TEST0004"
+  }
+]
