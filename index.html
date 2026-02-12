@@ -1,0 +1,81 @@
+# 在 PowerShell 中执行以下命令（一次性复制粘贴）
+@"
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>财经新闻·云端快讯</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: system-ui, -apple-system, sans-serif; background: #f5f7fa; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .header { background: linear-gradient(145deg, #1e3c72, #2a5298); color: white; padding: 24px; border-radius: 16px; margin-bottom: 20px; }
+        .header h1 { font-size: 1.8rem; margin-bottom: 8px; }
+        .stats { display: flex; justify-content: space-between; font-size: 0.9rem; opacity: 0.9; margin-top: 12px; }
+        .news-card { background: white; border-radius: 16px; padding: 20px; margin-bottom: 16px; border-left: 4px solid #2a5298; box-shadow: 0 4px 12px rgba(0,0,0,0.03); }
+        .news-title { font-size: 1.1rem; font-weight: 600; color: #0a1929; text-decoration: none; line-height: 1.5; }
+        .news-meta { display: flex; gap: 16px; margin-top: 12px; color: #5e6f8c; font-size: 0.85rem; flex-wrap: wrap; }
+        .source { background: #e9ecf3; padding: 4px 10px; border-radius: 20px; }
+        .loading { text-align: center; padding: 40px; color: #666; }
+        .footer { text-align: center; margin-top: 40px; color: #6b7a8f; font-size: 0.8rem; border-top: 1px solid #dce3ec; padding-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 财经新闻·云端快讯</h1>
+            <div class="stats">
+                <span>⏱ 最后更新: <span id="update-time">加载中...</span></span>
+                <span>📰 今日新闻: <span id="news-count">--</span> 条</span>
+            </div>
+        </div>
+        <div id="news-list">
+            <div class="loading">📡 加载新闻中...</div>
+        </div>
+        <div class="footer">
+            <p>数据每30分钟自动更新 · Vercel 全球加速</p>
+            <p style="margin-top: 8px;">⚡ 基于 GitHub Actions + Vercel 的零成本云端系统</p>
+        </div>
+    </div>
+    <script>
+        async function loadNews() {
+            try {
+                const newsRes = await fetch('/data/latest.json?t=' + Date.now());
+                const news = await newsRes.json();
+                const timeRes = await fetch('/data/last_update.txt?t=' + Date.now());
+                const updateTime = await timeRes.text();
+                
+                document.getElementById('update-time').textContent = updateTime;
+                document.getElementById('news-count').textContent = news.length;
+                
+                let html = '';
+                news.forEach(item => {
+                    const importance = '⭐'.repeat(Math.min(5, Math.ceil(item.importance / 2)));
+                    html += `
+                        <div class="news-card">
+                            <div class="news-title">${item.title}</div>
+                            <div style="color: #2e405b; margin-top: 8px; font-size: 0.95rem;">${item.summary || item.content}</div>
+                            <div class="news-meta">
+                                <span class="source">📌 ${item.source || '东方财富'}</span>
+                                <span>🕐 ${item.time}</span>
+                                <span class="source">${importance}</span>
+                                ${item.has_stock_mention ? '<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 20px;">📈 个股</span>' : ''}
+                            </div>
+                        </div>
+                    `;
+                });
+                document.getElementById('news-list').innerHTML = html;
+            } catch (e) {
+                document.getElementById('news-list').innerHTML = '<div class="loading" style="color: #c62828;">❌ 加载失败，请刷新页面</div>';
+                console.error(e);
+            }
+        }
+        loadNews();
+        setInterval(loadNews, 60000);
+    </script>
+</body>
+</html>
+"@ | Set-Content -Path index.html -Encoding UTF8
+
+Write-Host "✅ index.html 已创建在根目录" -ForegroundColor Green
