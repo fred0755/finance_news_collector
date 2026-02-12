@@ -10,38 +10,165 @@ on:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+    timeout-minutes: 10
 
-      - uses: actions/setup-python@v4
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+
+      - name: 设置Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: 安装依赖
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip list | grep requests
 
-      - name: 运行采集
+      - name: 运行采集脚本
+        id: collect
         env:
           GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
         run: |
+          echo "========================================="
+          echo "🔍 调试信息 - 当前环境"
+          echo "========================================="
+          pwd
+          echo "当前目录: $(pwd)"
+          echo "目录结构:"
+          ls -la
+          echo ""
+          
+          echo "========================================="
+          echo "📁 检查采集器目录"
+          echo "========================================="
+          if [ -d "src/collectors" ]; then
+            echo "✅ src/collectors 目录存在"
+            ls -la src/collectors/
+          else
+            echo "❌ src/collectors 目录不存在"
+            exit 1
+          fi
+          echo ""
+          
+          echo "========================================="
+          echo "🚀 开始执行采集"
+          echo "========================================="
           cd src/collectors
           python run_github_action.py
           
+          echo ""
+          echo "========================================="
+          echo "📊 检查生成的数据文件"
+          echo "========================================="
           cd ../..
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add data/
-          git diff --cached --quiet || git commit -m "auto update news data"
-          git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main
+          if [ -d "data" ]; then
+            echo "✅ data 目录已创建"
+            ls -la data/
+            
+            if [ -f "data/latest.json" ]; then
+              echo "✅ latest.json 已生成"
+              echo "文件大小: $(wc -c < data/latest.json) 字节"
+              echo "前200个字符:"
+              head -c 200 data/latest.json
+              echo ""
+            else
+              echo "❌ latest.json 未生成"
+            fi
+            
+            if [ -f "data/today.json" ]; then
+              echo "✅ today.json 已生成"
+            else
+              echo "❌ today.json 未生成"
+            fi
+            
+            if [ -f "data/last_update.txt" ]; then
+              echo "✅ last_update.txt 已生成"
+              echo "更新时间: $(cat data/last_update.txt)"
+            else
+              echo "❌ last_update.txt 未生成"
+            fi
+          else
+            echo "❌ data 目录不存在"
+          fi
+          echo ""
+          
+          echo "========================================="
+          echo "📤 同步到 Gitee"
+          echo "========================================="
+          if [ -n "$GITEE_USERNAME" ] && [ -n "$GITEE_TOKEN" ]; then
+            echo "✅ Gitee 凭证已配置"
+            
+            # 配置 git
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            
+            # 添加数据文件
+            git add data/
+            
+            # 检查是否有变更
+            if git diff --cached --quiet; then
+              echo "ℹ️ 数据无更新，跳过提交"
+            else
+              echo "📦 提交数据更新..."
+              git commit -m "chore: 自动更新财经新闻数据 $(date +'%Y-%m-%d %H:%M:%S')"
+              
+              echo "🚀 推送到 Gitee..."
+              git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main
+              echo "✅ 同步完成"
+            fi
+          else
+            echo "⚠️ Gitee 凭证未配置，跳过同步"
+            echo "GITEE_USERNAME: ${GITEE_USERNAME:-未设置}"
+            echo "GITEE_TOKEN: ${GITEE_TOKEN:+已设置长度${#GITEE_TOKEN}}"
+          fi
+          
+          echo ""
+          echo "========================================="
+          echo "🎉 采集流程完成"
+          echo "========================================="
 
-      - name: 钉钉通知
+      - name: 钉钉状态通知
         if: always()
         env:
           DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
         run: |
-          if [ "${{ job.status }}" = "success" ]; then
-            curl -X POST $DINGTALK_WEBHOOK -H "Content-Type: application/json" -d '{"msgtype":"text","text":{"content":"✅ 财经新闻云端采集成功"}}'
-          else
-            curl -X POST $DINGTALK_WEBHOOK -H "Content-Type: application/json" -d '{"msgtype":"text","text":{"content":"❌ 财经新闻云端采集失败"}}'
+          if [ -z "$DINGTALK_WEBHOOK" ]; then
+            echo "⚠️ 钉钉 Webhook 未配置，跳过通知"
+            exit 0
           fi
+          
+          STATUS="${{ job.status }}"
+          TIME=$(date '+%Y-%m-%d %H:%M:%S')
+          
+          if [ "$STATUS" = "success" ]; then
+            MSG="✅ 财经新闻云端采集成功"
+            COLOR="00FF00"
+            
+            # 尝试获取新闻数量
+            if [ -f "data/latest.json" ]; then
+              COUNT=$(grep -o '"title"' data/latest.json | wc -l)
+              MSG="$MSG，今日已采集 $COUNT 条新闻"
+            fi
+          else
+            MSG="❌ 财经新闻云端采集失败"
+            COLOR="FF0000"
+          fi
+          
+          MSG="$MSG\n🕐 $TIME"
+          
+          curl -s -X POST "$DINGTALK_WEBHOOK" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"msgtype\": \"markdown\",
+              \"markdown\": {
+                \"title\": \"财经新闻采集状态\",
+                \"text\": \"### 📊 财经新闻云端采集\\n\\n$MSG\\n\\n[查看数据](https://gitee.com/${GITEE_USERNAME:-your-username}/finance_news_collector/tree/main/data)\"
+              }
+            }"
+          
+          echo "📨 钉钉通知已发送"
