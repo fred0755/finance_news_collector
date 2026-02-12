@@ -10,59 +10,38 @@ on:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: 安装依赖
-      run: pip install requests
+      - name: 安装依赖
+        run: pip install requests
 
-    - name: 采集新闻并生成JSON
-      env:
-        GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
-        GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
-      run: |
-        cd src/collectors
-        mkdir -p ../../data
-        
-        # 执行采集
-        python -c "
-import json, sys
-from eastmoney_collector import EastMoneyCollector
-c = EastMoneyCollector()
-news = c.fetch_news(page_size=30)
-if news:
-    with open('../../data/latest.json', 'w') as f:
-        json.dump(news[:30], f, ensure_ascii=False, indent=2)
-    with open('../../data/today.json', 'w') as f:
-        json.dump(news, f, ensure_ascii=False, indent=2)
-    print('✅ 成功')
-else:
-    print('❌ 失败')
-    sys.exit(1)
-        "
-        
-        # 提交到Gitee
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git add data/
-        git diff --cached --quiet || git commit -m "update data"
-        git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main
-    
-    - name: 钉钉通知
-      if: always()
-      env:
-        DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
-      run: |
-        STATUS='${{ job.status }}'
-        if [ "$STATUS" = "success" ]; then
-          MSG="✅ 云端采集成功"
-        else
-          MSG="❌ 云端采集失败"
-        fi
-        curl -X POST "$DINGTALK_WEBHOOK" -H "Content-Type: application/json" -d "{\"msgtype\":\"text\",\"text\":{\"content\":\"$MSG $(date)\"}}"
+      - name: 运行采集
+        env:
+          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          cd src/collectors
+          python run_github_action.py
+          
+          cd ../..
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data/
+          git diff --cached --quiet || git commit -m "auto update news data"
+          git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main
+
+      - name: 钉钉通知
+        if: always()
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+        run: |
+          if [ "${{ job.status }}" = "success" ]; then
+            curl -X POST $DINGTALK_WEBHOOK -H "Content-Type: application/json" -d '{"msgtype":"text","text":{"content":"✅ 财经新闻云端采集成功"}}'
+          else
+            curl -X POST $DINGTALK_WEBHOOK -H "Content-Type: application/json" -d '{"msgtype":"text","text":{"content":"❌ 财经新闻云端采集失败"}}'
+          fi
