@@ -165,22 +165,25 @@
     </div>
 
     <script>
-        async function loadNews() {
-            try {
-                // 使用 Gitee raw 作为稳定数据源（绕过 Vercel 部署限制）
-                const baseUrl = 'https://gitee.com/fred0755/finance_news_collector/raw/main';
-                
-                // 并发请求提升性能
-                const [newsRes, timeRes] = await Promise.all([
-                    fetch(baseUrl + '/data/latest.json?t=' + Date.now()),
-                    fetch(baseUrl + '/data/last_update.txt?t=' + Date.now())
-                ]);
+async function loadNews() {
+    try {
+        // 使用 jsDelivr CDN 作为数据源（完美解决跨域）
+        const baseUrl = 'https://cdn.jsdelivr.net/gh/fred0755/finance_news_collector@main';
 
-                if (!newsRes.ok) throw new Error('新闻数据加载失败');
-                if (!timeRes.ok) throw new Error('时间戳加载失败');
-                
-                const news = await newsRes.json();
-                const updateTime = await timeRes.text();
+        const [newsRes, timeRes] = await Promise.all([
+            fetch(baseUrl + '/data/latest.json?t=' + Date.now()),
+            fetch(baseUrl + '/data/last_update.txt?t=' + Date.now())
+        ]);
+
+        if (!newsRes.ok) throw new Error('新闻数据加载失败');
+        if (!timeRes.ok) throw new Error('时间戳加载失败');
+
+        const news = await newsRes.json();
+        const updateTime = await timeRes.text();
+
+        // ... 其余代码不变
+    }
+}
                 
                 // 更新头部信息
                 document.getElementById('update-time').textContent = updateTime.slice(5, 16) || updateTime;
