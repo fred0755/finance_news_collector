@@ -1,81 +1,258 @@
-# 在 PowerShell 中执行以下命令（一次性复制粘贴）
-@"
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>财经新闻·云端快讯</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=yes">
+    <title>财经新闻 · 云端快讯</title>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: system-ui, -apple-system, sans-serif; background: #f5f7fa; padding: 20px; }
-        .container { max-width: 800px; margin: 0 auto; }
-        .header { background: linear-gradient(145deg, #1e3c72, #2a5298); color: white; padding: 24px; border-radius: 16px; margin-bottom: 20px; }
-        .header h1 { font-size: 1.8rem; margin-bottom: 8px; }
-        .stats { display: flex; justify-content: space-between; font-size: 0.9rem; opacity: 0.9; margin-top: 12px; }
-        .news-card { background: white; border-radius: 16px; padding: 20px; margin-bottom: 16px; border-left: 4px solid #2a5298; box-shadow: 0 4px 12px rgba(0,0,0,0.03); }
-        .news-title { font-size: 1.1rem; font-weight: 600; color: #0a1929; text-decoration: none; line-height: 1.5; }
-        .news-meta { display: flex; gap: 16px; margin-top: 12px; color: #5e6f8c; font-size: 0.85rem; flex-wrap: wrap; }
-        .source { background: #e9ecf3; padding: 4px 10px; border-radius: 20px; }
-        .loading { text-align: center; padding: 40px; color: #666; }
-        .footer { text-align: center; margin-top: 40px; color: #6b7a8f; font-size: 0.8rem; border-top: 1px solid #dce3ec; padding-top: 20px; }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #f5f7fb;
+            padding: 16px;
+            color: #1e293b;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .header {
+            background: linear-gradient(145deg, #0b2b4f, #163a5e);
+            color: white;
+            padding: 24px 20px;
+            border-radius: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 8px 20px rgba(0,20,40,0.12);
+        }
+        .header h1 {
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .header h1 span {
+            font-size: 2rem;
+        }
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.9rem;
+            opacity: 0.9;
+            background: rgba(255,255,255,0.1);
+            padding: 12px 16px;
+            border-radius: 40px;
+            margin-top: 8px;
+        }
+        .news-list {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        .news-card {
+            background: white;
+            border-radius: 20px;
+            padding: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+            border-left: 4px solid #2a6f97;
+            transition: all 0.2s ease;
+        }
+        .news-card:hover {
+            box-shadow: 0 12px 24px rgba(0,40,80,0.08);
+            transform: translateY(-2px);
+        }
+        .news-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #0c1e2e;
+            text-decoration: none;
+            line-height: 1.5;
+            margin-bottom: 10px;
+        }
+        .news-summary {
+            color: #33475b;
+            font-size: 0.95rem;
+            margin-bottom: 16px;
+            line-height: 1.6;
+        }
+        .news-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+            font-size: 0.8rem;
+            color: #4b6584;
+            border-top: 1px solid #edf2f7;
+            padding-top: 16px;
+            margin-top: 4px;
+        }
+        .meta-tag {
+            background: #f0f4fa;
+            padding: 6px 14px;
+            border-radius: 30px;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .stock-tag {
+            background: #e6f2ff;
+            color: #0369a1;
+            padding: 6px 14px;
+            border-radius: 30px;
+            font-weight: 500;
+        }
+        .loading, .error {
+            text-align: center;
+            padding: 48px 20px;
+            background: white;
+            border-radius: 24px;
+            color: #5a6e7e;
+            font-size: 1rem;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #6c7e8e;
+            font-size: 0.75rem;
+            border-top: 1px solid #e2eaf0;
+            padding-top: 24px;
+        }
+        .update-badge {
+            background: #1e4a6b;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 40px;
+            font-size: 0.75rem;
+            display: inline-block;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
-            <h1>📊 财经新闻·云端快讯</h1>
+            <h1>
+                <span>📊</span> 财经新闻·云端快讯
+            </h1>
             <div class="stats">
-                <span>⏱ 最后更新: <span id="update-time">加载中...</span></span>
-                <span>📰 今日新闻: <span id="news-count">--</span> 条</span>
+                <span>⏱ 更新 <span id="update-time">--:--</span></span>
+                <span>📰 今日 <span id="news-count">--</span> 条</span>
             </div>
         </div>
-        <div id="news-list">
-            <div class="loading">📡 加载新闻中...</div>
+
+        <div id="news-list" class="news-list">
+            <div class="loading">
+                <div style="font-size: 2rem; margin-bottom: 12px;">📡</div>
+                加载财经新闻中...
+            </div>
         </div>
+
         <div class="footer">
-            <p>数据每30分钟自动更新 · Vercel 全球加速</p>
-            <p style="margin-top: 8px;">⚡ 基于 GitHub Actions + Vercel 的零成本云端系统</p>
+            <span class="update-badge">⚡ 每30分钟自动更新</span>
+            <p style="margin-top: 16px;">
+                数据源: 东方财富快讯 · 云端零成本运行<br>
+                基于 GitHub Actions + Vercel
+            </p>
+            <p style="margin-top: 12px; opacity: 0.7;">
+                最后部署: 2026-02-12
+            </p>
         </div>
     </div>
+
     <script>
         async function loadNews() {
             try {
-                const newsRes = await fetch('/data/latest.json?t=' + Date.now());
+                // 使用 Gitee raw 作为稳定数据源（绕过 Vercel 部署限制）
+                const baseUrl = 'https://gitee.com/fred0755/finance_news_collector/raw/main';
+                
+                // 并发请求提升性能
+                const [newsRes, timeRes] = await Promise.all([
+                    fetch(baseUrl + '/data/latest.json?t=' + Date.now()),
+                    fetch(baseUrl + '/data/last_update.txt?t=' + Date.now())
+                ]);
+
+                if (!newsRes.ok) throw new Error('新闻数据加载失败');
+                if (!timeRes.ok) throw new Error('时间戳加载失败');
+                
                 const news = await newsRes.json();
-                const timeRes = await fetch('/data/last_update.txt?t=' + Date.now());
                 const updateTime = await timeRes.text();
                 
-                document.getElementById('update-time').textContent = updateTime;
+                // 更新头部信息
+                document.getElementById('update-time').textContent = updateTime.slice(5, 16) || updateTime;
                 document.getElementById('news-count').textContent = news.length;
                 
+                if (!news || news.length === 0) {
+                    document.getElementById('news-list').innerHTML = '<div class="loading">📭 暂无新闻</div>';
+                    return;
+                }
+
+                // 渲染新闻列表
                 let html = '';
                 news.forEach(item => {
-                    const importance = '⭐'.repeat(Math.min(5, Math.ceil(item.importance / 2)));
+                    // 重要性评分转为星星
+                    const importance = item.importance || 5;
+                    const stars = '⭐'.repeat(Math.min(5, Math.ceil(importance / 2)));
+                    
+                    // 摘要优先，没有则用内容截取
+                    const summary = item.summary || (item.content ? item.content.slice(0, 80) + '…' : '');
+                    
+                    // 时间格式化
+                    const time = item.time || item.publish_time || '';
+                    const timeStr = time.slice(5, 16) || time;
+                    
                     html += `
                         <div class="news-card">
-                            <div class="news-title">${item.title}</div>
-                            <div style="color: #2e405b; margin-top: 8px; font-size: 0.95rem;">${item.summary || item.content}</div>
+                            <div class="news-title">${escapeHtml(item.title) || '财经快讯'}</div>
+                            <div class="news-summary">${escapeHtml(summary) || '暂无详细内容'}</div>
                             <div class="news-meta">
-                                <span class="source">📌 ${item.source || '东方财富'}</span>
-                                <span>🕐 ${item.time}</span>
-                                <span class="source">${importance}</span>
-                                ${item.has_stock_mention ? '<span style="background: #e3f2fd; color: #0d47a1; padding: 4px 10px; border-radius: 20px;">📈 个股</span>' : ''}
+                                <span class="meta-tag">📌 ${escapeHtml(item.source) || '东方财富'}</span>
+                                <span class="meta-tag">🕐 ${escapeHtml(timeStr)}</span>
+                                <span class="meta-tag">${stars}</span>
+                                ${item.has_stock_mention ? '<span class="stock-tag">📈 涉及个股</span>' : ''}
                             </div>
                         </div>
                     `;
                 });
+                
                 document.getElementById('news-list').innerHTML = html;
-            } catch (e) {
-                document.getElementById('news-list').innerHTML = '<div class="loading" style="color: #c62828;">❌ 加载失败，请刷新页面</div>';
-                console.error(e);
+            } catch (error) {
+                console.error('加载失败:', error);
+                document.getElementById('news-list').innerHTML = `
+                    <div class="error">
+                        <div style="font-size: 2rem; margin-bottom: 12px;">⚠️</div>
+                        <div style="font-size: 1.1rem; margin-bottom: 8px;">新闻加载失败</div>
+                        <div style="font-size: 0.85rem; color: #8a9aa8;">${error.message}</div>
+                        <div style="margin-top: 20px;">
+                            <button onclick="location.reload()" style="background: #1e4a6b; color: white; border: none; padding: 10px 24px; border-radius: 40px; font-size: 0.9rem; cursor: pointer;">
+                                刷新重试
+                            </button>
+                        </div>
+                    </div>
+                `;
             }
         }
+
+        // HTML 转义防止 XSS
+        function escapeHtml(unsafe) {
+            if (!unsafe) return '';
+            return unsafe
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // 页面加载立即执行
         loadNews();
+        
+        // 每60秒自动刷新数据
         setInterval(loadNews, 60000);
     </script>
 </body>
 </html>
-"@ | Set-Content -Path index.html -Encoding UTF8
-
-Write-Host "✅ index.html 已创建在根目录" -ForegroundColor Green
