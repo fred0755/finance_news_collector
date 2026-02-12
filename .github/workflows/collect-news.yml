@@ -1,0 +1,128 @@
+name: 财经新闻云端采集
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # 每30分钟运行一次（与你本地调度器一致）
+  workflow_dispatch:         # 支持手动触发
+  push:
+    branches: [ main ]
+    paths:
+      - 'src/collectors/**'
+      - 'src/processors/**'
+      - 'requirements.txt'
+
+jobs:
+  collect-and-push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+    - name: 1. 检出代码
+      uses: actions/checkout@v3
+
+    - name: 2. 设置Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: 3. 安装依赖
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        # 你的项目依赖（根据实际requirements.txt调整）
+        pip install requests beautifulsoup4 apscheduler
+
+    - name: 4. 运行东方财富采集器
+      id: collect
+      env:
+        DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+      run: |
+        cd src/collectors
+        
+        # 创建数据目录
+        mkdir -p ../../data
+        
+        # 运行采集器并保存为JSON
+        python -c "
+import json, sys
+from eastmoney_collector import EastMoneyCollector
+
+print('开始采集东方财富快讯...')
+collector = EastMoneyCollector()
+news_list = collector.fetch_news(page_size=30)
+
+if news_list and len(news_list) > 0:
+    print(f'✅ 成功采集 {len(news_list)} 条新闻')
+
+    # 保存为latest.json（最新50条）
+    with open('../../data/latest.json', 'w', encoding='utf-8') as f:
+        json.dump(news_list[:50], f, ensure_ascii=False, indent=2)
+
+    # 保存为today.json（今日所有，暂为最新采集）
+    with open('../../data/today.json', 'w', encoding='utf-8') as f:
+        json.dump(news_list, f, ensure_ascii=False, indent=2)
+
+    # 生成时间戳文件
+    from datetime import datetime
+    with open('../../data/last_update.txt', 'w', encoding='utf-8') as f:
+        f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+
+    print('✅ JSON文件生成成功')
+    sys.exit(0)
+else:
+    print('❌ 采集失败或未获取到新闻')
+    sys.exit(1)
+        "
+        
+    - name: 5. 提交数据到Gitee
+      env:
+        GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
+        GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+      run: |
+        # 配置git
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        
+        # 只添加data目录
+        git add data/
+        
+        # 检查是否有变更
+        if git diff --cached --quiet; then
+          echo "数据无更新，跳过提交"
+        else
+          git commit -m "chore: 自动更新财经新闻数据 $(date +'%Y-%m-%d %H:%M:%S')"
+          
+          # 推送到Gitee
+          git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main
+          echo "✅ 已同步到Gitee"
+        fi
+
+    - name: 6. 发送钉钉运行状态通知
+      if: always()  # 无论成功失败都通知
+      env:
+        DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+      run: |
+        cd src/notifiers
+        
+        # 简易钉钉通知（如果没有现成脚本，用这个）
+        if [ "${{ job.status }}" = "success" ]; then
+          STATUS="✅ 采集成功"
+          COLOR="00FF00"
+        else
+          STATUS="❌ 采集失败"
+          COLOR="FF0000"
+        fi
+        
+        TIME=$(date '+%Y-%m-%d %H:%M:%S')
+        
+        curl -s -X POST "${{ secrets.DINGTALK_WEBHOOK }}" \
+          -H "Content-Type: application/json" \
+          -d "{
+            \"msgtype\": \"markdown\",
+            \"markdown\": {
+              \"title\": \"财经新闻云端采集状态\",
+              \"text\": \"### 📊 财经新闻云端采集状态\\n\\n**状态**: $STATUS\\n\\n**时间**: $TIME\\n\\n**运行环境**: GitHub Actions\\n\\n[查看数据](https://gitee.com/${{ secrets.GITEE_USERNAME }}/finance_news_collector/tree/main/data)\"
+            }
+          }"
+        echo "📨 钉钉状态通知已发送"
