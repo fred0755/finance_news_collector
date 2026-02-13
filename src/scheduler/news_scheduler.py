@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-财经新闻采集调度器 - 正确工作版
+财经新闻采集调度器 - 精简版（只采集+存JSON，无钉钉）
 """
 
 import sys
@@ -8,7 +8,9 @@ import os
 import time
 import logging
 import argparse
+import json
 from datetime import datetime
+from pathlib import Path
 from apscheduler.schedulers.blocking import BlockingScheduler
 
 # ========== 模块导入 ==========
@@ -26,26 +28,13 @@ if src_dir not in sys.path:
 
 print("\n🔄 正在导入模块...")
 
-# 导入模块
+# 只导入采集器
 try:
     from collectors.eastmoney_collector import EastMoneyCollector
-    from analyzers.basic_analyzer import BasicNewsAnalyzer
-    from notifiers.dingtalk_notifier import DingTalkNotifier
-
-    # 钉钉配置
-    DINGTALK_CONFIG = {
-        "webhook_url": "https://oapi.dingtalk.com/robot/send?access_token=e08a39e5f72e5fa6966a72507bed3c6c3c7133288696bcfc585297c13f3df611",
-        "secret": "SECfc699d2056a92e6a8594b836e916bd0df8af8b774ba5424a508349896ab42ee2",
-        "importance_threshold": 5,
-        "keywords": ["财经快讯"],
-        "sentiment_emoji": {"bullish": "📈", "bearish": "📉", "neutral": "📊"}
-    }
-
     MODULES_LOADED = True
-    print("  ✅ 所有模块导入成功")
-
+    print("  ✅ 采集器导入成功")
 except ImportError as e:
-    print(f"  ❌ 模块导入失败: {e}")
+    print(f"  ❌ 采集器导入失败: {e}")
     MODULES_LOADED = False
 
 print("=" * 60)
@@ -58,30 +47,8 @@ class SchedulerManager:
         self.setup_logging()
 
         if not MODULES_LOADED:
-            self.logger.error("模块加载失败")
-            return
-
-        self.logger.info("初始化组件...")
-
-        # 初始化分析器
-        try:
-            self.analyzer = BasicNewsAnalyzer()
-            self.logger.info("✅ 新闻分析器初始化成功")
-        except Exception as e:
-            self.logger.error(f"分析器初始化失败: {e}")
-            self.analyzer = None
-
-        # 初始化钉钉推送器
-        try:
-            self.dingtalk_notifier = DingTalkNotifier(
-                webhook_url=DINGTALK_CONFIG['webhook_url'],
-                secret=DINGTALK_CONFIG['secret'],
-                importance_threshold=DINGTALK_CONFIG['importance_threshold']
-            )
-            self.logger.info("✅ 钉钉推送器初始化成功")
-        except Exception as e:
-            self.logger.error(f"钉钉推送器初始化失败: {e}")
-            self.dingtalk_notifier = None
+            self.logger.error("模块加载失败，退出")
+            sys.exit(1)
 
         self.logger.info("✅ 调度管理器初始化完成")
 
@@ -110,75 +77,58 @@ class SchedulerManager:
         file_handler.setFormatter(formatter)
         self.logger.addHandler(file_handler)
 
-    def collect_and_store(self):
-        """完整的采集、推送流程（直接在消息中显示内容）"""
+    def collect_and_save_json(self):
+        """采集新闻并保存为JSON文件"""
         try:
             start_time = time.time()
             self.logger.info("📡 开始执行采集任务...")
 
             # 1. 采集新闻
             collector = EastMoneyCollector()
-            news_list = collector.fetch_news()
+            news_list = collector.fetch_news(page_size=30)
 
             if not news_list:
                 self.logger.warning("未采集到新闻数据")
                 return
 
-            self.logger.info(f"成功采集到 {len(news_list)} 条新闻")
+            self.logger.info(f"✅ 成功采集到 {len(news_list)} 条新闻")
 
-            # 2. 推送所有新闻
-            processed = 0
-            pushed = 0
+            # 2. 保存JSON文件
+            data_dir = Path(project_root) / "data"
+            data_dir.mkdir(exist_ok=True, parents=True)
 
-            for news_item in news_list:
-                try:
-                    self.logger.info(f"📨 推送新闻: {news_item['title'][:40]}...")
+            # 保存 latest.json（最新30条）
+            latest_path = data_dir / "latest.json"
+            with open(latest_path, "w", encoding="utf-8") as f:
+                json.dump(news_list[:30], f, ensure_ascii=False, indent=2)
+            self.logger.info(f"✅ 已保存: {latest_path}")
 
-                    # 使用新的直接发送方法
-                    success = self.dingtalk_notifier.send_news_direct(news_item)
+            # 保存 today.json（全部）
+            today_path = data_dir / "today.json"
+            with open(today_path, "w", encoding="utf-8") as f:
+                json.dump(news_list, f, ensure_ascii=False, indent=2)
+            self.logger.info(f"✅ 已保存: {today_path}")
 
-                    if success:
-                        pushed += 1
-                        self.logger.info(f"✅ 第 {pushed} 条新闻推送成功")
-                    else:
-                        self.logger.warning(f"⚠️ 新闻推送失败: {news_item['title'][:30]}...")
-
-                    processed += 1
-
-                    # 添加短暂延迟，避免请求过快
-                    if processed < len(news_list):
-                        time.sleep(0.5)
-
-                except Exception as e:
-                    self.logger.error(f"处理新闻失败: {e}")
-                    continue
+            # 保存时间戳
+            timestamp_path = data_dir / "last_update.txt"
+            current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            with open(timestamp_path, "w", encoding="utf-8") as f:
+                f.write(current_time)
+            self.logger.info(f"✅ 已保存: {timestamp_path} ({current_time})")
 
             # 3. 输出统计
             elapsed = time.time() - start_time
             self.logger.info("=" * 50)
             self.logger.info(f"📊 任务完成统计:")
             self.logger.info(f"   采集: {len(news_list)} 条")
-            self.logger.info(f"   推送: {pushed} 条")
-            self.logger.info(f"   成功: {pushed} 条")
+            self.logger.info(f"   文件大小: {latest_path.stat().st_size} 字节")
             self.logger.info(f"   耗时: {elapsed:.2f} 秒")
             self.logger.info("=" * 50)
 
         except Exception as e:
-            self.logger.error(f"采集任务执行失败: {e}")
-
-
-            # 3. 输出统计
-            elapsed = time.time() - start_time
-            self.logger.info("=" * 50)
-            self.logger.info(f"📊 任务完成统计:")
-            self.logger.info(f"   采集: {len(news_list)} 条")
-            self.logger.info(f"   处理: {processed} 条")
-            self.logger.info(f"   推送: {pushed} 条")
-            self.logger.info(f"   耗时: {elapsed:.2f} 秒")
-            self.logger.info("=" * 50)
-
-        except Exception as e:
-            self.logger.error(f"采集任务执行失败: {e}")
+            self.logger.error(f"❌ 采集任务执行失败: {e}")
+            import traceback
+            traceback.print_exc()
 
     def start(self):
         """启动调度器"""
@@ -187,13 +137,13 @@ class SchedulerManager:
 
 # ========== 主函数 ==========
 def main():
-    parser = argparse.ArgumentParser(description='财经新闻采集调度器')
-    parser.add_argument('--test', action='store_true', help='测试模式')
-    parser.add_argument('--interval', type=int, default=1, help='采集间隔（分钟）')
+    parser = argparse.ArgumentParser(description='财经新闻采集调度器（JSON版）')
+    parser.add_argument('--test', action='store_true', help='测试模式（执行一次后退出）')
+    parser.add_argument('--interval', type=int, default=30, help='采集间隔（分钟）')
     args = parser.parse_args()
 
     print("\n" + "=" * 60)
-    print("🚀 财经新闻智能采集系统")
+    print("🚀 财经新闻智能采集系统 - JSON版")
     print("=" * 60 + "\n")
 
     # 创建调度管理器
@@ -201,9 +151,9 @@ def main():
 
     # 测试模式
     if args.test:
-        print("🔬 测试模式 - 执行一次完整流程")
+        print("🔬 测试模式 - 执行一次")
         print("-" * 40)
-        scheduler.collect_and_store()
+        scheduler.collect_and_save_json()
         print("-" * 40)
         print("✅ 测试完成！")
         return
@@ -211,14 +161,17 @@ def main():
     # 正常模式
     print(f"⏰ 配置定时任务（每 {args.interval} 分钟）")
     scheduler.scheduler.add_job(
-        func=scheduler.collect_and_store,
+        func=scheduler.collect_and_save_json,
         trigger='interval',
         minutes=args.interval,
         id='news_collector'
     )
 
     print("\n✅ 系统已启动，按 Ctrl+C 退出\n")
-    scheduler.start()
+    try:
+        scheduler.start()
+    except KeyboardInterrupt:
+        print("\n👋 调度器已停止")
 
 
 if __name__ == "__main__":
