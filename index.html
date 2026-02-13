@@ -259,3 +259,10 @@ async function loadNews() {
     </script>
 </body>
 </html>
+
+
+// 在 index.html 底部添加这行调试代码，看看是否真的能访问
+fetch('https://cdn.jsdelivr.net/gh/fred0755/finance_news_collector@main/data/latest.json')
+    .then(res => res.json())
+    .then(data => console.log('✅ CDN 成功:', data.length))
+    .catch(err => console.error('❌ CDN 失败:', err));
