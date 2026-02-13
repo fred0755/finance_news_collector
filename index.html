@@ -167,7 +167,7 @@
     <script>
 async function loadNews() {
     try {
-        // 使用 jsDelivr CDN 作为数据源（完美解决跨域）
+        // 使用 jsDelivr CDN 作为数据源（全球加速，无跨域问题）
         const baseUrl = 'https://cdn.jsdelivr.net/gh/fred0755/finance_news_collector@main';
 
         const [newsRes, timeRes] = await Promise.all([
@@ -181,7 +181,7 @@ async function loadNews() {
         const news = await newsRes.json();
         const updateTime = await timeRes.text();
 
-        // ... 其余代码不变
+        // ... 后面的代码保持不变 ...
     }
 }
                 
