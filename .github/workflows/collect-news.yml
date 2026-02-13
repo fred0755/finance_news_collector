@@ -71,7 +71,7 @@ jobs:
           # 推送到 Gitee
           if [ -n "$GITEE_USERNAME" ] && [ -n "$GITEE_TOKEN" ]; then
             echo "推送到 Gitee..."
-            git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main
+            git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main --force
             echo "✅ 同步完成"
           else
             echo "⚠️ Gitee 凭证未配置"
@@ -82,34 +82,43 @@ jobs:
           echo "🎉 完成"
           echo "========================================="
 
-      - name: 钉钉通知
-        if: always()
-        env:
-          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
-        run: |
-          if [ -z "$DINGTALK_WEBHOOK" ]; then
-            echo "⚠️ 钉钉未配置"
-            exit 0
-          fi
-          
-          STATUS="${{ job.status }}"
-          TIME=$(date '+%Y-%m-%d %H:%M:%S')
-          
-          if [ "$STATUS" = "success" ]; then
-            MSG="✅ 财经新闻云端采集成功"
-            if [ -f "data/latest.json" ]; then
-              COUNT=$(grep -o '"title"' data/latest.json | wc -l)
-              MSG="$MSG，今日已采集 $COUNT 条新闻"
-            fi
-          else
-            MSG="❌ 财经新闻云端采集失败"
-          fi
-          
-          curl -s -X POST "$DINGTALK_WEBHOOK" \
-            -H "Content-Type: application/json" \
-            -d "{
-              \"msgtype\": \"text\",
-              \"text\": {
-                \"content\": \"$MSG\n🕐 $TIME\n🔗 https://gitee.com/${{ secrets.GITEE_USERNAME }}/finance_news_collector/tree/main/data\"
-              }
-            }"
+- name: 钉钉通知
+  if: always()
+  env:
+    DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+    DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}  # 新增：钉钉加签密钥
+  run: |
+    if [ -z "$DINGTALK_WEBHOOK" ]; then
+      echo "⚠️ 钉钉未配置"
+      exit 0
+    fi
+    
+    # 计算签名
+    TIMESTAMP=$(date +%s%3N)
+    SECRET_STR="$TIMESTAMP\n$DINGTALK_SECRET"
+    SIGN=$(echo -en "$SECRET_STR" | openssl dgst -sha256 -hmac "$DINGTALK_SECRET" -binary | base64 | tr -d '\n')
+    SIGN=$(echo -n "$SIGN" | jq -sRr @uri)
+    
+    WEBHOOK_URL="${DINGTALK_WEBHOOK}&timestamp=${TIMESTAMP}&sign=${SIGN}"
+    
+    STATUS="${{ job.status }}"
+    TIME=$(date '+%Y-%m-%d %H:%M:%S')
+    
+    if [ "$STATUS" = "success" ]; then
+      MSG="✅ 财经新闻云端采集成功"
+      if [ -f "data/latest.json" ]; then
+        COUNT=$(grep -o '"title"' data/latest.json | wc -l)
+        MSG="$MSG，今日已采集 $COUNT 条新闻"
+      fi
+    else
+      MSG="❌ 财经新闻云端采集失败"
+    fi
+    
+    curl -s -X POST "$WEBHOOK_URL" \
+      -H "Content-Type: application/json" \
+      -d "{
+        \"msgtype\": \"text\",
+        \"text\": {
+          \"content\": \"$MSG\n🕐 $TIME\n🔗 https://gitee.com/${{ secrets.GITEE_USERNAME }}/finance_news_collector/tree/main/data\"
+        }
+      }"
