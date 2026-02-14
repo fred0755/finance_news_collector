@@ -1,3 +1,8 @@
+# 删除旧文件（注意备份）
+Remove-Item .github/workflows/collect-news.yml
+
+# 重新创建，指定 UTF-8 编码
+@"
 name: 财经新闻云端采集
 
 on:
@@ -16,7 +21,7 @@ jobs:
       - name: 检出代码
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # 完整克隆，解决 Gitee 推送问题
+          fetch-depth: 0
 
       - name: 设置Python
         uses: actions/setup-python@v4
@@ -39,11 +44,9 @@ jobs:
           echo "🚀 开始采集"
           echo "========================================="
           
-          # 进入采集目录并执行
           cd src/collectors
           python run_github_action.py
           
-          # 返回项目根目录
           cd ../..
           
           echo ""
@@ -57,18 +60,14 @@ jobs:
           echo "📤 同步到 Gitee"
           echo "========================================="
           
-          # 配置 git
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
-          # 确保 data 目录被跟踪
           mkdir -p data
           
-          # 添加并提交
           git add data/
           git diff --cached --quiet || git commit -m "chore: 自动更新财经新闻数据 $(date +'%Y-%m-%d %H:%M:%S')"
           
-          # 推送到 Gitee
           if [ -n "$GITEE_USERNAME" ] && [ -n "$GITEE_TOKEN" ]; then
             echo "推送到 Gitee..."
             git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main --force
@@ -82,43 +81,20 @@ jobs:
           echo "🎉 完成"
           echo "========================================="
 
-- name: 钉钉通知
-  if: always()
-  env:
-    DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
-    DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}  # 新增：钉钉加签密钥
-  run: |
-    if [ -z "$DINGTALK_WEBHOOK" ]; then
-      echo "⚠️ 钉钉未配置"
-      exit 0
-    fi
-    
-    # 计算签名
-    TIMESTAMP=$(date +%s%3N)
-    SECRET_STR="$TIMESTAMP\n$DINGTALK_SECRET"
-    SIGN=$(echo -en "$SECRET_STR" | openssl dgst -sha256 -hmac "$DINGTALK_SECRET" -binary | base64 | tr -d '\n')
-    SIGN=$(echo -n "$SIGN" | jq -sRr @uri)
-    
-    WEBHOOK_URL="${DINGTALK_WEBHOOK}&timestamp=${TIMESTAMP}&sign=${SIGN}"
-    
-    STATUS="${{ job.status }}"
-    TIME=$(date '+%Y-%m-%d %H:%M:%S')
-    
-    if [ "$STATUS" = "success" ]; then
-      MSG="✅ 财经新闻云端采集成功"
-      if [ -f "data/latest.json" ]; then
-        COUNT=$(grep -o '"title"' data/latest.json | wc -l)
-        MSG="$MSG，今日已采集 $COUNT 条新闻"
-      fi
-    else
-      MSG="❌ 财经新闻云端采集失败"
-    fi
-    
-    curl -s -X POST "$WEBHOOK_URL" \
-      -H "Content-Type: application/json" \
-      -d "{
-        \"msgtype\": \"text\",
-        \"text\": {
-          \"content\": \"$MSG\n🕐 $TIME\n🔗 https://gitee.com/${{ secrets.GITEE_USERNAME }}/finance_news_collector/tree/main/data\"
-        }
-      }"
+      - name: 钉钉通知
+        if: always()
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+        run: |
+          if [ -z "$DINGTALK_WEBHOOK" ]; then
+            exit 0
+          fi
+          STATUS="${{ job.status }}"
+          TIME=$(date '+%Y-%m-%d %H:%M:%S')
+          if [ "$STATUS" = "success" ]; then
+            MSG="✅ 采集成功"
+          else
+            MSG="❌ 采集失败"
+          fi
+          curl -s -X POST "$DINGTALK_WEBHOOK" -H "Content-Type: application/json" -d "{\"msgtype\":\"text\",\"text\":{\"content\":\"$MSG $TIME\"}}"
+"@ | Set-Content -Path .github/workflows/collect-news.yml -Encoding UTF8
