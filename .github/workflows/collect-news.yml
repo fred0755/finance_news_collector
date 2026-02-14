@@ -7,6 +7,10 @@ on:
   push:
     branches: [ main ]
 
+# 🚨 关键修复：赋予写入权限
+permissions:
+  contents: write
+
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -30,10 +34,6 @@ jobs:
           pip install requests
 
       - name: 运行采集脚本
-        id: collect
-        env:
-          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
-          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
         run: |
           echo "========================================="
           echo "🚀 开始采集"
@@ -56,13 +56,13 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
-          # 强制添加 data 目录（忽略 .gitignore）
+          # 强制添加 data 目录
           git add -f data/
           
           # 如果有变更则提交
           git diff --cached --quiet || git commit -m "chore: 自动更新财经新闻数据 $(date +'%Y-%m-%d %H:%M:%S')"
           
-          # 推送到 GitHub（注意：这里必须用 origin，不是 github）
+          # 推送到 GitHub
           git push origin main
           echo "✅ 已推送到 GitHub"
 
@@ -79,7 +79,7 @@ jobs:
             echo "⚠️ Gitee 凭证未配置"
           fi
 
-      - name: 钉钉通知（可选）
+      - name: 钉钉通知
         if: always()
         env:
           DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
