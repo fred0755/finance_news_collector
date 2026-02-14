@@ -62,8 +62,8 @@ jobs:
           # 如果有变更则提交
           git diff --cached --quiet || git commit -m "chore: 自动更新财经新闻数据 $(date +'%Y-%m-%d %H:%M:%S')"
           
-          # 推送到 GitHub
-          git push github main
+          # 推送到 GitHub（注意：这里必须用 origin，不是 github）
+          git push origin main
           echo "✅ 已推送到 GitHub"
 
       - name: 同步到 Gitee（镜像备份）
