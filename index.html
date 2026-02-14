@@ -56,62 +56,149 @@
             font-size: 0.95rem;
         }
 
+        /* 搜索栏 */
+        .search-bar {
+            background: white;
+            border-radius: 50px;
+            padding: 8px 16px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.02);
+        }
+
+        .search-bar input {
+            flex: 1;
+            border: none;
+            outline: none;
+            font-size: 0.95rem;
+            padding: 8px 0;
+            background: transparent;
+        }
+
+        .search-bar button {
+            background: #2a6f97;
+            color: white;
+            border: none;
+            border-radius: 40px;
+            padding: 8px 20px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .search-bar button:hover {
+            background: #1e4a6b;
+        }
+
+        .search-clear {
+            margin-left: 8px;
+            color: #6b7a8f;
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+
         .news-list {
             display: flex;
             flex-direction: column;
-            gap: 18px;
+            gap: 12px;
         }
 
         .news-card {
             background: white;
-            border-radius: 24px;
-            padding: 22px;
-            box-shadow: 0 6px 14px rgba(0,0,0,0.02);
+            border-radius: 16px;
+            padding: 16px 20px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.02);
             border-left: 4px solid #2a6f97;
-            transition: all 0.25s ease;
+            transition: all 0.2s ease;
+        }
+
+        .news-card:hover {
+            box-shadow: 0 8px 18px rgba(0,40,80,0.08);
+            transform: translateY(-2px);
         }
 
         .news-title {
-            font-size: 1.15rem;
-            font-weight: 600;
+            font-size: 1rem;
+            font-weight: 500;
             color: #0a1c2c;
             line-height: 1.5;
             margin-bottom: 12px;
         }
 
-        .news-summary {
-            color: #334e68;
-            font-size: 0.96rem;
-            line-height: 1.6;
-            margin-bottom: 18px;
-            padding-bottom: 12px;
-            border-bottom: 1px solid #e9edf2;
-        }
-
-        .news-meta {
+        .sources-bar {
             display: flex;
             flex-wrap: wrap;
-            gap: 12px;
+            gap: 8px;
             align-items: center;
-            font-size: 0.82rem;
-            color: #486581;
+            margin-bottom: 10px;
         }
 
-        .meta-tag {
-            background: #f0f4fa;
-            padding: 6px 16px;
-            border-radius: 30px;
+        .source-icon {
             display: inline-flex;
             align-items: center;
-            gap: 6px;
+            justify-content: center;
+            padding: 6px 12px;
+            border-radius: 30px;
+            background: #f0f4fa;
+            color: #2a6f97;
+            text-decoration: none;
+            font-size: 0.85rem;
+            transition: all 0.2s ease;
+            border: 1px solid transparent;
         }
 
-        .stock-tag {
-            background: #e1ecfe;
-            color: #0369a1;
-            padding: 6px 16px;
-            border-radius: 30px;
+        .source-icon:hover {
+            background: #2a6f97;
+            color: white;
+            border-color: #2a6f97;
+            transform: scale(1.02);
+        }
+
+        .source-icon .emoji {
+            margin-right: 4px;
+            font-size: 1rem;
+        }
+
+        .news-time {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.8rem;
+            color: #6b7a8f;
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid #e9ecf2;
+        }
+
+        .news-time .time-icon {
+            font-size: 0.9rem;
+        }
+
+        /* 加载更多按钮 */
+        .load-more {
+            background: white;
+            border: 1px solid #d0dae8;
+            border-radius: 40px;
+            padding: 14px;
+            margin: 20px 0;
+            text-align: center;
+            color: #2a6f97;
             font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .load-more:hover {
+            background: #2a6f97;
+            color: white;
+            border-color: #2a6f97;
+        }
+
+        .load-more.disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            pointer-events: none;
         }
 
         .loading, .error, .empty {
@@ -170,6 +257,23 @@
             display: inline-block;
             margin-bottom: 16px;
         }
+
+        /* 移动端优化 */
+        @media (max-width: 480px) {
+            .news-card {
+                padding: 14px 16px;
+            }
+            .news-title {
+                font-size: 0.95rem;
+            }
+            .source-icon {
+                padding: 4px 10px;
+                font-size: 0.8rem;
+            }
+            .news-time {
+                font-size: 0.75rem;
+            }
+        }
     </style>
 </head>
 <body>
@@ -184,116 +288,298 @@
             </div>
         </div>
 
+        <!-- 搜索栏 -->
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="搜索新闻标题..." value="">
+            <button id="search-btn">搜索</button>
+            <span class="search-clear" id="clear-search" style="display: none;">✕</span>
+        </div>
+
         <div id="news-list" class="news-list">
             <div class="loading">
                 <span>📡</span>
-                正在加载财经新闻...
+                正在加载今日新闻...
             </div>
+        </div>
+
+        <!-- 加载更多按钮 -->
+        <div id="load-more-btn" class="load-more" style="display: none;">
+            📅 加载前一天新闻
         </div>
 
         <div class="footer">
             <span class="update-badge">⚡ 每30分钟自动更新</span>
             <p style="margin-top: 20px;">
-                📌 数据源: 东方财富快讯 · 同域名加载<br>
+                📌 点击来源图标查看原文 · 多源合并展示 · 支持历史检索<br>
                 🚀 基于 GitHub Actions + Cloudflare Pages
             </p>
         </div>
     </div>
 
     <script>
-        async function loadNews() {
-            const newsContainer = document.getElementById('news-list');
-            const updateTimeEl = document.getElementById('update-time');
-            const newsCountEl = document.getElementById('news-count');
+        // ==================== 全局变量 ====================
+        let allNews = [];              // 所有已加载的新闻（合并后）
+        let displayedNews = [];        // 当前显示的新闻（受搜索和加载影响）
+        let loadedDates = new Set();   // 已加载的日期
+        let currentSearchTerm = '';    // 当前搜索词
+        let isLoading = false;         // 防止重复加载
+        let todayStr = '';             // 今天的日期字符串
+
+        // 来源图标配置
+        const SOURCE_CONFIG = {
+            '东方财富': { emoji: '📈', name: '东方财富' },
+            '东方财富快讯': { emoji: '📈', name: '东方财富' },
+            '财联社': { emoji: '📡', name: '财联社' },
+            '新浪财经': { emoji: '🐦', name: '新浪财经' },
+            '华尔街见闻': { emoji: '📰', name: '华尔街见闻' },
+            '证券时报': { emoji: '📊', name: '证券时报' },
+            '第一财经': { emoji: '📺', name: '第一财经' },
+            '默认': { emoji: '🔗', name: '原文' }
+        };
+
+        // 获取来源配置
+        function getSourceConfig(source) {
+            if (!source) return SOURCE_CONFIG['默认'];
+            return SOURCE_CONFIG[source] || SOURCE_CONFIG['默认'];
+        }
+
+        // 获取正确链接
+        function getNewsUrl(item) {
+            if (item.code) {
+                return `https://finance.eastmoney.com/a/${item.code}.html`;
+            }
+            return 'https://finance.eastmoney.com/';
+        }
+
+        // 格式化时间
+        function formatNewsTime(timeStr) {
+            if (!timeStr) return '未知时间';
+            const match = timeStr.match(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/);
+            if (match) {
+                return `${match[1].slice(5)} ${match[2]}`;
+            }
+            return timeStr;
+        }
+
+        // 获取新闻时间
+        function getNewsTime(item) {
+            const fields = ['showTime', 'time', 'publish_time', 'pubDate'];
+            for (const field of fields) {
+                if (item[field]) return formatNewsTime(item[field]);
+                if (item.raw_data?.[field]) return formatNewsTime(item.raw_data[field]);
+            }
+            return '未知时间';
+        }
+
+        // 合并新闻（按标题去重）
+        function mergeNews(newsList) {
+            const newsMap = new Map();
+            newsList.forEach(item => {
+                const title = item.title || '无标题';
+                if (!newsMap.has(title)) {
+                    newsMap.set(title, {
+                        title: title,
+                        time: getNewsTime(item),
+                        sources: [{
+                            name: item.source || '默认',
+                            url: getNewsUrl(item),
+                            config: getSourceConfig(item.source)
+                        }]
+                    });
+                } else {
+                    const existing = newsMap.get(title);
+                    const sourceName = item.source || '默认';
+                    if (!existing.sources.some(s => s.name === sourceName)) {
+                        existing.sources.push({
+                            name: sourceName,
+                            url: getNewsUrl(item),
+                            config: getSourceConfig(sourceName)
+                        });
+                    }
+                }
+            });
+            return Array.from(newsMap.values());
+        }
+
+        // 按时间排序
+        function sortByTime(newsArray) {
+            return newsArray.sort((a, b) => {
+                if (a.time === '未知时间' && b.time === '未知时间') return 0;
+                if (a.time === '未知时间') return 1;
+                if (b.time === '未知时间') return -1;
+                return b.time.localeCompare(a.time);
+            });
+        }
+
+        // 过滤新闻（根据搜索词）
+        function filterNews(newsArray, searchTerm) {
+            if (!searchTerm) return newsArray;
+            const term = searchTerm.toLowerCase();
+            return newsArray.filter(item =>
+                item.title.toLowerCase().includes(term)
+            );
+        }
+
+        // 渲染新闻列表
+        function renderNews(newsArray) {
+            const container = document.getElementById('news-list');
+            if (!newsArray || newsArray.length === 0) {
+                container.innerHTML = '<div class="empty"><span>📭</span><h3>暂无新闻</h3></div>';
+                return;
+            }
+
+            let html = '';
+            newsArray.forEach(item => {
+                let sourcesHtml = '';
+                item.sources.forEach(source => {
+                    sourcesHtml += `
+                        <a href="${escapeHtml(source.url)}" target="_blank" class="source-icon" title="查看${source.name}原文">
+                            <span class="emoji">${source.config.emoji}</span> ${source.config.name}
+                        </a>
+                    `;
+                });
+
+                html += `
+                    <div class="news-card">
+                        <div class="news-title">${escapeHtml(item.title)}</div>
+                        <div class="sources-bar">${sourcesHtml}</div>
+                        <div class="news-time">
+                            <span class="time-icon">🕐</span>
+                            <span>${item.time}</span>
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+            document.getElementById('news-count').textContent = allNews.length;
+        }
+
+        // 加载某一天的数据
+        async function loadDateData(dateStr) {
+            if (loadedDates.has(dateStr)) return null;
 
             try {
-                console.log('🔄 开始加载新闻，时间戳:', Date.now());
+                const response = await fetch(`/data/archive/${dateStr}.json?t=${Date.now()}`);
+                if (!response.ok) return null;
 
-                // ✅ 关键修改：从当前域名下的 /data/ 目录加载
+                const data = await response.json();
+                loadedDates.add(dateStr);
+                return data;
+            } catch (e) {
+                console.error(`加载 ${dateStr} 失败:`, e);
+                return null;
+            }
+        }
+
+        // 加载今日数据
+        async function loadToday() {
+            try {
                 const [newsRes, timeRes] = await Promise.all([
-                    fetch('/data/latest.json?t=' + Date.now()),
+                    fetch('/data/today.json?t=' + Date.now()),
                     fetch('/data/last_update.txt?t=' + Date.now())
                 ]);
 
-                console.log('📡 新闻响应状态:', newsRes.status);
-                console.log('📡 时间响应状态:', timeRes.status);
-
-                if (!newsRes.ok) {
-                    throw new Error(`新闻数据加载失败 (HTTP ${newsRes.status})`);
-                }
-                if (!timeRes.ok) {
-                    throw new Error(`时间戳加载失败 (HTTP ${timeRes.status})`);
-                }
+                if (!newsRes.ok) throw new Error('今日数据加载失败');
 
                 const news = await newsRes.json();
                 const updateTime = await timeRes.text();
 
-                console.log(`✅ 加载成功: ${news.length} 条新闻, 更新时间: ${updateTime}`);
+                // 设置今天日期
+                const today = new Date().toISOString().split('T')[0];
+                todayStr = today;
+                loadedDates.add(today);
+
+                // 合并并排序
+                allNews = sortByTime(mergeNews(news));
+                displayedNews = filterNews(allNews, currentSearchTerm);
+                renderNews(displayedNews);
 
                 // 更新头部
                 const timeStr = updateTime.trim().slice(5, 16) || updateTime.trim();
-                updateTimeEl.textContent = timeStr;
-                newsCountEl.textContent = news.length;
+                document.getElementById('update-time').textContent = timeStr;
 
-                if (!news || news.length === 0) {
-                    newsContainer.innerHTML = '<div class="empty"><span>📭</span><h3>暂无新闻</h3></div>';
-                    return;
-                }
-
-                // 渲染新闻
-                let html = '';
-                news.forEach(item => {
-                    const title = escapeHtml(item.title || '财经快讯');
-                    const summary = escapeHtml(item.summary || item.content || '暂无详细内容');
-                    const source = escapeHtml(item.source || '东方财富快讯');
-
-                    let time = item.time || item.publish_time || '';
-                    time = time.slice(5, 16) || time;
-
-                    const importance = item.importance || 5;
-                    const stars = '⭐'.repeat(Math.min(5, Math.ceil(importance / 2)));
-
-                    const stockTag = item.has_stock_mention
-                        ? '<span class="stock-tag">📈 涉及个股</span>'
-                        : '';
-
-                    html += `
-                        <div class="news-card">
-                            <div class="news-title">${title}</div>
-                            <div class="news-summary">${summary.length > 120 ? summary.slice(0, 120) + '…' : summary}</div>
-                            <div class="news-meta">
-                                <span class="meta-tag">📌 ${source}</span>
-                                <span class="meta-tag">🕐 ${time}</span>
-                                <span class="meta-tag">${stars}</span>
-                                ${stockTag}
-                            </div>
-                        </div>
-                    `;
-                });
-
-                newsContainer.innerHTML = html;
+                // 显示加载更多按钮
+                document.getElementById('load-more-btn').style.display = 'block';
 
             } catch (error) {
-                console.error('❌ 加载失败:', error);
-
-                newsContainer.innerHTML = `
+                console.error('加载今日数据失败:', error);
+                document.getElementById('news-list').innerHTML = `
                     <div class="error">
                         <span>⚠️</span>
-                        <h3 style="margin: 16px 0 8px;">加载失败</h3>
-                        <p style="color: #b91c1c; background: #fee2e2; padding: 8px 16px; border-radius: 40px; display: inline-block;">
-                            ${error.message}
-                        </p>
-                        <button onclick="window.location.reload(true)" class="retry-btn">
-                            手动重试
-                        </button>
-                        <p style="margin-top: 20px; font-size: 0.75rem;">
-                            打开控制台 (F12) 查看详细错误
-                        </p>
+                        <h3>加载失败</h3>
+                        <p>${error.message}</p>
+                        <button onclick="location.reload()" class="retry-btn">重试</button>
                     </div>
                 `;
             }
         }
 
+        // 加载前一天的数据
+        async function loadPreviousDay() {
+            if (isLoading) return;
+            isLoading = true;
+
+            const loadMoreBtn = document.getElementById('load-more-btn');
+            loadMoreBtn.classList.add('disabled');
+            loadMoreBtn.textContent = '📅 加载中...';
+
+            // 计算需要加载的日期
+            let targetDate = new Date(todayStr);
+            let daysToTry = 0;
+            let loaded = false;
+
+            while (!loaded && daysToTry < 30) {  // 最多尝试加载30天前
+                daysToTry++;
+                targetDate.setDate(targetDate.getDate() - 1);
+                const dateStr = targetDate.toISOString().split('T')[0];
+
+                if (!loadedDates.has(dateStr)) {
+                    const data = await loadDateData(dateStr);
+                    if (data && data.length > 0) {
+                        const merged = mergeNews(data);
+                        allNews = sortByTime([...allNews, ...merged]);
+                        displayedNews = filterNews(allNews, currentSearchTerm);
+                        renderNews(displayedNews);
+                        loaded = true;
+                        break;
+                    }
+                }
+            }
+
+            loadMoreBtn.classList.remove('disabled');
+            loadMoreBtn.textContent = loaded ? '📅 加载前一天新闻' : '📅 没有更早的新闻了';
+            if (!loaded) {
+                setTimeout(() => {
+                    loadMoreBtn.textContent = '📅 加载前一天新闻';
+                }, 2000);
+            }
+
+            isLoading = false;
+        }
+
+        // 搜索处理
+        function handleSearch() {
+            const searchInput = document.getElementById('search-input');
+            const term = searchInput.value.trim();
+            currentSearchTerm = term;
+
+            document.getElementById('clear-search').style.display = term ? 'inline' : 'none';
+
+            displayedNews = filterNews(allNews, term);
+            renderNews(displayedNews);
+        }
+
+        // 清除搜索
+        function clearSearch() {
+            document.getElementById('search-input').value = '';
+            currentSearchTerm = '';
+            document.getElementById('clear-search').style.display = 'none';
+            displayedNews = filterNews(allNews, '');
+            renderNews(displayedNews);
+        }
+
+        // HTML转义
         function escapeHtml(unsafe) {
             if (!unsafe) return '';
             return String(unsafe)
@@ -304,10 +590,26 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // 页面加载后执行
+        // 初始化
         window.addEventListener('DOMContentLoaded', () => {
-            loadNews();
-            setInterval(loadNews, 60000);
+            loadToday();
+
+            // 绑定事件
+            document.getElementById('search-btn').addEventListener('click', handleSearch);
+            document.getElementById('clear-search').addEventListener('click', clearSearch);
+            document.getElementById('load-more-btn').addEventListener('click', loadPreviousDay);
+
+            // 回车搜索
+            document.getElementById('search-input').addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') handleSearch();
+            });
+
+            // 每60秒刷新今日数据
+            setInterval(() => {
+                if (!currentSearchTerm) {  // 不在搜索状态时自动刷新
+                    loadToday();
+                }
+            }, 60000);
         });
     </script>
 </body>
