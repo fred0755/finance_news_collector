@@ -30,6 +30,7 @@ jobs:
           pip install requests
 
       - name: 运行采集脚本
+        id: collect
         env:
           GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
@@ -49,28 +50,48 @@ jobs:
           echo "========================================="
           ls -la data/
           echo ""
-          
-          echo "========================================="
-          echo "📤 同步到 Gitee"
-          echo "========================================="
-          
+
+      - name: 提交并推送数据到 GitHub
+        run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           
-          mkdir -p data
+          # 强制添加 data 目录（忽略 .gitignore）
+          git add -f data/
           
-          git add data/
+          # 如果有变更则提交
           git diff --cached --quiet || git commit -m "chore: 自动更新财经新闻数据 $(date +'%Y-%m-%d %H:%M:%S')"
           
+          # 推送到 GitHub
+          git push github main
+          echo "✅ 已推送到 GitHub"
+
+      - name: 同步到 Gitee（镜像备份）
+        env:
+          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
           if [ -n "$GITEE_USERNAME" ] && [ -n "$GITEE_TOKEN" ]; then
             echo "推送到 Gitee..."
             git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main --force
-            echo "✅ 同步完成"
+            echo "✅ Gitee 同步完成"
           else
             echo "⚠️ Gitee 凭证未配置"
           fi
-          
-          echo ""
-          echo "========================================="
-          echo "🎉 完成"
-          echo "========================================="
+
+      - name: 钉钉通知（可选）
+        if: always()
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+        run: |
+          if [ -z "$DINGTALK_WEBHOOK" ]; then
+            exit 0
+          fi
+          STATUS="${{ job.status }}"
+          TIME=$(date '+%Y-%m-%d %H:%M:%S')
+          if [ "$STATUS" = "success" ]; then
+            MSG="✅ 采集成功"
+          else
+            MSG="❌ 采集失败"
+          fi
+          curl -s -X POST "$DINGTALK_WEBHOOK" -H "Content-Type: application/json" -d "{\"msgtype\":\"text\",\"text\":{\"content\":\"$MSG $TIME\"}}"
