@@ -18,6 +18,7 @@ def main():
 
     # 创建数据目录
     data_dir.mkdir(exist_ok=True, parents=True)
+    print(f"📁 数据目录: {data_dir}")
 
     # 切换到项目根目录
     os.chdir(project_root)
@@ -32,20 +33,44 @@ def main():
         print("❌ 采集失败")
         sys.exit(1)
 
-    print(f"✅ 成功采集 {len(news_list)} 条")
+    print(f"✅ 成功采集 {len(news_list)} 条新闻")
 
-    # 保存文件
-    with open(data_dir / "latest.json", "w", encoding="utf-8") as f:
+    # 显示第一条作为示例
+    if len(news_list) > 0:
+        print(f"📰 示例: {news_list[0].get('title', '')[:50]}...")
+
+    # ========== 保存文件 ==========
+    print("\n💾 正在保存文件...")
+
+    # 1. 保存 latest.json（最新30条）
+    latest_path = data_dir / "latest.json"
+    with open(latest_path, "w", encoding="utf-8") as f:
         json.dump(news_list[:30], f, ensure_ascii=False, indent=2)
+    print(f"  ✅ latest.json: {len(news_list[:30])} 条")
 
-    with open(data_dir / "today.json", "w", encoding="utf-8") as f:
+    # 2. 保存 today.json（全部）
+    today_path = data_dir / "today.json"
+    with open(today_path, "w", encoding="utf-8") as f:
         json.dump(news_list, f, ensure_ascii=False, indent=2)
+    print(f"  ✅ today.json: {len(news_list)} 条")
 
-    with open(data_dir / "last_update.txt", "w", encoding="utf-8") as f:
-        f.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    # 3. 保存 last_update.txt（时间戳）
+    timestamp_path = data_dir / "last_update.txt"
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open(timestamp_path, "w", encoding="utf-8") as f:
+        f.write(current_time)
+    print(f"  ✅ last_update.txt: {current_time}")
 
-    print(f"✅ 数据已保存到 {data_dir}")
-    print(f"📰 示例: {news_list[0].get('title', '')[:50]}...")
+    # 显示文件大小
+    print("\n📊 文件大小:")
+    print(f"  latest.json: {latest_path.stat().st_size} 字节")
+    print(f"  today.json: {today_path.stat().st_size} 字节")
+    print(f"  last_update.txt: {timestamp_path.stat().st_size} 字节")
+
+    print("\n" + "=" * 50)
+    print("✅ 采集任务完成！")
+    print("=" * 50)
+
     sys.exit(0)
 
 
