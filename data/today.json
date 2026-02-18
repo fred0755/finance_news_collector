@@ -1,5 +1,1002 @@
 [
   {
+    "id": "51077eaf4fb5ca83",
+    "code": "202602193651461071",
+    "title": "意大利预计在2026年至2028年期间通过上调能源行业的工商业地税（IRAP）",
+    "summary": "法令显示，意大利预计在2026年至2028年期间通过上调能源行业的工商业地税（IRAP），共征收约10亿欧元。",
+    "content": "法令显示，意大利预计在2026年至2028年期间通过上调能源行业的工商业地税（IRAP），共征收约10亿欧元。",
+    "full_content": "法令显示，意大利预计在2026年至2028年期间通过上调能源行业的工商业地税（IRAP），共征收约10亿欧元。",
+    "raw_data": {
+      "code": "202602193651461071",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771436201061071",
+      "share": 0,
+      "showTime": "2026-02-19 01:36:41",
+      "stockList": [],
+      "summary": "法令显示，意大利预计在2026年至2028年期间通过上调能源行业的工商业地税（IRAP），共征收约10亿欧元。",
+      "title": "意大利预计在2026年至2028年期间通过上调能源行业的工商业地税（IRAP）",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 01:36:41",
+    "publish_time": "2026-02-19 01:36:41",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651461071.html",
+    "category": "外汇",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "521d488ba5006737",
+    "code": "202602193651460930",
+    "title": "WTI原油期货涨幅扩大至4%",
+    "summary": "WTI原油期货涨幅扩大至4%，报64.78美元/桶。",
+    "content": "WTI原油期货涨幅扩大至4%，报64.78美元/桶。",
+    "full_content": "WTI原油期货涨幅扩大至4%，报64.78美元/桶。",
+    "raw_data": {
+      "code": "202602193651460930",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771435245060930",
+      "share": 0,
+      "showTime": "2026-02-19 01:20:45",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "WTI原油期货涨幅扩大至4%，报64.78美元/桶。",
+      "title": "WTI原油期货涨幅扩大至4%",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 01:20:45",
+    "publish_time": "2026-02-19 01:20:45",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651460930.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "7a088a969b7b6be3",
+    "code": "202602193651460835",
+    "title": "美股半导体设备与材料概念走强",
+    "summary": "美股半导体设备与材料概念走强，应用材料、泰瑞达涨超4%，阿斯麦、泛林集团涨超3%，艾马克技术涨近2%。",
+    "content": "美股半导体设备与材料概念走强，应用材料、泰瑞达涨超4%，阿斯麦、泛林集团涨超3%，艾马克技术涨近2%。",
+    "full_content": "美股半导体设备与材料概念走强，应用材料、泰瑞达涨超4%，阿斯麦、泛林集团涨超3%，艾马克技术涨近2%。",
+    "raw_data": {
+      "code": "202602193651460835",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1771435119060835",
+      "share": 0,
+      "showTime": "2026-02-19 01:18:39",
+      "stockList": [
+        "90.BK1326",
+        "105.AMAT"
+      ],
+      "summary": "美股半导体设备与材料概念走强，应用材料、泰瑞达涨超4%，阿斯麦、泛林集团涨超3%，艾马克技术涨近2%。",
+      "title": "美股半导体设备与材料概念走强",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 01:18:39",
+    "publish_time": "2026-02-19 01:18:39",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651460835.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1326",
+      "105.AMAT"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "ddf717057cd8a0d7",
+    "code": "202602193651460757",
+    "title": "俄古外长举行会谈 俄方重申反对美国对古封锁",
+    "summary": "【俄古外长举行会谈 俄方重申反对美国对古封锁】据俄罗斯外交部当地时间2月18日消息，俄外长拉夫罗夫与正在俄进行工作访问的古巴外长罗德里格斯举行会谈。双方确认愿意继续在各个方向加强战略伙伴联盟关系，并就全球和地区议程中的紧迫问题交换了意见。",
+    "content": "【俄古外长举行会谈 俄方重申反对美国对古封锁】据俄罗斯外交部当地时间2月18日消息，俄外长拉夫罗夫与正在俄进行工作访问的古巴外长罗德里格斯举行会谈。双方确认愿意继续在各个方向加强战略伙伴联盟关系，并就全球和地区议程中的紧迫问题交换了意见。",
+    "full_content": "【俄古外长举行会谈 俄方重申反对美国对古封锁】据俄罗斯外交部当地时间2月18日消息，俄外长拉夫罗夫与正在俄进行工作访问的古巴外长罗德里格斯举行会谈。双方确认愿意继续在各个方向加强战略伙伴联盟关系，并就全球和地区议程中的紧迫问题交换了意见。",
+    "raw_data": {
+      "code": "202602193651460757",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771433896060757",
+      "share": 0,
+      "showTime": "2026-02-19 00:58:16",
+      "stockList": [],
+      "summary": "【俄古外长举行会谈 俄方重申反对美国对古封锁】据俄罗斯外交部当地时间2月18日消息，俄外长拉夫罗夫与正在俄进行工作访问的古巴外长罗德里格斯举行会谈。双方确认愿意继续在各个方向加强战略伙伴联盟关系，并就全球和地区议程中的紧迫问题交换了意见。",
+      "title": "俄古外长举行会谈 俄方重申反对美国对古封锁",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:58:16",
+    "publish_time": "2026-02-19 00:58:16",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651460757.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c974cbf3112dc58e",
+    "code": "202602193651460678",
+    "title": "多家环保组织起诉美政府撤销“温室气体危害认定”决定",
+    "summary": "【多家环保组织起诉美政府撤销“温室气体危害认定”决定】总台记者当地时间2月18日获悉，十余家公共卫生及环保组织在美国华盛顿特区联邦巡回上诉法院提起诉讼，挑战美政府撤销“温室气体危害认定”的决定。",
+    "content": "【多家环保组织起诉美政府撤销“温室气体危害认定”决定】总台记者当地时间2月18日获悉，十余家公共卫生及环保组织在美国华盛顿特区联邦巡回上诉法院提起诉讼，挑战美政府撤销“温室气体危害认定”的决定。",
+    "full_content": "【多家环保组织起诉美政府撤销“温室气体危害认定”决定】总台记者当地时间2月18日获悉，十余家公共卫生及环保组织在美国华盛顿特区联邦巡回上诉法院提起诉讼，挑战美政府撤销“温室气体危害认定”的决定。",
+    "raw_data": {
+      "code": "202602193651460678",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771433438060678",
+      "share": 2,
+      "showTime": "2026-02-19 00:50:38",
+      "stockList": [
+        "90.BK0728",
+        "1007.BK000184"
+      ],
+      "summary": "【多家环保组织起诉美政府撤销“温室气体危害认定”决定】总台记者当地时间2月18日获悉，十余家公共卫生及环保组织在美国华盛顿特区联邦巡回上诉法院提起诉讼，挑战美政府撤销“温室气体危害认定”的决定。",
+      "title": "多家环保组织起诉美政府撤销“温室气体危害认定”决定",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:50:38",
+    "publish_time": "2026-02-19 00:50:38",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651460678.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0728",
+      "1007.BK000184"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C706",
+          "name": "环保",
+          "matched_keyword": "环保"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C706"
+      ]
+    }
+  },
+  {
+    "id": "c93f8fe9b3550f35",
+    "code": "202602193651460497",
+    "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目",
+    "summary": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
+    "content": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
+    "full_content": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
+    "raw_data": {
+      "code": "202602193651460497",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771433022060497",
+      "share": 0,
+      "showTime": "2026-02-19 00:43:42",
+      "stockList": [
+        "90.BK0481"
+      ],
+      "summary": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
+      "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:43:42",
+    "publish_time": "2026-02-19 00:43:42",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651460497.html",
+    "category": "外汇",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0481"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        },
+        {
+          "id": "I010302",
+          "name": "汽车零部件",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "零部件"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301",
+        "I010302"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "993857b1d75da66c",
+    "code": "202602193651460342",
+    "title": "据报道 日本政府计划最早于四月公布立法修正案",
+    "summary": "据报道，日本政府计划最早于四月公布立法修正案，对机上使用移动电源设定更严格的限制。",
+    "content": "据报道，日本政府计划最早于四月公布立法修正案，对机上使用移动电源设定更严格的限制。",
+    "full_content": "据报道，日本政府计划最早于四月公布立法修正案，对机上使用移动电源设定更严格的限制。",
+    "raw_data": {
+      "code": "202602193651460342",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771432353060342",
+      "share": 0,
+      "showTime": "2026-02-19 00:32:33",
+      "stockList": [],
+      "summary": "据报道，日本政府计划最早于四月公布立法修正案，对机上使用移动电源设定更严格的限制。",
+      "title": "据报道 日本政府计划最早于四月公布立法修正案",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:32:33",
+    "publish_time": "2026-02-19 00:32:33",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651460342.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2c6331fd6762c256",
+    "code": "202602193651459952",
+    "title": "泽连斯基表示乌美俄三方在政治层面仍存分歧",
+    "summary": "【泽连斯基表示乌美俄三方在政治层面仍存分歧】乌克兰总统泽连斯基18日表示，在为期两天的日内瓦三方会谈中，乌克兰、美国和俄罗斯在军事层面表现出建设性态度，但在政治层面仍存在分歧。",
+    "content": "【泽连斯基表示乌美俄三方在政治层面仍存分歧】乌克兰总统泽连斯基18日表示，在为期两天的日内瓦三方会谈中，乌克兰、美国和俄罗斯在军事层面表现出建设性态度，但在政治层面仍存在分歧。",
+    "full_content": "【泽连斯基表示乌美俄三方在政治层面仍存分歧】乌克兰总统泽连斯基18日表示，在为期两天的日内瓦三方会谈中，乌克兰、美国和俄罗斯在军事层面表现出建设性态度，但在政治层面仍存在分歧。",
+    "raw_data": {
+      "code": "202602193651459952",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771432000059952",
+      "share": 1,
+      "showTime": "2026-02-19 00:26:40",
+      "stockList": [],
+      "summary": "【泽连斯基表示乌美俄三方在政治层面仍存分歧】乌克兰总统泽连斯基18日表示，在为期两天的日内瓦三方会谈中，乌克兰、美国和俄罗斯在军事层面表现出建设性态度，但在政治层面仍存在分歧。",
+      "title": "泽连斯基表示乌美俄三方在政治层面仍存分歧",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:26:40",
+    "publish_time": "2026-02-19 00:26:40",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651459952.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8a1c6fb9f80355a0",
+    "code": "202602193651459393",
+    "title": "尹锡悦涉嫌发动内乱案明日一审宣判 尹锡悦将出席",
+    "summary": "【尹锡悦涉嫌发动内乱案明日一审宣判 尹锡悦将出席】韩国前总统尹锡悦涉嫌发动内乱一案将于当地时间19日15时进行一审宣判，与尹锡悦一同被起诉的前国防部长官金龙显，前警察厅长赵志浩、前首尔警察厅长金峰埴、国防部前情报司令官卢相源等7名前军、警领导人也将一同接受宣判。尹锡悦方律师18日表示，尹锡悦将出席19日的宣判。",
+    "content": "【尹锡悦涉嫌发动内乱案明日一审宣判 尹锡悦将出席】韩国前总统尹锡悦涉嫌发动内乱一案将于当地时间19日15时进行一审宣判，与尹锡悦一同被起诉的前国防部长官金龙显，前警察厅长赵志浩、前首尔警察厅长金峰埴、国防部前情报司令官卢相源等7名前军、警领导人也将一同接受宣判。尹锡悦方律师18日表示，尹锡悦将出席19日的宣判。",
+    "full_content": "【尹锡悦涉嫌发动内乱案明日一审宣判 尹锡悦将出席】韩国前总统尹锡悦涉嫌发动内乱一案将于当地时间19日15时进行一审宣判，与尹锡悦一同被起诉的前国防部长官金龙显，前警察厅长赵志浩、前首尔警察厅长金峰埴、国防部前情报司令官卢相源等7名前军、警领导人也将一同接受宣判。尹锡悦方律师18日表示，尹锡悦将出席19日的宣判。",
+    "raw_data": {
+      "code": "202602193651459393",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771431028059393",
+      "share": 0,
+      "showTime": "2026-02-19 00:10:28",
+      "stockList": [],
+      "summary": "【尹锡悦涉嫌发动内乱案明日一审宣判 尹锡悦将出席】韩国前总统尹锡悦涉嫌发动内乱一案将于当地时间19日15时进行一审宣判，与尹锡悦一同被起诉的前国防部长官金龙显，前警察厅长赵志浩、前首尔警察厅长金峰埴、国防部前情报司令官卢相源等7名前军、警领导人也将一同接受宣判。尹锡悦方律师18日表示，尹锡悦将出席19日的宣判。",
+      "title": "尹锡悦涉嫌发动内乱案明日一审宣判 尹锡悦将出席",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:10:28",
+    "publish_time": "2026-02-19 00:10:28",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651459393.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "6cdde3bab90ed229",
+    "code": "202602193651459290",
+    "title": "谷歌公司增添音乐生成功能到Gemini APP",
+    "summary": "谷歌公司增添音乐生成功能到Gemini APP。",
+    "content": "谷歌公司增添音乐生成功能到Gemini APP。",
+    "full_content": "谷歌公司增添音乐生成功能到Gemini APP。",
+    "raw_data": {
+      "code": "202602193651459290",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771430876059290",
+      "share": 0,
+      "showTime": "2026-02-19 00:07:56",
+      "stockList": [
+        "105.GOOG"
+      ],
+      "summary": "谷歌公司增添音乐生成功能到Gemini APP。",
+      "title": "谷歌公司增添音乐生成功能到Gemini APP",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:07:56",
+    "publish_time": "2026-02-19 00:07:56",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651459290.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "be6529a9e0a035a2",
+    "code": "202602193651459148",
+    "title": "俄罗斯2月16日当周CPI周环比上升0.12%",
+    "summary": "俄罗斯2月16日当周CPI周环比上升0.12%。",
+    "content": "俄罗斯2月16日当周CPI周环比上升0.12%。",
+    "full_content": "俄罗斯2月16日当周CPI周环比上升0.12%。",
+    "raw_data": {
+      "code": "202602193651459148",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771430855059148",
+      "share": 0,
+      "showTime": "2026-02-19 00:07:35",
+      "stockList": [],
+      "summary": "俄罗斯2月16日当周CPI周环比上升0.12%。",
+      "title": "俄罗斯2月16日当周CPI周环比上升0.12%",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:07:35",
+    "publish_time": "2026-02-19 00:07:35",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651459148.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8b46553f9d97e467",
+    "code": "202602193651459074",
+    "title": "芯片初创公司Efficient Computer筹集6000万美元",
+    "summary": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
+    "content": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
+    "full_content": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
+    "raw_data": {
+      "code": "202602193651459074",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771430845059074",
+      "share": 0,
+      "showTime": "2026-02-19 00:07:25",
+      "stockList": [
+        "0.159813",
+        "150.159813"
+      ],
+      "summary": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
+      "title": "芯片初创公司Efficient Computer筹集6000万美元",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:07:25",
+    "publish_time": "2026-02-19 00:07:25",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651459074.html",
+    "category": "外汇",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159813",
+      "150.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "7e7609b29ddf204b",
+    "code": "202602193651458991",
+    "title": "英伟达持仓概念普升",
+    "summary": "英伟达持仓概念普升，新思科技、Coreweave、NEBIUS涨超5%，诺基亚涨近2%，英特尔涨近1%。",
+    "content": "英伟达持仓概念普升，新思科技、Coreweave、NEBIUS涨超5%，诺基亚涨近2%，英特尔涨近1%。",
+    "full_content": "英伟达持仓概念普升，新思科技、Coreweave、NEBIUS涨超5%，诺基亚涨近2%，英特尔涨近1%。",
+    "raw_data": {
+      "code": "202602193651458991",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771430669058991",
+      "share": 1,
+      "showTime": "2026-02-19 00:04:29",
+      "stockList": [
+        "90.BK1161",
+        "105.SNPS"
+      ],
+      "summary": "英伟达持仓概念普升，新思科技、Coreweave、NEBIUS涨超5%，诺基亚涨近2%，英特尔涨近1%。",
+      "title": "英伟达持仓概念普升",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 00:04:29",
+    "publish_time": "2026-02-19 00:04:29",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651458991.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.SNPS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c8a4840b1aa29584",
+    "code": "202602183651456759",
+    "title": "费城半导体指数上涨1.9%",
+    "summary": "费城半导体指数日内上涨1.9%，美光科技涨近6%，英伟达涨2.8%，阿斯麦涨2.6%，博通、台积电涨超1%。",
+    "content": "费城半导体指数日内上涨1.9%，美光科技涨近6%，英伟达涨2.8%，阿斯麦涨2.6%，博通、台积电涨超1%。",
+    "full_content": "费城半导体指数日内上涨1.9%，美光科技涨近6%，英伟达涨2.8%，阿斯麦涨2.6%，博通、台积电涨超1%。",
+    "raw_data": {
+      "code": "202602183651456759",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1771429318056759",
+      "share": 3,
+      "showTime": "2026-02-18 23:41:58",
+      "stockList": [
+        "105.NVDA",
+        "105.MU"
+      ],
+      "summary": "费城半导体指数日内上涨1.9%，美光科技涨近6%，英伟达涨2.8%，阿斯麦涨2.6%，博通、台积电涨超1%。",
+      "title": "费城半导体指数上涨1.9%",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 23:41:58",
+    "publish_time": "2026-02-18 23:41:58",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651456759.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "105.NVDA",
+      "105.MU"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "e36ce524c2881861",
+    "code": "202602183651454975",
+    "title": "谷歌推出Pixel10a智能手机",
+    "summary": "谷歌推出Pixel10a智能手机，售价499美元。",
+    "content": "谷歌推出Pixel10a智能手机，售价499美元。",
+    "full_content": "谷歌推出Pixel10a智能手机，售价499美元。",
+    "raw_data": {
+      "code": "202602183651454975",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1771427933054975",
+      "share": 2,
+      "showTime": "2026-02-18 23:18:53",
+      "stockList": [
+        "105.GOOG",
+        "105.GOOGL"
+      ],
+      "summary": "谷歌推出Pixel10a智能手机，售价499美元。",
+      "title": "谷歌推出Pixel10a智能手机",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 23:18:53",
+    "publish_time": "2026-02-18 23:18:53",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651454975.html",
+    "category": "外汇",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOG",
+      "105.GOOGL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "智能手机"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C013",
+          "name": "消费电子",
+          "matched_keyword": "智能手机"
+        }
+      ],
+      "industry_ids": [
+        "I010103"
+      ],
+      "concept_ids": [
+        "C013"
+      ]
+    }
+  },
+  {
+    "id": "37e049e346523645",
+    "code": "202602183651454639",
+    "title": "美股高开高走",
+    "summary": "美股高开高走，纳指涨幅扩大至1%，标普500指数涨0.8%，道指涨0.6%。",
+    "content": "美股高开高走，纳指涨幅扩大至1%，标普500指数涨0.8%，道指涨0.6%。",
+    "full_content": "美股高开高走，纳指涨幅扩大至1%，标普500指数涨0.8%，道指涨0.6%。",
+    "raw_data": {
+      "code": "202602183651454639",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1771427280054639",
+      "share": 4,
+      "showTime": "2026-02-18 23:08:00",
+      "stockList": [],
+      "summary": "美股高开高走，纳指涨幅扩大至1%，标普500指数涨0.8%，道指涨0.6%。",
+      "title": "美股高开高走",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 23:08:00",
+    "publish_time": "2026-02-18 23:08:00",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651454639.html",
+    "category": "股市",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d9fb20da25083544",
+    "code": "202602183651451857",
+    "title": "现货黄金再度站上5000美元/盎司 日内涨幅约2.5%",
+    "summary": "国际贵金属价格持续走高，现货黄金再度站上5000美元/盎司，日内涨幅约2.5%。",
+    "content": "国际贵金属价格持续走高，现货黄金再度站上5000美元/盎司，日内涨幅约2.5%。",
+    "full_content": "国际贵金属价格持续走高，现货黄金再度站上5000美元/盎司，日内涨幅约2.5%。",
+    "raw_data": {
+      "code": "202602183651451857",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1771427045051857",
+      "share": 6,
+      "showTime": "2026-02-18 23:04:05",
+      "stockList": [],
+      "summary": "国际贵金属价格持续走高，现货黄金再度站上5000美元/盎司，日内涨幅约2.5%。",
+      "title": "现货黄金再度站上5000美元/盎司 日内涨幅约2.5%",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 23:04:05",
+    "publish_time": "2026-02-18 23:04:05",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651451857.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "ce0c6328f6b36bf1",
+    "code": "202602183651449284",
+    "title": "北约确认其北极圈内联合空中作战中心选址",
+    "summary": "【北约确认其北极圈内联合空中作战中心选址】挪威国防部当地时间17日称，北约已经正式同意，将挪威博德市内的航空站作为北约第三个联合空中作战中心的永久选址。",
+    "content": "【北约确认其北极圈内联合空中作战中心选址】挪威国防部当地时间17日称，北约已经正式同意，将挪威博德市内的航空站作为北约第三个联合空中作战中心的永久选址。",
+    "full_content": "【北约确认其北极圈内联合空中作战中心选址】挪威国防部当地时间17日称，北约已经正式同意，将挪威博德市内的航空站作为北约第三个联合空中作战中心的永久选址。",
+    "raw_data": {
+      "code": "202602183651449284",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771426260049284",
+      "share": 0,
+      "showTime": "2026-02-18 22:51:00",
+      "stockList": [],
+      "summary": "【北约确认其北极圈内联合空中作战中心选址】挪威国防部当地时间17日称，北约已经正式同意，将挪威博德市内的航空站作为北约第三个联合空中作战中心的永久选址。",
+      "title": "北约确认其北极圈内联合空中作战中心选址",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 22:51:00",
+    "publish_time": "2026-02-18 22:51:00",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651449284.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "9e02f2bb293aa570",
+    "code": "202602183651448814",
+    "title": "美国保险公司美元对冲规模飙升 超过“解放日”峰值",
+    "summary": "【美国保险公司美元对冲规模飙升 超过“解放日”峰值】随着美元年初以来波动加剧，保险公司纷纷买入美元远期合约以进行对冲。根据Clearwater Analytics Holdings Inc.的数据，自1月中旬以来，美国保险公司的美元远期合约买入规模大幅攀升，超过了去年美元在总统唐纳德·特朗普宣布“解放日”关税后下跌时创下的峰值。",
+    "content": "【美国保险公司美元对冲规模飙升 超过“解放日”峰值】随着美元年初以来波动加剧，保险公司纷纷买入美元远期合约以进行对冲。根据Clearwater Analytics Holdings Inc.的数据，自1月中旬以来，美国保险公司的美元远期合约买入规模大幅攀升，超过了去年美元在总统唐纳德·特朗普宣布“解放日”关税后下跌时创下的峰值。",
+    "full_content": "【美国保险公司美元对冲规模飙升 超过“解放日”峰值】随着美元年初以来波动加剧，保险公司纷纷买入美元远期合约以进行对冲。根据Clearwater Analytics Holdings Inc.的数据，自1月中旬以来，美国保险公司的美元远期合约买入规模大幅攀升，超过了去年美元在总统唐纳德·特朗普宣布“解放日”关税后下跌时创下的峰值。",
+    "raw_data": {
+      "code": "202602183651448814",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1771426151048814",
+      "share": 0,
+      "showTime": "2026-02-18 22:49:11",
+      "stockList": [
+        "90.BK0474",
+        "90.BK1358"
+      ],
+      "summary": "【美国保险公司美元对冲规模飙升 超过“解放日”峰值】随着美元年初以来波动加剧，保险公司纷纷买入美元远期合约以进行对冲。根据Clearwater Analytics Holdings Inc.的数据，自1月中旬以来，美国保险公司的美元远期合约买入规模大幅攀升，超过了去年美元在总统唐纳德·特朗普宣布“解放日”关税后下跌时创下的峰值。",
+      "title": "美国保险公司美元对冲规模飙升 超过“解放日”峰值",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 22:49:11",
+    "publish_time": "2026-02-18 22:49:11",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651448814.html",
+    "category": "外汇",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0474",
+      "90.BK1358"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C403",
+          "name": "保险",
+          "matched_keyword": "保险"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C403"
+      ]
+    }
+  },
+  {
+    "id": "6e04b80e595eac62",
+    "code": "202602183651448540",
+    "title": "俄乌在日内瓦进行两小时闭门会谈",
+    "summary": "【俄乌在日内瓦进行两小时闭门会谈】当地时间18日，俄方消息人士称，俄罗斯代表团团长梅金斯基在飞离瑞士日内瓦前进行了两小时的闭门谈判，谈判在洲际酒店进行。俄方消息称，梅金斯基证实闭门谈判的对象是乌方。",
+    "content": "【俄乌在日内瓦进行两小时闭门会谈】当地时间18日，俄方消息人士称，俄罗斯代表团团长梅金斯基在飞离瑞士日内瓦前进行了两小时的闭门谈判，谈判在洲际酒店进行。俄方消息称，梅金斯基证实闭门谈判的对象是乌方。",
+    "full_content": "【俄乌在日内瓦进行两小时闭门会谈】当地时间18日，俄方消息人士称，俄罗斯代表团团长梅金斯基在飞离瑞士日内瓦前进行了两小时的闭门谈判，谈判在洲际酒店进行。俄方消息称，梅金斯基证实闭门谈判的对象是乌方。",
+    "raw_data": {
+      "code": "202602183651448540",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1771426004048540",
+      "share": 2,
+      "showTime": "2026-02-18 22:46:44",
+      "stockList": [],
+      "summary": "【俄乌在日内瓦进行两小时闭门会谈】当地时间18日，俄方消息人士称，俄罗斯代表团团长梅金斯基在飞离瑞士日内瓦前进行了两小时的闭门谈判，谈判在洲际酒店进行。俄方消息称，梅金斯基证实闭门谈判的对象是乌方。",
+      "title": "俄乌在日内瓦进行两小时闭门会谈",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 22:46:44",
+    "publish_time": "2026-02-18 22:46:44",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651448540.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C601",
+          "name": "白酒",
+          "matched_keyword": "酒"
+        },
+        {
+          "id": "C604",
+          "name": "旅游",
+          "matched_keyword": "酒店"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C601",
+        "C604"
+      ]
+    }
+  },
+  {
+    "id": "ef805ce7b14dbd77",
+    "code": "202602183651445521",
+    "title": "布伦特原油期货涨幅扩大至3%",
+    "summary": "布伦特原油期货涨幅扩大至3%，报69.441美元/桶。",
+    "content": "布伦特原油期货涨幅扩大至3%，报69.441美元/桶。",
+    "full_content": "布伦特原油期货涨幅扩大至3%，报69.441美元/桶。",
+    "raw_data": {
+      "code": "202602183651445521",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1771425449045521",
+      "share": 3,
+      "showTime": "2026-02-18 22:37:29",
+      "stockList": [],
+      "summary": "布伦特原油期货涨幅扩大至3%，报69.441美元/桶。",
+      "title": "布伦特原油期货涨幅扩大至3%",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 22:37:29",
+    "publish_time": "2026-02-18 22:37:29",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651445521.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "d1eb6e3314092fe0",
     "code": "202602183651442360",
     "title": "太空探索技术公司（SpaceX）与MTN合作 为国防客户提供政府卫星通信服务",
@@ -9,9 +1006,9 @@
     "raw_data": {
       "code": "202602183651442360",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 9,
       "realSort": "1771424699042360",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-02-18 22:24:59",
       "stockList": [
         "150.012372"
@@ -31,8 +1028,8 @@
       "150.012372"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 9,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -144,7 +1141,7 @@
     "raw_data": {
       "code": "202602183651440097",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1771423762040097",
       "share": 0,
       "showTime": "2026-02-18 22:09:22",
@@ -162,7 +1159,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -191,7 +1188,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1771423612039682",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-02-18 22:06:52",
       "stockList": [
         "106.JPM"
@@ -212,12 +1209,103 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
+    }
+  },
+  {
+    "id": "292c7488c7ffdef0",
+    "code": "202602183651444090",
+    "title": "美股开盘集体上涨",
+    "summary": "美股开盘集体上涨，道指涨0.2%，纳指涨0.23%，标普500指数涨0.28%。英伟达涨2%，Meta加码英伟达，未来数年部署数百万颗芯片，首次采用Grace CPU。苹果平开，知情人士称苹果正发力可穿戴领域，2027年智能眼镜、AI吊坠将陆续登场。",
+    "content": "美股开盘集体上涨，道指涨0.2%，纳指涨0.23%，标普500指数涨0.28%。英伟达涨2%，Meta加码英伟达，未来数年部署数百万颗芯片，首次采用Grace CPU。苹果平开，知情人士称苹果正发力可穿戴领域，2027年智能眼镜、AI吊坠将陆续登场。",
+    "full_content": "美股开盘集体上涨，道指涨0.2%，纳指涨0.23%，标普500指数涨0.28%。英伟达涨2%，Meta加码英伟达，未来数年部署数百万颗芯片，首次采用Grace CPU。苹果平开，知情人士称苹果正发力可穿戴领域，2027年智能眼镜、AI吊坠将陆续登场。",
+    "raw_data": {
+      "code": "202602183651444090",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1771423311044090",
+      "share": 2,
+      "showTime": "2026-02-18 22:01:51",
+      "stockList": [
+        "105.NDAQ"
+      ],
+      "summary": "美股开盘集体上涨，道指涨0.2%，纳指涨0.23%，标普500指数涨0.28%。英伟达涨2%，Meta加码英伟达，未来数年部署数百万颗芯片，首次采用Grace CPU。苹果平开，知情人士称苹果正发力可穿戴领域，2027年智能眼镜、AI吊坠将陆续登场。",
+      "title": "美股开盘集体上涨",
+      "titleColor": 0
+    },
+    "time": "2026-02-18 22:01:51",
+    "publish_time": "2026-02-18 22:01:51",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602183651444090.html",
+    "category": "股市",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "105.NDAQ"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "可穿戴"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        },
+        {
+          "id": "C013",
+          "name": "消费电子",
+          "matched_keyword": "可穿戴"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I010103"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C011",
+        "C013",
+        "C807"
+      ]
     }
   },
   {
@@ -230,9 +1318,9 @@
     "raw_data": {
       "code": "202602183651438310",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1771423261038310",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-02-18 22:01:01",
       "stockList": [
         "90.BK1033",
@@ -254,8 +1342,8 @@
       "0.159767"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -273,7 +1361,7 @@
     "raw_data": {
       "code": "202602183651438284",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1771423232038284",
       "share": 0,
       "showTime": "2026-02-18 22:00:32",
@@ -297,7 +1385,7 @@
       "0.159001"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -342,7 +1430,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1771422964032247",
-      "share": 2,
+      "share": 6,
       "showTime": "2026-02-18 21:56:04",
       "stockList": [],
       "summary": "【中国内地访日游客数量1月同比下降60.7%】日本政府观光局18日公布数据显示，1月中国内地访日游客数量同比下降60.7%，较去年12月45.3%的降幅进一步扩大。",
@@ -359,7 +1447,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 2,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -379,7 +1467,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1771422074034182",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-02-18 21:41:14",
       "stockList": [
         "90.BK1616",
@@ -402,7 +1490,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 3,
-    "share_count": 5,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -502,9 +1590,9 @@
     "raw_data": {
       "code": "202602183651432371",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1771421780032371",
-      "share": 8,
+      "share": 13,
       "showTime": "2026-02-18 21:36:20",
       "stockList": [
         "90.BK0157"
@@ -524,8 +1612,8 @@
       "90.BK0157"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 8,
+    "comment_count": 1,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [
@@ -592,9 +1680,9 @@
     "raw_data": {
       "code": "202602183651429539",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1771420795029539",
-      "share": 6,
+      "share": 11,
       "showTime": "2026-02-18 21:19:55",
       "stockList": [
         "150.012341"
@@ -614,8 +1702,8 @@
       "150.012341"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 6,
+    "comment_count": 7,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [
@@ -684,9 +1772,9 @@
     "raw_data": {
       "code": "202602183651428770",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1771419726028770",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-02-18 21:02:06",
       "stockList": [
         "90.BK0732",
@@ -708,8 +1796,8 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 3,
+    "comment_count": 5,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -737,7 +1825,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1771419188026923",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-02-18 20:53:08",
       "stockList": [
         "0.161631",
@@ -760,7 +1848,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -823,9 +1911,9 @@
     "raw_data": {
       "code": "202602183651426570",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 11,
       "realSort": "1771418306026570",
-      "share": 16,
+      "share": 17,
       "showTime": "2026-02-18 20:38:26",
       "stockList": [],
       "summary": "【我驻札幌总领事馆再次提醒中国公民近期避免前往日本】中国驻札幌总领事馆再次提醒中国公民近期避免前往日本。全文如下：2月18日凌晨，1名中国香港居民在北海道札幌市内餐厅被人用啤酒瓶殴打头部，警方当场逮捕日本人嫌犯。中国驻札幌总领馆已向当地警方提出交涉，要求依法严肃追究加害者责任，切实维护中国公民安全与合法权益。",
@@ -837,12 +1925,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202602183651426570.html",
     "category": "其他",
-    "importance": 5,
+    "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 16,
+    "comment_count": 11,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [
@@ -868,7 +1956,7 @@
     "raw_data": {
       "code": "202602183651425610",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1771418172025610",
       "share": 1,
       "showTime": "2026-02-18 20:36:12",
@@ -892,7 +1980,7 @@
       "116.80700"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
+    "comment_count": 9,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -911,7 +1999,7 @@
     "raw_data": {
       "code": "202602183651424968",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1771417642024968",
       "share": 1,
       "showTime": "2026-02-18 20:27:22",
@@ -929,7 +2017,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1056,7 +2144,7 @@
     "raw_data": {
       "code": "202602183651424471",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1771416495024471",
       "share": 0,
       "showTime": "2026-02-18 20:08:15",
@@ -1080,7 +2168,7 @@
       "90.BK0548"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -1197,9 +2285,9 @@
     "raw_data": {
       "code": "202602183651423422",
       "image": [],
-      "pinglun_Num": 99,
+      "pinglun_Num": 111,
       "realSort": "1771415768023422",
-      "share": 124,
+      "share": 135,
       "showTime": "2026-02-18 19:56:08",
       "stockList": [],
       "summary": "【苏翊鸣夺得米兰冬奥会中国代表团首金】意大利当地时间2月18日，米兰冬奥会男子单板滑雪坡面障碍技巧决赛在利维尼奥雪上公园展开，中国队选手苏翊鸣凭借第一轮比赛得到的82.41分获得金牌，这也是中国体育代表团在本届冬奥会上获得的第一枚金牌。比赛当日正值苏翊鸣22岁生日，他也为自己赢得了一份珍贵的生日礼物。苏翊鸣在本届赛事上获得1金1铜，个人奥运奖牌数增加至4枚。",
@@ -1215,8 +2303,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 99,
-    "share_count": 124,
+    "comment_count": 111,
+    "share_count": 135,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1287,1004 +2375,6 @@
         "C201",
         "C205"
       ]
-    }
-  },
-  {
-    "id": "82cd4a9dca89289c",
-    "code": "202602183651422541",
-    "title": "国际原油期货持续走高 美油、布油均涨超2%",
-    "summary": "【国际原油期货持续走高 美油、布油均涨超2%】国际原油期货持续走高，WTI原油期货涨幅扩大至2%，报63.51美元/桶；布伦特原油期货涨幅扩大至2%，报68.781美元/桶。",
-    "content": "【国际原油期货持续走高 美油、布油均涨超2%】国际原油期货持续走高，WTI原油期货涨幅扩大至2%，报63.51美元/桶；布伦特原油期货涨幅扩大至2%，报68.781美元/桶。",
-    "full_content": "【国际原油期货持续走高 美油、布油均涨超2%】国际原油期货持续走高，WTI原油期货涨幅扩大至2%，报63.51美元/桶；布伦特原油期货涨幅扩大至2%，报68.781美元/桶。",
-    "raw_data": {
-      "code": "202602183651422541",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1771415233022541",
-      "share": 7,
-      "showTime": "2026-02-18 19:47:13",
-      "stockList": [],
-      "summary": "【国际原油期货持续走高 美油、布油均涨超2%】国际原油期货持续走高，WTI原油期货涨幅扩大至2%，报63.51美元/桶；布伦特原油期货涨幅扩大至2%，报68.781美元/桶。",
-      "title": "国际原油期货持续走高 美油、布油均涨超2%",
-      "titleColor": 3
-    },
-    "time": "2026-02-18 19:47:13",
-    "publish_time": "2026-02-18 19:47:13",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651422541.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "5548f2bb83a95197",
-    "code": "202602183651420782",
-    "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
-    "summary": "【伊朗总统：决心迅速准确落实伊俄全面战略合作计划】伊朗总统佩泽希齐扬会见到访的俄罗斯能源部部长齐维廖夫。佩泽希齐扬表示，伊朗决心迅速准确地落实两国全面战略合作计划，并推动两国合作实现飞跃。他表示，本地区各国应拓展彼此关系，使其无需借助域外势力干预即可解决本地区事务。齐维廖夫表示，没有人能破坏俄罗斯和伊朗之间的战略关系。",
-    "content": "【伊朗总统：决心迅速准确落实伊俄全面战略合作计划】伊朗总统佩泽希齐扬会见到访的俄罗斯能源部部长齐维廖夫。佩泽希齐扬表示，伊朗决心迅速准确地落实两国全面战略合作计划，并推动两国合作实现飞跃。他表示，本地区各国应拓展彼此关系，使其无需借助域外势力干预即可解决本地区事务。齐维廖夫表示，没有人能破坏俄罗斯和伊朗之间的战略关系。",
-    "full_content": "【伊朗总统：决心迅速准确落实伊俄全面战略合作计划】伊朗总统佩泽希齐扬会见到访的俄罗斯能源部部长齐维廖夫。佩泽希齐扬表示，伊朗决心迅速准确地落实两国全面战略合作计划，并推动两国合作实现飞跃。他表示，本地区各国应拓展彼此关系，使其无需借助域外势力干预即可解决本地区事务。齐维廖夫表示，没有人能破坏俄罗斯和伊朗之间的战略关系。",
-    "raw_data": {
-      "code": "202602183651420782",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1771414651020782",
-      "share": 5,
-      "showTime": "2026-02-18 19:37:31",
-      "stockList": [],
-      "summary": "【伊朗总统：决心迅速准确落实伊俄全面战略合作计划】伊朗总统佩泽希齐扬会见到访的俄罗斯能源部部长齐维廖夫。佩泽希齐扬表示，伊朗决心迅速准确地落实两国全面战略合作计划，并推动两国合作实现飞跃。他表示，本地区各国应拓展彼此关系，使其无需借助域外势力干预即可解决本地区事务。齐维廖夫表示，没有人能破坏俄罗斯和伊朗之间的战略关系。",
-      "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:37:31",
-    "publish_time": "2026-02-18 19:37:31",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651420782.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "bb144848614584c9",
-    "code": "202602183651420422",
-    "title": "欧盟外交官：欧盟各国已批准就即将推出的ETS2碳市场更严格的价格限制进行谈判的立场",
-    "summary": "欧盟外交官称，欧盟各国已批准就即将推出的ETS2碳市场更严格的价格限制进行谈判的立场。",
-    "content": "欧盟外交官称，欧盟各国已批准就即将推出的ETS2碳市场更严格的价格限制进行谈判的立场。",
-    "full_content": "欧盟外交官称，欧盟各国已批准就即将推出的ETS2碳市场更严格的价格限制进行谈判的立场。",
-    "raw_data": {
-      "code": "202602183651420422",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771414004020422",
-      "share": 0,
-      "showTime": "2026-02-18 19:26:44",
-      "stockList": [],
-      "summary": "欧盟外交官称，欧盟各国已批准就即将推出的ETS2碳市场更严格的价格限制进行谈判的立场。",
-      "title": "欧盟外交官：欧盟各国已批准就即将推出的ETS2碳市场更严格的价格限制进行谈判的立场",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:26:44",
-    "publish_time": "2026-02-18 19:26:44",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651420422.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3761b104f68f58a1",
-    "code": "202602183651420356",
-    "title": "欧盟通过一项全面战略以支持与俄乌接壤的成员国",
-    "summary": "【欧盟通过一项全面战略以支持与俄乌接壤的成员国】当地时间2月18日，欧盟委员会发布公告称，已通过一项全面战略，加大对与俄罗斯、白俄罗斯和乌克兰接壤的欧盟东部地区的支持力度。公告重申了委员会继续支持与俄罗斯、白俄罗斯和乌克兰接壤的东部地区的承诺。公告提出了一系列行动，旨在帮助受影响的地区应对挑战。",
-    "content": "【欧盟通过一项全面战略以支持与俄乌接壤的成员国】当地时间2月18日，欧盟委员会发布公告称，已通过一项全面战略，加大对与俄罗斯、白俄罗斯和乌克兰接壤的欧盟东部地区的支持力度。公告重申了委员会继续支持与俄罗斯、白俄罗斯和乌克兰接壤的东部地区的承诺。公告提出了一系列行动，旨在帮助受影响的地区应对挑战。",
-    "full_content": "【欧盟通过一项全面战略以支持与俄乌接壤的成员国】当地时间2月18日，欧盟委员会发布公告称，已通过一项全面战略，加大对与俄罗斯、白俄罗斯和乌克兰接壤的欧盟东部地区的支持力度。公告重申了委员会继续支持与俄罗斯、白俄罗斯和乌克兰接壤的东部地区的承诺。公告提出了一系列行动，旨在帮助受影响的地区应对挑战。",
-    "raw_data": {
-      "code": "202602183651420356",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771413931020356",
-      "share": 2,
-      "showTime": "2026-02-18 19:25:31",
-      "stockList": [],
-      "summary": "【欧盟通过一项全面战略以支持与俄乌接壤的成员国】当地时间2月18日，欧盟委员会发布公告称，已通过一项全面战略，加大对与俄罗斯、白俄罗斯和乌克兰接壤的欧盟东部地区的支持力度。公告重申了委员会继续支持与俄罗斯、白俄罗斯和乌克兰接壤的东部地区的承诺。公告提出了一系列行动，旨在帮助受影响的地区应对挑战。",
-      "title": "欧盟通过一项全面战略以支持与俄乌接壤的成员国",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:25:31",
-    "publish_time": "2026-02-18 19:25:31",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651420356.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "12a4a136d6b7e60b",
-    "code": "202602183651420276",
-    "title": "希腊全国出租车司机举行罢工",
-    "summary": "【希腊全国出租车司机举行罢工】希腊全国出租车司机举行罢工，要求政府延期实施新出租车必须是电动车的方案。希腊政府目前正推动立法，要求自2026年1月1日起，首都雅典和第二大城市塞萨洛尼基新注册的出租车必须是零排放的电动汽车。出租车行业协会则表示，希腊城市的充电桩数量无法满足需求，要求政府延期实施此项规定。",
-    "content": "【希腊全国出租车司机举行罢工】希腊全国出租车司机举行罢工，要求政府延期实施新出租车必须是电动车的方案。希腊政府目前正推动立法，要求自2026年1月1日起，首都雅典和第二大城市塞萨洛尼基新注册的出租车必须是零排放的电动汽车。出租车行业协会则表示，希腊城市的充电桩数量无法满足需求，要求政府延期实施此项规定。",
-    "full_content": "【希腊全国出租车司机举行罢工】希腊全国出租车司机举行罢工，要求政府延期实施新出租车必须是电动车的方案。希腊政府目前正推动立法，要求自2026年1月1日起，首都雅典和第二大城市塞萨洛尼基新注册的出租车必须是零排放的电动汽车。出租车行业协会则表示，希腊城市的充电桩数量无法满足需求，要求政府延期实施此项规定。",
-    "raw_data": {
-      "code": "202602183651420276",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771413800020276",
-      "share": 1,
-      "showTime": "2026-02-18 19:23:20",
-      "stockList": [
-        "150.516390",
-        "150.010806"
-      ],
-      "summary": "【希腊全国出租车司机举行罢工】希腊全国出租车司机举行罢工，要求政府延期实施新出租车必须是电动车的方案。希腊政府目前正推动立法，要求自2026年1月1日起，首都雅典和第二大城市塞萨洛尼基新注册的出租车必须是零排放的电动汽车。出租车行业协会则表示，希腊城市的充电桩数量无法满足需求，要求政府延期实施此项规定。",
-      "title": "希腊全国出租车司机举行罢工",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:23:20",
-    "publish_time": "2026-02-18 19:23:20",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651420276.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.516390",
-      "150.010806"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C101",
-          "name": "新能源车",
-          "matched_keyword": "电动车"
-        },
-        {
-          "id": "C107",
-          "name": "充电桩",
-          "matched_keyword": "充电桩"
-        }
-      ],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": [
-        "C101",
-        "C107"
-      ]
-    }
-  },
-  {
-    "id": "0f16c8a3f4e4664f",
-    "code": "202602183651420131",
-    "title": "德总理对欧洲第六代战机项目前景表示质疑",
-    "summary": "【德总理对欧洲第六代战机项目前景表示质疑】德国总理默茨在当地时间2月18日播出的一档节目中，对欧洲第六代战机“未来空中作战系统”项目的实现前景表示质疑。用他的话来说，德国、法国和西班牙长期规划的“未来空中作战系统”项目在需求设定方面存在“真正的问题”，如果相关分歧无法解决，项目将难以继续推进。",
-    "content": "【德总理对欧洲第六代战机项目前景表示质疑】德国总理默茨在当地时间2月18日播出的一档节目中，对欧洲第六代战机“未来空中作战系统”项目的实现前景表示质疑。用他的话来说，德国、法国和西班牙长期规划的“未来空中作战系统”项目在需求设定方面存在“真正的问题”，如果相关分歧无法解决，项目将难以继续推进。",
-    "full_content": "【德总理对欧洲第六代战机项目前景表示质疑】德国总理默茨在当地时间2月18日播出的一档节目中，对欧洲第六代战机“未来空中作战系统”项目的实现前景表示质疑。用他的话来说，德国、法国和西班牙长期规划的“未来空中作战系统”项目在需求设定方面存在“真正的问题”，如果相关分歧无法解决，项目将难以继续推进。",
-    "raw_data": {
-      "code": "202602183651420131",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771413746020131",
-      "share": 0,
-      "showTime": "2026-02-18 19:22:26",
-      "stockList": [],
-      "summary": "【德总理对欧洲第六代战机项目前景表示质疑】德国总理默茨在当地时间2月18日播出的一档节目中，对欧洲第六代战机“未来空中作战系统”项目的实现前景表示质疑。用他的话来说，德国、法国和西班牙长期规划的“未来空中作战系统”项目在需求设定方面存在“真正的问题”，如果相关分歧无法解决，项目将难以继续推进。",
-      "title": "德总理对欧洲第六代战机项目前景表示质疑",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:22:26",
-    "publish_time": "2026-02-18 19:22:26",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651420131.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "635b87ab302a4def",
-    "code": "202602183651420076",
-    "title": "蒂森克虏伯可能在2026年通过分拆、上市或出售的方式剥离其材料服务部门",
-    "summary": "蒂森克虏伯可能在2026年通过分拆、上市或出售的方式剥离其材料服务部门。",
-    "content": "蒂森克虏伯可能在2026年通过分拆、上市或出售的方式剥离其材料服务部门。",
-    "full_content": "蒂森克虏伯可能在2026年通过分拆、上市或出售的方式剥离其材料服务部门。",
-    "raw_data": {
-      "code": "202602183651420076",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771413652020076",
-      "share": 0,
-      "showTime": "2026-02-18 19:20:52",
-      "stockList": [
-        "153.TKAMY"
-      ],
-      "summary": "蒂森克虏伯可能在2026年通过分拆、上市或出售的方式剥离其材料服务部门。",
-      "title": "蒂森克虏伯可能在2026年通过分拆、上市或出售的方式剥离其材料服务部门",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:20:52",
-    "publish_time": "2026-02-18 19:20:52",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651420076.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "153.TKAMY"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3ec8f70338d7e4a8",
-    "code": "202602183651416889",
-    "title": "花旗集团将Snowflake目标价从300美元下调至270美元",
-    "summary": "花旗集团将Snowflake目标价从300美元下调至270美元。",
-    "content": "花旗集团将Snowflake目标价从300美元下调至270美元。",
-    "full_content": "花旗集团将Snowflake目标价从300美元下调至270美元。",
-    "raw_data": {
-      "code": "202602183651416889",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771413102016889",
-      "share": 0,
-      "showTime": "2026-02-18 19:11:42",
-      "stockList": [
-        "106.SNOW"
-      ],
-      "summary": "花旗集团将Snowflake目标价从300美元下调至270美元。",
-      "title": "花旗集团将Snowflake目标价从300美元下调至270美元",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:11:42",
-    "publish_time": "2026-02-18 19:11:42",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651416889.html",
-    "category": "外汇",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.SNOW"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b1e9aa8069b4da86",
-    "code": "202602183651416476",
-    "title": "古巴公布预防和打击毒品工作进展",
-    "summary": "【古巴公布预防和打击毒品工作进展】古巴司法部17日在哈瓦那召开新闻发布会，公布2025年预防和打击毒品违法行为工作进展。古巴司法部重申，古巴不是毒品生产国，所谓古巴对美国国家安全构成威胁的说法不成立。古巴缉毒部门和边防部队负责人表示，在国际合作方面，古巴将持续收集到的相关情报与美方共享，事实上为美国打击毒品贩运提供了重要防线。",
-    "content": "【古巴公布预防和打击毒品工作进展】古巴司法部17日在哈瓦那召开新闻发布会，公布2025年预防和打击毒品违法行为工作进展。古巴司法部重申，古巴不是毒品生产国，所谓古巴对美国国家安全构成威胁的说法不成立。古巴缉毒部门和边防部队负责人表示，在国际合作方面，古巴将持续收集到的相关情报与美方共享，事实上为美国打击毒品贩运提供了重要防线。",
-    "full_content": "【古巴公布预防和打击毒品工作进展】古巴司法部17日在哈瓦那召开新闻发布会，公布2025年预防和打击毒品违法行为工作进展。古巴司法部重申，古巴不是毒品生产国，所谓古巴对美国国家安全构成威胁的说法不成立。古巴缉毒部门和边防部队负责人表示，在国际合作方面，古巴将持续收集到的相关情报与美方共享，事实上为美国打击毒品贩运提供了重要防线。",
-    "raw_data": {
-      "code": "202602183651416476",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771412778016476",
-      "share": 0,
-      "showTime": "2026-02-18 19:06:18",
-      "stockList": [],
-      "summary": "【古巴公布预防和打击毒品工作进展】古巴司法部17日在哈瓦那召开新闻发布会，公布2025年预防和打击毒品违法行为工作进展。古巴司法部重申，古巴不是毒品生产国，所谓古巴对美国国家安全构成威胁的说法不成立。古巴缉毒部门和边防部队负责人表示，在国际合作方面，古巴将持续收集到的相关情报与美方共享，事实上为美国打击毒品贩运提供了重要防线。",
-      "title": "古巴公布预防和打击毒品工作进展",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:06:18",
-    "publish_time": "2026-02-18 19:06:18",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651416476.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3a03e4a74580f393",
-    "code": "202602183651416319",
-    "title": "高通承诺为印度的战略人工智能风险投资基金出资高达1.5亿美元",
-    "summary": "高通承诺为印度的战略人工智能风险投资基金出资高达1.5亿美元。",
-    "content": "高通承诺为印度的战略人工智能风险投资基金出资高达1.5亿美元。",
-    "full_content": "高通承诺为印度的战略人工智能风险投资基金出资高达1.5亿美元。",
-    "raw_data": {
-      "code": "202602183651416319",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771412673016319",
-      "share": 2,
-      "showTime": "2026-02-18 19:04:33",
-      "stockList": [
-        "90.BK0800",
-        "0.161631"
-      ],
-      "summary": "高通承诺为印度的战略人工智能风险投资基金出资高达1.5亿美元。",
-      "title": "高通承诺为印度的战略人工智能风险投资基金出资高达1.5亿美元",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 19:04:33",
-    "publish_time": "2026-02-18 19:04:33",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651416319.html",
-    "category": "外汇",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "0.161631"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "基金"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [
-        "I020201"
-      ],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "d2c12dc9265f7f42",
-    "code": "202602183651416247",
-    "title": "欧洲股市高开高走 多国股指刷新历史新高",
-    "summary": "【欧洲股市高开高走 多国股指刷新历史新高】欧洲股市高开高走，泛欧斯托克600指数涨0.93%，创历史新高，英国富时指数涨1.05%，续刷历史新高；法国CAC指数涨0.55%，德国DAX指数涨0.83%，西班牙IBEX35指数涨近1.4%，逼近历史新高。",
-    "content": "【欧洲股市高开高走 多国股指刷新历史新高】欧洲股市高开高走，泛欧斯托克600指数涨0.93%，创历史新高，英国富时指数涨1.05%，续刷历史新高；法国CAC指数涨0.55%，德国DAX指数涨0.83%，西班牙IBEX35指数涨近1.4%，逼近历史新高。",
-    "full_content": "【欧洲股市高开高走 多国股指刷新历史新高】欧洲股市高开高走，泛欧斯托克600指数涨0.93%，创历史新高，英国富时指数涨1.05%，续刷历史新高；法国CAC指数涨0.55%，德国DAX指数涨0.83%，西班牙IBEX35指数涨近1.4%，逼近历史新高。",
-    "raw_data": {
-      "code": "202602183651416247",
-      "image": [],
-      "pinglun_Num": 94,
-      "realSort": "1771412425016247",
-      "share": 103,
-      "showTime": "2026-02-18 19:00:25",
-      "stockList": [],
-      "summary": "【欧洲股市高开高走 多国股指刷新历史新高】欧洲股市高开高走，泛欧斯托克600指数涨0.93%，创历史新高，英国富时指数涨1.05%，续刷历史新高；法国CAC指数涨0.55%，德国DAX指数涨0.83%，西班牙IBEX35指数涨近1.4%，逼近历史新高。",
-      "title": "欧洲股市高开高走 多国股指刷新历史新高",
-      "titleColor": 3
-    },
-    "time": "2026-02-18 19:00:25",
-    "publish_time": "2026-02-18 19:00:25",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651416247.html",
-    "category": "股市",
-    "importance": 7,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 94,
-    "share_count": 103,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "9b0b828dc651d00f",
-    "code": "202602183651415456",
-    "title": "WTI原油期货涨幅扩大至1% 报62.89美元/桶",
-    "summary": "WTI原油期货涨幅扩大至1%，报62.89美元/桶。",
-    "content": "WTI原油期货涨幅扩大至1%，报62.89美元/桶。",
-    "full_content": "WTI原油期货涨幅扩大至1%，报62.89美元/桶。",
-    "raw_data": {
-      "code": "202602183651415456",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771411898015456",
-      "share": 0,
-      "showTime": "2026-02-18 18:51:38",
-      "stockList": [],
-      "summary": "WTI原油期货涨幅扩大至1%，报62.89美元/桶。",
-      "title": "WTI原油期货涨幅扩大至1% 报62.89美元/桶",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:51:38",
-    "publish_time": "2026-02-18 18:51:38",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651415456.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "a48c4716244b9071",
-    "code": "202602183651416035",
-    "title": "段永平1200亿元持仓曝光",
-    "summary": "【段永平1200亿元持仓曝光】根据美股机构投资者13F持仓披露情况，截至2025年底，段永平管理的H&HInternationalInvestment持仓总市值约174.89亿美元，折合人民币超1200亿元。2025年四季度，段永平大幅加仓英伟达，还加仓了拼多多、伯克希尔·哈撒韦等，小仓位新进三家AI相关公司。与此同时，段永平减持了苹果、阿里巴巴、西方石油等。",
-    "content": "【段永平1200亿元持仓曝光】根据美股机构投资者13F持仓披露情况，截至2025年底，段永平管理的H&HInternationalInvestment持仓总市值约174.89亿美元，折合人民币超1200亿元。2025年四季度，段永平大幅加仓英伟达，还加仓了拼多多、伯克希尔·哈撒韦等，小仓位新进三家AI相关公司。与此同时，段永平减持了苹果、阿里巴巴、西方石油等。",
-    "full_content": "【段永平1200亿元持仓曝光】根据美股机构投资者13F持仓披露情况，截至2025年底，段永平管理的H&HInternationalInvestment持仓总市值约174.89亿美元，折合人民币超1200亿元。2025年四季度，段永平大幅加仓英伟达，还加仓了拼多多、伯克希尔·哈撒韦等，小仓位新进三家AI相关公司。与此同时，段永平减持了苹果、阿里巴巴、西方石油等。",
-    "raw_data": {
-      "code": "202602183651416035",
-      "image": [],
-      "pinglun_Num": 21,
-      "realSort": "1771411585016035",
-      "share": 63,
-      "showTime": "2026-02-18 18:46:25",
-      "stockList": [
-        "90.BK0800",
-        "150.012322"
-      ],
-      "summary": "【段永平1200亿元持仓曝光】根据美股机构投资者13F持仓披露情况，截至2025年底，段永平管理的H&HInternationalInvestment持仓总市值约174.89亿美元，折合人民币超1200亿元。2025年四季度，段永平大幅加仓英伟达，还加仓了拼多多、伯克希尔·哈撒韦等，小仓位新进三家AI相关公司。与此同时，段永平减持了苹果、阿里巴巴、西方石油等。",
-      "title": "段永平1200亿元持仓曝光",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:46:25",
-    "publish_time": "2026-02-18 18:46:25",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651416035.html",
-    "category": "外汇",
-    "importance": 7,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "150.012322"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 21,
-    "share_count": 63,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        },
-        {
-          "id": "C804",
-          "name": "拼多多概念",
-          "matched_keyword": "拼多多"
-        },
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C506",
-        "C804",
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "2622d1d99125cee0",
-    "code": "202602183651415338",
-    "title": "多国媒体：春晚人形机器人表演展现中国人工智能飞速发展",
-    "summary": "【多国媒体：春晚人形机器人表演展现中国人工智能飞速发展】今年的总台春晚上，人形机器人的精彩表演令人印象深刻，多家国际媒体也惊叹中国在人形机器人以及人工智能领域的飞速发展。《西班牙人报》刊发题为《十几台中国人形机器人精彩的表演展现了技术的进化》的文章。报道指出，中国机器人领域正在发生的一切事情，几乎可以称之为一场真正的革命。",
-    "content": "【多国媒体：春晚人形机器人表演展现中国人工智能飞速发展】今年的总台春晚上，人形机器人的精彩表演令人印象深刻，多家国际媒体也惊叹中国在人形机器人以及人工智能领域的飞速发展。《西班牙人报》刊发题为《十几台中国人形机器人精彩的表演展现了技术的进化》的文章。报道指出，中国机器人领域正在发生的一切事情，几乎可以称之为一场真正的革命。",
-    "full_content": "【多国媒体：春晚人形机器人表演展现中国人工智能飞速发展】今年的总台春晚上，人形机器人的精彩表演令人印象深刻，多家国际媒体也惊叹中国在人形机器人以及人工智能领域的飞速发展。《西班牙人报》刊发题为《十几台中国人形机器人精彩的表演展现了技术的进化》的文章。报道指出，中国机器人领域正在发生的一切事情，几乎可以称之为一场真正的革命。",
-    "raw_data": {
-      "code": "202602183651415338",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1771411569015338",
-      "share": 11,
-      "showTime": "2026-02-18 18:46:09",
-      "stockList": [
-        "90.BK1184",
-        "90.BK0800"
-      ],
-      "summary": "【多国媒体：春晚人形机器人表演展现中国人工智能飞速发展】今年的总台春晚上，人形机器人的精彩表演令人印象深刻，多家国际媒体也惊叹中国在人形机器人以及人工智能领域的飞速发展。《西班牙人报》刊发题为《十几台中国人形机器人精彩的表演展现了技术的进化》的文章。报道指出，中国机器人领域正在发生的一切事情，几乎可以称之为一场真正的革命。",
-      "title": "多国媒体：春晚人形机器人表演展现中国人工智能飞速发展",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:46:09",
-    "publish_time": "2026-02-18 18:46:09",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651415338.html",
-    "category": "科技",
-    "importance": 7,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1184",
-      "90.BK0800"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 11,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        },
-        {
-          "id": "C012",
-          "name": "机器人",
-          "matched_keyword": "人形机器人"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C012"
-      ]
-    }
-  },
-  {
-    "id": "3cc32522e752f0a2",
-    "code": "202602183651415229",
-    "title": "伯恩斯坦将劳氏公司目标股价从284美元上调至313美元",
-    "summary": "伯恩斯坦将劳氏公司目标股价从284美元上调至313美元；将家得宝目标价从362美元上调至381美元。",
-    "content": "伯恩斯坦将劳氏公司目标股价从284美元上调至313美元；将家得宝目标价从362美元上调至381美元。",
-    "full_content": "伯恩斯坦将劳氏公司目标股价从284美元上调至313美元；将家得宝目标价从362美元上调至381美元。",
-    "raw_data": {
-      "code": "202602183651415229",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771411423015229",
-      "share": 0,
-      "showTime": "2026-02-18 18:43:43",
-      "stockList": [
-        "106.LOW",
-        "106.HD"
-      ],
-      "summary": "伯恩斯坦将劳氏公司目标股价从284美元上调至313美元；将家得宝目标价从362美元上调至381美元。",
-      "title": "伯恩斯坦将劳氏公司目标股价从284美元上调至313美元",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:43:43",
-    "publish_time": "2026-02-18 18:43:43",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651415229.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.LOW",
-      "106.HD"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "acd064707ff99da5",
-    "code": "202602183651415178",
-    "title": "谷歌母公司Alphabet首席执行官：宣布印度政府与谷歌DeepMind建立合作伙伴关系",
-    "summary": "谷歌母公司Alphabet首席执行官宣布印度政府与谷歌DeepMind建立合作伙伴关系。",
-    "content": "谷歌母公司Alphabet首席执行官宣布印度政府与谷歌DeepMind建立合作伙伴关系。",
-    "full_content": "谷歌母公司Alphabet首席执行官宣布印度政府与谷歌DeepMind建立合作伙伴关系。",
-    "raw_data": {
-      "code": "202602183651415178",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771410855015178",
-      "share": 1,
-      "showTime": "2026-02-18 18:34:15",
-      "stockList": [
-        "105.GOOGL"
-      ],
-      "summary": "谷歌母公司Alphabet首席执行官宣布印度政府与谷歌DeepMind建立合作伙伴关系。",
-      "title": "谷歌母公司Alphabet首席执行官：宣布印度政府与谷歌DeepMind建立合作伙伴关系",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:34:15",
-    "publish_time": "2026-02-18 18:34:15",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651415178.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.GOOGL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c6df5170cd1a891a",
-    "code": "202602183651415016",
-    "title": "谷歌母公司Alphabet首席执行官：开展一项新计划 以实现印度和美国之间的海底网络连接",
-    "summary": "谷歌母公司Alphabet首席执行官宣布开展一项新计划，以实现印度和美国之间的海底网络连接。",
-    "content": "谷歌母公司Alphabet首席执行官宣布开展一项新计划，以实现印度和美国之间的海底网络连接。",
-    "full_content": "谷歌母公司Alphabet首席执行官宣布开展一项新计划，以实现印度和美国之间的海底网络连接。",
-    "raw_data": {
-      "code": "202602183651415016",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771410754015016",
-      "share": 0,
-      "showTime": "2026-02-18 18:32:34",
-      "stockList": [
-        "105.GOOGL"
-      ],
-      "summary": "谷歌母公司Alphabet首席执行官宣布开展一项新计划，以实现印度和美国之间的海底网络连接。",
-      "title": "谷歌母公司Alphabet首席执行官：开展一项新计划 以实现印度和美国之间的海底网络连接",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:32:34",
-    "publish_time": "2026-02-18 18:32:34",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651415016.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.GOOGL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c3e9dbbc8a9dc789",
-    "code": "202602183651414126",
-    "title": "电影《飞驰人生3》总票房破10亿",
-    "summary": "据网络平台数据，电影《飞驰人生3》上映2天，总票房破10亿。",
-    "content": "据网络平台数据，电影《飞驰人生3》上映2天，总票房破10亿。",
-    "full_content": "据网络平台数据，电影《飞驰人生3》上映2天，总票房破10亿。",
-    "raw_data": {
-      "code": "202602183651414126",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1771410500014126",
-      "share": 3,
-      "showTime": "2026-02-18 18:28:20",
-      "stockList": [],
-      "summary": "据网络平台数据，电影《飞驰人生3》上映2天，总票房破10亿。",
-      "title": "电影《飞驰人生3》总票房破10亿",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:28:20",
-    "publish_time": "2026-02-18 18:28:20",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651414126.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "177aec2d99d0d9da",
-    "code": "202602183651413917",
-    "title": "斯洛伐克政府宣布石油紧急状态 将动用国家石油储备",
-    "summary": "斯洛伐克政府宣布石油紧急状态，将动用国家石油储备。",
-    "content": "斯洛伐克政府宣布石油紧急状态，将动用国家石油储备。",
-    "full_content": "斯洛伐克政府宣布石油紧急状态，将动用国家石油储备。",
-    "raw_data": {
-      "code": "202602183651413917",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771410198013917",
-      "share": 4,
-      "showTime": "2026-02-18 18:23:18",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "斯洛伐克政府宣布石油紧急状态，将动用国家石油储备。",
-      "title": "斯洛伐克政府宣布石油紧急状态 将动用国家石油储备",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:23:18",
-    "publish_time": "2026-02-18 18:23:18",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651413917.html",
-    "category": "其他",
-    "importance": 7,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "9ecc9b931a5f72f6",
-    "code": "202602183651414023",
-    "title": "4个行业企业自由现金流量为正 A股现金流龙头公司显现（附名单）",
-    "summary": "【4个行业企业自由现金流量为正 A股现金流龙头公司显现】作为衡量企业真实“可支配财力”的核心指标，自由现金流持续成为市场焦点。统计显示，63家上市公司2025年前三季度经营性现金流超过100亿元，其中中国石油、中国海油、中国移动、中国石化居前，均超过1000亿元。",
-    "content": "【4个行业企业自由现金流量为正 A股现金流龙头公司显现】作为衡量企业真实“可支配财力”的核心指标，自由现金流持续成为市场焦点。统计显示，63家上市公司2025年前三季度经营性现金流超过100亿元，其中中国石油、中国海油、中国移动、中国石化居前，均超过1000亿元。",
-    "full_content": "【4个行业企业自由现金流量为正 A股现金流龙头公司显现】作为衡量企业真实“可支配财力”的核心指标，自由现金流持续成为市场焦点。统计显示，63家上市公司2025年前三季度经营性现金流超过100亿元，其中中国石油、中国海油、中国移动、中国石化居前，均超过1000亿元。",
-    "raw_data": {
-      "code": "202602183651414023",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1771410056014023",
-      "share": 35,
-      "showTime": "2026-02-18 18:20:56",
-      "stockList": [
-        "0.161121",
-        "1.515290"
-      ],
-      "summary": "【4个行业企业自由现金流量为正 A股现金流龙头公司显现】作为衡量企业真实“可支配财力”的核心指标，自由现金流持续成为市场焦点。统计显示，63家上市公司2025年前三季度经营性现金流超过100亿元，其中中国石油、中国海油、中国移动、中国石化居前，均超过1000亿元。",
-      "title": "4个行业企业自由现金流量为正 A股现金流龙头公司显现（附名单）",
-      "titleColor": 3
-    },
-    "time": "2026-02-18 18:20:56",
-    "publish_time": "2026-02-18 18:20:56",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651414023.html",
-    "category": "股市",
-    "importance": 7,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.161121",
-      "1.515290"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 35,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "419c4f5a424d6a38",
-    "code": "202602183651412737",
-    "title": "NASA修复燃料泄漏后重启载人登月发射演练 最早3月升空",
-    "summary": "【NASA修复燃料泄漏后重启载人登月发射演练 最早3月升空】美国国家航空航天局（NASA）在修复了危险的燃料泄漏问题后，于当地时间周二再次启动了数十年来首次载人登月任务的发射倒计时演练。此前的泄漏已将飞行任务推迟至3月。",
-    "content": "【NASA修复燃料泄漏后重启载人登月发射演练 最早3月升空】美国国家航空航天局（NASA）在修复了危险的燃料泄漏问题后，于当地时间周二再次启动了数十年来首次载人登月任务的发射倒计时演练。此前的泄漏已将飞行任务推迟至3月。",
-    "full_content": "【NASA修复燃料泄漏后重启载人登月发射演练 最早3月升空】美国国家航空航天局（NASA）在修复了危险的燃料泄漏问题后，于当地时间周二再次启动了数十年来首次载人登月任务的发射倒计时演练。此前的泄漏已将飞行任务推迟至3月。",
-    "raw_data": {
-      "code": "202602183651412737",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771409721012737",
-      "share": 0,
-      "showTime": "2026-02-18 18:15:21",
-      "stockList": [],
-      "summary": "【NASA修复燃料泄漏后重启载人登月发射演练 最早3月升空】美国国家航空航天局（NASA）在修复了危险的燃料泄漏问题后，于当地时间周二再次启动了数十年来首次载人登月任务的发射倒计时演练。此前的泄漏已将飞行任务推迟至3月。",
-      "title": "NASA修复燃料泄漏后重启载人登月发射演练 最早3月升空",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:15:21",
-    "publish_time": "2026-02-18 18:15:21",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651412737.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C202",
-          "name": "航天",
-          "matched_keyword": "航天"
-        },
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "航空"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C202",
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "2936570113a4d7a4",
-    "code": "202602183651412634",
-    "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-    "summary": "【泽连斯基称特朗普要求乌方单方让步“不公平”】据美国阿克西奥斯新闻网站17日报道，乌克兰总统泽连斯基就正在瑞士日内瓦进行的美乌俄三方谈判表示，美国总统特朗普在试图解决乌俄冲突时，对他施加了不当压力。乌克兰不接受任何要求乌方单方面从顿巴斯地区撤军并将其移交给俄方的和平协议。",
-    "content": "【泽连斯基称特朗普要求乌方单方让步“不公平”】据美国阿克西奥斯新闻网站17日报道，乌克兰总统泽连斯基就正在瑞士日内瓦进行的美乌俄三方谈判表示，美国总统特朗普在试图解决乌俄冲突时，对他施加了不当压力。乌克兰不接受任何要求乌方单方面从顿巴斯地区撤军并将其移交给俄方的和平协议。",
-    "full_content": "【泽连斯基称特朗普要求乌方单方让步“不公平”】据美国阿克西奥斯新闻网站17日报道，乌克兰总统泽连斯基就正在瑞士日内瓦进行的美乌俄三方谈判表示，美国总统特朗普在试图解决乌俄冲突时，对他施加了不当压力。乌克兰不接受任何要求乌方单方面从顿巴斯地区撤军并将其移交给俄方的和平协议。",
-    "raw_data": {
-      "code": "202602183651412634",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1771409677012634",
-      "share": 1,
-      "showTime": "2026-02-18 18:14:37",
-      "stockList": [],
-      "summary": "【泽连斯基称特朗普要求乌方单方让步“不公平”】据美国阿克西奥斯新闻网站17日报道，乌克兰总统泽连斯基就正在瑞士日内瓦进行的美乌俄三方谈判表示，美国总统特朗普在试图解决乌俄冲突时，对他施加了不当压力。乌克兰不接受任何要求乌方单方面从顿巴斯地区撤军并将其移交给俄方的和平协议。",
-      "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-      "titleColor": 0
-    },
-    "time": "2026-02-18 18:14:37",
-    "publish_time": "2026-02-18 18:14:37",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602183651412634.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
