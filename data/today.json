@@ -1,5 +1,873 @@
 [
   {
+    "id": "b7d3ea0e4a1b8842",
+    "code": "202602203651575357",
+    "title": "奈飞在竞购华纳兄弟的竞标战中仍有充足空间提高报价",
+    "summary": "消息人士称，奈飞在竞购华纳兄弟的竞标战中仍有充足空间提高报价。",
+    "content": "消息人士称，奈飞在竞购华纳兄弟的竞标战中仍有充足空间提高报价。",
+    "full_content": "消息人士称，奈飞在竞购华纳兄弟的竞标战中仍有充足空间提高报价。",
+    "raw_data": {
+      "code": "202602203651575357",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771523489075357",
+      "share": 0,
+      "showTime": "2026-02-20 01:51:29",
+      "stockList": [
+        "105.NFLX"
+      ],
+      "summary": "消息人士称，奈飞在竞购华纳兄弟的竞标战中仍有充足空间提高报价。",
+      "title": "奈飞在竞购华纳兄弟的竞标战中仍有充足空间提高报价",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 01:51:29",
+    "publish_time": "2026-02-20 01:51:29",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651575357.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.NFLX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b60d052c1e6c4f61",
+    "code": "202602203651574189",
+    "title": "深圳芯片厂员工 领到26亿现金大礼包",
+    "summary": "【深圳芯片厂员工 领到26亿现金大礼包】深圳一对姐弟，吃到存储芯片行业红利。2月中旬，蔡华波、蔡丽江实控的江波龙，市值已站上1200亿元。过去6个月，其股价坐上火箭，上涨约2.5倍。",
+    "content": "【深圳芯片厂员工 领到26亿现金大礼包】深圳一对姐弟，吃到存储芯片行业红利。2月中旬，蔡华波、蔡丽江实控的江波龙，市值已站上1200亿元。过去6个月，其股价坐上火箭，上涨约2.5倍。",
+    "full_content": "【深圳芯片厂员工 领到26亿现金大礼包】深圳一对姐弟，吃到存储芯片行业红利。2月中旬，蔡华波、蔡丽江实控的江波龙，市值已站上1200亿元。过去6个月，其股价坐上火箭，上涨约2.5倍。",
+    "raw_data": {
+      "code": "202602203651574189",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771522701074189",
+      "share": 1,
+      "showTime": "2026-02-20 01:38:21",
+      "stockList": [
+        "90.BK0800",
+        "150.159813"
+      ],
+      "summary": "【深圳芯片厂员工 领到26亿现金大礼包】深圳一对姐弟，吃到存储芯片行业红利。2月中旬，蔡华波、蔡丽江实控的江波龙，市值已站上1200亿元。过去6个月，其股价坐上火箭，上涨约2.5倍。",
+      "title": "深圳芯片厂员工 领到26亿现金大礼包",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 01:38:21",
+    "publish_time": "2026-02-20 01:38:21",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651574189.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0800",
+      "150.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "存储芯片"
+        },
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "火箭"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002",
+        "C202"
+      ]
+    }
+  },
+  {
+    "id": "89acc1a246786513",
+    "code": "202602203651575294",
+    "title": "特朗普主题ETF管理公司收购MAGA基金",
+    "summary": "【特朗普主题ETF管理公司收购MAGA基金】管理着五只全新Truth Social品牌ETF、聚焦美国总统特朗普 “美国优先” 投资理念的投资顾问公司约克维尔美国股票有限责任公司（Yorkville America Equities LLC）2月19日宣布，计划收购Point Bridge 美国优先 ETF（Point Bridge America First ETF，代码MAGA，即MAGA基金）。",
+    "content": "【特朗普主题ETF管理公司收购MAGA基金】管理着五只全新Truth Social品牌ETF、聚焦美国总统特朗普 “美国优先” 投资理念的投资顾问公司约克维尔美国股票有限责任公司（Yorkville America Equities LLC）2月19日宣布，计划收购Point Bridge 美国优先 ETF（Point Bridge America First ETF，代码MAGA，即MAGA基金）。",
+    "full_content": "【特朗普主题ETF管理公司收购MAGA基金】管理着五只全新Truth Social品牌ETF、聚焦美国总统特朗普 “美国优先” 投资理念的投资顾问公司约克维尔美国股票有限责任公司（Yorkville America Equities LLC）2月19日宣布，计划收购Point Bridge 美国优先 ETF（Point Bridge America First ETF，代码MAGA，即MAGA基金）。",
+    "raw_data": {
+      "code": "202602203651575294",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1771521509075294",
+      "share": 1,
+      "showTime": "2026-02-20 01:18:29",
+      "stockList": [],
+      "summary": "【特朗普主题ETF管理公司收购MAGA基金】管理着五只全新Truth Social品牌ETF、聚焦美国总统特朗普 “美国优先” 投资理念的投资顾问公司约克维尔美国股票有限责任公司（Yorkville America Equities LLC）2月19日宣布，计划收购Point Bridge 美国优先 ETF（Point Bridge America First ETF，代码MAGA，即MAGA基金）。",
+      "title": "特朗普主题ETF管理公司收购MAGA基金",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 01:18:29",
+    "publish_time": "2026-02-20 01:18:29",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651575294.html",
+    "category": "股市",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "ETF"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7c370b3a5f186e6d",
+    "code": "202602203651575113",
+    "title": "房地美数据显示 美国上周30年期按揭贷款/抵押贷款利率6.01%",
+    "summary": "房地美数据显示，美国上周30年期按揭贷款/抵押贷款利率6.01%，前值6.09%。",
+    "content": "房地美数据显示，美国上周30年期按揭贷款/抵押贷款利率6.01%，前值6.09%。",
+    "full_content": "房地美数据显示，美国上周30年期按揭贷款/抵押贷款利率6.01%，前值6.09%。",
+    "raw_data": {
+      "code": "202602203651575113",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771521209075113",
+      "share": 0,
+      "showTime": "2026-02-20 01:13:29",
+      "stockList": [],
+      "summary": "房地美数据显示，美国上周30年期按揭贷款/抵押贷款利率6.01%，前值6.09%。",
+      "title": "房地美数据显示 美国上周30年期按揭贷款/抵押贷款利率6.01%",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 01:13:29",
+    "publish_time": "2026-02-20 01:13:29",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651575113.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cf5794fe36b8913c",
+    "code": "202602203651575075",
+    "title": "谷歌推出安卓开发者验证机制以追究不良行为者责任",
+    "summary": "谷歌推出安卓开发者验证机制以追究不良行为者责任。",
+    "content": "谷歌推出安卓开发者验证机制以追究不良行为者责任。",
+    "full_content": "谷歌推出安卓开发者验证机制以追究不良行为者责任。",
+    "raw_data": {
+      "code": "202602203651575075",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771520845075075",
+      "share": 1,
+      "showTime": "2026-02-20 01:07:25",
+      "stockList": [
+        "105.GOOGL",
+        "105.GOOG"
+      ],
+      "summary": "谷歌推出安卓开发者验证机制以追究不良行为者责任。",
+      "title": "谷歌推出安卓开发者验证机制以追究不良行为者责任",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 01:07:25",
+    "publish_time": "2026-02-20 01:07:25",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651575075.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOGL",
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4808dda72b97df8a",
+    "code": "202602203651574916",
+    "title": "美国至2月13日当周EIA原油库存减少901.4万桶",
+    "summary": "【美国至2月13日当周EIA原油库存减少901.4万桶】美国至2月13日当周EIA原油库存减少901.4万桶至4.2亿桶，降幅2.1%。EIA战略石油储备库存增加22.9万桶至4.154亿桶，增幅0.06%。",
+    "content": "【美国至2月13日当周EIA原油库存减少901.4万桶】美国至2月13日当周EIA原油库存减少901.4万桶至4.2亿桶，降幅2.1%。EIA战略石油储备库存增加22.9万桶至4.154亿桶，增幅0.06%。",
+    "full_content": "【美国至2月13日当周EIA原油库存减少901.4万桶】美国至2月13日当周EIA原油库存减少901.4万桶至4.2亿桶，降幅2.1%。EIA战略石油储备库存增加22.9万桶至4.154亿桶，增幅0.06%。",
+    "raw_data": {
+      "code": "202602203651574916",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771520557074916",
+      "share": 0,
+      "showTime": "2026-02-20 01:02:37",
+      "stockList": [],
+      "summary": "【美国至2月13日当周EIA原油库存减少901.4万桶】美国至2月13日当周EIA原油库存减少901.4万桶至4.2亿桶，降幅2.1%。EIA战略石油储备库存增加22.9万桶至4.154亿桶，增幅0.06%。",
+      "title": "美国至2月13日当周EIA原油库存减少901.4万桶",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 01:02:37",
+    "publish_time": "2026-02-20 01:02:37",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651574916.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "e13e62ed6c7c2b20",
+    "code": "202602203651574774",
+    "title": "盟可睐Moncler全年营收31.3亿欧元 高于市场预期",
+    "summary": "【盟可睐Moncler全年营收31.3亿欧元 高于市场预期】盟可睐Moncler全年营收31.3亿欧元，分析师预期30.7亿欧元；全年销售（按恒定汇率计算）增长3%，分析师预期增长1.11%；全年净利润6.267亿欧元，分析师预期5.962亿欧元；全年EBITDA为9.134亿欧元，分析师预期8.657亿欧元；四季度营收12.9亿欧元，分析师预期12.2亿欧元。",
+    "content": "【盟可睐Moncler全年营收31.3亿欧元 高于市场预期】盟可睐Moncler全年营收31.3亿欧元，分析师预期30.7亿欧元；全年销售（按恒定汇率计算）增长3%，分析师预期增长1.11%；全年净利润6.267亿欧元，分析师预期5.962亿欧元；全年EBITDA为9.134亿欧元，分析师预期8.657亿欧元；四季度营收12.9亿欧元，分析师预期12.2亿欧元。",
+    "full_content": "【盟可睐Moncler全年营收31.3亿欧元 高于市场预期】盟可睐Moncler全年营收31.3亿欧元，分析师预期30.7亿欧元；全年销售（按恒定汇率计算）增长3%，分析师预期增长1.11%；全年净利润6.267亿欧元，分析师预期5.962亿欧元；全年EBITDA为9.134亿欧元，分析师预期8.657亿欧元；四季度营收12.9亿欧元，分析师预期12.2亿欧元。",
+    "raw_data": {
+      "code": "202602203651574774",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771519555074774",
+      "share": 0,
+      "showTime": "2026-02-20 00:45:55",
+      "stockList": [],
+      "summary": "【盟可睐Moncler全年营收31.3亿欧元 高于市场预期】盟可睐Moncler全年营收31.3亿欧元，分析师预期30.7亿欧元；全年销售（按恒定汇率计算）增长3%，分析师预期增长1.11%；全年净利润6.267亿欧元，分析师预期5.962亿欧元；全年EBITDA为9.134亿欧元，分析师预期8.657亿欧元；四季度营收12.9亿欧元，分析师预期12.2亿欧元。",
+      "title": "盟可睐Moncler全年营收31.3亿欧元 高于市场预期",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 00:45:55",
+    "publish_time": "2026-02-20 00:45:55",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651574774.html",
+    "category": "外汇",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a794f9437e59b221",
+    "code": "202602203651574674",
+    "title": "瑞典向乌克兰提供新一轮军事援助",
+    "summary": "【瑞典向乌克兰提供新一轮军事援助】当地时间2月19日，瑞典政府宣布向乌克兰提供新一轮总额达129亿瑞典克朗的军事援助，这笔资金将用于乌防空、无人机和远程导弹的研发。",
+    "content": "【瑞典向乌克兰提供新一轮军事援助】当地时间2月19日，瑞典政府宣布向乌克兰提供新一轮总额达129亿瑞典克朗的军事援助，这笔资金将用于乌防空、无人机和远程导弹的研发。",
+    "full_content": "【瑞典向乌克兰提供新一轮军事援助】当地时间2月19日，瑞典政府宣布向乌克兰提供新一轮总额达129亿瑞典克朗的军事援助，这笔资金将用于乌防空、无人机和远程导弹的研发。",
+    "raw_data": {
+      "code": "202602203651574674",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1771519464074674",
+      "share": 0,
+      "showTime": "2026-02-20 00:44:24",
+      "stockList": [],
+      "summary": "【瑞典向乌克兰提供新一轮军事援助】当地时间2月19日，瑞典政府宣布向乌克兰提供新一轮总额达129亿瑞典克朗的军事援助，这笔资金将用于乌防空、无人机和远程导弹的研发。",
+      "title": "瑞典向乌克兰提供新一轮军事援助",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 00:44:24",
+    "publish_time": "2026-02-20 00:44:24",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651574674.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "29ad852276e02174",
+    "code": "202602203651574523",
+    "title": "据悉嘉能可接近完成出售其旗下哈萨克斯坦矿商Kazzinc业务",
+    "summary": "据悉嘉能可接近完成出售其旗下哈萨克斯坦矿商Kazzinc业务。",
+    "content": "据悉嘉能可接近完成出售其旗下哈萨克斯坦矿商Kazzinc业务。",
+    "full_content": "据悉嘉能可接近完成出售其旗下哈萨克斯坦矿商Kazzinc业务。",
+    "raw_data": {
+      "code": "202602203651574523",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771518440074523",
+      "share": 0,
+      "showTime": "2026-02-20 00:27:20",
+      "stockList": [
+        "155.GLEN"
+      ],
+      "summary": "据悉嘉能可接近完成出售其旗下哈萨克斯坦矿商Kazzinc业务。",
+      "title": "据悉嘉能可接近完成出售其旗下哈萨克斯坦矿商Kazzinc业务",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 00:27:20",
+    "publish_time": "2026-02-20 00:27:20",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651574523.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "155.GLEN"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e79f6f0cd7d24eee",
+    "code": "202602203651574241",
+    "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+    "summary": "【特朗普：预计“十天左右”知道能否与伊朗达成协议】央视记者获悉，当地时间2月19日，美国总统特朗普在所谓“和平委员会”会议上称，预计未来十天左右会知道能否与伊朗达成协议。",
+    "content": "【特朗普：预计“十天左右”知道能否与伊朗达成协议】央视记者获悉，当地时间2月19日，美国总统特朗普在所谓“和平委员会”会议上称，预计未来十天左右会知道能否与伊朗达成协议。",
+    "full_content": "【特朗普：预计“十天左右”知道能否与伊朗达成协议】央视记者获悉，当地时间2月19日，美国总统特朗普在所谓“和平委员会”会议上称，预计未来十天左右会知道能否与伊朗达成协议。",
+    "raw_data": {
+      "code": "202602203651574241",
+      "image": [],
+      "pinglun_Num": 9,
+      "realSort": "1771517809074241",
+      "share": 7,
+      "showTime": "2026-02-20 00:16:49",
+      "stockList": [],
+      "summary": "【特朗普：预计“十天左右”知道能否与伊朗达成协议】央视记者获悉，当地时间2月19日，美国总统特朗普在所谓“和平委员会”会议上称，预计未来十天左右会知道能否与伊朗达成协议。",
+      "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 00:16:49",
+    "publish_time": "2026-02-20 00:16:49",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602203651574241.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 9,
+    "share_count": 7,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "74b1a04e2df0c51e",
+    "code": "202602193651571710",
+    "title": "期待“喘息服务”成为老龄化社会标配",
+    "summary": "【期待“喘息服务”成为老龄化社会标配】媒体在北京走访养老机构时发现，一些社区和养老机构推出的春节短期托养服务，让部分家庭得以暂时卸下重担，让那些全年无休的照护者也能安心休个“年假”。",
+    "content": "【期待“喘息服务”成为老龄化社会标配】媒体在北京走访养老机构时发现，一些社区和养老机构推出的春节短期托养服务，让部分家庭得以暂时卸下重担，让那些全年无休的照护者也能安心休个“年假”。",
+    "full_content": "【期待“喘息服务”成为老龄化社会标配】媒体在北京走访养老机构时发现，一些社区和养老机构推出的春节短期托养服务，让部分家庭得以暂时卸下重担，让那些全年无休的照护者也能安心休个“年假”。",
+    "raw_data": {
+      "code": "202602193651571710",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771517609071710",
+      "share": 1,
+      "showTime": "2026-02-20 00:13:29",
+      "stockList": [
+        "90.BK0653"
+      ],
+      "summary": "【期待“喘息服务”成为老龄化社会标配】媒体在北京走访养老机构时发现，一些社区和养老机构推出的春节短期托养服务，让部分家庭得以暂时卸下重担，让那些全年无休的照护者也能安心休个“年假”。",
+      "title": "期待“喘息服务”成为老龄化社会标配",
+      "titleColor": 0
+    },
+    "time": "2026-02-20 00:13:29",
+    "publish_time": "2026-02-20 00:13:29",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651571710.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0653"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9d79ca0b2ae1a9e2",
+    "code": "202602193651573163",
+    "title": "尼日利亚西北部遭恐怖分子袭击 超30人死亡",
+    "summary": "【尼日利亚西北部遭恐怖分子袭击 超30人死亡】当地时间2月19日，尼日利亚西北部凯比州警方发言人巴希尔·乌斯曼称，18日下午，恐怖组织“拉库拉瓦”袭击该州阿雷瓦地方政府区内的多个社区，造成30多人死亡。",
+    "content": "【尼日利亚西北部遭恐怖分子袭击 超30人死亡】当地时间2月19日，尼日利亚西北部凯比州警方发言人巴希尔·乌斯曼称，18日下午，恐怖组织“拉库拉瓦”袭击该州阿雷瓦地方政府区内的多个社区，造成30多人死亡。",
+    "full_content": "【尼日利亚西北部遭恐怖分子袭击 超30人死亡】当地时间2月19日，尼日利亚西北部凯比州警方发言人巴希尔·乌斯曼称，18日下午，恐怖组织“拉库拉瓦”袭击该州阿雷瓦地方政府区内的多个社区，造成30多人死亡。",
+    "raw_data": {
+      "code": "202602193651573163",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1771516248073163",
+      "share": 0,
+      "showTime": "2026-02-19 23:50:48",
+      "stockList": [],
+      "summary": "【尼日利亚西北部遭恐怖分子袭击 超30人死亡】当地时间2月19日，尼日利亚西北部凯比州警方发言人巴希尔·乌斯曼称，18日下午，恐怖组织“拉库拉瓦”袭击该州阿雷瓦地方政府区内的多个社区，造成30多人死亡。",
+      "title": "尼日利亚西北部遭恐怖分子袭击 超30人死亡",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 23:50:48",
+    "publish_time": "2026-02-19 23:50:48",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651573163.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f411c079295231d8",
+    "code": "202602193651571959",
+    "title": "美国至2月13日当周EIA天然气库存减少1440亿立方英尺",
+    "summary": "美国至2月13日当周EIA天然气库存减少1440亿立方英尺。",
+    "content": "美国至2月13日当周EIA天然气库存减少1440亿立方英尺。",
+    "full_content": "美国至2月13日当周EIA天然气库存减少1440亿立方英尺。",
+    "raw_data": {
+      "code": "202602193651571959",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1771515809071959",
+      "share": 0,
+      "showTime": "2026-02-19 23:43:29",
+      "stockList": [],
+      "summary": "美国至2月13日当周EIA天然气库存减少1440亿立方英尺。",
+      "title": "美国至2月13日当周EIA天然气库存减少1440亿立方英尺",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 23:43:29",
+    "publish_time": "2026-02-19 23:43:29",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651571959.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "1eee2e36367fb6be",
+    "code": "202602193651569938",
+    "title": "佩斯科夫：俄方将继续发展与伊朗的关系",
+    "summary": "【佩斯科夫：俄方将继续发展与伊朗的关系】俄罗斯总统新闻秘书佩斯科夫当地时间19日说，当前中东地区局势空前紧张，但俄方将继续发展与伊朗的关系，有关各方需保持克制。",
+    "content": "【佩斯科夫：俄方将继续发展与伊朗的关系】俄罗斯总统新闻秘书佩斯科夫当地时间19日说，当前中东地区局势空前紧张，但俄方将继续发展与伊朗的关系，有关各方需保持克制。",
+    "full_content": "【佩斯科夫：俄方将继续发展与伊朗的关系】俄罗斯总统新闻秘书佩斯科夫当地时间19日说，当前中东地区局势空前紧张，但俄方将继续发展与伊朗的关系，有关各方需保持克制。",
+    "raw_data": {
+      "code": "202602193651569938",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1771515235069938",
+      "share": 4,
+      "showTime": "2026-02-19 23:33:55",
+      "stockList": [],
+      "summary": "【佩斯科夫：俄方将继续发展与伊朗的关系】俄罗斯总统新闻秘书佩斯科夫当地时间19日说，当前中东地区局势空前紧张，但俄方将继续发展与伊朗的关系，有关各方需保持克制。",
+      "title": "佩斯科夫：俄方将继续发展与伊朗的关系",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 23:33:55",
+    "publish_time": "2026-02-19 23:33:55",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651569938.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cebbb7ac4e9e75b6",
+    "code": "202602193651569328",
+    "title": "内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”",
+    "summary": "【内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”】当地时间19日，以色列总理内塔尼亚胡在以国防军军官学校毕业典礼上发表讲话称，以色列“已为任何情况做好准备”。如果伊朗向以色列发射导弹，“将面临无法想象的回应”。",
+    "content": "【内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”】当地时间19日，以色列总理内塔尼亚胡在以国防军军官学校毕业典礼上发表讲话称，以色列“已为任何情况做好准备”。如果伊朗向以色列发射导弹，“将面临无法想象的回应”。",
+    "full_content": "【内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”】当地时间19日，以色列总理内塔尼亚胡在以国防军军官学校毕业典礼上发表讲话称，以色列“已为任何情况做好准备”。如果伊朗向以色列发射导弹，“将面临无法想象的回应”。",
+    "raw_data": {
+      "code": "202602193651569328",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1771514963069328",
+      "share": 4,
+      "showTime": "2026-02-19 23:29:23",
+      "stockList": [],
+      "summary": "【内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”】当地时间19日，以色列总理内塔尼亚胡在以国防军军官学校毕业典礼上发表讲话称，以色列“已为任何情况做好准备”。如果伊朗向以色列发射导弹，“将面临无法想象的回应”。",
+      "title": "内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 23:29:23",
+    "publish_time": "2026-02-19 23:29:23",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651569328.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "25947a40680be4d6",
+    "code": "202602193651568059",
+    "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
+    "summary": "据美国媒体报道，美国总统特朗普19日称，伊朗必须与美国达成“有意义的协议”，否则将会发生糟糕的事情。",
+    "content": "据美国媒体报道，美国总统特朗普19日称，伊朗必须与美国达成“有意义的协议”，否则将会发生糟糕的事情。",
+    "full_content": "据美国媒体报道，美国总统特朗普19日称，伊朗必须与美国达成“有意义的协议”，否则将会发生糟糕的事情。",
+    "raw_data": {
+      "code": "202602193651568059",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1771514629068059",
+      "share": 5,
+      "showTime": "2026-02-19 23:23:49",
+      "stockList": [],
+      "summary": "据美国媒体报道，美国总统特朗普19日称，伊朗必须与美国达成“有意义的协议”，否则将会发生糟糕的事情。",
+      "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 23:23:49",
+    "publish_time": "2026-02-19 23:23:49",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651568059.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5689b354e88a81ce",
+    "code": "202602193651563525",
+    "title": "哥伦比亚宣布成为国际能源署正式成员国",
+    "summary": "【哥伦比亚宣布成为国际能源署正式成员国】当地时间2月19日，哥伦比亚能源部发表声明宣布，哥伦比亚已成为国际能源署（IEA）正式成员国。",
+    "content": "【哥伦比亚宣布成为国际能源署正式成员国】当地时间2月19日，哥伦比亚能源部发表声明宣布，哥伦比亚已成为国际能源署（IEA）正式成员国。",
+    "full_content": "【哥伦比亚宣布成为国际能源署正式成员国】当地时间2月19日，哥伦比亚能源部发表声明宣布，哥伦比亚已成为国际能源署（IEA）正式成员国。",
+    "raw_data": {
+      "code": "202602193651563525",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771513778063525",
+      "share": 0,
+      "showTime": "2026-02-19 23:09:38",
+      "stockList": [
+        "0.159945",
+        "150.014238"
+      ],
+      "summary": "【哥伦比亚宣布成为国际能源署正式成员国】当地时间2月19日，哥伦比亚能源部发表声明宣布，哥伦比亚已成为国际能源署（IEA）正式成员国。",
+      "title": "哥伦比亚宣布成为国际能源署正式成员国",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 23:09:38",
+    "publish_time": "2026-02-19 23:09:38",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651563525.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e568e28c923a0af8",
+    "code": "202602193651560766",
+    "title": "美国1月份二手房签约量环比下降0.8%",
+    "summary": "美国1月份二手房签约量环比下降0.8%，预估为2.0%。",
+    "content": "美国1月份二手房签约量环比下降0.8%，预估为2.0%。",
+    "full_content": "美国1月份二手房签约量环比下降0.8%，预估为2.0%。",
+    "raw_data": {
+      "code": "202602193651560766",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771513278060766",
+      "share": 0,
+      "showTime": "2026-02-19 23:01:18",
+      "stockList": [
+        "90.BK1045"
+      ],
+      "summary": "美国1月份二手房签约量环比下降0.8%，预估为2.0%。",
+      "title": "美国1月份二手房签约量环比下降0.8%",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 23:01:18",
+    "publish_time": "2026-02-19 23:01:18",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651560766.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1045"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "27a8df96a6983a39",
+    "code": "202602193651560638",
+    "title": "大量美军海空力量在中东地区集结",
+    "summary": "【大量美军海空力量在中东地区集结】据美国有线电视新闻网2月18日报道，美军在约旦、沙特、巴林、阿联酋等多国部署了战机、预警机和无人机等力量。美军还在红海、波斯湾和霍尔木兹海峡附近部署了多艘驱逐舰和濒海战斗舰，在北阿拉伯海则有包含了F-35C“闪电”II型战斗机在内的“亚伯拉罕·林肯”号航母打击群。“福特”号航母打击群预计最早在本周末抵达。美国智库科学和国际安全研究所的专家通过分析卫星图像发现，伊朗近期对军事设施和核设施进行了加固。此外，伊朗和俄罗斯19日开始联合海军演习。伊朗伊斯兰革命卫队海军司令此前表示，只要接到上级指令，伊朗海军随时可以关闭霍尔木兹海峡。",
+    "content": "【大量美军海空力量在中东地区集结】据美国有线电视新闻网2月18日报道，美军在约旦、沙特、巴林、阿联酋等多国部署了战机、预警机和无人机等力量。美军还在红海、波斯湾和霍尔木兹海峡附近部署了多艘驱逐舰和濒海战斗舰，在北阿拉伯海则有包含了F-35C“闪电”II型战斗机在内的“亚伯拉罕·林肯”号航母打击群。“福特”号航母打击群预计最早在本周末抵达。美国智库科学和国际安全研究所的专家通过分析卫星图像发现，伊朗近期对军事设施和核设施进行了加固。此外，伊朗和俄罗斯19日开始联合海军演习。伊朗伊斯兰革命卫队海军司令此前表示，只要接到上级指令，伊朗海军随时可以关闭霍尔木兹海峡。",
+    "full_content": "【大量美军海空力量在中东地区集结】据美国有线电视新闻网2月18日报道，美军在约旦、沙特、巴林、阿联酋等多国部署了战机、预警机和无人机等力量。美军还在红海、波斯湾和霍尔木兹海峡附近部署了多艘驱逐舰和濒海战斗舰，在北阿拉伯海则有包含了F-35C“闪电”II型战斗机在内的“亚伯拉罕·林肯”号航母打击群。“福特”号航母打击群预计最早在本周末抵达。美国智库科学和国际安全研究所的专家通过分析卫星图像发现，伊朗近期对军事设施和核设施进行了加固。此外，伊朗和俄罗斯19日开始联合海军演习。伊朗伊斯兰革命卫队海军司令此前表示，只要接到上级指令，伊朗海军随时可以关闭霍尔木兹海峡。",
+    "raw_data": {
+      "code": "202602193651560638",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1771513198060638",
+      "share": 29,
+      "showTime": "2026-02-19 22:59:58",
+      "stockList": [],
+      "summary": "【大量美军海空力量在中东地区集结】据美国有线电视新闻网2月18日报道，美军在约旦、沙特、巴林、阿联酋等多国部署了战机、预警机和无人机等力量。美军还在红海、波斯湾和霍尔木兹海峡附近部署了多艘驱逐舰和濒海战斗舰，在北阿拉伯海则有包含了F-35C“闪电”II型战斗机在内的“亚伯拉罕·林肯”号航母打击群。“福特”号航母打击群预计最早在本周末抵达。美国智库科学和国际安全研究所的专家通过分析卫星图像发现，伊朗近期对军事设施和核设施进行了加固。此外，伊朗和俄罗斯19日开始联合海军演习。伊朗伊斯兰革命卫队海军司令此前表示，只要接到上级指令，伊朗海军随时可以关闭霍尔木兹海峡。",
+      "title": "大量美军海空力量在中东地区集结",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 22:59:58",
+    "publish_time": "2026-02-19 22:59:58",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651560638.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 29,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "卫星"
+        },
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C202",
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "3f44188fa4507aaa",
+    "code": "202602193651557990",
+    "title": "美联储卡什卡利表示 人工智能投资很可能推高中性利率",
+    "summary": "美联储卡什卡利表示，人工智能投资很可能推高中性利率。",
+    "content": "美联储卡什卡利表示，人工智能投资很可能推高中性利率。",
+    "full_content": "美联储卡什卡利表示，人工智能投资很可能推高中性利率。",
+    "raw_data": {
+      "code": "202602193651557990",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771512172057990",
+      "share": 1,
+      "showTime": "2026-02-19 22:42:52",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "美联储卡什卡利表示，人工智能投资很可能推高中性利率。",
+      "title": "美联储卡什卡利表示 人工智能投资很可能推高中性利率",
+      "titleColor": 0
+    },
+    "time": "2026-02-19 22:42:52",
+    "publish_time": "2026-02-19 22:42:52",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602193651557990.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
     "id": "44c8b649a1336b76",
     "code": "202602193651555914",
     "title": "纳指低开0.5%",
@@ -9,9 +877,9 @@
     "raw_data": {
       "code": "202602193651555914",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1771511425055914",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-02-19 22:30:25",
       "stockList": [],
       "summary": "【纳指低开0.5%】美股三大指数集体低开，纳指跌0.51%，道指跌0.28%，标普500指数跌0.29%。科技股普跌，特斯拉跌1%，苹果跌0.7%，英伟达跌0.5%。",
@@ -27,8 +895,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -97,9 +965,9 @@
     "raw_data": {
       "code": "202602193651552462",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 9,
       "realSort": "1771510378052462",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-02-19 22:12:58",
       "stockList": [],
       "summary": "【美国首次申领失业救济人数创11月来最大降幅 表明劳动力市场企稳】美国上周首次申领失业救济人数创下11月份以来最大降幅，进一步表明劳动力市场趋于稳定。根据美国劳工部周四公布的数据，截至2月14日当周，首次申领失业救济人数下降2.3万人，至20.6万人。该数据低于普遍市场预期。过去一年里，首次申领失业救济人数仅有为数不多几次低于21万。数据处于这一水平表明裁员总体保持低位。该数据还表明，1月底席卷美国广大地区的严重冬季风暴导致部分人暂时无法工作，而这些人已返回岗位。不过，作为实际领取救济人数指标的持续申领人数在此前一周升至187万人，为1月初以来最高。用于平滑波动的首次申领人数的四周移动均值上周基本持平，为21.9万人。在未经季节性因素调整之前，首次申领人数大幅下降。纽约州、宾夕法尼亚州和德克萨斯州降幅最大。",
@@ -115,8 +983,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 2,
+    "comment_count": 9,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -185,7 +1053,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1771509853051578",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-02-19 22:04:13",
       "stockList": [],
       "summary": "据报道，英国尚未同意特朗普利用英国的基地打击伊朗。",
@@ -202,7 +1070,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -220,9 +1088,9 @@
     "raw_data": {
       "code": "202602193651544096",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1771508704044096",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-02-19 21:45:04",
       "stockList": [],
       "summary": "【安德鲁被捕 英国国王发声 英前首相提交新证据】当地时间19日，英国国王查尔斯三世的弟弟安德鲁·蒙巴顿·温莎因涉嫌担任公职期间行为不端而被警方逮捕。据悉，安德鲁涉嫌在担任英国贸易特使期间与杰弗里·爱泼斯坦分享机密文件。",
@@ -238,8 +1106,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 4,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -257,9 +1125,9 @@
     "raw_data": {
       "code": "202602193651541542",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1771508429041542",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-02-19 21:40:29",
       "stockList": [
         "90.BK0484"
@@ -279,8 +1147,8 @@
       "90.BK0484"
     ],
     "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 3,
+    "comment_count": 8,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -446,7 +1314,7 @@
     "raw_data": {
       "code": "202602193651537558",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 5,
       "realSort": "1771508052037558",
       "share": 2,
       "showTime": "2026-02-19 21:34:12",
@@ -464,7 +1332,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 5,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -575,9 +1443,9 @@
     "raw_data": {
       "code": "202602193651531639",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1771506780031639",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-02-19 21:13:00",
       "stockList": [],
       "summary": "【德法联合研制战机陷僵局 德国考虑增购美国F-35战机】据德国方面19日消息，由于德法两国联合研制的新一代战斗机项目陷入僵局，德国政府正考虑从美国购买更多的F-35战斗机。知情人士称，德美两国相关谈判涉及超过35架F-35战斗机，每架造价约为8000万欧元。德国2022年已向美国订购35架F-35战斗机，预计今年晚些时候开始交付。",
@@ -593,8 +1461,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 2,
+    "comment_count": 5,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -651,7 +1519,7 @@
       "image": [],
       "pinglun_Num": 7,
       "realSort": "1771504984028849",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-02-19 20:43:04",
       "stockList": [
         "90.BK1626",
@@ -674,7 +1542,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 7,
-    "share_count": 7,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [
@@ -702,7 +1570,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1771504283028586",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-02-19 20:31:23",
       "stockList": [
         "105.AMZN",
@@ -725,7 +1593,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -899,7 +1767,7 @@
     "raw_data": {
       "code": "202602193651527764",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 17,
       "realSort": "1771501137027764",
       "share": 3,
       "showTime": "2026-02-19 19:38:57",
@@ -917,7 +1785,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
+    "comment_count": 17,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -936,7 +1804,7 @@
     "raw_data": {
       "code": "202602193651527628",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1771500490027628",
       "share": 1,
       "showTime": "2026-02-19 19:28:10",
@@ -954,7 +1822,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -973,9 +1841,9 @@
     "raw_data": {
       "code": "202602193651527512",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 17,
       "realSort": "1771499709027512",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-02-19 19:15:09",
       "stockList": [],
       "summary": "【我国公共数据资源供给规模不断扩大 登记总量已超25万项】据国家数据局，我国公共数据资源供给规模不断扩大，最新数据显示，国家公共数据资源登记平台登记总量已超25万项，接入各地区开放数据超7万项，覆盖全部国民经济行业大类，涉及行政执法、社会保障、卫生健康、信用服务等多个领域。",
@@ -991,8 +1859,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 1,
+    "comment_count": 17,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1012,7 +1880,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1771499124027467",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-02-19 19:05:24",
       "stockList": [],
       "summary": "LME伦铜跌幅扩大，现跌1.02%，最新报12779.37美元/吨。",
@@ -1029,7 +1897,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1149,7 +2017,7 @@
     "raw_data": {
       "code": "202602193651526464",
       "image": [],
-      "pinglun_Num": 17,
+      "pinglun_Num": 19,
       "realSort": "1771497759026464",
       "share": 31,
       "showTime": "2026-02-19 18:42:39",
@@ -1167,7 +2035,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 17,
+    "comment_count": 19,
     "share_count": 31,
     "tags": {
       "industries": [],
@@ -1188,7 +2056,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1771497252025160",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-02-19 18:34:12",
       "stockList": [
         "116.02498"
@@ -1209,851 +2077,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5b3825f83e92c247",
-    "code": "202602193651524991",
-    "title": "美国据称考虑与墨西哥、加拿大达成双边贸易协议",
-    "summary": "美国据称考虑与墨西哥、加拿大达成双边贸易协议，双边贸易协定或将取代美墨加协定。",
-    "content": "美国据称考虑与墨西哥、加拿大达成双边贸易协议，双边贸易协定或将取代美墨加协定。",
-    "full_content": "美国据称考虑与墨西哥、加拿大达成双边贸易协议，双边贸易协定或将取代美墨加协定。",
-    "raw_data": {
-      "code": "202602193651524991",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771496656024991",
-      "share": 0,
-      "showTime": "2026-02-19 18:24:16",
-      "stockList": [
-        "90.BK1550",
-        "90.BK0484"
-      ],
-      "summary": "美国据称考虑与墨西哥、加拿大达成双边贸易协议，双边贸易协定或将取代美墨加协定。",
-      "title": "美国据称考虑与墨西哥、加拿大达成双边贸易协议",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 18:24:16",
-    "publish_time": "2026-02-19 18:24:16",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651524991.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1550",
-      "90.BK0484"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c5bd44224e8f0555",
-    "code": "202602193651524422",
-    "title": "佩斯科夫：暂未计划安排俄美领导人通话",
-    "summary": "【佩斯科夫：暂未计划安排俄美领导人通话】俄罗斯总统新闻秘书佩斯科夫2月19日对媒体表示，乌克兰问题三方谈判正处于不进行公开讨论的阶段。克里姆林宫目前对俄方谈判代表团团长梅金斯基18日对日内瓦谈判的评价没有更多补充。他还指出，克宫尚未公布下一轮乌克兰问题谈判的地点，暂未计划安排俄美领导人通话。",
-    "content": "【佩斯科夫：暂未计划安排俄美领导人通话】俄罗斯总统新闻秘书佩斯科夫2月19日对媒体表示，乌克兰问题三方谈判正处于不进行公开讨论的阶段。克里姆林宫目前对俄方谈判代表团团长梅金斯基18日对日内瓦谈判的评价没有更多补充。他还指出，克宫尚未公布下一轮乌克兰问题谈判的地点，暂未计划安排俄美领导人通话。",
-    "full_content": "【佩斯科夫：暂未计划安排俄美领导人通话】俄罗斯总统新闻秘书佩斯科夫2月19日对媒体表示，乌克兰问题三方谈判正处于不进行公开讨论的阶段。克里姆林宫目前对俄方谈判代表团团长梅金斯基18日对日内瓦谈判的评价没有更多补充。他还指出，克宫尚未公布下一轮乌克兰问题谈判的地点，暂未计划安排俄美领导人通话。",
-    "raw_data": {
-      "code": "202602193651524422",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771496196024422",
-      "share": 0,
-      "showTime": "2026-02-19 18:16:36",
-      "stockList": [],
-      "summary": "【佩斯科夫：暂未计划安排俄美领导人通话】俄罗斯总统新闻秘书佩斯科夫2月19日对媒体表示，乌克兰问题三方谈判正处于不进行公开讨论的阶段。克里姆林宫目前对俄方谈判代表团团长梅金斯基18日对日内瓦谈判的评价没有更多补充。他还指出，克宫尚未公布下一轮乌克兰问题谈判的地点，暂未计划安排俄美领导人通话。",
-      "title": "佩斯科夫：暂未计划安排俄美领导人通话",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 18:16:36",
-    "publish_time": "2026-02-19 18:16:36",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651524422.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "33a748a75a6cf026",
-    "code": "202602193651523578",
-    "title": "欧股跌幅扩大",
-    "summary": "【欧股跌幅扩大】欧股跌幅扩大，欧洲斯托克(Eurostoxx)50指数跌0.86%，英国富时100指数跌0.62%，法国CAC40指数跌0.90%，德国DAX30指数跌1.01%，富时意大利MIB指数跌1.21%。",
-    "content": "【欧股跌幅扩大】欧股跌幅扩大，欧洲斯托克(Eurostoxx)50指数跌0.86%，英国富时100指数跌0.62%，法国CAC40指数跌0.90%，德国DAX30指数跌1.01%，富时意大利MIB指数跌1.21%。",
-    "full_content": "【欧股跌幅扩大】欧股跌幅扩大，欧洲斯托克(Eurostoxx)50指数跌0.86%，英国富时100指数跌0.62%，法国CAC40指数跌0.90%，德国DAX30指数跌1.01%，富时意大利MIB指数跌1.21%。",
-    "raw_data": {
-      "code": "202602193651523578",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1771495758023578",
-      "share": 6,
-      "showTime": "2026-02-19 18:09:18",
-      "stockList": [],
-      "summary": "【欧股跌幅扩大】欧股跌幅扩大，欧洲斯托克(Eurostoxx)50指数跌0.86%，英国富时100指数跌0.62%，法国CAC40指数跌0.90%，德国DAX30指数跌1.01%，富时意大利MIB指数跌1.21%。",
-      "title": "欧股跌幅扩大",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 18:09:18",
-    "publish_time": "2026-02-19 18:09:18",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651523578.html",
-    "category": "股市",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "937a0f1d2d761bd2",
-    "code": "202602193651523497",
-    "title": "“世界前所未见”！芯片突传重磅！黄仁勋最新发声",
-    "summary": "【“世界前所未见”！芯片突传重磅！黄仁勋最新发声】2月19日，据外媒wccftech报道，英伟达创始人兼首席执行官黄仁勋在接受媒体采访时，对即将到来的GTC2026大会进行预热，明确表示将在会上揭晓“世界前所未见”的全新芯片，引发业界广泛关注。",
-    "content": "【“世界前所未见”！芯片突传重磅！黄仁勋最新发声】2月19日，据外媒wccftech报道，英伟达创始人兼首席执行官黄仁勋在接受媒体采访时，对即将到来的GTC2026大会进行预热，明确表示将在会上揭晓“世界前所未见”的全新芯片，引发业界广泛关注。",
-    "full_content": "【“世界前所未见”！芯片突传重磅！黄仁勋最新发声】2月19日，据外媒wccftech报道，英伟达创始人兼首席执行官黄仁勋在接受媒体采访时，对即将到来的GTC2026大会进行预热，明确表示将在会上揭晓“世界前所未见”的全新芯片，引发业界广泛关注。",
-    "raw_data": {
-      "code": "202602193651523497",
-      "image": [],
-      "pinglun_Num": 386,
-      "realSort": "1771495548023497",
-      "share": 682,
-      "showTime": "2026-02-19 18:05:48",
-      "stockList": [
-        "90.BK0800",
-        "150.159813"
-      ],
-      "summary": "【“世界前所未见”！芯片突传重磅！黄仁勋最新发声】2月19日，据外媒wccftech报道，英伟达创始人兼首席执行官黄仁勋在接受媒体采访时，对即将到来的GTC2026大会进行预热，明确表示将在会上揭晓“世界前所未见”的全新芯片，引发业界广泛关注。",
-      "title": "“世界前所未见”！芯片突传重磅！黄仁勋最新发声",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 18:05:48",
-    "publish_time": "2026-02-19 18:05:48",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651523497.html",
-    "category": "科技",
-    "importance": 10,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "150.159813"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 386,
-    "share_count": 682,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "7e18425395aca3ec",
-    "code": "202602193651523347",
-    "title": "俄副外长：俄罗斯与北约之间不存在协作",
-    "summary": "【俄副外长：俄罗斯与北约之间不存在协作】当地时间2月19日，俄罗斯外交部副部长亚历山大·格鲁什科表示，俄罗斯与北约之间不存在协作，因为北约在文件中将俄罗斯定义为“直接威胁”。“而且他们现在又加上了‘长期’二字，这甚至考虑到了俄乌冲突结束之后的情况，无论是通过军事途径还是外交途径实现。”格鲁什科补充道。",
-    "content": "【俄副外长：俄罗斯与北约之间不存在协作】当地时间2月19日，俄罗斯外交部副部长亚历山大·格鲁什科表示，俄罗斯与北约之间不存在协作，因为北约在文件中将俄罗斯定义为“直接威胁”。“而且他们现在又加上了‘长期’二字，这甚至考虑到了俄乌冲突结束之后的情况，无论是通过军事途径还是外交途径实现。”格鲁什科补充道。",
-    "full_content": "【俄副外长：俄罗斯与北约之间不存在协作】当地时间2月19日，俄罗斯外交部副部长亚历山大·格鲁什科表示，俄罗斯与北约之间不存在协作，因为北约在文件中将俄罗斯定义为“直接威胁”。“而且他们现在又加上了‘长期’二字，这甚至考虑到了俄乌冲突结束之后的情况，无论是通过军事途径还是外交途径实现。”格鲁什科补充道。",
-    "raw_data": {
-      "code": "202602193651523347",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771495090023347",
-      "share": 1,
-      "showTime": "2026-02-19 17:58:10",
-      "stockList": [],
-      "summary": "【俄副外长：俄罗斯与北约之间不存在协作】当地时间2月19日，俄罗斯外交部副部长亚历山大·格鲁什科表示，俄罗斯与北约之间不存在协作，因为北约在文件中将俄罗斯定义为“直接威胁”。“而且他们现在又加上了‘长期’二字，这甚至考虑到了俄乌冲突结束之后的情况，无论是通过军事途径还是外交途径实现。”格鲁什科补充道。",
-      "title": "俄副外长：俄罗斯与北约之间不存在协作",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:58:10",
-    "publish_time": "2026-02-19 17:58:10",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651523347.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8d9938898b83f4ee",
-    "code": "202602193651523231",
-    "title": "联合国：刚果（金）东部此前冲突已致超百人伤亡",
-    "summary": "【联合国：刚果（金）东部此前冲突已致超百人伤亡】联合国人道事务协调厅2月18日发布报告称，1月12日至16日，刚果（金）北基伍省鲁丘鲁地区亲政府民兵与反政府武装“M23运动”爆发武装冲突，造成至少50名平民死亡、多人受伤，大量民众流离失所。",
-    "content": "【联合国：刚果（金）东部此前冲突已致超百人伤亡】联合国人道事务协调厅2月18日发布报告称，1月12日至16日，刚果（金）北基伍省鲁丘鲁地区亲政府民兵与反政府武装“M23运动”爆发武装冲突，造成至少50名平民死亡、多人受伤，大量民众流离失所。",
-    "full_content": "【联合国：刚果（金）东部此前冲突已致超百人伤亡】联合国人道事务协调厅2月18日发布报告称，1月12日至16日，刚果（金）北基伍省鲁丘鲁地区亲政府民兵与反政府武装“M23运动”爆发武装冲突，造成至少50名平民死亡、多人受伤，大量民众流离失所。",
-    "raw_data": {
-      "code": "202602193651523231",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771494619023231",
-      "share": 1,
-      "showTime": "2026-02-19 17:50:19",
-      "stockList": [],
-      "summary": "【联合国：刚果（金）东部此前冲突已致超百人伤亡】联合国人道事务协调厅2月18日发布报告称，1月12日至16日，刚果（金）北基伍省鲁丘鲁地区亲政府民兵与反政府武装“M23运动”爆发武装冲突，造成至少50名平民死亡、多人受伤，大量民众流离失所。",
-      "title": "联合国：刚果（金）东部此前冲突已致超百人伤亡",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:50:19",
-    "publish_time": "2026-02-19 17:50:19",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651523231.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6eb5686dbc309b37",
-    "code": "202602193651523128",
-    "title": "我国慈善信托累计备案规模突破百亿元",
-    "summary": "【我国慈善信托累计备案规模突破百亿元】据中国信托业协会，2025年我国共新增慈善信托备案规模16.94亿元。其中，共有508单慈善信托新设备案，新设备案规模为9.26亿元；共有151单存续慈善信托变更备案，增加备案规模7.68亿元。截至2025年末，我国慈善信托累计备案数量为2757单，累计备案规模102.31亿元。",
-    "content": "【我国慈善信托累计备案规模突破百亿元】据中国信托业协会，2025年我国共新增慈善信托备案规模16.94亿元。其中，共有508单慈善信托新设备案，新设备案规模为9.26亿元；共有151单存续慈善信托变更备案，增加备案规模7.68亿元。截至2025年末，我国慈善信托累计备案数量为2757单，累计备案规模102.31亿元。",
-    "full_content": "【我国慈善信托累计备案规模突破百亿元】据中国信托业协会，2025年我国共新增慈善信托备案规模16.94亿元。其中，共有508单慈善信托新设备案，新设备案规模为9.26亿元；共有151单存续慈善信托变更备案，增加备案规模7.68亿元。截至2025年末，我国慈善信托累计备案数量为2757单，累计备案规模102.31亿元。",
-    "raw_data": {
-      "code": "202602193651523128",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771493980023128",
-      "share": 1,
-      "showTime": "2026-02-19 17:39:40",
-      "stockList": [],
-      "summary": "【我国慈善信托累计备案规模突破百亿元】据中国信托业协会，2025年我国共新增慈善信托备案规模16.94亿元。其中，共有508单慈善信托新设备案，新设备案规模为9.26亿元；共有151单存续慈善信托变更备案，增加备案规模7.68亿元。截至2025年末，我国慈善信托累计备案数量为2757单，累计备案规模102.31亿元。",
-      "title": "我国慈善信托累计备案规模突破百亿元",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:39:40",
-    "publish_time": "2026-02-19 17:39:40",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651523128.html",
-    "category": "理财",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C404",
-          "name": "信托",
-          "matched_keyword": "信托"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C404"
-      ]
-    }
-  },
-  {
-    "id": "58260ec4cd8a5a75",
-    "code": "202602193651523024",
-    "title": "下一轮乌克兰问题谈判可能再次在日内瓦举行",
-    "summary": "总台记者当地时间2月19日获悉，下一轮乌克兰问题谈判可能再次在瑞士日内瓦举行。",
-    "content": "总台记者当地时间2月19日获悉，下一轮乌克兰问题谈判可能再次在瑞士日内瓦举行。",
-    "full_content": "总台记者当地时间2月19日获悉，下一轮乌克兰问题谈判可能再次在瑞士日内瓦举行。",
-    "raw_data": {
-      "code": "202602193651523024",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771493738023024",
-      "share": 2,
-      "showTime": "2026-02-19 17:35:38",
-      "stockList": [],
-      "summary": "总台记者当地时间2月19日获悉，下一轮乌克兰问题谈判可能再次在瑞士日内瓦举行。",
-      "title": "下一轮乌克兰问题谈判可能再次在日内瓦举行",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:35:38",
-    "publish_time": "2026-02-19 17:35:38",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651523024.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "22d5b170b35b9834",
-    "code": "202602193651522935",
-    "title": "新疆阿克苏地区温宿县发生4.6级地震",
-    "summary": "【新疆阿克苏地区温宿县发生4.6级地震】中国地震台网正式测定：02月19日17时09分在新疆阿克苏地区温宿县（北纬42.23度，东经80.64度）发生4.6级地震，震源深度10千米。",
-    "content": "【新疆阿克苏地区温宿县发生4.6级地震】中国地震台网正式测定：02月19日17时09分在新疆阿克苏地区温宿县（北纬42.23度，东经80.64度）发生4.6级地震，震源深度10千米。",
-    "full_content": "【新疆阿克苏地区温宿县发生4.6级地震】中国地震台网正式测定：02月19日17时09分在新疆阿克苏地区温宿县（北纬42.23度，东经80.64度）发生4.6级地震，震源深度10千米。",
-    "raw_data": {
-      "code": "202602193651522935",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771493102022935",
-      "share": 1,
-      "showTime": "2026-02-19 17:25:02",
-      "stockList": [],
-      "summary": "【新疆阿克苏地区温宿县发生4.6级地震】中国地震台网正式测定：02月19日17时09分在新疆阿克苏地区温宿县（北纬42.23度，东经80.64度）发生4.6级地震，震源深度10千米。",
-      "title": "新疆阿克苏地区温宿县发生4.6级地震",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:25:02",
-    "publish_time": "2026-02-19 17:25:02",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651522935.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e44ff35ac2c60de4",
-    "code": "202602193651522842",
-    "title": "DoorDash盘前上涨13.5%",
-    "summary": "DoorDash盘前上涨13.5%，此前该公司预计第一季度交易平台总订单价值将高于预期。",
-    "content": "DoorDash盘前上涨13.5%，此前该公司预计第一季度交易平台总订单价值将高于预期。",
-    "full_content": "DoorDash盘前上涨13.5%，此前该公司预计第一季度交易平台总订单价值将高于预期。",
-    "raw_data": {
-      "code": "202602193651522842",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771492551022842",
-      "share": 1,
-      "showTime": "2026-02-19 17:15:51",
-      "stockList": [
-        "105.DASH"
-      ],
-      "summary": "DoorDash盘前上涨13.5%，此前该公司预计第一季度交易平台总订单价值将高于预期。",
-      "title": "DoorDash盘前上涨13.5%",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:15:51",
-    "publish_time": "2026-02-19 17:15:51",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651522842.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "105.DASH"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "14a6088f12b0e455",
-    "code": "202602193651522762",
-    "title": "CVC据悉正与高盛合作出售价值10亿欧元的码头业务",
-    "summary": "CVC据悉正与高盛合作出售价值10亿欧元的码头业务。",
-    "content": "CVC据悉正与高盛合作出售价值10亿欧元的码头业务。",
-    "full_content": "CVC据悉正与高盛合作出售价值10亿欧元的码头业务。",
-    "raw_data": {
-      "code": "202602193651522762",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771492489022762",
-      "share": 0,
-      "showTime": "2026-02-19 17:14:49",
-      "stockList": [
-        "106.GS"
-      ],
-      "summary": "CVC据悉正与高盛合作出售价值10亿欧元的码头业务。",
-      "title": "CVC据悉正与高盛合作出售价值10亿欧元的码头业务",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:14:49",
-    "publish_time": "2026-02-19 17:14:49",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651522762.html",
-    "category": "外汇",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.GS"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "1cd37cf61741162e",
-    "code": "202602193651521938",
-    "title": "欧元区12月季调后经常帐录得顺差145.7亿欧元",
-    "summary": "欧元区12月季调后经常帐录得顺差145.7亿欧元，前值86亿欧元。",
-    "content": "欧元区12月季调后经常帐录得顺差145.7亿欧元，前值86亿欧元。",
-    "full_content": "欧元区12月季调后经常帐录得顺差145.7亿欧元，前值86亿欧元。",
-    "raw_data": {
-      "code": "202602193651521938",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771492156021938",
-      "share": 1,
-      "showTime": "2026-02-19 17:09:16",
-      "stockList": [],
-      "summary": "欧元区12月季调后经常帐录得顺差145.7亿欧元，前值86亿欧元。",
-      "title": "欧元区12月季调后经常帐录得顺差145.7亿欧元",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:09:16",
-    "publish_time": "2026-02-19 17:09:16",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651521938.html",
-    "category": "外汇",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d574810cba325103",
-    "code": "202602193651521569",
-    "title": "WTI原油日内涨超2%",
-    "summary": "WTI原油日内涨超2%，现报66.32美元/桶。",
-    "content": "WTI原油日内涨超2%，现报66.32美元/桶。",
-    "full_content": "WTI原油日内涨超2%，现报66.32美元/桶。",
-    "raw_data": {
-      "code": "202602193651521569",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771491629021569",
-      "share": 4,
-      "showTime": "2026-02-19 17:00:29",
-      "stockList": [],
-      "summary": "WTI原油日内涨超2%，现报66.32美元/桶。",
-      "title": "WTI原油日内涨超2%",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 17:00:29",
-    "publish_time": "2026-02-19 17:00:29",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651521569.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
     "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "2b54801eda6c1878",
-    "code": "202602193651521333",
-    "title": "空客首席执行官：正认真考虑对A350进行潜在加长",
-    "summary": "空客首席执行官表示，正认真考虑对A350进行潜在加长，但尚未到作出决定的阶段。",
-    "content": "空客首席执行官表示，正认真考虑对A350进行潜在加长，但尚未到作出决定的阶段。",
-    "full_content": "空客首席执行官表示，正认真考虑对A350进行潜在加长，但尚未到作出决定的阶段。",
-    "raw_data": {
-      "code": "202602193651521333",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771491035021333",
-      "share": 0,
-      "showTime": "2026-02-19 16:50:35",
-      "stockList": [
-        "153.EADSY"
-      ],
-      "summary": "空客首席执行官表示，正认真考虑对A350进行潜在加长，但尚未到作出决定的阶段。",
-      "title": "空客首席执行官：正认真考虑对A350进行潜在加长",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 16:50:35",
-    "publish_time": "2026-02-19 16:50:35",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651521333.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "153.EADSY"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f06d40db7ba7e0c5",
-    "code": "202602193651521256",
-    "title": "泽连斯基：若与普京会面 将讨论如何尽快结束俄乌冲突",
-    "summary": "【泽连斯基：若与普京会面 将讨论如何尽快结束俄乌冲突】当地时间2月19日，乌克兰总统泽连斯基表示，如果他与俄罗斯领导人普京会面，他将讨论如何尽快结束俄乌冲突。此外他表示，在瑞士日内瓦的谈判分为两个小组进行，军事小组和政治小组。在军事谈判方面，比政治谈判更接近达成协议。",
-    "content": "【泽连斯基：若与普京会面 将讨论如何尽快结束俄乌冲突】当地时间2月19日，乌克兰总统泽连斯基表示，如果他与俄罗斯领导人普京会面，他将讨论如何尽快结束俄乌冲突。此外他表示，在瑞士日内瓦的谈判分为两个小组进行，军事小组和政治小组。在军事谈判方面，比政治谈判更接近达成协议。",
-    "full_content": "【泽连斯基：若与普京会面 将讨论如何尽快结束俄乌冲突】当地时间2月19日，乌克兰总统泽连斯基表示，如果他与俄罗斯领导人普京会面，他将讨论如何尽快结束俄乌冲突。此外他表示，在瑞士日内瓦的谈判分为两个小组进行，军事小组和政治小组。在军事谈判方面，比政治谈判更接近达成协议。",
-    "raw_data": {
-      "code": "202602193651521256",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1771490425021256",
-      "share": 2,
-      "showTime": "2026-02-19 16:40:25",
-      "stockList": [],
-      "summary": "【泽连斯基：若与普京会面 将讨论如何尽快结束俄乌冲突】当地时间2月19日，乌克兰总统泽连斯基表示，如果他与俄罗斯领导人普京会面，他将讨论如何尽快结束俄乌冲突。此外他表示，在瑞士日内瓦的谈判分为两个小组进行，军事小组和政治小组。在军事谈判方面，比政治谈判更接近达成协议。",
-      "title": "泽连斯基：若与普京会面 将讨论如何尽快结束俄乌冲突",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 16:40:25",
-    "publish_time": "2026-02-19 16:40:25",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651521256.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "040b5bc27b0893f5",
-    "code": "202602193651521162",
-    "title": "2025年国家开发银行发放公路基础设施贷款超3600亿元",
-    "summary": "【2025年国家开发银行发放公路基础设施贷款超3600亿元】2025年，国家开发银行积极支持国家综合立体交通网“强网补链”，助力各地公路智慧化、绿色化升级以及安全性提升，探索支持“高速公路服务区+相关产业”融合发展、提质升级等改造，全年发放公路基础设施贷款超3600亿元，同比增长10%。",
-    "content": "【2025年国家开发银行发放公路基础设施贷款超3600亿元】2025年，国家开发银行积极支持国家综合立体交通网“强网补链”，助力各地公路智慧化、绿色化升级以及安全性提升，探索支持“高速公路服务区+相关产业”融合发展、提质升级等改造，全年发放公路基础设施贷款超3600亿元，同比增长10%。",
-    "full_content": "【2025年国家开发银行发放公路基础设施贷款超3600亿元】2025年，国家开发银行积极支持国家综合立体交通网“强网补链”，助力各地公路智慧化、绿色化升级以及安全性提升，探索支持“高速公路服务区+相关产业”融合发展、提质升级等改造，全年发放公路基础设施贷款超3600亿元，同比增长10%。",
-    "raw_data": {
-      "code": "202602193651521162",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771489993021162",
-      "share": 3,
-      "showTime": "2026-02-19 16:33:13",
-      "stockList": [],
-      "summary": "【2025年国家开发银行发放公路基础设施贷款超3600亿元】2025年，国家开发银行积极支持国家综合立体交通网“强网补链”，助力各地公路智慧化、绿色化升级以及安全性提升，探索支持“高速公路服务区+相关产业”融合发展、提质升级等改造，全年发放公路基础设施贷款超3600亿元，同比增长10%。",
-      "title": "2025年国家开发银行发放公路基础设施贷款超3600亿元",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 16:33:13",
-    "publish_time": "2026-02-19 16:33:13",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651521162.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "0804039db93900fd",
-    "code": "202602193651521083",
-    "title": "日本银行业协会：市场预计日本央行最快3月加息",
-    "summary": "日本银行业协会表示，市场预计日本央行最快3月加息。",
-    "content": "日本银行业协会表示，市场预计日本央行最快3月加息。",
-    "full_content": "日本银行业协会表示，市场预计日本央行最快3月加息。",
-    "raw_data": {
-      "code": "202602193651521083",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1771489583021083",
-      "share": 1,
-      "showTime": "2026-02-19 16:26:23",
-      "stockList": [
-        "90.BK0475",
-        "90.BK1283"
-      ],
-      "summary": "日本银行业协会表示，市场预计日本央行最快3月加息。",
-      "title": "日本银行业协会：市场预计日本央行最快3月加息",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 16:26:23",
-    "publish_time": "2026-02-19 16:26:23",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651521083.html",
-    "category": "宏观",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0475",
-      "90.BK1283"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "20c45c33eb882a32",
-    "code": "202602193651520987",
-    "title": "伊朗和俄罗斯举行联合海军演习",
-    "summary": "【伊朗和俄罗斯举行联合海军演习】当地时间2月19日上午，伊朗和俄罗斯联合海军演习开始。伊朗军队、伊朗伊斯兰革命卫队和俄罗斯海军特种部队成功进行了被劫持舰艇的解救演练。",
-    "content": "【伊朗和俄罗斯举行联合海军演习】当地时间2月19日上午，伊朗和俄罗斯联合海军演习开始。伊朗军队、伊朗伊斯兰革命卫队和俄罗斯海军特种部队成功进行了被劫持舰艇的解救演练。",
-    "full_content": "【伊朗和俄罗斯举行联合海军演习】当地时间2月19日上午，伊朗和俄罗斯联合海军演习开始。伊朗军队、伊朗伊斯兰革命卫队和俄罗斯海军特种部队成功进行了被劫持舰艇的解救演练。",
-    "raw_data": {
-      "code": "202602193651520987",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1771489227020987",
-      "share": 9,
-      "showTime": "2026-02-19 16:20:27",
-      "stockList": [],
-      "summary": "【伊朗和俄罗斯举行联合海军演习】当地时间2月19日上午，伊朗和俄罗斯联合海军演习开始。伊朗军队、伊朗伊斯兰革命卫队和俄罗斯海军特种部队成功进行了被劫持舰艇的解救演练。",
-      "title": "伊朗和俄罗斯举行联合海军演习",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 16:20:27",
-    "publish_time": "2026-02-19 16:20:27",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651520987.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b80645128efc2970",
-    "code": "202602193651520848",
-    "title": "巴基斯坦继续对印度飞机关闭领空至3月23日",
-    "summary": "【巴基斯坦继续对印度飞机关闭领空至3月23日】当地时间2月19日，巴基斯坦机场管理局发布通告，将对印度飞机继续关闭领空。这一关闭措施将持续至3月23日。2025年4月，巴基斯坦与印度紧张局势加剧。巴方于当年4月下旬开始对印度关闭领空，此后多次发布飞行通告，持续延长领空关闭时间。",
-    "content": "【巴基斯坦继续对印度飞机关闭领空至3月23日】当地时间2月19日，巴基斯坦机场管理局发布通告，将对印度飞机继续关闭领空。这一关闭措施将持续至3月23日。2025年4月，巴基斯坦与印度紧张局势加剧。巴方于当年4月下旬开始对印度关闭领空，此后多次发布飞行通告，持续延长领空关闭时间。",
-    "full_content": "【巴基斯坦继续对印度飞机关闭领空至3月23日】当地时间2月19日，巴基斯坦机场管理局发布通告，将对印度飞机继续关闭领空。这一关闭措施将持续至3月23日。2025年4月，巴基斯坦与印度紧张局势加剧。巴方于当年4月下旬开始对印度关闭领空，此后多次发布飞行通告，持续延长领空关闭时间。",
-    "raw_data": {
-      "code": "202602193651520848",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1771488938020848",
-      "share": 2,
-      "showTime": "2026-02-19 16:15:38",
-      "stockList": [],
-      "summary": "【巴基斯坦继续对印度飞机关闭领空至3月23日】当地时间2月19日，巴基斯坦机场管理局发布通告，将对印度飞机继续关闭领空。这一关闭措施将持续至3月23日。2025年4月，巴基斯坦与印度紧张局势加剧。巴方于当年4月下旬开始对印度关闭领空，此后多次发布飞行通告，持续延长领空关闭时间。",
-      "title": "巴基斯坦继续对印度飞机关闭领空至3月23日",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 16:15:38",
-    "publish_time": "2026-02-19 16:15:38",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651520848.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "2ff20921ec34bcf9",
-    "code": "202602193651520667",
-    "title": "2026年春运单日交通出行人数超3亿人次",
-    "summary": "【2026年春运单日交通出行人数超3亿人次】据交通运输部消息，2月18日（春运第17天，农历正月初二）全社会跨区域人员流动量为32298.8万人次，比2025年同期增长9.7%，2026年春运单日交通出行人数首次超3亿人次。",
-    "content": "【2026年春运单日交通出行人数超3亿人次】据交通运输部消息，2月18日（春运第17天，农历正月初二）全社会跨区域人员流动量为32298.8万人次，比2025年同期增长9.7%，2026年春运单日交通出行人数首次超3亿人次。",
-    "full_content": "【2026年春运单日交通出行人数超3亿人次】据交通运输部消息，2月18日（春运第17天，农历正月初二）全社会跨区域人员流动量为32298.8万人次，比2025年同期增长9.7%，2026年春运单日交通出行人数首次超3亿人次。",
-    "raw_data": {
-      "code": "202602193651520667",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771488493020667",
-      "share": 0,
-      "showTime": "2026-02-19 16:08:13",
-      "stockList": [
-        "90.BK0422"
-      ],
-      "summary": "【2026年春运单日交通出行人数超3亿人次】据交通运输部消息，2月18日（春运第17天，农历正月初二）全社会跨区域人员流动量为32298.8万人次，比2025年同期增长9.7%，2026年春运单日交通出行人数首次超3亿人次。",
-      "title": "2026年春运单日交通出行人数超3亿人次",
-      "titleColor": 0
-    },
-    "time": "2026-02-19 16:08:13",
-    "publish_time": "2026-02-19 16:08:13",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602193651520667.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0422"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
