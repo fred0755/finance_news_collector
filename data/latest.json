@@ -1,5 +1,447 @@
 [
   {
+    "id": "0be3409aa42e5137",
+    "code": "202602243652086010",
+    "title": "IBM股价跌幅扩大至12%",
+    "summary": "IBM股价跌幅扩大至12%，创2020年以来最大跌幅。",
+    "content": "IBM股价跌幅扩大至12%，创2020年以来最大跌幅。",
+    "full_content": "IBM股价跌幅扩大至12%，创2020年以来最大跌幅。",
+    "raw_data": {
+      "code": "202602243652086010",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771875480086010",
+      "share": 1,
+      "showTime": "2026-02-24 03:38:00",
+      "stockList": [
+        "106.IBM"
+      ],
+      "summary": "IBM股价跌幅扩大至12%，创2020年以来最大跌幅。",
+      "title": "IBM股价跌幅扩大至12%",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 03:38:00",
+    "publish_time": "2026-02-24 03:38:00",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652086010.html",
+    "category": "股市",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.IBM"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e663d7b62fa1c315",
+    "code": "202602243652085986",
+    "title": "国际原油期货结算价小幅收跌",
+    "summary": "【国际原油期货结算价小幅收跌】国际原油期货结算价小幅收跌。WTI原油期货4月合约收跌0.26%，报66.31美元/桶。布伦特原油期货4月合约收跌0.38%，报71.49美元/桶。",
+    "content": "【国际原油期货结算价小幅收跌】国际原油期货结算价小幅收跌。WTI原油期货4月合约收跌0.26%，报66.31美元/桶。布伦特原油期货4月合约收跌0.38%，报71.49美元/桶。",
+    "full_content": "【国际原油期货结算价小幅收跌】国际原油期货结算价小幅收跌。WTI原油期货4月合约收跌0.26%，报66.31美元/桶。布伦特原油期货4月合约收跌0.38%，报71.49美元/桶。",
+    "raw_data": {
+      "code": "202602243652085986",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771875303085986",
+      "share": 0,
+      "showTime": "2026-02-24 03:35:03",
+      "stockList": [],
+      "summary": "【国际原油期货结算价小幅收跌】国际原油期货结算价小幅收跌。WTI原油期货4月合约收跌0.26%，报66.31美元/桶。布伦特原油期货4月合约收跌0.38%，报71.49美元/桶。",
+      "title": "国际原油期货结算价小幅收跌",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 03:35:03",
+    "publish_time": "2026-02-24 03:35:03",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652085986.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "e248be57e1fc3c24",
+    "code": "202602243652085858",
+    "title": "法外长要求限制美大使直接接触法政府成员",
+    "summary": "【法外长要求限制美大使直接接触法政府成员】据法国媒体报道，法国外交部长巴罗23日要求限制美国驻法大使查尔斯·库什纳直接接触法国政府成员。",
+    "content": "【法外长要求限制美大使直接接触法政府成员】据法国媒体报道，法国外交部长巴罗23日要求限制美国驻法大使查尔斯·库什纳直接接触法国政府成员。",
+    "full_content": "【法外长要求限制美大使直接接触法政府成员】据法国媒体报道，法国外交部长巴罗23日要求限制美国驻法大使查尔斯·库什纳直接接触法国政府成员。",
+    "raw_data": {
+      "code": "202602243652085858",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771875096085858",
+      "share": 0,
+      "showTime": "2026-02-24 03:31:36",
+      "stockList": [],
+      "summary": "【法外长要求限制美大使直接接触法政府成员】据法国媒体报道，法国外交部长巴罗23日要求限制美国驻法大使查尔斯·库什纳直接接触法国政府成员。",
+      "title": "法外长要求限制美大使直接接触法政府成员",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 03:31:36",
+    "publish_time": "2026-02-24 03:31:36",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652085858.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "48024817056bec34",
+    "code": "202602243652085780",
+    "title": "亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区",
+    "summary": "【亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区】亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区，该项目将创造540个全职数据中心岗位，并支持1710个额外岗位；计划在路易斯安那州园区的本地水务基础设施上投资高达4亿美元，与园区的开发商和所有者Stack Infrastructure合作，主导数据中心设施的建设和开发。",
+    "content": "【亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区】亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区，该项目将创造540个全职数据中心岗位，并支持1710个额外岗位；计划在路易斯安那州园区的本地水务基础设施上投资高达4亿美元，与园区的开发商和所有者Stack Infrastructure合作，主导数据中心设施的建设和开发。",
+    "full_content": "【亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区】亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区，该项目将创造540个全职数据中心岗位，并支持1710个额外岗位；计划在路易斯安那州园区的本地水务基础设施上投资高达4亿美元，与园区的开发商和所有者Stack Infrastructure合作，主导数据中心设施的建设和开发。",
+    "raw_data": {
+      "code": "202602243652085780",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1771874784085780",
+      "share": 0,
+      "showTime": "2026-02-24 03:26:24",
+      "stockList": [
+        "90.BK0922",
+        "105.AMZN"
+      ],
+      "summary": "【亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区】亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区，该项目将创造540个全职数据中心岗位，并支持1710个额外岗位；计划在路易斯安那州园区的本地水务基础设施上投资高达4亿美元，与园区的开发商和所有者Stack Infrastructure合作，主导数据中心设施的建设和开发。",
+      "title": "亚马逊将在路易斯安那州投资120亿美元建设首个数据中心园区",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 03:26:24",
+    "publish_time": "2026-02-24 03:26:24",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652085780.html",
+    "category": "外汇",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0922",
+      "105.AMZN"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "c22b736c7d4e72a7",
+    "code": "202602243652085653",
+    "title": "加拿大人工智能部长将于周二会见OpenAI安全团队",
+    "summary": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
+    "content": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
+    "full_content": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
+    "raw_data": {
+      "code": "202602243652085653",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1771874147085653",
+      "share": 0,
+      "showTime": "2026-02-24 03:15:47",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
+      "title": "加拿大人工智能部长将于周二会见OpenAI安全团队",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 03:15:47",
+    "publish_time": "2026-02-24 03:15:47",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652085653.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "7fb4df464f6063c7",
+    "code": "202602243652085168",
+    "title": "电影春节档总场次刷新纪录 优质内容带火线下消费",
+    "summary": "【电影春节档总场次刷新纪录 优质内容带火线下消费】截至2月23日18时，2026年春节档电影总票房已突破56亿元，总场次刷新中国影史春节档最高纪录。截至当日，我国电影市场2026年度总票房已突破80亿元，超越北美，暂列全球单一市场票房第一。",
+    "content": "【电影春节档总场次刷新纪录 优质内容带火线下消费】截至2月23日18时，2026年春节档电影总票房已突破56亿元，总场次刷新中国影史春节档最高纪录。截至当日，我国电影市场2026年度总票房已突破80亿元，超越北美，暂列全球单一市场票房第一。",
+    "full_content": "【电影春节档总场次刷新纪录 优质内容带火线下消费】截至2月23日18时，2026年春节档电影总票房已突破56亿元，总场次刷新中国影史春节档最高纪录。截至当日，我国电影市场2026年度总票房已突破80亿元，超越北美，暂列全球单一市场票房第一。",
+    "raw_data": {
+      "code": "202602243652085168",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1771873832085168",
+      "share": 0,
+      "showTime": "2026-02-24 03:10:32",
+      "stockList": [
+        "90.BK0486",
+        "90.BK0847"
+      ],
+      "summary": "【电影春节档总场次刷新纪录 优质内容带火线下消费】截至2月23日18时，2026年春节档电影总票房已突破56亿元，总场次刷新中国影史春节档最高纪录。截至当日，我国电影市场2026年度总票房已突破80亿元，超越北美，暂列全球单一市场票房第一。",
+      "title": "电影春节档总场次刷新纪录 优质内容带火线下消费",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 03:10:32",
+    "publish_time": "2026-02-24 03:10:32",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652085168.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0486",
+      "90.BK0847"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 8,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "12e6134e24aa7878",
+    "code": "202602243652085366",
+    "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+    "summary": "【美军参联会主席警告：对伊朗动武可能带来重大风险】当地时间2月23日获悉，两位知情人士透露，美军参谋长联席会议主席丹·凯恩一直在向总统特朗普和高级官员建议，对伊朗采取军事行动可能带来重大风险，尤其是可能陷入旷日持久的冲突。",
+    "content": "【美军参联会主席警告：对伊朗动武可能带来重大风险】当地时间2月23日获悉，两位知情人士透露，美军参谋长联席会议主席丹·凯恩一直在向总统特朗普和高级官员建议，对伊朗采取军事行动可能带来重大风险，尤其是可能陷入旷日持久的冲突。",
+    "full_content": "【美军参联会主席警告：对伊朗动武可能带来重大风险】当地时间2月23日获悉，两位知情人士透露，美军参谋长联席会议主席丹·凯恩一直在向总统特朗普和高级官员建议，对伊朗采取军事行动可能带来重大风险，尤其是可能陷入旷日持久的冲突。",
+    "raw_data": {
+      "code": "202602243652085366",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1771872634085366",
+      "share": 2,
+      "showTime": "2026-02-24 02:50:34",
+      "stockList": [],
+      "summary": "【美军参联会主席警告：对伊朗动武可能带来重大风险】当地时间2月23日获悉，两位知情人士透露，美军参谋长联席会议主席丹·凯恩一直在向总统特朗普和高级官员建议，对伊朗采取军事行动可能带来重大风险，尤其是可能陷入旷日持久的冲突。",
+      "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 02:50:34",
+    "publish_time": "2026-02-24 02:50:34",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652085366.html",
+    "category": "其他",
+    "importance": 7,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "eda767d5698d1266",
+    "code": "202602243652084852",
+    "title": "多米尼加发生大规模停电",
+    "summary": "【多米尼加发生大规模停电】当地时间2月23日，多米尼加国家电力公司通报称，该国全国范围内发生大规模停电。",
+    "content": "【多米尼加发生大规模停电】当地时间2月23日，多米尼加国家电力公司通报称，该国全国范围内发生大规模停电。",
+    "full_content": "【多米尼加发生大规模停电】当地时间2月23日，多米尼加国家电力公司通报称，该国全国范围内发生大规模停电。",
+    "raw_data": {
+      "code": "202602243652084852",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771871432084852",
+      "share": 0,
+      "showTime": "2026-02-24 02:30:32",
+      "stockList": [],
+      "summary": "【多米尼加发生大规模停电】当地时间2月23日，多米尼加国家电力公司通报称，该国全国范围内发生大规模停电。",
+      "title": "多米尼加发生大规模停电",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 02:30:32",
+    "publish_time": "2026-02-24 02:30:32",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652084852.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C606",
+          "name": "家电",
+          "matched_keyword": "家电"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C606"
+      ]
+    }
+  },
+  {
+    "id": "bf0d8fe81633cbb0",
+    "code": "202602243652084736",
+    "title": "欧洲央行行长拉加德称 通胀和政策处于良好状态",
+    "summary": "欧洲央行行长拉加德称，通胀和政策处于良好状态。",
+    "content": "欧洲央行行长拉加德称，通胀和政策处于良好状态。",
+    "full_content": "欧洲央行行长拉加德称，通胀和政策处于良好状态。",
+    "raw_data": {
+      "code": "202602243652084736",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771871411084736",
+      "share": 0,
+      "showTime": "2026-02-24 02:30:11",
+      "stockList": [],
+      "summary": "欧洲央行行长拉加德称，通胀和政策处于良好状态。",
+      "title": "欧洲央行行长拉加德称 通胀和政策处于良好状态",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 02:30:11",
+    "publish_time": "2026-02-24 02:30:11",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652084736.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "8b7fff23c23af90c",
+    "code": "202602243652084697",
+    "title": "美国务院对黎巴嫩发布最高级别旅行警告",
+    "summary": "【美国务院对黎巴嫩发布最高级别旅行警告】当地时间2月23日，美国国务院将对黎巴嫩的旅行警告调升为“第四级：勿要前往”，这是美国务院有关旅行建议的最高级别警告。",
+    "content": "【美国务院对黎巴嫩发布最高级别旅行警告】当地时间2月23日，美国国务院将对黎巴嫩的旅行警告调升为“第四级：勿要前往”，这是美国务院有关旅行建议的最高级别警告。",
+    "full_content": "【美国务院对黎巴嫩发布最高级别旅行警告】当地时间2月23日，美国国务院将对黎巴嫩的旅行警告调升为“第四级：勿要前往”，这是美国务院有关旅行建议的最高级别警告。",
+    "raw_data": {
+      "code": "202602243652084697",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1771871214084697",
+      "share": 0,
+      "showTime": "2026-02-24 02:26:54",
+      "stockList": [],
+      "summary": "【美国务院对黎巴嫩发布最高级别旅行警告】当地时间2月23日，美国国务院将对黎巴嫩的旅行警告调升为“第四级：勿要前往”，这是美国务院有关旅行建议的最高级别警告。",
+      "title": "美国务院对黎巴嫩发布最高级别旅行警告",
+      "titleColor": 0
+    },
+    "time": "2026-02-24 02:26:54",
+    "publish_time": "2026-02-24 02:26:54",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602243652084697.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "6522e548b4905ea0",
     "code": "202602243652084594",
     "title": "卷入爱泼斯坦案 英国前驻美大使被捕",
@@ -48,7 +490,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1771869534084426",
-      "share": 0,
+      "share": 3,
       "showTime": "2026-02-24 01:58:54",
       "stockList": [
         "105.TSLA",
@@ -71,7 +513,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -205,7 +647,7 @@
     "raw_data": {
       "code": "202602243652077877",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1771868049077877",
       "share": 2,
       "showTime": "2026-02-24 01:34:09",
@@ -227,7 +669,7 @@
       "150.012606"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 2,
     "tags": {
       "industries": [
@@ -317,7 +759,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1771866454080023",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-02-24 01:07:34",
       "stockList": [],
       "summary": "【冬季风暴席卷美国 数千架次航班被取消】央视记者当地时间2月23日获悉，一场强劲的风暴给美国东北部大部分地区带来暴雪和大风，导致该地区空中交通几乎瘫痪。航班追踪网站FlightAware的数据显示，截至美国东部时间上午10时左右，已有超过5500架次进出美国的航班被取消，另有数百架次航班延误。",
@@ -334,7 +776,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -352,7 +794,7 @@
     "raw_data": {
       "code": "202602243652079990",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1771866282079990",
       "share": 0,
       "showTime": "2026-02-24 01:04:42",
@@ -376,7 +818,7 @@
       "201.HK49"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -403,9 +845,9 @@
     "raw_data": {
       "code": "202602243652079154",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1771865342079154",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-02-24 00:49:02",
       "stockList": [],
       "summary": "【美总统特使威特科夫和女婿库什纳将参加新一轮美伊谈判】据知情人士当地时间2月23日透露，美国总统特使威特科夫和特朗普女婿贾里德·库什纳计划本周前往瑞士日内瓦，参加于26日举行的新一轮美伊谈判。阿曼外交大臣巴德尔22日在社交媒体发文说，美国和伊朗新一轮谈判定于26日在瑞士日内瓦举行，各方正积极推动以达成协议。",
@@ -417,12 +859,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202602243652079154.html",
     "category": "其他",
-    "importance": 5,
+    "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 7,
+    "comment_count": 11,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -481,7 +923,7 @@
     "raw_data": {
       "code": "202602243652076598",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 13,
       "realSort": "1771864547076598",
       "share": 3,
       "showTime": "2026-02-24 00:35:47",
@@ -497,13 +939,13 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202602243652076598.html",
     "category": "其他",
-    "importance": 5,
+    "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
       "201.HK1288"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
+    "comment_count": 13,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -663,7 +1105,7 @@
       "image": [],
       "pinglun_Num": 19,
       "realSort": "1771863068071596",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-02-24 00:11:08",
       "stockList": [],
       "summary": "【以总理：若遭伊朗袭击 将以其无法想象的力度回击】当地时间2月23日，以色列总理内塔尼亚胡在议会发表讲话称，以色列正面临“极其复杂且充满挑战的时期”，但已为所有情况做好准备。",
@@ -680,7 +1122,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 19,
-    "share_count": 8,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -741,7 +1183,7 @@
     "raw_data": {
       "code": "202602243652067625",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1771862429067625",
       "share": 0,
       "showTime": "2026-02-24 00:00:29",
@@ -759,7 +1201,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -901,452 +1343,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "da903cfc81b5ad93",
-    "code": "202602233652056419",
-    "title": "布伦特原油突破72美元/桶 为去年7月以来首次",
-    "summary": "布伦特原油期货涨幅扩大至1%，报72.012美元/桶，为去年7月以来首次突破72美元/桶。",
-    "content": "布伦特原油期货涨幅扩大至1%，报72.012美元/桶，为去年7月以来首次突破72美元/桶。",
-    "full_content": "布伦特原油期货涨幅扩大至1%，报72.012美元/桶，为去年7月以来首次突破72美元/桶。",
-    "raw_data": {
-      "code": "202602233652056419",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771860167056419",
-      "share": 1,
-      "showTime": "2026-02-23 23:22:47",
-      "stockList": [],
-      "summary": "布伦特原油期货涨幅扩大至1%，报72.012美元/桶，为去年7月以来首次突破72美元/桶。",
-      "title": "布伦特原油突破72美元/桶 为去年7月以来首次",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 23:22:47",
-    "publish_time": "2026-02-23 23:22:47",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652056419.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "b33846ba28b7ee3e",
-    "code": "202602233652052397",
-    "title": "欧洲议会暂停批准欧美贸易协议",
-    "summary": "【欧洲议会暂停批准欧美贸易协议】当地时间2月23日，欧洲议会国际贸易委员会主席贝恩德·朗格表示，欧洲议会谈判团队决定暂停批准欧盟与美国贸易协议的相关工作，并推迟原定于24日举行的关于该协议的投票。朗格重申，在采取任何进一步措施之前，需要明确的规定和法律确定性。",
-    "content": "【欧洲议会暂停批准欧美贸易协议】当地时间2月23日，欧洲议会国际贸易委员会主席贝恩德·朗格表示，欧洲议会谈判团队决定暂停批准欧盟与美国贸易协议的相关工作，并推迟原定于24日举行的关于该协议的投票。朗格重申，在采取任何进一步措施之前，需要明确的规定和法律确定性。",
-    "full_content": "【欧洲议会暂停批准欧美贸易协议】当地时间2月23日，欧洲议会国际贸易委员会主席贝恩德·朗格表示，欧洲议会谈判团队决定暂停批准欧盟与美国贸易协议的相关工作，并推迟原定于24日举行的关于该协议的投票。朗格重申，在采取任何进一步措施之前，需要明确的规定和法律确定性。",
-    "raw_data": {
-      "code": "202602233652052397",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1771859535052397",
-      "share": 4,
-      "showTime": "2026-02-23 23:12:15",
-      "stockList": [
-        "90.BK1550",
-        "90.BK0484"
-      ],
-      "summary": "【欧洲议会暂停批准欧美贸易协议】当地时间2月23日，欧洲议会国际贸易委员会主席贝恩德·朗格表示，欧洲议会谈判团队决定暂停批准欧盟与美国贸易协议的相关工作，并推迟原定于24日举行的关于该协议的投票。朗格重申，在采取任何进一步措施之前，需要明确的规定和法律确定性。",
-      "title": "欧洲议会暂停批准欧美贸易协议",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 23:12:15",
-    "publish_time": "2026-02-23 23:12:15",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652052397.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1550",
-      "90.BK0484"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a5e48a3c6d9b2262",
-    "code": "202602233652049312",
-    "title": "美国12月工厂订单环比下降0.7%",
-    "summary": "美国12月工厂订单环比下降0.7%，预期-0.5%，前值2.70%。",
-    "content": "美国12月工厂订单环比下降0.7%，预期-0.5%，前值2.70%。",
-    "full_content": "美国12月工厂订单环比下降0.7%，预期-0.5%，前值2.70%。",
-    "raw_data": {
-      "code": "202602233652049312",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771859015049312",
-      "share": 2,
-      "showTime": "2026-02-23 23:03:35",
-      "stockList": [],
-      "summary": "美国12月工厂订单环比下降0.7%，预期-0.5%，前值2.70%。",
-      "title": "美国12月工厂订单环比下降0.7%",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 23:03:35",
-    "publish_time": "2026-02-23 23:03:35",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652049312.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "324a86ee13cbe7b0",
-    "code": "202602233652045666",
-    "title": "现货黄金重回至5200美元/盎司上方",
-    "summary": "现货黄金重回至5200美元/盎司上方，日内上涨1.92%。",
-    "content": "现货黄金重回至5200美元/盎司上方，日内上涨1.92%。",
-    "full_content": "现货黄金重回至5200美元/盎司上方，日内上涨1.92%。",
-    "raw_data": {
-      "code": "202602233652045666",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1771858568045666",
-      "share": 3,
-      "showTime": "2026-02-23 22:56:08",
-      "stockList": [
-        "90.BK0732",
-        "90.BK1617"
-      ],
-      "summary": "现货黄金重回至5200美元/盎司上方，日内上涨1.92%。",
-      "title": "现货黄金重回至5200美元/盎司上方",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 22:56:08",
-    "publish_time": "2026-02-23 22:56:08",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652045666.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0732",
-      "90.BK1617"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "8c2cbb3f3e6a6eac",
-    "code": "202602233652044042",
-    "title": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准",
-    "summary": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准。",
-    "content": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准。",
-    "full_content": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准。",
-    "raw_data": {
-      "code": "202602233652044042",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1771858309044042",
-      "share": 4,
-      "showTime": "2026-02-23 22:51:49",
-      "stockList": [
-        "90.BK1550",
-        "90.BK0484"
-      ],
-      "summary": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准。",
-      "title": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 22:51:49",
-    "publish_time": "2026-02-23 22:51:49",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652044042.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1550",
-      "90.BK0484"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b29d8c7842f6277f",
-    "code": "202602233652040768",
-    "title": "纽约期金突破5200美元/盎司",
-    "summary": "纽约期金突破5200美元/盎司，日内涨2.35%。",
-    "content": "纽约期金突破5200美元/盎司，日内涨2.35%。",
-    "full_content": "纽约期金突破5200美元/盎司，日内涨2.35%。",
-    "raw_data": {
-      "code": "202602233652040768",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771857991040768",
-      "share": 7,
-      "showTime": "2026-02-23 22:46:31",
-      "stockList": [],
-      "summary": "纽约期金突破5200美元/盎司，日内涨2.35%。",
-      "title": "纽约期金突破5200美元/盎司",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 22:46:31",
-    "publish_time": "2026-02-23 22:46:31",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652040768.html",
-    "category": "外汇",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d450d893e35cb3b0",
-    "code": "202602233652036040",
-    "title": "WTI原油期货涨幅扩大至1%",
-    "summary": "WTI原油期货涨幅扩大至1%，报67.161美元/桶。",
-    "content": "WTI原油期货涨幅扩大至1%，报67.161美元/桶。",
-    "full_content": "WTI原油期货涨幅扩大至1%，报67.161美元/桶。",
-    "raw_data": {
-      "code": "202602233652036040",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1771857392036040",
-      "share": 5,
-      "showTime": "2026-02-23 22:36:32",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "WTI原油期货涨幅扩大至1%，报67.161美元/桶。",
-      "title": "WTI原油期货涨幅扩大至1%",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 22:36:32",
-    "publish_time": "2026-02-23 22:36:32",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652036040.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "3b4947767938cbc0",
-    "code": "202602233652032943",
-    "title": "纳指小幅低开 诺和诺德大跌15%",
-    "summary": "【纳指小幅低开 诺和诺德大跌15%】美国贸易政策前景不明令市场情绪承压，美股三大指数集体低开，纳指跌0.03%，道指跌0.31%，标普500指数跌0.03%。科技股普跌，特斯拉、甲骨文跌超1%。诺和诺德大跌15%，该公司新一代减肥药CagriSema的试验效果不及礼来的Zepbound。",
-    "content": "【纳指小幅低开 诺和诺德大跌15%】美国贸易政策前景不明令市场情绪承压，美股三大指数集体低开，纳指跌0.03%，道指跌0.31%，标普500指数跌0.03%。科技股普跌，特斯拉、甲骨文跌超1%。诺和诺德大跌15%，该公司新一代减肥药CagriSema的试验效果不及礼来的Zepbound。",
-    "full_content": "【纳指小幅低开 诺和诺德大跌15%】美国贸易政策前景不明令市场情绪承压，美股三大指数集体低开，纳指跌0.03%，道指跌0.31%，标普500指数跌0.03%。科技股普跌，特斯拉、甲骨文跌超1%。诺和诺德大跌15%，该公司新一代减肥药CagriSema的试验效果不及礼来的Zepbound。",
-    "raw_data": {
-      "code": "202602233652032943",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1771857077032943",
-      "share": 2,
-      "showTime": "2026-02-23 22:31:17",
-      "stockList": [],
-      "summary": "【纳指小幅低开 诺和诺德大跌15%】美国贸易政策前景不明令市场情绪承压，美股三大指数集体低开，纳指跌0.03%，道指跌0.31%，标普500指数跌0.03%。科技股普跌，特斯拉、甲骨文跌超1%。诺和诺德大跌15%，该公司新一代减肥药CagriSema的试验效果不及礼来的Zepbound。",
-      "title": "纳指小幅低开 诺和诺德大跌15%",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 22:31:17",
-    "publish_time": "2026-02-23 22:31:17",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652032943.html",
-    "category": "股市",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C805",
-          "name": "特斯拉",
-          "matched_keyword": "特斯拉"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C805"
-      ]
-    }
-  },
-  {
-    "id": "0984423099bdc050",
-    "code": "202602233652032533",
-    "title": "美媒称美国务院下令部分驻黎巴嫩外交官撤离",
-    "summary": "据美国媒体23日报道，鉴于与伊朗相关的紧张局势升级，美国国务院下令“非必要的”美国外交官及其家属离开黎巴嫩。",
-    "content": "据美国媒体23日报道，鉴于与伊朗相关的紧张局势升级，美国国务院下令“非必要的”美国外交官及其家属离开黎巴嫩。",
-    "full_content": "据美国媒体23日报道，鉴于与伊朗相关的紧张局势升级，美国国务院下令“非必要的”美国外交官及其家属离开黎巴嫩。",
-    "raw_data": {
-      "code": "202602233652032533",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1771857060032533",
-      "share": 9,
-      "showTime": "2026-02-23 22:31:00",
-      "stockList": [],
-      "summary": "据美国媒体23日报道，鉴于与伊朗相关的紧张局势升级，美国国务院下令“非必要的”美国外交官及其家属离开黎巴嫩。",
-      "title": "美媒称美国务院下令部分驻黎巴嫩外交官撤离",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 22:31:00",
-    "publish_time": "2026-02-23 22:31:00",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652032533.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f6d430224a99dae1",
-    "code": "202602233652029425",
-    "title": "阿斯麦：预计到2030年极紫外光刻机的每小时晶圆产量可增加50%",
-    "summary": "【阿斯麦：预计到2030年极紫外光刻机的每小时晶圆产量可增加50%】阿斯麦表示，通过提升功率，可将光刻机极紫外光源的功率提升至1000瓦特，预计到2030年极紫外光刻机的每小时晶圆产量可增加50%。",
-    "content": "【阿斯麦：预计到2030年极紫外光刻机的每小时晶圆产量可增加50%】阿斯麦表示，通过提升功率，可将光刻机极紫外光源的功率提升至1000瓦特，预计到2030年极紫外光刻机的每小时晶圆产量可增加50%。",
-    "full_content": "【阿斯麦：预计到2030年极紫外光刻机的每小时晶圆产量可增加50%】阿斯麦表示，通过提升功率，可将光刻机极紫外光源的功率提升至1000瓦特，预计到2030年极紫外光刻机的每小时晶圆产量可增加50%。",
-    "raw_data": {
-      "code": "202602233652029425",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1771856545029425",
-      "share": 4,
-      "showTime": "2026-02-23 22:22:25",
-      "stockList": [
-        "105.ASML"
-      ],
-      "summary": "【阿斯麦：预计到2030年极紫外光刻机的每小时晶圆产量可增加50%】阿斯麦表示，通过提升功率，可将光刻机极紫外光源的功率提升至1000瓦特，预计到2030年极紫外光刻机的每小时晶圆产量可增加50%。",
-      "title": "阿斯麦：预计到2030年极紫外光刻机的每小时晶圆产量可增加50%",
-      "titleColor": 0
-    },
-    "time": "2026-02-23 22:22:25",
-    "publish_time": "2026-02-23 22:22:25",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602233652029425.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ASML"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 4,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "晶圆"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "晶圆"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
     }
   }
 ]
