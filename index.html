@@ -175,6 +175,40 @@
             font-size: 0.9rem;
         }
 
+        /* ===== 新增：标签样式 ===== */
+        .news-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-top: 10px;
+            padding-top: 8px;
+            border-top: 1px dashed #e0e7ef;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 400;
+            background: #f2f6fc;
+            color: #2a4d6e;
+            border: 1px solid #d9e2ef;
+        }
+
+        .tag-concept {
+            background: #e3f0ff;
+            border-color: #b8d3f0;
+            color: #1a5a9c;
+        }
+
+        .tag-industry {
+            background: #ecf7ef;
+            border-color: #b8e0c9;
+            color: #1e6f3c;
+        }
+        /* ===== 新增结束 ===== */
+
         /* 加载更多按钮 */
         .load-more {
             background: white;
@@ -272,6 +306,10 @@
             }
             .news-time {
                 font-size: 0.75rem;
+            }
+            .tag {
+                padding: 2px 8px;
+                font-size: 0.7rem;
             }
         }
     </style>
@@ -371,7 +409,32 @@
             return '未知时间';
         }
 
-        // 合并新闻（按标题去重）
+        // ===== 新增：渲染标签的函数 =====
+        function renderTags(tags) {
+            if (!tags) return '';
+
+            let html = '';
+
+            // 显示概念标签
+            if (tags.concepts && tags.concepts.length > 0) {
+                tags.concepts.forEach(concept => {
+                    const matched = concept.matched_keyword ? ` (${concept.matched_keyword})` : '';
+                    html += `<span class="tag tag-concept" title="概念: ${concept.name}${matched}">🏷️ ${concept.name}</span>`;
+                });
+            }
+
+            // 显示行业标签
+            if (tags.industries && tags.industries.length > 0) {
+                tags.industries.forEach(industry => {
+                    const levelInfo = `行业: ${industry.level1 || ''} > ${industry.level2 || ''} > ${industry.name}`;
+                    html += `<span class="tag tag-industry" title="${levelInfo}">🏭 ${industry.name}</span>`;
+                });
+            }
+
+            return html;
+        }
+
+        // 合并新闻（按标题去重）- 修改版：保留标签信息
         function mergeNews(newsList) {
             const newsMap = new Map();
             newsList.forEach(item => {
@@ -380,6 +443,7 @@
                     newsMap.set(title, {
                         title: title,
                         time: getNewsTime(item),
+                        tags: item.tags || { industries: [], concepts: [] },  // 保留标签
                         sources: [{
                             name: item.source || '默认',
                             url: getNewsUrl(item),
@@ -395,6 +459,11 @@
                             url: getNewsUrl(item),
                             config: getSourceConfig(sourceName)
                         });
+                    }
+                    // 如果已有新闻没有标签，但新新闻有，则补充标签
+                    if ((!existing.tags || (!existing.tags.concepts?.length && !existing.tags.industries?.length)) &&
+                        (item.tags?.concepts?.length || item.tags?.industries?.length)) {
+                        existing.tags = item.tags;
                     }
                 }
             });
@@ -420,7 +489,7 @@
             );
         }
 
-        // 渲染新闻列表
+        // 渲染新闻列表 - 修改版：包含标签
         function renderNews(newsArray) {
             const container = document.getElementById('news-list');
             if (!newsArray || newsArray.length === 0) {
@@ -439,6 +508,9 @@
                     `;
                 });
 
+                // 生成标签HTML
+                const tagsHtml = renderTags(item.tags);
+
                 html += `
                     <div class="news-card">
                         <div class="news-title">${escapeHtml(item.title)}</div>
@@ -447,6 +519,7 @@
                             <span class="time-icon">🕐</span>
                             <span>${item.time}</span>
                         </div>
+                        ${tagsHtml ? `<div class="news-tags">${tagsHtml}</div>` : ''}
                     </div>
                 `;
             });
