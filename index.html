@@ -56,7 +56,7 @@
             font-size: 0.95rem;
         }
 
-        /* 时间范围选择器 */
+        /* 时间范围选择器 - 去掉"全部" */
         .time-range {
             display: flex;
             gap: 8px;
@@ -358,13 +358,12 @@
             </div>
         </div>
 
-        <!-- 时间范围选择器 -->
+        <!-- 时间范围选择器 - 只有4个选项 -->
         <div class="time-range">
             <button class="time-btn active" data-range="24h">最近24小时</button>
             <button class="time-btn" data-range="48h">最近48小时</button>
             <button class="time-btn" data-range="7d">最近7天</button>
             <button class="time-btn" data-range="30d">最近30天</button>
-            <button class="time-btn" data-range="all">全部</button>
         </div>
 
         <!-- 搜索栏 -->
@@ -397,6 +396,7 @@
         let currentTimeRange = '24h';  // 当前时间范围
         let currentSearchTerm = '';    // 当前搜索词
         let loadedDates = new Set();   // 已加载的日期
+        let loadedMonths = new Set();  // 已加载的月份
 
         // 来源图标配置
         const SOURCE_CONFIG = {
@@ -424,8 +424,8 @@
             return 'https://finance.eastmoney.com/';
         }
 
-        // 格式化时间
-        function formatNewsTime(timeStr) {
+        // 格式化时间显示
+        function formatDisplayTime(timeStr) {
             if (!timeStr) return '未知时间';
             const match = timeStr.match(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/);
             if (match) {
@@ -472,11 +472,13 @@
             const newsMap = new Map();
             newsList.forEach(item => {
                 const title = item.title || '无标题';
+                const fullTime = getFullNewsTime(item) || '未知时间';
+
                 if (!newsMap.has(title)) {
                     newsMap.set(title, {
                         title: title,
-                        time: getFullNewsTime(item) || '未知时间',
-                        displayTime: formatNewsTime(getFullNewsTime(item)),
+                        time: fullTime,
+                        displayTime: formatDisplayTime(fullTime),
                         tags: item.tags || { industries: [], concepts: [] },
                         sources: [{
                             name: item.source || '默认',
@@ -493,6 +495,11 @@
                             url: getNewsUrl(item),
                             config: getSourceConfig(sourceName)
                         });
+                    }
+                    // 如果已有新闻时间更早，保留更新的时间
+                    if (fullTime !== '未知时间' && (existing.time === '未知时间' || fullTime > existing.time)) {
+                        existing.time = fullTime;
+                        existing.displayTime = formatDisplayTime(fullTime);
                     }
                 }
             });
@@ -520,8 +527,6 @@
 
         // 根据时间范围过滤
         function filterByTimeRange(newsArray, range) {
-            if (range === 'all') return newsArray;
-
             const now = new Date();
             let cutoffTime = new Date();
 
@@ -562,6 +567,23 @@
                 return data;
             } catch (e) {
                 console.error(`加载 ${dateStr} 失败:`, e);
+                return null;
+            }
+        }
+
+        // 加载某个月的数据
+        async function loadMonthData(monthStr) {
+            if (loadedMonths.has(monthStr)) return null;
+
+            try {
+                const response = await fetch(`/data/archive/merged/${monthStr}.json?t=${Date.now()}`);
+                if (!response.ok) return null;
+
+                const data = await response.json();
+                loadedMonths.add(monthStr);
+                return data;
+            } catch (e) {
+                console.error(`加载 ${monthStr} 月数据失败:`, e);
                 return null;
             }
         }

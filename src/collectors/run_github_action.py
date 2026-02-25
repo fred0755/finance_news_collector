@@ -1,18 +1,19 @@
 #!/usr/bin/env python
 """
-财经新闻采集器 - 带历史归档版
+财经新闻采集器 - 带历史归档和按月合并版
 功能：
 - 每次采集50条新闻
 - 更新 latest.json（最近30条）
 - 更新 today.json（今日所有）
-- 按日归档到 archive/YYYY-MM-DD.json
+- 按日归档到 archive/YYYY-MM-DD.json（保存最近30天）
+- 超过30天的自动按月合并到 archive/merged/YYYY-MM.json
 """
 
 import json
 import sys
 import os
 from pathlib import Path
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 from eastmoney_collector import EastMoneyCollector
 
 # 导入标签管理器
@@ -44,9 +45,64 @@ def merge_news_by_title(existing_news, new_news):
     return result
 
 
+def merge_monthly_files(archive_dir, merged_dir, cutoff_date):
+    """
+    将超过30天的日文件合并到月文件
+    cutoff_date: 保留的最近日期（此日期之前的文件需要合并）
+    """
+    print(f"\n🔄 检查需要合并的旧文件（{cutoff_date} 之前的）...")
+
+    # 获取所有日文件
+    daily_files = sorted(archive_dir.glob("20??-??-??.json"))
+
+    for daily_file in daily_files:
+        # 从文件名提取日期
+        file_date_str = daily_file.stem
+        try:
+            file_date = datetime.strptime(file_date_str, "%Y-%m-%d").date()
+        except:
+            continue
+
+        # 如果文件日期早于cutoff_date，需要合并
+        if file_date < cutoff_date:
+            print(f"  📦 合并 {file_date_str} 到月文件")
+
+            # 读取日文件内容
+            try:
+                with open(daily_file, 'r', encoding='utf-8') as f:
+                    daily_news = json.load(f)
+            except:
+                print(f"    ⚠️ 读取失败，跳过")
+                continue
+
+            # 生成月文件名 (YYYY-MM.json)
+            month_str = file_date_str[:7]  # 取 "YYYY-MM"
+            month_file = merged_dir / f"{month_str}.json"
+
+            # 读取已有的月文件
+            month_news = []
+            if month_file.exists():
+                try:
+                    with open(month_file, 'r', encoding='utf-8') as f:
+                        month_news = json.load(f)
+                except:
+                    month_news = []
+
+            # 合并去重
+            merged = merge_news_by_title(month_news, daily_news)
+
+            # 写回月文件
+            with open(month_file, 'w', encoding='utf-8') as f:
+                json.dump(merged, f, ensure_ascii=False, indent=2)
+
+            # 删除原来的日文件
+            daily_file.unlink()
+            print(f"    ✅ 已合并并删除 {file_date_str}.json")
+
+
 def main():
     print("=" * 50)
-    print("🚀 财经新闻采集器（带历史归档）")
+    print("🚀 财经新闻采集器（30天按日 + 按月合并）")
     print("=" * 50)
 
     # 获取项目根目录
@@ -54,13 +110,16 @@ def main():
     project_root = current_file.parent.parent.parent
     data_dir = project_root / "data"
     archive_dir = data_dir / "archive"
+    merged_dir = archive_dir / "merged"
 
     # 创建目录
     data_dir.mkdir(exist_ok=True, parents=True)
     archive_dir.mkdir(exist_ok=True, parents=True)
+    merged_dir.mkdir(exist_ok=True, parents=True)
 
     print(f"📁 数据目录: {data_dir}")
-    print(f"📁 归档目录: {archive_dir}")
+    print(f"📁 日归档目录: {archive_dir}")
+    print(f"📁 月合并目录: {merged_dir}")
 
     # 初始化标签管理器
     print("\n🏷️ 初始化标签管理器...")
@@ -131,9 +190,13 @@ def main():
 
     with open(archive_path, "w", encoding="utf-8") as f:
         json.dump(merged_archive, f, ensure_ascii=False, indent=2)
-    print(f"✅ 归档 {today_str}.json: {len(merged_archive)} 条")
+    print(f"✅ 日归档 {today_str}.json: {len(merged_archive)} 条")
 
-    # ========== 4. 更新时间戳 ==========
+    # ========== 4. 合并超过30天的旧文件 ==========
+    cutoff_date = date.today() - timedelta(days=30)
+    merge_monthly_files(archive_dir, merged_dir, cutoff_date)
+
+    # ========== 5. 更新时间戳 ==========
     timestamp_path = data_dir / "last_update.txt"
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(timestamp_path, "w", encoding="utf-8") as f:
