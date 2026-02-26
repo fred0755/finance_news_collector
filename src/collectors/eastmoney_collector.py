@@ -34,63 +34,80 @@ class EastMoneyCollector:
             'callback': f'jQuery_{int(time.time() * 1000)}'
         }
 
-    def fetch_news(self, page_size: int = 20) -> Optional[List[Dict]]:
+    def fetch_news(self, page_size: int = 50, retry_count: int = 3) -> Optional[List[Dict]]:
         """
-        获取东方财富快讯新闻（优化版）
-
-        Args:
-            page_size: 每页数量
-
-        Returns:
-            结构化的新闻列表，包含完整内容
+        获取东方财富快讯新闻（优化版：增加超时和重试）
         """
-        try:
-            # 更新参数
-            params = self.base_params.copy()
-            params['pageSize'] = page_size
-            params['sortEnd'] = int(time.time() * 1000000)
-            params['_'] = int(time.time() * 1000)
-            params['callback'] = f'jQuery_{int(time.time() * 1000)}'
+        for attempt in range(retry_count):
+            try:
+                # 更新参数
+                params = self.base_params.copy()
+                params['pageSize'] = page_size
+                params['sortEnd'] = int(time.time() * 1000000)
+                params['_'] = int(time.time() * 1000)
+                params['callback'] = f'jQuery_{int(time.time() * 1000)}'
 
-            print(f"正在抓取快讯，每页 {page_size} 条...")
+                print(f"🔄 第 {attempt + 1}/{retry_count} 次尝试抓取快讯，每页 {page_size} 条...")
 
-            response = requests.get(
-                self.base_url,
-                params=params,
-                headers=self.headers,
-                timeout=15
-            )
+                response = requests.get(
+                    self.base_url,
+                    params=params,
+                    headers=self.headers,
+                    timeout=30  # 增加到30秒
+                )
 
-            response.raise_for_status()
+                response.raise_for_status()
 
-            # 处理JSONP响应
-            raw_text = response.text
-            json_start = raw_text.find('(')
-            json_end = raw_text.rfind(')')
+                # 处理JSONP响应
+                raw_text = response.text
+                json_start = raw_text.find('(')
+                json_end = raw_text.rfind(')')
 
-            if json_start != -1 and json_end != -1:
-                json_str = raw_text[json_start + 1:json_end]
-                data = json.loads(json_str)
+                if json_start != -1 and json_end != -1:
+                    json_str = raw_text[json_start + 1:json_end]
+                    data = json.loads(json_str)
 
-                # 解析新闻数据
-                news_list = self._parse_news_data(data)
-                return news_list
-            else:
-                print(f"响应不是有效的JSONP格式")
-                return None
+                    # 解析新闻数据
+                    news_list = self._parse_news_data(data)
+                    if news_list:
+                        print(f"✅ 第 {attempt + 1} 次尝试成功，获取 {len(news_list)} 条新闻")
+                        return news_list
+                else:
+                    print(f"⚠️ 响应不是有效的JSONP格式")
 
-        except requests.exceptions.RequestException as e:
-            print(f"网络请求失败: {e}")
-            return None
-        except json.JSONDecodeError as e:
-            print(f"JSON解析失败: {e}")
-            print(f"原始响应: {raw_text[:500]}...")
-            return None
-        except Exception as e:
-            print(f"未知错误: {e}")
-            import traceback
-            traceback.print_exc()
-            return None
+            except requests.exceptions.Timeout:
+                print(f"⏱️ 第 {attempt + 1} 次尝试超时 (30秒)")
+                if attempt < retry_count - 1:
+                    wait_time = (attempt + 1) * 5
+                    print(f"⏳ 等待 {wait_time} 秒后重试...")
+                    time.sleep(wait_time)
+                else:
+                    print("❌ 所有重试都失败了")
+
+            except requests.exceptions.RequestException as e:
+                print(f"⚠️ 第 {attempt + 1} 次尝试网络请求失败: {e}")
+                if attempt < retry_count - 1:
+                    time.sleep(5)
+                else:
+                    print("❌ 所有重试都失败了")
+
+            except json.JSONDecodeError as e:
+                print(f"⚠️ 第 {attempt + 1} 次尝试JSON解析失败: {e}")
+                if attempt < retry_count - 1:
+                    time.sleep(5)
+                else:
+                    return None
+
+            except Exception as e:
+                print(f"⚠️ 第 {attempt + 1} 次尝试未知错误: {e}")
+                if attempt < retry_count - 1:
+                    time.sleep(5)
+                else:
+                    import traceback
+                    traceback.print_exc()
+                    return None
+
+        return None
 
     def _parse_news_data(self, data: Dict) -> List[Dict]:
         """
