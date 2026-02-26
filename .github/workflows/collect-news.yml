@@ -78,20 +78,3 @@ jobs:
           else
             echo "⚠️ Gitee 凭证未配置"
           fi
-
-      - name: 钉钉通知
-        if: always()
-        env:
-          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
-        run: |
-          if [ -z "$DINGTALK_WEBHOOK" ]; then
-            exit 0
-          fi
-          STATUS="${{ job.status }}"
-          TIME=$(date '+%Y-%m-%d %H:%M:%S')
-          if [ "$STATUS" = "success" ]; then
-            MSG="✅ 采集成功"
-          else
-            MSG="❌ 采集失败"
-          fi
-          curl -s -X POST "$DINGTALK_WEBHOOK" -H "Content-Type: application/json" -d "{\"msgtype\":\"text\",\"text\":{\"content\":\"$MSG $TIME\"}}"
