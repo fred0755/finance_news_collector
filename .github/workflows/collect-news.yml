@@ -2,7 +2,7 @@ name: 财经新闻云端采集
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
