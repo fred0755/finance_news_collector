@@ -1,5 +1,48 @@
 [
   {
+    "id": "881ad3bfc36bf0de",
+    "code": "202602263655471396",
+    "title": "伯恩斯坦上调英伟达目标价",
+    "summary": "【伯恩斯坦上调英伟达目标价】伯恩斯坦将英伟达目标价从275美元上调至300美元。",
+    "content": "【伯恩斯坦上调英伟达目标价】伯恩斯坦将英伟达目标价从275美元上调至300美元。",
+    "full_content": "【伯恩斯坦上调英伟达目标价】伯恩斯坦将英伟达目标价从275美元上调至300美元。",
+    "raw_data": {
+      "code": "202602263655471396",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772102260071396",
+      "share": 0,
+      "showTime": "2026-02-26 18:37:40",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "【伯恩斯坦上调英伟达目标价】伯恩斯坦将英伟达目标价从275美元上调至300美元。",
+      "title": "伯恩斯坦上调英伟达目标价",
+      "titleColor": 0
+    },
+    "time": "2026-02-26 18:37:40",
+    "publish_time": "2026-02-26 18:37:40",
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202602263655471396.html",
+    "category": "外汇",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "74eb42d2c1351459",
     "code": "202602263655460731",
     "title": "*ST阳光：申请撤销公司股票退市风险警示",
@@ -11,12 +54,9 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1772101670060731",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-02-26 18:27:50",
-      "stockList": [
-        "150.161027",
-        "0.000608"
-      ],
+      "stockList": [],
       "summary": "【*ST阳光：申请撤销公司股票退市风险警示】*ST阳光(000608.SZ)公告称，公司于2026年2月26日向深圳证券交易所申请撤销对公司股票交易实施退市风险警示。在深圳证券交易所审核期间，公司股票不停牌，正常交易，上述申请能否获得批准尚存在不确定性，敬请广大投资者注意投资风险。",
       "title": "*ST阳光：申请撤销公司股票退市风险警示",
       "titleColor": 0
@@ -26,15 +66,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202602263655460731.html",
     "category": "股市",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "150.161027",
-      "0.000608"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -76,7 +113,7 @@
     "raw_data": {
       "code": "202602263655458511",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1772101650058511",
       "share": 1,
       "showTime": "2026-02-26 18:27:30",
@@ -94,7 +131,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -113,9 +150,9 @@
     "raw_data": {
       "code": "202602263655454345",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1772101290054345",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-02-26 18:21:30",
       "stockList": [
         "0.159945",
@@ -137,8 +174,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -274,7 +311,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1772101076052837",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-02-26 18:17:56",
       "stockList": [
         "90.BK1361"
@@ -295,7 +332,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -321,9 +358,9 @@
     "raw_data": {
       "code": "202602263655447358",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 25,
       "realSort": "1772100608047358",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-02-26 18:10:08",
       "stockList": [
         "1.603601"
@@ -343,8 +380,8 @@
       "1.603601"
     ],
     "has_stock_mention": true,
-    "comment_count": 22,
-    "share_count": 6,
+    "comment_count": 25,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -534,9 +571,9 @@
     "raw_data": {
       "code": "202602263655446183",
       "image": [],
-      "pinglun_Num": 26,
+      "pinglun_Num": 29,
       "realSort": "1772099774046183",
-      "share": 319,
+      "share": 327,
       "showTime": "2026-02-26 17:56:14",
       "stockList": [
         "90.BK0800",
@@ -558,8 +595,8 @@
       "1.600522"
     ],
     "has_stock_mention": true,
-    "comment_count": 26,
-    "share_count": 319,
+    "comment_count": 29,
+    "share_count": 327,
     "tags": {
       "industries": [],
       "concepts": [
@@ -585,9 +622,9 @@
     "raw_data": {
       "code": "202602263655438542",
       "image": [],
-      "pinglun_Num": 71,
+      "pinglun_Num": 73,
       "realSort": "1772099602038542",
-      "share": 92,
+      "share": 94,
       "showTime": "2026-02-26 17:53:22",
       "stockList": [],
       "summary": "【韩国要求上市企业注销库存股】为进一步提振股市，韩国国会25日通过一项历经长期争论的法律修订案，要求上市企业注销库存股。据美国彭博新闻社25日报道，库存股条款是韩国总统李在明施政议程的核心内容，也是对此前《商法》修订的深化。",
@@ -603,8 +640,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 71,
-    "share_count": 92,
+    "comment_count": 73,
+    "share_count": 94,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -622,9 +659,9 @@
     "raw_data": {
       "code": "202602263655438627",
       "image": [],
-      "pinglun_Num": 26,
+      "pinglun_Num": 28,
       "realSort": "1772099551038627",
-      "share": 25,
+      "share": 26,
       "showTime": "2026-02-26 17:52:31",
       "stockList": [
         "90.BK1015",
@@ -646,8 +683,8 @@
       "90.BK0478"
     ],
     "has_stock_mention": true,
-    "comment_count": 26,
-    "share_count": 25,
+    "comment_count": 28,
+    "share_count": 26,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1146,7 +1183,7 @@
     "raw_data": {
       "code": "202602263655413917",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1772098592013917",
       "share": 2,
       "showTime": "2026-02-26 17:36:32",
@@ -1170,7 +1207,7 @@
       "116.01072"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1328,7 +1365,7 @@
     "raw_data": {
       "code": "202602263655406436",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1772098186006436",
       "share": 9,
       "showTime": "2026-02-26 17:29:46",
@@ -1346,7 +1383,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 9,
     "tags": {
       "industries": [],
@@ -1445,7 +1482,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1772097939004415",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-02-26 17:25:39",
       "stockList": [],
       "summary": "【合合信息业绩快报：2025年净利润4.54亿元 同比增长13.39%】合合信息(688615)2月26日发布业绩快报，2025年实现营业总收入18.1亿元，同比增长25.83%；归母净利润4.54亿元，同比增长13.39%；基本每股收益3.24元。",
@@ -1462,7 +1499,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2219,51 +2256,6 @@
       ],
       "concept_ids": [
         "C402"
-      ]
-    }
-  },
-  {
-    "id": "0ec73fcc2b01c3df",
-    "code": "202602263655366492",
-    "title": "美“福特”号航母驶离希腊克里特岛",
-    "summary": "【美“福特”号航母驶离希腊克里特岛】当地时间2月26日，美军最大航母“杰拉尔德·R·福特”号航空母舰开始驶离希腊克里特岛。",
-    "content": "【美“福特”号航母驶离希腊克里特岛】当地时间2月26日，美军最大航母“杰拉尔德·R·福特”号航空母舰开始驶离希腊克里特岛。",
-    "full_content": "【美“福特”号航母驶离希腊克里特岛】当地时间2月26日，美军最大航母“杰拉尔德·R·福特”号航空母舰开始驶离希腊克里特岛。",
-    "raw_data": {
-      "code": "202602263655366492",
-      "image": [],
-      "pinglun_Num": 27,
-      "realSort": "1772096184066492",
-      "share": 10,
-      "showTime": "2026-02-26 16:56:24",
-      "stockList": [],
-      "summary": "【美“福特”号航母驶离希腊克里特岛】当地时间2月26日，美军最大航母“杰拉尔德·R·福特”号航空母舰开始驶离希腊克里特岛。",
-      "title": "美“福特”号航母驶离希腊克里特岛",
-      "titleColor": 0
-    },
-    "time": "2026-02-26 16:56:24",
-    "publish_time": "2026-02-26 16:56:24",
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202602263655366492.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 27,
-    "share_count": 10,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "航空"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
       ]
     }
   }
