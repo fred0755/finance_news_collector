@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 """
-财经新闻采集器 - 带历史归档和按月合并版
+财经新闻采集器 - 双数据源版
 功能：
-- 每次采集50条新闻
-- 更新 latest.json（最近30条）
-- 更新 today.json（今日所有）
-- 按日归档到 archive/YYYY-MM-DD.json（保存最近30天）
-- 超过30天的自动按月合并到 archive/merged/YYYY-MM.json
+- 从东方财富采集50条
+- 从财联社采集50条
+- 合并去重后保存
+- 30天按日归档 + 按月合并
 """
 
 import json
@@ -15,6 +14,7 @@ import os
 from pathlib import Path
 from datetime import datetime, date, timedelta
 from eastmoney_collector import EastMoneyCollector
+from cailianshe_collector import CaiLianSheCollector
 
 # 导入标签管理器
 import sys
@@ -41,7 +41,8 @@ def merge_news_by_title(existing_news, new_news):
 
     # 转回列表并按时间排序
     result = list(news_map.values())
-    result.sort(key=lambda x: x.get('showTime', ''), reverse=True)
+    # 兼容两种时间字段
+    result.sort(key=lambda x: x.get('showTime', x.get('time', '')), reverse=True)
     return result
 
 
@@ -102,7 +103,7 @@ def merge_monthly_files(archive_dir, merged_dir, cutoff_date):
 
 def main():
     print("=" * 50)
-    print("🚀 财经新闻采集器（30天按日 + 按月合并）")
+    print("🚀 财经新闻采集器（双数据源版）")
     print("=" * 50)
 
     # 获取项目根目录
@@ -128,35 +129,62 @@ def main():
     print(f"  标签库版本: {stats['version']}")
     print(f"  行业数: {stats['industries']}, 概念数: {stats['concepts']}")
 
-    # 采集新闻
-    print("\n🔄 开始采集...")
-    collector = EastMoneyCollector()
-    news_list = collector.fetch_news(page_size=50)
+    # ========== 1. 采集东方财富 ==========
+    print("\n" + "=" * 40)
+    print("📈 开始采集东方财富快讯...")
+    print("=" * 40)
 
-    if not news_list:
-        print("❌ 采集失败")
+    eastmoney_collector = EastMoneyCollector()
+    eastmoney_news = eastmoney_collector.fetch_news(page_size=50)
+
+    if not eastmoney_news:
+        print("⚠️ 东方财富采集失败")
+        eastmoney_news = []
+    else:
+        print(f"✅ 东方财富: {len(eastmoney_news)} 条")
+
+    # ========== 2. 采集财联社 ==========
+    print("\n" + "=" * 40)
+    print("📡 开始采集财联社快讯...")
+    print("=" * 40)
+
+    cailianshe_collector = CaiLianSheCollector()
+    cailianshe_news = cailianshe_collector.fetch_news(limit=50)
+
+    if not cailianshe_news:
+        print("⚠️ 财联社采集失败")
+        cailianshe_news = []
+    else:
+        print(f"✅ 财联社: {len(cailianshe_news)} 条")
+
+    # ========== 3. 合并所有新闻 ==========
+    all_raw_news = eastmoney_news + cailianshe_news
+
+    if not all_raw_news:
+        print("❌ 所有数据源都采集失败")
         sys.exit(1)
 
-    print(f"✅ 成功采集 {len(news_list)} 条原始新闻")
+    print(f"\n📊 原始新闻总数: {len(all_raw_news)} 条")
 
     # 添加标签
     print("\n🏷️ 正在添加行业和概念标签...")
-    tagged_news = tag_manager.add_to_news_list(news_list)
+    tagged_news = tag_manager.add_to_news_list(all_raw_news)
 
-    tagged_count = sum(
-        1 for item in tagged_news if item.get('tags', {}).get('industries') or item.get('tags', {}).get('concepts'))
+    tagged_count = sum(1 for item in tagged_news
+                       if item.get('tags', {}).get('industries') or item.get('tags', {}).get('concepts'))
     print(f"✅ {tagged_count}/{len(tagged_news)} 条新闻成功打上标签")
 
-    # ========== 1. 更新 latest.json（最近30条） ==========
+    # ========== 4. 保存文件 ==========
+    print("\n💾 正在保存文件...")
+
+    # 4.1 latest.json（最近50条）
     latest_path = data_dir / "latest.json"
     with open(latest_path, "w", encoding="utf-8") as f:
-        json.dump(tagged_news[:30], f, ensure_ascii=False, indent=2)
-    print(f"\n✅ latest.json: {len(tagged_news[:30])} 条")
+        json.dump(tagged_news[:50], f, ensure_ascii=False, indent=2)
+    print(f"  ✅ latest.json: {len(tagged_news[:50])} 条")
 
-    # ========== 2. 更新 today.json（今日所有） ==========
+    # 4.2 today.json（今日所有）
     today_path = data_dir / "today.json"
-
-    # 读取现有的今日数据
     existing_today = []
     if today_path.exists():
         try:
@@ -165,18 +193,15 @@ def main():
         except:
             existing_today = []
 
-    # 合并去重
     merged_today = merge_news_by_title(existing_today, tagged_news)
-
     with open(today_path, "w", encoding="utf-8") as f:
         json.dump(merged_today, f, ensure_ascii=False, indent=2)
-    print(f"✅ today.json: {len(merged_today)} 条")
+    print(f"  ✅ today.json: {len(merged_today)} 条")
 
-    # ========== 3. 按日归档到 archive/YYYY-MM-DD.json ==========
+    # 4.3 按日归档
     today_str = datetime.now().strftime("%Y-%m-%d")
     archive_path = archive_dir / f"{today_str}.json"
 
-    # 读取现有的归档文件
     existing_archive = []
     if archive_path.exists():
         try:
@@ -185,29 +210,28 @@ def main():
         except:
             existing_archive = []
 
-    # 合并去重
     merged_archive = merge_news_by_title(existing_archive, tagged_news)
-
     with open(archive_path, "w", encoding="utf-8") as f:
         json.dump(merged_archive, f, ensure_ascii=False, indent=2)
-    print(f"✅ 日归档 {today_str}.json: {len(merged_archive)} 条")
+    print(f"  ✅ 归档 {today_str}.json: {len(merged_archive)} 条")
 
-    # ========== 4. 合并超过30天的旧文件 ==========
+    # 4.4 合并超过30天的旧文件
     cutoff_date = date.today() - timedelta(days=30)
     merge_monthly_files(archive_dir, merged_dir, cutoff_date)
 
-    # ========== 5. 更新时间戳 ==========
+    # 4.5 更新时间戳
     timestamp_path = data_dir / "last_update.txt"
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(timestamp_path, "w", encoding="utf-8") as f:
         f.write(current_time)
-    print(f"✅ last_update.txt: {current_time}")
+    print(f"  ✅ last_update.txt: {current_time}")
 
     # 显示示例
     if len(tagged_news) > 0:
         sample = tagged_news[0]
         print(f"\n📰 示例新闻:")
         print(f"  标题: {sample.get('title', '')[:50]}...")
+        print(f"  来源: {sample.get('source', '未知')}")
         tags = sample.get('tags', {})
         industries = [ind['name'] for ind in tags.get('industries', [])]
         concepts = [con['name'] for con in tags.get('concepts', [])]
