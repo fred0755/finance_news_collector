@@ -56,7 +56,7 @@
             font-size: 0.95rem;
         }
 
-        /* 时间范围选择器 - 去掉"全部" */
+        /* 时间范围选择器 */
         .time-range {
             display: flex;
             gap: 8px;
@@ -358,7 +358,7 @@
             </div>
         </div>
 
-        <!-- 时间范围选择器 - 只有4个选项 -->
+        <!-- 时间范围选择器 -->
         <div class="time-range">
             <button class="time-btn active" data-range="24h">最近24小时</button>
             <button class="time-btn" data-range="48h">最近48小时</button>
@@ -398,7 +398,7 @@
         let loadedDates = new Set();   // 已加载的日期
         let loadedMonths = new Set();  // 已加载的月份
 
-        // 来源图标配置
+        // ==================== 来源图标配置 ====================
         const SOURCE_CONFIG = {
             '东方财富': { emoji: '📈', name: '东方财富' },
             '东方财富快讯': { emoji: '📈', name: '东方财富' },
@@ -409,6 +409,8 @@
             '第一财经': { emoji: '📺', name: '第一财经' },
             '默认': { emoji: '🔗', name: '原文' }
         };
+
+        // ==================== 工具函数 ====================
 
         // 获取来源配置
         function getSourceConfig(source) {
@@ -424,9 +426,14 @@
             return 'https://finance.eastmoney.com/';
         }
 
-        // 格式化时间显示
-        function formatDisplayTime(timeStr) {
+        // 格式化时间显示（新增：解决 formatNewsTime is not defined 错误）
+        function formatNewsTime(timeStr) {
             if (!timeStr) return '未知时间';
+            // 如果已经是 "MM-DD HH:MM" 格式，直接返回
+            if (/^\d{2}-\d{2} \d{2}:\d{2}$/.test(timeStr)) {
+                return timeStr;
+            }
+            // 如果是 "YYYY-MM-DD HH:MM:SS" 格式，提取 "MM-DD HH:MM"
             const match = timeStr.match(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/);
             if (match) {
                 return `${match[1].slice(5)} ${match[2]}`;
@@ -467,58 +474,58 @@
             return html;
         }
 
-// 合并新闻（按标题智能去重）- 优化版
-function mergeNews(newsList) {
-    const newsMap = new Map();
+        // ==================== 合并新闻（按标题智能去重）- 优化版 ====================
+        function mergeNews(newsList) {
+            const newsMap = new Map();
 
-    newsList.forEach(item => {
-        // 1. 生成一个更灵活的唯一键（去除常见前缀）
-        let rawTitle = item.title || '无标题';
-        // 移除常见的新闻来源前缀
-        let cleanTitle = rawTitle
-            .replace(/^(【.*?】)?(财联社.*?日电\s*)?/g, '')
-            .replace(/^\s*|\s*$/g, '');
-        if (!cleanTitle) cleanTitle = rawTitle;
+            newsList.forEach(item => {
+                // 生成一个更灵活的唯一键（去除常见前缀）
+                let rawTitle = item.title || '无标题';
+                // 移除常见的新闻来源前缀
+                let cleanTitle = rawTitle
+                    .replace(/^(【.*?】)?(财联社.*?日电\s*)?/g, '')
+                    .replace(/^\s*|\s*$/g, '');
+                if (!cleanTitle) cleanTitle = rawTitle;
 
-        const key = cleanTitle; // 使用清理后的标题作为合并键
+                const key = cleanTitle; // 使用清理后的标题作为合并键
 
-        const sourceName = item.source || '默认';
-        const url = getNewsUrl(item);
-        const time = getFullNewsTime(item) || '未知时间';
-        const displayTime = formatNewsTime(time);
+                const sourceName = item.source || '默认';
+                const url = getNewsUrl(item);
+                const time = getFullNewsTime(item) || '未知时间';
+                const displayTime = formatNewsTime(time);  // 使用新增的 formatNewsTime
 
-        if (!newsMap.has(key)) {
-            newsMap.set(key, {
-                title: rawTitle,
-                cleanTitle: cleanTitle,
-                time: time,
-                displayTime: displayTime,
-                tags: item.tags || { industries: [], concepts: [] },
-                sources: [{
-                    name: sourceName,
-                    url: url,
-                    config: getSourceConfig(sourceName)
-                }]
+                if (!newsMap.has(key)) {
+                    newsMap.set(key, {
+                        title: rawTitle,
+                        cleanTitle: cleanTitle,
+                        time: time,
+                        displayTime: displayTime,
+                        tags: item.tags || { industries: [], concepts: [] },
+                        sources: [{
+                            name: sourceName,
+                            url: url,
+                            config: getSourceConfig(sourceName)
+                        }]
+                    });
+                } else {
+                    const existing = newsMap.get(key);
+                    if (!existing.sources.some(s => s.name === sourceName)) {
+                        existing.sources.push({
+                            name: sourceName,
+                            url: url,
+                            config: getSourceConfig(sourceName)
+                        });
+                    }
+                    // 保留最新的时间
+                    if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
+                        existing.time = time;
+                        existing.displayTime = displayTime;
+                    }
+                }
             });
-        } else {
-            const existing = newsMap.get(key);
-            if (!existing.sources.some(s => s.name === sourceName)) {
-                existing.sources.push({
-                    name: sourceName,
-                    url: url,
-                    config: getSourceConfig(sourceName)
-                });
-            }
-            // 保留最新的时间
-            if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
-                existing.time = time;
-                existing.displayTime = displayTime;
-            }
-        }
-    });
 
-    return Array.from(newsMap.values());
-}
+            return Array.from(newsMap.values());
+        }
 
         // 按时间排序
         function sortByTime(newsArray) {
