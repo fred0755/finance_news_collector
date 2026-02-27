@@ -237,6 +237,40 @@
             color: #1e6f3c;
         }
 
+        /* ===== 新增：详情区域样式 ===== */
+        .news-detail {
+            font-size: 0.9rem;
+            line-height: 1.6;
+            color: #2e405b;
+            background: #f8fafd;
+            border-radius: 12px;
+            padding: 12px;
+            margin-top: 12px;
+            border-left: 3px solid #2a6f97;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.02);
+        }
+
+        .toggle-detail-btn {
+            background: white;
+            border: 1px solid #d0dae8;
+            border-radius: 20px;
+            padding: 6px 14px;
+            margin-top: 8px;
+            color: #2a6f97;
+            cursor: pointer;
+            font-size: 0.8rem;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: all 0.2s;
+        }
+
+        .toggle-detail-btn:hover {
+            background: #e3ecf5;
+            border-color: #2a6f97;
+        }
+        /* ===== 新增结束 ===== */
+
         /* 加载更多按钮 */
         .load-more {
             background: white;
@@ -342,6 +376,10 @@
             .time-btn {
                 padding: 6px 12px;
                 font-size: 0.8rem;
+            }
+            .news-detail {
+                font-size: 0.85rem;
+                padding: 10px;
             }
         }
     </style>
@@ -492,7 +530,7 @@
                 const sourceName = item.source || '默认';
                 const url = getNewsUrl(item);
                 const time = getFullNewsTime(item) || '未知时间';
-                const displayTime = formatNewsTime(time);
+                const displayTime = item.displayTime || formatNewsTime(time);
 
                 if (!newsMap.has(key)) {
                     newsMap.set(key, {
@@ -500,6 +538,7 @@
                         cleanTitle: cleanTitle,
                         time: time,
                         displayTime: displayTime,
+                        full_content: item.full_content || item.content || '',  // 保留完整内容
                         tags: item.tags || { industries: [], concepts: [] },
                         sources: [{
                             name: sourceName,
@@ -516,10 +555,13 @@
                             config: getSourceConfig(sourceName)
                         });
                     }
-                    // 保留最新的时间
+                    // 保留最新的时间和完整内容
                     if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
                         existing.time = time;
                         existing.displayTime = displayTime;
+                        if (item.full_content) {
+                            existing.full_content = item.full_content;
+                        }
                     }
                 }
             });
@@ -661,7 +703,7 @@
             }
         }
 
-        // 渲染新闻列表
+        // ==================== 渲染新闻列表（带详情按钮） ====================
         function renderNews(newsArray) {
             const container = document.getElementById('news-list');
             if (!newsArray || newsArray.length === 0) {
@@ -671,7 +713,7 @@
             }
 
             let html = '';
-            newsArray.forEach(item => {
+            newsArray.forEach((item, index) => {
                 let sourcesHtml = '';
                 item.sources.forEach(source => {
                     sourcesHtml += `
@@ -683,13 +725,31 @@
 
                 const tagsHtml = renderTags(item.tags);
 
+                // 判断是否有完整内容（用于显示详情按钮）
+                const hasFullContent = item.full_content &&
+                                      item.full_content !== item.title &&
+                                      item.full_content.length > 30;
+
+                // 为每条新闻生成唯一的ID，用于控制详情折叠
+                const detailId = `detail-${index}-${Date.now()}`;
+
                 html += `
-                    <div class="news-card">
+                    <div class="news-card" id="card-${detailId}">
                         <div class="news-title">${escapeHtml(item.title)}</div>
                         <div class="sources-bar">${sourcesHtml}</div>
+
+                        ${hasFullContent ? `
+                            <div class="news-detail" id="${detailId}" style="display: none;">
+                                ${escapeHtml(item.full_content)}
+                            </div>
+                            <button class="toggle-detail-btn" data-target="${detailId}">
+                                <span>🔽</span> 查看详情
+                            </button>
+                        ` : ''}
+
                         <div class="news-time">
                             <span class="time-icon">🕐</span>
-                            <span>${item.displayTime}</span>
+                            <span>${item.displayTime || item.time.slice(5, 16)}</span>
                         </div>
                         ${tagsHtml ? `<div class="news-tags">${tagsHtml}</div>` : ''}
                     </div>
@@ -698,6 +758,23 @@
 
             container.innerHTML = html;
             document.getElementById('news-count').textContent = newsArray.length;
+
+            // 为所有详情按钮绑定点击事件
+            document.querySelectorAll('.toggle-detail-btn').forEach(btn => {
+                btn.addEventListener('click', function(e) {
+                    const targetId = this.getAttribute('data-target');
+                    const detailDiv = document.getElementById(targetId);
+                    if (detailDiv) {
+                        if (detailDiv.style.display === 'none') {
+                            detailDiv.style.display = 'block';
+                            this.innerHTML = '<span>🔼</span> 收起详情';
+                        } else {
+                            detailDiv.style.display = 'none';
+                            this.innerHTML = '<span>🔽</span> 查看详情';
+                        }
+                    }
+                });
+            });
         }
 
         // 应用所有过滤条件
