@@ -1,13 +1,14 @@
 import requests
 import json
 import time
+import hashlib
+import re
 from datetime import datetime
 from typing import List, Dict, Optional
-import hashlib
 
 
 class EastMoneyCollector:
-    """东方财富快讯采集器（优化版 - 直接在消息中显示内容）"""
+    """东方财富快讯采集器（优化版 - 支持标题新闻）"""
 
     def __init__(self):
         # 真实API地址
@@ -27,7 +28,7 @@ class EastMoneyCollector:
             'client': 'web',
             'biz': 'web_724',
             'fastColumn': '102',  # 快讯栏目ID
-            'pageSize': 20,
+            'pageSize': 50,
             'sortEnd': int(time.time() * 1000000),
             'req_trace': int(time.time() * 1000),
             '_': int(time.time() * 1000),
@@ -36,7 +37,14 @@ class EastMoneyCollector:
 
     def fetch_news(self, page_size: int = 50, retry_count: int = 3) -> Optional[List[Dict]]:
         """
-        获取东方财富快讯新闻（优化版：增加超时和重试）
+        获取东方财富快讯新闻（优化版 - 带重试机制）
+
+        Args:
+            page_size: 每页数量
+            retry_count: 重试次数
+
+        Returns:
+            结构化的新闻列表，包含完整内容
         """
         for attempt in range(retry_count):
             try:
@@ -53,7 +61,7 @@ class EastMoneyCollector:
                     self.base_url,
                     params=params,
                     headers=self.headers,
-                    timeout=30  # 增加到30秒
+                    timeout=30
                 )
 
                 response.raise_for_status()
@@ -141,30 +149,43 @@ class EastMoneyCollector:
         return news_items
 
     def _parse_single_news(self, item) -> Dict:
-        """解析单条新闻 - 优化版（包含完整内容）"""
+        """解析单条新闻 - 优化版（支持标题新闻）"""
         try:
             # 为新闻生成唯一ID
             unique_str = f"{item.get('title', '')}_{item.get('showTime', '')}_{item.get('code', '')}"
             news_id = hashlib.md5(unique_str.encode()).hexdigest()[:16]
 
-            # 提取关键信息
-            title = item.get('title', '').strip()
+            # ===== 标题处理优化 =====
+            title_raw = item.get('title', '').strip()
             summary = item.get('summary', '').strip()
             code = item.get('code', '')
             show_time = item.get('showTime', '')
 
-            # 使用摘要作为内容，如果没有摘要则使用标题
-            content = summary if summary else title
+            # 判断是否是标题新闻（summary 以【开头）
+            if summary.startswith('【') and '】' in summary:
+                # 提取【】内的内容作为标题
+                bracket_title = summary.split('】')[0].replace('【', '')
+                # 使用括号内的标题
+                title = bracket_title
+                # 完整内容就是 summary 本身
+                content = summary
+                full_content = summary
+            else:
+                # 普通新闻，直接用 title
+                title = title_raw
+                # 使用摘要作为内容，如果没有摘要则使用标题
+                content = summary if summary else title
+                full_content = content
 
-            # 基础新闻结构
+            # ===== 构建新闻对象 =====
             news_item = {
                 'id': news_id,
                 'code': code,
-                'title': title,
-                'summary': summary,
-                'content': content,  # 简短内容
-                'full_content': content,  # 完整内容（摘要）
-                'raw_data': item  # 保存原始数据
+                'title': title,                          # 优化后的标题
+                'summary': summary,                       # 原始摘要
+                'content': content,                        # 内容
+                'full_content': full_content,               # 完整内容（用于详情）
+                'raw_data': item
             }
 
             # 时间字段
@@ -182,7 +203,7 @@ class EastMoneyCollector:
                 source = '东方财富快讯'
             news_item['source'] = source.strip()
 
-            # URL（虽然可能无法在钉钉中访问，但仍保留）
+            # URL
             news_item[
                 'url'] = f"https://kuaixun.eastmoney.com/news/{code}.html" if code else "https://kuaixun.eastmoney.com/"
 
@@ -339,22 +360,23 @@ class EastMoneyCollector:
         print("东方财富快讯采集器测试")
         print("=" * 60)
 
-        print(f"\n尝试抓取 10 条新闻...")
-        news_list = self.fetch_news(page_size=10)
+        print(f"\n尝试抓取 20 条新闻...")
+        news_list = self.fetch_news(page_size=20)
 
         if news_list:
             print(f"✅ 成功采集到 {len(news_list)} 条新闻!")
             print("-" * 50)
 
             # 显示所有新闻标题
-            for i, news in enumerate(news_list[:5], 1):
+            for i, news in enumerate(news_list[:10], 1):
                 time_str = news.get('time', 'N/A')
                 title = news.get('title', '无标题')[:60]
                 source = news.get('source', 'N/A')
-                print(f"{i:2d}. [{time_str}] {title}... (来源: {source})")
+                has_detail = ' 📄' if news.get('full_content') != news.get('title') else ''
+                print(f"{i:2d}. [{time_str}] {title}{has_detail}... (来源: {source})")
 
-            if len(news_list) > 5:
-                print(f"... 还有 {len(news_list) - 5} 条未显示")
+            if len(news_list) > 10:
+                print(f"... 还有 {len(news_list) - 10} 条未显示")
 
             # 验证数据质量
             self._validate_data(news_list)
@@ -394,8 +416,8 @@ class EastMoneyCollector:
 
 # 主函数 - 直接运行测试
 if __name__ == "__main__":
-    print("东方财富快讯采集器 v3.0")
-    print("优化版 - 直接在消息中显示内容")
+    print("东方财富快讯采集器 v4.0")
+    print("优化版 - 支持标题新闻+详情")
     print()
 
     collector = EastMoneyCollector()
@@ -405,8 +427,8 @@ if __name__ == "__main__":
     if success:
         print("✅ 采集器测试成功！")
         print("\n🎉 系统特点:")
-        print("1. ✅ 直接显示新闻内容，无需点击链接")
-        print("2. ✅ 包含重要性评分和情感分析")
-        print("3. ✅ 数据完整，适合钉钉推送")
+        print("1. ✅ 支持【】标题新闻，自动提取标题")
+        print("2. ✅ 完整内容保留，可点击查看详情")
+        print("3. ✅ 包含重要性评分和情感分析")
     else:
         print("❌ 采集器测试失败")
