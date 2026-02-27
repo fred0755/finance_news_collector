@@ -609,18 +609,41 @@
             }
         }
 
-        // 加载今日数据
-        async function loadToday() {
-            try {
-                const [newsRes, timeRes] = await Promise.all([
-                    fetch('/data/today.json?t=' + Date.now()),
-                    fetch('/data/last_update.txt?t=' + Date.now())
-                ]);
+// 加载今日数据
+async function loadToday() {
+    try {
+        // 强制加上时间戳，确保每次请求都是最新的，不被缓存
+        const timestamp = Date.now();
+        const [newsRes, timeRes] = await Promise.all([
+            fetch('/data/today.json?t=' + timestamp),
+            fetch('/data/last_update.txt?t=' + timestamp)
+        ]);
 
-                if (!newsRes.ok) throw new Error('今日数据加载失败');
+        if (!newsRes.ok) throw new Error(`今日数据加载失败 (HTTP ${newsRes.status})`);
+        if (!timeRes.ok) throw new Error(`时间戳加载失败 (HTTP ${timeRes.status})`);
 
-                const news = await newsRes.json();
-                const updateTime = await timeRes.text();
+        const news = await newsRes.json();
+        const updateTime = await timeRes.text();
+
+        // 设置今天日期
+        const today = new Date().toISOString().split('T')[0];
+        loadedDates.add(today);
+
+        // 合并并排序
+        allNews = sortByTime(mergeNews(news));
+
+        // 更新时间戳
+        document.getElementById('update-time').textContent = updateTime.trim().slice(5, 16) || updateTime.trim();
+
+        // 应用当前过滤
+        applyFilters();
+
+    } catch (error) {
+        console.error('❌ 加载今日数据失败:', error);
+        // 增加重试机制，延迟2秒后重试
+        setTimeout(() => loadToday(), 2000);
+    }
+}
 
                 // 设置今天日期
                 const today = new Date().toISOString().split('T')[0];
