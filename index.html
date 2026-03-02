@@ -633,30 +633,29 @@ async function loadToday() {
         const timeStr = updateTime.trim().slice(5, 16) || updateTime.trim();
         document.getElementById('update-time').textContent = timeStr;
 
-        // ===== 修复：根据时间范围判断是否需要昨天数据 =====
+        // ===== 修复：根据真实时间范围判断是否需要昨天数据 =====
         const now = new Date();
-        const currentHour = now.getHours();
-        const currentMinute = now.getMinutes();
-        const currentTimeInMinutes = currentHour * 60 + currentMinute;
+        const startTime = new Date(now);
+        startTime.setHours(startTime.getHours() - 12); // 12小时前的精确时间
 
-        // 最近12小时的起点（分钟数）
-        const twelveHoursAgoInMinutes = currentTimeInMinutes - 12 * 60;
+        const startDateStr = startTime.toISOString().split('T')[0];
+        const todayStr = now.toISOString().split('T')[0];
 
-        // 如果起点小于0，说明需要昨天数据
-        if (twelveHoursAgoInMinutes < 0) {
-            const yesterday = new Date(now);
-            yesterday.setDate(yesterday.getDate() - 1);
-            const yesterdayStr = yesterday.toISOString().split('T')[0];
-
-            if (!loadedDates.has(yesterdayStr)) {
-                console.log(`🔄 自动加载昨天数据 (${yesterdayStr}) 以补全最近12小时`);
-                const oldData = await loadDateData(yesterdayStr);
+        // 如果开始日期不是今天，需要加载那天的数据
+        if (startDateStr !== todayStr) {
+            if (!loadedDates.has(startDateStr)) {
+                console.log(`🔄 自动加载历史数据 (${startDateStr}) 以补全最近12小时`);
+                const oldData = await loadDateData(startDateStr);
                 if (oldData && oldData.length > 0) {
                     const mergedOld = mergeNews(oldData);
                     allNews = sortByTime([...allNews, ...mergedOld]);
                 }
             }
         }
+
+        // 特殊情况：如果跨越了两天（比如从昨天23:00到今天11:00）
+        // 需要加载昨天全天 + 今天部分，但昨天已经加载了，今天的数据也在 today.json 里
+        // 所以上面的逻辑已经足够
         // ===== 修复结束 =====
 
         // 应用默认12小时过滤
