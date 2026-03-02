@@ -143,22 +143,23 @@ def main():
     else:
         print(f"✅ 东方财富: {len(eastmoney_news)} 条")
 
-    # ========== 2. 采集财联社 ==========
-    print("\n" + "=" * 40)
-    print("📡 开始采集财联社快讯...")
-    print("=" * 40)
-
-    cailianshe_collector = CaiLianSheCollector()
-    cailianshe_news = cailianshe_collector.fetch_news(limit=50)
-
-    if not cailianshe_news:
-        print("⚠️ 财联社采集失败")
-        cailianshe_news = []
-    else:
-        print(f"✅ 财联社: {len(cailianshe_news)} 条")
+    # ========== 2. 采集财联社（暂时注释掉） ==========
+    # print("\n" + "=" * 40)
+    # print("📡 开始采集财联社快讯...")
+    # print("=" * 40)
+    #
+    # cailianshe_collector = CaiLianSheCollector()
+    # cailianshe_news = cailianshe_collector.fetch_news(limit=50)
+    #
+    # if not cailianshe_news:
+    #     print("⚠️ 财联社采集失败")
+    #     cailianshe_news = []
+    # else:
+    #     print(f"✅ 财联社: {len(cailianshe_news)} 条")
 
     # ========== 3. 合并所有新闻 ==========
-    all_raw_news = eastmoney_news + cailianshe_news
+    # all_raw_news = eastmoney_news + cailianshe_news
+    all_raw_news = eastmoney_news  # 暂时只用东方财富
 
     if not all_raw_news:
         print("❌ 所有数据源都采集失败")
