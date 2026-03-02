@@ -607,70 +607,75 @@
             }
         }
 
-        // ==================== 核心：加载今日数据并自动补全最近12小时 ====================
-        async function loadToday() {
-            try {
-                const timestamp = Date.now();
-                const [newsRes, timeRes] = await Promise.all([
-                    fetch('/data/today.json?t=' + timestamp),
-                    fetch('/data/last_update.txt?t=' + timestamp)
-                ]);
+// ==================== 核心：加载今日数据并自动补全最近12小时 ====================
+async function loadToday() {
+    try {
+        const timestamp = Date.now();
+        const [newsRes, timeRes] = await Promise.all([
+            fetch('/data/today.json?t=' + timestamp),
+            fetch('/data/last_update.txt?t=' + timestamp)
+        ]);
 
-                if (!newsRes.ok) throw new Error(`今日数据加载失败 (HTTP ${newsRes.status})`);
-                if (!timeRes.ok) throw new Error(`时间戳加载失败 (HTTP ${timeRes.status})`);
+        if (!newsRes.ok) throw new Error(`今日数据加载失败 (HTTP ${newsRes.status})`);
+        if (!timeRes.ok) throw new Error(`时间戳加载失败 (HTTP ${timeRes.status})`);
 
-                const news = await newsRes.json();
-                const updateTime = await timeRes.text();
+        const news = await newsRes.json();
+        const updateTime = await timeRes.text();
 
-                // 标记今天已加载
-                const today = new Date().toISOString().split('T')[0];
-                loadedDates.add(today);
+        // 标记今天已加载
+        const today = new Date().toISOString().split('T')[0];
+        loadedDates.add(today);
 
-                // 合并今日数据
-                allNews = sortByTime(mergeNews(news));
+        // 合并今日数据
+        allNews = sortByTime(mergeNews(news));
 
-                // 更新时间戳
-                const timeStr = updateTime.trim().slice(5, 16) || updateTime.trim();
-                document.getElementById('update-time').textContent = timeStr;
+        // 更新时间戳
+        const timeStr = updateTime.trim().slice(5, 16) || updateTime.trim();
+        document.getElementById('update-time').textContent = timeStr;
 
-                // ===== 关键修复：自动加载昨天数据，补全最近12小时 =====
-                const now = new Date();
-                const todayStr = now.toISOString().split('T')[0];
-                const yesterday = new Date(now);
-                yesterday.setDate(yesterday.getDate() - 1);
-                const yesterdayStr = yesterday.toISOString().split('T')[0];
+        // ===== 修复：根据时间范围判断是否需要昨天数据 =====
+        const now = new Date();
+        const currentHour = now.getHours();
+        const currentMinute = now.getMinutes();
+        const currentTimeInMinutes = currentHour * 60 + currentMinute;
 
-                // 如果今天已加载，但当前时间早于12:00，可能需要昨天数据
-                // 简单判断：如果现在时间小于12:00，就加载昨天
-                const currentHour = now.getHours();
-                if (currentHour < 12) {
-                    if (!loadedDates.has(yesterdayStr)) {
-                        console.log(`🔄 自动加载昨天数据 (${yesterdayStr}) 以补全最近12小时`);
-                        const oldData = await loadDateData(yesterdayStr);
-                        if (oldData && oldData.length > 0) {
-                            const mergedOld = mergeNews(oldData);
-                            allNews = sortByTime([...allNews, ...mergedOld]);
-                        }
-                    }
+        // 最近12小时的起点（分钟数）
+        const twelveHoursAgoInMinutes = currentTimeInMinutes - 12 * 60;
+
+        // 如果起点小于0，说明需要昨天数据
+        if (twelveHoursAgoInMinutes < 0) {
+            const yesterday = new Date(now);
+            yesterday.setDate(yesterday.getDate() - 1);
+            const yesterdayStr = yesterday.toISOString().split('T')[0];
+
+            if (!loadedDates.has(yesterdayStr)) {
+                console.log(`🔄 自动加载昨天数据 (${yesterdayStr}) 以补全最近12小时`);
+                const oldData = await loadDateData(yesterdayStr);
+                if (oldData && oldData.length > 0) {
+                    const mergedOld = mergeNews(oldData);
+                    allNews = sortByTime([...allNews, ...mergedOld]);
                 }
-
-                // 应用默认12小时过滤
-                applyFilters();
-
-                console.log(`✅ 数据加载成功: 总计 ${allNews.length} 条新闻`);
-
-            } catch (error) {
-                console.error('❌ 加载今日数据失败:', error);
-                document.getElementById('news-list').innerHTML = `
-                    <div class="error">
-                        <span>⚠️</span>
-                        <h3>加载失败</h3>
-                        <p>${error.message}</p>
-                        <button onclick="location.reload()" class="retry-btn">重试</button>
-                    </div>
-                `;
             }
         }
+        // ===== 修复结束 =====
+
+        // 应用默认12小时过滤
+        applyFilters();
+
+        console.log(`✅ 数据加载成功: 总计 ${allNews.length} 条新闻`);
+
+    } catch (error) {
+        console.error('❌ 加载今日数据失败:', error);
+        document.getElementById('news-list').innerHTML = `
+            <div class="error">
+                <span>⚠️</span>
+                <h3>加载失败</h3>
+                <p>${error.message}</p>
+                <button onclick="location.reload()" class="retry-btn">重试</button>
+            </div>
+        `;
+    }
+}
 
         // ==================== 按需加载历史数据（用于24h/7d）====================
         async function loadHistoricalData(range) {
