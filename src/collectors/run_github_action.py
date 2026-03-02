@@ -135,7 +135,8 @@ def main():
     print("=" * 40)
 
     eastmoney_collector = EastMoneyCollector()
-    eastmoney_news = eastmoney_collector.fetch_news(page_size=50)
+    # 修改这一行
+    eastmoney_news = eastmoney_collector.fetch_news(max_items=50)  # 原来是 page_size=50
 
     if not eastmoney_news:
         print("⚠️ 东方财富采集失败")
