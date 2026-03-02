@@ -55,12 +55,6 @@ class EastMoneyCollector:
         """
         增量采集新闻
         从 last_news_id 开始，往前采集，直到采集到上次的最后一条
-
-        Args:
-            max_items: 单次最大采集数量
-
-        Returns:
-            新闻列表（最新的在前）
         """
         all_news = []
         current_sort_end = self.last_news_id
@@ -113,10 +107,18 @@ class EastMoneyCollector:
                     if news_item:
                         page_news.append(news_item)
 
-                        # 更新最小时间戳
+                        # ===== 修复点：确保类型一致 =====
                         item_sort = item.get('realSort', 0)
-                        if item_sort and item_sort < min_sort_end:
-                            min_sort_end = item_sort
+                        try:
+                            # 转换为整数，如果是字符串就转一下
+                            if isinstance(item_sort, str):
+                                item_sort = int(item_sort)
+                            if item_sort and item_sort < min_sort_end:
+                                min_sort_end = item_sort
+                        except (ValueError, TypeError):
+                            print(f"  ⚠️ 无法转换时间戳: {item_sort}")
+                            continue
+                        # ===== 修复结束 =====
 
                 print(f"  ✅ 本页获取 {len(page_news)} 条")
                 all_news.extend(page_news)
