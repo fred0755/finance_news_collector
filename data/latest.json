@@ -1,5 +1,480 @@
 [
   {
+    "id": "4a140a2f4fcc883d",
+    "code": "202603043660777938",
+    "title": "阿波罗全球管理CEO警告称私募信贷市场即将迎来洗牌",
+    "summary": "【阿波罗全球管理CEO警告称私募信贷市场即将迎来洗牌】阿波罗全球管理首席执行官Marc Rowan警告称，随着软件公司贷款违约率上升令市场对私募信贷行业担忧加剧，私募信贷公司即将迎来一轮洗牌。数周来，私募信贷业高管一直面临投资者的质疑：若未来几年人工智能颠覆软件业，那么规模达1.8万亿美元的私募信贷领域能否承受持续的压力。商业发展公司近几周正因投资者担忧而遭遇赎回潮。",
+    "content": "【阿波罗全球管理CEO警告称私募信贷市场即将迎来洗牌】阿波罗全球管理首席执行官Marc Rowan警告称，随着软件公司贷款违约率上升令市场对私募信贷行业担忧加剧，私募信贷公司即将迎来一轮洗牌。数周来，私募信贷业高管一直面临投资者的质疑：若未来几年人工智能颠覆软件业，那么规模达1.8万亿美元的私募信贷领域能否承受持续的压力。商业发展公司近几周正因投资者担忧而遭遇赎回潮。",
+    "full_content": "【阿波罗全球管理CEO警告称私募信贷市场即将迎来洗牌】阿波罗全球管理首席执行官Marc Rowan警告称，随着软件公司贷款违约率上升令市场对私募信贷行业担忧加剧，私募信贷公司即将迎来一轮洗牌。数周来，私募信贷业高管一直面临投资者的质疑：若未来几年人工智能颠覆软件业，那么规模达1.8万亿美元的私募信贷领域能否承受持续的压力。商业发展公司近几周正因投资者担忧而遭遇赎回潮。",
+    "sort_time": "1772556693077938",
+    "showTime": "2026-03-04 00:51:33",
+    "time": "2026-03-04 00:51:33",
+    "publish_time": "2026-03-04 00:51:33",
+    "raw_data": {
+      "code": "202603043660777938",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772556693077938",
+      "share": 0,
+      "showTime": "2026-03-04 00:51:33",
+      "stockList": [],
+      "summary": "【阿波罗全球管理CEO警告称私募信贷市场即将迎来洗牌】阿波罗全球管理首席执行官Marc Rowan警告称，随着软件公司贷款违约率上升令市场对私募信贷行业担忧加剧，私募信贷公司即将迎来一轮洗牌。数周来，私募信贷业高管一直面临投资者的质疑：若未来几年人工智能颠覆软件业，那么规模达1.8万亿美元的私募信贷领域能否承受持续的压力。商业发展公司近几周正因投资者担忧而遭遇赎回潮。",
+      "title": "阿波罗全球管理CEO警告称私募信贷市场即将迎来洗牌",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660777938.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "私募"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "f8128b8b7142aa92",
+    "code": "202603043660776390",
+    "title": "谷歌推出GEMINI 3.1 FLASH-LITE模型",
+    "summary": "【谷歌推出GEMINI 3.1 FLASH-LITE模型】谷歌称，3.1 Flash Lite定价为每100万个输入令牌0.25美元，每100万个输出令牌1.50美元，即日起，3.1 Flash-Lite将通过Gemini API在Google AI Studio中面向开发者推出预览版，并通过Vertex AI面向企业客户推出。",
+    "content": "【谷歌推出GEMINI 3.1 FLASH-LITE模型】谷歌称，3.1 Flash Lite定价为每100万个输入令牌0.25美元，每100万个输出令牌1.50美元，即日起，3.1 Flash-Lite将通过Gemini API在Google AI Studio中面向开发者推出预览版，并通过Vertex AI面向企业客户推出。",
+    "full_content": "【谷歌推出GEMINI 3.1 FLASH-LITE模型】谷歌称，3.1 Flash Lite定价为每100万个输入令牌0.25美元，每100万个输出令牌1.50美元，即日起，3.1 Flash-Lite将通过Gemini API在Google AI Studio中面向开发者推出预览版，并通过Vertex AI面向企业客户推出。",
+    "sort_time": "1772556287076390",
+    "showTime": "2026-03-04 00:44:47",
+    "time": "2026-03-04 00:44:47",
+    "publish_time": "2026-03-04 00:44:47",
+    "raw_data": {
+      "code": "202603043660776390",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772556287076390",
+      "share": 0,
+      "showTime": "2026-03-04 00:44:47",
+      "stockList": [
+        "105.GOOG",
+        "105.GOOGL"
+      ],
+      "summary": "【谷歌推出GEMINI 3.1 FLASH-LITE模型】谷歌称，3.1 Flash Lite定价为每100万个输入令牌0.25美元，每100万个输出令牌1.50美元，即日起，3.1 Flash-Lite将通过Gemini API在Google AI Studio中面向开发者推出预览版，并通过Vertex AI面向企业客户推出。",
+      "title": "谷歌推出GEMINI 3.1 FLASH-LITE模型",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660776390.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOG",
+      "105.GOOGL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "14a2066b4ca78ea6",
+    "code": "202603043660769874",
+    "title": "欧洲央行管委卡扎克斯：当前利率处于合适水平 没有必要匆忙加息",
+    "summary": "欧洲央行管委卡扎克斯表示，当前利率处于合适水平，没有必要匆忙加息。",
+    "content": "欧洲央行管委卡扎克斯表示，当前利率处于合适水平，没有必要匆忙加息。",
+    "full_content": "欧洲央行管委卡扎克斯表示，当前利率处于合适水平，没有必要匆忙加息。",
+    "sort_time": "1772555664069874",
+    "showTime": "2026-03-04 00:34:24",
+    "time": "2026-03-04 00:34:24",
+    "publish_time": "2026-03-04 00:34:24",
+    "raw_data": {
+      "code": "202603043660769874",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772555664069874",
+      "share": 1,
+      "showTime": "2026-03-04 00:34:24",
+      "stockList": [],
+      "summary": "欧洲央行管委卡扎克斯表示，当前利率处于合适水平，没有必要匆忙加息。",
+      "title": "欧洲央行管委卡扎克斯：当前利率处于合适水平 没有必要匆忙加息",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660769874.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "6b7e9f47a7cf86e1",
+    "code": "202603043660769377",
+    "title": "丰田汽车北美公司2026年2月美国汽车销量为180,950辆",
+    "summary": "丰田汽车北美公司2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
+    "content": "丰田汽车北美公司2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
+    "full_content": "丰田汽车北美公司2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
+    "sort_time": "1772555630069377",
+    "showTime": "2026-03-04 00:33:50",
+    "time": "2026-03-04 00:33:50",
+    "publish_time": "2026-03-04 00:33:50",
+    "raw_data": {
+      "code": "202603043660769377",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772555630069377",
+      "share": 0,
+      "showTime": "2026-03-04 00:33:50",
+      "stockList": [
+        "90.BK0481",
+        "0.159875"
+      ],
+      "summary": "丰田汽车北美公司2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
+      "title": "丰田汽车北美公司2026年2月美国汽车销量为180,950辆",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660769377.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0481",
+      "0.159875"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C101",
+          "name": "新能源车",
+          "matched_keyword": "新能源汽车"
+        }
+      ],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": [
+        "C101"
+      ]
+    }
+  },
+  {
+    "id": "1a9960658ce5d2e4",
+    "code": "202603043660765525",
+    "title": "基准油轮收入达到48.12万美元/日 创历史新高",
+    "summary": "基准油轮收入达到48.12万美元/日，创历史新高。",
+    "content": "基准油轮收入达到48.12万美元/日，创历史新高。",
+    "full_content": "基准油轮收入达到48.12万美元/日，创历史新高。",
+    "sort_time": "1772555323065525",
+    "showTime": "2026-03-04 00:28:43",
+    "time": "2026-03-04 00:28:43",
+    "publish_time": "2026-03-04 00:28:43",
+    "raw_data": {
+      "code": "202603043660765525",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1772555323065525",
+      "share": 5,
+      "showTime": "2026-03-04 00:28:43",
+      "stockList": [],
+      "summary": "基准油轮收入达到48.12万美元/日，创历史新高。",
+      "title": "基准油轮收入达到48.12万美元/日 创历史新高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660765525.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "91f4f925b462798e",
+    "code": "202603043660762360",
+    "title": "国际货币基金组织副总裁卡茨：如果战争带来的长期不确定性持续存在 预计各国央行将保持谨慎",
+    "summary": "【国际货币基金组织副总裁卡茨：如果战争带来的长期不确定性持续存在 预计各国央行将保持谨慎】国际货币基金组织副总裁卡茨表示，各国央行很可能会对能源价格的短期影响视而不见，如果战争带来的长期不确定性持续存在，预计各国央行将保持谨慎。国际货币基金组织认为，美国需要缩减其经常账户赤字。",
+    "content": "【国际货币基金组织副总裁卡茨：如果战争带来的长期不确定性持续存在 预计各国央行将保持谨慎】国际货币基金组织副总裁卡茨表示，各国央行很可能会对能源价格的短期影响视而不见，如果战争带来的长期不确定性持续存在，预计各国央行将保持谨慎。国际货币基金组织认为，美国需要缩减其经常账户赤字。",
+    "full_content": "【国际货币基金组织副总裁卡茨：如果战争带来的长期不确定性持续存在 预计各国央行将保持谨慎】国际货币基金组织副总裁卡茨表示，各国央行很可能会对能源价格的短期影响视而不见，如果战争带来的长期不确定性持续存在，预计各国央行将保持谨慎。国际货币基金组织认为，美国需要缩减其经常账户赤字。",
+    "sort_time": "1772555078062360",
+    "showTime": "2026-03-04 00:24:38",
+    "time": "2026-03-04 00:24:38",
+    "publish_time": "2026-03-04 00:24:38",
+    "raw_data": {
+      "code": "202603043660762360",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1772555078062360",
+      "share": 1,
+      "showTime": "2026-03-04 00:24:38",
+      "stockList": [
+        "0.159945",
+        "150.014238"
+      ],
+      "summary": "【国际货币基金组织副总裁卡茨：如果战争带来的长期不确定性持续存在 预计各国央行将保持谨慎】国际货币基金组织副总裁卡茨表示，各国央行很可能会对能源价格的短期影响视而不见，如果战争带来的长期不确定性持续存在，预计各国央行将保持谨慎。国际货币基金组织认为，美国需要缩减其经常账户赤字。",
+      "title": "国际货币基金组织副总裁卡茨：如果战争带来的长期不确定性持续存在 预计各国央行将保持谨慎",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660762360.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        },
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101",
+        "I020201"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "3d064dd390e32521",
+    "code": "202603043660757696",
+    "title": "以军称空袭黎巴嫩真主党据点",
+    "summary": "【以军称空袭黎巴嫩真主党据点】当地时间3日，以色列国防军发布消息称，以军向针对戈兰高地发射火箭弹的黎巴嫩真主党据点进行了空袭。该据点此前曾发射了约15枚火箭弹。消息还称，以军同时还向黎巴嫩南部西顿地区一幢建筑内的居民下达撤离令。",
+    "content": "【以军称空袭黎巴嫩真主党据点】当地时间3日，以色列国防军发布消息称，以军向针对戈兰高地发射火箭弹的黎巴嫩真主党据点进行了空袭。该据点此前曾发射了约15枚火箭弹。消息还称，以军同时还向黎巴嫩南部西顿地区一幢建筑内的居民下达撤离令。",
+    "full_content": "【以军称空袭黎巴嫩真主党据点】当地时间3日，以色列国防军发布消息称，以军向针对戈兰高地发射火箭弹的黎巴嫩真主党据点进行了空袭。该据点此前曾发射了约15枚火箭弹。消息还称，以军同时还向黎巴嫩南部西顿地区一幢建筑内的居民下达撤离令。",
+    "sort_time": "1772554497057696",
+    "showTime": "2026-03-04 00:14:57",
+    "time": "2026-03-04 00:14:57",
+    "publish_time": "2026-03-04 00:14:57",
+    "raw_data": {
+      "code": "202603043660757696",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1772554497057696",
+      "share": 0,
+      "showTime": "2026-03-04 00:14:57",
+      "stockList": [],
+      "summary": "【以军称空袭黎巴嫩真主党据点】当地时间3日，以色列国防军发布消息称，以军向针对戈兰高地发射火箭弹的黎巴嫩真主党据点进行了空袭。该据点此前曾发射了约15枚火箭弹。消息还称，以军同时还向黎巴嫩南部西顿地区一幢建筑内的居民下达撤离令。",
+      "title": "以军称空袭黎巴嫩真主党据点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660757696.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        },
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "火箭"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201",
+        "C202"
+      ]
+    }
+  },
+  {
+    "id": "c841293025ab20ef",
+    "code": "202603043660755081",
+    "title": "美联储威廉姆斯：仍认为美联储政策利率略高于中性利率",
+    "summary": "【美联储威廉姆斯：仍认为美联储政策利率略高于中性利率】美联储威廉姆斯：通胀持续偏离目标确实存在导致通胀预期发生变化的风险；但迄今为止这种情况尚未发生；仍认为美联储政策利率略高于中性利率。并表示，眼下伊朗冲突的影响将通过油价、金融市场状况和资产价格体现出来。",
+    "content": "【美联储威廉姆斯：仍认为美联储政策利率略高于中性利率】美联储威廉姆斯：通胀持续偏离目标确实存在导致通胀预期发生变化的风险；但迄今为止这种情况尚未发生；仍认为美联储政策利率略高于中性利率。并表示，眼下伊朗冲突的影响将通过油价、金融市场状况和资产价格体现出来。",
+    "full_content": "【美联储威廉姆斯：仍认为美联储政策利率略高于中性利率】美联储威廉姆斯：通胀持续偏离目标确实存在导致通胀预期发生变化的风险；但迄今为止这种情况尚未发生；仍认为美联储政策利率略高于中性利率。并表示，眼下伊朗冲突的影响将通过油价、金融市场状况和资产价格体现出来。",
+    "sort_time": "1772554377055081",
+    "showTime": "2026-03-04 00:12:57",
+    "time": "2026-03-04 00:12:57",
+    "publish_time": "2026-03-04 00:12:57",
+    "raw_data": {
+      "code": "202603043660755081",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1772554377055081",
+      "share": 3,
+      "showTime": "2026-03-04 00:12:57",
+      "stockList": [
+        "0.159940"
+      ],
+      "summary": "【美联储威廉姆斯：仍认为美联储政策利率略高于中性利率】美联储威廉姆斯：通胀持续偏离目标确实存在导致通胀预期发生变化的风险；但迄今为止这种情况尚未发生；仍认为美联储政策利率略高于中性利率。并表示，眼下伊朗冲突的影响将通过油价、金融市场状况和资产价格体现出来。",
+      "title": "美联储威廉姆斯：仍认为美联储政策利率略高于中性利率",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660755081.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159940"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e6a326e74022bf91",
+    "code": "202603043660750323",
+    "title": "美联储施密德：美国2026年将出台大量财政刺激措施",
+    "summary": "美联储施密德表示，需关注宏观形势，将通胀降至2%；2026年将出台大量财政刺激措施。",
+    "content": "美联储施密德表示，需关注宏观形势，将通胀降至2%；2026年将出台大量财政刺激措施。",
+    "full_content": "美联储施密德表示，需关注宏观形势，将通胀降至2%；2026年将出台大量财政刺激措施。",
+    "sort_time": "1772553986050323",
+    "showTime": "2026-03-04 00:06:26",
+    "time": "2026-03-04 00:06:26",
+    "publish_time": "2026-03-04 00:06:26",
+    "raw_data": {
+      "code": "202603043660750323",
+      "image": [],
+      "pinglun_Num": 20,
+      "realSort": "1772553986050323",
+      "share": 20,
+      "showTime": "2026-03-04 00:06:26",
+      "stockList": [],
+      "summary": "美联储施密德表示，需关注宏观形势，将通胀降至2%；2026年将出台大量财政刺激措施。",
+      "title": "美联储施密德：美国2026年将出台大量财政刺激措施",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043660750323.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 20,
+    "share_count": 20,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "a8f239ddaa077a29",
     "code": "202603033660748760",
     "title": "对伊朗打击后 美国加强对境内“潜在威胁”的监测",
@@ -13,9 +488,9 @@
     "raw_data": {
       "code": "202603033660748760",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 17,
       "realSort": "1772553325048760",
-      "share": 3,
+      "share": 10,
       "showTime": "2026-03-03 23:55:25",
       "stockList": [],
       "summary": "【对伊朗打击后 美国加强对境内“潜在威胁”的监测】央视记者当地时间3月3日获悉，美国国土安全部长诺姆在参议院司法委员会作证时表示，国土安全部已开始对部分依据临时保护法入境的移民群体进行重新审查，包括审查其社交媒体活动等，并在部分情况下开展新的面谈。",
@@ -29,8 +504,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 3,
+    "comment_count": 17,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -52,7 +527,7 @@
     "raw_data": {
       "code": "202603033660748391",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 6,
       "realSort": "1772553119048391",
       "share": 2,
       "showTime": "2026-03-03 23:51:59",
@@ -68,7 +543,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 6,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -91,9 +566,9 @@
     "raw_data": {
       "code": "202603033660748061",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 18,
       "realSort": "1772553082048061",
-      "share": 6,
+      "share": 8,
       "showTime": "2026-03-03 23:51:22",
       "stockList": [],
       "summary": "【以总理内塔尼亚胡称将给黎真主党更猛烈反击】当地时间3日，以色列总理内塔尼亚胡同国防部长卡茨及以军总参谋长扎米尔视察了帕尔马希姆空军基地。内塔尼亚胡表示，“我们持续强力打击伊朗，以军战机飞行在伊朗和黎巴嫩上空。黎巴嫩真主党袭击我们，犯下了大错，我们将还以更猛烈的反击。”",
@@ -107,8 +582,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 6,
+    "comment_count": 18,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [
@@ -138,7 +613,7 @@
     "raw_data": {
       "code": "202603033660746952",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 12,
       "realSort": "1772552817046952",
       "share": 3,
       "showTime": "2026-03-03 23:46:57",
@@ -154,7 +629,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 12,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -177,9 +652,9 @@
     "raw_data": {
       "code": "202603033660746027",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 24,
       "realSort": "1772552655046027",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-03 23:44:15",
       "stockList": [],
       "summary": "【伊朗致信联合国特别代表 呼吁调查小学遭袭事件】当地时间3日，伊朗常驻联合国日内瓦办事处代表阿里·巴赫雷尼致信联合国暴力侵害儿童问题秘书长特别代表纳贾特·马拉·姆吉德，要求就伊朗南部霍尔木兹甘省米纳卜市一所女子小学遭遇美以武装袭击的事件予以关注。",
@@ -193,8 +668,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
-    "share_count": 3,
+    "comment_count": 24,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -255,9 +730,9 @@
     "raw_data": {
       "code": "202603033660740132",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 20,
       "realSort": "1772552099040132",
-      "share": 17,
+      "share": 20,
       "showTime": "2026-03-03 23:34:59",
       "stockList": [],
       "summary": "交易商与经纪商称，随着沙特阿美试图将石油从霍尔木兹海峡转运至红海，沙特延布港的油轮运费已涨逾一倍，达到每艘2800万美元。",
@@ -271,8 +746,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
-    "share_count": 17,
+    "comment_count": 20,
+    "share_count": 20,
     "tags": {
       "industries": [],
       "concepts": [
@@ -302,9 +777,9 @@
     "raw_data": {
       "code": "202603033660737612",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 15,
       "realSort": "1772551873037612",
-      "share": 6,
+      "share": 8,
       "showTime": "2026-03-03 23:31:13",
       "stockList": [],
       "summary": "富时A50中国指数期货跌1.8%。",
@@ -318,8 +793,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 6,
+    "comment_count": 15,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -341,9 +816,9 @@
     "raw_data": {
       "code": "202603033660737165",
       "image": [],
-      "pinglun_Num": 17,
+      "pinglun_Num": 24,
       "realSort": "1772551867037165",
-      "share": 17,
+      "share": 23,
       "showTime": "2026-03-03 23:31:07",
       "stockList": [
         "0.159813",
@@ -363,8 +838,8 @@
       "150.159813"
     ],
     "has_stock_mention": true,
-    "comment_count": 17,
-    "share_count": 17,
+    "comment_count": 24,
+    "share_count": 23,
     "tags": {
       "industries": [
         {
@@ -418,9 +893,9 @@
     "raw_data": {
       "code": "202603033660736616",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 9,
       "realSort": "1772551808036616",
-      "share": 4,
+      "share": 7,
       "showTime": "2026-03-03 23:30:08",
       "stockList": [],
       "summary": "【以军称对伊朗首都德黑兰和中部伊斯法罕的目标发动空袭】当地时间3月3日，以色列国防军表示，不久前，以色列空军对伊朗首都德黑兰和中部伊斯法罕的目标发动空袭。以色列国防军表示，在针对伊朗多地开展的行动中，以军打击了伊朗用于生产武器，尤其是弹道导弹的工业设施。在对伊斯法罕同步进行的打击中，以军袭击了数十个与弹道导弹相关的目标。",
@@ -434,8 +909,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 4,
+    "comment_count": 9,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -465,9 +940,9 @@
     "raw_data": {
       "code": "202603033660730266",
       "image": [],
-      "pinglun_Num": 31,
+      "pinglun_Num": 37,
       "realSort": "1772551320030266",
-      "share": 70,
+      "share": 78,
       "showTime": "2026-03-03 23:22:00",
       "stockList": [
         "999.507057",
@@ -487,8 +962,8 @@
       "105.KC"
     ],
     "has_stock_mention": true,
-    "comment_count": 31,
-    "share_count": 70,
+    "comment_count": 37,
+    "share_count": 78,
     "tags": {
       "industries": [
         {
@@ -520,9 +995,9 @@
     "raw_data": {
       "code": "202603033660728964",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 6,
       "realSort": "1772551230028964",
-      "share": 22,
+      "share": 26,
       "showTime": "2026-03-03 23:20:30",
       "stockList": [],
       "summary": "【现货黄金跌破5000美元/盎司 日内大跌超6%】现货金价、银价延续跌势，现货黄金跌6.09%，报4997.73美元/盎司；现货白银跌10.63%，报79.82美元/盎司。",
@@ -536,8 +1011,8 @@
     "sentiment": "bearish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 22,
+    "comment_count": 6,
+    "share_count": 26,
     "tags": {
       "industries": [],
       "concepts": [
@@ -567,9 +1042,9 @@
     "raw_data": {
       "code": "202603033660728010",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1772551210028010",
-      "share": 5,
+      "share": 6,
       "showTime": "2026-03-03 23:20:10",
       "stockList": [],
       "summary": "美股恐慌指数VIX最新上涨24%，报26.6点。",
@@ -583,8 +1058,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 5,
+    "comment_count": 2,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -645,9 +1120,9 @@
     "raw_data": {
       "code": "202603033660723480",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 26,
       "realSort": "1772550896023480",
-      "share": 19,
+      "share": 23,
       "showTime": "2026-03-03 23:14:56",
       "stockList": [
         "0.159945",
@@ -667,8 +1142,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 23,
-    "share_count": 19,
+    "comment_count": 26,
+    "share_count": 23,
     "tags": {
       "industries": [],
       "concepts": [
@@ -743,9 +1218,9 @@
     "raw_data": {
       "code": "202603033660721850",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 14,
       "realSort": "1772550758021850",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-03-03 23:12:38",
       "stockList": [
         "90.BK0464"
@@ -763,8 +1238,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 8,
+    "comment_count": 14,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [
@@ -794,9 +1269,9 @@
     "raw_data": {
       "code": "202603033660719594",
       "image": [],
-      "pinglun_Num": 38,
+      "pinglun_Num": 41,
       "realSort": "1772550560019594",
-      "share": 7,
+      "share": 9,
       "showTime": "2026-03-03 23:09:20",
       "stockList": [],
       "summary": "【伊朗称击中两处美军“萨德”反导系统目标】伊朗伊斯兰革命卫队新闻发言人表示，导弹部队已成功击中2处目标。发言人称，美军位于西亚地区的“萨德”反导系统被伊斯兰革命卫队导弹击中，已被移出作战轨道。此外，位于阿联酋鲁韦斯军事基地的“萨德”系统雷达也于一天前被摧毁。",
@@ -810,8 +1285,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 38,
-    "share_count": 7,
+    "comment_count": 41,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -833,9 +1308,9 @@
     "raw_data": {
       "code": "202603033660717465",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 10,
       "realSort": "1772550422017465",
-      "share": 4,
+      "share": 7,
       "showTime": "2026-03-03 23:07:02",
       "stockList": [
         "90.BK0689"
@@ -853,8 +1328,8 @@
       "90.BK0689"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 4,
+    "comment_count": 10,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -931,7 +1406,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1772550108014236",
-      "share": 4,
+      "share": 10,
       "showTime": "2026-03-03 23:01:48",
       "stockList": [],
       "summary": "【国内商品期市夜盘收盘多数上涨 能源品涨幅居前】国内商品期市夜盘收盘多数上涨，能源品涨幅居前，燃油涨13.98%；化工品多数上涨，甲醇涨4.80%；非金属建材全部上涨，PVC涨2.07%；黑色系多数上涨，焦煤涨1.59%；油脂油料多数上涨，菜油涨1.35%；农副产品跌幅居前，白糖跌0.32%。能源品方面，燃油、低硫燃料油、LPG分别上涨13.98%、10.90%、7.33%。化工品中，甲醇领涨4.80%，聚丙烯、塑料分别上涨4.50%、4.37%，而橡胶、20号胶则分别下跌3.85%、3.90%。",
@@ -946,7 +1421,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 3,
-    "share_count": 4,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [
@@ -982,9 +1457,9 @@
     "raw_data": {
       "code": "202603033660713815",
       "image": [],
-      "pinglun_Num": 30,
+      "pinglun_Num": 33,
       "realSort": "1772550080013815",
-      "share": 15,
+      "share": 16,
       "showTime": "2026-03-03 23:01:20",
       "stockList": [],
       "summary": "美联储威廉姆斯表示，如果通胀如预期下降，则有必要进一步降息。",
@@ -998,8 +1473,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 30,
-    "share_count": 15,
+    "comment_count": 33,
+    "share_count": 16,
     "tags": {
       "industries": [
         {
@@ -1039,9 +1514,9 @@
     "raw_data": {
       "code": "202603033660712021",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 18,
       "realSort": "1772549886012021",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-03-03 22:58:06",
       "stockList": [],
       "summary": "【伊朗常驻联合国日内瓦办事处代表：对美伊谈判成效深表怀疑】当地时间3月3日，伊朗常驻联合国日内瓦办事处代表阿里·巴赫雷尼表示，任何邻国的军事基地如果被用于攻击或入侵他国，都将被视为防御性打击的合法目标，利用邻国土地为侵略伊朗提供便利是不可接受的。伊朗将继续进行防御，直到侵略行为停止为止。巴赫雷尼还对美伊谈判的成效深表怀疑，并称现在不是谈判的时候。",
@@ -1055,8 +1530,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
-    "share_count": 6,
+    "comment_count": 18,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1078,7 +1553,7 @@
     "raw_data": {
       "code": "202603033660709893",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 15,
       "realSort": "1772549785009893",
       "share": 11,
       "showTime": "2026-03-03 22:56:25",
@@ -1094,7 +1569,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
+    "comment_count": 15,
     "share_count": 11,
     "tags": {
       "industries": [],
@@ -1278,7 +1753,7 @@
     "raw_data": {
       "code": "202603033660705673",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1772549217005673",
       "share": 1,
       "showTime": "2026-03-03 22:46:57",
@@ -1294,7 +1769,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 7,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1327,7 +1802,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1772549082004827",
-      "share": 16,
+      "share": 18,
       "showTime": "2026-03-03 22:44:42",
       "stockList": [],
       "summary": "【受地区局势影响 伊拉克南部一巨型油田宣布暂停生产】当地时间3日，伊拉克石油部发表声明称，由于霍尔木兹海峡关闭导致国际航运中断，油轮进入波斯湾水域受阻，伊拉克南部港口油轮短缺，该国南部巨型油田鲁迈拉南部油区宣布暂停生产。此外，受地区局势影响，伊拉克北部库尔德自治区（库区）3日宣布暂停自伊库区向土耳其杰伊汉港出口石油。",
@@ -1342,7 +1817,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 3,
-    "share_count": 16,
+    "share_count": 18,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1372,7 +1847,7 @@
     "raw_data": {
       "code": "202603033660704292",
       "image": [],
-      "pinglun_Num": 34,
+      "pinglun_Num": 33,
       "realSort": "1772549007004292",
       "share": 42,
       "showTime": "2026-03-03 22:43:27",
@@ -1394,7 +1869,7 @@
       "105.RCAT"
     ],
     "has_stock_mention": true,
-    "comment_count": 34,
+    "comment_count": 33,
     "share_count": 42,
     "tags": {
       "industries": [],
@@ -1913,9 +2388,9 @@
     "raw_data": {
       "code": "202603033660699877",
       "image": [],
-      "pinglun_Num": 40,
+      "pinglun_Num": 39,
       "realSort": "1772548441099877",
-      "share": 24,
+      "share": 26,
       "showTime": "2026-03-03 22:34:01",
       "stockList": [],
       "summary": "【伊朗国防部发言人：每位指挥官至少有三名继任者 不会出现真空】伊朗国防部发言人当地时间3日表示，敌方认为刺杀伊朗指挥官就能让军队崩溃，这是错误判断。发言人指出，每位指挥官至少已有三名继任者，伊朗军队不会因指挥官牺牲而出现指挥真空。",
@@ -1929,8 +2404,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 40,
-    "share_count": 24,
+    "comment_count": 39,
+    "share_count": 26,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1944,445 +2419,6 @@
       "concept_ids": [
         "C201"
       ]
-    }
-  },
-  {
-    "id": "bc621258af081484",
-    "code": "202603033660698753",
-    "title": "美股三大指数大幅低开 纳指跌2%",
-    "summary": "【美股三大指数大幅低开 纳指跌2%】美股三大指数集体低开，纳指跌2%，道指跌1.81%，标普500指数跌1.65%。黄金股走低，金田跌超10%，哈莫尼黄金跌超7%。科技股普跌，美光科技跌超6%，西部数据跌超5%，AMD、英特尔跌超3%。",
-    "content": "【美股三大指数大幅低开 纳指跌2%】美股三大指数集体低开，纳指跌2%，道指跌1.81%，标普500指数跌1.65%。黄金股走低，金田跌超10%，哈莫尼黄金跌超7%。科技股普跌，美光科技跌超6%，西部数据跌超5%，AMD、英特尔跌超3%。",
-    "full_content": "【美股三大指数大幅低开 纳指跌2%】美股三大指数集体低开，纳指跌2%，道指跌1.81%，标普500指数跌1.65%。黄金股走低，金田跌超10%，哈莫尼黄金跌超7%。科技股普跌，美光科技跌超6%，西部数据跌超5%，AMD、英特尔跌超3%。",
-    "sort_time": "1772548260098753",
-    "showTime": "2026-03-03 22:31:00",
-    "time": "2026-03-03 22:31:00",
-    "publish_time": "2026-03-03 22:31:00",
-    "raw_data": {
-      "code": "202603033660698753",
-      "image": [],
-      "pinglun_Num": 20,
-      "realSort": "1772548260098753",
-      "share": 25,
-      "showTime": "2026-03-03 22:31:00",
-      "stockList": [],
-      "summary": "【美股三大指数大幅低开 纳指跌2%】美股三大指数集体低开，纳指跌2%，道指跌1.81%，标普500指数跌1.65%。黄金股走低，金田跌超10%，哈莫尼黄金跌超7%。科技股普跌，美光科技跌超6%，西部数据跌超5%，AMD、英特尔跌超3%。",
-      "title": "美股三大指数大幅低开 纳指跌2%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660698753.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 25,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "4b8138f8caf8b123",
-    "code": "202603033660696868",
-    "title": "迪拜、阿布扎比交易所将于3月4日恢复交易",
-    "summary": "【迪拜、阿布扎比交易所将于3月4日恢复交易】迪拜金融市场将于3月4日恢复交易，并实施5%的“临时跌停调整限制”，称该决定符合阿联酋资本市场管理局规定。根据CMA发布的声明，阿布扎比证券交易所亦将于3月4日恢复交易，“管理局将持续监测动态，并依据其职权采取必要措施，以保障投资者权益”。",
-    "content": "【迪拜、阿布扎比交易所将于3月4日恢复交易】迪拜金融市场将于3月4日恢复交易，并实施5%的“临时跌停调整限制”，称该决定符合阿联酋资本市场管理局规定。根据CMA发布的声明，阿布扎比证券交易所亦将于3月4日恢复交易，“管理局将持续监测动态，并依据其职权采取必要措施，以保障投资者权益”。",
-    "full_content": "【迪拜、阿布扎比交易所将于3月4日恢复交易】迪拜金融市场将于3月4日恢复交易，并实施5%的“临时跌停调整限制”，称该决定符合阿联酋资本市场管理局规定。根据CMA发布的声明，阿布扎比证券交易所亦将于3月4日恢复交易，“管理局将持续监测动态，并依据其职权采取必要措施，以保障投资者权益”。",
-    "sort_time": "1772548164096868",
-    "showTime": "2026-03-03 22:29:24",
-    "time": "2026-03-03 22:29:24",
-    "publish_time": "2026-03-03 22:29:24",
-    "raw_data": {
-      "code": "202603033660696868",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1772548164096868",
-      "share": 10,
-      "showTime": "2026-03-03 22:29:24",
-      "stockList": [
-        "0.159940",
-        "0.161027"
-      ],
-      "summary": "【迪拜、阿布扎比交易所将于3月4日恢复交易】迪拜金融市场将于3月4日恢复交易，并实施5%的“临时跌停调整限制”，称该决定符合阿联酋资本市场管理局规定。根据CMA发布的声明，阿布扎比证券交易所亦将于3月4日恢复交易，“管理局将持续监测动态，并依据其职权采取必要措施，以保障投资者权益”。",
-      "title": "迪拜、阿布扎比交易所将于3月4日恢复交易",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660696868.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159940",
-      "0.161027"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 10,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401"
-      ]
-    }
-  },
-  {
-    "id": "6dad18674a7c3726",
-    "code": "202603033660696261",
-    "title": "苹果随新款发布上调MacBook Air和MacBook Pro售价",
-    "summary": "【苹果随新款发布上调MacBook Air和MacBook Pro售价】苹果随新款发布上调MacBook Air和MacBook Pro售价，MacBook Air售价从999美元涨至1099美元，MacBook Pro售价达2199美元。",
-    "content": "【苹果随新款发布上调MacBook Air和MacBook Pro售价】苹果随新款发布上调MacBook Air和MacBook Pro售价，MacBook Air售价从999美元涨至1099美元，MacBook Pro售价达2199美元。",
-    "full_content": "【苹果随新款发布上调MacBook Air和MacBook Pro售价】苹果随新款发布上调MacBook Air和MacBook Pro售价，MacBook Air售价从999美元涨至1099美元，MacBook Pro售价达2199美元。",
-    "sort_time": "1772548122096261",
-    "showTime": "2026-03-03 22:28:42",
-    "time": "2026-03-03 22:28:42",
-    "publish_time": "2026-03-03 22:28:42",
-    "raw_data": {
-      "code": "202603033660696261",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1772548122096261",
-      "share": 8,
-      "showTime": "2026-03-03 22:28:42",
-      "stockList": [],
-      "summary": "【苹果随新款发布上调MacBook Air和MacBook Pro售价】苹果随新款发布上调MacBook Air和MacBook Pro售价，MacBook Air售价从999美元涨至1099美元，MacBook Pro售价达2199美元。",
-      "title": "苹果随新款发布上调MacBook Air和MacBook Pro售价",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660696261.html",
-    "category": "科技",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "14af9b14faa641f4",
-    "code": "202603033660695644",
-    "title": "OPENAI与五角大楼同意加强最近的合同",
-    "summary": "OPENAI与五角大楼同意加强最近的合同，二者在人工智能协议中增加监控保护条款。",
-    "content": "OPENAI与五角大楼同意加强最近的合同，二者在人工智能协议中增加监控保护条款。",
-    "full_content": "OPENAI与五角大楼同意加强最近的合同，二者在人工智能协议中增加监控保护条款。",
-    "sort_time": "1772548096095644",
-    "showTime": "2026-03-03 22:28:16",
-    "time": "2026-03-03 22:28:16",
-    "publish_time": "2026-03-03 22:28:16",
-    "raw_data": {
-      "code": "202603033660695644",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1772548096095644",
-      "share": 0,
-      "showTime": "2026-03-03 22:28:16",
-      "stockList": [
-        "0.161631",
-        "1.515980"
-      ],
-      "summary": "OPENAI与五角大楼同意加强最近的合同，二者在人工智能协议中增加监控保护条款。",
-      "title": "OPENAI与五角大楼同意加强最近的合同",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660695644.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.161631",
-      "1.515980"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "1f22a26cb496a5a5",
-    "code": "202603033660691711",
-    "title": "新兴市场货币指数势创2016年以来最大单日跌幅",
-    "summary": "受避险情绪影响，新兴市场货币指数势创2016年以来最大单日跌幅。",
-    "content": "受避险情绪影响，新兴市场货币指数势创2016年以来最大单日跌幅。",
-    "full_content": "受避险情绪影响，新兴市场货币指数势创2016年以来最大单日跌幅。",
-    "sort_time": "1772547845091711",
-    "showTime": "2026-03-03 22:24:05",
-    "time": "2026-03-03 22:24:05",
-    "publish_time": "2026-03-03 22:24:05",
-    "raw_data": {
-      "code": "202603033660691711",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1772547845091711",
-      "share": 4,
-      "showTime": "2026-03-03 22:24:05",
-      "stockList": [],
-      "summary": "受避险情绪影响，新兴市场货币指数势创2016年以来最大单日跌幅。",
-      "title": "新兴市场货币指数势创2016年以来最大单日跌幅",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660691711.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "1f82ac6c12f712ca",
-    "code": "202603033660688390",
-    "title": "苹果发布新款Studio Display和全新Studio Display XDR",
-    "summary": "【苹果发布新款Studio Display和全新Studio Display XDR】苹果官网发布新款Studio Display和全新Studio Display XDR。新款Studio Display（配备可调节倾斜度的支架）起售价1,599美元，Studio Display XDR（配备可调节倾斜度的支架）起售价3,299美元。",
-    "content": "【苹果发布新款Studio Display和全新Studio Display XDR】苹果官网发布新款Studio Display和全新Studio Display XDR。新款Studio Display（配备可调节倾斜度的支架）起售价1,599美元，Studio Display XDR（配备可调节倾斜度的支架）起售价3,299美元。",
-    "full_content": "【苹果发布新款Studio Display和全新Studio Display XDR】苹果官网发布新款Studio Display和全新Studio Display XDR。新款Studio Display（配备可调节倾斜度的支架）起售价1,599美元，Studio Display XDR（配备可调节倾斜度的支架）起售价3,299美元。",
-    "sort_time": "1772547588088390",
-    "showTime": "2026-03-03 22:19:48",
-    "time": "2026-03-03 22:19:48",
-    "publish_time": "2026-03-03 22:19:48",
-    "raw_data": {
-      "code": "202603033660688390",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1772547588088390",
-      "share": 1,
-      "showTime": "2026-03-03 22:19:48",
-      "stockList": [],
-      "summary": "【苹果发布新款Studio Display和全新Studio Display XDR】苹果官网发布新款Studio Display和全新Studio Display XDR。新款Studio Display（配备可调节倾斜度的支架）起售价1,599美元，Studio Display XDR（配备可调节倾斜度的支架）起售价3,299美元。",
-      "title": "苹果发布新款Studio Display和全新Studio Display XDR",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660688390.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "87600d978c4ed859",
-    "code": "202603033660685096",
-    "title": "以军称出动超60架次战机 完成对伊朗西部新一轮打击",
-    "summary": "【以军称出动超60架次战机 完成对伊朗西部新一轮打击】当地时间3日，以色列国防军发布声明称，当天早些时候，以色列空军派出超过60架次战机，完成了针对伊朗西部的新一轮打击行动，旨在削弱伊朗的实弹发射设施，并进一步巩固以军在伊朗的空中优势。",
-    "content": "【以军称出动超60架次战机 完成对伊朗西部新一轮打击】当地时间3日，以色列国防军发布声明称，当天早些时候，以色列空军派出超过60架次战机，完成了针对伊朗西部的新一轮打击行动，旨在削弱伊朗的实弹发射设施，并进一步巩固以军在伊朗的空中优势。",
-    "full_content": "【以军称出动超60架次战机 完成对伊朗西部新一轮打击】当地时间3日，以色列国防军发布声明称，当天早些时候，以色列空军派出超过60架次战机，完成了针对伊朗西部的新一轮打击行动，旨在削弱伊朗的实弹发射设施，并进一步巩固以军在伊朗的空中优势。",
-    "sort_time": "1772547314085096",
-    "showTime": "2026-03-03 22:15:14",
-    "time": "2026-03-03 22:15:14",
-    "publish_time": "2026-03-03 22:15:14",
-    "raw_data": {
-      "code": "202603033660685096",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1772547314085096",
-      "share": 9,
-      "showTime": "2026-03-03 22:15:14",
-      "stockList": [],
-      "summary": "【以军称出动超60架次战机 完成对伊朗西部新一轮打击】当地时间3日，以色列国防军发布声明称，当天早些时候，以色列空军派出超过60架次战机，完成了针对伊朗西部的新一轮打击行动，旨在削弱伊朗的实弹发射设施，并进一步巩固以军在伊朗的空中优势。",
-      "title": "以军称出动超60架次战机 完成对伊朗西部新一轮打击",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660685096.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "1e2e174f1232d4c4",
-    "code": "202603033660684858",
-    "title": "伊拉克开始关闭鲁迈拉油田的石油产出 因为储油设施已满",
-    "summary": "【伊拉克开始关闭鲁迈拉油田的石油产出 因为储油设施已满】伊拉克开始关闭鲁迈拉油田（RUMAILA）的石油产出，因为储油设施已满。伊拉克将西库尔纳2号油田的原油产量削减45万桶/日。",
-    "content": "【伊拉克开始关闭鲁迈拉油田的石油产出 因为储油设施已满】伊拉克开始关闭鲁迈拉油田（RUMAILA）的石油产出，因为储油设施已满。伊拉克将西库尔纳2号油田的原油产量削减45万桶/日。",
-    "full_content": "【伊拉克开始关闭鲁迈拉油田的石油产出 因为储油设施已满】伊拉克开始关闭鲁迈拉油田（RUMAILA）的石油产出，因为储油设施已满。伊拉克将西库尔纳2号油田的原油产量削减45万桶/日。",
-    "sort_time": "1772547277084858",
-    "showTime": "2026-03-03 22:14:37",
-    "time": "2026-03-03 22:14:37",
-    "publish_time": "2026-03-03 22:14:37",
-    "raw_data": {
-      "code": "202603033660684858",
-      "image": [],
-      "pinglun_Num": 128,
-      "realSort": "1772547277084858",
-      "share": 124,
-      "showTime": "2026-03-03 22:14:37",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "【伊拉克开始关闭鲁迈拉油田的石油产出 因为储油设施已满】伊拉克开始关闭鲁迈拉油田（RUMAILA）的石油产出，因为储油设施已满。伊拉克将西库尔纳2号油田的原油产量削减45万桶/日。",
-      "title": "伊拉克开始关闭鲁迈拉油田的石油产出 因为储油设施已满",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660684858.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 128,
-    "share_count": 124,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "c3b2725dfa26636c",
-    "code": "202603033660684720",
-    "title": "法国航运集团达飞海运：即日起暂停巴林、科威特、卡塔尔港口的订舱服务",
-    "summary": "【法国航运集团达飞海运：即日起暂停巴林、科威特、卡塔尔港口的订舱服务】法国航运集团达飞海运宣布：即日起暂停巴林、科威特、卡塔尔港口的订舱服务；同时暂停阿联酋、沙特阿拉伯、伊拉克部分港口的订舱服务，直至另行通知。",
-    "content": "【法国航运集团达飞海运：即日起暂停巴林、科威特、卡塔尔港口的订舱服务】法国航运集团达飞海运宣布：即日起暂停巴林、科威特、卡塔尔港口的订舱服务；同时暂停阿联酋、沙特阿拉伯、伊拉克部分港口的订舱服务，直至另行通知。",
-    "full_content": "【法国航运集团达飞海运：即日起暂停巴林、科威特、卡塔尔港口的订舱服务】法国航运集团达飞海运宣布：即日起暂停巴林、科威特、卡塔尔港口的订舱服务；同时暂停阿联酋、沙特阿拉伯、伊拉克部分港口的订舱服务，直至另行通知。",
-    "sort_time": "1772547251084720",
-    "showTime": "2026-03-03 22:14:11",
-    "time": "2026-03-03 22:14:11",
-    "publish_time": "2026-03-03 22:14:11",
-    "raw_data": {
-      "code": "202603033660684720",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1772547251084720",
-      "share": 6,
-      "showTime": "2026-03-03 22:14:11",
-      "stockList": [],
-      "summary": "【法国航运集团达飞海运：即日起暂停巴林、科威特、卡塔尔港口的订舱服务】法国航运集团达飞海运宣布：即日起暂停巴林、科威特、卡塔尔港口的订舱服务；同时暂停阿联酋、沙特阿拉伯、伊拉克部分港口的订舱服务，直至另行通知。",
-      "title": "法国航运集团达飞海运：即日起暂停巴林、科威特、卡塔尔港口的订舱服务",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603033660684720.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
