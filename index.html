@@ -454,15 +454,27 @@
             return SOURCE_CONFIG[source] || SOURCE_CONFIG['默认'];
         }
 
-        // 获取正确链接（修复版）
+        // 获取正确链接（最终修复版）
         function getNewsUrl(item) {
-            // 东方财富快讯的正确链接格式
-            if (item.code) {
-                return `https://kuaixun.eastmoney.com/news/${item.code}.html`;
+            // 1. 优先使用数据中的 url 字段（如果存在）
+            if (item.url && item.url !== 'https://finance.eastmoney.com/') {
+                console.log('使用 item.url:', item.url);
+                return item.url;
             }
-            // 备用
-            return 'https://kuaixun.eastmoney.com/';
+
+            // 2. 如果有 code，用正确的 finance 域名构造
+            if (item.code) {
+                // 注意：这里是 a/ 不是 news/
+                const constructedUrl = `https://finance.eastmoney.com/a/${item.code}.html`;
+                console.log('用 code 构造链接:', constructedUrl);
+                return constructedUrl;
+            }
+
+            // 3. 备用
+            console.log('使用默认首页');
+            return 'https://finance.eastmoney.com/';
         }
+
 
         // 格式化时间显示
         function formatNewsTime(timeStr) {
