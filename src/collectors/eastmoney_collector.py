@@ -8,7 +8,7 @@ from typing import List, Dict, Optional
 
 
 class EastMoneyCollector:
-    """东方财富快讯采集器（增量采集版）"""
+    """东方财富快讯采集器（修复增量方向版）"""
 
     def __init__(self):
         self.base_url = "https://np-weblist.eastmoney.com/comm/web/getFastNewsList"
@@ -40,8 +40,9 @@ class EastMoneyCollector:
                 with open(last_id_file, 'r') as f:
                     return int(f.read().strip())
             except:
-                return int(time.time() * 1000000)  # 默认当前时间
-        return int(time.time() * 1000000)
+                # 如果文件损坏，返回一个很早的时间戳，确保能采集到所有新闻
+                return 0
+        return int(time.time() * 1000000)  # 默认当前时间
 
     def _save_last_news_id(self, news_id: int):
         """保存最后一次采集的新闻ID"""
@@ -51,17 +52,19 @@ class EastMoneyCollector:
         with open(last_id_file, 'w') as f:
             f.write(str(news_id))
 
-    def fetch_news(self, max_items: int = 100) -> Optional[List[Dict]]:
+    def fetch_news(self, max_items: int = 50) -> Optional[List[Dict]]:
         """
-        增量采集新闻
-        从 last_news_id 开始，往前采集，直到采集到上次的最后一条
+        增量采集新闻 - 修复版
+        从当前时间开始，往前采集，直到遇到已采集过的新闻
         """
         all_news = []
-        current_sort_end = self.last_news_id
-        min_sort_end = self.last_news_id
-        max_pages = 10  # 最多采集10页，防止死循环
 
-        print(f"🔄 开始增量采集，起始时间戳: {self.last_news_id}")
+        # ===== 修复：从当前时间开始采集，而不是从 last_news_id =====
+        current_sort_end = int(time.time() * 1000000)  # 当前时间戳
+        min_sort_end = current_sort_end
+        max_pages = 10
+
+        print(f"🔄 开始增量采集，当前时间戳: {current_sort_end}, 上次最后ID: {self.last_news_id}")
 
         for page in range(max_pages):
             try:
@@ -102,35 +105,38 @@ class EastMoneyCollector:
 
                 # 解析新闻
                 page_news = []
+                page_min_sort = current_sort_end
+
                 for item in news_data:
                     news_item = self._parse_single_news(item)
                     if news_item:
                         page_news.append(news_item)
 
-                        # ===== 修复点：确保类型一致 =====
+                        # 更新本页最小时间戳
                         item_sort = item.get('realSort', 0)
                         try:
-                            # 转换为整数，如果是字符串就转一下
                             if isinstance(item_sort, str):
                                 item_sort = int(item_sort)
-                            if item_sort and item_sort < min_sort_end:
-                                min_sort_end = item_sort
-                        except (ValueError, TypeError):
-                            print(f"  ⚠️ 无法转换时间戳: {item_sort}")
-                            continue
-                        # ===== 修复结束 =====
+                            if item_sort and item_sort < page_min_sort:
+                                page_min_sort = item_sort
+                        except:
+                            pass
 
-                print(f"  ✅ 本页获取 {len(page_news)} 条")
-                all_news.extend(page_news)
+                print(f"  ✅ 本页获取 {len(page_news)} 条，本页最小时间戳: {page_min_sort}")
 
-                # 如果已经采集到上次的最后一条，停止
-                if min_sort_end <= self.last_news_id:
-                    print(f"  ✅ 已采集到上次的最后一条，停止")
+                # 如果这一页的新闻都小于上次的最后ID，说明已经采集过
+                if page_min_sort <= self.last_news_id:
+                    # 只保留比上次最后ID大的新闻
+                    new_in_page = [n for n in page_news if n.get('sort_time', 0) > self.last_news_id]
+                    print(f"  🔍 本页新增 {len(new_in_page)} 条（过滤掉已采集的）")
+                    all_news.extend(new_in_page)
                     break
+                else:
+                    all_news.extend(page_news)
+                    current_sort_end = page_min_sort
+                    min_sort_end = min(min_sort_end, page_min_sort)
 
-                # 准备下一页
-                current_sort_end = min_sort_end
-                time.sleep(0.5)  # 礼貌性延迟
+                time.sleep(0.5)
 
             except Exception as e:
                 print(f"  ❌ 采集失败: {e}")
@@ -149,7 +155,7 @@ class EastMoneyCollector:
         return all_news[:max_items]
 
     def _parse_single_news(self, item) -> Optional[Dict]:
-        """解析单条新闻 - 优化版（支持标题新闻）"""
+        """解析单条新闻"""
         try:
             unique_str = f"{item.get('title', '')}_{item.get('showTime', '')}_{item.get('code', '')}"
             news_id = hashlib.md5(unique_str.encode()).hexdigest()[:16]
@@ -158,7 +164,7 @@ class EastMoneyCollector:
             summary = item.get('summary', '').strip()
             code = item.get('code', '')
             show_time = item.get('showTime', '')
-            sort_time = item.get('realSort', 0)  # 用于排序的时间戳
+            sort_time = item.get('realSort', 0)
 
             # 处理标题新闻
             if summary.startswith('【') and '】' in summary:
@@ -178,25 +184,20 @@ class EastMoneyCollector:
                 'summary': summary,
                 'content': content,
                 'full_content': full_content,
-                'sort_time': sort_time,  # 保留用于排序
+                'sort_time': sort_time,
+                'showTime': show_time,  # 保留用于排序
+                'time': show_time,
+                'publish_time': show_time,
                 'raw_data': item
             }
-
-            # 时间字段
-            if show_time:
-                news_item['time'] = show_time
-                news_item['publish_time'] = show_time
-            else:
-                current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                news_item['time'] = current_time
-                news_item['publish_time'] = current_time
 
             # 来源
             source = item.get('mediaName', item.get('source', ''))
             news_item['source'] = source.strip() if source else '东方财富快讯'
 
             # URL
-            news_item['url'] = f"https://kuaixun.eastmoney.com/news/{code}.html" if code else "https://kuaixun.eastmoney.com/"
+            news_item[
+                'url'] = f"https://kuaixun.eastmoney.com/news/{code}.html" if code else "https://kuaixun.eastmoney.com/"
 
             # 其他字段
             news_item['category'] = self._infer_category(title + ' ' + summary)
@@ -218,94 +219,63 @@ class EastMoneyCollector:
             return None
 
     def _infer_category(self, text: str) -> str:
-        """根据内容推断新闻分类"""
+        """推断分类"""
         text_lower = text.lower()
-        category_keywords = {
-            '宏观': ['gdp', 'cpi', 'ppi', '通胀', '通缩', '货币政策', '财政政策', '央行', '利率', '存款准备金'],
-            '股市': ['a股', '沪指', '深指', '创业板', '科创板', '涨停', '跌停', '大盘', '指数', '股票', '股价'],
-            '债券': ['国债', '地方债', '城投债', '企业债', '可转债', '债券', '收益率'],
-            '期货': ['期货', '原油', '黄金', '白银', '铜', '铝', '螺纹钢', '铁矿石'],
-            '外汇': ['美元', '人民币', '欧元', '英镑', '日元', '汇率', '外汇'],
-            '商品': ['原油', '黄金', '白银', '铜', '大宗商品', '现货'],
-            '理财': ['银行理财', '信托', '保险', '基金', '资管', '理财产品'],
-            '房地产': ['房价', '房地产', '楼市', '房企', '土地', '拍卖'],
-            '公司': ['财报', '业绩', '营收', '净利润', '分红', '回购', 'st', 'ipo'],
-            '行业': ['行业', '板块', '概念', '产业链', '产能', '产量'],
-            '国际': ['美联储', '欧央行', '加息', '降息', '通胀', '贸易战'],
-            '政策': ['政策', '法规', '条例', '监管', '检查', '整治'],
-            '科技': ['人工智能', 'ai', '大数据', '云计算', '区块链', '芯片', '半导体'],
+        categories = {
+            '宏观': ['gdp', 'cpi', 'ppi', '通胀', '货币政策', '央行', '利率'],
+            '股市': ['a股', '沪指', '深指', '创业板', '科创板', '涨停', '跌停'],
+            '债券': ['国债', '地方债', '债券', '收益率'],
+            '期货': ['期货', '原油', '黄金', '白银', '铜', '铝'],
+            '公司': ['财报', '业绩', '营收', '净利润', '分红', '回购'],
+            '行业': ['行业', '板块', '概念'],
+            '国际': ['美联储', '加息', '降息', '贸易战'],
+            '政策': ['政策', '法规', '监管'],
+            '科技': ['人工智能', 'ai', '芯片', '半导体'],
         }
-
-        for category, keywords in category_keywords.items():
+        for category, keywords in categories.items():
             for keyword in keywords:
                 if keyword in text_lower:
                     return category
         return '其他'
 
     def _calculate_importance(self, item) -> int:
-        """计算新闻重要性分数（1-10分）"""
+        """计算重要性"""
         score = 5
-        title = item.get('title', '')
-        stock_list = item.get('stockList', [])
-        comment_count = item.get('pinglun_Num', 0)
-
-        urgent_keywords = ['紧急', '突发', '重磅', '重大', '预警', '警报', '危机', '崩盘', '暴跌', '暴涨']
-        for keyword in urgent_keywords:
-            if keyword in title:
-                score += 2
-                break
-
-        if len(stock_list) > 0:
-            score += min(len(stock_list) * 0.5, 3)
-
-        if comment_count > 10:
+        reading_num = item.get('reading_num', 0)
+        if reading_num > 20000:
+            score += 2
+        elif reading_num > 10000:
             score += 1
-        if comment_count > 50:
+        if item.get('stockList'):
             score += 1
-
-        return max(1, min(10, int(score)))
+        return max(1, min(10, score))
 
     def _judge_sentiment(self, text: str) -> str:
-        """判断情感倾向"""
+        """判断情感"""
         text_lower = text.lower()
-        bullish_keywords = ['上涨', '看好', '突破', '利好', '增长', '复苏', '扩张', '买入', '推荐', '超预期']
-        bearish_keywords = ['下跌', '看空', '跌破', '利空', '下滑', '衰退', '收缩', '卖出', '预警', '不及预期']
-
-        bullish_count = sum(1 for word in bullish_keywords if word in text_lower)
-        bearish_count = sum(1 for word in bearish_keywords if word in text_lower)
-
-        if bullish_count > bearish_count:
+        bullish = ['上涨', '看好', '突破', '利好', '增长', '复苏']
+        bearish = ['下跌', '看空', '跌破', '利空', '下滑', '衰退']
+        bull_count = sum(1 for w in bullish if w in text_lower)
+        bear_count = sum(1 for w in bearish if w in text_lower)
+        if bull_count > bear_count:
             return 'bullish'
-        elif bearish_count > bullish_count:
+        elif bear_count > bull_count:
             return 'bearish'
-        else:
-            return 'neutral'
+        return 'neutral'
 
     def test_collection(self):
-        """测试采集功能"""
+        """测试采集"""
         print("=" * 60)
-        print("东方财富快讯采集器测试（增量版）")
+        print("东方财富快讯采集器测试（修复版）")
         print("=" * 60)
-
         news_list = self.fetch_news(max_items=20)
-
         if news_list:
-            print(f"✅ 成功采集到 {len(news_list)} 条新闻!")
-            print("-" * 50)
-
-            for i, news in enumerate(news_list[:10], 1):
-                time_str = news.get('time', 'N/A')
-                title = news.get('title', '无标题')[:40]
-                source = news.get('source', 'N/A')
-                has_detail = ' 📄' if news.get('full_content') != news.get('title') else ''
-                print(f"{i:2d}. [{time_str}] {title}{has_detail}... ({source})")
-
-            if len(news_list) > 10:
-                print(f"... 还有 {len(news_list) - 10} 条未显示")
+            print(f"✅ 成功采集 {len(news_list)} 条")
+            for i, n in enumerate(news_list[:5]):
+                print(f"  {i + 1}. {n.get('time')} {n.get('title')[:30]}...")
             return True
-        else:
-            print("❌ 采集失败")
-            return False
+        print("❌ 采集失败")
+        return False
 
 
 if __name__ == "__main__":
