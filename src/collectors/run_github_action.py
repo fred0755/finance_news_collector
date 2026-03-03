@@ -1,11 +1,10 @@
 #!/usr/bin/env python
 """
-财经新闻采集器 - 增强版
+财经新闻采集器 - 修复版
 功能：
 - 增量采集东方财富快讯
-- 数据完整性检查，防止写入空文件
-- 自动修复 today.json 如果发现异常
-- 详细的日志输出
+- 强制按 showTime 排序，确保新新闻在最前
+- 数据完整性检查
 """
 
 import json
@@ -16,14 +15,15 @@ from datetime import datetime, date, timedelta
 from eastmoney_collector import EastMoneyCollector
 
 # 导入标签管理器
-import sys
-
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from tags.tag_manager import TagManager
 
 
 def merge_news_by_title(existing_news, new_news):
-    """按标题去重合并新闻列表"""
+    """
+    按标题去重合并新闻列表（强制按 showTime 排序）
+    确保最新的新闻永远在最前面
+    """
     news_map = {}
 
     # 先添加已有的
@@ -32,16 +32,33 @@ def merge_news_by_title(existing_news, new_news):
         if title:
             news_map[title] = item
 
-    # 再添加新的（会覆盖相同标题的旧新闻，保留最新的）
+    # 再添加新的，如果标题重复，保留时间更新的那条
     for item in new_news:
         title = item.get('title', '')
         if title:
-            news_map[title] = item
+            if title in news_map:
+                old_time = news_map[title].get('showTime', news_map[title].get('time', ''))
+                new_time = item.get('showTime', item.get('time', ''))
+                if new_time > old_time:
+                    news_map[title] = item
+            else:
+                news_map[title] = item
 
-    # 转回列表并按时间排序
+    # 转回列表
     result = list(news_map.values())
-    # 兼容两种时间字段
+
+    # 强制按 showTime 倒序排序（最新的在前）
     result.sort(key=lambda x: x.get('showTime', x.get('time', '')), reverse=True)
+
+    # 打印时间范围供调试
+    if result:
+        newest = result[0].get('showTime', result[0].get('time', '未知'))
+        oldest = result[-1].get('showTime', result[-1].get('time', '未知'))
+        print(f"  📊 合并后: {len(result)} 条 (原{len(existing_news)} + 新{len(new_news)})")
+        print(f"  🕐 时间范围: {oldest} → {newest}")
+    else:
+        print(f"  ⚠️ 合并后为空")
+
     return result
 
 
@@ -86,17 +103,14 @@ def merge_monthly_files(archive_dir, merged_dir, cutoff_date):
 
 def safe_save_json(file_path, data, description=""):
     """安全保存JSON文件，包含完整性检查"""
-    # 检查数据是否为空
     if not data:
         print(f"⚠️ 警告: {description} 数据为空，跳过保存 {file_path}")
         return False
 
-    # 检查文件是否可能损坏（比如只有空数组）
     if len(data) == 0:
         print(f"⚠️ 警告: {description} 数据为空数组，跳过保存 {file_path}")
         return False
 
-    # 临时文件路径，防止写入过程中中断导致文件损坏
     temp_path = file_path.with_suffix('.tmp')
 
     try:
@@ -109,7 +123,6 @@ def safe_save_json(file_path, data, description=""):
             if len(test_data) != len(data):
                 raise ValueError("数据长度不匹配")
 
-        # 替换原文件
         temp_path.replace(file_path)
         print(f"  ✅ {description}: {len(data)} 条")
         return True
@@ -123,7 +136,7 @@ def safe_save_json(file_path, data, description=""):
 
 def main():
     print("=" * 50)
-    print("🚀 财经新闻采集器（增强版）")
+    print("🚀 财经新闻采集器（修复版）")
     print("=" * 50)
 
     # 获取项目根目录
@@ -177,11 +190,11 @@ def main():
                     today_data = json.load(f)
                 print(f"✅ today.json 当前有 {len(today_data)} 条新闻")
 
-                # 检查最后一条新闻的时间
                 if today_data and len(today_data) > 0:
-                    last_news = today_data[0]
-                    last_time = last_news.get('showTime', last_news.get('time', '未知'))
-                    print(f"📰 最新新闻时间: {last_time}")
+                    newest = today_data[0]
+                    oldest = today_data[-1]
+                    print(
+                        f"📰 时间范围: {oldest.get('showTime', oldest.get('time', '未知'))} → {newest.get('showTime', newest.get('time', '未知'))}")
             except Exception as e:
                 print(f"❌ today.json 可能已损坏: {e}")
         sys.exit(1)
@@ -203,7 +216,7 @@ def main():
     latest_path = data_dir / "latest.json"
     safe_save_json(latest_path, tagged_news[:50], "latest.json")
 
-    # 3.2 today.json（今日所有）- 关键文件，需要特殊处理
+    # 3.2 today.json（今日所有）- 关键文件
     today_path = data_dir / "today.json"
 
     # 读取现有的今日数据
@@ -214,25 +227,32 @@ def main():
                 existing_today = json.load(f)
             print(f"📖 读取现有 today.json: {len(existing_today)} 条")
 
-            # 检查现有数据是否正常
+            # 检查现有数据的时间范围
             if len(existing_today) > 0:
-                first = existing_today[0]
-                last = existing_today[-1]
-                print(f"   ├─ 最早: {last.get('showTime', last.get('time', '未知'))}")
-                print(f"   └─ 最新: {first.get('showTime', first.get('time', '未知'))}")
+                newest = existing_today[0]
+                oldest = existing_today[-1]
+                print(f"   ├─ 最早: {oldest.get('showTime', oldest.get('time', '未知'))}")
+                print(f"   └─ 最新: {newest.get('showTime', newest.get('time', '未知'))}")
         except Exception as e:
             print(f"⚠️ today.json 读取失败: {e}")
             existing_today = []
 
-    # 合并去重
+    # 合并去重（使用修复后的函数）
     merged_today = merge_news_by_title(existing_today, tagged_news)
-    print(f"🔄 合并后: {len(merged_today)} 条 (原{len(existing_today)} + 新{len(tagged_news)})")
 
-    # 安全检查：如果合并后数据为空，但之前有数据，说明可能有问题
+    # 安全检查：如果合并后数据为空，但之前有数据，保留原文件
     if len(merged_today) == 0 and len(existing_today) > 0:
         print("⚠️ 警告: 合并后数据为空，但原文件有数据！保留原文件。")
     else:
         safe_save_json(today_path, merged_today, "today.json")
+
+        # 保存后立即验证
+        if today_path.exists():
+            with open(today_path, 'r', encoding='utf-8') as f:
+                verify_data = json.load(f)
+            if verify_data:
+                print(f"🔍 验证 today.json 最新新闻: {verify_data[0].get('showTime', '未知')}")
+                print(f"🔍 验证 today.json 最早新闻: {verify_data[-1].get('showTime', '未知')}")
 
     # 3.3 按日归档
     today_str = datetime.now().strftime("%Y-%m-%d")
@@ -260,10 +280,16 @@ def main():
         f.write(current_time)
     print(f"  ✅ last_update.txt: {current_time}")
 
-    # 显示统计信息
+    # 显示最终统计
     print("\n" + "=" * 50)
     print("📊 最终统计:")
-    print(f"  today.json 总条数: {len(merged_today)}")
+    if today_path.exists():
+        with open(today_path, 'r', encoding='utf-8') as f:
+            final_data = json.load(f)
+        print(f"  today.json 总条数: {len(final_data)}")
+        if final_data:
+            print(f"  最新新闻时间: {final_data[0].get('showTime', final_data[0].get('time', '未知'))}")
+            print(f"  最早新闻时间: {final_data[-1].get('showTime', final_data[-1].get('time', '未知'))}")
     print(f"  本次新增: {len(tagged_news)}")
     print(f"  归档文件: {archive_path.name} ({len(merged_archive)} 条)")
 
