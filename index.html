@@ -441,14 +441,15 @@
 
         // ==================== 来源图标配置 ====================
         const SOURCE_CONFIG = {
-            '东方财富': { emoji: '📈', name: '东方财富' },
+            '东方财富': { emoji: '💎', name: '东方财富' },
             '东方财富快讯': { emoji: '📈', name: '东方财富' },
-            '财联社': { emoji: '📡', name: '财联社' },
-            '默认': { emoji: '🔗', name: '原文' }
+            '财联社': { emoji: '💰', name: '财联社' },
+            '默认': { emoji: '🖼️', name: '原文' }
         };
 
         // ==================== 工具函数 ====================
 
+        // 获取来源配置
         function getSourceConfig(source) {
             return SOURCE_CONFIG[source] || SOURCE_CONFIG['默认'];
         }
@@ -463,16 +464,17 @@
             return 'https://kuaixun.eastmoney.com/';
         }
 
+        // 格式化时间显示
         function formatNewsTime(timeStr) {
             if (!timeStr) return '未知时间';
             const match = timeStr.match(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/);
             return match ? `${match[1].slice(5)} ${match[2]}` : timeStr;
         }
 
+        // 获取新闻时间（完整格式）
         function getFullNewsTime(item) {
             return item.showTime || item.time || item.publish_time || null;
         }
-
         function renderTags(tags) {
             if (!tags) return '';
             let html = '';
