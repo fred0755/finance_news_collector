@@ -453,15 +453,18 @@
             return SOURCE_CONFIG[source] || SOURCE_CONFIG['默认'];
         }
 
+        // 获取正确链接（修复版）
         function getNewsUrl(item) {
-            // 优先使用 item.url，如果没有则用 code 构造
+            // 1. 优先使用数据中的 url 字段（最准确）
             if (item.url && item.url !== 'https://finance.eastmoney.com/') {
                 return item.url;
             }
+            // 2. 如果没有 url，用 code 构造东方财富快讯的正确格式
             if (item.code) {
-                return `https://finance.eastmoney.com/a/${item.code}.html`;
+                return `https://kuaixun.eastmoney.com/news/${item.code}.html`;
             }
-            return 'https://finance.eastmoney.com/';
+            // 3. 备用
+            return 'https://kuaixun.eastmoney.com/';
         }
 
         function formatNewsTime(timeStr) {
