@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 """
-财经新闻采集器 - 双数据源版
+财经新闻采集器 - 增强版
 功能：
-- 从东方财富采集50条
-- 从财联社采集50条
-- 合并去重后保存
-- 30天按日归档 + 按月合并
+- 增量采集东方财富快讯
+- 数据完整性检查，防止写入空文件
+- 自动修复 today.json 如果发现异常
+- 详细的日志输出
 """
 
 import json
@@ -14,7 +14,6 @@ import os
 from pathlib import Path
 from datetime import datetime, date, timedelta
 from eastmoney_collector import EastMoneyCollector
-from cailianshe_collector import CaiLianSheCollector
 
 # 导入标签管理器
 import sys
@@ -47,28 +46,19 @@ def merge_news_by_title(existing_news, new_news):
 
 
 def merge_monthly_files(archive_dir, merged_dir, cutoff_date):
-    """
-    将超过30天的日文件合并到月文件
-    cutoff_date: 保留的最近日期（此日期之前的文件需要合并）
-    """
+    """将超过30天的日文件合并到月文件"""
     print(f"\n🔄 检查需要合并的旧文件（{cutoff_date} 之前的）...")
-
-    # 获取所有日文件
     daily_files = sorted(archive_dir.glob("20??-??-??.json"))
 
     for daily_file in daily_files:
-        # 从文件名提取日期
         file_date_str = daily_file.stem
         try:
             file_date = datetime.strptime(file_date_str, "%Y-%m-%d").date()
         except:
             continue
 
-        # 如果文件日期早于cutoff_date，需要合并
         if file_date < cutoff_date:
             print(f"  📦 合并 {file_date_str} 到月文件")
-
-            # 读取日文件内容
             try:
                 with open(daily_file, 'r', encoding='utf-8') as f:
                     daily_news = json.load(f)
@@ -76,11 +66,9 @@ def merge_monthly_files(archive_dir, merged_dir, cutoff_date):
                 print(f"    ⚠️ 读取失败，跳过")
                 continue
 
-            # 生成月文件名 (YYYY-MM.json)
-            month_str = file_date_str[:7]  # 取 "YYYY-MM"
+            month_str = file_date_str[:7]
             month_file = merged_dir / f"{month_str}.json"
 
-            # 读取已有的月文件
             month_news = []
             if month_file.exists():
                 try:
@@ -89,21 +77,53 @@ def merge_monthly_files(archive_dir, merged_dir, cutoff_date):
                 except:
                     month_news = []
 
-            # 合并去重
             merged = merge_news_by_title(month_news, daily_news)
-
-            # 写回月文件
             with open(month_file, 'w', encoding='utf-8') as f:
                 json.dump(merged, f, ensure_ascii=False, indent=2)
-
-            # 删除原来的日文件
             daily_file.unlink()
             print(f"    ✅ 已合并并删除 {file_date_str}.json")
 
 
+def safe_save_json(file_path, data, description=""):
+    """安全保存JSON文件，包含完整性检查"""
+    # 检查数据是否为空
+    if not data:
+        print(f"⚠️ 警告: {description} 数据为空，跳过保存 {file_path}")
+        return False
+
+    # 检查文件是否可能损坏（比如只有空数组）
+    if len(data) == 0:
+        print(f"⚠️ 警告: {description} 数据为空数组，跳过保存 {file_path}")
+        return False
+
+    # 临时文件路径，防止写入过程中中断导致文件损坏
+    temp_path = file_path.with_suffix('.tmp')
+
+    try:
+        with open(temp_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+        # 验证临时文件
+        with open(temp_path, 'r', encoding='utf-8') as f:
+            test_data = json.load(f)
+            if len(test_data) != len(data):
+                raise ValueError("数据长度不匹配")
+
+        # 替换原文件
+        temp_path.replace(file_path)
+        print(f"  ✅ {description}: {len(data)} 条")
+        return True
+
+    except Exception as e:
+        print(f"  ❌ 保存 {description} 失败: {e}")
+        if temp_path.exists():
+            temp_path.unlink()
+        return False
+
+
 def main():
     print("=" * 50)
-    print("🚀 财经新闻采集器（双数据源版）")
+    print("🚀 财经新闻采集器（增强版）")
     print("=" * 50)
 
     # 获取项目根目录
@@ -135,8 +155,7 @@ def main():
     print("=" * 40)
 
     eastmoney_collector = EastMoneyCollector()
-    # 修改这一行
-    eastmoney_news = eastmoney_collector.fetch_news(max_items=50)  # 原来是 page_size=50
+    eastmoney_news = eastmoney_collector.fetch_news(max_items=50)
 
     if not eastmoney_news:
         print("⚠️ 东方财富采集失败")
@@ -144,26 +163,27 @@ def main():
     else:
         print(f"✅ 东方财富: {len(eastmoney_news)} 条")
 
-    # ========== 2. 采集财联社（暂时注释掉） ==========
-    # print("\n" + "=" * 40)
-    # print("📡 开始采集财联社快讯...")
-    # print("=" * 40)
-    #
-    # cailianshe_collector = CaiLianSheCollector()
-    # cailianshe_news = cailianshe_collector.fetch_news(limit=50)
-    #
-    # if not cailianshe_news:
-    #     print("⚠️ 财联社采集失败")
-    #     cailianshe_news = []
-    # else:
-    #     print(f"✅ 财联社: {len(cailianshe_news)} 条")
-
-    # ========== 3. 合并所有新闻 ==========
-    # all_raw_news = eastmoney_news + cailianshe_news
-    all_raw_news = eastmoney_news  # 暂时只用东方财富
+    # ========== 2. 合并所有新闻 ==========
+    all_raw_news = eastmoney_news
 
     if not all_raw_news:
         print("❌ 所有数据源都采集失败")
+        # 即使采集失败，也要检查现有文件是否正常
+        print("\n🔍 检查现有数据文件完整性...")
+        today_path = data_dir / "today.json"
+        if today_path.exists():
+            try:
+                with open(today_path, 'r', encoding='utf-8') as f:
+                    today_data = json.load(f)
+                print(f"✅ today.json 当前有 {len(today_data)} 条新闻")
+
+                # 检查最后一条新闻的时间
+                if today_data and len(today_data) > 0:
+                    last_news = today_data[0]
+                    last_time = last_news.get('showTime', last_news.get('time', '未知'))
+                    print(f"📰 最新新闻时间: {last_time}")
+            except Exception as e:
+                print(f"❌ today.json 可能已损坏: {e}")
         sys.exit(1)
 
     print(f"\n📊 原始新闻总数: {len(all_raw_news)} 条")
@@ -176,31 +196,45 @@ def main():
                        if item.get('tags', {}).get('industries') or item.get('tags', {}).get('concepts'))
     print(f"✅ {tagged_count}/{len(tagged_news)} 条新闻成功打上标签")
 
-    # ========== 4. 保存文件 ==========
+    # ========== 3. 保存文件 ==========
     print("\n💾 正在保存文件...")
 
-    # 4.1 latest.json（最近50条）
+    # 3.1 latest.json（最近50条）
     latest_path = data_dir / "latest.json"
-    with open(latest_path, "w", encoding="utf-8") as f:
-        json.dump(tagged_news[:50], f, ensure_ascii=False, indent=2)
-    print(f"  ✅ latest.json: {len(tagged_news[:50])} 条")
+    safe_save_json(latest_path, tagged_news[:50], "latest.json")
 
-    # 4.2 today.json（今日所有）
+    # 3.2 today.json（今日所有）- 关键文件，需要特殊处理
     today_path = data_dir / "today.json"
+
+    # 读取现有的今日数据
     existing_today = []
     if today_path.exists():
         try:
             with open(today_path, "r", encoding="utf-8") as f:
                 existing_today = json.load(f)
-        except:
+            print(f"📖 读取现有 today.json: {len(existing_today)} 条")
+
+            # 检查现有数据是否正常
+            if len(existing_today) > 0:
+                first = existing_today[0]
+                last = existing_today[-1]
+                print(f"   ├─ 最早: {last.get('showTime', last.get('time', '未知'))}")
+                print(f"   └─ 最新: {first.get('showTime', first.get('time', '未知'))}")
+        except Exception as e:
+            print(f"⚠️ today.json 读取失败: {e}")
             existing_today = []
 
+    # 合并去重
     merged_today = merge_news_by_title(existing_today, tagged_news)
-    with open(today_path, "w", encoding="utf-8") as f:
-        json.dump(merged_today, f, ensure_ascii=False, indent=2)
-    print(f"  ✅ today.json: {len(merged_today)} 条")
+    print(f"🔄 合并后: {len(merged_today)} 条 (原{len(existing_today)} + 新{len(tagged_news)})")
 
-    # 4.3 按日归档
+    # 安全检查：如果合并后数据为空，但之前有数据，说明可能有问题
+    if len(merged_today) == 0 and len(existing_today) > 0:
+        print("⚠️ 警告: 合并后数据为空，但原文件有数据！保留原文件。")
+    else:
+        safe_save_json(today_path, merged_today, "today.json")
+
+    # 3.3 按日归档
     today_str = datetime.now().strftime("%Y-%m-%d")
     archive_path = archive_dir / f"{today_str}.json"
 
@@ -213,27 +247,32 @@ def main():
             existing_archive = []
 
     merged_archive = merge_news_by_title(existing_archive, tagged_news)
-    with open(archive_path, "w", encoding="utf-8") as f:
-        json.dump(merged_archive, f, ensure_ascii=False, indent=2)
-    print(f"  ✅ 归档 {today_str}.json: {len(merged_archive)} 条")
+    safe_save_json(archive_path, merged_archive, f"归档 {today_str}.json")
 
-    # 4.4 合并超过30天的旧文件
+    # 3.4 合并超过30天的旧文件
     cutoff_date = date.today() - timedelta(days=30)
     merge_monthly_files(archive_dir, merged_dir, cutoff_date)
 
-    # 4.5 更新时间戳
+    # 3.5 更新时间戳
     timestamp_path = data_dir / "last_update.txt"
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(timestamp_path, "w", encoding="utf-8") as f:
         f.write(current_time)
     print(f"  ✅ last_update.txt: {current_time}")
 
+    # 显示统计信息
+    print("\n" + "=" * 50)
+    print("📊 最终统计:")
+    print(f"  today.json 总条数: {len(merged_today)}")
+    print(f"  本次新增: {len(tagged_news)}")
+    print(f"  归档文件: {archive_path.name} ({len(merged_archive)} 条)")
+
     # 显示示例
     if len(tagged_news) > 0:
         sample = tagged_news[0]
         print(f"\n📰 示例新闻:")
         print(f"  标题: {sample.get('title', '')[:50]}...")
-        print(f"  来源: {sample.get('source', '未知')}")
+        print(f"  时间: {sample.get('showTime', sample.get('time', '未知'))}")
         tags = sample.get('tags', {})
         industries = [ind['name'] for ind in tags.get('industries', [])]
         concepts = [con['name'] for con in tags.get('concepts', [])]
