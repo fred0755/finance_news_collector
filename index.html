@@ -6,7 +6,6 @@
     <meta name="theme-color" content="#0b2b4f">
     <title>📊 财经新闻 · 云端快讯</title>
     <style>
-        /* ... (样式部分保持不变，可完全复制你之前使用的版本) ... */
         * {
             margin: 0;
             padding: 0;
@@ -57,6 +56,7 @@
             font-size: 0.95rem;
         }
 
+        /* 时间范围选择器 */
         .time-range {
             display: flex;
             gap: 8px;
@@ -85,6 +85,7 @@
             border-color: #2a6f97;
         }
 
+        /* 搜索栏 */
         .search-bar {
             background: white;
             border-radius: 50px;
@@ -203,6 +204,7 @@
             font-size: 0.9rem;
         }
 
+        /* 标签样式 */
         .news-tags {
             display: flex;
             flex-wrap: wrap;
@@ -235,6 +237,7 @@
             color: #1e6f3c;
         }
 
+        /* 详情区域样式 */
         .news-detail {
             font-size: 0.9rem;
             line-height: 1.6;
@@ -267,6 +270,7 @@
             border-color: #2a6f97;
         }
 
+        /* 加载状态 */
         .load-more {
             background: white;
             border: 1px solid #d0dae8;
@@ -349,6 +353,7 @@
             margin-bottom: 16px;
         }
 
+        /* 移动端优化 */
         @media (max-width: 480px) {
             .news-card {
                 padding: 14px 16px;
@@ -390,12 +395,14 @@
             </div>
         </div>
 
+        <!-- 时间范围选择器 -->
         <div class="time-range">
             <button class="time-btn active" data-range="12h">最近12小时</button>
             <button class="time-btn" data-range="24h">最近24小时</button>
             <button class="time-btn" data-range="7d">最近7天</button>
         </div>
 
+        <!-- 搜索栏 -->
         <div class="search-bar">
             <input type="text" id="search-input" placeholder="搜索新闻标题..." value="">
             <button id="search-btn">搜索</button>
@@ -409,6 +416,7 @@
             </div>
         </div>
 
+        <!-- 加载历史数据的提示（动态显示） -->
         <div id="load-more-btn" class="load-more" style="display: none;">
             📅 正在加载历史数据...
         </div>
@@ -423,7 +431,7 @@
     </div>
 
     <script>
-        // --- 全局变量 ---
+        // ==================== 全局变量 ====================
         let allNews = [];
         let displayedNews = [];
         let currentTimeRange = '12h';
@@ -431,7 +439,7 @@
         let loadedDates = new Set();
         let isLoading = false;
 
-        // --- 配置 ---
+        // ==================== 来源图标配置 ====================
         const SOURCE_CONFIG = {
             '东方财富': { emoji: '📈', name: '东方财富' },
             '东方财富快讯': { emoji: '📈', name: '东方财富' },
@@ -439,13 +447,21 @@
             '默认': { emoji: '🔗', name: '原文' }
         };
 
-        // --- 工具函数 ---
+        // ==================== 工具函数 ====================
+
         function getSourceConfig(source) {
             return SOURCE_CONFIG[source] || SOURCE_CONFIG['默认'];
         }
 
         function getNewsUrl(item) {
-            return item.code ? `https://finance.eastmoney.com/a/${item.code}.html` : 'https://finance.eastmoney.com/';
+            // 优先使用 item.url，如果没有则用 code 构造
+            if (item.url && item.url !== 'https://finance.eastmoney.com/') {
+                return item.url;
+            }
+            if (item.code) {
+                return `https://finance.eastmoney.com/a/${item.code}.html`;
+            }
+            return 'https://finance.eastmoney.com/';
         }
 
         function formatNewsTime(timeStr) {
@@ -461,12 +477,20 @@
         function renderTags(tags) {
             if (!tags) return '';
             let html = '';
-            (tags.concepts || []).forEach(c => html += `<span class="tag tag-concept">🏷️ ${c.name}</span>`);
-            (tags.industries || []).forEach(i => html += `<span class="tag tag-industry">🏭 ${i.name}</span>`);
+            if (tags.concepts && tags.concepts.length > 0) {
+                tags.concepts.forEach(c => {
+                    html += `<span class="tag tag-concept">🏷️ ${c.name}</span>`;
+                });
+            }
+            if (tags.industries && tags.industries.length > 0) {
+                tags.industries.forEach(i => {
+                    html += `<span class="tag tag-industry">🏭 ${i.name}</span>`;
+                });
+            }
             return html;
         }
 
-        // --- 核心：合并新闻 ---
+        // ==================== 合并新闻 ====================
         function mergeNews(newsList) {
             const map = new Map();
             newsList.forEach(item => {
@@ -483,30 +507,48 @@
                         displayTime: formatNewsTime(time),
                         full_content: item.full_content || item.content || '',
                         tags: item.tags || {},
-                        sources: [{ name: sourceName, url: url, config: getSourceConfig(sourceName) }]
+                        sources: [{
+                            name: sourceName,
+                            url: url,
+                            config: getSourceConfig(sourceName)
+                        }]
                     });
                 } else {
                     const existing = map.get(key);
                     if (!existing.sources.some(s => s.name === sourceName)) {
-                        existing.sources.push({ name: sourceName, url: url, config: getSourceConfig(sourceName) });
+                        existing.sources.push({
+                            name: sourceName,
+                            url: url,
+                            config: getSourceConfig(sourceName)
+                        });
+                    }
+                    // 保留最新的时间
+                    if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
+                        existing.time = time;
+                        existing.displayTime = formatNewsTime(time);
+                        if (item.full_content) {
+                            existing.full_content = item.full_content;
+                        }
                     }
                 }
             });
             return Array.from(map.values()).sort((a, b) => (b.time || '').localeCompare(a.time || ''));
         }
 
-        // --- 过滤 ---
+        // ==================== 过滤 ====================
         function filterByTimeRange(news, range) {
             const now = new Date();
-            const cutoff = new Date(now - ({ '12h': 12, '24h': 24, '7d': 168 }[range] || 12) * 60 * 60 * 1000);
+            const hours = { '12h': 12, '24h': 24, '7d': 168 }[range] || 12;
+            const cutoff = new Date(now - hours * 60 * 60 * 1000);
             return news.filter(item => item.time && new Date(item.time) >= cutoff);
         }
 
         function filterBySearch(news, term) {
-            return term ? news.filter(item => item.title.toLowerCase().includes(term.toLowerCase())) : news;
+            if (!term) return news;
+            return news.filter(item => item.title.toLowerCase().includes(term.toLowerCase()));
         }
 
-        // --- 加载单日数据 ---
+        // ==================== 加载单日数据 ====================
         async function loadDateData(dateStr) {
             if (loadedDates.has(dateStr)) return null;
             try {
@@ -521,7 +563,7 @@
             }
         }
 
-        // --- 渲染 ---
+        // ==================== 渲染新闻列表 ====================
         function renderNews(news) {
             const container = document.getElementById('news-list');
             if (!news || !news.length) {
@@ -532,48 +574,60 @@
 
             let html = '';
             news.forEach((item, i) => {
-                const sources = item.sources.map(s =>
-                    `<a href="${s.url}" target="_blank" class="source-icon">${s.config.emoji} ${s.config.name}</a>`
-                ).join('');
+                // 渲染来源图标（关键修复）
+                let sourcesHtml = '';
+                item.sources.forEach(source => {
+                    sourcesHtml += `
+                        <a href="${source.url}" target="_blank" class="source-icon" title="查看${source.name}原文">
+                            <span class="emoji">${source.config.emoji}</span> ${source.config.name}
+                        </a>
+                    `;
+                });
+
                 const tags = renderTags(item.tags);
                 const hasDetail = item.full_content && item.full_content.length > 30 && item.full_content !== item.title;
                 const detailId = `d-${i}`;
 
                 html += `
-                <div class="news-card">
-                    <div class="news-title">${item.title}</div>
-                    <div class="sources-bar">${sources}</div>
-                    ${hasDetail ? `
-                        <div id="${detailId}" class="news-detail" style="display:none">${item.full_content}</div>
-                        <button class="toggle-detail-btn" data-target="${detailId}"><span>🔽</span> 查看详情</button>
-                    ` : ''}
-                    <div class="news-time">🕐 ${item.displayTime}</div>
-                    ${tags ? `<div class="news-tags">${tags}</div>` : ''}
-                </div>`;
+                    <div class="news-card">
+                        <div class="news-title">${item.title}</div>
+                        <div class="sources-bar">${sourcesHtml}</div>
+                        ${hasDetail ? `
+                            <div id="${detailId}" class="news-detail" style="display:none">${item.full_content}</div>
+                            <button class="toggle-detail-btn" data-target="${detailId}">
+                                <span>🔽</span> 查看详情
+                            </button>
+                        ` : ''}
+                        <div class="news-time">🕐 ${item.displayTime}</div>
+                        ${tags ? `<div class="news-tags">${tags}</div>` : ''}
+                    </div>
+                `;
             });
 
             container.innerHTML = html;
             document.getElementById('news-count').textContent = news.length;
 
+            // 绑定详情按钮
             document.querySelectorAll('.toggle-detail-btn').forEach(btn => {
                 btn.onclick = () => {
                     const detail = document.getElementById(btn.dataset.target);
                     if (detail) {
-                        detail.style.display = detail.style.display === 'none' ? 'block' : 'none';
-                        btn.innerHTML = detail.style.display === 'none' ? '<span>🔽</span> 查看详情' : '<span>🔼</span> 收起详情';
+                        const isHidden = detail.style.display === 'none';
+                        detail.style.display = isHidden ? 'block' : 'none';
+                        btn.innerHTML = isHidden ? '<span>🔼</span> 收起详情' : '<span>🔽</span> 查看详情';
                     }
                 };
             });
         }
 
-        // --- 更新视图 ---
+        // ==================== 更新视图 ====================
         function updateView() {
             let filtered = filterByTimeRange(allNews, currentTimeRange);
             filtered = filterBySearch(filtered, currentSearchTerm);
             renderNews(filtered);
         }
 
-        // --- 初始化加载 ---
+        // ==================== 初始化加载 ====================
         async function loadInitialData() {
             try {
                 // 1. 加载今日数据
@@ -599,7 +653,9 @@
                 let d = new Date(start);
                 while (d <= now) {
                     const ds = d.toISOString().split('T')[0];
-                    if (!loadedDates.has(ds)) dates.push(ds);
+                    if (!loadedDates.has(ds) && ds !== today) {
+                        dates.push(ds);
+                    }
                     d.setDate(d.getDate() + 1);
                 }
 
@@ -609,7 +665,8 @@
                     const results = await Promise.all(dates.map(d => loadDateData(d)));
                     results.forEach((data, i) => {
                         if (data?.length) {
-                            allNews = mergeNews([...allNews, ...data]);
+                            const merged = mergeNews(data);
+                            allNews = mergeNews([...allNews, ...merged]);
                         }
                     });
                     document.getElementById('load-more-btn').style.display = 'none';
@@ -621,12 +678,17 @@
             } catch (e) {
                 console.error('初始化失败', e);
                 document.getElementById('news-list').innerHTML = `
-                    <div class="error"><span>⚠️</span><h3>加载失败</h3><p>${e.message}</p></div>
+                    <div class="error">
+                        <span>⚠️</span>
+                        <h3>加载失败</h3>
+                        <p>${e.message}</p>
+                        <button onclick="location.reload()" class="retry-btn">重试</button>
+                    </div>
                 `;
             }
         }
 
-        // --- 切换时间范围 ---
+        // ==================== 切换时间范围 ====================
         async function setTimeRange(range) {
             currentTimeRange = range;
             document.querySelectorAll('.time-btn').forEach(btn => {
@@ -651,9 +713,11 @@
                 const start = new Date(now - hours * 60 * 60 * 1000);
                 const dates = [];
                 let d = new Date(start);
+                const today = new Date().toISOString().split('T')[0];
+
                 while (d <= now) {
                     const ds = d.toISOString().split('T')[0];
-                    if (!loadedDates.has(ds) && ds !== new Date().toISOString().split('T')[0]) {
+                    if (!loadedDates.has(ds) && ds !== today) {
                         dates.push(ds);
                     }
                     d.setDate(d.getDate() + 1);
@@ -663,7 +727,8 @@
                     const results = await Promise.all(dates.map(d => loadDateData(d)));
                     results.forEach(data => {
                         if (data?.length) {
-                            allNews = mergeNews([...allNews, ...data]);
+                            const merged = mergeNews(data);
+                            allNews = mergeNews([...allNews, ...merged]);
                         }
                     });
                 }
@@ -676,7 +741,7 @@
             }
         }
 
-        // --- 搜索 ---
+        // ==================== 搜索 ====================
         function handleSearch() {
             const term = document.getElementById('search-input').value.trim();
             currentSearchTerm = term;
@@ -691,7 +756,7 @@
             updateView();
         }
 
-        // --- 启动 ---
+        // ==================== 启动 ====================
         window.addEventListener('DOMContentLoaded', () => {
             loadInitialData();
 
@@ -701,7 +766,9 @@
 
             document.getElementById('search-btn').addEventListener('click', handleSearch);
             document.getElementById('clear-search').addEventListener('click', clearSearch);
-            document.getElementById('search-input').addEventListener('keypress', e => e.key === 'Enter' && handleSearch());
+            document.getElementById('search-input').addEventListener('keypress', e => {
+                if (e.key === 'Enter') handleSearch();
+            });
 
             setInterval(() => {
                 if (currentTimeRange === '12h' && !currentSearchTerm) {
