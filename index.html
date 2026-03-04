@@ -461,20 +461,15 @@
 
         // 获取正确链接（最终修复版 - 使用 finance.a/ 格式）
         function getNewsUrl(item) {
-            // 1. 优先使用数据中的 url 字段（如果存在）
-            if (item.url && item.url !== 'https://finance.eastmoney.com/') {
-                console.log('使用 item.url:', item.url);
-                return item.url;
-            }
-
-            // 2. 如果有 code，用正确的 finance 域名构造（a/ 格式）
+            // 1. 如果有 code，用正确的 finance 域名构造（a/ 格式）
             if (item.code) {
+                // 注意：这是从你提供的成功链接中验证的格式
                 const constructedUrl = `https://finance.eastmoney.com/a/${item.code}.html`;
                 console.log('用 code 构造链接:', constructedUrl);
                 return constructedUrl;
             }
 
-            // 3. 备用
+            // 2. 备用
             console.log('使用默认首页');
             return 'https://finance.eastmoney.com/';
         }
