@@ -1,5 +1,599 @@
 [
   {
+    "id": "ebadae8269f1c162",
+    "code": "202603043661848927",
+    "title": "全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%",
+    "summary": "【全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%】全球部分风险资产反弹，截至发稿，道琼斯指数期货涨0.20%，标普500指数期货涨0.30%，纳斯达克100指数期货涨0.40%。欧洲 STOXX 600指数延续涨势，上涨1.2%；西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。比特币涨至71694.8美元，过去24小时内涨7.88%。重新开盘后，富时A50中国指数期货涨幅扩大至0.8%。",
+    "content": "【全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%】全球部分风险资产反弹，截至发稿，道琼斯指数期货涨0.20%，标普500指数期货涨0.30%，纳斯达克100指数期货涨0.40%。欧洲 STOXX 600指数延续涨势，上涨1.2%；西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。比特币涨至71694.8美元，过去24小时内涨7.88%。重新开盘后，富时A50中国指数期货涨幅扩大至0.8%。",
+    "full_content": "【全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%】全球部分风险资产反弹，截至发稿，道琼斯指数期货涨0.20%，标普500指数期货涨0.30%，纳斯达克100指数期货涨0.40%。欧洲 STOXX 600指数延续涨势，上涨1.2%；西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。比特币涨至71694.8美元，过去24小时内涨7.88%。重新开盘后，富时A50中国指数期货涨幅扩大至0.8%。",
+    "sort_time": "1772619654048927",
+    "showTime": "2026-03-04 18:20:54",
+    "time": "2026-03-04 18:20:54",
+    "publish_time": "2026-03-04 18:20:54",
+    "raw_data": {
+      "code": "202603043661848927",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1772619654048927",
+      "share": 15,
+      "showTime": "2026-03-04 18:20:54",
+      "stockList": [
+        "90.BK0830",
+        "1.512550"
+      ],
+      "summary": "【全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%】全球部分风险资产反弹，截至发稿，道琼斯指数期货涨0.20%，标普500指数期货涨0.30%，纳斯达克100指数期货涨0.40%。欧洲 STOXX 600指数延续涨势，上涨1.2%；西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。比特币涨至71694.8美元，过去24小时内涨7.88%。重新开盘后，富时A50中国指数期货涨幅扩大至0.8%。",
+      "title": "全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661848927.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0830",
+      "1.512550"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 15,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C008",
+          "name": "区块链",
+          "matched_keyword": "比特币"
+        },
+        {
+          "id": "C814",
+          "name": "ST板块",
+          "matched_keyword": "ST"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C008",
+        "C814"
+      ]
+    }
+  },
+  {
+    "id": "129cf1c5ac5014ff",
+    "code": "202603043661846229",
+    "title": "欧洲天然气价格下跌7%",
+    "summary": "欧洲天然气价格下跌7%。",
+    "content": "欧洲天然气价格下跌7%。",
+    "full_content": "欧洲天然气价格下跌7%。",
+    "sort_time": "1772619485046229",
+    "showTime": "2026-03-04 18:18:05",
+    "time": "2026-03-04 18:18:05",
+    "publish_time": "2026-03-04 18:18:05",
+    "raw_data": {
+      "code": "202603043661846229",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1772619485046229",
+      "share": 17,
+      "showTime": "2026-03-04 18:18:05",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "欧洲天然气价格下跌7%。",
+      "title": "欧洲天然气价格下跌7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661846229.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 12,
+    "share_count": 17,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "1773026c14885f2c",
+    "code": "202603043661845567",
+    "title": "国际原油价格小幅跳水",
+    "summary": "【国际原油价格小幅跳水】国际原油价格小幅跳水，WTI原油和布伦特原油涨幅收窄至1%左右。",
+    "content": "【国际原油价格小幅跳水】国际原油价格小幅跳水，WTI原油和布伦特原油涨幅收窄至1%左右。",
+    "full_content": "【国际原油价格小幅跳水】国际原油价格小幅跳水，WTI原油和布伦特原油涨幅收窄至1%左右。",
+    "sort_time": "1772619452045567",
+    "showTime": "2026-03-04 18:17:32",
+    "time": "2026-03-04 18:17:32",
+    "publish_time": "2026-03-04 18:17:32",
+    "raw_data": {
+      "code": "202603043661845567",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1772619452045567",
+      "share": 6,
+      "showTime": "2026-03-04 18:17:32",
+      "stockList": [],
+      "summary": "【国际原油价格小幅跳水】国际原油价格小幅跳水，WTI原油和布伦特原油涨幅收窄至1%左右。",
+      "title": "国际原油价格小幅跳水",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661845567.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "83136640e769746c",
+    "code": "202603043661835566",
+    "title": "美以空袭德黑兰东北部一处住宅区",
+    "summary": "【美以空袭德黑兰东北部一处住宅区】总台记者获悉，据伊朗方面消息，当地时间3月4日，美以对德黑兰东北部一处住宅区发动空袭。袭击发生后，伤亡人数较多，目前具体数字尚未公布。",
+    "content": "【美以空袭德黑兰东北部一处住宅区】总台记者获悉，据伊朗方面消息，当地时间3月4日，美以对德黑兰东北部一处住宅区发动空袭。袭击发生后，伤亡人数较多，目前具体数字尚未公布。",
+    "full_content": "【美以空袭德黑兰东北部一处住宅区】总台记者获悉，据伊朗方面消息，当地时间3月4日，美以对德黑兰东北部一处住宅区发动空袭。袭击发生后，伤亡人数较多，目前具体数字尚未公布。",
+    "sort_time": "1772619348035566",
+    "showTime": "2026-03-04 18:15:48",
+    "time": "2026-03-04 18:15:48",
+    "publish_time": "2026-03-04 18:15:48",
+    "raw_data": {
+      "code": "202603043661835566",
+      "image": [],
+      "pinglun_Num": 15,
+      "realSort": "1772619348035566",
+      "share": 1,
+      "showTime": "2026-03-04 18:15:48",
+      "stockList": [],
+      "summary": "【美以空袭德黑兰东北部一处住宅区】总台记者获悉，据伊朗方面消息，当地时间3月4日，美以对德黑兰东北部一处住宅区发动空袭。袭击发生后，伤亡人数较多，目前具体数字尚未公布。",
+      "title": "美以空袭德黑兰东北部一处住宅区",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661835566.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 15,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "593c305aca6cd955",
+    "code": "202603043661834410",
+    "title": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%",
+    "summary": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。意大利富时MIB指数站上45000点，日内涨1.20%。",
+    "content": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。意大利富时MIB指数站上45000点，日内涨1.20%。",
+    "full_content": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。意大利富时MIB指数站上45000点，日内涨1.20%。",
+    "sort_time": "1772619276034410",
+    "showTime": "2026-03-04 18:14:36",
+    "time": "2026-03-04 18:14:36",
+    "publish_time": "2026-03-04 18:14:36",
+    "raw_data": {
+      "code": "202603043661834410",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1772619276034410",
+      "share": 5,
+      "showTime": "2026-03-04 18:14:36",
+      "stockList": [],
+      "summary": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。意大利富时MIB指数站上45000点，日内涨1.20%。",
+      "title": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661834410.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8e11ce387b48bc30",
+    "code": "202603043661834189",
+    "title": "现货黄金涨超2%",
+    "summary": "现货黄金涨幅扩大至2.07%，报5193.56美元/盎司。",
+    "content": "现货黄金涨幅扩大至2.07%，报5193.56美元/盎司。",
+    "full_content": "现货黄金涨幅扩大至2.07%，报5193.56美元/盎司。",
+    "sort_time": "1772619241034189",
+    "showTime": "2026-03-04 18:14:01",
+    "time": "2026-03-04 18:14:01",
+    "publish_time": "2026-03-04 18:14:01",
+    "raw_data": {
+      "code": "202603043661834189",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772619241034189",
+      "share": 2,
+      "showTime": "2026-03-04 18:14:01",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金涨幅扩大至2.07%，报5193.56美元/盎司。",
+      "title": "现货黄金涨超2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661834189.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "faa8678cec29e9e1",
+    "code": "202603043661834097",
+    "title": "华宝油气LOF：暂停申购及定期定额投资业务",
+    "summary": "【华宝油气LOF：暂停申购及定期定额投资业务】华宝基金管理有限公司3月4日公告，为了保障基金的平稳运作，保护基金份额持有人利益，本基金管理人决定于2026年3月6日起暂停本基金的申购及定期定额投资业务。在暂停上述业务期间，投资者提交的开户、赎回及其他业务仍正常办理。",
+    "content": "【华宝油气LOF：暂停申购及定期定额投资业务】华宝基金管理有限公司3月4日公告，为了保障基金的平稳运作，保护基金份额持有人利益，本基金管理人决定于2026年3月6日起暂停本基金的申购及定期定额投资业务。在暂停上述业务期间，投资者提交的开户、赎回及其他业务仍正常办理。",
+    "full_content": "【华宝油气LOF：暂停申购及定期定额投资业务】华宝基金管理有限公司3月4日公告，为了保障基金的平稳运作，保护基金份额持有人利益，本基金管理人决定于2026年3月6日起暂停本基金的申购及定期定额投资业务。在暂停上述业务期间，投资者提交的开户、赎回及其他业务仍正常办理。",
+    "sort_time": "1772619215034097",
+    "showTime": "2026-03-04 18:13:35",
+    "time": "2026-03-04 18:13:35",
+    "publish_time": "2026-03-04 18:13:35",
+    "raw_data": {
+      "code": "202603043661834097",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1772619215034097",
+      "share": 2,
+      "showTime": "2026-03-04 18:13:35",
+      "stockList": [
+        "0.162411"
+      ],
+      "summary": "【华宝油气LOF：暂停申购及定期定额投资业务】华宝基金管理有限公司3月4日公告，为了保障基金的平稳运作，保护基金份额持有人利益，本基金管理人决定于2026年3月6日起暂停本基金的申购及定期定额投资业务。在暂停上述业务期间，投资者提交的开户、赎回及其他业务仍正常办理。",
+      "title": "华宝油气LOF：暂停申购及定期定额投资业务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661834097.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.162411"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "油气"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "79f85ea3b0746cce",
+    "code": "202603043661833010",
+    "title": "欧盟或将重新讨论俄罗斯天然气进口禁令",
+    "summary": "【欧盟或将重新讨论俄罗斯天然气进口禁令】挪威能源大臣特里耶·奥斯兰3日在挪威首都奥斯陆的一场会议上表示，欧盟一直明确表示，希望摆脱对俄罗斯石油和天然气的依赖，但过去三四天发生的事件让情况变得困难。鉴于当前的地缘政治形势，他认为相关讨论会重新开始。",
+    "content": "【欧盟或将重新讨论俄罗斯天然气进口禁令】挪威能源大臣特里耶·奥斯兰3日在挪威首都奥斯陆的一场会议上表示，欧盟一直明确表示，希望摆脱对俄罗斯石油和天然气的依赖，但过去三四天发生的事件让情况变得困难。鉴于当前的地缘政治形势，他认为相关讨论会重新开始。",
+    "full_content": "【欧盟或将重新讨论俄罗斯天然气进口禁令】挪威能源大臣特里耶·奥斯兰3日在挪威首都奥斯陆的一场会议上表示，欧盟一直明确表示，希望摆脱对俄罗斯石油和天然气的依赖，但过去三四天发生的事件让情况变得困难。鉴于当前的地缘政治形势，他认为相关讨论会重新开始。",
+    "sort_time": "1772618917033010",
+    "showTime": "2026-03-04 18:08:37",
+    "time": "2026-03-04 18:08:37",
+    "publish_time": "2026-03-04 18:08:37",
+    "raw_data": {
+      "code": "202603043661833010",
+      "image": [],
+      "pinglun_Num": 36,
+      "realSort": "1772618917033010",
+      "share": 31,
+      "showTime": "2026-03-04 18:08:37",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "【欧盟或将重新讨论俄罗斯天然气进口禁令】挪威能源大臣特里耶·奥斯兰3日在挪威首都奥斯陆的一场会议上表示，欧盟一直明确表示，希望摆脱对俄罗斯石油和天然气的依赖，但过去三四天发生的事件让情况变得困难。鉴于当前的地缘政治形势，他认为相关讨论会重新开始。",
+      "title": "欧盟或将重新讨论俄罗斯天然气进口禁令",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661833010.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 36,
+    "share_count": 31,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        },
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506",
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "26d681755971a559",
+    "code": "202603043661830693",
+    "title": "特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场",
+    "summary": "【特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场】多年前以特斯拉最大个人股东之一身份进入公众视野的亿万富豪廖凯原表示，他已于周二买入100万股英伟达股票。廖凯原称：“我确信AI不是泡沫，现在只是开始。”“计划很快再买入100万股NVDA，以示对紧张市场的支持。”",
+    "content": "【特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场】多年前以特斯拉最大个人股东之一身份进入公众视野的亿万富豪廖凯原表示，他已于周二买入100万股英伟达股票。廖凯原称：“我确信AI不是泡沫，现在只是开始。”“计划很快再买入100万股NVDA，以示对紧张市场的支持。”",
+    "full_content": "【特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场】多年前以特斯拉最大个人股东之一身份进入公众视野的亿万富豪廖凯原表示，他已于周二买入100万股英伟达股票。廖凯原称：“我确信AI不是泡沫，现在只是开始。”“计划很快再买入100万股NVDA，以示对紧张市场的支持。”",
+    "sort_time": "1772618360030693",
+    "showTime": "2026-03-04 17:59:20",
+    "time": "2026-03-04 17:59:20",
+    "publish_time": "2026-03-04 17:59:20",
+    "raw_data": {
+      "code": "202603043661830693",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1772618360030693",
+      "share": 23,
+      "showTime": "2026-03-04 17:59:20",
+      "stockList": [
+        "90.BK1161",
+        "90.BK0644"
+      ],
+      "summary": "【特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场】多年前以特斯拉最大个人股东之一身份进入公众视野的亿万富豪廖凯原表示，他已于周二买入100万股英伟达股票。廖凯原称：“我确信AI不是泡沫，现在只是开始。”“计划很快再买入100万股NVDA，以示对紧张市场的支持。”",
+      "title": "特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661830693.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "90.BK0644"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 13,
+    "share_count": 23,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "0d94ece4c10de9bb",
+    "code": "202603043661829953",
+    "title": "德国DAX指数涨超1%",
+    "summary": "德国DAX指数突破24000点，日内涨超1%。",
+    "content": "德国DAX指数突破24000点，日内涨超1%。",
+    "full_content": "德国DAX指数突破24000点，日内涨超1%。",
+    "sort_time": "1772618255029953",
+    "showTime": "2026-03-04 17:57:35",
+    "time": "2026-03-04 17:57:35",
+    "publish_time": "2026-03-04 17:57:35",
+    "raw_data": {
+      "code": "202603043661829953",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1772618255029953",
+      "share": 5,
+      "showTime": "2026-03-04 17:57:35",
+      "stockList": [],
+      "summary": "德国DAX指数突破24000点，日内涨超1%。",
+      "title": "德国DAX指数涨超1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661829953.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "029a175db1e78bb7",
+    "code": "202603043661828822",
+    "title": "以军称袭击了伊朗伊斯法罕一弹道导弹设施",
+    "summary": "【以军称袭击了伊朗伊斯法罕一弹道导弹设施】以色列国防军4日发布声明说，以军前一晚对伊朗境内数十处目标发动大规模袭击，包括位于伊斯法罕的一处用于储存、生产和发射弹道导弹的设施。",
+    "content": "【以军称袭击了伊朗伊斯法罕一弹道导弹设施】以色列国防军4日发布声明说，以军前一晚对伊朗境内数十处目标发动大规模袭击，包括位于伊斯法罕的一处用于储存、生产和发射弹道导弹的设施。",
+    "full_content": "【以军称袭击了伊朗伊斯法罕一弹道导弹设施】以色列国防军4日发布声明说，以军前一晚对伊朗境内数十处目标发动大规模袭击，包括位于伊斯法罕的一处用于储存、生产和发射弹道导弹的设施。",
+    "sort_time": "1772618208028822",
+    "showTime": "2026-03-04 17:56:48",
+    "time": "2026-03-04 17:56:48",
+    "publish_time": "2026-03-04 17:56:48",
+    "raw_data": {
+      "code": "202603043661828822",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1772618208028822",
+      "share": 3,
+      "showTime": "2026-03-04 17:56:48",
+      "stockList": [],
+      "summary": "【以军称袭击了伊朗伊斯法罕一弹道导弹设施】以色列国防军4日发布声明说，以军前一晚对伊朗境内数十处目标发动大规模袭击，包括位于伊斯法罕的一处用于储存、生产和发射弹道导弹的设施。",
+      "title": "以军称袭击了伊朗伊斯法罕一弹道导弹设施",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661828822.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "1e62df6d3697c3f2",
+    "code": "202603043661827541",
+    "title": "泰国股市收跌5.6%",
+    "summary": "泰国股市收跌5.6%，报1384.61点。",
+    "content": "泰国股市收跌5.6%，报1384.61点。",
+    "full_content": "泰国股市收跌5.6%，报1384.61点。",
+    "sort_time": "1772618185027541",
+    "showTime": "2026-03-04 17:56:25",
+    "time": "2026-03-04 17:56:25",
+    "publish_time": "2026-03-04 17:56:25",
+    "raw_data": {
+      "code": "202603043661827541",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772618185027541",
+      "share": 2,
+      "showTime": "2026-03-04 17:56:25",
+      "stockList": [],
+      "summary": "泰国股市收跌5.6%，报1384.61点。",
+      "title": "泰国股市收跌5.6%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661827541.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "2cb378df0c7ccff3",
     "code": "202603043661827341",
     "title": "现货白银日内涨幅扩大至5%",

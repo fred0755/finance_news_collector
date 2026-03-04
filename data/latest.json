@@ -1,5 +1,599 @@
 [
   {
+    "id": "ebadae8269f1c162",
+    "code": "202603043661848927",
+    "title": "全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%",
+    "summary": "【全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%】全球部分风险资产反弹，截至发稿，道琼斯指数期货涨0.20%，标普500指数期货涨0.30%，纳斯达克100指数期货涨0.40%。欧洲 STOXX 600指数延续涨势，上涨1.2%；西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。比特币涨至71694.8美元，过去24小时内涨7.88%。重新开盘后，富时A50中国指数期货涨幅扩大至0.8%。",
+    "content": "【全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%】全球部分风险资产反弹，截至发稿，道琼斯指数期货涨0.20%，标普500指数期货涨0.30%，纳斯达克100指数期货涨0.40%。欧洲 STOXX 600指数延续涨势，上涨1.2%；西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。比特币涨至71694.8美元，过去24小时内涨7.88%。重新开盘后，富时A50中国指数期货涨幅扩大至0.8%。",
+    "full_content": "【全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%】全球部分风险资产反弹，截至发稿，道琼斯指数期货涨0.20%，标普500指数期货涨0.30%，纳斯达克100指数期货涨0.40%。欧洲 STOXX 600指数延续涨势，上涨1.2%；西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。比特币涨至71694.8美元，过去24小时内涨7.88%。重新开盘后，富时A50中国指数期货涨幅扩大至0.8%。",
+    "sort_time": "1772619654048927",
+    "showTime": "2026-03-04 18:20:54",
+    "time": "2026-03-04 18:20:54",
+    "publish_time": "2026-03-04 18:20:54",
+    "raw_data": {
+      "code": "202603043661848927",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1772619654048927",
+      "share": 15,
+      "showTime": "2026-03-04 18:20:54",
+      "stockList": [
+        "90.BK0830",
+        "1.512550"
+      ],
+      "summary": "【全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%】全球部分风险资产反弹，截至发稿，道琼斯指数期货涨0.20%，标普500指数期货涨0.30%，纳斯达克100指数期货涨0.40%。欧洲 STOXX 600指数延续涨势，上涨1.2%；西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。比特币涨至71694.8美元，过去24小时内涨7.88%。重新开盘后，富时A50中国指数期货涨幅扩大至0.8%。",
+      "title": "全球部分风险资产反弹：欧美股市上涨 比特币拉升 富时A50中国指数期货涨近1%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661848927.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0830",
+      "1.512550"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 15,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C008",
+          "name": "区块链",
+          "matched_keyword": "比特币"
+        },
+        {
+          "id": "C814",
+          "name": "ST板块",
+          "matched_keyword": "ST"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C008",
+        "C814"
+      ]
+    }
+  },
+  {
+    "id": "129cf1c5ac5014ff",
+    "code": "202603043661846229",
+    "title": "欧洲天然气价格下跌7%",
+    "summary": "欧洲天然气价格下跌7%。",
+    "content": "欧洲天然气价格下跌7%。",
+    "full_content": "欧洲天然气价格下跌7%。",
+    "sort_time": "1772619485046229",
+    "showTime": "2026-03-04 18:18:05",
+    "time": "2026-03-04 18:18:05",
+    "publish_time": "2026-03-04 18:18:05",
+    "raw_data": {
+      "code": "202603043661846229",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1772619485046229",
+      "share": 17,
+      "showTime": "2026-03-04 18:18:05",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "欧洲天然气价格下跌7%。",
+      "title": "欧洲天然气价格下跌7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661846229.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 12,
+    "share_count": 17,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "1773026c14885f2c",
+    "code": "202603043661845567",
+    "title": "国际原油价格小幅跳水",
+    "summary": "【国际原油价格小幅跳水】国际原油价格小幅跳水，WTI原油和布伦特原油涨幅收窄至1%左右。",
+    "content": "【国际原油价格小幅跳水】国际原油价格小幅跳水，WTI原油和布伦特原油涨幅收窄至1%左右。",
+    "full_content": "【国际原油价格小幅跳水】国际原油价格小幅跳水，WTI原油和布伦特原油涨幅收窄至1%左右。",
+    "sort_time": "1772619452045567",
+    "showTime": "2026-03-04 18:17:32",
+    "time": "2026-03-04 18:17:32",
+    "publish_time": "2026-03-04 18:17:32",
+    "raw_data": {
+      "code": "202603043661845567",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1772619452045567",
+      "share": 6,
+      "showTime": "2026-03-04 18:17:32",
+      "stockList": [],
+      "summary": "【国际原油价格小幅跳水】国际原油价格小幅跳水，WTI原油和布伦特原油涨幅收窄至1%左右。",
+      "title": "国际原油价格小幅跳水",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661845567.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "83136640e769746c",
+    "code": "202603043661835566",
+    "title": "美以空袭德黑兰东北部一处住宅区",
+    "summary": "【美以空袭德黑兰东北部一处住宅区】总台记者获悉，据伊朗方面消息，当地时间3月4日，美以对德黑兰东北部一处住宅区发动空袭。袭击发生后，伤亡人数较多，目前具体数字尚未公布。",
+    "content": "【美以空袭德黑兰东北部一处住宅区】总台记者获悉，据伊朗方面消息，当地时间3月4日，美以对德黑兰东北部一处住宅区发动空袭。袭击发生后，伤亡人数较多，目前具体数字尚未公布。",
+    "full_content": "【美以空袭德黑兰东北部一处住宅区】总台记者获悉，据伊朗方面消息，当地时间3月4日，美以对德黑兰东北部一处住宅区发动空袭。袭击发生后，伤亡人数较多，目前具体数字尚未公布。",
+    "sort_time": "1772619348035566",
+    "showTime": "2026-03-04 18:15:48",
+    "time": "2026-03-04 18:15:48",
+    "publish_time": "2026-03-04 18:15:48",
+    "raw_data": {
+      "code": "202603043661835566",
+      "image": [],
+      "pinglun_Num": 15,
+      "realSort": "1772619348035566",
+      "share": 1,
+      "showTime": "2026-03-04 18:15:48",
+      "stockList": [],
+      "summary": "【美以空袭德黑兰东北部一处住宅区】总台记者获悉，据伊朗方面消息，当地时间3月4日，美以对德黑兰东北部一处住宅区发动空袭。袭击发生后，伤亡人数较多，目前具体数字尚未公布。",
+      "title": "美以空袭德黑兰东北部一处住宅区",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661835566.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 15,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "593c305aca6cd955",
+    "code": "202603043661834410",
+    "title": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%",
+    "summary": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。意大利富时MIB指数站上45000点，日内涨1.20%。",
+    "content": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。意大利富时MIB指数站上45000点，日内涨1.20%。",
+    "full_content": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。意大利富时MIB指数站上45000点，日内涨1.20%。",
+    "sort_time": "1772619276034410",
+    "showTime": "2026-03-04 18:14:36",
+    "time": "2026-03-04 18:14:36",
+    "publish_time": "2026-03-04 18:14:36",
+    "raw_data": {
+      "code": "202603043661834410",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1772619276034410",
+      "share": 5,
+      "showTime": "2026-03-04 18:14:36",
+      "stockList": [],
+      "summary": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%。意大利富时MIB指数站上45000点，日内涨1.20%。",
+      "title": "西班牙IBEX35指数、法国CAC40指数日内涨幅达1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661834410.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8e11ce387b48bc30",
+    "code": "202603043661834189",
+    "title": "现货黄金涨超2%",
+    "summary": "现货黄金涨幅扩大至2.07%，报5193.56美元/盎司。",
+    "content": "现货黄金涨幅扩大至2.07%，报5193.56美元/盎司。",
+    "full_content": "现货黄金涨幅扩大至2.07%，报5193.56美元/盎司。",
+    "sort_time": "1772619241034189",
+    "showTime": "2026-03-04 18:14:01",
+    "time": "2026-03-04 18:14:01",
+    "publish_time": "2026-03-04 18:14:01",
+    "raw_data": {
+      "code": "202603043661834189",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772619241034189",
+      "share": 2,
+      "showTime": "2026-03-04 18:14:01",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金涨幅扩大至2.07%，报5193.56美元/盎司。",
+      "title": "现货黄金涨超2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661834189.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "faa8678cec29e9e1",
+    "code": "202603043661834097",
+    "title": "华宝油气LOF：暂停申购及定期定额投资业务",
+    "summary": "【华宝油气LOF：暂停申购及定期定额投资业务】华宝基金管理有限公司3月4日公告，为了保障基金的平稳运作，保护基金份额持有人利益，本基金管理人决定于2026年3月6日起暂停本基金的申购及定期定额投资业务。在暂停上述业务期间，投资者提交的开户、赎回及其他业务仍正常办理。",
+    "content": "【华宝油气LOF：暂停申购及定期定额投资业务】华宝基金管理有限公司3月4日公告，为了保障基金的平稳运作，保护基金份额持有人利益，本基金管理人决定于2026年3月6日起暂停本基金的申购及定期定额投资业务。在暂停上述业务期间，投资者提交的开户、赎回及其他业务仍正常办理。",
+    "full_content": "【华宝油气LOF：暂停申购及定期定额投资业务】华宝基金管理有限公司3月4日公告，为了保障基金的平稳运作，保护基金份额持有人利益，本基金管理人决定于2026年3月6日起暂停本基金的申购及定期定额投资业务。在暂停上述业务期间，投资者提交的开户、赎回及其他业务仍正常办理。",
+    "sort_time": "1772619215034097",
+    "showTime": "2026-03-04 18:13:35",
+    "time": "2026-03-04 18:13:35",
+    "publish_time": "2026-03-04 18:13:35",
+    "raw_data": {
+      "code": "202603043661834097",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1772619215034097",
+      "share": 2,
+      "showTime": "2026-03-04 18:13:35",
+      "stockList": [
+        "0.162411"
+      ],
+      "summary": "【华宝油气LOF：暂停申购及定期定额投资业务】华宝基金管理有限公司3月4日公告，为了保障基金的平稳运作，保护基金份额持有人利益，本基金管理人决定于2026年3月6日起暂停本基金的申购及定期定额投资业务。在暂停上述业务期间，投资者提交的开户、赎回及其他业务仍正常办理。",
+      "title": "华宝油气LOF：暂停申购及定期定额投资业务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661834097.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.162411"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "油气"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "79f85ea3b0746cce",
+    "code": "202603043661833010",
+    "title": "欧盟或将重新讨论俄罗斯天然气进口禁令",
+    "summary": "【欧盟或将重新讨论俄罗斯天然气进口禁令】挪威能源大臣特里耶·奥斯兰3日在挪威首都奥斯陆的一场会议上表示，欧盟一直明确表示，希望摆脱对俄罗斯石油和天然气的依赖，但过去三四天发生的事件让情况变得困难。鉴于当前的地缘政治形势，他认为相关讨论会重新开始。",
+    "content": "【欧盟或将重新讨论俄罗斯天然气进口禁令】挪威能源大臣特里耶·奥斯兰3日在挪威首都奥斯陆的一场会议上表示，欧盟一直明确表示，希望摆脱对俄罗斯石油和天然气的依赖，但过去三四天发生的事件让情况变得困难。鉴于当前的地缘政治形势，他认为相关讨论会重新开始。",
+    "full_content": "【欧盟或将重新讨论俄罗斯天然气进口禁令】挪威能源大臣特里耶·奥斯兰3日在挪威首都奥斯陆的一场会议上表示，欧盟一直明确表示，希望摆脱对俄罗斯石油和天然气的依赖，但过去三四天发生的事件让情况变得困难。鉴于当前的地缘政治形势，他认为相关讨论会重新开始。",
+    "sort_time": "1772618917033010",
+    "showTime": "2026-03-04 18:08:37",
+    "time": "2026-03-04 18:08:37",
+    "publish_time": "2026-03-04 18:08:37",
+    "raw_data": {
+      "code": "202603043661833010",
+      "image": [],
+      "pinglun_Num": 36,
+      "realSort": "1772618917033010",
+      "share": 31,
+      "showTime": "2026-03-04 18:08:37",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "【欧盟或将重新讨论俄罗斯天然气进口禁令】挪威能源大臣特里耶·奥斯兰3日在挪威首都奥斯陆的一场会议上表示，欧盟一直明确表示，希望摆脱对俄罗斯石油和天然气的依赖，但过去三四天发生的事件让情况变得困难。鉴于当前的地缘政治形势，他认为相关讨论会重新开始。",
+      "title": "欧盟或将重新讨论俄罗斯天然气进口禁令",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661833010.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 36,
+    "share_count": 31,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        },
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506",
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "26d681755971a559",
+    "code": "202603043661830693",
+    "title": "特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场",
+    "summary": "【特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场】多年前以特斯拉最大个人股东之一身份进入公众视野的亿万富豪廖凯原表示，他已于周二买入100万股英伟达股票。廖凯原称：“我确信AI不是泡沫，现在只是开始。”“计划很快再买入100万股NVDA，以示对紧张市场的支持。”",
+    "content": "【特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场】多年前以特斯拉最大个人股东之一身份进入公众视野的亿万富豪廖凯原表示，他已于周二买入100万股英伟达股票。廖凯原称：“我确信AI不是泡沫，现在只是开始。”“计划很快再买入100万股NVDA，以示对紧张市场的支持。”",
+    "full_content": "【特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场】多年前以特斯拉最大个人股东之一身份进入公众视野的亿万富豪廖凯原表示，他已于周二买入100万股英伟达股票。廖凯原称：“我确信AI不是泡沫，现在只是开始。”“计划很快再买入100万股NVDA，以示对紧张市场的支持。”",
+    "sort_time": "1772618360030693",
+    "showTime": "2026-03-04 17:59:20",
+    "time": "2026-03-04 17:59:20",
+    "publish_time": "2026-03-04 17:59:20",
+    "raw_data": {
+      "code": "202603043661830693",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1772618360030693",
+      "share": 23,
+      "showTime": "2026-03-04 17:59:20",
+      "stockList": [
+        "90.BK1161",
+        "90.BK0644"
+      ],
+      "summary": "【特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场】多年前以特斯拉最大个人股东之一身份进入公众视野的亿万富豪廖凯原表示，他已于周二买入100万股英伟达股票。廖凯原称：“我确信AI不是泡沫，现在只是开始。”“计划很快再买入100万股NVDA，以示对紧张市场的支持。”",
+      "title": "特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661830693.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "90.BK0644"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 13,
+    "share_count": 23,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "0d94ece4c10de9bb",
+    "code": "202603043661829953",
+    "title": "德国DAX指数涨超1%",
+    "summary": "德国DAX指数突破24000点，日内涨超1%。",
+    "content": "德国DAX指数突破24000点，日内涨超1%。",
+    "full_content": "德国DAX指数突破24000点，日内涨超1%。",
+    "sort_time": "1772618255029953",
+    "showTime": "2026-03-04 17:57:35",
+    "time": "2026-03-04 17:57:35",
+    "publish_time": "2026-03-04 17:57:35",
+    "raw_data": {
+      "code": "202603043661829953",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1772618255029953",
+      "share": 5,
+      "showTime": "2026-03-04 17:57:35",
+      "stockList": [],
+      "summary": "德国DAX指数突破24000点，日内涨超1%。",
+      "title": "德国DAX指数涨超1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661829953.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "029a175db1e78bb7",
+    "code": "202603043661828822",
+    "title": "以军称袭击了伊朗伊斯法罕一弹道导弹设施",
+    "summary": "【以军称袭击了伊朗伊斯法罕一弹道导弹设施】以色列国防军4日发布声明说，以军前一晚对伊朗境内数十处目标发动大规模袭击，包括位于伊斯法罕的一处用于储存、生产和发射弹道导弹的设施。",
+    "content": "【以军称袭击了伊朗伊斯法罕一弹道导弹设施】以色列国防军4日发布声明说，以军前一晚对伊朗境内数十处目标发动大规模袭击，包括位于伊斯法罕的一处用于储存、生产和发射弹道导弹的设施。",
+    "full_content": "【以军称袭击了伊朗伊斯法罕一弹道导弹设施】以色列国防军4日发布声明说，以军前一晚对伊朗境内数十处目标发动大规模袭击，包括位于伊斯法罕的一处用于储存、生产和发射弹道导弹的设施。",
+    "sort_time": "1772618208028822",
+    "showTime": "2026-03-04 17:56:48",
+    "time": "2026-03-04 17:56:48",
+    "publish_time": "2026-03-04 17:56:48",
+    "raw_data": {
+      "code": "202603043661828822",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1772618208028822",
+      "share": 3,
+      "showTime": "2026-03-04 17:56:48",
+      "stockList": [],
+      "summary": "【以军称袭击了伊朗伊斯法罕一弹道导弹设施】以色列国防军4日发布声明说，以军前一晚对伊朗境内数十处目标发动大规模袭击，包括位于伊斯法罕的一处用于储存、生产和发射弹道导弹的设施。",
+      "title": "以军称袭击了伊朗伊斯法罕一弹道导弹设施",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661828822.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "1e62df6d3697c3f2",
+    "code": "202603043661827541",
+    "title": "泰国股市收跌5.6%",
+    "summary": "泰国股市收跌5.6%，报1384.61点。",
+    "content": "泰国股市收跌5.6%，报1384.61点。",
+    "full_content": "泰国股市收跌5.6%，报1384.61点。",
+    "sort_time": "1772618185027541",
+    "showTime": "2026-03-04 17:56:25",
+    "time": "2026-03-04 17:56:25",
+    "publish_time": "2026-03-04 17:56:25",
+    "raw_data": {
+      "code": "202603043661827541",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772618185027541",
+      "share": 2,
+      "showTime": "2026-03-04 17:56:25",
+      "stockList": [],
+      "summary": "泰国股市收跌5.6%，报1384.61点。",
+      "title": "泰国股市收跌5.6%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603043661827541.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "2cb378df0c7ccff3",
     "code": "202603043661827341",
     "title": "现货白银日内涨幅扩大至5%",
@@ -13,9 +607,9 @@
     "raw_data": {
       "code": "202603043661827341",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1772618070027341",
-      "share": 1,
+      "share": 6,
       "showTime": "2026-03-04 17:54:30",
       "stockList": [
         "90.BK1616"
@@ -33,8 +627,8 @@
       "90.BK1616"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 1,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -56,9 +650,9 @@
     "raw_data": {
       "code": "202603043661827167",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 7,
       "realSort": "1772617902027167",
-      "share": 1,
+      "share": 9,
       "showTime": "2026-03-04 17:51:42",
       "stockList": [],
       "summary": "【纳斯达克100指数期货转涨 盘中一度下跌1%】道琼斯指数期货跌0.12%，标普500指数期货涨0.01%，纳斯达克100指数期货涨0.04%。",
@@ -72,8 +666,8 @@
     "sentiment": "bearish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
+    "comment_count": 7,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -95,9 +689,9 @@
     "raw_data": {
       "code": "202603043661827070",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 26,
       "realSort": "1772617876027070",
-      "share": 4,
+      "share": 17,
       "showTime": "2026-03-04 17:51:16",
       "stockList": [],
       "summary": "【消息人士：沙特阿美拉斯坦努拉炼油厂再次遭不明飞行物袭击】据两位消息人士称，沙特阿美拉斯坦努拉炼油厂（RasTanura）再次遭不明飞行物袭击。",
@@ -111,8 +705,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 4,
+    "comment_count": 26,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -136,12 +730,9 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1772617725026069",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-03-04 17:48:45",
-      "stockList": [
-        "90.BK1032",
-        "1.600021"
-      ],
+      "stockList": [],
       "summary": "【上海电力：江苏滨海南区H5#、东台H7#海上风电项目获得核准】上海电力(600021.SH)公告称，公司控股子公司国家电投集团江苏电力有限公司收到江苏省发展和改革委员会下发的《关于国家电投滨海南区H5#海上风电项目核准的批复》和《关于国家电投东台H7#海上风电项目核准的批复》，滨海南区H5#、东台H7#海上风电项目获得核准。",
       "title": "上海电力：江苏滨海南区H5#、东台H7#海上风电项目获得核准",
       "titleColor": 0
@@ -149,15 +740,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603043661826069.html",
     "category": "其他",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1032",
-      "1.600021"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 1,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -193,7 +781,7 @@
     "raw_data": {
       "code": "202603043661821976",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 7,
       "realSort": "1772617488021976",
       "share": 0,
       "showTime": "2026-03-04 17:44:48",
@@ -209,7 +797,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 7,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -232,9 +820,9 @@
     "raw_data": {
       "code": "202603043661821769",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 8,
       "realSort": "1772617467021769",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-04 17:44:27",
       "stockList": [],
       "summary": "【以军称对伊朗伊斯法罕和设拉子的军事目标发动空袭】当地时间4日，以色列国防军发言人埃菲德弗林在新闻发布会上表示，以色列空军3日晚至4日凌晨对伊朗伊斯法罕和设拉子的军事目标发动了一系列空袭。德弗林称，这是以军在当前对伊朗的军事行动中首次在这两个地区发动袭击。",
@@ -248,8 +836,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 0,
+    "comment_count": 8,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -279,9 +867,9 @@
     "raw_data": {
       "code": "202603043661821456",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1772617430021456",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-04 17:43:50",
       "stockList": [],
       "summary": "【俄外交部发言人：杀害哈梅内伊等人的行为是卑鄙行径】当地时间3月4日，俄罗斯外交部发言人扎哈罗娃表示，杀害伊朗最高领袖哈梅内伊及多位领导人的行为是卑鄙行径。美国和以色列肆意妄为，正将中东地区进一步推向混乱的深渊。",
@@ -295,8 +883,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
+    "comment_count": 1,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -318,9 +906,9 @@
     "raw_data": {
       "code": "202603043661820422",
       "image": [],
-      "pinglun_Num": 44,
+      "pinglun_Num": 42,
       "realSort": "1772617379020422",
-      "share": 152,
+      "share": 267,
       "showTime": "2026-03-04 17:42:59",
       "stockList": [],
       "summary": "【伊朗确定最高领袖候选人】据伊朗媒体4日报道，伊朗已确定最高领袖的几位候选人，即将从中选出最高领袖。",
@@ -334,8 +922,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 44,
-    "share_count": 152,
+    "comment_count": 42,
+    "share_count": 267,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -357,9 +945,9 @@
     "raw_data": {
       "code": "202603043661821862",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 31,
       "realSort": "1772617370021862",
-      "share": 17,
+      "share": 43,
       "showTime": "2026-03-04 17:42:50",
       "stockList": [],
       "summary": "【多家券商试水7×24小时银证转账】记者获悉，随着资本市场投资者需求的不断升级，目前便捷化、高效化的资金服务成为行业竞争的焦点之一，已有多家券商探索上线7×24小时银证转账服务，打破传统交易时段限制，实现资金“随转随用”，更有券商将此作为差异化竞争的重点。",
@@ -373,8 +961,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 17,
+    "comment_count": 31,
+    "share_count": 43,
     "tags": {
       "industries": [
         {
@@ -508,9 +1096,9 @@
     "raw_data": {
       "code": "202603043661820251",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 21,
       "realSort": "1772617276020251",
-      "share": 8,
+      "share": 24,
       "showTime": "2026-03-04 17:41:16",
       "stockList": [
         "90.BK0427",
@@ -530,8 +1118,8 @@
       "90.BK0428"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 8,
+    "comment_count": 21,
+    "share_count": 24,
     "tags": {
       "industries": [],
       "concepts": [
@@ -567,9 +1155,9 @@
     "raw_data": {
       "code": "202603043661820073",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1772617269020073",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-04 17:41:09",
       "stockList": [
         "90.BK0486"
@@ -587,8 +1175,8 @@
       "90.BK0486"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -612,7 +1200,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1772617105017054",
-      "share": 10,
+      "share": 13,
       "showTime": "2026-03-04 17:38:25",
       "stockList": [],
       "summary": "【美股存储概念股盘前拉升 闪迪涨超2%】美股存储概念股盘前拉升，闪迪涨超2%，美光科技、西部数据涨超1%，此前均跌超1%。",
@@ -627,7 +1215,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 10,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -708,9 +1296,9 @@
     "raw_data": {
       "code": "202603043661815835",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 13,
       "realSort": "1772616918015835",
-      "share": 4,
+      "share": 6,
       "showTime": "2026-03-04 17:35:18",
       "stockList": [],
       "summary": "【花旗经济学家：中国头部AI模型实力比肩美国】花旗集团大中华区首席经济学家余向荣表示，当前中国头部AI大模型的表现可与美国顶尖模型比肩，毫不逊色。据测算，中国芯片自给率在过去十年里翻了一番。在基础研发层面，现在全球约有七成AI专利来自中国；在顶尖AI研究人才数量方面，中国也已超过美国。",
@@ -724,8 +1312,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 4,
+    "comment_count": 13,
+    "share_count": 6,
     "tags": {
       "industries": [
         {
@@ -771,9 +1359,9 @@
     "raw_data": {
       "code": "202603043661813144",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 26,
       "realSort": "1772616837013144",
-      "share": 22,
+      "share": 24,
       "showTime": "2026-03-04 17:33:57",
       "stockList": [],
       "summary": "【伊朗军舰遭袭101人失踪78人伤】据斯里兰卡海军及国防部方面消息，今天（3月4日） 伊朗“艾瑞斯· 迪纳”号护卫舰在斯里兰卡南部海岸附近沉没。目前仍有101人失踪，78人受伤。据报道，当时舰上共有约180人。据称这艘舰船是遭到了潜艇袭击。",
@@ -787,8 +1375,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 22,
+    "comment_count": 26,
+    "share_count": 24,
     "tags": {
       "industries": [],
       "concepts": [
@@ -818,9 +1406,9 @@
     "raw_data": {
       "code": "202603043661812545",
       "image": [],
-      "pinglun_Num": 26,
+      "pinglun_Num": 28,
       "realSort": "1772616780012545",
-      "share": 8,
+      "share": 10,
       "showTime": "2026-03-04 17:33:00",
       "stockList": [],
       "summary": "【以大使说对伊袭击不会变无休止战争】以色列驻日本大使吉拉德科恩在今天（3月4日）在日本举行的一场记者会上称，对伊朗的袭击不会变成一场无休止的战争，但以色列“无论打多久都可以”。科恩希望伊朗的核计划完全退回到零，并确保伊朗不会拥有核武器，在想要和需要的东西得到满足之前，以色列不会停手。",
@@ -834,8 +1422,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 26,
-    "share_count": 8,
+    "comment_count": 28,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -898,7 +1486,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1772616561008611",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-04 17:29:21",
       "stockList": [],
       "summary": "【机构：DDR4和DDR5部分颗粒小幅下跌】据集邦数据，今日国际DRAM颗粒现货价格有涨有跌，仍然是DDR4和DDR5部分颗粒下跌或稳定较多，DDR3部分颗粒整体上涨。其中DDR3 2Gb 256Mx8 1600/1866上涨2.65%，均价3.875美元，DDR4 16Gb (2Gx8) 2666下跌0.35%，均价70.75美元。",
@@ -913,7 +1501,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 3,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -943,9 +1531,9 @@
     "raw_data": {
       "code": "202603043661807358",
       "image": [],
-      "pinglun_Num": 165,
+      "pinglun_Num": 208,
       "realSort": "1772616458007358",
-      "share": 198,
+      "share": 260,
       "showTime": "2026-03-04 17:27:38",
       "stockList": [],
       "summary": "【哈梅内伊高级助理：伊朗无意与美国谈判】已故伊朗最高领袖哈梅内伊的高级助理穆罕默德·穆赫贝尔4日说，伊朗无意与美国谈判，战争“想打多久就打多久”。",
@@ -959,8 +1547,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 165,
-    "share_count": 198,
+    "comment_count": 208,
+    "share_count": 260,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -982,9 +1570,9 @@
     "raw_data": {
       "code": "202603043661806896",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1772616423006896",
-      "share": 10,
+      "share": 12,
       "showTime": "2026-03-04 17:27:03",
       "stockList": [
         "90.BK0732",
@@ -1004,8 +1592,8 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 10,
+    "comment_count": 2,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1080,9 +1668,9 @@
     "raw_data": {
       "code": "202603043661806276",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1772616377006276",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-03-04 17:26:17",
       "stockList": [
         "90.BK0800",
@@ -1102,8 +1690,8 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 4,
+    "comment_count": 3,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1141,7 +1729,7 @@
       "image": [],
       "pinglun_Num": 7,
       "realSort": "1772616158005761",
-      "share": 6,
+      "share": 9,
       "showTime": "2026-03-04 17:22:38",
       "stockList": [],
       "summary": "【国巨第三次上调聚合物钽电容价格 4月1日起生效】全球领先的被动元件制造商国巨集团（YAGEO）通过旗下子公司基美（KEMET）向客户发出调价通知，宣布将对部分聚合物钽电容产品进行价格调整，新价格计划于4月1日起正式生效。",
@@ -1156,7 +1744,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 7,
-    "share_count": 6,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1178,9 +1766,9 @@
     "raw_data": {
       "code": "202603043661800811",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 23,
       "realSort": "1772616017000811",
-      "share": 6,
+      "share": 8,
       "showTime": "2026-03-04 17:20:17",
       "stockList": [],
       "summary": "【西班牙称有能力应对美国贸易威胁】西班牙方面2日表示，该国两处军事基地不会被授权用于对伊朗的军事打击行动。3日，美国总统特朗普威胁切断与西班牙贸易关系。对此，西班牙政府当天回应说，该国拥有必要资源来应对可能产生的影响，并将支持受冲击行业，推动供应链多元化。",
@@ -1194,8 +1782,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 18,
-    "share_count": 6,
+    "comment_count": 23,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1225,9 +1813,9 @@
     "raw_data": {
       "code": "202603043661799859",
       "image": [],
-      "pinglun_Num": 60,
+      "pinglun_Num": 89,
       "realSort": "1772615967099859",
-      "share": 53,
+      "share": 70,
       "showTime": "2026-03-04 17:19:27",
       "stockList": [],
       "summary": "【伊朗外交部：全力以赴打赢“存亡之战”】据伊朗方面3月4日消息，伊朗伊斯兰共和国军队发布第9号公告说，过去24小时，位于伊斯法罕省等地的哈塔姆安比亚联合防空指挥部的防御系统摧毁了6架美以“竞技神”无人机，共计击落35架美以无人机。此前，伊朗外交部发言人巴加埃3月3日表示，伊朗武装部队和人民誓言在这场“存亡之战”中全力以赴。",
@@ -1241,8 +1829,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 60,
-    "share_count": 53,
+    "comment_count": 89,
+    "share_count": 70,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1272,9 +1860,9 @@
     "raw_data": {
       "code": "202603043661798313",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 17,
       "realSort": "1772615836098313",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-03-04 17:17:16",
       "stockList": [
         "90.BK0800",
@@ -1294,8 +1882,8 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 15,
-    "share_count": 4,
+    "comment_count": 17,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1325,9 +1913,9 @@
     "raw_data": {
       "code": "202603043661799463",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 16,
       "realSort": "1772615831099463",
-      "share": 10,
+      "share": 12,
       "showTime": "2026-03-04 17:17:11",
       "stockList": [
         "90.BK0459",
@@ -1347,8 +1935,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 15,
-    "share_count": 10,
+    "comment_count": 16,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1474,9 +2062,9 @@
     "raw_data": {
       "code": "202603043661795710",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 14,
       "realSort": "1772615591095710",
-      "share": 18,
+      "share": 23,
       "showTime": "2026-03-04 17:13:11",
       "stockList": [
         "90.BK1028",
@@ -1496,8 +2084,8 @@
       "90.BK0427"
     ],
     "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 18,
+    "comment_count": 14,
+    "share_count": 23,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1527,9 +2115,9 @@
     "raw_data": {
       "code": "202603043661795533",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 17,
       "realSort": "1772615571095533",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-03-04 17:12:51",
       "stockList": [],
       "summary": "【桑切斯：西班牙政府的立场是拒绝战争】总台记者获悉，当地时间3月4日，西班牙首相桑切斯就近期美国袭击伊朗一事发表讲话，他表示，西班牙政府反对破坏国际法；反对动用武力解决冲突；同时反对重蹈覆辙，西班牙的立场可以归结为一句话，那就是“拒绝战争”。",
@@ -1543,8 +2131,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 2,
+    "comment_count": 17,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1566,7 +2154,7 @@
     "raw_data": {
       "code": "202603043661787954",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 12,
       "realSort": "1772615249087954",
       "share": 1,
       "showTime": "2026-03-04 17:07:29",
@@ -1588,7 +2176,7 @@
       "105.COIN"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
+    "comment_count": 12,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1619,9 +2207,9 @@
     "raw_data": {
       "code": "202603043661785129",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 8,
       "realSort": "1772615207085129",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-04 17:06:47",
       "stockList": [
         "1.603232"
@@ -1639,8 +2227,8 @@
       "1.603232"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 3,
+    "comment_count": 8,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1662,7 +2250,7 @@
     "raw_data": {
       "code": "202603043661784429",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1772615117084429",
       "share": 2,
       "showTime": "2026-03-04 17:05:17",
@@ -1682,7 +2270,7 @@
       "0.161226"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 2,
     "tags": {
       "industries": [
@@ -1731,7 +2319,7 @@
     "raw_data": {
       "code": "202603043661782759",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 13,
       "realSort": "1772615095082759",
       "share": 5,
       "showTime": "2026-03-04 17:04:55",
@@ -1747,7 +2335,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
+    "comment_count": 13,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -1813,544 +2401,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "ee56dc7fb1b0d499",
-    "code": "202603043661780996",
-    "title": "欧元区2月服务业PMI终值51.9 预期51.8",
-    "summary": "欧元区2月服务业PMI终值51.9，预期51.8；2月综合PMI终值51.9，预期51.9。",
-    "content": "欧元区2月服务业PMI终值51.9，预期51.8；2月综合PMI终值51.9，预期51.9。",
-    "full_content": "欧元区2月服务业PMI终值51.9，预期51.8；2月综合PMI终值51.9，预期51.9。",
-    "sort_time": "1772614916080996",
-    "showTime": "2026-03-04 17:01:56",
-    "time": "2026-03-04 17:01:56",
-    "publish_time": "2026-03-04 17:01:56",
-    "raw_data": {
-      "code": "202603043661780996",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772614916080996",
-      "share": 0,
-      "showTime": "2026-03-04 17:01:56",
-      "stockList": [],
-      "summary": "欧元区2月服务业PMI终值51.9，预期51.8；2月综合PMI终值51.9，预期51.9。",
-      "title": "欧元区2月服务业PMI终值51.9 预期51.8",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661780996.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d9918d8cc7dceb49",
-    "code": "202603043661779015",
-    "title": "以军称在德黑兰上空击落伊朗战机",
-    "summary": "【以军称在德黑兰上空击落伊朗战机】以色列国防军4日称，一架以色列空军F-35I战斗机在伊朗首都德黑兰上空击落了一架伊朗空军战斗机。",
-    "content": "【以军称在德黑兰上空击落伊朗战机】以色列国防军4日称，一架以色列空军F-35I战斗机在伊朗首都德黑兰上空击落了一架伊朗空军战斗机。",
-    "full_content": "【以军称在德黑兰上空击落伊朗战机】以色列国防军4日称，一架以色列空军F-35I战斗机在伊朗首都德黑兰上空击落了一架伊朗空军战斗机。",
-    "sort_time": "1772614810079015",
-    "showTime": "2026-03-04 17:00:10",
-    "time": "2026-03-04 17:00:10",
-    "publish_time": "2026-03-04 17:00:10",
-    "raw_data": {
-      "code": "202603043661779015",
-      "image": [],
-      "pinglun_Num": 25,
-      "realSort": "1772614810079015",
-      "share": 8,
-      "showTime": "2026-03-04 17:00:10",
-      "stockList": [],
-      "summary": "【以军称在德黑兰上空击落伊朗战机】以色列国防军4日称，一架以色列空军F-35I战斗机在伊朗首都德黑兰上空击落了一架伊朗空军战斗机。",
-      "title": "以军称在德黑兰上空击落伊朗战机",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661779015.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 25,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "deb9093cd32851c8",
-    "code": "202603043661778178",
-    "title": "圣诺生物：利那洛肽原料药获上市申请批准通知书",
-    "summary": "【圣诺生物：利那洛肽原料药获上市申请批准通知书】圣诺生物(688117)3月4日公告，公司全资子公司成都圣诺生物制药有限公司近日收到国家药监局签发的关于利那洛肽原料药的《化学原料药上市申请批准通知书》。",
-    "content": "【圣诺生物：利那洛肽原料药获上市申请批准通知书】圣诺生物(688117)3月4日公告，公司全资子公司成都圣诺生物制药有限公司近日收到国家药监局签发的关于利那洛肽原料药的《化学原料药上市申请批准通知书》。",
-    "full_content": "【圣诺生物：利那洛肽原料药获上市申请批准通知书】圣诺生物(688117)3月4日公告，公司全资子公司成都圣诺生物制药有限公司近日收到国家药监局签发的关于利那洛肽原料药的《化学原料药上市申请批准通知书》。",
-    "sort_time": "1772614760078178",
-    "showTime": "2026-03-04 16:59:20",
-    "time": "2026-03-04 16:59:20",
-    "publish_time": "2026-03-04 16:59:20",
-    "raw_data": {
-      "code": "202603043661778178",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772614760078178",
-      "share": 1,
-      "showTime": "2026-03-04 16:59:20",
-      "stockList": [
-        "90.BK1595",
-        "1.688117"
-      ],
-      "summary": "【圣诺生物：利那洛肽原料药获上市申请批准通知书】圣诺生物(688117)3月4日公告，公司全资子公司成都圣诺生物制药有限公司近日收到国家药监局签发的关于利那洛肽原料药的《化学原料药上市申请批准通知书》。",
-      "title": "圣诺生物：利那洛肽原料药获上市申请批准通知书",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661778178.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1595",
-      "1.688117"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010401",
-          "name": "化学制药",
-          "level1": "制造业",
-          "level2": "医药制造业",
-          "matched_keyword": "原料药"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010401"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4fadc4f67e1aa7d5",
-    "code": "202603043661777819",
-    "title": "新华制药：恩他卡朋片获得药品注册证书",
-    "summary": "【新华制药：恩他卡朋片获得药品注册证书】新华制药(000756)3月4日公告，公司收到国家药监局核准签发的恩他卡朋片《药品注册证书》。公司全资子公司新达制药收到国家药监局核准签发的沙格列汀二甲双胍缓释片(Ⅰ)、(Ⅲ)《药品注册证书》。",
-    "content": "【新华制药：恩他卡朋片获得药品注册证书】新华制药(000756)3月4日公告，公司收到国家药监局核准签发的恩他卡朋片《药品注册证书》。公司全资子公司新达制药收到国家药监局核准签发的沙格列汀二甲双胍缓释片(Ⅰ)、(Ⅲ)《药品注册证书》。",
-    "full_content": "【新华制药：恩他卡朋片获得药品注册证书】新华制药(000756)3月4日公告，公司收到国家药监局核准签发的恩他卡朋片《药品注册证书》。公司全资子公司新达制药收到国家药监局核准签发的沙格列汀二甲双胍缓释片(Ⅰ)、(Ⅲ)《药品注册证书》。",
-    "sort_time": "1772614759077819",
-    "showTime": "2026-03-04 16:59:19",
-    "time": "2026-03-04 16:59:19",
-    "publish_time": "2026-03-04 16:59:19",
-    "raw_data": {
-      "code": "202603043661777819",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772614759077819",
-      "share": 0,
-      "showTime": "2026-03-04 16:59:19",
-      "stockList": [
-        "116.00719"
-      ],
-      "summary": "【新华制药：恩他卡朋片获得药品注册证书】新华制药(000756)3月4日公告，公司收到国家药监局核准签发的恩他卡朋片《药品注册证书》。公司全资子公司新达制药收到国家药监局核准签发的沙格列汀二甲双胍缓释片(Ⅰ)、(Ⅲ)《药品注册证书》。",
-      "title": "新华制药：恩他卡朋片获得药品注册证书",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661777819.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "116.00719"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a661d0d29a08b07b",
-    "code": "202603043661774768",
-    "title": "乘联分会：1月整体市场价格变化指数为-0.26 市场成交价16.58万",
-    "summary": "【乘联分会：1月整体市场价格变化指数为-0.26 市场成交价16.58万】乘联分会与CAM联合公布数据显示，1月整体市场价格变化指数为-0.26，市场成交价16.58万。本月市场整体成交价较上月下降436元，环比降低0.26%，各细分市场来看，MPV市场成交价降幅较大。",
-    "content": "【乘联分会：1月整体市场价格变化指数为-0.26 市场成交价16.58万】乘联分会与CAM联合公布数据显示，1月整体市场价格变化指数为-0.26，市场成交价16.58万。本月市场整体成交价较上月下降436元，环比降低0.26%，各细分市场来看，MPV市场成交价降幅较大。",
-    "full_content": "【乘联分会：1月整体市场价格变化指数为-0.26 市场成交价16.58万】乘联分会与CAM联合公布数据显示，1月整体市场价格变化指数为-0.26，市场成交价16.58万。本月市场整体成交价较上月下降436元，环比降低0.26%，各细分市场来看，MPV市场成交价降幅较大。",
-    "sort_time": "1772614726074768",
-    "showTime": "2026-03-04 16:58:46",
-    "time": "2026-03-04 16:58:46",
-    "publish_time": "2026-03-04 16:58:46",
-    "raw_data": {
-      "code": "202603043661774768",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772614726074768",
-      "share": 0,
-      "showTime": "2026-03-04 16:58:46",
-      "stockList": [],
-      "summary": "【乘联分会：1月整体市场价格变化指数为-0.26 市场成交价16.58万】乘联分会与CAM联合公布数据显示，1月整体市场价格变化指数为-0.26，市场成交价16.58万。本月市场整体成交价较上月下降436元，环比降低0.26%，各细分市场来看，MPV市场成交价降幅较大。",
-      "title": "乘联分会：1月整体市场价格变化指数为-0.26 市场成交价16.58万",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661774768.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3b7fd0fdd2c314cf",
-    "code": "202603043661774464",
-    "title": "惠誉将印尼评级展望调整为“负面”",
-    "summary": "惠誉将印尼评级展望调整为“负面”，确认“BBB”评级。",
-    "content": "惠誉将印尼评级展望调整为“负面”，确认“BBB”评级。",
-    "full_content": "惠誉将印尼评级展望调整为“负面”，确认“BBB”评级。",
-    "sort_time": "1772614708074464",
-    "showTime": "2026-03-04 16:58:28",
-    "time": "2026-03-04 16:58:28",
-    "publish_time": "2026-03-04 16:58:28",
-    "raw_data": {
-      "code": "202603043661774464",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772614708074464",
-      "share": 0,
-      "showTime": "2026-03-04 16:58:28",
-      "stockList": [],
-      "summary": "惠誉将印尼评级展望调整为“负面”，确认“BBB”评级。",
-      "title": "惠誉将印尼评级展望调整为“负面”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661774464.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3a3d841f2e2a097a",
-    "code": "202603043661770435",
-    "title": "1月全国新增建档立卡新能源发电项目共5690个",
-    "summary": "【1月全国新增建档立卡新能源发电项目共5690个】国家能源局3月4日发布的数据显示，2026年1月，全国新增建档立卡新能源发电（不含户用光伏）项目共5690个，其中风电项目66个，光伏发电项目5618个（集中式光伏发电项目79个，工商业分布式光伏发电项目5539个），生物质发电项目6个。",
-    "content": "【1月全国新增建档立卡新能源发电项目共5690个】国家能源局3月4日发布的数据显示，2026年1月，全国新增建档立卡新能源发电（不含户用光伏）项目共5690个，其中风电项目66个，光伏发电项目5618个（集中式光伏发电项目79个，工商业分布式光伏发电项目5539个），生物质发电项目6个。",
-    "full_content": "【1月全国新增建档立卡新能源发电项目共5690个】国家能源局3月4日发布的数据显示，2026年1月，全国新增建档立卡新能源发电（不含户用光伏）项目共5690个，其中风电项目66个，光伏发电项目5618个（集中式光伏发电项目79个，工商业分布式光伏发电项目5539个），生物质发电项目6个。",
-    "sort_time": "1772614578070435",
-    "showTime": "2026-03-04 16:56:18",
-    "time": "2026-03-04 16:56:18",
-    "publish_time": "2026-03-04 16:56:18",
-    "raw_data": {
-      "code": "202603043661770435",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1772614578070435",
-      "share": 1,
-      "showTime": "2026-03-04 16:56:18",
-      "stockList": [
-        "150.014238"
-      ],
-      "summary": "【1月全国新增建档立卡新能源发电项目共5690个】国家能源局3月4日发布的数据显示，2026年1月，全国新增建档立卡新能源发电（不含户用光伏）项目共5690个，其中风电项目66个，光伏发电项目5618个（集中式光伏发电项目79个，工商业分布式光伏发电项目5539个），生物质发电项目6个。",
-      "title": "1月全国新增建档立卡新能源发电项目共5690个",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661770435.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010202",
-          "name": "光伏设备",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "光伏"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C103",
-          "name": "光伏",
-          "matched_keyword": "光伏"
-        },
-        {
-          "id": "C104",
-          "name": "风电",
-          "matched_keyword": "风电"
-        }
-      ],
-      "industry_ids": [
-        "I010202"
-      ],
-      "concept_ids": [
-        "C103",
-        "C104"
-      ]
-    }
-  },
-  {
-    "id": "9ab470ece1a32214",
-    "code": "202603043661770226",
-    "title": "法国2月服务业PMI终值49.6 预期49.6",
-    "summary": "法国2月服务业PMI终值49.6，预期49.6；2月综合PMI终值49.9，预期49.9。",
-    "content": "法国2月服务业PMI终值49.6，预期49.6；2月综合PMI终值49.9，预期49.9。",
-    "full_content": "法国2月服务业PMI终值49.6，预期49.6；2月综合PMI终值49.9，预期49.9。",
-    "sort_time": "1772614550070226",
-    "showTime": "2026-03-04 16:55:50",
-    "time": "2026-03-04 16:55:50",
-    "publish_time": "2026-03-04 16:55:50",
-    "raw_data": {
-      "code": "202603043661770226",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772614550070226",
-      "share": 0,
-      "showTime": "2026-03-04 16:55:50",
-      "stockList": [],
-      "summary": "法国2月服务业PMI终值49.6，预期49.6；2月综合PMI终值49.9，预期49.9。",
-      "title": "法国2月服务业PMI终值49.6 预期49.6",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661770226.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "da89940369efcbd8",
-    "code": "202603043661769032",
-    "title": "北京量子院量子接口器件与系统团队在多模量子声学器件研究中取得重要进展",
-    "summary": "【北京量子院量子接口器件与系统团队在多模量子声学器件研究中取得重要进展】北京量子信息科学研究院量子接口器件与系统团队在基于碳化硅薄膜机械振子的多模腔光力研究中取得重要进展。研究团队揭示了多模腔光力系统中机械模式的调控机制，实现了非对称应力的高精度解析与高保真度态交换，为薄膜材料非对称应力的高精度表征、多模声子量子信息存储器件和量子网络的构建提供了新途径。",
-    "content": "【北京量子院量子接口器件与系统团队在多模量子声学器件研究中取得重要进展】北京量子信息科学研究院量子接口器件与系统团队在基于碳化硅薄膜机械振子的多模腔光力研究中取得重要进展。研究团队揭示了多模腔光力系统中机械模式的调控机制，实现了非对称应力的高精度解析与高保真度态交换，为薄膜材料非对称应力的高精度表征、多模声子量子信息存储器件和量子网络的构建提供了新途径。",
-    "full_content": "【北京量子院量子接口器件与系统团队在多模量子声学器件研究中取得重要进展】北京量子信息科学研究院量子接口器件与系统团队在基于碳化硅薄膜机械振子的多模腔光力研究中取得重要进展。研究团队揭示了多模腔光力系统中机械模式的调控机制，实现了非对称应力的高精度解析与高保真度态交换，为薄膜材料非对称应力的高精度表征、多模声子量子信息存储器件和量子网络的构建提供了新途径。",
-    "sort_time": "1772614529069032",
-    "showTime": "2026-03-04 16:55:29",
-    "time": "2026-03-04 16:55:29",
-    "publish_time": "2026-03-04 16:55:29",
-    "raw_data": {
-      "code": "202603043661769032",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1772614529069032",
-      "share": 5,
-      "showTime": "2026-03-04 16:55:29",
-      "stockList": [
-        "90.BK0150",
-        "150.011668"
-      ],
-      "summary": "【北京量子院量子接口器件与系统团队在多模量子声学器件研究中取得重要进展】北京量子信息科学研究院量子接口器件与系统团队在基于碳化硅薄膜机械振子的多模腔光力研究中取得重要进展。研究团队揭示了多模腔光力系统中机械模式的调控机制，实现了非对称应力的高精度解析与高保真度态交换，为薄膜材料非对称应力的高精度表征、多模声子量子信息存储器件和量子网络的构建提供了新途径。",
-      "title": "北京量子院量子接口器件与系统团队在多模量子声学器件研究中取得重要进展",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661769032.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0150",
-      "150.011668"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c6e0f0cb52f599bc",
-    "code": "202603043661768011",
-    "title": "撤侨“靠自己”？美国政府遭批“处处暴露无能”",
-    "summary": "【撤侨“靠自己”？美国政府遭批“处处暴露无能”】美国和以色列对伊朗发动军事打击已有数日，美国政府一直未正式出台帮助美国公民撤离中东地区的举措，遭国会民主党议员批评“无能”。美国总统特朗普3日辩称，一切“发生得太快了”。美国国务院同一天称，打算动用军机和包机撤离美国公民，但仍未公布具体时间表。",
-    "content": "【撤侨“靠自己”？美国政府遭批“处处暴露无能”】美国和以色列对伊朗发动军事打击已有数日，美国政府一直未正式出台帮助美国公民撤离中东地区的举措，遭国会民主党议员批评“无能”。美国总统特朗普3日辩称，一切“发生得太快了”。美国国务院同一天称，打算动用军机和包机撤离美国公民，但仍未公布具体时间表。",
-    "full_content": "【撤侨“靠自己”？美国政府遭批“处处暴露无能”】美国和以色列对伊朗发动军事打击已有数日，美国政府一直未正式出台帮助美国公民撤离中东地区的举措，遭国会民主党议员批评“无能”。美国总统特朗普3日辩称，一切“发生得太快了”。美国国务院同一天称，打算动用军机和包机撤离美国公民，但仍未公布具体时间表。",
-    "sort_time": "1772614435068011",
-    "showTime": "2026-03-04 16:53:55",
-    "time": "2026-03-04 16:53:55",
-    "publish_time": "2026-03-04 16:53:55",
-    "raw_data": {
-      "code": "202603043661768011",
-      "image": [],
-      "pinglun_Num": 14,
-      "realSort": "1772614435068011",
-      "share": 8,
-      "showTime": "2026-03-04 16:53:55",
-      "stockList": [],
-      "summary": "【撤侨“靠自己”？美国政府遭批“处处暴露无能”】美国和以色列对伊朗发动军事打击已有数日，美国政府一直未正式出台帮助美国公民撤离中东地区的举措，遭国会民主党议员批评“无能”。美国总统特朗普3日辩称，一切“发生得太快了”。美国国务院同一天称，打算动用军机和包机撤离美国公民，但仍未公布具体时间表。",
-      "title": "撤侨“靠自己”？美国政府遭批“处处暴露无能”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661768011.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0de313b393093e1a",
-    "code": "202603043661766136",
-    "title": "埃及基准股指EGX30在早盘交易中下跌4.4%",
-    "summary": "埃及基准股指EGX30在早盘交易中下跌4.4%。",
-    "content": "埃及基准股指EGX30在早盘交易中下跌4.4%。",
-    "full_content": "埃及基准股指EGX30在早盘交易中下跌4.4%。",
-    "sort_time": "1772614362066136",
-    "showTime": "2026-03-04 16:52:42",
-    "time": "2026-03-04 16:52:42",
-    "publish_time": "2026-03-04 16:52:42",
-    "raw_data": {
-      "code": "202603043661766136",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1772614362066136",
-      "share": 0,
-      "showTime": "2026-03-04 16:52:42",
-      "stockList": [],
-      "summary": "埃及基准股指EGX30在早盘交易中下跌4.4%。",
-      "title": "埃及基准股指EGX30在早盘交易中下跌4.4%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661766136.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0f67c47599350922",
-    "code": "202603043661765238",
-    "title": "比特币升破70000美元",
-    "summary": "比特币升破70000美元，日内涨超4%。",
-    "content": "比特币升破70000美元，日内涨超4%。",
-    "full_content": "比特币升破70000美元，日内涨超4%。",
-    "sort_time": "1772614334065238",
-    "showTime": "2026-03-04 16:52:14",
-    "time": "2026-03-04 16:52:14",
-    "publish_time": "2026-03-04 16:52:14",
-    "raw_data": {
-      "code": "202603043661765238",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1772614334065238",
-      "share": 12,
-      "showTime": "2026-03-04 16:52:14",
-      "stockList": [],
-      "summary": "比特币升破70000美元，日内涨超4%。",
-      "title": "比特币升破70000美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603043661765238.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 12,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C008",
-          "name": "区块链",
-          "matched_keyword": "比特币"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C008"
-      ]
     }
   }
 ]
