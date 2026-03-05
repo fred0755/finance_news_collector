@@ -917,10 +917,33 @@
                 if (e.key === 'Enter') handleSearch();
             });
 
-            // 每60秒刷新今日数据（只在12h视图时自动刷新）
-            setInterval(() => {
-                if (!currentSearchTerm && currentTimeRange === '12h') {
-                    loadToday();
+            // 智能刷新：只更新数据，不重置折叠状态
+            setInterval(async () => {
+                // 只在12小时视图且不在搜索状态时刷新
+                if (currentSearchTerm || currentTimeRange !== '12h') return;
+
+                try {
+                    console.log('🔄 静默刷新数据...');
+                    const timestamp = Date.now();
+                    const newsRes = await fetch('/data/today.json?t=' + timestamp);
+
+                    if (!newsRes.ok) return;
+
+                    const newNews = await newsRes.json();
+                    // 合并新数据（但先不渲染）
+                    const mergedNews = mergeNews([...allNews, ...newNews]);
+
+                    // 检查是否有新新闻（简单比较数量）
+                    if (mergedNews.length > allNews.length) {
+                        console.log(`✅ 发现 ${mergedNews.length - allNews.length} 条新新闻，更新视图`);
+                        allNews = sortByTime(mergedNews);
+                        // 重新应用当前过滤条件，这会触发 renderNews
+                        applyFilters();
+                    } else {
+                        console.log('⏳ 没有新新闻');
+                    }
+                } catch (e) {
+                    console.error('❌ 静默刷新失败', e);
                 }
             }, 60000);
         });
