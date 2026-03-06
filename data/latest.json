@@ -1,5 +1,754 @@
 [
   {
+    "id": "bf006e843df92439",
+    "code": "202603063664693578",
+    "title": "欧股跌幅扩大 欧洲斯托克50指数跌超1%",
+    "summary": "【欧股跌幅扩大 欧洲斯托克50指数跌超1%】欧股跌幅扩大，欧洲斯托克50指数跌超1%，法国CXC 40指数跌近1%，德国DAX指数跌0.7%，英国富时100指数跌0.6%。",
+    "content": "【欧股跌幅扩大 欧洲斯托克50指数跌超1%】欧股跌幅扩大，欧洲斯托克50指数跌超1%，法国CXC 40指数跌近1%，德国DAX指数跌0.7%，英国富时100指数跌0.6%。",
+    "full_content": "【欧股跌幅扩大 欧洲斯托克50指数跌超1%】欧股跌幅扩大，欧洲斯托克50指数跌超1%，法国CXC 40指数跌近1%，德国DAX指数跌0.7%，英国富时100指数跌0.6%。",
+    "sort_time": "1772798064093578",
+    "showTime": "2026-03-06 19:54:24",
+    "time": "2026-03-06 19:54:24",
+    "publish_time": "2026-03-06 19:54:24",
+    "raw_data": {
+      "code": "202603063664693578",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772798064093578",
+      "share": 0,
+      "showTime": "2026-03-06 19:54:24",
+      "stockList": [],
+      "summary": "【欧股跌幅扩大 欧洲斯托克50指数跌超1%】欧股跌幅扩大，欧洲斯托克50指数跌超1%，法国CXC 40指数跌近1%，德国DAX指数跌0.7%，英国富时100指数跌0.6%。",
+      "title": "欧股跌幅扩大 欧洲斯托克50指数跌超1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664693578.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "14af9d795aa2750b",
+    "code": "202603063664693220",
+    "title": "华泰证券：超配电力链中上游品种 内需与AI是能源之外的主要线索",
+    "summary": "【华泰证券：超配电力链中上游品种 内需与AI是能源之外的主要线索】华泰证券研究总量团队指出，聚焦今年，宏观层面，促进物价合理回升是政策目标与市场交易的重要交集，保持密切跟踪。产业层面，能源是多项重点任务的交集，重申超配电力链中上游品种。内需与AI是能源之外的主要线索。",
+    "content": "【华泰证券：超配电力链中上游品种 内需与AI是能源之外的主要线索】华泰证券研究总量团队指出，聚焦今年，宏观层面，促进物价合理回升是政策目标与市场交易的重要交集，保持密切跟踪。产业层面，能源是多项重点任务的交集，重申超配电力链中上游品种。内需与AI是能源之外的主要线索。",
+    "full_content": "【华泰证券：超配电力链中上游品种 内需与AI是能源之外的主要线索】华泰证券研究总量团队指出，聚焦今年，宏观层面，促进物价合理回升是政策目标与市场交易的重要交集，保持密切跟踪。产业层面，能源是多项重点任务的交集，重申超配电力链中上游品种。内需与AI是能源之外的主要线索。",
+    "sort_time": "1772798036093220",
+    "showTime": "2026-03-06 19:53:56",
+    "time": "2026-03-06 19:53:56",
+    "publish_time": "2026-03-06 19:53:56",
+    "raw_data": {
+      "code": "202603063664693220",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1772798036093220",
+      "share": 1,
+      "showTime": "2026-03-06 19:53:56",
+      "stockList": [
+        "90.BK0428",
+        "201.HK49"
+      ],
+      "summary": "【华泰证券：超配电力链中上游品种 内需与AI是能源之外的主要线索】华泰证券研究总量团队指出，聚焦今年，宏观层面，促进物价合理回升是政策目标与市场交易的重要交集，保持密切跟踪。产业层面，能源是多项重点任务的交集，重申超配电力链中上游品种。内需与AI是能源之外的主要线索。",
+      "title": "华泰证券：超配电力链中上游品种 内需与AI是能源之外的主要线索",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664693220.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0428",
+      "201.HK49"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C001",
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "f3eeec9417f9721a",
+    "code": "202603063664693168",
+    "title": "美股恐慌指数VIX最新上涨1.55点至25.3点",
+    "summary": "美股恐慌指数VIX最新上涨1.55点至25.3点。",
+    "content": "美股恐慌指数VIX最新上涨1.55点至25.3点。",
+    "full_content": "美股恐慌指数VIX最新上涨1.55点至25.3点。",
+    "sort_time": "1772798026093168",
+    "showTime": "2026-03-06 19:53:46",
+    "time": "2026-03-06 19:53:46",
+    "publish_time": "2026-03-06 19:53:46",
+    "raw_data": {
+      "code": "202603063664693168",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772798026093168",
+      "share": 1,
+      "showTime": "2026-03-06 19:53:46",
+      "stockList": [],
+      "summary": "美股恐慌指数VIX最新上涨1.55点至25.3点。",
+      "title": "美股恐慌指数VIX最新上涨1.55点至25.3点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664693168.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "00db2295b34b8c8a",
+    "code": "202603063664693075",
+    "title": "恒天海龙：恒天集团3月3日至3月5日减持0.8%公司股份",
+    "summary": "【恒天海龙：恒天集团3月3日至3月5日减持0.8%公司股份】恒天海龙(000677.SZ)公告称，股东天集团于2026年3月3日至2026年3月5日期间，通过大宗交易方式减持公司股份5,259,500股，通过集中竞价交易方式减持公司股份1,652,600股，合计占公司总股本的0.80%。",
+    "content": "【恒天海龙：恒天集团3月3日至3月5日减持0.8%公司股份】恒天海龙(000677.SZ)公告称，股东天集团于2026年3月3日至2026年3月5日期间，通过大宗交易方式减持公司股份5,259,500股，通过集中竞价交易方式减持公司股份1,652,600股，合计占公司总股本的0.80%。",
+    "full_content": "【恒天海龙：恒天集团3月3日至3月5日减持0.8%公司股份】恒天海龙(000677.SZ)公告称，股东天集团于2026年3月3日至2026年3月5日期间，通过大宗交易方式减持公司股份5,259,500股，通过集中竞价交易方式减持公司股份1,652,600股，合计占公司总股本的0.80%。",
+    "sort_time": "1772797999093075",
+    "showTime": "2026-03-06 19:53:19",
+    "time": "2026-03-06 19:53:19",
+    "publish_time": "2026-03-06 19:53:19",
+    "raw_data": {
+      "code": "202603063664693075",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772797999093075",
+      "share": 0,
+      "showTime": "2026-03-06 19:53:19",
+      "stockList": [
+        "0.000677"
+      ],
+      "summary": "【恒天海龙：恒天集团3月3日至3月5日减持0.8%公司股份】恒天海龙(000677.SZ)公告称，股东天集团于2026年3月3日至2026年3月5日期间，通过大宗交易方式减持公司股份5,259,500股，通过集中竞价交易方式减持公司股份1,652,600股，合计占公司总股本的0.80%。",
+      "title": "恒天海龙：恒天集团3月3日至3月5日减持0.8%公司股份",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664693075.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.000677"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2036b12b27eaaa6f",
+    "code": "202603063664691131",
+    "title": "黄金回收量显著下滑 “以旧换新”成深圳门店主要业务",
+    "summary": "【黄金回收量显著下滑 “以旧换新”成深圳门店主要业务】剧烈波动的金价抑制了黄金饰品的销量，直接影响到黄金回收生意。记者在走访中发现，由于近期金价波动过于剧烈，许多消费者选择暂时观望，导致黄金回收业务的实际成交量明显下滑。在黄金回收量下滑的同时，“以旧换新”成了不少门店的主要业务。",
+    "content": "【黄金回收量显著下滑 “以旧换新”成深圳门店主要业务】剧烈波动的金价抑制了黄金饰品的销量，直接影响到黄金回收生意。记者在走访中发现，由于近期金价波动过于剧烈，许多消费者选择暂时观望，导致黄金回收业务的实际成交量明显下滑。在黄金回收量下滑的同时，“以旧换新”成了不少门店的主要业务。",
+    "full_content": "【黄金回收量显著下滑 “以旧换新”成深圳门店主要业务】剧烈波动的金价抑制了黄金饰品的销量，直接影响到黄金回收生意。记者在走访中发现，由于近期金价波动过于剧烈，许多消费者选择暂时观望，导致黄金回收业务的实际成交量明显下滑。在黄金回收量下滑的同时，“以旧换新”成了不少门店的主要业务。",
+    "sort_time": "1772797796091131",
+    "showTime": "2026-03-06 19:49:56",
+    "time": "2026-03-06 19:49:56",
+    "publish_time": "2026-03-06 19:49:56",
+    "raw_data": {
+      "code": "202603063664691131",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772797796091131",
+      "share": 0,
+      "showTime": "2026-03-06 19:49:56",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "【黄金回收量显著下滑 “以旧换新”成深圳门店主要业务】剧烈波动的金价抑制了黄金饰品的销量，直接影响到黄金回收生意。记者在走访中发现，由于近期金价波动过于剧烈，许多消费者选择暂时观望，导致黄金回收业务的实际成交量明显下滑。在黄金回收量下滑的同时，“以旧换新”成了不少门店的主要业务。",
+      "title": "黄金回收量显著下滑 “以旧换新”成深圳门店主要业务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664691131.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "b54067f2716cab1a",
+    "code": "202603063664690547",
+    "title": "标普500指数期货下跌0.6%至盘中低点",
+    "summary": "标普500指数期货下跌0.6%至盘中低点，纳斯达克指数期货下跌0.7%。",
+    "content": "标普500指数期货下跌0.6%至盘中低点，纳斯达克指数期货下跌0.7%。",
+    "full_content": "标普500指数期货下跌0.6%至盘中低点，纳斯达克指数期货下跌0.7%。",
+    "sort_time": "1772797757090547",
+    "showTime": "2026-03-06 19:49:17",
+    "time": "2026-03-06 19:49:17",
+    "publish_time": "2026-03-06 19:49:17",
+    "raw_data": {
+      "code": "202603063664690547",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772797757090547",
+      "share": 0,
+      "showTime": "2026-03-06 19:49:17",
+      "stockList": [],
+      "summary": "标普500指数期货下跌0.6%至盘中低点，纳斯达克指数期货下跌0.7%。",
+      "title": "标普500指数期货下跌0.6%至盘中低点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664690547.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fd26c1ccffd1a8a9",
+    "code": "202603063664690125",
+    "title": "沪电股份：全资子公司拟55亿元投建印制电路板生产项目",
+    "summary": "【沪电股份：全资子公司拟55亿元投建印制电路板生产项目】沪电股份(002463.SZ)公告称，公司全资子公司昆山沪利微电有限公司拟投资新建印制电路板生产项目及其配套设施，生产高层数、高频高速、高密度互连、高通流印制电路板。项目计划投资总额约55亿元，分三期实施。",
+    "content": "【沪电股份：全资子公司拟55亿元投建印制电路板生产项目】沪电股份(002463.SZ)公告称，公司全资子公司昆山沪利微电有限公司拟投资新建印制电路板生产项目及其配套设施，生产高层数、高频高速、高密度互连、高通流印制电路板。项目计划投资总额约55亿元，分三期实施。",
+    "full_content": "【沪电股份：全资子公司拟55亿元投建印制电路板生产项目】沪电股份(002463.SZ)公告称，公司全资子公司昆山沪利微电有限公司拟投资新建印制电路板生产项目及其配套设施，生产高层数、高频高速、高密度互连、高通流印制电路板。项目计划投资总额约55亿元，分三期实施。",
+    "sort_time": "1772797715090125",
+    "showTime": "2026-03-06 19:48:35",
+    "time": "2026-03-06 19:48:35",
+    "publish_time": "2026-03-06 19:48:35",
+    "raw_data": {
+      "code": "202603063664690125",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1772797715090125",
+      "share": 5,
+      "showTime": "2026-03-06 19:48:35",
+      "stockList": [
+        "90.BK1340",
+        "90.BK0877"
+      ],
+      "summary": "【沪电股份：全资子公司拟55亿元投建印制电路板生产项目】沪电股份(002463.SZ)公告称，公司全资子公司昆山沪利微电有限公司拟投资新建印制电路板生产项目及其配套设施，生产高层数、高频高速、高密度互连、高通流印制电路板。项目计划投资总额约55亿元，分三期实施。",
+      "title": "沪电股份：全资子公司拟55亿元投建印制电路板生产项目",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664690125.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1340",
+      "90.BK0877"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 5,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010102",
+          "name": "电子元件",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "电路板"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010102"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e57773a396e7c5e0",
+    "code": "202603063664674825",
+    "title": "东航中东航线部分航班有序恢复运行",
+    "summary": "【东航中东航线部分航班有序恢复运行】东方航空宣布，东航中东航线部分航班有序恢复运行。",
+    "content": "【东航中东航线部分航班有序恢复运行】东方航空宣布，东航中东航线部分航班有序恢复运行。",
+    "full_content": "【东航中东航线部分航班有序恢复运行】东方航空宣布，东航中东航线部分航班有序恢复运行。",
+    "sort_time": "1772797572074825",
+    "showTime": "2026-03-06 19:46:12",
+    "time": "2026-03-06 19:46:12",
+    "publish_time": "2026-03-06 19:46:12",
+    "raw_data": {
+      "code": "202603063664674825",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1772797572074825",
+      "share": 0,
+      "showTime": "2026-03-06 19:46:12",
+      "stockList": [
+        "90.BK0420",
+        "1.600115"
+      ],
+      "summary": "【东航中东航线部分航班有序恢复运行】东方航空宣布，东航中东航线部分航班有序恢复运行。",
+      "title": "东航中东航线部分航班有序恢复运行",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664674825.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0420",
+      "1.600115"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "9524b2ef31be9207",
+    "code": "202603063664665030",
+    "title": "伊朗称一艘美国油轮在科威特边境遭袭",
+    "summary": "【伊朗称一艘美国油轮在科威特边境遭袭】当地时间6日，伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，一艘美国油轮在科威特边境附近海域遭到袭击，目前正在燃烧。",
+    "content": "【伊朗称一艘美国油轮在科威特边境遭袭】当地时间6日，伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，一艘美国油轮在科威特边境附近海域遭到袭击，目前正在燃烧。",
+    "full_content": "【伊朗称一艘美国油轮在科威特边境遭袭】当地时间6日，伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，一艘美国油轮在科威特边境附近海域遭到袭击，目前正在燃烧。",
+    "sort_time": "1772797383065030",
+    "showTime": "2026-03-06 19:43:03",
+    "time": "2026-03-06 19:43:03",
+    "publish_time": "2026-03-06 19:43:03",
+    "raw_data": {
+      "code": "202603063664665030",
+      "image": [],
+      "pinglun_Num": 34,
+      "realSort": "1772797383065030",
+      "share": 29,
+      "showTime": "2026-03-06 19:43:03",
+      "stockList": [],
+      "summary": "【伊朗称一艘美国油轮在科威特边境遭袭】当地时间6日，伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，一艘美国油轮在科威特边境附近海域遭到袭击，目前正在燃烧。",
+      "title": "伊朗称一艘美国油轮在科威特边境遭袭",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664665030.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 34,
+    "share_count": 29,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5cdd09434e7e0a53",
+    "code": "202603063664664772",
+    "title": "阿联酋航空发言人：预计未来几天内其航线网络将全面恢复运营",
+    "summary": "【阿联酋航空发言人：预计未来几天内其航线网络将全面恢复运营】阿联酋航空发言人表示，预计未来几天内其航线网络将全面恢复运营。",
+    "content": "【阿联酋航空发言人：预计未来几天内其航线网络将全面恢复运营】阿联酋航空发言人表示，预计未来几天内其航线网络将全面恢复运营。",
+    "full_content": "【阿联酋航空发言人：预计未来几天内其航线网络将全面恢复运营】阿联酋航空发言人表示，预计未来几天内其航线网络将全面恢复运营。",
+    "sort_time": "1772797360064772",
+    "showTime": "2026-03-06 19:42:40",
+    "time": "2026-03-06 19:42:40",
+    "publish_time": "2026-03-06 19:42:40",
+    "raw_data": {
+      "code": "202603063664664772",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1772797360064772",
+      "share": 0,
+      "showTime": "2026-03-06 19:42:40",
+      "stockList": [
+        "90.BK0420"
+      ],
+      "summary": "【阿联酋航空发言人：预计未来几天内其航线网络将全面恢复运营】阿联酋航空发言人表示，预计未来几天内其航线网络将全面恢复运营。",
+      "title": "阿联酋航空发言人：预计未来几天内其航线网络将全面恢复运营",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664664772.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0420"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "194c2db45ca9e93f",
+    "code": "202603063664664589",
+    "title": "因拒绝美军方不受限制地使用其AI模型 美国一科技公司被列入“黑名单”",
+    "summary": "【因拒绝美军方不受限制地使用其AI模型 美国一科技公司被列入“黑名单”】据彭博社3月6日报道，美国国防部已正式通知美国人工智能企业安特罗匹克（Anthropic）公司，将该公司及其人工智能模型克劳德（Claude）指定为“供应链风险”。",
+    "content": "【因拒绝美军方不受限制地使用其AI模型 美国一科技公司被列入“黑名单”】据彭博社3月6日报道，美国国防部已正式通知美国人工智能企业安特罗匹克（Anthropic）公司，将该公司及其人工智能模型克劳德（Claude）指定为“供应链风险”。",
+    "full_content": "【因拒绝美军方不受限制地使用其AI模型 美国一科技公司被列入“黑名单”】据彭博社3月6日报道，美国国防部已正式通知美国人工智能企业安特罗匹克（Anthropic）公司，将该公司及其人工智能模型克劳德（Claude）指定为“供应链风险”。",
+    "sort_time": "1772797331064589",
+    "showTime": "2026-03-06 19:42:11",
+    "time": "2026-03-06 19:42:11",
+    "publish_time": "2026-03-06 19:42:11",
+    "raw_data": {
+      "code": "202603063664664589",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772797331064589",
+      "share": 4,
+      "showTime": "2026-03-06 19:42:11",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "【因拒绝美军方不受限制地使用其AI模型 美国一科技公司被列入“黑名单”】据彭博社3月6日报道，美国国防部已正式通知美国人工智能企业安特罗匹克（Anthropic）公司，将该公司及其人工智能模型克劳德（Claude）指定为“供应链风险”。",
+      "title": "因拒绝美军方不受限制地使用其AI模型 美国一科技公司被列入“黑名单”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664664589.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "供应链"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C201",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "8a526e1ad1f3ac37",
+    "code": "202603063664664039",
+    "title": "深港通下的港股通标的证券名单调整 3月9日起生效",
+    "summary": "【深港通下的港股通标的证券名单调整 3月9日起生效】根据《深圳证券交易所深港通业务实施办法》的有关规定，港股通标的证券名单发生调整并自2026年03月09日起生效。其中，调入先导智能、滴普科技、耀才证券金融、京东工业等，调出北京首都机场股份、神州控股、北京汽车、美的置业等。",
+    "content": "【深港通下的港股通标的证券名单调整 3月9日起生效】根据《深圳证券交易所深港通业务实施办法》的有关规定，港股通标的证券名单发生调整并自2026年03月09日起生效。其中，调入先导智能、滴普科技、耀才证券金融、京东工业等，调出北京首都机场股份、神州控股、北京汽车、美的置业等。",
+    "full_content": "【深港通下的港股通标的证券名单调整 3月9日起生效】根据《深圳证券交易所深港通业务实施办法》的有关规定，港股通标的证券名单发生调整并自2026年03月09日起生效。其中，调入先导智能、滴普科技、耀才证券金融、京东工业等，调出北京首都机场股份、神州控股、北京汽车、美的置业等。",
+    "sort_time": "1772797274064039",
+    "showTime": "2026-03-06 19:41:14",
+    "time": "2026-03-06 19:41:14",
+    "publish_time": "2026-03-06 19:41:14",
+    "raw_data": {
+      "code": "202603063664664039",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772797274064039",
+      "share": 7,
+      "showTime": "2026-03-06 19:41:14",
+      "stockList": [
+        "90.BK1366",
+        "90.BK0473"
+      ],
+      "summary": "【深港通下的港股通标的证券名单调整 3月9日起生效】根据《深圳证券交易所深港通业务实施办法》的有关规定，港股通标的证券名单发生调整并自2026年03月09日起生效。其中，调入先导智能、滴普科技、耀才证券金融、京东工业等，调出北京首都机场股份、神州控股、北京汽车、美的置业等。",
+      "title": "深港通下的港股通标的证券名单调整 3月9日起生效",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664664039.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1366",
+      "90.BK0473"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 7,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        },
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I010301",
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "f95faf44aaee374a",
+    "code": "202603063664663897",
+    "title": "以军称正拦截伊朗方向发射的导弹",
+    "summary": "【以军称正拦截伊朗方向发射的导弹】以色列国防军当地时间6日下午发布消息称，不久前，以军发现伊朗已向以色列领土发射导弹。以军表示，以色列防空系统正在运行，以拦截威胁。",
+    "content": "【以军称正拦截伊朗方向发射的导弹】以色列国防军当地时间6日下午发布消息称，不久前，以军发现伊朗已向以色列领土发射导弹。以军表示，以色列防空系统正在运行，以拦截威胁。",
+    "full_content": "【以军称正拦截伊朗方向发射的导弹】以色列国防军当地时间6日下午发布消息称，不久前，以军发现伊朗已向以色列领土发射导弹。以军表示，以色列防空系统正在运行，以拦截威胁。",
+    "sort_time": "1772797246063897",
+    "showTime": "2026-03-06 19:40:46",
+    "time": "2026-03-06 19:40:46",
+    "publish_time": "2026-03-06 19:40:46",
+    "raw_data": {
+      "code": "202603063664663897",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1772797246063897",
+      "share": 0,
+      "showTime": "2026-03-06 19:40:46",
+      "stockList": [],
+      "summary": "【以军称正拦截伊朗方向发射的导弹】以色列国防军当地时间6日下午发布消息称，不久前，以军发现伊朗已向以色列领土发射导弹。以军表示，以色列防空系统正在运行，以拦截威胁。",
+      "title": "以军称正拦截伊朗方向发射的导弹",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664663897.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "aaee806a2de7d2c7",
+    "code": "202603063664662596",
+    "title": "以军称炸毁哈梅内伊用过的地下掩体",
+    "summary": "【以军称炸毁哈梅内伊用过的地下掩体】以色列军方发消息称，当地时间今天（3月6日）上午，以色列空军“摧毁”了伊朗已故最高领袖哈梅内伊此前使用过的“地下掩体”。",
+    "content": "【以军称炸毁哈梅内伊用过的地下掩体】以色列军方发消息称，当地时间今天（3月6日）上午，以色列空军“摧毁”了伊朗已故最高领袖哈梅内伊此前使用过的“地下掩体”。",
+    "full_content": "【以军称炸毁哈梅内伊用过的地下掩体】以色列军方发消息称，当地时间今天（3月6日）上午，以色列空军“摧毁”了伊朗已故最高领袖哈梅内伊此前使用过的“地下掩体”。",
+    "sort_time": "1772797019062596",
+    "showTime": "2026-03-06 19:36:59",
+    "time": "2026-03-06 19:36:59",
+    "publish_time": "2026-03-06 19:36:59",
+    "raw_data": {
+      "code": "202603063664662596",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1772797019062596",
+      "share": 1,
+      "showTime": "2026-03-06 19:36:59",
+      "stockList": [],
+      "summary": "【以军称炸毁哈梅内伊用过的地下掩体】以色列军方发消息称，当地时间今天（3月6日）上午，以色列空军“摧毁”了伊朗已故最高领袖哈梅内伊此前使用过的“地下掩体”。",
+      "title": "以军称炸毁哈梅内伊用过的地下掩体",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664662596.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8b9fc5bf1ea34d55",
+    "code": "202603063664661198",
+    "title": "WTI原油大涨5% 触及85美元/桶关口",
+    "summary": "WTI原油触及85美元/桶关口，为2024年4月以来首次，日内大涨5%。",
+    "content": "WTI原油触及85美元/桶关口，为2024年4月以来首次，日内大涨5%。",
+    "full_content": "WTI原油触及85美元/桶关口，为2024年4月以来首次，日内大涨5%。",
+    "sort_time": "1772796809061198",
+    "showTime": "2026-03-06 19:33:29",
+    "time": "2026-03-06 19:33:29",
+    "publish_time": "2026-03-06 19:33:29",
+    "raw_data": {
+      "code": "202603063664661198",
+      "image": [],
+      "pinglun_Num": 44,
+      "realSort": "1772796809061198",
+      "share": 212,
+      "showTime": "2026-03-06 19:33:29",
+      "stockList": [],
+      "summary": "WTI原油触及85美元/桶关口，为2024年4月以来首次，日内大涨5%。",
+      "title": "WTI原油大涨5% 触及85美元/桶关口",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664661198.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 44,
+    "share_count": 212,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "7f2dd5b35076f73a",
     "code": "202603063664660244",
     "title": "我驻卡塔尔使馆提醒在卡中国公民利用航班恢复机会抓紧撤离",
@@ -13,9 +762,9 @@
     "raw_data": {
       "code": "202603063664660244",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 7,
       "realSort": "1772796657060244",
-      "share": 0,
+      "share": 22,
       "showTime": "2026-03-06 19:30:57",
       "stockList": [],
       "summary": "【我驻卡塔尔使馆提醒在卡中国公民利用航班恢复机会抓紧撤离】当地时间3月6日，中国驻卡塔尔大使馆发布领事提醒，称当前中东局势仍复杂严峻，存在较大不确定性。通告中表示，3月5日起，国航、东航、南航、海航陆续恢复至阿联酋、阿曼、沙特等国往返航班，请滞留在卡塔尔的中方人员密切关注有关信息，利用航班恢复机会抓紧通过卡当地旅行社等渠道转移和撤离。",
@@ -29,8 +778,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 7,
+    "share_count": 22,
     "tags": {
       "industries": [],
       "concepts": [
@@ -60,9 +809,9 @@
     "raw_data": {
       "code": "202603063664659816",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 23,
       "realSort": "1772796543059816",
-      "share": 17,
+      "share": 33,
       "showTime": "2026-03-06 19:29:03",
       "stockList": [],
       "summary": "【商务部新闻发言人就欧盟《工业加速器法案》有关问题答记者问】中方注意到，欧盟3月4日发布了相关法案，对于外国企业投资电池、电动汽车、光伏、关键原材料四大行业设置了强制技术转让、外资股比、产品本地含量及本地员工等限制条款，且相关限制仅适用于在上述行业全球产能占比超过40%的第三国投资者，并在公共采购领域明确提出“欧盟制造优先”。这些做法构成了严重的投资壁垒和制度性歧视，涉嫌违反最惠国待遇原则，进一步加大了中国企业投资欧盟的不确定性。中方对此表示严重关切。",
@@ -76,8 +825,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 17,
+    "comment_count": 23,
+    "share_count": 33,
     "tags": {
       "industries": [
         {
@@ -131,13 +880,11 @@
     "raw_data": {
       "code": "202603063664659625",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1772796443059625",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-06 19:27:23",
-      "stockList": [
-        "1.688205"
-      ],
+      "stockList": [],
       "summary": "【德科立：股东钱明颖拟询价转让1.5%公司股份】德科立(688205.SH)公告称，股东钱明颖计划通过询价转让方式转让237.43万股股份，占公司总股本的1.50%。",
       "title": "德科立：股东钱明颖拟询价转让1.5%公司股份",
       "titleColor": 0
@@ -145,14 +892,55 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603063664659625.html",
     "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b9d0e67a8afb46cb",
+    "code": "202603063664658970",
+    "title": "卓胜微：2025年净亏损2.68亿元",
+    "summary": "【卓胜微：2025年净亏损2.68亿元】卓胜微发布2025年度业绩快报，报告期内公司实现营业收入37.26亿元，同比下降16.96%；归属于上市公司股东的净利润-2.68亿元，同比下降166.70%；基本每股收益-0.50元，同比下降166.63%。",
+    "content": "【卓胜微：2025年净亏损2.68亿元】卓胜微发布2025年度业绩快报，报告期内公司实现营业收入37.26亿元，同比下降16.96%；归属于上市公司股东的净利润-2.68亿元，同比下降166.70%；基本每股收益-0.50元，同比下降166.63%。",
+    "full_content": "【卓胜微：2025年净亏损2.68亿元】卓胜微发布2025年度业绩快报，报告期内公司实现营业收入37.26亿元，同比下降16.96%；归属于上市公司股东的净利润-2.68亿元，同比下降166.70%；基本每股收益-0.50元，同比下降166.63%。",
+    "sort_time": "1772796367058970",
+    "showTime": "2026-03-06 19:26:07",
+    "time": "2026-03-06 19:26:07",
+    "publish_time": "2026-03-06 19:26:07",
+    "raw_data": {
+      "code": "202603063664658970",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772796367058970",
+      "share": 1,
+      "showTime": "2026-03-06 19:26:07",
+      "stockList": [
+        "0.300782"
+      ],
+      "summary": "【卓胜微：2025年净亏损2.68亿元】卓胜微发布2025年度业绩快报，报告期内公司实现营业收入37.26亿元，同比下降16.96%；归属于上市公司股东的净利润-2.68亿元，同比下降166.70%；基本每股收益-0.50元，同比下降166.63%。",
+      "title": "卓胜微：2025年净亏损2.68亿元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603063664658970.html",
+    "category": "公司",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "1.688205"
+      "0.300782"
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -174,9 +962,9 @@
     "raw_data": {
       "code": "202603063664658473",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 7,
       "realSort": "1772796362058473",
-      "share": 2,
+      "share": 9,
       "showTime": "2026-03-06 19:26:02",
       "stockList": [
         "90.BK0420"
@@ -194,8 +982,8 @@
       "90.BK0420"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 2,
+    "comment_count": 7,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -217,9 +1005,9 @@
     "raw_data": {
       "code": "202603063664657082",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 26,
       "realSort": "1772796260057082",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-03-06 19:24:20",
       "stockList": [],
       "summary": "【伊朗外长说对抗美以已是胜利】当地时间3月5日，伊朗外长阿拉格齐在接受美国全国广播公司采访时表示，当前这场美国、以色列与伊朗之间的战争不存在赢家。面对美国与以色列自称的强大军事力量，伊朗只要坚持抵抗就是胜利——阿拉格齐说，美以是两个拥核国家，面对伊朗的坚强抵抗，对方并未达成其预设目标。",
@@ -233,8 +1021,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 0,
+    "comment_count": 26,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -256,9 +1044,9 @@
     "raw_data": {
       "code": "202603063664656016",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 11,
       "realSort": "1772796101056016",
-      "share": 21,
+      "share": 38,
       "showTime": "2026-03-06 19:21:41",
       "stockList": [
         "90.BK0731",
@@ -278,8 +1066,8 @@
       "90.BK1086"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 21,
+    "comment_count": 11,
+    "share_count": 38,
     "tags": {
       "industries": [],
       "concepts": [
@@ -315,9 +1103,9 @@
     "raw_data": {
       "code": "202603063664655550",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 23,
       "realSort": "1772796084055550",
-      "share": 25,
+      "share": 59,
       "showTime": "2026-03-06 19:21:24",
       "stockList": [],
       "summary": "据报道，伊拉克SARSANG油田遭袭击后停运。",
@@ -331,8 +1119,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 25,
+    "comment_count": 23,
+    "share_count": 59,
     "tags": {
       "industries": [
         {
@@ -372,9 +1160,9 @@
     "raw_data": {
       "code": "202603063664655244",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1772795904055244",
-      "share": 1,
+      "share": 5,
       "showTime": "2026-03-06 19:18:24",
       "stockList": [
         "105.MRVL"
@@ -392,8 +1180,8 @@
       "105.MRVL"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 3,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -423,9 +1211,9 @@
     "raw_data": {
       "code": "202603063664651472",
       "image": [],
-      "pinglun_Num": 32,
+      "pinglun_Num": 37,
       "realSort": "1772795812051472",
-      "share": 23,
+      "share": 33,
       "showTime": "2026-03-06 19:16:52",
       "stockList": [],
       "summary": "【华胜天成：董事申龙哲、刘亚玲及高管张秉霞拟合计减持不超0.0387%股份】华胜天成(600410.SH)公告称，董事申龙哲拟减持不超过33.76万股，占公司总股本的0.0308%；职工代表董事刘亚玲拟减持不超过3.96万股，占公司总股本的0.0036%；高级管理人员张秉霞拟减持不超过4.69万股，占公司总股本的0.0043%。",
@@ -439,8 +1227,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 32,
-    "share_count": 23,
+    "comment_count": 37,
+    "share_count": 33,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -466,9 +1254,7 @@
       "realSort": "1772795702048818",
       "share": 0,
       "showTime": "2026-03-06 19:15:02",
-      "stockList": [
-        "1.600539"
-      ],
+      "stockList": [],
       "summary": "【狮头股份：拟公开挂牌转让龙净水业70%股权】狮头股份(600539)3月6日公告，全资子公司杭州氿信拟通过浙江产权交易所以公开挂牌方式，转让其持有的浙江龙净水业有限公司70%股权，首次挂牌价格不低于1637.965万元。",
       "title": "狮头股份：拟公开挂牌转让龙净水业70%股权",
       "titleColor": 0
@@ -476,12 +1262,10 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603063664648818.html",
     "category": "其他",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "1.600539"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 0,
     "share_count": 0,
     "tags": {
@@ -505,7 +1289,7 @@
     "raw_data": {
       "code": "202603063664648289",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1772795610048289",
       "share": 1,
       "showTime": "2026-03-06 19:13:30",
@@ -525,7 +1309,7 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -556,9 +1340,9 @@
     "raw_data": {
       "code": "202603063664649433",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1772795575049433",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-06 19:12:55",
       "stockList": [
         "0.300887"
@@ -576,8 +1360,8 @@
       "0.300887"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
+    "comment_count": 2,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -638,7 +1422,7 @@
     "raw_data": {
       "code": "202603063664647096",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1772795433047096",
       "share": 1,
       "showTime": "2026-03-06 19:10:33",
@@ -660,7 +1444,7 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
+    "comment_count": 9,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -697,9 +1481,9 @@
     "raw_data": {
       "code": "202603063664643842",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1772795143043842",
-      "share": 11,
+      "share": 13,
       "showTime": "2026-03-06 19:05:43",
       "stockList": [
         "90.BK0464",
@@ -719,8 +1503,8 @@
       "0.159945"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 11,
+    "comment_count": 2,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [
@@ -795,9 +1579,9 @@
     "raw_data": {
       "code": "202603063664633953",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 11,
       "realSort": "1772795026033953",
-      "share": 4,
+      "share": 9,
       "showTime": "2026-03-06 19:03:46",
       "stockList": [
         "90.BK0428",
@@ -817,8 +1601,8 @@
       "90.BK1024"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 4,
+    "comment_count": 11,
+    "share_count": 9,
     "tags": {
       "industries": [
         {
@@ -864,9 +1648,9 @@
     "raw_data": {
       "code": "202603063664632914",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 15,
       "realSort": "1772794799032914",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-06 18:59:59",
       "stockList": [
         "90.BK0464",
@@ -886,8 +1670,8 @@
       "0.159945"
     ],
     "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 3,
+    "comment_count": 15,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -917,7 +1701,7 @@
     "raw_data": {
       "code": "202603063664632750",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1772794732032750",
       "share": 3,
       "showTime": "2026-03-06 18:58:52",
@@ -939,7 +1723,7 @@
       "90.BK0427"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -970,9 +1754,9 @@
     "raw_data": {
       "code": "202603063664632011",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 6,
       "realSort": "1772794724032011",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-03-06 18:58:44",
       "stockList": [
         "90.BK1029",
@@ -992,8 +1776,8 @@
       "1.600686"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
+    "comment_count": 6,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -1025,7 +1809,7 @@
     "raw_data": {
       "code": "202603063664630238",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1772794455030238",
       "share": 5,
       "showTime": "2026-03-06 18:54:15",
@@ -1041,7 +1825,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -1064,7 +1848,7 @@
     "raw_data": {
       "code": "202603063664627343",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1772794145027343",
       "share": 1,
       "showTime": "2026-03-06 18:49:05",
@@ -1080,7 +1864,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1195,7 +1979,7 @@
     "raw_data": {
       "code": "202603063664622957",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1772793825022957",
       "share": 2,
       "showTime": "2026-03-06 18:43:45",
@@ -1211,7 +1995,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1234,9 +2018,9 @@
     "raw_data": {
       "code": "202603063664621488",
       "image": [],
-      "pinglun_Num": 43,
+      "pinglun_Num": 48,
       "realSort": "1772793712021488",
-      "share": 28,
+      "share": 31,
       "showTime": "2026-03-06 18:41:52",
       "stockList": [],
       "summary": "【拓维信息：延期至3月19日披露2025年年度报告】拓维信息(002261.SZ)公告称，原计划于3月9日披露2025年年度报告，由于工作量大、过程繁杂，审计和编制工作仍在进行中。为确保报告的真实性、准确性和完整性，公司申请将年报披露时间延期至3月19日。目前公司生产经营正常。",
@@ -1250,8 +2034,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 43,
-    "share_count": 28,
+    "comment_count": 48,
+    "share_count": 31,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1324,7 +2108,7 @@
     "raw_data": {
       "code": "202603063664612232",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1772793480012232",
       "share": 6,
       "showTime": "2026-03-06 18:38:00",
@@ -1344,7 +2128,7 @@
       "1.603087"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -1424,7 +2208,7 @@
     "raw_data": {
       "code": "202603063664610748",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 8,
       "realSort": "1772793085010748",
       "share": 18,
       "showTime": "2026-03-06 18:31:25",
@@ -1440,7 +2224,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 8,
     "share_count": 18,
     "tags": {
       "industries": [],
@@ -1516,9 +2300,9 @@
     "raw_data": {
       "code": "202603063664609441",
       "image": [],
-      "pinglun_Num": 46,
+      "pinglun_Num": 51,
       "realSort": "1772792914009441",
-      "share": 48,
+      "share": 50,
       "showTime": "2026-03-06 18:28:34",
       "stockList": [],
       "summary": "【伊朗大规模发射先进导弹】最新消息：当地时间今天（3月6日）下午，伊朗伊斯兰革命卫队宣布，“真实承诺4”行动第22波打击开始。伊朗大规模发射了“霍拉姆沙赫尔-4”远程弹道导弹、“法塔赫”高超音速导弹等。",
@@ -1532,8 +2316,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 46,
-    "share_count": 48,
+    "comment_count": 51,
+    "share_count": 50,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1620,7 +2404,7 @@
       "image": [],
       "pinglun_Num": 26,
       "realSort": "1772792227005490",
-      "share": 34,
+      "share": 35,
       "showTime": "2026-03-06 18:17:07",
       "stockList": [
         "90.BK0577",
@@ -1641,7 +2425,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 26,
-    "share_count": 34,
+    "share_count": 35,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1654,798 +2438,6 @@
       "industry_ids": [],
       "concept_ids": [
         "C109"
-      ]
-    }
-  },
-  {
-    "id": "facc0a5226228061",
-    "code": "202603063664604543",
-    "title": "国际能源署署长：目前市场上的石油供应充足",
-    "summary": "国际能源署署长比罗尔表示，目前市场上的石油供应充足。",
-    "content": "国际能源署署长比罗尔表示，目前市场上的石油供应充足。",
-    "full_content": "国际能源署署长比罗尔表示，目前市场上的石油供应充足。",
-    "sort_time": "1772792198004543",
-    "showTime": "2026-03-06 18:16:38",
-    "time": "2026-03-06 18:16:38",
-    "publish_time": "2026-03-06 18:16:38",
-    "raw_data": {
-      "code": "202603063664604543",
-      "image": [],
-      "pinglun_Num": 16,
-      "realSort": "1772792198004543",
-      "share": 7,
-      "showTime": "2026-03-06 18:16:38",
-      "stockList": [
-        "90.BK0464",
-        "0.159945"
-      ],
-      "summary": "国际能源署署长比罗尔表示，目前市场上的石油供应充足。",
-      "title": "国际能源署署长：目前市场上的石油供应充足",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664604543.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464",
-      "0.159945"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 16,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "a328d9510827c225",
-    "code": "202603063664603368",
-    "title": "上交所：本周对标普油气ETF、中韩半导体ETF等溢价较高的基金重点监控",
-    "summary": "【上交所：本周对标普油气ETF、中韩半导体ETF等溢价较高的基金重点监控】2026年3月2日至2026年3月6日，上交所对281起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对标普油气ETF、中韩半导体ETF等溢价较高的基金，以及*ST正平等异常波动退市风险警示股票进行重点监控，对34起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索6起。",
-    "content": "【上交所：本周对标普油气ETF、中韩半导体ETF等溢价较高的基金重点监控】2026年3月2日至2026年3月6日，上交所对281起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对标普油气ETF、中韩半导体ETF等溢价较高的基金，以及*ST正平等异常波动退市风险警示股票进行重点监控，对34起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索6起。",
-    "full_content": "【上交所：本周对标普油气ETF、中韩半导体ETF等溢价较高的基金重点监控】2026年3月2日至2026年3月6日，上交所对281起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对标普油气ETF、中韩半导体ETF等溢价较高的基金，以及*ST正平等异常波动退市风险警示股票进行重点监控，对34起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索6起。",
-    "sort_time": "1772792117003368",
-    "showTime": "2026-03-06 18:15:17",
-    "time": "2026-03-06 18:15:17",
-    "publish_time": "2026-03-06 18:15:17",
-    "raw_data": {
-      "code": "202603063664603368",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1772792117003368",
-      "share": 103,
-      "showTime": "2026-03-06 18:15:17",
-      "stockList": [
-        "1.513350",
-        "1.513310"
-      ],
-      "summary": "【上交所：本周对标普油气ETF、中韩半导体ETF等溢价较高的基金重点监控】2026年3月2日至2026年3月6日，上交所对281起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对标普油气ETF、中韩半导体ETF等溢价较高的基金，以及*ST正平等异常波动退市风险警示股票进行重点监控，对34起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索6起。",
-      "title": "上交所：本周对标普油气ETF、中韩半导体ETF等溢价较高的基金重点监控",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664603368.html",
-    "category": "政策",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.513350",
-      "1.513310"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 15,
-    "share_count": 103,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        },
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "ETF"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "油气"
-        },
-        {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "退市"
-        }
-      ],
-      "industry_ids": [
-        "I010101",
-        "I020102",
-        "I020201"
-      ],
-      "concept_ids": [
-        "C002",
-        "C401",
-        "C506",
-        "C814"
-      ]
-    }
-  },
-  {
-    "id": "9ee0ac9d815f829a",
-    "code": "202603063664595935",
-    "title": "伊朗说要动用新一代导弹打击美以目标",
-    "summary": "【伊朗说要动用新一代导弹打击美以目标】伊朗伊斯兰革命卫队一名官员6日说，将动用新一代导弹打击美国和以色列目标。",
-    "content": "【伊朗说要动用新一代导弹打击美以目标】伊朗伊斯兰革命卫队一名官员6日说，将动用新一代导弹打击美国和以色列目标。",
-    "full_content": "【伊朗说要动用新一代导弹打击美以目标】伊朗伊斯兰革命卫队一名官员6日说，将动用新一代导弹打击美国和以色列目标。",
-    "sort_time": "1772791727095935",
-    "showTime": "2026-03-06 18:08:47",
-    "time": "2026-03-06 18:08:47",
-    "publish_time": "2026-03-06 18:08:47",
-    "raw_data": {
-      "code": "202603063664595935",
-      "image": [],
-      "pinglun_Num": 156,
-      "realSort": "1772791727095935",
-      "share": 241,
-      "showTime": "2026-03-06 18:08:47",
-      "stockList": [],
-      "summary": "【伊朗说要动用新一代导弹打击美以目标】伊朗伊斯兰革命卫队一名官员6日说，将动用新一代导弹打击美国和以色列目标。",
-      "title": "伊朗说要动用新一代导弹打击美以目标",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664595935.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 156,
-    "share_count": 241,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "133498bef46d648b",
-    "code": "202603063664594813",
-    "title": "特朗普称当前未考虑向伊朗派地面部队",
-    "summary": "【特朗普称当前未考虑向伊朗派地面部队】美国总统特朗普5日称，当前阶段未考虑向伊朗派遣地面部队。特朗普在接受美国全国广播公司电话采访时表示，当前阶段考虑向伊朗派遣地面部队是“浪费时间”，并声称伊朗“已失去海军，失去一切”，美国对伊朗“打击的节奏和强度将持续”。",
-    "content": "【特朗普称当前未考虑向伊朗派地面部队】美国总统特朗普5日称，当前阶段未考虑向伊朗派遣地面部队。特朗普在接受美国全国广播公司电话采访时表示，当前阶段考虑向伊朗派遣地面部队是“浪费时间”，并声称伊朗“已失去海军，失去一切”，美国对伊朗“打击的节奏和强度将持续”。",
-    "full_content": "【特朗普称当前未考虑向伊朗派地面部队】美国总统特朗普5日称，当前阶段未考虑向伊朗派遣地面部队。特朗普在接受美国全国广播公司电话采访时表示，当前阶段考虑向伊朗派遣地面部队是“浪费时间”，并声称伊朗“已失去海军，失去一切”，美国对伊朗“打击的节奏和强度将持续”。",
-    "sort_time": "1772791521094813",
-    "showTime": "2026-03-06 18:05:21",
-    "time": "2026-03-06 18:05:21",
-    "publish_time": "2026-03-06 18:05:21",
-    "raw_data": {
-      "code": "202603063664594813",
-      "image": [],
-      "pinglun_Num": 28,
-      "realSort": "1772791521094813",
-      "share": 18,
-      "showTime": "2026-03-06 18:05:21",
-      "stockList": [],
-      "summary": "【特朗普称当前未考虑向伊朗派地面部队】美国总统特朗普5日称，当前阶段未考虑向伊朗派遣地面部队。特朗普在接受美国全国广播公司电话采访时表示，当前阶段考虑向伊朗派遣地面部队是“浪费时间”，并声称伊朗“已失去海军，失去一切”，美国对伊朗“打击的节奏和强度将持续”。",
-      "title": "特朗普称当前未考虑向伊朗派地面部队",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664594813.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 28,
-    "share_count": 18,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "7d9765732e5abcbd",
-    "code": "202603063664594716",
-    "title": "欧元区第四季度GDP环比增长0.2% 预期为0.3%",
-    "summary": "欧元区第四季度GDP环比增长0.2%，预期为0.3%。欧元区第四季度经济同比增长1.2%，预期为1.3%。",
-    "content": "欧元区第四季度GDP环比增长0.2%，预期为0.3%。欧元区第四季度经济同比增长1.2%，预期为1.3%。",
-    "full_content": "欧元区第四季度GDP环比增长0.2%，预期为0.3%。欧元区第四季度经济同比增长1.2%，预期为1.3%。",
-    "sort_time": "1772791473094716",
-    "showTime": "2026-03-06 18:04:33",
-    "time": "2026-03-06 18:04:33",
-    "publish_time": "2026-03-06 18:04:33",
-    "raw_data": {
-      "code": "202603063664594716",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772791473094716",
-      "share": 0,
-      "showTime": "2026-03-06 18:04:33",
-      "stockList": [],
-      "summary": "欧元区第四季度GDP环比增长0.2%，预期为0.3%。欧元区第四季度经济同比增长1.2%，预期为1.3%。",
-      "title": "欧元区第四季度GDP环比增长0.2% 预期为0.3%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664594716.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "45b63e1d893ba527",
-    "code": "202603063664593216",
-    "title": "新希望：2月商品猪销售收入13.27亿元 同比下降7.42%",
-    "summary": "【新希望：2月商品猪销售收入13.27亿元 同比下降7.42%】新希望(000876)3月6日公告，2月销售商品猪98.22万头，环比下降12.44%，同比增长19.97%。商品猪销售收入13.27亿元，环比下降18.49%，同比下降7.42%。商品猪销售均价11.45元/公斤，环比下降8.25%，同比下降21.79%。",
-    "content": "【新希望：2月商品猪销售收入13.27亿元 同比下降7.42%】新希望(000876)3月6日公告，2月销售商品猪98.22万头，环比下降12.44%，同比增长19.97%。商品猪销售收入13.27亿元，环比下降18.49%，同比下降7.42%。商品猪销售均价11.45元/公斤，环比下降8.25%，同比下降21.79%。",
-    "full_content": "【新希望：2月商品猪销售收入13.27亿元 同比下降7.42%】新希望(000876)3月6日公告，2月销售商品猪98.22万头，环比下降12.44%，同比增长19.97%。商品猪销售收入13.27亿元，环比下降18.49%，同比下降7.42%。商品猪销售均价11.45元/公斤，环比下降8.25%，同比下降21.79%。",
-    "sort_time": "1772791276093216",
-    "showTime": "2026-03-06 18:01:16",
-    "time": "2026-03-06 18:01:16",
-    "publish_time": "2026-03-06 18:01:16",
-    "raw_data": {
-      "code": "202603063664593216",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772791276093216",
-      "share": 1,
-      "showTime": "2026-03-06 18:01:16",
-      "stockList": [],
-      "summary": "【新希望：2月商品猪销售收入13.27亿元 同比下降7.42%】新希望(000876)3月6日公告，2月销售商品猪98.22万头，环比下降12.44%，同比增长19.97%。商品猪销售收入13.27亿元，环比下降18.49%，同比下降7.42%。商品猪销售均价11.45元/公斤，环比下降8.25%，同比下降21.79%。",
-      "title": "新希望：2月商品猪销售收入13.27亿元 同比下降7.42%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664593216.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ea5c13cb85442b62",
-    "code": "202603063664593471",
-    "title": "卫光生物：人凝血因子Ⅸ临床试验申请获得受理",
-    "summary": "【卫光生物：人凝血因子Ⅸ临床试验申请获得受理】卫光生物(002880)3月6日公告，公司近日收到国家药监局签发的人凝血因子Ⅸ境内生产药品注册临床试验申请《受理通知书》，药品适应症为凝血因子Ⅸ缺乏症（B型血友病）患者的出血治疗。",
-    "content": "【卫光生物：人凝血因子Ⅸ临床试验申请获得受理】卫光生物(002880)3月6日公告，公司近日收到国家药监局签发的人凝血因子Ⅸ境内生产药品注册临床试验申请《受理通知书》，药品适应症为凝血因子Ⅸ缺乏症（B型血友病）患者的出血治疗。",
-    "full_content": "【卫光生物：人凝血因子Ⅸ临床试验申请获得受理】卫光生物(002880)3月6日公告，公司近日收到国家药监局签发的人凝血因子Ⅸ境内生产药品注册临床试验申请《受理通知书》，药品适应症为凝血因子Ⅸ缺乏症（B型血友病）患者的出血治疗。",
-    "sort_time": "1772791271093471",
-    "showTime": "2026-03-06 18:01:11",
-    "time": "2026-03-06 18:01:11",
-    "publish_time": "2026-03-06 18:01:11",
-    "raw_data": {
-      "code": "202603063664593471",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772791271093471",
-      "share": 1,
-      "showTime": "2026-03-06 18:01:11",
-      "stockList": [],
-      "summary": "【卫光生物：人凝血因子Ⅸ临床试验申请获得受理】卫光生物(002880)3月6日公告，公司近日收到国家药监局签发的人凝血因子Ⅸ境内生产药品注册临床试验申请《受理通知书》，药品适应症为凝血因子Ⅸ缺乏症（B型血友病）患者的出血治疗。",
-      "title": "卫光生物：人凝血因子Ⅸ临床试验申请获得受理",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664593471.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "37867b0546954bfe",
-    "code": "202603063664591364",
-    "title": "华灿光电：针对MicroLED在光通信等扩展领域的应用 目前仍处于早期研发和样品验证阶段",
-    "summary": "【华灿光电：针对MicroLED在光通信等扩展领域的应用 目前仍处于早期研发和样品验证阶段】华灿光电(300323.SZ)发布股票交易异常波动的公告，公司主营业务未发生改变，针对MicroLED在光通信等扩展领域的应用，目前仍处于早期研发和样品验证阶段，短期内不会对公司经营业绩产生实质性影响。",
-    "content": "【华灿光电：针对MicroLED在光通信等扩展领域的应用 目前仍处于早期研发和样品验证阶段】华灿光电(300323.SZ)发布股票交易异常波动的公告，公司主营业务未发生改变，针对MicroLED在光通信等扩展领域的应用，目前仍处于早期研发和样品验证阶段，短期内不会对公司经营业绩产生实质性影响。",
-    "full_content": "【华灿光电：针对MicroLED在光通信等扩展领域的应用 目前仍处于早期研发和样品验证阶段】华灿光电(300323.SZ)发布股票交易异常波动的公告，公司主营业务未发生改变，针对MicroLED在光通信等扩展领域的应用，目前仍处于早期研发和样品验证阶段，短期内不会对公司经营业绩产生实质性影响。",
-    "sort_time": "1772791216091364",
-    "showTime": "2026-03-06 18:00:16",
-    "time": "2026-03-06 18:00:16",
-    "publish_time": "2026-03-06 18:00:16",
-    "raw_data": {
-      "code": "202603063664591364",
-      "image": [],
-      "pinglun_Num": 28,
-      "realSort": "1772791216091364",
-      "share": 9,
-      "showTime": "2026-03-06 18:00:16",
-      "stockList": [],
-      "summary": "【华灿光电：针对MicroLED在光通信等扩展领域的应用 目前仍处于早期研发和样品验证阶段】华灿光电(300323.SZ)发布股票交易异常波动的公告，公司主营业务未发生改变，针对MicroLED在光通信等扩展领域的应用，目前仍处于早期研发和样品验证阶段，短期内不会对公司经营业绩产生实质性影响。",
-      "title": "华灿光电：针对MicroLED在光通信等扩展领域的应用 目前仍处于早期研发和样品验证阶段",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664591364.html",
-    "category": "公司",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 28,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "光通信"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "dbc0ea6d4c523c6f",
-    "code": "202603063664590279",
-    "title": "胡塞称全面支持伊朗准备随时参战",
-    "summary": "【胡塞称全面支持伊朗准备随时参战】也门胡塞武装领导人阿卜杜勒·马利克·胡塞当地时间3月5日晚表示，胡塞武装“全面支持”伊朗，已做好准备在事态发展需要时采取行动。",
-    "content": "【胡塞称全面支持伊朗准备随时参战】也门胡塞武装领导人阿卜杜勒·马利克·胡塞当地时间3月5日晚表示，胡塞武装“全面支持”伊朗，已做好准备在事态发展需要时采取行动。",
-    "full_content": "【胡塞称全面支持伊朗准备随时参战】也门胡塞武装领导人阿卜杜勒·马利克·胡塞当地时间3月5日晚表示，胡塞武装“全面支持”伊朗，已做好准备在事态发展需要时采取行动。",
-    "sort_time": "1772791128090279",
-    "showTime": "2026-03-06 17:58:48",
-    "time": "2026-03-06 17:58:48",
-    "publish_time": "2026-03-06 17:58:48",
-    "raw_data": {
-      "code": "202603063664590279",
-      "image": [],
-      "pinglun_Num": 23,
-      "realSort": "1772791128090279",
-      "share": 36,
-      "showTime": "2026-03-06 17:58:48",
-      "stockList": [],
-      "summary": "【胡塞称全面支持伊朗准备随时参战】也门胡塞武装领导人阿卜杜勒·马利克·胡塞当地时间3月5日晚表示，胡塞武装“全面支持”伊朗，已做好准备在事态发展需要时采取行动。",
-      "title": "胡塞称全面支持伊朗准备随时参战",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664590279.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 23,
-    "share_count": 36,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "db9d3ee80fd0fa12",
-    "code": "202603063664587694",
-    "title": "俄央行将外币现金提取限制措施再延长半年",
-    "summary": "【俄央行将外币现金提取限制措施再延长半年】当地时间3月6日，俄罗斯央行新闻处发布消息称，俄央行将外币现金提取的限制措施再度延长半年，至2026年9月9日。",
-    "content": "【俄央行将外币现金提取限制措施再延长半年】当地时间3月6日，俄罗斯央行新闻处发布消息称，俄央行将外币现金提取的限制措施再度延长半年，至2026年9月9日。",
-    "full_content": "【俄央行将外币现金提取限制措施再延长半年】当地时间3月6日，俄罗斯央行新闻处发布消息称，俄央行将外币现金提取的限制措施再度延长半年，至2026年9月9日。",
-    "sort_time": "1772791047087694",
-    "showTime": "2026-03-06 17:57:27",
-    "time": "2026-03-06 17:57:27",
-    "publish_time": "2026-03-06 17:57:27",
-    "raw_data": {
-      "code": "202603063664587694",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772791047087694",
-      "share": 2,
-      "showTime": "2026-03-06 17:57:27",
-      "stockList": [],
-      "summary": "【俄央行将外币现金提取限制措施再延长半年】当地时间3月6日，俄罗斯央行新闻处发布消息称，俄央行将外币现金提取的限制措施再度延长半年，至2026年9月9日。",
-      "title": "俄央行将外币现金提取限制措施再延长半年",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664587694.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "ca4e23ff2ad5dbb1",
-    "code": "202603063664587266",
-    "title": "创业板推更精准、更包容上市标准！哪类企业受益？一文了解",
-    "summary": "【创业板推更精准、更包容上市标准！哪类企业受益？一文了解】3月6日，证监会主席吴清在经济主题记者会上透露了不少监管动作，尤其是提到了证监会一大改革落地在即。他称，深化创业板改革总体方案已基本成型，将完善后择机发布，具体来看，创业板改革整体包括三方面举措。",
-    "content": "【创业板推更精准、更包容上市标准！哪类企业受益？一文了解】3月6日，证监会主席吴清在经济主题记者会上透露了不少监管动作，尤其是提到了证监会一大改革落地在即。他称，深化创业板改革总体方案已基本成型，将完善后择机发布，具体来看，创业板改革整体包括三方面举措。",
-    "full_content": "【创业板推更精准、更包容上市标准！哪类企业受益？一文了解】3月6日，证监会主席吴清在经济主题记者会上透露了不少监管动作，尤其是提到了证监会一大改革落地在即。他称，深化创业板改革总体方案已基本成型，将完善后择机发布，具体来看，创业板改革整体包括三方面举措。",
-    "sort_time": "1772790999087266",
-    "showTime": "2026-03-06 17:56:39",
-    "time": "2026-03-06 17:56:39",
-    "publish_time": "2026-03-06 17:56:39",
-    "raw_data": {
-      "code": "202603063664587266",
-      "image": [],
-      "pinglun_Num": 51,
-      "realSort": "1772790999087266",
-      "share": 95,
-      "showTime": "2026-03-06 17:56:39",
-      "stockList": [
-        "90.BK0638",
-        "90.BK0742"
-      ],
-      "summary": "【创业板推更精准、更包容上市标准！哪类企业受益？一文了解】3月6日，证监会主席吴清在经济主题记者会上透露了不少监管动作，尤其是提到了证监会一大改革落地在即。他称，深化创业板改革总体方案已基本成型，将完善后择机发布，具体来看，创业板改革整体包括三方面举措。",
-      "title": "创业板推更精准、更包容上市标准！哪类企业受益？一文了解",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664587266.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0638",
-      "90.BK0742"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 51,
-    "share_count": 95,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8a6eabdd3df26f6b",
-    "code": "202603063664578628",
-    "title": "印度政府官员：向石油化工项目供应的液化石油气已遭中断",
-    "summary": "印度政府官员表示，向石油化工项目供应的液化石油气已遭中断。",
-    "content": "印度政府官员表示，向石油化工项目供应的液化石油气已遭中断。",
-    "full_content": "印度政府官员表示，向石油化工项目供应的液化石油气已遭中断。",
-    "sort_time": "1772790678078628",
-    "showTime": "2026-03-06 17:51:18",
-    "time": "2026-03-06 17:51:18",
-    "publish_time": "2026-03-06 17:51:18",
-    "raw_data": {
-      "code": "202603063664578628",
-      "image": [],
-      "pinglun_Num": 16,
-      "realSort": "1772790678078628",
-      "share": 27,
-      "showTime": "2026-03-06 17:51:18",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "印度政府官员表示，向石油化工项目供应的液化石油气已遭中断。",
-      "title": "印度政府官员：向石油化工项目供应的液化石油气已遭中断",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664578628.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 16,
-    "share_count": 27,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "油气"
-        },
-        {
-          "id": "C508",
-          "name": "化工",
-          "matched_keyword": "化工"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506",
-        "C508"
-      ]
-    }
-  },
-  {
-    "id": "d744296f688ab8ba",
-    "code": "202603063664577590",
-    "title": "日本启动第18次核污染水排海",
-    "summary": "【日本启动第18次核污染水排海】日本东京电力公司6日上午开始向海洋排放福岛第一核电站的核污染水。这是该公司2025财年（2025年4月至2026年3月）第7次核污染水排海，也是总计第18次核污染水排海。",
-    "content": "【日本启动第18次核污染水排海】日本东京电力公司6日上午开始向海洋排放福岛第一核电站的核污染水。这是该公司2025财年（2025年4月至2026年3月）第7次核污染水排海，也是总计第18次核污染水排海。",
-    "full_content": "【日本启动第18次核污染水排海】日本东京电力公司6日上午开始向海洋排放福岛第一核电站的核污染水。这是该公司2025财年（2025年4月至2026年3月）第7次核污染水排海，也是总计第18次核污染水排海。",
-    "sort_time": "1772790608077590",
-    "showTime": "2026-03-06 17:50:08",
-    "time": "2026-03-06 17:50:08",
-    "publish_time": "2026-03-06 17:50:08",
-    "raw_data": {
-      "code": "202603063664577590",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1772790608077590",
-      "share": 10,
-      "showTime": "2026-03-06 17:50:08",
-      "stockList": [],
-      "summary": "【日本启动第18次核污染水排海】日本东京电力公司6日上午开始向海洋排放福岛第一核电站的核污染水。这是该公司2025财年（2025年4月至2026年3月）第7次核污染水排海，也是总计第18次核污染水排海。",
-      "title": "日本启动第18次核污染水排海",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664577590.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 10,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C109",
-          "name": "核能",
-          "matched_keyword": "核电站"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C109"
-      ]
-    }
-  },
-  {
-    "id": "f2fd0cd8fcbc3b75",
-    "code": "202603063664577233",
-    "title": "欧尔班：若乌克兰不恢复输油　匈方将暂停过境货物运乌",
-    "summary": "【欧尔班：若乌克兰不恢复输油　匈方将暂停过境货物运乌】匈牙利总理欧尔班6日表示，如果乌克兰不恢复“友谊”输油管道经乌领土向匈牙利输送原油，匈方将暂停过境匈牙利运往乌克兰的重要物资。",
-    "content": "【欧尔班：若乌克兰不恢复输油　匈方将暂停过境货物运乌】匈牙利总理欧尔班6日表示，如果乌克兰不恢复“友谊”输油管道经乌领土向匈牙利输送原油，匈方将暂停过境匈牙利运往乌克兰的重要物资。",
-    "full_content": "【欧尔班：若乌克兰不恢复输油　匈方将暂停过境货物运乌】匈牙利总理欧尔班6日表示，如果乌克兰不恢复“友谊”输油管道经乌领土向匈牙利输送原油，匈方将暂停过境匈牙利运往乌克兰的重要物资。",
-    "sort_time": "1772790585077233",
-    "showTime": "2026-03-06 17:49:45",
-    "time": "2026-03-06 17:49:45",
-    "publish_time": "2026-03-06 17:49:45",
-    "raw_data": {
-      "code": "202603063664577233",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1772790585077233",
-      "share": 6,
-      "showTime": "2026-03-06 17:49:45",
-      "stockList": [],
-      "summary": "【欧尔班：若乌克兰不恢复输油　匈方将暂停过境货物运乌】匈牙利总理欧尔班6日表示，如果乌克兰不恢复“友谊”输油管道经乌领土向匈牙利输送原油，匈方将暂停过境匈牙利运往乌克兰的重要物资。",
-      "title": "欧尔班：若乌克兰不恢复输油　匈方将暂停过境货物运乌",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664577233.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "43a0b020db164ba6",
-    "code": "202603063664574526",
-    "title": "WTI原油涨幅扩大至3.6%",
-    "summary": "WTI原油涨幅扩大至3.6%，报83.9美元/桶。",
-    "content": "WTI原油涨幅扩大至3.6%，报83.9美元/桶。",
-    "full_content": "WTI原油涨幅扩大至3.6%，报83.9美元/桶。",
-    "sort_time": "1772790038074526",
-    "showTime": "2026-03-06 17:40:38",
-    "time": "2026-03-06 17:40:38",
-    "publish_time": "2026-03-06 17:40:38",
-    "raw_data": {
-      "code": "202603063664574526",
-      "image": [],
-      "pinglun_Num": 20,
-      "realSort": "1772790038074526",
-      "share": 22,
-      "showTime": "2026-03-06 17:40:38",
-      "stockList": [],
-      "summary": "WTI原油涨幅扩大至3.6%，报83.9美元/桶。",
-      "title": "WTI原油涨幅扩大至3.6%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664574526.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 22,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "66ba2b74df562480",
-    "code": "202603063664574413",
-    "title": "潘功胜：有序推进人民币国际化",
-    "summary": "【潘功胜：有序推进人民币国际化】在十四届全国人大四次会议经济主题记者会上，中国人民银行行长潘功胜表示，有序推进人民币国际化，发展离岸人民币市场，支持上海国际金融中心的建设，巩固提升香港国际金融中心的地位。",
-    "content": "【潘功胜：有序推进人民币国际化】在十四届全国人大四次会议经济主题记者会上，中国人民银行行长潘功胜表示，有序推进人民币国际化，发展离岸人民币市场，支持上海国际金融中心的建设，巩固提升香港国际金融中心的地位。",
-    "full_content": "【潘功胜：有序推进人民币国际化】在十四届全国人大四次会议经济主题记者会上，中国人民银行行长潘功胜表示，有序推进人民币国际化，发展离岸人民币市场，支持上海国际金融中心的建设，巩固提升香港国际金融中心的地位。",
-    "sort_time": "1772790016074413",
-    "showTime": "2026-03-06 17:40:16",
-    "time": "2026-03-06 17:40:16",
-    "publish_time": "2026-03-06 17:40:16",
-    "raw_data": {
-      "code": "202603063664574413",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772790016074413",
-      "share": 9,
-      "showTime": "2026-03-06 17:40:16",
-      "stockList": [
-        "0.159940"
-      ],
-      "summary": "【潘功胜：有序推进人民币国际化】在十四届全国人大四次会议经济主题记者会上，中国人民银行行长潘功胜表示，有序推进人民币国际化，发展离岸人民币市场，支持上海国际金融中心的建设，巩固提升香港国际金融中心的地位。",
-      "title": "潘功胜：有序推进人民币国际化",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603063664574413.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159940"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 9,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
       ]
     }
   }
