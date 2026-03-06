@@ -1,5 +1,121 @@
 [
   {
+    "id": "0ef0bc796460183b",
+    "code": "202603073664869318",
+    "title": "现货黄金涨1.75% 报5171美元/盎司",
+    "summary": "现货黄金涨1.75%，报5171美元/盎司，本周累跌2.06%；COMEX黄金期货涨1.9%，报5175美元/盎司，本周累跌1.3%。",
+    "content": "现货黄金涨1.75%，报5171美元/盎司，本周累跌2.06%；COMEX黄金期货涨1.9%，报5175美元/盎司，本周累跌1.3%。",
+    "full_content": "现货黄金涨1.75%，报5171美元/盎司，本周累跌2.06%；COMEX黄金期货涨1.9%，报5175美元/盎司，本周累跌1.3%。",
+    "sort_time": "1772833582069318",
+    "showTime": "2026-03-07 05:46:22",
+    "time": "2026-03-07 05:46:22",
+    "publish_time": "2026-03-07 05:46:22",
+    "raw_data": {
+      "code": "202603073664869318",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772833582069318",
+      "share": 0,
+      "showTime": "2026-03-07 05:46:22",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金涨1.75%，报5171美元/盎司，本周累跌2.06%；COMEX黄金期货涨1.9%，报5175美元/盎司，本周累跌1.3%。",
+      "title": "现货黄金涨1.75% 报5171美元/盎司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603073664869318.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "9a334c9b26e9ec9c",
+    "code": "202603073664869027",
+    "title": "美联储数据显示：美国上周银行存款18.797万亿美元 之前一周18.778万亿美元",
+    "summary": "美联储数据显示，美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+    "content": "美联储数据显示，美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+    "full_content": "美联储数据显示，美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+    "sort_time": "1772832202069027",
+    "showTime": "2026-03-07 05:23:22",
+    "time": "2026-03-07 05:23:22",
+    "publish_time": "2026-03-07 05:23:22",
+    "raw_data": {
+      "code": "202603073664869027",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772832202069027",
+      "share": 0,
+      "showTime": "2026-03-07 05:23:22",
+      "stockList": [
+        "90.BK1283",
+        "0.161121"
+      ],
+      "summary": "美联储数据显示，美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+      "title": "美联储数据显示：美国上周银行存款18.797万亿美元 之前一周18.778万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603073664869027.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
     "id": "21238b53c683c102",
     "code": "202603073664868315",
     "title": "富时A50期指连续夜盘收跌0.92% 报14486点",
@@ -114,6 +230,59 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
+    }
+  },
+  {
+    "id": "38bd5c42f0cb4292",
+    "code": "202603073664868143",
+    "title": "美股三大指数集体收跌 大型科技股普跌",
+    "summary": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，纳指跌1.59%，本周累跌1.24%；标普500指数跌1.33%，本周累跌2.02%；道指跌0.95%，本周累跌3.01%。大型科技股普跌，英特尔跌超5%，英伟达跌3%，亚马逊、特斯拉、Meta跌超2%，苹果跌逾1%，微软、谷歌小幅下跌。美股加密货币概念股回落，Riot Platforms跌超9%，IREN跌超8%，BMNR跌超7%，Robinhood、Strategy、Coinbase跌超4%。迈威尔科技收涨18%，创2025年4月份以来最佳单日表现。",
+    "content": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，纳指跌1.59%，本周累跌1.24%；标普500指数跌1.33%，本周累跌2.02%；道指跌0.95%，本周累跌3.01%。大型科技股普跌，英特尔跌超5%，英伟达跌3%，亚马逊、特斯拉、Meta跌超2%，苹果跌逾1%，微软、谷歌小幅下跌。美股加密货币概念股回落，Riot Platforms跌超9%，IREN跌超8%，BMNR跌超7%，Robinhood、Strategy、Coinbase跌超4%。迈威尔科技收涨18%，创2025年4月份以来最佳单日表现。",
+    "full_content": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，纳指跌1.59%，本周累跌1.24%；标普500指数跌1.33%，本周累跌2.02%；道指跌0.95%，本周累跌3.01%。大型科技股普跌，英特尔跌超5%，英伟达跌3%，亚马逊、特斯拉、Meta跌超2%，苹果跌逾1%，微软、谷歌小幅下跌。美股加密货币概念股回落，Riot Platforms跌超9%，IREN跌超8%，BMNR跌超7%，Robinhood、Strategy、Coinbase跌超4%。迈威尔科技收涨18%，创2025年4月份以来最佳单日表现。",
+    "sort_time": "1772830844068143",
+    "showTime": "2026-03-07 05:00:44",
+    "time": "2026-03-07 05:00:44",
+    "publish_time": "2026-03-07 05:00:44",
+    "raw_data": {
+      "code": "202603073664868143",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1772830844068143",
+      "share": 3,
+      "showTime": "2026-03-07 05:00:44",
+      "stockList": [],
+      "summary": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，纳指跌1.59%，本周累跌1.24%；标普500指数跌1.33%，本周累跌2.02%；道指跌0.95%，本周累跌3.01%。大型科技股普跌，英特尔跌超5%，英伟达跌3%，亚马逊、特斯拉、Meta跌超2%，苹果跌逾1%，微软、谷歌小幅下跌。美股加密货币概念股回落，Riot Platforms跌超9%，IREN跌超8%，BMNR跌超7%，Robinhood、Strategy、Coinbase跌超4%。迈威尔科技收涨18%，创2025年4月份以来最佳单日表现。",
+      "title": "美股三大指数集体收跌 大型科技股普跌",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603073664868143.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805",
+        "C807"
+      ]
     }
   },
   {

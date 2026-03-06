@@ -1,5 +1,121 @@
 [
   {
+    "id": "0ef0bc796460183b",
+    "code": "202603073664869318",
+    "title": "现货黄金涨1.75% 报5171美元/盎司",
+    "summary": "现货黄金涨1.75%，报5171美元/盎司，本周累跌2.06%；COMEX黄金期货涨1.9%，报5175美元/盎司，本周累跌1.3%。",
+    "content": "现货黄金涨1.75%，报5171美元/盎司，本周累跌2.06%；COMEX黄金期货涨1.9%，报5175美元/盎司，本周累跌1.3%。",
+    "full_content": "现货黄金涨1.75%，报5171美元/盎司，本周累跌2.06%；COMEX黄金期货涨1.9%，报5175美元/盎司，本周累跌1.3%。",
+    "sort_time": "1772833582069318",
+    "showTime": "2026-03-07 05:46:22",
+    "time": "2026-03-07 05:46:22",
+    "publish_time": "2026-03-07 05:46:22",
+    "raw_data": {
+      "code": "202603073664869318",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772833582069318",
+      "share": 0,
+      "showTime": "2026-03-07 05:46:22",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金涨1.75%，报5171美元/盎司，本周累跌2.06%；COMEX黄金期货涨1.9%，报5175美元/盎司，本周累跌1.3%。",
+      "title": "现货黄金涨1.75% 报5171美元/盎司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603073664869318.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "9a334c9b26e9ec9c",
+    "code": "202603073664869027",
+    "title": "美联储数据显示：美国上周银行存款18.797万亿美元 之前一周18.778万亿美元",
+    "summary": "美联储数据显示，美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+    "content": "美联储数据显示，美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+    "full_content": "美联储数据显示，美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+    "sort_time": "1772832202069027",
+    "showTime": "2026-03-07 05:23:22",
+    "time": "2026-03-07 05:23:22",
+    "publish_time": "2026-03-07 05:23:22",
+    "raw_data": {
+      "code": "202603073664869027",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1772832202069027",
+      "share": 0,
+      "showTime": "2026-03-07 05:23:22",
+      "stockList": [
+        "90.BK1283",
+        "0.161121"
+      ],
+      "summary": "美联储数据显示，美国上周银行存款18.797万亿美元，之前一周18.778万亿美元。",
+      "title": "美联储数据显示：美国上周银行存款18.797万亿美元 之前一周18.778万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603073664869027.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
     "id": "21238b53c683c102",
     "code": "202603073664868315",
     "title": "富时A50期指连续夜盘收跌0.92% 报14486点",
@@ -15,7 +131,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1772831905068315",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-07 05:18:25",
       "stockList": [],
       "summary": "富时A50期指连续夜盘收跌0.92%，报14486点。",
@@ -30,7 +146,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -78,12 +194,12 @@
     }
   },
   {
-    "id": "97e3e3eb324faa25",
+    "id": "38bd5c42f0cb4292",
     "code": "202603073664868143",
-    "title": "美股三大指数集体收跌",
-    "summary": "美股三大指数集体收跌，纳指跌1.59%，标普500指数跌1.33%，道指跌0.95%。",
-    "content": "美股三大指数集体收跌，纳指跌1.59%，标普500指数跌1.33%，道指跌0.95%。",
-    "full_content": "美股三大指数集体收跌，纳指跌1.59%，标普500指数跌1.33%，道指跌0.95%。",
+    "title": "美股三大指数集体收跌 大型科技股普跌",
+    "summary": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，纳指跌1.59%，本周累跌1.24%；标普500指数跌1.33%，本周累跌2.02%；道指跌0.95%，本周累跌3.01%。大型科技股普跌，英特尔跌超5%，英伟达跌3%，亚马逊、特斯拉、Meta跌超2%，苹果跌逾1%，微软、谷歌小幅下跌。美股加密货币概念股回落，Riot Platforms跌超9%，IREN跌超8%，BMNR跌超7%，Robinhood、Strategy、Coinbase跌超4%。迈威尔科技收涨18%，创2025年4月份以来最佳单日表现。",
+    "content": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，纳指跌1.59%，本周累跌1.24%；标普500指数跌1.33%，本周累跌2.02%；道指跌0.95%，本周累跌3.01%。大型科技股普跌，英特尔跌超5%，英伟达跌3%，亚马逊、特斯拉、Meta跌超2%，苹果跌逾1%，微软、谷歌小幅下跌。美股加密货币概念股回落，Riot Platforms跌超9%，IREN跌超8%，BMNR跌超7%，Robinhood、Strategy、Coinbase跌超4%。迈威尔科技收涨18%，创2025年4月份以来最佳单日表现。",
+    "full_content": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，纳指跌1.59%，本周累跌1.24%；标普500指数跌1.33%，本周累跌2.02%；道指跌0.95%，本周累跌3.01%。大型科技股普跌，英特尔跌超5%，英伟达跌3%，亚马逊、特斯拉、Meta跌超2%，苹果跌逾1%，微软、谷歌小幅下跌。美股加密货币概念股回落，Riot Platforms跌超9%，IREN跌超8%，BMNR跌超7%，Robinhood、Strategy、Coinbase跌超4%。迈威尔科技收涨18%，创2025年4月份以来最佳单日表现。",
     "sort_time": "1772830844068143",
     "showTime": "2026-03-07 05:00:44",
     "time": "2026-03-07 05:00:44",
@@ -91,29 +207,43 @@
     "raw_data": {
       "code": "202603073664868143",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1772830844068143",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-03-07 05:00:44",
       "stockList": [],
-      "summary": "美股三大指数集体收跌，纳指跌1.59%，标普500指数跌1.33%，道指跌0.95%。",
-      "title": "美股三大指数集体收跌",
+      "summary": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，纳指跌1.59%，本周累跌1.24%；标普500指数跌1.33%，本周累跌2.02%；道指跌0.95%，本周累跌3.01%。大型科技股普跌，英特尔跌超5%，英伟达跌3%，亚马逊、特斯拉、Meta跌超2%，苹果跌逾1%，微软、谷歌小幅下跌。美股加密货币概念股回落，Riot Platforms跌超9%，IREN跌超8%，BMNR跌超7%，Robinhood、Strategy、Coinbase跌超4%。迈威尔科技收涨18%，创2025年4月份以来最佳单日表现。",
+      "title": "美股三大指数集体收跌 大型科技股普跌",
       "titleColor": 0
     },
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603073664868143.html",
-    "category": "其他",
+    "category": "行业",
     "importance": 5,
-    "sentiment": "neutral",
+    "sentiment": "bearish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 4,
+    "share_count": 3,
     "tags": {
       "industries": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
       "industry_ids": [],
-      "concept_ids": []
+      "concept_ids": [
+        "C805",
+        "C807"
+      ]
     }
   },
   {
@@ -130,7 +260,7 @@
     "raw_data": {
       "code": "202603073664868056",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 4,
       "realSort": "1772830313068056",
       "share": 0,
       "showTime": "2026-03-07 04:51:53",
@@ -146,7 +276,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -224,7 +354,7 @@
     "raw_data": {
       "code": "202603073664867874",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1772829965067874",
       "share": 0,
       "showTime": "2026-03-07 04:46:05",
@@ -240,7 +370,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -318,7 +448,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1772828968063051",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-03-07 04:29:28",
       "stockList": [
         "90.BK0427"
@@ -337,7 +467,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -445,9 +575,9 @@
     "raw_data": {
       "code": "202603073664862674",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 6,
       "realSort": "1772828076062674",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-07 04:14:36",
       "stockList": [
         "90.BK0922",
@@ -467,8 +597,8 @@
       "106.ORCL"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 3,
+    "comment_count": 6,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -506,7 +636,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1772827661065435",
-      "share": 0,
+      "share": 3,
       "showTime": "2026-03-07 04:07:41",
       "stockList": [
         "90.BK0538",
@@ -527,7 +657,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -563,7 +693,7 @@
     "raw_data": {
       "code": "202603073664862518",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 6,
       "realSort": "1772827560062518",
       "share": 1,
       "showTime": "2026-03-07 04:06:00",
@@ -579,7 +709,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 6,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -610,7 +740,7 @@
     "raw_data": {
       "code": "202603073664862442",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 18,
       "realSort": "1772827111062442",
       "share": 3,
       "showTime": "2026-03-07 03:58:31",
@@ -626,7 +756,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
+    "comment_count": 18,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -651,7 +781,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1772825592062958",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-07 03:33:12",
       "stockList": [
         "90.BK1361"
@@ -670,7 +800,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -810,7 +940,7 @@
     "raw_data": {
       "code": "202603073664856937",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 25,
       "realSort": "1772824557056937",
       "share": 3,
       "showTime": "2026-03-07 03:15:57",
@@ -826,7 +956,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
+    "comment_count": 25,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -988,7 +1118,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1772822871056436",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-07 02:47:51",
       "stockList": [],
       "summary": "巴克莱称，如果中东局势再持续数周，布伦特原油有可能试探120美元/桶。",
@@ -1003,7 +1133,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 5,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1286,7 +1416,7 @@
     "raw_data": {
       "code": "202603073664855726",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 33,
       "realSort": "1772819987055726",
       "share": 6,
       "showTime": "2026-03-07 01:59:47",
@@ -1302,7 +1432,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 21,
+    "comment_count": 33,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -2253,116 +2383,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "b5777af3d5ee33b2",
-    "code": "202603073664832466",
-    "title": "伊朗体育代表团将不参加米兰冬残奥会",
-    "summary": "【伊朗体育代表团将不参加米兰冬残奥会】国际残奥委会6日确认，伊朗残奥委会将无法派团参加2026年米兰-科尔蒂纳冬残奥会。",
-    "content": "【伊朗体育代表团将不参加米兰冬残奥会】国际残奥委会6日确认，伊朗残奥委会将无法派团参加2026年米兰-科尔蒂纳冬残奥会。",
-    "full_content": "【伊朗体育代表团将不参加米兰冬残奥会】国际残奥委会6日确认，伊朗残奥委会将无法派团参加2026年米兰-科尔蒂纳冬残奥会。",
-    "sort_time": "1772814045032466",
-    "showTime": "2026-03-07 00:20:45",
-    "time": "2026-03-07 00:20:45",
-    "publish_time": "2026-03-07 00:20:45",
-    "raw_data": {
-      "code": "202603073664832466",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772814045032466",
-      "share": 2,
-      "showTime": "2026-03-07 00:20:45",
-      "stockList": [
-        "90.BK1273",
-        "90.BK1564"
-      ],
-      "summary": "【伊朗体育代表团将不参加米兰冬残奥会】国际残奥委会6日确认，伊朗残奥委会将无法派团参加2026年米兰-科尔蒂纳冬残奥会。",
-      "title": "伊朗体育代表团将不参加米兰冬残奥会",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603073664832466.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1273",
-      "90.BK1564"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5553d448fe31452a",
-    "code": "202603073664831196",
-    "title": "能源危机山雨欲来 霍尔木兹海峡困住中东石油出口",
-    "summary": "【能源危机山雨欲来 霍尔木兹海峡困住中东石油出口】随着中东冲突不断扩大，出口商千方百计寻找绕开该地区的航线，多家炼油厂减产进一步引发全球对能源危机的恐惧。越来越多的油轮从波斯湾转向红海，沙特阿拉伯正增加延布港的原油装载量。霍尔木兹海峡交通近乎瘫痪导致该地区各地的储油罐即将满溢，无人机和导弹频频将沙特、科威特和巴林炼油厂作为袭击对象，数家炼厂不得不削减产能。不断升级的战争切断了流向亚洲和欧洲关键客户的石油和天然气供应，导致能源价格飙升。由于无法通过霍尔木兹海峡出口，伊拉克在本周早些时候被迫开始关闭其最大油田。本月已有五艘超级油轮在延布港装货，其他油轮最近也转向该地区。但是，尽管沙特可以找其他路线运输其大部分原油，中东其他生产商在储油空间耗尽前通过霍尔木兹海峡恢复出口的可能性正在越来越小。",
-    "content": "【能源危机山雨欲来 霍尔木兹海峡困住中东石油出口】随着中东冲突不断扩大，出口商千方百计寻找绕开该地区的航线，多家炼油厂减产进一步引发全球对能源危机的恐惧。越来越多的油轮从波斯湾转向红海，沙特阿拉伯正增加延布港的原油装载量。霍尔木兹海峡交通近乎瘫痪导致该地区各地的储油罐即将满溢，无人机和导弹频频将沙特、科威特和巴林炼油厂作为袭击对象，数家炼厂不得不削减产能。不断升级的战争切断了流向亚洲和欧洲关键客户的石油和天然气供应，导致能源价格飙升。由于无法通过霍尔木兹海峡出口，伊拉克在本周早些时候被迫开始关闭其最大油田。本月已有五艘超级油轮在延布港装货，其他油轮最近也转向该地区。但是，尽管沙特可以找其他路线运输其大部分原油，中东其他生产商在储油空间耗尽前通过霍尔木兹海峡恢复出口的可能性正在越来越小。",
-    "full_content": "【能源危机山雨欲来 霍尔木兹海峡困住中东石油出口】随着中东冲突不断扩大，出口商千方百计寻找绕开该地区的航线，多家炼油厂减产进一步引发全球对能源危机的恐惧。越来越多的油轮从波斯湾转向红海，沙特阿拉伯正增加延布港的原油装载量。霍尔木兹海峡交通近乎瘫痪导致该地区各地的储油罐即将满溢，无人机和导弹频频将沙特、科威特和巴林炼油厂作为袭击对象，数家炼厂不得不削减产能。不断升级的战争切断了流向亚洲和欧洲关键客户的石油和天然气供应，导致能源价格飙升。由于无法通过霍尔木兹海峡出口，伊拉克在本周早些时候被迫开始关闭其最大油田。本月已有五艘超级油轮在延布港装货，其他油轮最近也转向该地区。但是，尽管沙特可以找其他路线运输其大部分原油，中东其他生产商在储油空间耗尽前通过霍尔木兹海峡恢复出口的可能性正在越来越小。",
-    "sort_time": "1772812884031196",
-    "showTime": "2026-03-07 00:01:24",
-    "time": "2026-03-07 00:01:24",
-    "publish_time": "2026-03-07 00:01:24",
-    "raw_data": {
-      "code": "202603073664831196",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1772812884031196",
-      "share": 6,
-      "showTime": "2026-03-07 00:01:24",
-      "stockList": [
-        "90.BK0464",
-        "0.159945"
-      ],
-      "summary": "【能源危机山雨欲来 霍尔木兹海峡困住中东石油出口】随着中东冲突不断扩大，出口商千方百计寻找绕开该地区的航线，多家炼油厂减产进一步引发全球对能源危机的恐惧。越来越多的油轮从波斯湾转向红海，沙特阿拉伯正增加延布港的原油装载量。霍尔木兹海峡交通近乎瘫痪导致该地区各地的储油罐即将满溢，无人机和导弹频频将沙特、科威特和巴林炼油厂作为袭击对象，数家炼厂不得不削减产能。不断升级的战争切断了流向亚洲和欧洲关键客户的石油和天然气供应，导致能源价格飙升。由于无法通过霍尔木兹海峡出口，伊拉克在本周早些时候被迫开始关闭其最大油田。本月已有五艘超级油轮在延布港装货，其他油轮最近也转向该地区。但是，尽管沙特可以找其他路线运输其大部分原油，中东其他生产商在储油空间耗尽前通过霍尔木兹海峡恢复出口的可能性正在越来越小。",
-      "title": "能源危机山雨欲来 霍尔木兹海峡困住中东石油出口",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603073664831196.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464",
-      "0.159945"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        },
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205",
-        "C506",
-        "C507"
-      ]
     }
   }
 ]
