@@ -13,7 +13,7 @@
     "raw_data": {
       "code": "202603083665246194",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1772910968046194",
       "share": 1,
       "showTime": "2026-03-08 03:16:08",
@@ -29,7 +29,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -185,9 +185,9 @@
     "raw_data": {
       "code": "202603083665245735",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1772908237045735",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-08 02:30:37",
       "stockList": [],
       "summary": "【以军监测到伊朗发射导弹 以北部多地响起防空警报】当地时间3月7日晚，以色列国防军表示，他们监测到伊朗正在向以色列发动导弹袭击，以军准备展开拦截行动。",
@@ -201,8 +201,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 0,
+    "comment_count": 8,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -232,7 +232,7 @@
     "raw_data": {
       "code": "202603083665245615",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1772907101045615",
       "share": 3,
       "showTime": "2026-03-08 02:11:41",
@@ -248,7 +248,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1083,7 +1083,7 @@
     "raw_data": {
       "code": "202603073665211412",
       "image": [],
-      "pinglun_Num": 51,
+      "pinglun_Num": 53,
       "realSort": "1772895007011412",
       "share": 7,
       "showTime": "2026-03-07 22:50:07",
@@ -1099,7 +1099,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 51,
+    "comment_count": 53,
     "share_count": 7,
     "tags": {
       "industries": [
@@ -2172,7 +2172,7 @@
       "image": [],
       "pinglun_Num": 71,
       "realSort": "1772883895076576",
-      "share": 93,
+      "share": 94,
       "showTime": "2026-03-07 19:44:55",
       "stockList": [
         "150.512480",
@@ -2193,7 +2193,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 71,
-    "share_count": 93,
+    "share_count": 94,
     "tags": {
       "industries": [
         {
