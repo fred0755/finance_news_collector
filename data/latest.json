@@ -1,5 +1,248 @@
 [
   {
+    "id": "4a65b1426ce4dd6f",
+    "code": "202603083665329823",
+    "title": "美国多地抗议要求政府停火止战",
+    "summary": "【美国多地抗议要求政府停火止战】当地时间3月7日，包括纽约、华盛顿、洛杉矶、旧金山在内的美国多个城市再次举行反战抗议活动，要求美国政府停止对伊朗的军事行动。",
+    "content": "【美国多地抗议要求政府停火止战】当地时间3月7日，包括纽约、华盛顿、洛杉矶、旧金山在内的美国多个城市再次举行反战抗议活动，要求美国政府停止对伊朗的军事行动。",
+    "full_content": "【美国多地抗议要求政府停火止战】当地时间3月7日，包括纽约、华盛顿、洛杉矶、旧金山在内的美国多个城市再次举行反战抗议活动，要求美国政府停止对伊朗的军事行动。",
+    "sort_time": "1772953542029823",
+    "showTime": "2026-03-08 15:05:42",
+    "time": "2026-03-08 15:05:42",
+    "publish_time": "2026-03-08 15:05:42",
+    "raw_data": {
+      "code": "202603083665329823",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1772953542029823",
+      "share": 5,
+      "showTime": "2026-03-08 15:05:42",
+      "stockList": [],
+      "summary": "【美国多地抗议要求政府停火止战】当地时间3月7日，包括纽约、华盛顿、洛杉矶、旧金山在内的美国多个城市再次举行反战抗议活动，要求美国政府停止对伊朗的军事行动。",
+      "title": "美国多地抗议要求政府停火止战",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603083665329823.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "52a97906a14683f7",
+    "code": "202603083665329593",
+    "title": "周末要闻汇总",
+    "summary": "【周末要闻汇总】央行、证监会等五部门回应中国经济热点；外交主题记者会，王毅外长答记者问；中国央行连续第16个月增持黄金；证监会发布《关于短线交易监管的若干规定》；伊朗总统称绝不可能无条件投降，向邻国表示歉意；国际油价涨超12%；美国2月非农意外录得“负增长”。",
+    "content": "【周末要闻汇总】央行、证监会等五部门回应中国经济热点；外交主题记者会，王毅外长答记者问；中国央行连续第16个月增持黄金；证监会发布《关于短线交易监管的若干规定》；伊朗总统称绝不可能无条件投降，向邻国表示歉意；国际油价涨超12%；美国2月非农意外录得“负增长”。",
+    "full_content": "【周末要闻汇总】央行、证监会等五部门回应中国经济热点；外交主题记者会，王毅外长答记者问；中国央行连续第16个月增持黄金；证监会发布《关于短线交易监管的若干规定》；伊朗总统称绝不可能无条件投降，向邻国表示歉意；国际油价涨超12%；美国2月非农意外录得“负增长”。",
+    "sort_time": "1772953224029593",
+    "showTime": "2026-03-08 15:00:24",
+    "time": "2026-03-08 15:00:24",
+    "publish_time": "2026-03-08 15:00:24",
+    "raw_data": {
+      "code": "202603083665329593",
+      "image": [],
+      "pinglun_Num": 18,
+      "realSort": "1772953224029593",
+      "share": 38,
+      "showTime": "2026-03-08 15:00:24",
+      "stockList": [
+        "90.BK0475",
+        "90.BK1283"
+      ],
+      "summary": "【周末要闻汇总】央行、证监会等五部门回应中国经济热点；外交主题记者会，王毅外长答记者问；中国央行连续第16个月增持黄金；证监会发布《关于短线交易监管的若干规定》；伊朗总统称绝不可能无条件投降，向邻国表示歉意；国际油价涨超12%；美国2月非农意外录得“负增长”。",
+      "title": "周末要闻汇总：央行、证监会等五部门回应中国经济热点",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603083665329593.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0475",
+      "90.BK1283"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 18,
+    "share_count": 38,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        },
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402",
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "6cf5d22f3ee83d03",
+    "code": "202603083665329478",
+    "title": "以色列逐步重新开放领空",
+    "summary": "【以色列逐步重新开放领空】据以色列媒体报道，以色列定于当地时间今天早上、也就是北京时间今天（8日）14点开始逐步重新开放领空，允许出境航班起飞。",
+    "content": "【以色列逐步重新开放领空】据以色列媒体报道，以色列定于当地时间今天早上、也就是北京时间今天（8日）14点开始逐步重新开放领空，允许出境航班起飞。",
+    "full_content": "【以色列逐步重新开放领空】据以色列媒体报道，以色列定于当地时间今天早上、也就是北京时间今天（8日）14点开始逐步重新开放领空，允许出境航班起飞。",
+    "sort_time": "1772952958029478",
+    "showTime": "2026-03-08 14:55:58",
+    "time": "2026-03-08 14:55:58",
+    "publish_time": "2026-03-08 14:55:58",
+    "raw_data": {
+      "code": "202603083665329478",
+      "image": [],
+      "pinglun_Num": 36,
+      "realSort": "1772952958029478",
+      "share": 7,
+      "showTime": "2026-03-08 14:55:58",
+      "stockList": [],
+      "summary": "【以色列逐步重新开放领空】据以色列媒体报道，以色列定于当地时间今天早上、也就是北京时间今天（8日）14点开始逐步重新开放领空，允许出境航班起飞。",
+      "title": "以色列逐步重新开放领空",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603083665329478.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 36,
+    "share_count": 7,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0e87df92242f3ced",
+    "code": "202603083665329326",
+    "title": "古法黄金赛道火热 有品牌宣布涨价后门店排长队 有品牌工期长达一年",
+    "summary": "【古法黄金赛道火热 有品牌宣布涨价后门店排长队 有品牌工期长达一年】近日，国内品牌金饰价格出现波动。以“一口价”方式售卖的古法黄金品牌老铺黄金（06181.HK）、君佩珠宝则先后宣布涨价，线下门店迎来排队热潮。过去一年，被行业人士称为高端古法黄金品牌大爆发“元年”，目前赛道内已跑出老铺黄金、君佩珠宝、琳朝珠宝、宝兰四家品牌，被并称为“古法黄金四姐妹”。",
+    "content": "【古法黄金赛道火热 有品牌宣布涨价后门店排长队 有品牌工期长达一年】近日，国内品牌金饰价格出现波动。以“一口价”方式售卖的古法黄金品牌老铺黄金（06181.HK）、君佩珠宝则先后宣布涨价，线下门店迎来排队热潮。过去一年，被行业人士称为高端古法黄金品牌大爆发“元年”，目前赛道内已跑出老铺黄金、君佩珠宝、琳朝珠宝、宝兰四家品牌，被并称为“古法黄金四姐妹”。",
+    "full_content": "【古法黄金赛道火热 有品牌宣布涨价后门店排长队 有品牌工期长达一年】近日，国内品牌金饰价格出现波动。以“一口价”方式售卖的古法黄金品牌老铺黄金（06181.HK）、君佩珠宝则先后宣布涨价，线下门店迎来排队热潮。过去一年，被行业人士称为高端古法黄金品牌大爆发“元年”，目前赛道内已跑出老铺黄金、君佩珠宝、琳朝珠宝、宝兰四家品牌，被并称为“古法黄金四姐妹”。",
+    "sort_time": "1772952888029326",
+    "showTime": "2026-03-08 14:54:48",
+    "time": "2026-03-08 14:54:48",
+    "publish_time": "2026-03-08 14:54:48",
+    "raw_data": {
+      "code": "202603083665329326",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1772952888029326",
+      "share": 3,
+      "showTime": "2026-03-08 14:54:48",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "【古法黄金赛道火热 有品牌宣布涨价后门店排长队 有品牌工期长达一年】近日，国内品牌金饰价格出现波动。以“一口价”方式售卖的古法黄金品牌老铺黄金（06181.HK）、君佩珠宝则先后宣布涨价，线下门店迎来排队热潮。过去一年，被行业人士称为高端古法黄金品牌大爆发“元年”，目前赛道内已跑出老铺黄金、君佩珠宝、琳朝珠宝、宝兰四家品牌，被并称为“古法黄金四姐妹”。",
+      "title": "古法黄金赛道火热 有品牌宣布涨价后门店排长队 有品牌工期长达一年",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603083665329326.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "7be3eb35963d5a0e",
+    "code": "202603083665329294",
+    "title": "北美地区3月8日起开始实行夏令时",
+    "summary": "【北美地区3月8日起开始实行夏令时】今日起，北美地区开始实行夏令时，美国和加拿大金融市场交易时间和经济数据公布时间将较冬令时提前一小时。",
+    "content": "【北美地区3月8日起开始实行夏令时】今日起，北美地区开始实行夏令时，美国和加拿大金融市场交易时间和经济数据公布时间将较冬令时提前一小时。",
+    "full_content": "【北美地区3月8日起开始实行夏令时】今日起，北美地区开始实行夏令时，美国和加拿大金融市场交易时间和经济数据公布时间将较冬令时提前一小时。",
+    "sort_time": "1772952748029294",
+    "showTime": "2026-03-08 14:52:28",
+    "time": "2026-03-08 14:52:28",
+    "publish_time": "2026-03-08 14:52:28",
+    "raw_data": {
+      "code": "202603083665329294",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1772952748029294",
+      "share": 5,
+      "showTime": "2026-03-08 14:52:28",
+      "stockList": [
+        "0.159940"
+      ],
+      "summary": "【北美地区3月8日起开始实行夏令时】今日起，北美地区开始实行夏令时，美国和加拿大金融市场交易时间和经济数据公布时间将较冬令时提前一小时。",
+      "title": "北美地区3月8日起开始实行夏令时",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603083665329294.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159940"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "2102eac58b25b3b0",
     "code": "202603083665325170",
     "title": "智能体冲击SaaS模式 用友王文京：AI不会杀死软件",
@@ -13,9 +256,9 @@
     "raw_data": {
       "code": "202603083665325170",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 13,
       "realSort": "1772950572025170",
-      "share": 0,
+      "share": 5,
       "showTime": "2026-03-08 14:16:12",
       "stockList": [
         "90.BK0800",
@@ -35,8 +278,8 @@
       "150.012322"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 13,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -72,9 +315,9 @@
     "raw_data": {
       "code": "202603083665324992",
       "image": [],
-      "pinglun_Num": 59,
+      "pinglun_Num": 183,
       "realSort": "1772950173024992",
-      "share": 69,
+      "share": 144,
       "showTime": "2026-03-08 14:09:33",
       "stockList": [
         "90.BK0800"
@@ -92,8 +335,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 59,
-    "share_count": 69,
+    "comment_count": 183,
+    "share_count": 144,
     "tags": {
       "industries": [],
       "concepts": [
@@ -123,9 +366,9 @@
     "raw_data": {
       "code": "202603083665320840",
       "image": [],
-      "pinglun_Num": 25,
+      "pinglun_Num": 35,
       "realSort": "1772948136020840",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-03-08 13:35:36",
       "stockList": [],
       "summary": "【伊朗总统重申坚持睦邻友好原则并尊重地区国家主权】伊朗总统佩泽希齐扬当地时间8日在视察医疗设施和医疗中心期间表示，伊朗再次重申坚持睦邻友好原则，并尊重地区国家的主权。",
@@ -139,8 +382,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 25,
-    "share_count": 1,
+    "comment_count": 35,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -201,7 +444,7 @@
     "raw_data": {
       "code": "202603083665318693",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1772946694018693",
       "share": 0,
       "showTime": "2026-03-08 13:11:34",
@@ -217,7 +460,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -242,7 +485,7 @@
       "image": [],
       "pinglun_Num": 8,
       "realSort": "1772945220013128",
-      "share": 297,
+      "share": 351,
       "showTime": "2026-03-08 12:47:00",
       "stockList": [],
       "summary": "【王毅外长答记者问 15句话速览！要点来了】3月8日，十四届全国人大四次会议外交主题记者会举行。中共中央政治局委员、外交部长王毅就“中国外交政策和对外关系”相关问题回答中外记者提问。",
@@ -257,7 +500,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 8,
-    "share_count": 297,
+    "share_count": 351,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -279,9 +522,9 @@
     "raw_data": {
       "code": "202603083665313082",
       "image": [],
-      "pinglun_Num": 128,
+      "pinglun_Num": 145,
       "realSort": "1772945149013082",
-      "share": 96,
+      "share": 101,
       "showTime": "2026-03-08 12:45:49",
       "stockList": [
         "90.BK0922",
@@ -301,8 +544,8 @@
       "150.012322"
     ],
     "has_stock_mention": true,
-    "comment_count": 128,
-    "share_count": 96,
+    "comment_count": 145,
+    "share_count": 101,
     "tags": {
       "industries": [],
       "concepts": [
@@ -422,9 +665,9 @@
     "raw_data": {
       "code": "202603083665308627",
       "image": [],
-      "pinglun_Num": 76,
+      "pinglun_Num": 82,
       "realSort": "1772944181008627",
-      "share": 35,
+      "share": 38,
       "showTime": "2026-03-08 12:29:41",
       "stockList": [],
       "summary": "【伊朗说具备进行超半年高强度战争能力】伊朗伊斯兰革命卫队发言人纳伊尼当地时间今天（3月8日)表示，伊朗已储备包括重型导弹、弹道导弹、巡航导弹、多型无人机以及攻击型舰艇在内的大规模武器装备，可应对一场广泛且长期的战争，无需担忧。纳伊尼称，伊朗武装力量具备以当前节奏持续进行至少六个月高强度战争的能力。",
@@ -438,8 +681,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 76,
-    "share_count": 35,
+    "comment_count": 82,
+    "share_count": 38,
     "tags": {
       "industries": [],
       "concepts": [
@@ -469,9 +712,9 @@
     "raw_data": {
       "code": "202603083665308580",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 16,
       "realSort": "1772943974008580",
-      "share": 18,
+      "share": 22,
       "showTime": "2026-03-08 12:26:14",
       "stockList": [],
       "summary": "【中国正在攻关外星长期生存问题】3月7日，全国政协委员王亚平在参加政协界别小组讨论时透露，中国航天向更深远太空迈进的步伐正在加快，航天员中心正在牵头申报地外生存地基研究设施，要解决未来在地球以外星球上长期生存问题。“载人航天事业的飞速发展再一次令我深刻体会到，能生活在强大而稳定的中国是多么幸福，能赶上好时代是多么幸运！”",
@@ -485,8 +728,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
-    "share_count": 18,
+    "comment_count": 16,
+    "share_count": 22,
     "tags": {
       "industries": [],
       "concepts": [
@@ -516,9 +759,9 @@
     "raw_data": {
       "code": "202603083665308455",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1772943790008455",
-      "share": 12,
+      "share": 16,
       "showTime": "2026-03-08 12:23:10",
       "stockList": [
         "90.BK0481",
@@ -538,8 +781,8 @@
       "1007.BK000195"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 12,
+    "comment_count": 9,
+    "share_count": 16,
     "tags": {
       "industries": [],
       "concepts": [
@@ -575,9 +818,9 @@
     "raw_data": {
       "code": "202603083665308337",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1772943728008337",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-03-08 12:22:08",
       "stockList": [
         "90.BK0698"
@@ -595,8 +838,8 @@
       "90.BK0698"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 7,
+    "comment_count": 3,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -665,7 +908,7 @@
     "raw_data": {
       "code": "202603083665308024",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 22,
       "realSort": "1772943130008024",
       "share": 22,
       "showTime": "2026-03-08 12:12:10",
@@ -681,7 +924,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 21,
+    "comment_count": 22,
     "share_count": 22,
     "tags": {
       "industries": [
@@ -714,9 +957,9 @@
     "raw_data": {
       "code": "202603083665308165",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1772942919008165",
-      "share": 12,
+      "share": 13,
       "showTime": "2026-03-08 12:08:39",
       "stockList": [],
       "summary": "【女性私募从业人员增至1787位 1045位担任基金经理】三八妇女节来临，私募行业“她力量”再受关注。私募排排网统计显示，截至2026年2月底，女性私募从业人员已达1787位，其中担任基金经理的有1045位，担任实控人的有241位，其中女性基金经理共有48位，占全部女性基金经理的4.59%。",
@@ -730,8 +973,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 12,
+    "comment_count": 9,
+    "share_count": 13,
     "tags": {
       "industries": [
         {
@@ -763,7 +1006,7 @@
     "raw_data": {
       "code": "202603083665306431",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 9,
       "realSort": "1772941990006431",
       "share": 1,
       "showTime": "2026-03-08 11:53:10",
@@ -779,7 +1022,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 9,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -812,7 +1055,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1772940824004429",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-03-08 11:33:44",
       "stockList": [],
       "summary": "【王毅谈构建人类命运共同体：如灯塔照亮人类前行之路】王毅说，习近平主席提出构建人类命运共同体，展现了作为大国领袖的远见卓识和宽广胸怀，回答了人类向何处去这一时代之问，就是要告诉世界，人类的敌人不是彼此，而是战乱、贫困、饥饿、不公。战胜这些挑战，不能靠单打独斗，不可能独善其身，必须团结合作、同球共济。孤立就会无助，团结才有力量。各国人民越来越体会到人类命运共同体理念的时代价值和真理力量，就如同一座灯塔，照亮着人类的前行之路。",
@@ -827,7 +1070,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 7,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -851,7 +1094,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1772940775003317",
-      "share": 12,
+      "share": 13,
       "showTime": "2026-03-08 11:32:55",
       "stockList": [],
       "summary": "【王毅：中国人向来有天下为公的格局，追求天下大同的境界】王毅在就构建人类命运共同体答问时说，中国人向来有天下为公的格局，追求天下大同的境界。中华民族的伟大复兴、14亿人口的大国崛起，绝不会复制传统大国争霸扩张的老路，而是将坚定不移走和平发展道路，并且推动各国共同走和平发展之路，共同建设一个持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。",
@@ -866,7 +1109,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 4,
-    "share_count": 12,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -890,7 +1133,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1772939986000982",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-03-08 11:19:46",
       "stockList": [],
       "summary": "【王毅谈中印关系：排除干扰 相向而行】王毅说，中印互为重要邻国，同属全球南方，具有深厚人文渊源和广泛共同利益。两国互信合作有利于共同发展，分裂对抗无助于亚洲振兴。双方应沿着两国领导人确定的方向，排除干扰，相向而行。",
@@ -905,7 +1148,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1210,7 +1453,7 @@
       "image": [],
       "pinglun_Num": 8,
       "realSort": "1772938181096963",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-03-08 10:49:41",
       "stockList": [],
       "summary": "【王毅谈外交为民：面前的世界乱象丛生 身后的祖国稳如泰山】外交部长王毅说，可以说，哪里有五星红旗在飘扬，哪里就有中国外交人员在守望；哪里有中国同胞的期待和诉求，哪里就能感受到党和政府的温暖和牵挂。我想告诉海外的同胞们，你面前的世界乱象丛生，你身后的祖国稳如泰山。我们将继续坚持人民至上，进一步提升海外安全保障能力，架设起覆盖全球的安全风险防范体系。",
@@ -1225,7 +1468,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 8,
-    "share_count": 11,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1364,7 +1607,7 @@
     "raw_data": {
       "code": "202603083665295550",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 16,
       "realSort": "1772937956095550",
       "share": 4,
       "showTime": "2026-03-08 10:45:56",
@@ -1380,7 +1623,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 15,
+    "comment_count": 16,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1669,7 +1912,7 @@
       "image": [],
       "pinglun_Num": 22,
       "realSort": "1772937023093762",
-      "share": 130,
+      "share": 137,
       "showTime": "2026-03-08 10:30:23",
       "stockList": [],
       "summary": "【王毅谈中美关系：中美改变不了彼此 但可以改变相处方式】外交部长王毅说，中美都是大国，都改变不了彼此，但可以改变相处方式，那就是秉持相互尊重的态度，守住和平共处的底线，争取合作共赢的前景，这才符合两国人民的利益，也符合国际社会的期待。",
@@ -1684,7 +1927,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 22,
-    "share_count": 130,
+    "share_count": 137,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1708,7 +1951,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1772936602092880",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-08 10:23:22",
       "stockList": [],
       "summary": "【王毅谈全球治理倡议：150多个国家和国际组织支持响应】王毅说，当今世界，全球挑战层出不穷，治理赤字更加突出，多边主义面临严峻冲击。习近平主席提出的全球治理倡议正当其时，迅速得到150多个国家和国际组织支持响应。",
@@ -1723,7 +1966,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1924,217 +2167,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "ce43914ca7b80fc6",
-    "code": "202603083665292067",
-    "title": "王毅：中国外交是全球乱局中不可替代的中流砥柱",
-    "summary": "【王毅：中国外交是全球乱局中不可替代的中流砥柱】王毅说，越来越多国家认识到，习近平主席亲自擘画指挥的中国外交，为动荡世界提供了最宝贵的稳定性和确定性，成为全球乱局中不可替代的中流砥柱。",
-    "content": "【王毅：中国外交是全球乱局中不可替代的中流砥柱】王毅说，越来越多国家认识到，习近平主席亲自擘画指挥的中国外交，为动荡世界提供了最宝贵的稳定性和确定性，成为全球乱局中不可替代的中流砥柱。",
-    "full_content": "【王毅：中国外交是全球乱局中不可替代的中流砥柱】王毅说，越来越多国家认识到，习近平主席亲自擘画指挥的中国外交，为动荡世界提供了最宝贵的稳定性和确定性，成为全球乱局中不可替代的中流砥柱。",
-    "sort_time": "1772935742092067",
-    "showTime": "2026-03-08 10:09:02",
-    "time": "2026-03-08 10:09:02",
-    "publish_time": "2026-03-08 10:09:02",
-    "raw_data": {
-      "code": "202603083665292067",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772935742092067",
-      "share": 0,
-      "showTime": "2026-03-08 10:09:02",
-      "stockList": [],
-      "summary": "【王毅：中国外交是全球乱局中不可替代的中流砥柱】王毅说，越来越多国家认识到，习近平主席亲自擘画指挥的中国外交，为动荡世界提供了最宝贵的稳定性和确定性，成为全球乱局中不可替代的中流砥柱。",
-      "title": "王毅：中国外交是全球乱局中不可替代的中流砥柱",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603083665292067.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ad4005c7f1aba339",
-    "code": "202603083665292149",
-    "title": "王毅谈国际形势：百年变局加速演进 中国国际影响与日俱增",
-    "summary": "【王毅谈国际形势：百年变局加速演进 中国国际影响与日俱增】王毅在十四届全国人大四次会议外交主题记者会上说，今天的世界，百年变局加速演进，变革动乱相互交织，战争冲突此起彼伏。今天的中国，强国建设快马加鞭，民族复兴势不可挡，国际影响与日俱增。",
-    "content": "【王毅谈国际形势：百年变局加速演进 中国国际影响与日俱增】王毅在十四届全国人大四次会议外交主题记者会上说，今天的世界，百年变局加速演进，变革动乱相互交织，战争冲突此起彼伏。今天的中国，强国建设快马加鞭，民族复兴势不可挡，国际影响与日俱增。",
-    "full_content": "【王毅谈国际形势：百年变局加速演进 中国国际影响与日俱增】王毅在十四届全国人大四次会议外交主题记者会上说，今天的世界，百年变局加速演进，变革动乱相互交织，战争冲突此起彼伏。今天的中国，强国建设快马加鞭，民族复兴势不可挡，国际影响与日俱增。",
-    "sort_time": "1772935668092149",
-    "showTime": "2026-03-08 10:07:48",
-    "time": "2026-03-08 10:07:48",
-    "publish_time": "2026-03-08 10:07:48",
-    "raw_data": {
-      "code": "202603083665292149",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772935668092149",
-      "share": 2,
-      "showTime": "2026-03-08 10:07:48",
-      "stockList": [],
-      "summary": "【王毅谈国际形势：百年变局加速演进 中国国际影响与日俱增】王毅在十四届全国人大四次会议外交主题记者会上说，今天的世界，百年变局加速演进，变革动乱相互交织，战争冲突此起彼伏。今天的中国，强国建设快马加鞭，民族复兴势不可挡，国际影响与日俱增。",
-      "title": "王毅谈国际形势：百年变局加速演进 中国国际影响与日俱增",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603083665292149.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5ae97b2aa07b8819",
-    "code": "202603083665292342",
-    "title": "王毅：元首外交是中国外交的定盘星",
-    "summary": "【王毅：元首外交是中国外交的定盘星】王毅说，元首外交是中国外交的定盘星。过去一年，面对风高浪急的国际局势，习近平主席开展了波澜壮阔的元首外交，塑造了一个个重要历史时刻。",
-    "content": "【王毅：元首外交是中国外交的定盘星】王毅说，元首外交是中国外交的定盘星。过去一年，面对风高浪急的国际局势，习近平主席开展了波澜壮阔的元首外交，塑造了一个个重要历史时刻。",
-    "full_content": "【王毅：元首外交是中国外交的定盘星】王毅说，元首外交是中国外交的定盘星。过去一年，面对风高浪急的国际局势，习近平主席开展了波澜壮阔的元首外交，塑造了一个个重要历史时刻。",
-    "sort_time": "1772935654092342",
-    "showTime": "2026-03-08 10:07:34",
-    "time": "2026-03-08 10:07:34",
-    "publish_time": "2026-03-08 10:07:34",
-    "raw_data": {
-      "code": "202603083665292342",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1772935654092342",
-      "share": 1,
-      "showTime": "2026-03-08 10:07:34",
-      "stockList": [],
-      "summary": "【王毅：元首外交是中国外交的定盘星】王毅说，元首外交是中国外交的定盘星。过去一年，面对风高浪急的国际局势，习近平主席开展了波澜壮阔的元首外交，塑造了一个个重要历史时刻。",
-      "title": "王毅：元首外交是中国外交的定盘星",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603083665292342.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d1f812ff767eff5b",
-    "code": "202603083665290135",
-    "title": "伊朗表示已打击“沙漠之眼”雷达等超200个美以敏感目标",
-    "summary": "【伊朗表示已打击“沙漠之眼”雷达等超200个美以敏感目标】据伊朗塔斯尼姆通讯社7日报道，伊朗伊斯兰革命卫队发言人纳伊尼说，一周以来，伊朗军方已打击超200个美国和以色列部署在中东地区的敏感目标。纳伊尼说，统计数据显示，自美以和伊朗爆发冲突以来，伊朗共发动600次导弹袭击和2600次无人机行动，精确打击并摧毁超200个位于美军基地内和以色列重要设施的敏感目标。",
-    "content": "【伊朗表示已打击“沙漠之眼”雷达等超200个美以敏感目标】据伊朗塔斯尼姆通讯社7日报道，伊朗伊斯兰革命卫队发言人纳伊尼说，一周以来，伊朗军方已打击超200个美国和以色列部署在中东地区的敏感目标。纳伊尼说，统计数据显示，自美以和伊朗爆发冲突以来，伊朗共发动600次导弹袭击和2600次无人机行动，精确打击并摧毁超200个位于美军基地内和以色列重要设施的敏感目标。",
-    "full_content": "【伊朗表示已打击“沙漠之眼”雷达等超200个美以敏感目标】据伊朗塔斯尼姆通讯社7日报道，伊朗伊斯兰革命卫队发言人纳伊尼说，一周以来，伊朗军方已打击超200个美国和以色列部署在中东地区的敏感目标。纳伊尼说，统计数据显示，自美以和伊朗爆发冲突以来，伊朗共发动600次导弹袭击和2600次无人机行动，精确打击并摧毁超200个位于美军基地内和以色列重要设施的敏感目标。",
-    "sort_time": "1772935558090135",
-    "showTime": "2026-03-08 10:05:58",
-    "time": "2026-03-08 10:05:58",
-    "publish_time": "2026-03-08 10:05:58",
-    "raw_data": {
-      "code": "202603083665290135",
-      "image": [],
-      "pinglun_Num": 16,
-      "realSort": "1772935558090135",
-      "share": 7,
-      "showTime": "2026-03-08 10:05:58",
-      "stockList": [],
-      "summary": "【伊朗表示已打击“沙漠之眼”雷达等超200个美以敏感目标】据伊朗塔斯尼姆通讯社7日报道，伊朗伊斯兰革命卫队发言人纳伊尼说，一周以来，伊朗军方已打击超200个美国和以色列部署在中东地区的敏感目标。纳伊尼说，统计数据显示，自美以和伊朗爆发冲突以来，伊朗共发动600次导弹袭击和2600次无人机行动，精确打击并摧毁超200个位于美军基地内和以色列重要设施的敏感目标。",
-      "title": "伊朗表示已打击“沙漠之眼”雷达等超200个美以敏感目标",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603083665290135.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 16,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "008cab4f008a626b",
-    "code": "202603083665288582",
-    "title": "卡塔尔称遭12枚导弹袭击 无人员伤亡",
-    "summary": "【卡塔尔称遭12枚导弹袭击 无人员伤亡】记者获悉，当地时间3月8日，卡塔尔国防部发布通告称，卡塔尔7日遭到10枚弹道导弹和2枚巡航导弹袭击，卡方成功拦截其中的6枚弹道导弹和2枚巡航导弹，另有2枚弹道导弹落入卡塔尔领海，2枚落入空旷地带。通告指出，当天袭击没有造成任何人员伤亡。",
-    "content": "【卡塔尔称遭12枚导弹袭击 无人员伤亡】记者获悉，当地时间3月8日，卡塔尔国防部发布通告称，卡塔尔7日遭到10枚弹道导弹和2枚巡航导弹袭击，卡方成功拦截其中的6枚弹道导弹和2枚巡航导弹，另有2枚弹道导弹落入卡塔尔领海，2枚落入空旷地带。通告指出，当天袭击没有造成任何人员伤亡。",
-    "full_content": "【卡塔尔称遭12枚导弹袭击 无人员伤亡】记者获悉，当地时间3月8日，卡塔尔国防部发布通告称，卡塔尔7日遭到10枚弹道导弹和2枚巡航导弹袭击，卡方成功拦截其中的6枚弹道导弹和2枚巡航导弹，另有2枚弹道导弹落入卡塔尔领海，2枚落入空旷地带。通告指出，当天袭击没有造成任何人员伤亡。",
-    "sort_time": "1772934350088582",
-    "showTime": "2026-03-08 09:45:50",
-    "time": "2026-03-08 09:45:50",
-    "publish_time": "2026-03-08 09:45:50",
-    "raw_data": {
-      "code": "202603083665288582",
-      "image": [],
-      "pinglun_Num": 23,
-      "realSort": "1772934350088582",
-      "share": 5,
-      "showTime": "2026-03-08 09:45:50",
-      "stockList": [],
-      "summary": "【卡塔尔称遭12枚导弹袭击 无人员伤亡】记者获悉，当地时间3月8日，卡塔尔国防部发布通告称，卡塔尔7日遭到10枚弹道导弹和2枚巡航导弹袭击，卡方成功拦截其中的6枚弹道导弹和2枚巡航导弹，另有2枚弹道导弹落入卡塔尔领海，2枚落入空旷地带。通告指出，当天袭击没有造成任何人员伤亡。",
-      "title": "卡塔尔称遭12枚导弹袭击 无人员伤亡",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603083665288582.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 23,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
     }
   }
 ]
