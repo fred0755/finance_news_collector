@@ -1,5 +1,105 @@
 [
   {
+    "id": "0da32e7305e3251d",
+    "code": "202603103666531622",
+    "title": "亚马逊表示 英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台",
+    "summary": "亚马逊表示，英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台。",
+    "content": "亚马逊表示，英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台。",
+    "full_content": "亚马逊表示，英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台。",
+    "sort_time": "1773089925031622",
+    "showTime": "2026-03-10 04:58:45",
+    "time": "2026-03-10 04:58:45",
+    "publish_time": "2026-03-10 04:58:45",
+    "raw_data": {
+      "code": "202603103666531622",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773089925031622",
+      "share": 0,
+      "showTime": "2026-03-10 04:58:45",
+      "stockList": [
+        "90.BK1161",
+        "105.AMZN"
+      ],
+      "summary": "亚马逊表示，英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台。",
+      "title": "亚马逊表示 英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603103666531622.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.AMZN"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "大模型"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "7fa79de8ae8fb902",
+    "code": "202603103666531450",
+    "title": "国际油价9日显著上涨",
+    "summary": "【国际油价9日显著上涨】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨3.87美元，收于每桶94.77美元，涨幅为4.26%；5月交货的伦敦布伦特原油期货价格上涨6.27美元，收于每桶98.96美元，涨幅为6.76%。",
+    "content": "【国际油价9日显著上涨】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨3.87美元，收于每桶94.77美元，涨幅为4.26%；5月交货的伦敦布伦特原油期货价格上涨6.27美元，收于每桶98.96美元，涨幅为6.76%。",
+    "full_content": "【国际油价9日显著上涨】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨3.87美元，收于每桶94.77美元，涨幅为4.26%；5月交货的伦敦布伦特原油期货价格上涨6.27美元，收于每桶98.96美元，涨幅为6.76%。",
+    "sort_time": "1773089698031450",
+    "showTime": "2026-03-10 04:54:58",
+    "time": "2026-03-10 04:54:58",
+    "publish_time": "2026-03-10 04:54:58",
+    "raw_data": {
+      "code": "202603103666531450",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1773089698031450",
+      "share": 1,
+      "showTime": "2026-03-10 04:54:58",
+      "stockList": [],
+      "summary": "【国际油价9日显著上涨】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨3.87美元，收于每桶94.77美元，涨幅为4.26%；5月交货的伦敦布伦特原油期货价格上涨6.27美元，收于每桶98.96美元，涨幅为6.76%。",
+      "title": "国际油价9日显著上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603103666531450.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "5be6e7ba3504b396",
     "code": "202603103666529973",
     "title": "伊朗首都德黑兰传出爆炸声",
@@ -13,7 +113,7 @@
     "raw_data": {
       "code": "202603103666529973",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 5,
       "realSort": "1773089390029973",
       "share": 2,
       "showTime": "2026-03-10 04:49:50",
@@ -29,7 +129,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 5,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -52,7 +152,7 @@
     "raw_data": {
       "code": "202603103666529386",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1773089338029386",
       "share": 0,
       "showTime": "2026-03-10 04:48:58",
@@ -72,7 +172,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -103,9 +203,9 @@
     "raw_data": {
       "code": "202603103666530540",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1773089315030540",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-10 04:48:35",
       "stockList": [
         "106.JOBY"
@@ -123,8 +223,8 @@
       "106.JOBY"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -156,7 +256,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1773088917028956",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-10 04:41:57",
       "stockList": [],
       "summary": "【马达加斯加临时国家元首宣布解散政府】据马达加斯加总统府9日晚发布的公报，马达加斯加临时国家元首兰德里亚尼里纳宣布解散现任政府。公报表示，现任政府已停止履行职责，新总理人选将依照宪法规定尽快确定。在任命新总理和新一届政府成员之前，各部委秘书长将负责处理日常事务。截至记者发稿时，任命新总理的具体日期尚未公布。",
@@ -171,7 +271,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -307,7 +407,7 @@
     "raw_data": {
       "code": "202603103666527593",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1773088380027593",
       "share": 0,
       "showTime": "2026-03-10 04:33:00",
@@ -323,7 +423,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -354,7 +454,7 @@
     "raw_data": {
       "code": "202603103666526659",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1773087730026659",
       "share": 0,
       "showTime": "2026-03-10 04:22:10",
@@ -376,7 +476,7 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -442,7 +542,7 @@
     "raw_data": {
       "code": "202603103666525216",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1773086501025216",
       "share": 2,
       "showTime": "2026-03-10 04:01:41",
@@ -458,7 +558,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 2,
     "tags": {
       "industries": [
@@ -491,9 +591,9 @@
     "raw_data": {
       "code": "202603103666525156",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1773086463025156",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-03-10 04:01:03",
       "stockList": [
         "150.159813",
@@ -513,8 +613,8 @@
       "150.013446"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 6,
+    "comment_count": 2,
+    "share_count": 7,
     "tags": {
       "industries": [
         {
@@ -554,9 +654,9 @@
     "raw_data": {
       "code": "202603103666524664",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 19,
       "realSort": "1773086018024664",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-03-10 03:53:38",
       "stockList": [],
       "summary": "【伊朗高官怼马克龙言论】伊朗最高国家安全委员会秘书拉里贾尼3月9日在社交媒体上针对法国总统马克龙涉霍尔木兹海峡的言论评论说，“在美国和以色列点燃的战火中，霍尔木兹海峡的任何安全都不太可能实现，尤其在某些方面还在助长这场战争升级的情况下。”马克龙当天早些时候表示，法国及其盟友准备开展一项“防御性”海军行动，旨在恢复霍尔木兹海峡正常通航。伊朗伊斯兰革命卫队高级军官日前表示，伊朗“并未关闭”霍尔木兹海峡，但任何属于美国或以色列的船只都将成为打击目标。",
@@ -570,8 +670,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
-    "share_count": 4,
+    "comment_count": 19,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -632,7 +732,7 @@
     "raw_data": {
       "code": "202603103666524032",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 7,
       "realSort": "1773085278024032",
       "share": 4,
       "showTime": "2026-03-10 03:41:18",
@@ -652,7 +752,7 @@
       "90.BK1361"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 7,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -683,9 +783,9 @@
     "raw_data": {
       "code": "202603103666523922",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1773085229023922",
-      "share": 9,
+      "share": 12,
       "showTime": "2026-03-10 03:40:29",
       "stockList": [
         "90.BK1361"
@@ -703,8 +803,8 @@
       "90.BK1361"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 9,
+    "comment_count": 5,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -734,14 +834,14 @@
     "raw_data": {
       "code": "202603103666523836",
       "image": [],
-      "pinglun_Num": 51,
+      "pinglun_Num": 149,
       "realSort": "1773085138023836",
-      "share": 76,
+      "share": 417,
       "showTime": "2026-03-10 03:38:58",
       "stockList": [],
       "summary": "【特朗普称对伊朗战事“已基本结束”】央视记者当地时间3月9日获悉，美国总统特朗普表示，美国对伊朗的战争可能很快就会结束。",
       "title": "特朗普称对伊朗战事“已基本结束”",
-      "titleColor": 0
+      "titleColor": 3
     },
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603103666523836.html",
@@ -750,8 +850,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 51,
-    "share_count": 76,
+    "comment_count": 149,
+    "share_count": 417,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -875,7 +975,7 @@
     "raw_data": {
       "code": "202603103666523760",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1773084829023760",
       "share": 2,
       "showTime": "2026-03-10 03:33:49",
@@ -891,7 +991,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1190,7 +1290,7 @@
     "raw_data": {
       "code": "202603103666523050",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 10,
       "realSort": "1773083739023050",
       "share": 7,
       "showTime": "2026-03-10 03:15:39",
@@ -1206,7 +1306,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 10,
     "share_count": 7,
     "tags": {
       "industries": [],
@@ -1243,7 +1343,7 @@
     "raw_data": {
       "code": "202603103666519619",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1773083567019619",
       "share": 1,
       "showTime": "2026-03-10 03:12:47",
@@ -1265,7 +1365,7 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -1623,7 +1723,7 @@
     "raw_data": {
       "code": "202603103666519428",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 17,
       "realSort": "1773080669019428",
       "share": 2,
       "showTime": "2026-03-10 02:24:29",
@@ -1639,7 +1739,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 17,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1672,7 +1772,7 @@
       "image": [],
       "pinglun_Num": 8,
       "realSort": "1773080413017753",
-      "share": 6,
+      "share": 8,
       "showTime": "2026-03-10 02:20:13",
       "stockList": [],
       "summary": "【特朗普将举行对伊朗发动军事行动以来首次新闻发布会】美国总统特朗普当地时间9日在社交媒体发文说，他将于美国东部时间当天17时30分（北京时间10日5时30分）左右在佛罗里达州迈阿密的特朗普多拉尔高尔夫俱乐部举行新闻发布会。",
@@ -1687,7 +1787,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 8,
-    "share_count": 6,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1850,7 +1950,7 @@
     "raw_data": {
       "code": "202603103666514448",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1773078564014448",
       "share": 1,
       "showTime": "2026-03-10 01:49:24",
@@ -1866,7 +1966,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -2282,112 +2382,6 @@
       "concept_ids": [
         "C201",
         "C205"
-      ]
-    }
-  },
-  {
-    "id": "8108b3a19e94f90a",
-    "code": "202603103666480777",
-    "title": "英国财政大臣里夫斯表示 随时准备支持国际能源署协调释放集体石油储备",
-    "summary": "英国财政大臣里夫斯表示，随时准备支持国际能源署协调释放集体石油储备。",
-    "content": "英国财政大臣里夫斯表示，随时准备支持国际能源署协调释放集体石油储备。",
-    "full_content": "英国财政大臣里夫斯表示，随时准备支持国际能源署协调释放集体石油储备。",
-    "sort_time": "1773074435080777",
-    "showTime": "2026-03-10 00:40:35",
-    "time": "2026-03-10 00:40:35",
-    "publish_time": "2026-03-10 00:40:35",
-    "raw_data": {
-      "code": "202603103666480777",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1773074435080777",
-      "share": 1,
-      "showTime": "2026-03-10 00:40:35",
-      "stockList": [
-        "90.BK0464",
-        "0.159945"
-      ],
-      "summary": "英国财政大臣里夫斯表示，随时准备支持国际能源署协调释放集体石油储备。",
-      "title": "英国财政大臣里夫斯表示 随时准备支持国际能源署协调释放集体石油储备",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603103666480777.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464",
-      "0.159945"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "06d7f76c32d49a36",
-    "code": "202603103666478237",
-    "title": "七国集团能源部长将于美东时间周二上午举行视频会议",
-    "summary": "【七国集团能源部长将于美东时间周二上午举行视频会议】据报道，七国集团能源部长将于美东时间周二上午举行视频会议。美国立场认为联合释放3亿至4亿桶原油是适宜之举。",
-    "content": "【七国集团能源部长将于美东时间周二上午举行视频会议】据报道，七国集团能源部长将于美东时间周二上午举行视频会议。美国立场认为联合释放3亿至4亿桶原油是适宜之举。",
-    "full_content": "【七国集团能源部长将于美东时间周二上午举行视频会议】据报道，七国集团能源部长将于美东时间周二上午举行视频会议。美国立场认为联合释放3亿至4亿桶原油是适宜之举。",
-    "sort_time": "1773074188078237",
-    "showTime": "2026-03-10 00:36:28",
-    "time": "2026-03-10 00:36:28",
-    "publish_time": "2026-03-10 00:36:28",
-    "raw_data": {
-      "code": "202603103666478237",
-      "image": [],
-      "pinglun_Num": 17,
-      "realSort": "1773074188078237",
-      "share": 1,
-      "showTime": "2026-03-10 00:36:28",
-      "stockList": [
-        "0.159945",
-        "150.014238"
-      ],
-      "summary": "【七国集团能源部长将于美东时间周二上午举行视频会议】据报道，七国集团能源部长将于美东时间周二上午举行视频会议。美国立场认为联合释放3亿至4亿桶原油是适宜之举。",
-      "title": "七国集团能源部长将举行视频会议 美国力推释放3亿至4亿桶原油",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603103666478237.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159945",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 17,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
       ]
     }
   }

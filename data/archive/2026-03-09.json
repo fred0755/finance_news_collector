@@ -1,5 +1,105 @@
 [
   {
+    "id": "0da32e7305e3251d",
+    "code": "202603103666531622",
+    "title": "亚马逊表示 英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台",
+    "summary": "亚马逊表示，英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台。",
+    "content": "亚马逊表示，英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台。",
+    "full_content": "亚马逊表示，英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台。",
+    "sort_time": "1773089925031622",
+    "showTime": "2026-03-10 04:58:45",
+    "time": "2026-03-10 04:58:45",
+    "publish_time": "2026-03-10 04:58:45",
+    "raw_data": {
+      "code": "202603103666531622",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773089925031622",
+      "share": 0,
+      "showTime": "2026-03-10 04:58:45",
+      "stockList": [
+        "90.BK1161",
+        "105.AMZN"
+      ],
+      "summary": "亚马逊表示，英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台。",
+      "title": "亚马逊表示 英伟达Nemotron 3 Nano大模型现已登陆Amazon Bedrock平台",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603103666531622.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.AMZN"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "大模型"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "7fa79de8ae8fb902",
+    "code": "202603103666531450",
+    "title": "国际油价9日显著上涨",
+    "summary": "【国际油价9日显著上涨】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨3.87美元，收于每桶94.77美元，涨幅为4.26%；5月交货的伦敦布伦特原油期货价格上涨6.27美元，收于每桶98.96美元，涨幅为6.76%。",
+    "content": "【国际油价9日显著上涨】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨3.87美元，收于每桶94.77美元，涨幅为4.26%；5月交货的伦敦布伦特原油期货价格上涨6.27美元，收于每桶98.96美元，涨幅为6.76%。",
+    "full_content": "【国际油价9日显著上涨】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨3.87美元，收于每桶94.77美元，涨幅为4.26%；5月交货的伦敦布伦特原油期货价格上涨6.27美元，收于每桶98.96美元，涨幅为6.76%。",
+    "sort_time": "1773089698031450",
+    "showTime": "2026-03-10 04:54:58",
+    "time": "2026-03-10 04:54:58",
+    "publish_time": "2026-03-10 04:54:58",
+    "raw_data": {
+      "code": "202603103666531450",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1773089698031450",
+      "share": 1,
+      "showTime": "2026-03-10 04:54:58",
+      "stockList": [],
+      "summary": "【国际油价9日显著上涨】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨3.87美元，收于每桶94.77美元，涨幅为4.26%；5月交货的伦敦布伦特原油期货价格上涨6.27美元，收于每桶98.96美元，涨幅为6.76%。",
+      "title": "国际油价9日显著上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603103666531450.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "5be6e7ba3504b396",
     "code": "202603103666529973",
     "title": "伊朗首都德黑兰传出爆炸声",
