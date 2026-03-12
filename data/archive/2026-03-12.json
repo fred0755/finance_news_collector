@@ -1,5 +1,1979 @@
 [
   {
+    "id": "acb91e0c209ba5d7",
+    "code": "202603123670430131",
+    "title": "纳斯达克综合指数跌幅扩大至1%",
+    "summary": "纳斯达克综合指数跌幅扩大，现跌1.0%，最新报22481.33点。",
+    "content": "纳斯达克综合指数跌幅扩大，现跌1.0%，最新报22481.33点。",
+    "full_content": "纳斯达克综合指数跌幅扩大，现跌1.0%，最新报22481.33点。",
+    "sort_time": "1773323200030131",
+    "showTime": "2026-03-12 21:46:40",
+    "time": "2026-03-12 21:46:40",
+    "publish_time": "2026-03-12 21:46:40",
+    "raw_data": {
+      "code": "202603123670430131",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773323200030131",
+      "share": 0,
+      "showTime": "2026-03-12 21:46:40",
+      "stockList": [],
+      "summary": "纳斯达克综合指数跌幅扩大，现跌1.0%，最新报22481.33点。",
+      "title": "纳斯达克综合指数跌幅扩大至1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670430131.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "deeffa4c46c6d740",
+    "code": "202603123670427051",
+    "title": "史上最大规模石油储备释放难补缺口",
+    "summary": "【史上最大规模石油储备释放难补缺口】尽管国际能源署成员国达成一致，联手释放总计4亿桶战略石油储备，以缓解全球原油供应紧张，但这一史上最大规模协同释储行动，仍未能平息市场担忧。",
+    "content": "【史上最大规模石油储备释放难补缺口】尽管国际能源署成员国达成一致，联手释放总计4亿桶战略石油储备，以缓解全球原油供应紧张，但这一史上最大规模协同释储行动，仍未能平息市场担忧。",
+    "full_content": "【史上最大规模石油储备释放难补缺口】尽管国际能源署成员国达成一致，联手释放总计4亿桶战略石油储备，以缓解全球原油供应紧张，但这一史上最大规模协同释储行动，仍未能平息市场担忧。",
+    "sort_time": "1773322870027051",
+    "showTime": "2026-03-12 21:41:10",
+    "time": "2026-03-12 21:41:10",
+    "publish_time": "2026-03-12 21:41:10",
+    "raw_data": {
+      "code": "202603123670427051",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1773322870027051",
+      "share": 7,
+      "showTime": "2026-03-12 21:41:10",
+      "stockList": [
+        "90.BK0464",
+        "0.159945"
+      ],
+      "summary": "【史上最大规模石油储备释放难补缺口】尽管国际能源署成员国达成一致，联手释放总计4亿桶战略石油储备，以缓解全球原油供应紧张，但这一史上最大规模协同释储行动，仍未能平息市场担忧。",
+      "title": "史上最大规模石油储备释放难补缺口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670427051.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464",
+      "0.159945"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 7,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "0b0a494f2bdabd53",
+    "code": "202603123670424739",
+    "title": "罗素2000指数跌幅扩大至1.5%",
+    "summary": "罗素2000指数跌幅扩大至1.5%。",
+    "content": "罗素2000指数跌幅扩大至1.5%。",
+    "full_content": "罗素2000指数跌幅扩大至1.5%。",
+    "sort_time": "1773322667024739",
+    "showTime": "2026-03-12 21:37:47",
+    "time": "2026-03-12 21:37:47",
+    "publish_time": "2026-03-12 21:37:47",
+    "raw_data": {
+      "code": "202603123670424739",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773322667024739",
+      "share": 2,
+      "showTime": "2026-03-12 21:37:47",
+      "stockList": [],
+      "summary": "罗素2000指数跌幅扩大至1.5%。",
+      "title": "罗素2000指数跌幅扩大至1.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670424739.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "aca92258dab364fb",
+    "code": "202603123670423427",
+    "title": "王毅同埃及外长阿卜杜勒阿提通电话",
+    "summary": "王毅同埃及外长阿卜杜勒阿提通电话。",
+    "content": "王毅同埃及外长阿卜杜勒阿提通电话。",
+    "full_content": "王毅同埃及外长阿卜杜勒阿提通电话。",
+    "sort_time": "1773322644023427",
+    "showTime": "2026-03-12 21:37:24",
+    "time": "2026-03-12 21:37:24",
+    "publish_time": "2026-03-12 21:37:24",
+    "raw_data": {
+      "code": "202603123670423427",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773322644023427",
+      "share": 1,
+      "showTime": "2026-03-12 21:37:24",
+      "stockList": [],
+      "summary": "王毅同埃及外长阿卜杜勒阿提通电话。",
+      "title": "王毅同埃及外长阿卜杜勒阿提通电话",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670423427.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3ae711c0d7ad8914",
+    "code": "202603123670423232",
+    "title": "伊朗新任最高领袖誓言复仇",
+    "summary": "【伊朗新任最高领袖誓言复仇】伊朗新任最高领袖穆杰塔巴·哈梅内伊今天（3月12日）发表就任以来的首份声明表示，“伊朗绝不会放弃为烈士的鲜血复仇。”",
+    "content": "【伊朗新任最高领袖誓言复仇】伊朗新任最高领袖穆杰塔巴·哈梅内伊今天（3月12日）发表就任以来的首份声明表示，“伊朗绝不会放弃为烈士的鲜血复仇。”",
+    "full_content": "【伊朗新任最高领袖誓言复仇】伊朗新任最高领袖穆杰塔巴·哈梅内伊今天（3月12日）发表就任以来的首份声明表示，“伊朗绝不会放弃为烈士的鲜血复仇。”",
+    "sort_time": "1773322613023232",
+    "showTime": "2026-03-12 21:36:53",
+    "time": "2026-03-12 21:36:53",
+    "publish_time": "2026-03-12 21:36:53",
+    "raw_data": {
+      "code": "202603123670423232",
+      "image": [],
+      "pinglun_Num": 14,
+      "realSort": "1773322613023232",
+      "share": 49,
+      "showTime": "2026-03-12 21:36:53",
+      "stockList": [],
+      "summary": "【伊朗新任最高领袖誓言复仇】伊朗新任最高领袖穆杰塔巴·哈梅内伊今天（3月12日）发表就任以来的首份声明表示，“伊朗绝不会放弃为烈士的鲜血复仇。”",
+      "title": "伊朗新任最高领袖誓言复仇",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670423232.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 14,
+    "share_count": 49,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "82a1a872c03cb6a8",
+    "code": "202603123670422492",
+    "title": "摩根士丹利股价下跌4.9%",
+    "summary": "摩根士丹利股价下跌4.9%，创2月27日以来最大跌幅。",
+    "content": "摩根士丹利股价下跌4.9%，创2月27日以来最大跌幅。",
+    "full_content": "摩根士丹利股价下跌4.9%，创2月27日以来最大跌幅。",
+    "sort_time": "1773322557022492",
+    "showTime": "2026-03-12 21:35:57",
+    "time": "2026-03-12 21:35:57",
+    "publish_time": "2026-03-12 21:35:57",
+    "raw_data": {
+      "code": "202603123670422492",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773322557022492",
+      "share": 1,
+      "showTime": "2026-03-12 21:35:57",
+      "stockList": [
+        "106.MS"
+      ],
+      "summary": "摩根士丹利股价下跌4.9%，创2月27日以来最大跌幅。",
+      "title": "摩根士丹利股价下跌4.9%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670422492.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "106.MS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2139e39c792949f8",
+    "code": "202603123670422098",
+    "title": "伊朗最高领袖说将继续封锁霍尔木兹海峡",
+    "summary": "【伊朗最高领袖说将继续封锁霍尔木兹海峡】伊朗最高领袖穆杰塔巴·哈梅内伊说，伊朗将继续使用封锁霍尔木兹海峡这一手段，并建议地区邻国关闭美军基地。",
+    "content": "【伊朗最高领袖说将继续封锁霍尔木兹海峡】伊朗最高领袖穆杰塔巴·哈梅内伊说，伊朗将继续使用封锁霍尔木兹海峡这一手段，并建议地区邻国关闭美军基地。",
+    "full_content": "【伊朗最高领袖说将继续封锁霍尔木兹海峡】伊朗最高领袖穆杰塔巴·哈梅内伊说，伊朗将继续使用封锁霍尔木兹海峡这一手段，并建议地区邻国关闭美军基地。",
+    "sort_time": "1773322516022098",
+    "showTime": "2026-03-12 21:35:16",
+    "time": "2026-03-12 21:35:16",
+    "publish_time": "2026-03-12 21:35:16",
+    "raw_data": {
+      "code": "202603123670422098",
+      "image": [],
+      "pinglun_Num": 46,
+      "realSort": "1773322516022098",
+      "share": 351,
+      "showTime": "2026-03-12 21:35:16",
+      "stockList": [],
+      "summary": "【伊朗最高领袖说将继续封锁霍尔木兹海峡】伊朗最高领袖穆杰塔巴·哈梅内伊说，伊朗将继续使用封锁霍尔木兹海峡这一手段，并建议地区邻国关闭美军基地。",
+      "title": "伊朗最高领袖说将继续封锁霍尔木兹海峡",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670422098.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 46,
+    "share_count": 351,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5076f97c1a250302",
+    "code": "202603123670421923",
+    "title": "伊朗新任最高领袖感谢抵抗运动",
+    "summary": "【伊朗新任最高领袖感谢抵抗运动】伊朗新任最高领袖穆杰塔巴·哈梅内伊感谢地区抵抗运动武装人员，称其为伊朗“最好的朋友”。他还呼吁伊朗人民团结一致，积极参与“圣城日”。",
+    "content": "【伊朗新任最高领袖感谢抵抗运动】伊朗新任最高领袖穆杰塔巴·哈梅内伊感谢地区抵抗运动武装人员，称其为伊朗“最好的朋友”。他还呼吁伊朗人民团结一致，积极参与“圣城日”。",
+    "full_content": "【伊朗新任最高领袖感谢抵抗运动】伊朗新任最高领袖穆杰塔巴·哈梅内伊感谢地区抵抗运动武装人员，称其为伊朗“最好的朋友”。他还呼吁伊朗人民团结一致，积极参与“圣城日”。",
+    "sort_time": "1773322509021923",
+    "showTime": "2026-03-12 21:35:09",
+    "time": "2026-03-12 21:35:09",
+    "publish_time": "2026-03-12 21:35:09",
+    "raw_data": {
+      "code": "202603123670421923",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773322509021923",
+      "share": 3,
+      "showTime": "2026-03-12 21:35:09",
+      "stockList": [],
+      "summary": "【伊朗新任最高领袖感谢抵抗运动】伊朗新任最高领袖穆杰塔巴·哈梅内伊感谢地区抵抗运动武装人员，称其为伊朗“最好的朋友”。他还呼吁伊朗人民团结一致，积极参与“圣城日”。",
+      "title": "伊朗新任最高领袖感谢抵抗运动",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670421923.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "69ca84c5384c2f42",
+    "code": "202603123670420580",
+    "title": "标普1500化肥指数上涨4%",
+    "summary": "标普1500化肥指数上涨4%。",
+    "content": "标普1500化肥指数上涨4%。",
+    "full_content": "标普1500化肥指数上涨4%。",
+    "sort_time": "1773322437020580",
+    "showTime": "2026-03-12 21:33:57",
+    "time": "2026-03-12 21:33:57",
+    "publish_time": "2026-03-12 21:33:57",
+    "raw_data": {
+      "code": "202603123670420580",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1773322437020580",
+      "share": 11,
+      "showTime": "2026-03-12 21:33:57",
+      "stockList": [
+        "90.BK0731"
+      ],
+      "summary": "标普1500化肥指数上涨4%。",
+      "title": "标普1500化肥指数上涨4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670420580.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0731"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 11,
+    "share_count": 11,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C508",
+          "name": "化工",
+          "matched_keyword": "化肥"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C508"
+      ]
+    }
+  },
+  {
+    "id": "4e0b63b3ed1b4baf",
+    "code": "202603123670420380",
+    "title": "中国驻以色列使馆：特别提醒在以色列北部中国公民务必尽快转移避险并加强安全防范",
+    "summary": "【中国驻以色列使馆：特别提醒在以色列北部中国公民务必尽快转移避险并加强安全防范】中国驻以色列使馆特别提醒在以色列北部中国公民务必保持高度警惕，摒弃侥幸心理，尽快转移撤离至安全地区避险，确有必要留守人员严格遵守以后方司令部安全指令，切实做好安全防范，对火箭弹等来袭预警时间短做好充分准备，听到防空警报务必第一时间进入避弹设施，确保自身安全。如遇紧急情况，请及时报警并与中国驻以色列使馆取得联系。",
+    "content": "【中国驻以色列使馆：特别提醒在以色列北部中国公民务必尽快转移避险并加强安全防范】中国驻以色列使馆特别提醒在以色列北部中国公民务必保持高度警惕，摒弃侥幸心理，尽快转移撤离至安全地区避险，确有必要留守人员严格遵守以后方司令部安全指令，切实做好安全防范，对火箭弹等来袭预警时间短做好充分准备，听到防空警报务必第一时间进入避弹设施，确保自身安全。如遇紧急情况，请及时报警并与中国驻以色列使馆取得联系。",
+    "full_content": "【中国驻以色列使馆：特别提醒在以色列北部中国公民务必尽快转移避险并加强安全防范】中国驻以色列使馆特别提醒在以色列北部中国公民务必保持高度警惕，摒弃侥幸心理，尽快转移撤离至安全地区避险，确有必要留守人员严格遵守以后方司令部安全指令，切实做好安全防范，对火箭弹等来袭预警时间短做好充分准备，听到防空警报务必第一时间进入避弹设施，确保自身安全。如遇紧急情况，请及时报警并与中国驻以色列使馆取得联系。",
+    "sort_time": "1773322399020380",
+    "showTime": "2026-03-12 21:33:19",
+    "time": "2026-03-12 21:33:19",
+    "publish_time": "2026-03-12 21:33:19",
+    "raw_data": {
+      "code": "202603123670420380",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1773322399020380",
+      "share": 18,
+      "showTime": "2026-03-12 21:33:19",
+      "stockList": [],
+      "summary": "【中国驻以色列使馆：特别提醒在以色列北部中国公民务必尽快转移避险并加强安全防范】中国驻以色列使馆特别提醒在以色列北部中国公民务必保持高度警惕，摒弃侥幸心理，尽快转移撤离至安全地区避险，确有必要留守人员严格遵守以后方司令部安全指令，切实做好安全防范，对火箭弹等来袭预警时间短做好充分准备，听到防空警报务必第一时间进入避弹设施，确保自身安全。如遇紧急情况，请及时报警并与中国驻以色列使馆取得联系。",
+      "title": "中国驻以色列使馆：特别提醒在以色列北部中国公民务必尽快转移避险并加强安全防范",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670420380.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 18,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "火箭"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C202"
+      ]
+    }
+  },
+  {
+    "id": "df78a99027aeeee0",
+    "code": "202603123670419465",
+    "title": "斯托克欧洲600指数下跌0.6%",
+    "summary": "斯托克欧洲600指数下跌0.6%。",
+    "content": "斯托克欧洲600指数下跌0.6%。",
+    "full_content": "斯托克欧洲600指数下跌0.6%。",
+    "sort_time": "1773322290019465",
+    "showTime": "2026-03-12 21:31:30",
+    "time": "2026-03-12 21:31:30",
+    "publish_time": "2026-03-12 21:31:30",
+    "raw_data": {
+      "code": "202603123670419465",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773322290019465",
+      "share": 0,
+      "showTime": "2026-03-12 21:31:30",
+      "stockList": [],
+      "summary": "斯托克欧洲600指数下跌0.6%。",
+      "title": "斯托克欧洲600指数下跌0.6%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670419465.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0d73982c381f768f",
+    "code": "202603123670419796",
+    "title": "美股三大指数集体低开 纳指跌0.9%",
+    "summary": "【美股三大指数集体低开 纳指跌0.9%】美股三大指数集体低开，纳指跌0.89%，道指跌1.16%，标普500指数跌0.83%。芯片股普跌，英特尔、英伟达、AMD、闪迪跌超1%。",
+    "content": "【美股三大指数集体低开 纳指跌0.9%】美股三大指数集体低开，纳指跌0.89%，道指跌1.16%，标普500指数跌0.83%。芯片股普跌，英特尔、英伟达、AMD、闪迪跌超1%。",
+    "full_content": "【美股三大指数集体低开 纳指跌0.9%】美股三大指数集体低开，纳指跌0.89%，道指跌1.16%，标普500指数跌0.83%。芯片股普跌，英特尔、英伟达、AMD、闪迪跌超1%。",
+    "sort_time": "1773322272019796",
+    "showTime": "2026-03-12 21:31:12",
+    "time": "2026-03-12 21:31:12",
+    "publish_time": "2026-03-12 21:31:12",
+    "raw_data": {
+      "code": "202603123670419796",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1773322272019796",
+      "share": 1,
+      "showTime": "2026-03-12 21:31:12",
+      "stockList": [
+        "150.159813",
+        "150.013446"
+      ],
+      "summary": "【美股三大指数集体低开 纳指跌0.9%】美股三大指数集体低开，纳指跌0.89%，道指跌1.16%，标普500指数跌0.83%。芯片股普跌，英特尔、英伟达、AMD、闪迪跌超1%。",
+      "title": "美股三大指数集体低开 纳指跌0.9%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670419796.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.159813",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "a469e31eff491ed2",
+    "code": "202603123670419131",
+    "title": "伊朗最高领袖说只针对敌人基地进行打击",
+    "summary": "【伊朗最高领袖说只针对敌人基地进行打击】伊朗最高领袖穆杰塔巴·哈梅内伊说，我们相信与邻国友好，只针对敌人基地进行打击，将不得不继续这样做。",
+    "content": "【伊朗最高领袖说只针对敌人基地进行打击】伊朗最高领袖穆杰塔巴·哈梅内伊说，我们相信与邻国友好，只针对敌人基地进行打击，将不得不继续这样做。",
+    "full_content": "【伊朗最高领袖说只针对敌人基地进行打击】伊朗最高领袖穆杰塔巴·哈梅内伊说，我们相信与邻国友好，只针对敌人基地进行打击，将不得不继续这样做。",
+    "sort_time": "1773322130019131",
+    "showTime": "2026-03-12 21:28:50",
+    "time": "2026-03-12 21:28:50",
+    "publish_time": "2026-03-12 21:28:50",
+    "raw_data": {
+      "code": "202603123670419131",
+      "image": [],
+      "pinglun_Num": 46,
+      "realSort": "1773322130019131",
+      "share": 103,
+      "showTime": "2026-03-12 21:28:50",
+      "stockList": [],
+      "summary": "【伊朗最高领袖说只针对敌人基地进行打击】伊朗最高领袖穆杰塔巴·哈梅内伊说，我们相信与邻国友好，只针对敌人基地进行打击，将不得不继续这样做。",
+      "title": "伊朗最高领袖说只针对敌人基地进行打击",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670419131.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 46,
+    "share_count": 103,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "19bf3632a4daa13a",
+    "code": "202603123670418987",
+    "title": "新兴市场货币指数跌至盘中低点",
+    "summary": "新兴市场货币指数跌至盘中低点，油价攀升，受伊朗言论影响。",
+    "content": "新兴市场货币指数跌至盘中低点，油价攀升，受伊朗言论影响。",
+    "full_content": "新兴市场货币指数跌至盘中低点，油价攀升，受伊朗言论影响。",
+    "sort_time": "1773322048018987",
+    "showTime": "2026-03-12 21:27:28",
+    "time": "2026-03-12 21:27:28",
+    "publish_time": "2026-03-12 21:27:28",
+    "raw_data": {
+      "code": "202603123670418987",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773322048018987",
+      "share": 3,
+      "showTime": "2026-03-12 21:27:28",
+      "stockList": [],
+      "summary": "新兴市场货币指数跌至盘中低点，油价攀升，受伊朗言论影响。",
+      "title": "新兴市场货币指数跌至盘中低点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670418987.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c94eea02d431e86a",
+    "code": "202603123670418777",
+    "title": "布伦特原油期货扩大涨幅 触及每桶100美元",
+    "summary": "布伦特原油期货扩大涨幅，触及每桶100美元。",
+    "content": "布伦特原油期货扩大涨幅，触及每桶100美元。",
+    "full_content": "布伦特原油期货扩大涨幅，触及每桶100美元。",
+    "sort_time": "1773322017018777",
+    "showTime": "2026-03-12 21:26:57",
+    "time": "2026-03-12 21:26:57",
+    "publish_time": "2026-03-12 21:26:57",
+    "raw_data": {
+      "code": "202603123670418777",
+      "image": [],
+      "pinglun_Num": 15,
+      "realSort": "1773322017018777",
+      "share": 34,
+      "showTime": "2026-03-12 21:26:57",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "布伦特原油期货扩大涨幅，触及每桶100美元。",
+      "title": "布伦特原油期货扩大涨幅 触及每桶100美元",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670418777.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 15,
+    "share_count": 34,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "d1a775205dfea38d",
+    "code": "202603123670418558",
+    "title": "ST京蓝：公司股票已于近期被深交所重点监控 将停牌核查",
+    "summary": "【ST京蓝：公司股票已于近期被深交所重点监控 将停牌核查】ST京蓝(000711.SZ)公告称，为维护投资者利益，公司将就股票交易波动情况进行核查。经公司申请，公司股票自2026年3月13日开市起停牌，待核查结束并披露相关公告后复牌，预计停牌时间不超过5个交易日。",
+    "content": "【ST京蓝：公司股票已于近期被深交所重点监控 将停牌核查】ST京蓝(000711.SZ)公告称，为维护投资者利益，公司将就股票交易波动情况进行核查。经公司申请，公司股票自2026年3月13日开市起停牌，待核查结束并披露相关公告后复牌，预计停牌时间不超过5个交易日。",
+    "full_content": "【ST京蓝：公司股票已于近期被深交所重点监控 将停牌核查】ST京蓝(000711.SZ)公告称，为维护投资者利益，公司将就股票交易波动情况进行核查。经公司申请，公司股票自2026年3月13日开市起停牌，待核查结束并披露相关公告后复牌，预计停牌时间不超过5个交易日。",
+    "sort_time": "1773321974018558",
+    "showTime": "2026-03-12 21:26:14",
+    "time": "2026-03-12 21:26:14",
+    "publish_time": "2026-03-12 21:26:14",
+    "raw_data": {
+      "code": "202603123670418558",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1773321974018558",
+      "share": 29,
+      "showTime": "2026-03-12 21:26:14",
+      "stockList": [
+        "0.000711"
+      ],
+      "summary": "【ST京蓝：公司股票已于近期被深交所重点监控 将停牌核查】ST京蓝(000711.SZ)公告称，为维护投资者利益，公司将就股票交易波动情况进行核查。经公司申请，公司股票自2026年3月13日开市起停牌，待核查结束并披露相关公告后复牌，预计停牌时间不超过5个交易日。",
+      "title": "ST京蓝：公司股票已于近期被深交所重点监控 将停牌核查",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670418558.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.000711"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 13,
+    "share_count": 29,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C814",
+          "name": "ST板块",
+          "matched_keyword": "ST"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C814"
+      ]
+    }
+  },
+  {
+    "id": "ea419b79425e7903",
+    "code": "202603123670418038",
+    "title": "伊朗最高领袖说不会放弃复仇",
+    "summary": "【伊朗最高领袖说不会放弃复仇】伊朗最高领袖穆杰塔巴·哈梅内伊说，不会放弃复仇，霍尔木兹海峡将继续关闭。",
+    "content": "【伊朗最高领袖说不会放弃复仇】伊朗最高领袖穆杰塔巴·哈梅内伊说，不会放弃复仇，霍尔木兹海峡将继续关闭。",
+    "full_content": "【伊朗最高领袖说不会放弃复仇】伊朗最高领袖穆杰塔巴·哈梅内伊说，不会放弃复仇，霍尔木兹海峡将继续关闭。",
+    "sort_time": "1773321924018038",
+    "showTime": "2026-03-12 21:25:24",
+    "time": "2026-03-12 21:25:24",
+    "publish_time": "2026-03-12 21:25:24",
+    "raw_data": {
+      "code": "202603123670418038",
+      "image": [],
+      "pinglun_Num": 139,
+      "realSort": "1773321924018038",
+      "share": 723,
+      "showTime": "2026-03-12 21:25:24",
+      "stockList": [],
+      "summary": "【伊朗最高领袖说不会放弃复仇】伊朗最高领袖穆杰塔巴·哈梅内伊说，不会放弃复仇，霍尔木兹海峡将继续关闭。",
+      "title": "伊朗最高领袖说不会放弃复仇",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670418038.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 139,
+    "share_count": 723,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "52eb330213038f15",
+    "code": "202603123670417961",
+    "title": "伊朗最高领袖要求地区美军基地关闭",
+    "summary": "【伊朗最高领袖要求地区美军基地关闭】伊朗领导人穆杰塔巴·哈梅内伊表示，中东地区的所有美军基地应立即关闭，否则这些基地将会遭到攻击。",
+    "content": "【伊朗最高领袖要求地区美军基地关闭】伊朗领导人穆杰塔巴·哈梅内伊表示，中东地区的所有美军基地应立即关闭，否则这些基地将会遭到攻击。",
+    "full_content": "【伊朗最高领袖要求地区美军基地关闭】伊朗领导人穆杰塔巴·哈梅内伊表示，中东地区的所有美军基地应立即关闭，否则这些基地将会遭到攻击。",
+    "sort_time": "1773321886017961",
+    "showTime": "2026-03-12 21:24:46",
+    "time": "2026-03-12 21:24:46",
+    "publish_time": "2026-03-12 21:24:46",
+    "raw_data": {
+      "code": "202603123670417961",
+      "image": [],
+      "pinglun_Num": 24,
+      "realSort": "1773321886017961",
+      "share": 25,
+      "showTime": "2026-03-12 21:24:46",
+      "stockList": [],
+      "summary": "【伊朗最高领袖要求地区美军基地关闭】伊朗领导人穆杰塔巴·哈梅内伊表示，中东地区的所有美军基地应立即关闭，否则这些基地将会遭到攻击。",
+      "title": "伊朗最高领袖要求地区美军基地关闭",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670417961.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 24,
+    "share_count": 25,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7f0d5ca59c961d28",
+    "code": "202603123670416790",
+    "title": "上期所原油期货短线拉升 涨近4.5%",
+    "summary": "上期所原油期货短线拉升，涨近4.5%。",
+    "content": "上期所原油期货短线拉升，涨近4.5%。",
+    "full_content": "上期所原油期货短线拉升，涨近4.5%。",
+    "sort_time": "1773321697016790",
+    "showTime": "2026-03-12 21:21:37",
+    "time": "2026-03-12 21:21:37",
+    "publish_time": "2026-03-12 21:21:37",
+    "raw_data": {
+      "code": "202603123670416790",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1773321697016790",
+      "share": 5,
+      "showTime": "2026-03-12 21:21:37",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "上期所原油期货短线拉升，涨近4.5%。",
+      "title": "上期所原油期货短线拉升 涨近4.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670416790.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "72b13c8d3c47518f",
+    "code": "202603123670416548",
+    "title": "伊朗最高领袖穆杰塔巴·哈梅内伊发表首次声明",
+    "summary": "【伊朗最高领袖穆杰塔巴·哈梅内伊发表首次声明】当地时间12日，伊朗最高领袖穆杰塔巴·哈梅内伊发表就任最高领袖以来的首份声明，就国家发展方向、地区局势以及应对外部挑战等问题作出系统阐述。",
+    "content": "【伊朗最高领袖穆杰塔巴·哈梅内伊发表首次声明】当地时间12日，伊朗最高领袖穆杰塔巴·哈梅内伊发表就任最高领袖以来的首份声明，就国家发展方向、地区局势以及应对外部挑战等问题作出系统阐述。",
+    "full_content": "【伊朗最高领袖穆杰塔巴·哈梅内伊发表首次声明】当地时间12日，伊朗最高领袖穆杰塔巴·哈梅内伊发表就任最高领袖以来的首份声明，就国家发展方向、地区局势以及应对外部挑战等问题作出系统阐述。",
+    "sort_time": "1773321667016548",
+    "showTime": "2026-03-12 21:21:07",
+    "time": "2026-03-12 21:21:07",
+    "publish_time": "2026-03-12 21:21:07",
+    "raw_data": {
+      "code": "202603123670416548",
+      "image": [],
+      "pinglun_Num": 179,
+      "realSort": "1773321667016548",
+      "share": 633,
+      "showTime": "2026-03-12 21:21:07",
+      "stockList": [
+        "90.BK0689"
+      ],
+      "summary": "【伊朗最高领袖穆杰塔巴·哈梅内伊发表首次声明】当地时间12日，伊朗最高领袖穆杰塔巴·哈梅内伊发表就任最高领袖以来的首份声明，就国家发展方向、地区局势以及应对外部挑战等问题作出系统阐述。",
+      "title": "伊朗最高领袖穆杰塔巴·哈梅内伊发表首次声明",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670416548.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0689"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 179,
+    "share_count": 633,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f7f748486434b335",
+    "code": "202603123670416130",
+    "title": "俄外交部：已制定调解伊朗问题建议并就此展开沟通",
+    "summary": "【俄外交部：已制定调解伊朗问题建议并就此展开沟通】当地时间3月12日，俄罗斯外交部发言人扎哈罗娃表示，俄方已经制定有关调解伊朗问题的建议，但不会公布其内容。俄方正就此展开积极沟通。",
+    "content": "【俄外交部：已制定调解伊朗问题建议并就此展开沟通】当地时间3月12日，俄罗斯外交部发言人扎哈罗娃表示，俄方已经制定有关调解伊朗问题的建议，但不会公布其内容。俄方正就此展开积极沟通。",
+    "full_content": "【俄外交部：已制定调解伊朗问题建议并就此展开沟通】当地时间3月12日，俄罗斯外交部发言人扎哈罗娃表示，俄方已经制定有关调解伊朗问题的建议，但不会公布其内容。俄方正就此展开积极沟通。",
+    "sort_time": "1773321619016130",
+    "showTime": "2026-03-12 21:20:19",
+    "time": "2026-03-12 21:20:19",
+    "publish_time": "2026-03-12 21:20:19",
+    "raw_data": {
+      "code": "202603123670416130",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1773321619016130",
+      "share": 2,
+      "showTime": "2026-03-12 21:20:19",
+      "stockList": [],
+      "summary": "【俄外交部：已制定调解伊朗问题建议并就此展开沟通】当地时间3月12日，俄罗斯外交部发言人扎哈罗娃表示，俄方已经制定有关调解伊朗问题的建议，但不会公布其内容。俄方正就此展开积极沟通。",
+      "title": "俄外交部：已制定调解伊朗问题建议并就此展开沟通",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670416130.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "bc2e57b8c3268a05",
+    "code": "202603123670416462",
+    "title": "商品期货夜盘走势分化 部分化工品走弱",
+    "summary": "【商品期货夜盘走势分化 部分化工品走弱】国内商品期货夜盘走势分化，铁矿、原油涨超3%，沪银涨1.78%，沥青涨1.5%。燃油涨1.2%；苯乙烯、纯苯跌超3.5%，丙烯跌2.7%，乙二醇跌2.3%，pta跌逾2%。",
+    "content": "【商品期货夜盘走势分化 部分化工品走弱】国内商品期货夜盘走势分化，铁矿、原油涨超3%，沪银涨1.78%，沥青涨1.5%。燃油涨1.2%；苯乙烯、纯苯跌超3.5%，丙烯跌2.7%，乙二醇跌2.3%，pta跌逾2%。",
+    "full_content": "【商品期货夜盘走势分化 部分化工品走弱】国内商品期货夜盘走势分化，铁矿、原油涨超3%，沪银涨1.78%，沥青涨1.5%。燃油涨1.2%；苯乙烯、纯苯跌超3.5%，丙烯跌2.7%，乙二醇跌2.3%，pta跌逾2%。",
+    "sort_time": "1773321418016462",
+    "showTime": "2026-03-12 21:16:58",
+    "time": "2026-03-12 21:16:58",
+    "publish_time": "2026-03-12 21:16:58",
+    "raw_data": {
+      "code": "202603123670416462",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773321418016462",
+      "share": 1,
+      "showTime": "2026-03-12 21:16:58",
+      "stockList": [],
+      "summary": "【商品期货夜盘走势分化 部分化工品走弱】国内商品期货夜盘走势分化，铁矿、原油涨超3%，沪银涨1.78%，沥青涨1.5%。燃油涨1.2%；苯乙烯、纯苯跌超3.5%，丙烯跌2.7%，乙二醇跌2.3%，pta跌逾2%。",
+      "title": "商品期货夜盘走势分化 部分化工品走弱",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670416462.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        },
+        {
+          "id": "C508",
+          "name": "化工",
+          "matched_keyword": "化工"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506",
+        "C508"
+      ]
+    }
+  },
+  {
+    "id": "1873638a45c6e373",
+    "code": "202603123670404678",
+    "title": "伊朗高官警告美勿袭电力系统",
+    "summary": "【伊朗高官警告美勿袭电力系统】伊朗最高国家安全委员会秘书拉里贾尼今天（3月12日）在社交媒体用波斯文、英文和阿拉伯文发帖说，“（美国总统）特朗普称‘我可以在一小时内摧毁伊朗的电力系统，但我没这么做’。如果他真这么做了，半小时内整个地区都会陷入黑暗。而黑暗将为追捕那些逃命求生的美军士兵提供良机。”",
+    "content": "【伊朗高官警告美勿袭电力系统】伊朗最高国家安全委员会秘书拉里贾尼今天（3月12日）在社交媒体用波斯文、英文和阿拉伯文发帖说，“（美国总统）特朗普称‘我可以在一小时内摧毁伊朗的电力系统，但我没这么做’。如果他真这么做了，半小时内整个地区都会陷入黑暗。而黑暗将为追捕那些逃命求生的美军士兵提供良机。”",
+    "full_content": "【伊朗高官警告美勿袭电力系统】伊朗最高国家安全委员会秘书拉里贾尼今天（3月12日）在社交媒体用波斯文、英文和阿拉伯文发帖说，“（美国总统）特朗普称‘我可以在一小时内摧毁伊朗的电力系统，但我没这么做’。如果他真这么做了，半小时内整个地区都会陷入黑暗。而黑暗将为追捕那些逃命求生的美军士兵提供良机。”",
+    "sort_time": "1773321150004678",
+    "showTime": "2026-03-12 21:12:30",
+    "time": "2026-03-12 21:12:30",
+    "publish_time": "2026-03-12 21:12:30",
+    "raw_data": {
+      "code": "202603123670404678",
+      "image": [],
+      "pinglun_Num": 18,
+      "realSort": "1773321150004678",
+      "share": 6,
+      "showTime": "2026-03-12 21:12:30",
+      "stockList": [
+        "90.BK0428",
+        "201.HK49"
+      ],
+      "summary": "【伊朗高官警告美勿袭电力系统】伊朗最高国家安全委员会秘书拉里贾尼今天（3月12日）在社交媒体用波斯文、英文和阿拉伯文发帖说，“（美国总统）特朗普称‘我可以在一小时内摧毁伊朗的电力系统，但我没这么做’。如果他真这么做了，半小时内整个地区都会陷入黑暗。而黑暗将为追捕那些逃命求生的美军士兵提供良机。”",
+      "title": "伊朗高官警告美勿袭电力系统",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670404678.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0428",
+      "201.HK49"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 18,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "66f26760416670e0",
+    "code": "202603123670398472",
+    "title": "微软推出健康助手Copilot Health",
+    "summary": "【微软推出健康助手Copilot Health】微软3月12日宣布推出CopilotHealth，称这是Copilot内独立安全的健康空间，通过医疗智能解析用户的健康数据，提供可付诸行动的个性化健康洞察。CopilotHealth可将用户的健康档案、可穿戴设备数据及健康史整合于一处。",
+    "content": "【微软推出健康助手Copilot Health】微软3月12日宣布推出CopilotHealth，称这是Copilot内独立安全的健康空间，通过医疗智能解析用户的健康数据，提供可付诸行动的个性化健康洞察。CopilotHealth可将用户的健康档案、可穿戴设备数据及健康史整合于一处。",
+    "full_content": "【微软推出健康助手Copilot Health】微软3月12日宣布推出CopilotHealth，称这是Copilot内独立安全的健康空间，通过医疗智能解析用户的健康数据，提供可付诸行动的个性化健康洞察。CopilotHealth可将用户的健康档案、可穿戴设备数据及健康史整合于一处。",
+    "sort_time": "1773320867098472",
+    "showTime": "2026-03-12 21:07:47",
+    "time": "2026-03-12 21:07:47",
+    "publish_time": "2026-03-12 21:07:47",
+    "raw_data": {
+      "code": "202603123670398472",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773320867098472",
+      "share": 0,
+      "showTime": "2026-03-12 21:07:47",
+      "stockList": [],
+      "summary": "【微软推出健康助手Copilot Health】微软3月12日宣布推出CopilotHealth，称这是Copilot内独立安全的健康空间，通过医疗智能解析用户的健康数据，提供可付诸行动的个性化健康洞察。CopilotHealth可将用户的健康档案、可穿戴设备数据及健康史整合于一处。",
+      "title": "微软推出健康助手Copilot Health",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670398472.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "可穿戴"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C013",
+          "name": "消费电子",
+          "matched_keyword": "可穿戴"
+        }
+      ],
+      "industry_ids": [
+        "I010103"
+      ],
+      "concept_ids": [
+        "C013"
+      ]
+    }
+  },
+  {
+    "id": "1d5cbba8a4f5d69c",
+    "code": "202603123670397483",
+    "title": "波罗的海干散货指数涨2.39% 至1972点",
+    "summary": "波罗的海干散货指数涨2.39%，至1972点。",
+    "content": "波罗的海干散货指数涨2.39%，至1972点。",
+    "full_content": "波罗的海干散货指数涨2.39%，至1972点。",
+    "sort_time": "1773320733097483",
+    "showTime": "2026-03-12 21:05:33",
+    "time": "2026-03-12 21:05:33",
+    "publish_time": "2026-03-12 21:05:33",
+    "raw_data": {
+      "code": "202603123670397483",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1773320733097483",
+      "share": 0,
+      "showTime": "2026-03-12 21:05:33",
+      "stockList": [
+        "90.BK0450"
+      ],
+      "summary": "波罗的海干散货指数涨2.39%，至1972点。",
+      "title": "波罗的海干散货指数涨2.39% 至1972点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670397483.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0450"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7e9102fa0be45b34",
+    "code": "202603123670396361",
+    "title": "谷歌地图推出聊天搜索功能“问地图”",
+    "summary": "【谷歌地图推出聊天搜索功能“问地图”】谷歌地图3月12日宣布将地图与Gemini模型相结合，推出全新对话式功能“问地图”，它能解答地图以往无法回答的复杂现实问题。",
+    "content": "【谷歌地图推出聊天搜索功能“问地图”】谷歌地图3月12日宣布将地图与Gemini模型相结合，推出全新对话式功能“问地图”，它能解答地图以往无法回答的复杂现实问题。",
+    "full_content": "【谷歌地图推出聊天搜索功能“问地图”】谷歌地图3月12日宣布将地图与Gemini模型相结合，推出全新对话式功能“问地图”，它能解答地图以往无法回答的复杂现实问题。",
+    "sort_time": "1773320555096361",
+    "showTime": "2026-03-12 21:02:35",
+    "time": "2026-03-12 21:02:35",
+    "publish_time": "2026-03-12 21:02:35",
+    "raw_data": {
+      "code": "202603123670396361",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1773320555096361",
+      "share": 0,
+      "showTime": "2026-03-12 21:02:35",
+      "stockList": [
+        "105.GOOG"
+      ],
+      "summary": "【谷歌地图推出聊天搜索功能“问地图”】谷歌地图3月12日宣布将地图与Gemini模型相结合，推出全新对话式功能“问地图”，它能解答地图以往无法回答的复杂现实问题。",
+      "title": "谷歌地图推出聊天搜索功能“问地图”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670396361.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "41bff314bc3bc832",
+    "code": "202603123670396126",
+    "title": "利亚德：已向中科院提供MicroLED光模块产品 用于替代原有传统光传输方案",
+    "summary": "【利亚德：已向中科院提供MicroLED光模块产品 用于替代原有传统光传输方案】利亚德在互动平台表示，在光通信领域，公司已与中科院开展研发合作，并已向中科院提供MicroLED光模块产品，用于替代原有传统光传输方案，目前方案尚处在研发验证阶段，存在一定不确定性，敬请投资者注意投资风险。",
+    "content": "【利亚德：已向中科院提供MicroLED光模块产品 用于替代原有传统光传输方案】利亚德在互动平台表示，在光通信领域，公司已与中科院开展研发合作，并已向中科院提供MicroLED光模块产品，用于替代原有传统光传输方案，目前方案尚处在研发验证阶段，存在一定不确定性，敬请投资者注意投资风险。",
+    "full_content": "【利亚德：已向中科院提供MicroLED光模块产品 用于替代原有传统光传输方案】利亚德在互动平台表示，在光通信领域，公司已与中科院开展研发合作，并已向中科院提供MicroLED光模块产品，用于替代原有传统光传输方案，目前方案尚处在研发验证阶段，存在一定不确定性，敬请投资者注意投资风险。",
+    "sort_time": "1773320494096126",
+    "showTime": "2026-03-12 21:01:34",
+    "time": "2026-03-12 21:01:34",
+    "publish_time": "2026-03-12 21:01:34",
+    "raw_data": {
+      "code": "202603123670396126",
+      "image": [],
+      "pinglun_Num": 36,
+      "realSort": "1773320494096126",
+      "share": 59,
+      "showTime": "2026-03-12 21:01:34",
+      "stockList": [
+        "90.BK0948",
+        "90.BK1136"
+      ],
+      "summary": "【利亚德：已向中科院提供MicroLED光模块产品 用于替代原有传统光传输方案】利亚德在互动平台表示，在光通信领域，公司已与中科院开展研发合作，并已向中科院提供MicroLED光模块产品，用于替代原有传统光传输方案，目前方案尚处在研发验证阶段，存在一定不确定性，敬请投资者注意投资风险。",
+      "title": "利亚德：已向中科院提供MicroLED光模块产品 用于替代原有传统光传输方案",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670396126.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0948",
+      "90.BK1136"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 36,
+    "share_count": 59,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "光模块"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [
+        "I010104"
+      ],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "57fdf69585f9d5bd",
+    "code": "202603123670395227",
+    "title": "国内商品期货夜盘开盘 主力合约跌多涨少",
+    "summary": "国内商品期货夜盘开盘，主力合约跌多涨少。跌幅方面，纯苯跌超3%，乙二醇跌超2%，塑料跌近2%，烧碱、聚丙烯、苯乙烯、短纤、PVC跌超1%；涨幅方面，铁矿石涨近4%，低硫燃油、沪银、原油涨超2%，对二甲苯、热卷涨超1%。",
+    "content": "国内商品期货夜盘开盘，主力合约跌多涨少。跌幅方面，纯苯跌超3%，乙二醇跌超2%，塑料跌近2%，烧碱、聚丙烯、苯乙烯、短纤、PVC跌超1%；涨幅方面，铁矿石涨近4%，低硫燃油、沪银、原油涨超2%，对二甲苯、热卷涨超1%。",
+    "full_content": "国内商品期货夜盘开盘，主力合约跌多涨少。跌幅方面，纯苯跌超3%，乙二醇跌超2%，塑料跌近2%，烧碱、聚丙烯、苯乙烯、短纤、PVC跌超1%；涨幅方面，铁矿石涨近4%，低硫燃油、沪银、原油涨超2%，对二甲苯、热卷涨超1%。",
+    "sort_time": "1773320404095227",
+    "showTime": "2026-03-12 21:00:04",
+    "time": "2026-03-12 21:00:04",
+    "publish_time": "2026-03-12 21:00:04",
+    "raw_data": {
+      "code": "202603123670395227",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1773320404095227",
+      "share": 4,
+      "showTime": "2026-03-12 21:00:04",
+      "stockList": [],
+      "summary": "国内商品期货夜盘开盘，主力合约跌多涨少。跌幅方面，纯苯跌超3%，乙二醇跌超2%，塑料跌近2%，烧碱、聚丙烯、苯乙烯、短纤、PVC跌超1%；涨幅方面，铁矿石涨近4%，低硫燃油、沪银、原油涨超2%，对二甲苯、热卷涨超1%。",
+      "title": "国内商品期货夜盘开盘 主力合约跌多涨少",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670395227.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "f570db9b0836c077",
+    "code": "202603123670392894",
+    "title": "聚丙烯市场迎涨价潮 煤制聚丙烯利润大幅增长",
+    "summary": "【聚丙烯市场迎涨价潮 煤制聚丙烯利润大幅增长】记者从产业链处获悉，今日包括宝丰能源、东华能源、以及中国石油、中国石化旗下多家炼化企业集体上调聚丙烯（PP）价格。其中，宝丰能源旗下各类PP产品价格已连续2日上调，累计涨价幅度约600元/吨。“地缘冲突引发的国际油价大幅跳涨，为PP的成本提供有力支撑，且眼下正值下游企业的复工期，PP的春季旺季需求逐步释放，市场的看涨情绪强烈。”业内人士介绍，“PP的原料工艺路线不同，与原油相比，由于煤炭价格相对稳定，煤制PP的利润已随着PP价格走高而大幅增长。”",
+    "content": "【聚丙烯市场迎涨价潮 煤制聚丙烯利润大幅增长】记者从产业链处获悉，今日包括宝丰能源、东华能源、以及中国石油、中国石化旗下多家炼化企业集体上调聚丙烯（PP）价格。其中，宝丰能源旗下各类PP产品价格已连续2日上调，累计涨价幅度约600元/吨。“地缘冲突引发的国际油价大幅跳涨，为PP的成本提供有力支撑，且眼下正值下游企业的复工期，PP的春季旺季需求逐步释放，市场的看涨情绪强烈。”业内人士介绍，“PP的原料工艺路线不同，与原油相比，由于煤炭价格相对稳定，煤制PP的利润已随着PP价格走高而大幅增长。”",
+    "full_content": "【聚丙烯市场迎涨价潮 煤制聚丙烯利润大幅增长】记者从产业链处获悉，今日包括宝丰能源、东华能源、以及中国石油、中国石化旗下多家炼化企业集体上调聚丙烯（PP）价格。其中，宝丰能源旗下各类PP产品价格已连续2日上调，累计涨价幅度约600元/吨。“地缘冲突引发的国际油价大幅跳涨，为PP的成本提供有力支撑，且眼下正值下游企业的复工期，PP的春季旺季需求逐步释放，市场的看涨情绪强烈。”业内人士介绍，“PP的原料工艺路线不同，与原油相比，由于煤炭价格相对稳定，煤制PP的利润已随着PP价格走高而大幅增长。”",
+    "sort_time": "1773320258092894",
+    "showTime": "2026-03-12 20:57:38",
+    "time": "2026-03-12 20:57:38",
+    "publish_time": "2026-03-12 20:57:38",
+    "raw_data": {
+      "code": "202603123670392894",
+      "image": [],
+      "pinglun_Num": 14,
+      "realSort": "1773320258092894",
+      "share": 19,
+      "showTime": "2026-03-12 20:57:38",
+      "stockList": [
+        "1.600989",
+        "0.002221"
+      ],
+      "summary": "【聚丙烯市场迎涨价潮 煤制聚丙烯利润大幅增长】记者从产业链处获悉，今日包括宝丰能源、东华能源、以及中国石油、中国石化旗下多家炼化企业集体上调聚丙烯（PP）价格。其中，宝丰能源旗下各类PP产品价格已连续2日上调，累计涨价幅度约600元/吨。“地缘冲突引发的国际油价大幅跳涨，为PP的成本提供有力支撑，且眼下正值下游企业的复工期，PP的春季旺季需求逐步释放，市场的看涨情绪强烈。”业内人士介绍，“PP的原料工艺路线不同，与原油相比，由于煤炭价格相对稳定，煤制PP的利润已随着PP价格走高而大幅增长。”",
+      "title": "聚丙烯市场迎涨价潮 煤制聚丙烯利润大幅增长",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670392894.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "1.600989",
+      "0.002221"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 14,
+    "share_count": 19,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C505",
+          "name": "煤炭",
+          "matched_keyword": "煤炭"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C505",
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "aec0c2b91ea94517",
+    "code": "202603123670392123",
+    "title": "最高下调超30个基点！中小银行存款利率又掀调降潮",
+    "summary": "【最高下调超30个基点！中小银行存款利率又掀调降潮】春节过后，随着冲击“开门红”高潮逐渐过去，银行存款利率又迎来一波调降潮，调整主体仍以地方中小银行为主。",
+    "content": "【最高下调超30个基点！中小银行存款利率又掀调降潮】春节过后，随着冲击“开门红”高潮逐渐过去，银行存款利率又迎来一波调降潮，调整主体仍以地方中小银行为主。",
+    "full_content": "【最高下调超30个基点！中小银行存款利率又掀调降潮】春节过后，随着冲击“开门红”高潮逐渐过去，银行存款利率又迎来一波调降潮，调整主体仍以地方中小银行为主。",
+    "sort_time": "1773320221092123",
+    "showTime": "2026-03-12 20:57:01",
+    "time": "2026-03-12 20:57:01",
+    "publish_time": "2026-03-12 20:57:01",
+    "raw_data": {
+      "code": "202603123670392123",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1773320221092123",
+      "share": 21,
+      "showTime": "2026-03-12 20:57:01",
+      "stockList": [
+        "90.BK0475",
+        "90.BK1283"
+      ],
+      "summary": "【最高下调超30个基点！中小银行存款利率又掀调降潮】春节过后，随着冲击“开门红”高潮逐渐过去，银行存款利率又迎来一波调降潮，调整主体仍以地方中小银行为主。",
+      "title": "最高下调超30个基点！中小银行存款利率又掀调降潮",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670392123.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0475",
+      "90.BK1283"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 21,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "b88e5342e10d1f0b",
+    "code": "202603123670388615",
+    "title": "腾讯推出OpenClaw安全工具箱",
+    "summary": "【腾讯推出OpenClaw安全工具箱】3月12日，据腾讯安全消息，为了解决龙虾带来的安全挑战，腾讯推出OpenClaw安全工具箱。",
+    "content": "【腾讯推出OpenClaw安全工具箱】3月12日，据腾讯安全消息，为了解决龙虾带来的安全挑战，腾讯推出OpenClaw安全工具箱。",
+    "full_content": "【腾讯推出OpenClaw安全工具箱】3月12日，据腾讯安全消息，为了解决龙虾带来的安全挑战，腾讯推出OpenClaw安全工具箱。",
+    "sort_time": "1773319928088615",
+    "showTime": "2026-03-12 20:52:08",
+    "time": "2026-03-12 20:52:08",
+    "publish_time": "2026-03-12 20:52:08",
+    "raw_data": {
+      "code": "202603123670388615",
+      "image": [],
+      "pinglun_Num": 26,
+      "realSort": "1773319928088615",
+      "share": 16,
+      "showTime": "2026-03-12 20:52:08",
+      "stockList": [
+        "116.00700",
+        "116.80700"
+      ],
+      "summary": "【腾讯推出OpenClaw安全工具箱】3月12日，据腾讯安全消息，为了解决龙虾带来的安全挑战，腾讯推出OpenClaw安全工具箱。",
+      "title": "腾讯推出OpenClaw安全工具箱",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670388615.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "116.00700",
+      "116.80700"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 26,
+    "share_count": 16,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "04f3232f97d66941",
+    "code": "202603123670388155",
+    "title": "中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南",
+    "summary": "【中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南】记者从中国人工智能产业发展联盟获悉，针对防范OpenClaw开源AI智能体安全风险，联盟下一步将持续跟踪OpenClaw及同类AI智能体的安全风险动态，在条件允许的前提下，及时向成员单位同步风险预警与行业安全实践。",
+    "content": "【中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南】记者从中国人工智能产业发展联盟获悉，针对防范OpenClaw开源AI智能体安全风险，联盟下一步将持续跟踪OpenClaw及同类AI智能体的安全风险动态，在条件允许的前提下，及时向成员单位同步风险预警与行业安全实践。",
+    "full_content": "【中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南】记者从中国人工智能产业发展联盟获悉，针对防范OpenClaw开源AI智能体安全风险，联盟下一步将持续跟踪OpenClaw及同类AI智能体的安全风险动态，在条件允许的前提下，及时向成员单位同步风险预警与行业安全实践。",
+    "sort_time": "1773319880088155",
+    "showTime": "2026-03-12 20:51:20",
+    "time": "2026-03-12 20:51:20",
+    "publish_time": "2026-03-12 20:51:20",
+    "raw_data": {
+      "code": "202603123670388155",
+      "image": [],
+      "pinglun_Num": 16,
+      "realSort": "1773319880088155",
+      "share": 3,
+      "showTime": "2026-03-12 20:51:20",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "【中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南】记者从中国人工智能产业发展联盟获悉，针对防范OpenClaw开源AI智能体安全风险，联盟下一步将持续跟踪OpenClaw及同类AI智能体的安全风险动态，在条件允许的前提下，及时向成员单位同步风险预警与行业安全实践。",
+      "title": "中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670388155.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 16,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "16fb55a40fa7cf22",
+    "code": "202603123670387939",
+    "title": "伊拉克石油部长：已决定将原油日产量维持在140万桶的水平",
+    "summary": "伊拉克石油部长表示，已决定将原油日产量维持在140万桶的水平。",
+    "content": "伊拉克石油部长表示，已决定将原油日产量维持在140万桶的水平。",
+    "full_content": "伊拉克石油部长表示，已决定将原油日产量维持在140万桶的水平。",
+    "sort_time": "1773319834087939",
+    "showTime": "2026-03-12 20:50:34",
+    "time": "2026-03-12 20:50:34",
+    "publish_time": "2026-03-12 20:50:34",
+    "raw_data": {
+      "code": "202603123670387939",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1773319834087939",
+      "share": 2,
+      "showTime": "2026-03-12 20:50:34",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "伊拉克石油部长表示，已决定将原油日产量维持在140万桶的水平。",
+      "title": "伊拉克石油部长：已决定将原油日产量维持在140万桶的水平",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670387939.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 11,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "f4a25a855c3d7017",
+    "code": "202603123670387324",
+    "title": "印尼政府说正加快清洁能源利用以保障能源安全",
+    "summary": "【印尼政府说正加快清洁能源利用以保障能源安全】印度尼西亚能源与矿产资源部长巴赫利尔·拉哈达利亚12日说，印尼正加快利用其国内丰富的可再生能源，以减少对进口燃料的依赖、保障国家能源安全。",
+    "content": "【印尼政府说正加快清洁能源利用以保障能源安全】印度尼西亚能源与矿产资源部长巴赫利尔·拉哈达利亚12日说，印尼正加快利用其国内丰富的可再生能源，以减少对进口燃料的依赖、保障国家能源安全。",
+    "full_content": "【印尼政府说正加快清洁能源利用以保障能源安全】印度尼西亚能源与矿产资源部长巴赫利尔·拉哈达利亚12日说，印尼正加快利用其国内丰富的可再生能源，以减少对进口燃料的依赖、保障国家能源安全。",
+    "sort_time": "1773319711087324",
+    "showTime": "2026-03-12 20:48:31",
+    "time": "2026-03-12 20:48:31",
+    "publish_time": "2026-03-12 20:48:31",
+    "raw_data": {
+      "code": "202603123670387324",
+      "image": [],
+      "pinglun_Num": 16,
+      "realSort": "1773319711087324",
+      "share": 5,
+      "showTime": "2026-03-12 20:48:31",
+      "stockList": [
+        "150.014238",
+        "0.159945"
+      ],
+      "summary": "【印尼政府说正加快清洁能源利用以保障能源安全】印度尼西亚能源与矿产资源部长巴赫利尔·拉哈达利亚12日说，印尼正加快利用其国内丰富的可再生能源，以减少对进口燃料的依赖、保障国家能源安全。",
+      "title": "印尼政府说正加快清洁能源利用以保障能源安全",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670387324.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.014238",
+      "0.159945"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 16,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C705",
+          "name": "绿色电力",
+          "matched_keyword": "清洁能源"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C705"
+      ]
+    }
+  },
+  {
+    "id": "c07b6ad71a3b88ea",
+    "code": "202603123670386992",
+    "title": "寒武纪年报出炉！拟10派15元转增4.9股 章建平连续两个季度增持",
+    "summary": "【寒武纪年报出炉！拟10派15元转增4.9股 章建平连续两个季度增持】寒武纪(688256.SH)发布2025年年度报告显示，与三季报相比，第五大股东章建平持仓增加40.84万股至681.49万股，占流通股比例1.62%。按今日收盘价1099元/股计算，章建平持仓市值近75亿元。",
+    "content": "【寒武纪年报出炉！拟10派15元转增4.9股 章建平连续两个季度增持】寒武纪(688256.SH)发布2025年年度报告显示，与三季报相比，第五大股东章建平持仓增加40.84万股至681.49万股，占流通股比例1.62%。按今日收盘价1099元/股计算，章建平持仓市值近75亿元。",
+    "full_content": "【寒武纪年报出炉！拟10派15元转增4.9股 章建平连续两个季度增持】寒武纪(688256.SH)发布2025年年度报告显示，与三季报相比，第五大股东章建平持仓增加40.84万股至681.49万股，占流通股比例1.62%。按今日收盘价1099元/股计算，章建平持仓市值近75亿元。",
+    "sort_time": "1773319692086992",
+    "showTime": "2026-03-12 20:48:12",
+    "time": "2026-03-12 20:48:12",
+    "publish_time": "2026-03-12 20:48:12",
+    "raw_data": {
+      "code": "202603123670386992",
+      "image": [],
+      "pinglun_Num": 198,
+      "realSort": "1773319692086992",
+      "share": 743,
+      "showTime": "2026-03-12 20:48:12",
+      "stockList": [
+        "1.688256"
+      ],
+      "summary": "【寒武纪年报出炉！拟10派15元转增4.9股 章建平连续两个季度增持】寒武纪(688256.SH)发布2025年年度报告显示，与三季报相比，第五大股东章建平持仓增加40.84万股至681.49万股，占流通股比例1.62%。按今日收盘价1099元/股计算，章建平持仓市值近75亿元。",
+      "title": "寒武纪年报出炉！拟10派15元转增4.9股 章建平连续两个季度增持",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670386992.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.688256"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 198,
+    "share_count": 743,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "647c007c4e2ed022",
+    "code": "202603123670384351",
+    "title": "科创成长层迎首批“毕业生” 6家企业将摘“U”出层",
+    "summary": "【科创成长层迎首批“毕业生” 6家企业将摘“U”出层】3月12日晚间，寒武纪披露2025年年报，全年实现净利润20.59亿元，标志着该公司正式摘除未盈利企业标识，成为科创成长层首家“毕业”企业。随着年报季展开，百济神州、奥比中光、诺诚健华、北芯生命、精进电动等5家企业预计也将陆续摘“U”出层。",
+    "content": "【科创成长层迎首批“毕业生” 6家企业将摘“U”出层】3月12日晚间，寒武纪披露2025年年报，全年实现净利润20.59亿元，标志着该公司正式摘除未盈利企业标识，成为科创成长层首家“毕业”企业。随着年报季展开，百济神州、奥比中光、诺诚健华、北芯生命、精进电动等5家企业预计也将陆续摘“U”出层。",
+    "full_content": "【科创成长层迎首批“毕业生” 6家企业将摘“U”出层】3月12日晚间，寒武纪披露2025年年报，全年实现净利润20.59亿元，标志着该公司正式摘除未盈利企业标识，成为科创成长层首家“毕业”企业。随着年报季展开，百济神州、奥比中光、诺诚健华、北芯生命、精进电动等5家企业预计也将陆续摘“U”出层。",
+    "sort_time": "1773319462084351",
+    "showTime": "2026-03-12 20:44:22",
+    "time": "2026-03-12 20:44:22",
+    "publish_time": "2026-03-12 20:44:22",
+    "raw_data": {
+      "code": "202603123670384351",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1773319462084351",
+      "share": 14,
+      "showTime": "2026-03-12 20:44:22",
+      "stockList": [
+        "1.688256"
+      ],
+      "summary": "【科创成长层迎首批“毕业生” 6家企业将摘“U”出层】3月12日晚间，寒武纪披露2025年年报，全年实现净利润20.59亿元，标志着该公司正式摘除未盈利企业标识，成为科创成长层首家“毕业”企业。随着年报季展开，百济神州、奥比中光、诺诚健华、北芯生命、精进电动等5家企业预计也将陆续摘“U”出层。",
+      "title": "科创成长层迎首批“毕业生” 6家企业将摘“U”出层",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670384351.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.688256"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 14,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c76256160237f1ae",
+    "code": "202603123670382777",
+    "title": "风电“起飞”！装机、盈利、出口三重利好共振",
+    "summary": "【风电“起飞”！装机、盈利、出口三重利好共振】周四，风电板块逆势大涨，双一科技20CM涨停，海力风电、三一重能涨超11%，大金重工、德力佳、振江股份等多股涨停。",
+    "content": "【风电“起飞”！装机、盈利、出口三重利好共振】周四，风电板块逆势大涨，双一科技20CM涨停，海力风电、三一重能涨超11%，大金重工、德力佳、振江股份等多股涨停。",
+    "full_content": "【风电“起飞”！装机、盈利、出口三重利好共振】周四，风电板块逆势大涨，双一科技20CM涨停，海力风电、三一重能涨超11%，大金重工、德力佳、振江股份等多股涨停。",
+    "sort_time": "1773319181082777",
+    "showTime": "2026-03-12 20:39:41",
+    "time": "2026-03-12 20:39:41",
+    "publish_time": "2026-03-12 20:39:41",
+    "raw_data": {
+      "code": "202603123670382777",
+      "image": [],
+      "pinglun_Num": 72,
+      "realSort": "1773319181082777",
+      "share": 326,
+      "showTime": "2026-03-12 20:39:41",
+      "stockList": [
+        "90.BK0428",
+        "90.BK1024"
+      ],
+      "summary": "【风电“起飞”！装机、盈利、出口三重利好共振】周四，风电板块逆势大涨，双一科技20CM涨停，海力风电、三一重能涨超11%，大金重工、德力佳、振江股份等多股涨停。",
+      "title": "风电“起飞”！装机、盈利、出口三重利好共振(附股)",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670382777.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0428",
+      "90.BK1024"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 72,
+    "share_count": 326,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C104",
+          "name": "风电",
+          "matched_keyword": "风电"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C104"
+      ]
+    }
+  },
+  {
+    "id": "910c129b7a11572c",
+    "code": "202603123670374636",
+    "title": "3月楼市“小阳春”苗头已现 核心城市行情悄然回暖",
+    "summary": "【3月楼市“小阳春”苗头已现 核心城市行情悄然回暖】3月楼市“小阳春”已经拉开序幕。和往年同期相比，今年“小阳春”会呈现出怎样的成色？在市场人士看来，今年的春季行情，既有传统季节性规律的支撑，又带着十分鲜明的“结构性分化”特征。",
+    "content": "【3月楼市“小阳春”苗头已现 核心城市行情悄然回暖】3月楼市“小阳春”已经拉开序幕。和往年同期相比，今年“小阳春”会呈现出怎样的成色？在市场人士看来，今年的春季行情，既有传统季节性规律的支撑，又带着十分鲜明的“结构性分化”特征。",
+    "full_content": "【3月楼市“小阳春”苗头已现 核心城市行情悄然回暖】3月楼市“小阳春”已经拉开序幕。和往年同期相比，今年“小阳春”会呈现出怎样的成色？在市场人士看来，今年的春季行情，既有传统季节性规律的支撑，又带着十分鲜明的“结构性分化”特征。",
+    "sort_time": "1773319111074636",
+    "showTime": "2026-03-12 20:38:31",
+    "time": "2026-03-12 20:38:31",
+    "publish_time": "2026-03-12 20:38:31",
+    "raw_data": {
+      "code": "202603123670374636",
+      "image": [],
+      "pinglun_Num": 24,
+      "realSort": "1773319111074636",
+      "share": 13,
+      "showTime": "2026-03-12 20:38:31",
+      "stockList": [
+        "90.BK0451",
+        "150.160628"
+      ],
+      "summary": "【3月楼市“小阳春”苗头已现 核心城市行情悄然回暖】3月楼市“小阳春”已经拉开序幕。和往年同期相比，今年“小阳春”会呈现出怎样的成色？在市场人士看来，今年的春季行情，既有传统季节性规律的支撑，又带着十分鲜明的“结构性分化”特征。",
+      "title": "3月楼市“小阳春”苗头已现 核心城市行情悄然回暖",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670374636.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0451",
+      "150.160628"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 24,
+    "share_count": 13,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "390267564c13984c",
+    "code": "202603123670374318",
+    "title": "广西：推动“万兆光网”建设和5G-A网络规模部署 构建全区一体化算力网络",
+    "summary": "【广西：推动“万兆光网”建设和5G-A网络规模部署 构建全区一体化算力网络】广西壮族自治区人民政府办公厅印发《广西持续推进城市更新五年行动方案（2026—2030年）》，方案提出，加强城市基础设施建设改造。推动“万兆光网”建设和5G-A网络规模部署，构建全区一体化算力网络。",
+    "content": "【广西：推动“万兆光网”建设和5G-A网络规模部署 构建全区一体化算力网络】广西壮族自治区人民政府办公厅印发《广西持续推进城市更新五年行动方案（2026—2030年）》，方案提出，加强城市基础设施建设改造。推动“万兆光网”建设和5G-A网络规模部署，构建全区一体化算力网络。",
+    "full_content": "【广西：推动“万兆光网”建设和5G-A网络规模部署 构建全区一体化算力网络】广西壮族自治区人民政府办公厅印发《广西持续推进城市更新五年行动方案（2026—2030年）》，方案提出，加强城市基础设施建设改造。推动“万兆光网”建设和5G-A网络规模部署，构建全区一体化算力网络。",
+    "sort_time": "1773318983074318",
+    "showTime": "2026-03-12 20:36:23",
+    "time": "2026-03-12 20:36:23",
+    "publish_time": "2026-03-12 20:36:23",
+    "raw_data": {
+      "code": "202603123670374318",
+      "image": [],
+      "pinglun_Num": 14,
+      "realSort": "1773318983074318",
+      "share": 10,
+      "showTime": "2026-03-12 20:36:23",
+      "stockList": [
+        "90.BK0714",
+        "201.HK53"
+      ],
+      "summary": "【广西：推动“万兆光网”建设和5G-A网络规模部署 构建全区一体化算力网络】广西壮族自治区人民政府办公厅印发《广西持续推进城市更新五年行动方案（2026—2030年）》，方案提出，加强城市基础设施建设改造。推动“万兆光网”建设和5G-A网络规模部署，构建全区一体化算力网络。",
+      "title": "广西：推动“万兆光网”建设和5G-A网络规模部署 构建全区一体化算力网络",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670374318.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0714",
+      "201.HK53"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 14,
+    "share_count": 10,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "5G"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "5G"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "算力"
+        }
+      ],
+      "industry_ids": [
+        "I010104"
+      ],
+      "concept_ids": [
+        "C004",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "3cd5e7cf96bc9348",
+    "code": "202603123670374141",
+    "title": "广西：推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目 鼓励推进“房票安置”等货币化安置",
+    "summary": "【广西：推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目 鼓励推进“房票安置”等货币化安置】广西壮族自治区人民政府办公厅印发《广西持续推进城市更新五年行动方案（2026—2030年）》，方案提出，推进老旧街区、老旧厂区、城中村等更新改造。推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目，鼓励推进“房票安置”等货币化安置。",
+    "content": "【广西：推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目 鼓励推进“房票安置”等货币化安置】广西壮族自治区人民政府办公厅印发《广西持续推进城市更新五年行动方案（2026—2030年）》，方案提出，推进老旧街区、老旧厂区、城中村等更新改造。推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目，鼓励推进“房票安置”等货币化安置。",
+    "full_content": "【广西：推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目 鼓励推进“房票安置”等货币化安置】广西壮族自治区人民政府办公厅印发《广西持续推进城市更新五年行动方案（2026—2030年）》，方案提出，推进老旧街区、老旧厂区、城中村等更新改造。推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目，鼓励推进“房票安置”等货币化安置。",
+    "sort_time": "1773318981074141",
+    "showTime": "2026-03-12 20:36:21",
+    "time": "2026-03-12 20:36:21",
+    "publish_time": "2026-03-12 20:36:21",
+    "raw_data": {
+      "code": "202603123670374141",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1773318981074141",
+      "share": 1,
+      "showTime": "2026-03-12 20:36:21",
+      "stockList": [
+        "90.BK0154"
+      ],
+      "summary": "【广西：推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目 鼓励推进“房票安置”等货币化安置】广西壮族自治区人民政府办公厅印发《广西持续推进城市更新五年行动方案（2026—2030年）》，方案提出，推进老旧街区、老旧厂区、城中村等更新改造。推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目，鼓励推进“房票安置”等货币化安置。",
+      "title": "广西：推动一批群众改造意愿强烈、资金能平衡的优质城中村改造项目 鼓励推进“房票安置”等货币化安置",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670374141.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0154"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e9bccfb86546637e",
+    "code": "202603123670370765",
+    "title": "宝马暂时放弃L3级自动驾驶",
+    "summary": "【宝马暂时放弃L3级自动驾驶】“宝马车型曾为车型配备L3级自动驾驶系统，但因该技术尚未达到商业化盈利水平，已暂时降低了L3级自动驾驶项目研发的优先级。”宝马集团全球CEO在2026财年会上表示，这并不代表宝马会放弃更高阶的自动驾驶技术研发，将持续关注自动驾驶技术发展趋势，一旦高阶自动驾驶技术出现可行的商业化模式，将立即推进相关研发工作。",
+    "content": "【宝马暂时放弃L3级自动驾驶】“宝马车型曾为车型配备L3级自动驾驶系统，但因该技术尚未达到商业化盈利水平，已暂时降低了L3级自动驾驶项目研发的优先级。”宝马集团全球CEO在2026财年会上表示，这并不代表宝马会放弃更高阶的自动驾驶技术研发，将持续关注自动驾驶技术发展趋势，一旦高阶自动驾驶技术出现可行的商业化模式，将立即推进相关研发工作。",
+    "full_content": "【宝马暂时放弃L3级自动驾驶】“宝马车型曾为车型配备L3级自动驾驶系统，但因该技术尚未达到商业化盈利水平，已暂时降低了L3级自动驾驶项目研发的优先级。”宝马集团全球CEO在2026财年会上表示，这并不代表宝马会放弃更高阶的自动驾驶技术研发，将持续关注自动驾驶技术发展趋势，一旦高阶自动驾驶技术出现可行的商业化模式，将立即推进相关研发工作。",
+    "sort_time": "1773318925070765",
+    "showTime": "2026-03-12 20:35:25",
+    "time": "2026-03-12 20:35:25",
+    "publish_time": "2026-03-12 20:35:25",
+    "raw_data": {
+      "code": "202603123670370765",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1773318925070765",
+      "share": 11,
+      "showTime": "2026-03-12 20:35:25",
+      "stockList": [
+        "90.BK0802"
+      ],
+      "summary": "【宝马暂时放弃L3级自动驾驶】“宝马车型曾为车型配备L3级自动驾驶系统，但因该技术尚未达到商业化盈利水平，已暂时降低了L3级自动驾驶项目研发的优先级。”宝马集团全球CEO在2026财年会上表示，这并不代表宝马会放弃更高阶的自动驾驶技术研发，将持续关注自动驾驶技术发展趋势，一旦高阶自动驾驶技术出现可行的商业化模式，将立即推进相关研发工作。",
+      "title": "宝马暂时放弃L3级自动驾驶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670370765.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0802"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 6,
+    "share_count": 11,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "14ff1e9cd58a08e2",
+    "code": "202603123670369881",
+    "title": "美国1月营建许可总数为137.6万户 预期141万户",
+    "summary": "美国1月营建许可总数为137.6万户，预期141万户，前值145.5万户。",
+    "content": "美国1月营建许可总数为137.6万户，预期141万户，前值145.5万户。",
+    "full_content": "美国1月营建许可总数为137.6万户，预期141万户，前值145.5万户。",
+    "sort_time": "1773318757069881",
+    "showTime": "2026-03-12 20:32:37",
+    "time": "2026-03-12 20:32:37",
+    "publish_time": "2026-03-12 20:32:37",
+    "raw_data": {
+      "code": "202603123670369881",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1773318757069881",
+      "share": 0,
+      "showTime": "2026-03-12 20:32:37",
+      "stockList": [],
+      "summary": "美国1月营建许可总数为137.6万户，预期141万户，前值145.5万户。",
+      "title": "美国1月营建许可总数为137.6万户 预期141万户",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670369881.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "153b37bba754a168",
     "code": "202603123670369734",
     "title": "美国1月贸易逆差545亿美元 低于预期",
@@ -34,6 +2008,45 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f5100cabfe8e0905",
+    "code": "202603123670369964",
+    "title": "美国1月新屋开工环比增长7.2% 预期下降4.5%",
+    "summary": "美国1月新屋开工环比增长7.2%，预期下降4.5%，前值增长6.2%。",
+    "content": "美国1月新屋开工环比增长7.2%，预期下降4.5%，前值增长6.2%。",
+    "full_content": "美国1月新屋开工环比增长7.2%，预期下降4.5%，前值增长6.2%。",
+    "sort_time": "1773318720069964",
+    "showTime": "2026-03-12 20:32:00",
+    "time": "2026-03-12 20:32:00",
+    "publish_time": "2026-03-12 20:32:00",
+    "raw_data": {
+      "code": "202603123670369964",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773318720069964",
+      "share": 0,
+      "showTime": "2026-03-12 20:32:00",
+      "stockList": [],
+      "summary": "美国1月新屋开工环比增长7.2%，预期下降4.5%，前值增长6.2%。",
+      "title": "美国1月新屋开工环比增长7.2% 预期下降4.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603123670369964.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
