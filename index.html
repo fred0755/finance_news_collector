@@ -490,6 +490,7 @@
             return html;
         }
 
+        // ==================== 合并新闻（修复来源图标链接）====================
         function mergeNews(newsList) {
             const newsMap = new Map();
 
@@ -533,6 +534,8 @@
                     });
                 } else {
                     const existing = newsMap.get(key);
+
+                    // 如果有新来源且不在现有来源中，则添加
                     if (sourceName && !existing.sources.some(s => s.name === sourceName)) {
                         const config = getSourceConfig(sourceName);
                         if (config) {
@@ -542,7 +545,19 @@
                                 config: config
                             });
                         }
+                    } else {
+                        // 如果来源已存在，并且新新闻时间更新，则更新该来源的url（因为可能链接变化）
+                        if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
+                            // 更新已有来源的url
+                            existing.sources.forEach(s => {
+                                if (s.name === sourceName) {
+                                    s.url = newsUrl;
+                                }
+                            });
+                        }
                     }
+
+                    // 保留最新的时间和其他字段
                     if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
                         existing.time = time;
                         existing.displayTime = displayTime;
@@ -647,7 +662,7 @@
                     });
                 }
 
-                // 强制加载今天的数据（防止日期计算遗漏）
+                // 强制加载今天的数据（确保最新）
                 const todayStr = new Date().toISOString().split('T')[0];
                 if (!loadedDates.has(todayStr)) {
                     const todayData = await loadDateData(todayStr);
@@ -853,8 +868,6 @@
             document.getElementById('search-input').addEventListener('keypress', (e) => {
                 if (e.key === 'Enter') handleSearch();
             });
-
-            // 自动刷新已移除
         });
     </script>
 </body>
