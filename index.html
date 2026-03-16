@@ -56,7 +56,7 @@
             font-size: 0.95rem;
         }
 
-        /* 时间范围选择器 - 更新为12h/24h/7d */
+        /* 时间范围选择器 - 更新为12h/24h/3d */
         .time-range {
             display: flex;
             gap: 8px;
@@ -395,11 +395,11 @@
             </div>
         </div>
 
-        <!-- 时间范围选择器 - 12h/24h/7d -->
+        <!-- 时间范围选择器 - 修改为12h/24h/3d -->
         <div class="time-range">
             <button class="time-btn active" data-range="12h">最近12小时</button>
             <button class="time-btn" data-range="24h">最近24小时</button>
-            <button class="time-btn" data-range="7d">最近7天</button>
+            <button class="time-btn" data-range="3d">最近3天</button>
         </div>
 
         <!-- 搜索栏 -->
@@ -433,6 +433,7 @@
     <script>
         // ==================== 全局变量 ====================
         let allNews = [];              // 所有已加载的新闻（合并后）
+        let latestNews = [];           // 最新50条新闻（用于12h视图）
         let displayedNews = [];        // 当前显示的新闻
         let currentTimeRange = '12h';  // 当前时间范围（默认12小时）
         let currentSearchTerm = '';    // 当前搜索词
@@ -461,15 +462,11 @@
 
         // 获取正确链接（最终修复版 - 使用 finance.a/ 格式）
         function getNewsUrl(item) {
-            // 1. 如果有 code，用正确的 finance 域名构造（a/ 格式）
             if (item.code) {
-                // 注意：这是从你提供的成功链接中验证的格式
                 const constructedUrl = `https://finance.eastmoney.com/a/${item.code}.html`;
                 console.log('用 code 构造链接:', constructedUrl);
                 return constructedUrl;
             }
-
-            // 2. 备用
             console.log('使用默认首页');
             return 'https://finance.eastmoney.com/';
         }
@@ -477,11 +474,9 @@
         // 格式化时间显示
         function formatNewsTime(timeStr) {
             if (!timeStr) return '未知时间';
-            // 如果已经是 "MM-DD HH:MM" 格式，直接返回
             if (/^\d{2}-\d{2} \d{2}:\d{2}$/.test(timeStr)) {
                 return timeStr;
             }
-            // 如果是 "YYYY-MM-DD HH:MM:SS" 格式，提取 "MM-DD HH:MM"
             const match = timeStr.match(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/);
             if (match) {
                 return `${match[1].slice(5)} ${match[2]}`;
@@ -499,28 +494,22 @@
             return null;
         }
 
-        // 渲染标签（修复版）
+        // 渲染标签
         function renderTags(tags) {
             if (!tags) return '';
-
             let html = '';
-
-            // 显示概念标签
             if (tags.concepts && tags.concepts.length > 0) {
                 tags.concepts.forEach(concept => {
                     const matched = concept.matched_keyword ? ` (${concept.matched_keyword})` : '';
                     html += `<span class="tag tag-concept" title="概念: ${concept.name}${matched}">🏷️ ${concept.name}</span>`;
                 });
             }
-
-            // 显示行业标签
             if (tags.industries && tags.industries.length > 0) {
                 tags.industries.forEach(industry => {
                     const levelInfo = `行业: ${industry.level1 || ''} > ${industry.level2 || ''} > ${industry.name}`;
                     html += `<span class="tag tag-industry" title="${levelInfo}">🏭 ${industry.name}</span>`;
                 });
             }
-
             return html;
         }
 
@@ -529,15 +518,13 @@
             const newsMap = new Map();
 
             newsList.forEach(item => {
-                // 生成一个更灵活的唯一键（去除常见前缀）
                 let rawTitle = item.title || '无标题';
-                // 移除常见的新闻来源前缀
                 let cleanTitle = rawTitle
                     .replace(/^(【.*?】)?(财联社.*?日电\s*)?/g, '')
                     .replace(/^\s*|\s*$/g, '');
                 if (!cleanTitle) cleanTitle = rawTitle;
 
-                const key = cleanTitle; // 使用清理后的标题作为合并键
+                const key = cleanTitle;
 
                 const sourceName = item.source || '默认';
                 const url = getNewsUrl(item);
@@ -567,7 +554,6 @@
                             config: getSourceConfig(sourceName)
                         });
                     }
-                    // 保留最新的时间
                     if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
                         existing.time = time;
                         existing.displayTime = displayTime;
@@ -612,8 +598,8 @@
                 case '24h':
                     cutoffTime = new Date(now - 24 * 60 * 60 * 1000);
                     break;
-                case '7d':
-                    cutoffTime = new Date(now - 7 * 24 * 60 * 60 * 1000);
+                case '3d':
+                    cutoffTime = new Date(now - 3 * 24 * 60 * 60 * 1000);
                     break;
                 default:
                     return newsArray;
@@ -641,86 +627,70 @@
             }
         }
 
-        // ==================== 加载今日数据并自动补全最近12小时 ====================
-        async function loadToday() {
+        // ==================== 预加载日期数据（不阻塞UI） ====================
+        async function preloadDateData(dateStr) {
+            if (loadedDates.has(dateStr)) return;
+
             try {
-                const timestamp = Date.now();
-                const [newsRes, timeRes] = await Promise.all([
-                    fetch('/data/today.json?t=' + timestamp),
-                    fetch('/data/last_update.txt?t=' + timestamp)
-                ]);
+                const data = await loadDateData(dateStr);
+                if (data && data.length > 0) {
+                    const merged = mergeNews(data);
+                    allNews = mergeNews([...allNews, ...merged]);
+                    console.log(`📦 后台预加载 ${dateStr} 完成: ${data.length} 条`);
 
-                if (!newsRes.ok) throw new Error(`今日数据加载失败 (HTTP ${newsRes.status})`);
-                if (!timeRes.ok) throw new Error(`时间戳加载失败 (HTTP ${timeRes.status})`);
+                    // 如果当前是12h视图，不需要重新渲染
+                    if (currentTimeRange !== '12h') {
+                        applyFilters();
+                    }
+                }
+            } catch (e) {
+                console.error(`预加载 ${dateStr} 失败`, e);
+            }
+        }
 
-                const news = await newsRes.json();
+        // ==================== 初始化加载 ====================
+        async function loadInitialData() {
+            try {
+                // 1. 先加载 latest.json（快速显示）
+                const latestRes = await fetch('/data/latest.json?t=' + Date.now());
+                if (!latestRes.ok) throw new Error('无法加载最新新闻');
+
+                latestNews = await latestRes.json();
+                allNews = mergeNews(latestNews);  // 初始 allNews 只有最新50条
+
+                // 2. 更新时间戳
+                const timeRes = await fetch('/data/last_update.txt?t=' + Date.now());
                 const updateTime = await timeRes.text();
+                document.getElementById('update-time').textContent = updateTime.trim().slice(5, 16) || '--:--';
 
-                // 标记今天已加载
+                // 3. 标记今天已加载（但还没加载完整数据）
                 const today = new Date().toISOString().split('T')[0];
                 loadedDates.add(today);
 
-                // 合并今日数据
-                allNews = sortByTime(mergeNews(news));
-
-                // 更新时间戳
-                const timeStr = updateTime.trim().slice(5, 16) || updateTime.trim();
-                document.getElementById('update-time').textContent = timeStr;
-
-                // ===== 修复：根据时间范围自动加载历史数据 =====
-                const now = new Date();
-                const startTime = new Date(now);
-                startTime.setHours(startTime.getHours() - 12);
-
-                const datesToLoad = [];
-                let currentDate = new Date(startTime);
-
-                // 收集所有需要加载的日期
-                while (currentDate <= now) {
-                    const dateStr = currentDate.toISOString().split('T')[0];
-                    if (!loadedDates.has(dateStr) && dateStr !== today) {
-                        datesToLoad.push(dateStr);
-                    }
-                    currentDate.setDate(currentDate.getDate() + 1);
-                }
-
-                // 并行加载所有日期的数据
-                if (datesToLoad.length > 0) {
-                    console.log(`🔄 需要加载历史数据: ${datesToLoad.join(', ')}`);
-
-                    const loadPromises = datesToLoad.map(dateStr => loadDateData(dateStr));
-                    const results = await Promise.all(loadPromises);
-
-                    results.forEach((data, index) => {
-                        if (data && data.length > 0) {
-                            const dateStr = datesToLoad[index];
-                            console.log(`  ✅ 加载 ${dateStr} 成功: ${data.length} 条`);
-                            const merged = mergeNews(data);
-                            allNews = sortByTime([...allNews, ...merged]);
-                        }
-                    });
-                }
-                // ===== 修复结束 =====
-
-                // 应用默认12小时过滤
+                // 4. 显示12小时视图
                 applyFilters();
 
-                console.log(`✅ 数据加载成功: 总计 ${allNews.length} 条新闻`);
+                console.log(`✅ 初始加载完成: ${latestNews.length} 条最新新闻`);
 
-            } catch (error) {
-                console.error('❌ 加载今日数据失败:', error);
+                // 5. 后台预加载今天和昨天的完整数据（用于24h/3d视图）
+                preloadDateData(today);
+                const yesterday = new Date(Date.now() - 24*60*60*1000).toISOString().split('T')[0];
+                preloadDateData(yesterday);
+
+            } catch (e) {
+                console.error('初始化失败', e);
                 document.getElementById('news-list').innerHTML = `
                     <div class="error">
                         <span>⚠️</span>
                         <h3>加载失败</h3>
-                        <p>${error.message}</p>
+                        <p>${e.message}</p>
                         <button onclick="location.reload()" class="retry-btn">重试</button>
                     </div>
                 `;
             }
         }
 
-        // ==================== 按需加载历史数据（用于24h/7d）====================
+        // ==================== 按需加载历史数据（用于24h/3d）====================
         async function loadHistoricalData(range) {
             if (isLoading) return;
             isLoading = true;
@@ -732,18 +702,16 @@
 
             try {
                 const now = new Date();
-                const hours = range === '24h' ? 24 : 168;
-                const start = new Date(now - hours * 60 * 60 * 1000);
+                const days = range === '24h' ? 1 : 2;  // 24h需要昨天，3d需要前天
                 const datesToLoad = [];
-                let currentDate = new Date(start);
-                const today = new Date().toISOString().split('T')[0];
 
-                while (currentDate <= now) {
-                    const dateStr = currentDate.toISOString().split('T')[0];
-                    if (!loadedDates.has(dateStr) && dateStr !== today) {
+                for (let i = 1; i <= days; i++) {
+                    const date = new Date(now);
+                    date.setDate(date.getDate() - i);
+                    const dateStr = date.toISOString().split('T')[0];
+                    if (!loadedDates.has(dateStr)) {
                         datesToLoad.push(dateStr);
                     }
-                    currentDate.setDate(currentDate.getDate() + 1);
                 }
 
                 if (datesToLoad.length > 0) {
@@ -753,7 +721,7 @@
                     results.forEach((data) => {
                         if (data && data.length > 0) {
                             const merged = mergeNews(data);
-                            allNews = sortByTime([...allNews, ...merged]);
+                            allNews = mergeNews([...allNews, ...merged]);
                         }
                     });
                 }
@@ -768,7 +736,7 @@
             }
         }
 
-        // ==================== 渲染新闻列表（带详情按钮和标签）====================
+        // ==================== 渲染新闻列表 ====================
         function renderNews(newsArray) {
             const container = document.getElementById('news-list');
             if (!newsArray || newsArray.length === 0) {
@@ -779,7 +747,6 @@
 
             let html = '';
             newsArray.forEach((item, index) => {
-                // 渲染来源图标
                 let sourcesHtml = '';
                 item.sources.forEach(source => {
                     sourcesHtml += `
@@ -789,21 +756,16 @@
                     `;
                 });
 
-                // 渲染标签
                 const tagsHtml = renderTags(item.tags);
-
-                // 判断是否有完整内容
                 const hasFullContent = item.full_content &&
                                       item.full_content !== item.title &&
                                       item.full_content.length > 30;
-
                 const detailId = `detail-${index}-${Date.now()}`;
 
                 html += `
                     <div class="news-card" id="card-${detailId}">
                         <div class="news-title">${escapeHtml(item.title)}</div>
                         <div class="sources-bar">${sourcesHtml}</div>
-
                         ${hasFullContent ? `
                             <div class="news-detail" id="${detailId}" style="display: none;">
                                 ${escapeHtml(item.full_content)}
@@ -812,7 +774,6 @@
                                 <span>🔽</span> 查看详情
                             </button>
                         ` : ''}
-
                         <div class="news-time">
                             <span class="time-icon">🕐</span>
                             <span>${item.displayTime || item.time.slice(5, 16)}</span>
@@ -825,7 +786,6 @@
             container.innerHTML = html;
             document.getElementById('news-count').textContent = newsArray.length;
 
-            // 绑定详情按钮事件
             document.querySelectorAll('.toggle-detail-btn').forEach(btn => {
                 btn.addEventListener('click', function(e) {
                     const targetId = this.getAttribute('data-target');
@@ -854,7 +814,6 @@
         async function setTimeRange(range) {
             currentTimeRange = range;
 
-            // 更新按钮状态
             document.querySelectorAll('.time-btn').forEach(btn => {
                 btn.classList.remove('active');
                 if (btn.dataset.range === range) {
@@ -862,13 +821,11 @@
                 }
             });
 
-            // 如果是12h，已经在loadToday中加载了，直接应用过滤
             if (range === '12h') {
                 applyFilters();
                 return;
             }
 
-            // 24h或7d需要加载历史数据
             await loadHistoricalData(range);
         }
 
@@ -877,7 +834,6 @@
             const searchInput = document.getElementById('search-input');
             const term = searchInput.value.trim();
             currentSearchTerm = term;
-
             document.getElementById('clear-search').style.display = term ? 'inline' : 'none';
             applyFilters();
         }
@@ -901,9 +857,13 @@
                 .replace(/'/g, "&#039;");
         }
 
+        // 智能刷新：避免重复渲染
+        let lastNewsCount = 0;
+        let lastUpdateTime = '';
+
         // 初始化
         window.addEventListener('DOMContentLoaded', () => {
-            loadToday();
+            loadInitialData();  // 改为使用新的初始化函数
 
             // 绑定时间范围按钮
             document.querySelectorAll('.time-btn').forEach(btn => {
@@ -917,50 +877,37 @@
                 if (e.key === 'Enter') handleSearch();
             });
 
-            // 智能刷新：避免重复渲染
-            let lastNewsCount = 0;
-            let lastUpdateTime = '';
-
+            // 智能刷新
             setInterval(async () => {
-                // 只在12小时视图且不在搜索状态时刷新
                 if (currentSearchTerm || currentTimeRange !== '12h') return;
 
                 try {
                     console.log('🔄 检查新数据...');
                     const timestamp = Date.now();
 
-                    // 先获取时间戳，看是否有更新
                     const timeRes = await fetch('/data/last_update.txt?t=' + timestamp);
                     const newUpdateTime = await timeRes.text();
 
-                    // 如果时间戳没变，说明没有新数据
                     if (newUpdateTime === lastUpdateTime && lastUpdateTime !== '') {
                         console.log('⏳ 没有新数据');
                         return;
                     }
 
-                    // 获取新数据
-                    const newsRes = await fetch('/data/today.json?t=' + timestamp);
+                    const newsRes = await fetch('/data/latest.json?t=' + timestamp);
                     if (!newsRes.ok) return;
 
                     const newNews = await newsRes.json();
 
-                    // 如果新闻数量没变，也没有新数据
                     if (newNews.length === lastNewsCount && lastNewsCount > 0) {
                         console.log('⏳ 新闻数量未变');
                         lastUpdateTime = newUpdateTime;
                         return;
                     }
 
-                    // 合并新数据
                     const mergedNews = mergeNews([...allNews, ...newNews]);
-
-                    // 更新全局变量
                     allNews = sortByTime(mergedNews);
                     lastNewsCount = allNews.length;
                     lastUpdateTime = newUpdateTime;
-
-                    // 重新渲染
                     applyFilters();
 
                     console.log(`✅ 数据已更新: ${allNews.length} 条`);
