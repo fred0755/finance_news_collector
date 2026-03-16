@@ -212,33 +212,29 @@ def main():
     # ========== 3. 保存文件 ==========
     print("\n💾 正在保存文件...")
 
-    # 3.1 latest.json（最近50条）
+    # ========== 1. 更新 latest.json（最新50条） ==========
     latest_path = data_dir / "latest.json"
     safe_save_json(latest_path, tagged_news[:50], "latest.json")
 
-    # 3.2 today.json（今日所有）- 关键文件
-    today_path = data_dir / "today.json"
+    # ========== 2. 按日归档（不再维护 today.json） ==========
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    archive_path = archive_dir / f"{today_str}.json"
 
-    # 读取现有的今日数据
-    existing_today = []
-    if today_path.exists():
+    # 读取现有的归档文件
+    existing_archive = []
+    if archive_path.exists():
         try:
-            with open(today_path, "r", encoding="utf-8") as f:
-                existing_today = json.load(f)
-            print(f"📖 读取现有 today.json: {len(existing_today)} 条")
+            with open(archive_path, "r", encoding="utf-8") as f:
+                existing_archive = json.load(f)
+        except:
+            existing_archive = []
 
-            # 检查现有数据的时间范围
-            if len(existing_today) > 0:
-                newest = existing_today[0]
-                oldest = existing_today[-1]
-                print(f"   ├─ 最早: {oldest.get('showTime', oldest.get('time', '未知'))}")
-                print(f"   └─ 最新: {newest.get('showTime', newest.get('time', '未知'))}")
-        except Exception as e:
-            print(f"⚠️ today.json 读取失败: {e}")
-            existing_today = []
+    # 合并去重
+    merged_archive = merge_news_by_title(existing_archive, tagged_news)
+    safe_save_json(archive_path, merged_archive, f"归档 {today_str}.json")
 
-    # 合并去重（使用修复后的函数）
-    merged_today = merge_news_by_title(existing_today, tagged_news)
+    # 3. 可选：删除30天前的旧文件（保持仓库大小）
+    # cleanup_old_files(archive_dir, days=30)
 
     # 安全检查：如果合并后数据为空，但之前有数据，保留原文件
     if len(merged_today) == 0 and len(existing_today) > 0:
