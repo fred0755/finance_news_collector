@@ -440,7 +440,7 @@
         let isLoading = false;         // 防止重复加载
         let lastUpdateTime = '';       // 最后更新时间戳
 
-        // ==================== 来源图标配置（移除了默认配置）====================
+        // ==================== 来源图标配置 ====================
         const SOURCE_CONFIG = {
             '东方财富': { emoji: '📈', name: '东方财富' },
             '东方财富快讯': { emoji: '📈', name: '东方财富' },
@@ -508,7 +508,7 @@
             return html;
         }
 
-        // ==================== 合并新闻（按标题智能去重）====================
+        // ==================== 合并新闻（修复版）====================
         function mergeNews(newsList) {
             const newsMap = new Map();
 
@@ -523,10 +523,14 @@
 
                 const sourceName = item.source || null;
                 const config = getSourceConfig(sourceName);
-                // 只有有配置时才添加来源
+
+                // 无论有没有配置，都要生成正确的URL
+                const newsUrl = getNewsUrl(item);
+
+                // 只有有配置时才添加来源图标，但URL总是保留
                 const sources = config ? [{
                     name: sourceName,
-                    url: getNewsUrl(item),
+                    url: newsUrl,
                     config: config
                 }] : [];
 
@@ -541,7 +545,8 @@
                         displayTime: displayTime,
                         full_content: item.full_content || item.content || '',
                         tags: item.tags || { industries: [], concepts: [] },
-                        sources: sources
+                        sources: sources,
+                        url: newsUrl  // 保留原始URL，供详情按钮使用
                     });
                 } else {
                     const existing = newsMap.get(key);
@@ -549,7 +554,7 @@
                     if (config && !existing.sources.some(s => s.name === sourceName)) {
                         existing.sources.push({
                             name: sourceName,
-                            url: getNewsUrl(item),
+                            url: newsUrl,
                             config: config
                         });
                     }
@@ -557,6 +562,7 @@
                     if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
                         existing.time = time;
                         existing.displayTime = displayTime;
+                        existing.url = newsUrl;
                         if (item.full_content) {
                             existing.full_content = item.full_content;
                         }
@@ -733,7 +739,7 @@
             }
         }
 
-        // ==================== 渲染新闻列表 ====================
+        // ==================== 渲染新闻列表（修复版）====================
         function renderNews(newsArray) {
             const container = document.getElementById('news-list');
             if (!newsArray || newsArray.length === 0) {
@@ -786,6 +792,7 @@
             container.innerHTML = html;
             document.getElementById('news-count').textContent = newsArray.length;
 
+            // 绑定详情按钮事件 - 点击展开/折叠
             document.querySelectorAll('.toggle-detail-btn').forEach(btn => {
                 btn.addEventListener('click', function(e) {
                     const targetId = this.getAttribute('data-target');
@@ -929,7 +936,7 @@
                 if (e.key === 'Enter') handleSearch();
             });
 
-            // 智能刷新 - 每30秒检查一次（比之前更频繁）
+            // 智能刷新 - 每30秒检查一次
             setInterval(refreshTodayData, 30000);
         });
     </script>
