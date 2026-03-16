@@ -7,7 +7,6 @@ on:
   push:
     branches: [ main ]
 
-# 🚨 关键修复：赋予写入权限
 permissions:
   contents: write
 
@@ -65,16 +64,3 @@ jobs:
           # 推送到 GitHub
           git push origin main
           echo "✅ 已推送到 GitHub"
-
-      - name: 同步到 Gitee（镜像备份）
-        env:
-          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
-          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
-        run: |
-          if [ -n "$GITEE_USERNAME" ] && [ -n "$GITEE_TOKEN" ]; then
-            echo "推送到 Gitee..."
-            git push https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/finance_news_collector.git main --force
-            echo "✅ Gitee 同步完成"
-          else
-            echo "⚠️ Gitee 凭证未配置"
-          fi
