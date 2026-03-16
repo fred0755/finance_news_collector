@@ -56,7 +56,7 @@
             font-size: 0.95rem;
         }
 
-        /* 时间范围选择器 - 12h/24h/3d */
+        /* 时间范围选择器 */
         .time-range {
             display: flex;
             gap: 8px;
@@ -564,17 +564,7 @@
                 }
             });
 
-            return Array.from(newsMap.values());
-        }
-
-        // 按时间排序
-        function sortByTime(newsArray) {
-            return newsArray.sort((a, b) => {
-                if (a.time === '未知时间' && b.time === '未知时间') return 0;
-                if (a.time === '未知时间') return 1;
-                if (b.time === '未知时间') return -1;
-                return b.time.localeCompare(a.time);
-            });
+            return Array.from(newsMap.values()).sort((a, b) => (b.time || '').localeCompare(a.time || ''));
         }
 
         // 过滤新闻（根据搜索词）
@@ -612,7 +602,22 @@
             });
         }
 
-        // ==================== 初始化加载（基于归档文件）====================
+        // ==================== 加载单日数据 ====================
+        async function loadDateData(dateStr) {
+            if (loadedDates.has(dateStr)) return null;
+            try {
+                const response = await fetch(`/data/archive/${dateStr}.json?t=${Date.now()}`);
+                if (!response.ok) return null;
+                const data = await response.json();
+                loadedDates.add(dateStr);
+                return data;
+            } catch (e) {
+                console.error(`加载 ${dateStr} 失败:`, e);
+                return null;
+            }
+        }
+
+        // ==================== 初始化加载 ====================
         async function loadInitialData() {
             try {
                 // 1. 更新时间戳
@@ -621,7 +626,7 @@
                 lastUpdateTime = updateTime;
                 document.getElementById('update-time').textContent = updateTime.trim().slice(5, 16) || '--:--';
 
-                // 2. 计算最近12小时需要的日期（主要是今天，可能还有昨天）
+                // 2. 计算最近12小时需要的日期
                 const now = new Date();
                 const startTime = new Date(now);
                 startTime.setHours(startTime.getHours() - 12);
@@ -647,7 +652,7 @@
                     );
                     const results = await Promise.all(loadPromises);
 
-                    allNews = []; // 清空，重新构建
+                    allNews = [];
                     results.forEach((data, index) => {
                         if (data && data.length > 0) {
                             const dateStr = datesToLoad[index];
@@ -688,7 +693,7 @@
 
             try {
                 const now = new Date();
-                const days = range === '24h' ? 1 : 2;  // 24h需要昨天，3d需要前天
+                const days = range === '24h' ? 1 : 2;
                 const datesToLoad = [];
 
                 for (let i = 1; i <= days; i++) {
@@ -739,7 +744,7 @@
 
             let html = '';
             newsArray.forEach((item, index) => {
-                // 渲染来源图标 - 如果没有来源则不显示
+                // 渲染来源图标
                 let sourcesHtml = '';
                 if (item.sources && item.sources.length > 0) {
                     item.sources.forEach(source => {
@@ -852,6 +857,62 @@
                 .replace(/'/g, "&#039;");
         }
 
+        // ==================== 智能刷新 - 强制重新加载今天数据 ====================
+        async function refreshTodayData() {
+            if (currentSearchTerm || currentTimeRange !== '12h') return;
+
+            try {
+                console.log('🔄 强制刷新今天的数据...');
+                const timestamp = Date.now();
+                const today = new Date().toISOString().split('T')[0];
+
+                // 1. 直接加载今天的归档文件
+                const response = await fetch(`/data/archive/${today}.json?t=${timestamp}`);
+                if (!response.ok) {
+                    console.log(`⚠️ 无法加载今天的归档文件: ${response.status}`);
+                    return;
+                }
+
+                const newData = await response.json();
+
+                // 2. 获取最新的更新时间戳
+                const timeRes = await fetch('/data/last_update.txt?t=' + timestamp);
+                const newUpdateTime = await timeRes.text();
+
+                // 3. 重新构建所有新闻（保留其他日期的数据）
+                const otherNews = allNews.filter(item => {
+                    const itemDate = new Date(item.time).toISOString().split('T')[0];
+                    return itemDate !== today;
+                });
+
+                const mergedToday = mergeNews(newData);
+                const newAllNews = mergeNews([...otherNews, ...mergedToday]);
+
+                // 4. 检查是否有新新闻
+                if (newAllNews.length !== allNews.length) {
+                    console.log(`✅ 发现新新闻: 从 ${allNews.length} 条变为 ${newAllNews.length} 条`);
+                    allNews = newAllNews;
+                    lastUpdateTime = newUpdateTime;
+
+                    // 更新时间戳显示
+                    document.getElementById('update-time').textContent = newUpdateTime.trim().slice(5, 16) || '--:--';
+
+                    // 重新渲染
+                    applyFilters();
+                } else {
+                    console.log('⏳ 今天没有新新闻');
+                    // 即使新闻数量没变，也更新时间戳（如果变了）
+                    if (newUpdateTime !== lastUpdateTime) {
+                        lastUpdateTime = newUpdateTime;
+                        document.getElementById('update-time').textContent = newUpdateTime.trim().slice(5, 16) || '--:--';
+                    }
+                }
+
+            } catch (e) {
+                console.error('❌ 刷新失败', e);
+            }
+        }
+
         // 初始化
         window.addEventListener('DOMContentLoaded', () => {
             loadInitialData();
@@ -868,62 +929,8 @@
                 if (e.key === 'Enter') handleSearch();
             });
 
-            // 智能刷新 - 增强版：定期重新加载今天的数据
-            setInterval(async () => {
-                // 只在12小时视图且不在搜索状态时刷新
-                if (currentSearchTerm || currentTimeRange !== '12h') return;
-
-                try {
-                    console.log('🔄 尝试刷新今天的数据...');
-                    const timestamp = Date.now();
-                    const today = new Date().toISOString().split('T')[0];
-
-                    // 1. 直接加载今天的归档文件
-                    const response = await fetch(`/data/archive/${today}.json?t=${timestamp}`);
-                    if (!response.ok) {
-                        console.log(`⚠️ 无法加载今天的归档文件: ${response.status}`);
-                        return;
-                    }
-
-                    const newData = await response.json();
-
-                    // 2. 获取最新的更新时间戳（用于日志）
-                    const timeRes = await fetch('/data/last_update.txt?t=' + timestamp);
-                    const newUpdateTime = await timeRes.text();
-
-                    // 3. 重新构建所有新闻（保留其他日期的数据）
-                    const otherNews = allNews.filter(item => {
-                        const itemDate = new Date(item.time).toISOString().split('T')[0];
-                        return itemDate !== today;
-                    });
-
-                    const mergedToday = mergeNews(newData);
-                    const newAllNews = mergeNews([...otherNews, ...mergedToday]);
-
-                    // 4. 检查是否有新新闻（简单比较数量）
-                    if (newAllNews.length !== allNews.length) {
-                        console.log(`✅ 发现新新闻: 从 ${allNews.length} 条变为 ${newAllNews.length} 条`);
-                        allNews = newAllNews;
-                        lastUpdateTime = newUpdateTime;
-
-                        // 更新时间戳显示
-                        document.getElementById('update-time').textContent = newUpdateTime.trim().slice(5, 16) || '--:--';
-
-                        // 重新渲染
-                        applyFilters();
-                    } else {
-                        console.log('⏳ 今天没有新新闻');
-                        // 即使新闻数量没变，也更新时间戳（如果变了）
-                        if (newUpdateTime !== lastUpdateTime) {
-                            lastUpdateTime = newUpdateTime;
-                            document.getElementById('update-time').textContent = newUpdateTime.trim().slice(5, 16) || '--:--';
-                        }
-                    }
-
-                } catch (e) {
-                    console.error('❌ 刷新失败', e);
-                }
-            }, 60000); // 每60秒检查一次
+            // 智能刷新 - 每30秒检查一次（比之前更频繁）
+            setInterval(refreshTodayData, 30000);
         });
     </script>
 </body>
