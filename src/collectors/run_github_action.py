@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 """
-财经新闻采集器 - 修复版
+财经新闻采集器 - 最终版
 功能：
 - 增量采集东方财富快讯
-- 强制按 showTime 排序，确保新新闻在最前
-- 数据完整性检查
+- 只维护 latest.json（最新50条）
+- 按日归档到 archive/YYYY-MM-DD.json
+- 超过30天的自动按月合并
+- 不再维护庞大的 today.json
 """
 
 import json
@@ -136,7 +138,7 @@ def safe_save_json(file_path, data, description=""):
 
 def main():
     print("=" * 50)
-    print("🚀 财经新闻采集器（修复版）")
+    print("🚀 财经新闻采集器（最终版 - 无today.json）")
     print("=" * 50)
 
     # 获取项目根目录
@@ -183,20 +185,14 @@ def main():
         print("❌ 所有数据源都采集失败")
         # 即使采集失败，也要检查现有文件是否正常
         print("\n🔍 检查现有数据文件完整性...")
-        today_path = data_dir / "today.json"
-        if today_path.exists():
+        latest_path = data_dir / "latest.json"
+        if latest_path.exists():
             try:
-                with open(today_path, 'r', encoding='utf-8') as f:
-                    today_data = json.load(f)
-                print(f"✅ today.json 当前有 {len(today_data)} 条新闻")
-
-                if today_data and len(today_data) > 0:
-                    newest = today_data[0]
-                    oldest = today_data[-1]
-                    print(
-                        f"📰 时间范围: {oldest.get('showTime', oldest.get('time', '未知'))} → {newest.get('showTime', newest.get('time', '未知'))}")
+                with open(latest_path, 'r', encoding='utf-8') as f:
+                    latest_data = json.load(f)
+                print(f"✅ latest.json 当前有 {len(latest_data)} 条新闻")
             except Exception as e:
-                print(f"❌ today.json 可能已损坏: {e}")
+                print(f"❌ latest.json 可能已损坏: {e}")
         sys.exit(1)
 
     print(f"\n📊 原始新闻总数: {len(all_raw_news)} 条")
@@ -212,11 +208,13 @@ def main():
     # ========== 3. 保存文件 ==========
     print("\n💾 正在保存文件...")
 
-    # ========== 1. 更新 latest.json（最新50条） ==========
+    # 3.1 latest.json（最新50条）
     latest_path = data_dir / "latest.json"
     safe_save_json(latest_path, tagged_news[:50], "latest.json")
 
-    # ========== 2. 按日归档（不再维护 today.json） ==========
+    # ===== 注意：today.json 不再维护 =====
+
+    # 3.2 按日归档
     today_str = datetime.now().strftime("%Y-%m-%d")
     archive_path = archive_dir / f"{today_str}.json"
 
@@ -226,50 +224,26 @@ def main():
         try:
             with open(archive_path, "r", encoding="utf-8") as f:
                 existing_archive = json.load(f)
-        except:
+            print(f"📖 读取现有归档 {today_str}.json: {len(existing_archive)} 条")
+
+            if len(existing_archive) > 0:
+                first = existing_archive[0]
+                last = existing_archive[-1]
+                print(f"   ├─ 最早: {last.get('showTime', last.get('time', '未知'))}")
+                print(f"   └─ 最新: {first.get('showTime', first.get('time', '未知'))}")
+        except Exception as e:
+            print(f"⚠️ 归档文件读取失败: {e}")
             existing_archive = []
 
     # 合并去重
     merged_archive = merge_news_by_title(existing_archive, tagged_news)
     safe_save_json(archive_path, merged_archive, f"归档 {today_str}.json")
 
-    # 3. 可选：删除30天前的旧文件（保持仓库大小）
-    # cleanup_old_files(archive_dir, days=30)
-
-    # 安全检查：如果合并后数据为空，但之前有数据，保留原文件
-    if len(merged_today) == 0 and len(existing_today) > 0:
-        print("⚠️ 警告: 合并后数据为空，但原文件有数据！保留原文件。")
-    else:
-        safe_save_json(today_path, merged_today, "today.json")
-
-        # 保存后立即验证
-        if today_path.exists():
-            with open(today_path, 'r', encoding='utf-8') as f:
-                verify_data = json.load(f)
-            if verify_data:
-                print(f"🔍 验证 today.json 最新新闻: {verify_data[0].get('showTime', '未知')}")
-                print(f"🔍 验证 today.json 最早新闻: {verify_data[-1].get('showTime', '未知')}")
-
-    # 3.3 按日归档
-    today_str = datetime.now().strftime("%Y-%m-%d")
-    archive_path = archive_dir / f"{today_str}.json"
-
-    existing_archive = []
-    if archive_path.exists():
-        try:
-            with open(archive_path, "r", encoding="utf-8") as f:
-                existing_archive = json.load(f)
-        except:
-            existing_archive = []
-
-    merged_archive = merge_news_by_title(existing_archive, tagged_news)
-    safe_save_json(archive_path, merged_archive, f"归档 {today_str}.json")
-
-    # 3.4 合并超过30天的旧文件
+    # 3.3 合并超过30天的旧文件
     cutoff_date = date.today() - timedelta(days=30)
     merge_monthly_files(archive_dir, merged_dir, cutoff_date)
 
-    # 3.5 更新时间戳
+    # 3.4 更新时间戳
     timestamp_path = data_dir / "last_update.txt"
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(timestamp_path, "w", encoding="utf-8") as f:
@@ -279,13 +253,12 @@ def main():
     # 显示最终统计
     print("\n" + "=" * 50)
     print("📊 最终统计:")
-    if today_path.exists():
-        with open(today_path, 'r', encoding='utf-8') as f:
-            final_data = json.load(f)
-        print(f"  today.json 总条数: {len(final_data)}")
-        if final_data:
-            print(f"  最新新闻时间: {final_data[0].get('showTime', final_data[0].get('time', '未知'))}")
-            print(f"  最早新闻时间: {final_data[-1].get('showTime', final_data[-1].get('time', '未知'))}")
+    if latest_path.exists():
+        with open(latest_path, 'r', encoding='utf-8') as f:
+            final_latest = json.load(f)
+        print(f"  latest.json 最新条数: {len(final_latest)}")
+        if final_latest:
+            print(f"  最新新闻时间: {final_latest[0].get('showTime', final_latest[0].get('time', '未知'))}")
     print(f"  本次新增: {len(tagged_news)}")
     print(f"  归档文件: {archive_path.name} ({len(merged_archive)} 条)")
 
