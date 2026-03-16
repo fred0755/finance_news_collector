@@ -389,12 +389,14 @@
             </div>
         </div>
 
+        <!-- 时间范围选择器 - 12h/24h/3d -->
         <div class="time-range">
             <button class="time-btn active" data-range="12h">最近12小时</button>
             <button class="time-btn" data-range="24h">最近24小时</button>
             <button class="time-btn" data-range="3d">最近3天</button>
         </div>
 
+        <!-- 搜索栏 -->
         <div class="search-bar">
             <input type="text" id="search-input" placeholder="搜索新闻标题..." value="">
             <button id="search-btn">搜索</button>
@@ -408,6 +410,7 @@
             </div>
         </div>
 
+        <!-- 加载历史数据的提示（动态显示） -->
         <div id="load-more-btn" class="load-more" style="display: none;">
             📅 正在加载历史数据...
         </div>
@@ -422,6 +425,7 @@
     </div>
 
     <script>
+        // ==================== 全局变量 ====================
         let allNews = [];
         let displayedNews = [];
         let currentTimeRange = '12h';
@@ -430,27 +434,46 @@
         let isLoading = false;
         let lastUpdateTime = '';
 
+        // ==================== 来源图标配置（包含所有可能值）====================
         const SOURCE_CONFIG = {
             '东方财富': { emoji: '📈', name: '东方财富' },
             '东方财富快讯': { emoji: '📈', name: '东方财富' },
+            '东方财富网': { emoji: '📈', name: '东方财富' },
             '财联社': { emoji: '📡', name: '财联社' },
             '新浪财经': { emoji: '🐦', name: '新浪财经' },
             '华尔街见闻': { emoji: '📰', name: '华尔街见闻' },
             '证券时报': { emoji: '📊', name: '证券时报' },
-            '第一财经': { emoji: '📺', name: '第一财经' }
+            '第一财经': { emoji: '📺', name: '第一财经' },
+            '默认': { emoji: '🔗', name: '原文' }
         };
 
+        // ==================== 获取来源配置 ====================
+        // 重要说明：
+        // 1. 优先精确匹配，如果找不到则使用默认配置
+        // 2. 即使 source 为空，也会返回默认图标，避免页面崩溃
         function getSourceConfig(source) {
-            return SOURCE_CONFIG[source] || null;
+            const defaultConfig = SOURCE_CONFIG['默认'];
+            if (!source) return defaultConfig;
+            return SOURCE_CONFIG[source] || defaultConfig;
         }
 
+        // ==================== 获取新闻链接 ====================
+        // 重要说明：
+        // 1. 必须使用 item.code 构造链接，格式为 https://finance.eastmoney.com/a/{code}.html
+        // 2. 如果 item.code 不存在，才使用默认首页（这种情况极少）
+        // 3. 此函数被 mergeNews 和 renderNews 调用，确保链接正确
         function getNewsUrl(item) {
-            if (item.code) {
-                return `https://finance.eastmoney.com/a/${item.code}.html`;
+            if (item && item.code) {
+                const constructedUrl = `https://finance.eastmoney.com/a/${item.code}.html`;
+                // 调试时可取消注释
+                // console.log('🔗 为新闻构造链接:', constructedUrl, '新闻标题:', item.title?.substring(0, 30));
+                return constructedUrl;
             }
+            console.warn('⚠️ 新闻缺少 code 字段，使用默认首页', item);
             return 'https://finance.eastmoney.com/';
         }
 
+        // ==================== 格式化时间显示 ====================
         function formatNewsTime(timeStr) {
             if (!timeStr) return '未知时间';
             if (/^\d{2}-\d{2} \d{2}:\d{2}$/.test(timeStr)) {
@@ -463,15 +486,13 @@
             return timeStr;
         }
 
+        // ==================== 获取新闻时间 ====================
         function getFullNewsTime(item) {
-            const fields = ['showTime', 'time', 'publish_time', 'pubDate'];
-            for (const field of fields) {
-                if (item[field]) return item[field];
-                if (item.raw_data?.[field]) return item.raw_data[field];
-            }
-            return null;
+            if (!item) return null;
+            return item.showTime || item.time || item.publish_time || item.pubDate || item.raw_data?.showTime || null;
         }
 
+        // ==================== 渲染标签 ====================
         function renderTags(tags) {
             if (!tags) return '';
             let html = '';
@@ -490,7 +511,13 @@
             return html;
         }
 
-        // ==================== 合并新闻（修复来源图标链接）====================
+        // ==================== 合并新闻（核心逻辑）====================
+        // 重要说明 - 请仔细阅读：
+        // 1. 必须保存 code 字段！getNewsUrl 依赖它构造正确链接
+        // 2. 数据中没有 source 字段，需要根据标题特征推断来源
+        // 3. 东方财富新闻特征：标题包含“快讯/行情/公告/业绩/涨停/跌停”等关键词
+        // 4. 东方财富的 code 是纯数字字符串
+        // 5. 当同标题新闻再次出现时，需要更新 code 和 sources 中的 url，确保链接最新
         function mergeNews(newsList) {
             const newsMap = new Map();
 
@@ -503,75 +530,88 @@
 
                 const key = cleanTitle;
 
-                const sourceName = item.source || null;
-                const newsUrl = getNewsUrl(item);
+                // ===== 推断来源（因为数据中没有 source 字段）=====
+                let sourceName = '默认';
 
-                const sources = [];
-                if (sourceName) {
-                    const config = getSourceConfig(sourceName);
-                    if (config) {
-                        sources.push({
-                            name: sourceName,
-                            url: newsUrl,
-                            config: config
-                        });
-                    }
+                // 1. 根据标题特征推断东方财富
+                if (item.title.includes('快讯') ||
+                    item.title.includes('行情') ||
+                    item.title.includes('公告') ||
+                    item.title.includes('业绩') ||
+                    item.title.includes('涨停') ||
+                    item.title.includes('跌停')) {
+                    sourceName = '东方财富快讯';
                 }
 
+                // 2. 根据 code 特征（东方财富的 code 是纯数字）
+                if (item.code && /^\d+$/.test(item.code)) {
+                    sourceName = '东方财富快讯';
+                }
+
+                // 3. 财联社来源推断
+                if (item.title.includes('财联社') || item.title.includes('科创板')) {
+                    sourceName = '财联社';
+                }
+
+                const url = getNewsUrl(item);
                 const time = getFullNewsTime(item) || '未知时间';
                 const displayTime = formatNewsTime(time);
 
                 if (!newsMap.has(key)) {
+                    // 首次出现，必须保存 code
                     newsMap.set(key, {
                         title: rawTitle,
                         cleanTitle: cleanTitle,
+                        code: item.code,           // ← 必须保存！用于后续构造链接
                         time: time,
                         displayTime: displayTime,
                         full_content: item.full_content || item.content || '',
                         tags: item.tags || { industries: [], concepts: [] },
-                        sources: sources,
-                        url: newsUrl
+                        sources: [{
+                            name: sourceName,
+                            url: url,
+                            config: getSourceConfig(sourceName)
+                        }]
                     });
                 } else {
                     const existing = newsMap.get(key);
 
-                    // 如果有新来源且不在现有来源中，则添加
-                    if (sourceName && !existing.sources.some(s => s.name === sourceName)) {
-                        const config = getSourceConfig(sourceName);
-                        if (config) {
-                            existing.sources.push({
-                                name: sourceName,
-                                url: newsUrl,
-                                config: config
-                            });
-                        }
+                    // 查找是否已存在相同来源
+                    const existingSource = existing.sources.find(s => s.name === sourceName);
+                    if (!existingSource) {
+                        // 来源不存在，添加新来源（使用最新的 url）
+                        existing.sources.push({
+                            name: sourceName,
+                            url: url,
+                            config: getSourceConfig(sourceName)
+                        });
                     } else {
-                        // 如果来源已存在，并且新新闻时间更新，则更新该来源的url（因为可能链接变化）
-                        if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
-                            // 更新已有来源的url
-                            existing.sources.forEach(s => {
-                                if (s.name === sourceName) {
-                                    s.url = newsUrl;
-                                }
-                            });
-                        }
+                        // 关键修复：来源已存在，更新其 url 为最新值（避免链接过时）
+                        existingSource.url = url;
                     }
 
-                    // 保留最新的时间和其他字段
+                    // 如果新新闻时间更新，则更新整个条目的 code 和其他字段
                     if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
                         existing.time = time;
                         existing.displayTime = displayTime;
-                        existing.url = newsUrl;
+                        existing.code = item.code;   // ← 更新 code 为最新值
                         if (item.full_content) {
                             existing.full_content = item.full_content;
+                        }
+                    } else {
+                        // 即使时间没更新，也确保 code 是最新的（防止旧 code 导致链接错误）
+                        if (!existing.code && item.code) {
+                            existing.code = item.code;
                         }
                     }
                 }
             });
 
+            // 按时间倒序排列
             return Array.from(newsMap.values()).sort((a, b) => (b.time || '').localeCompare(a.time || ''));
         }
 
+        // ==================== 过滤新闻（根据搜索词）====================
         function filterNews(newsArray, searchTerm) {
             if (!searchTerm) return newsArray;
             const term = searchTerm.toLowerCase();
@@ -580,6 +620,7 @@
             );
         }
 
+        // ==================== 根据时间范围过滤 ====================
         function filterByTimeRange(newsArray, range) {
             const now = new Date();
             let cutoffTime = new Date();
@@ -605,6 +646,7 @@
             });
         }
 
+        // ==================== 加载单日数据 ====================
         async function loadDateData(dateStr) {
             if (loadedDates.has(dateStr)) return null;
             try {
@@ -619,13 +661,17 @@
             }
         }
 
+        // ==================== 初始化加载（基于归档文件）====================
         async function loadInitialData() {
             try {
+                console.log('🔄 开始加载初始数据...');
+                // 1. 更新时间戳
                 const timeRes = await fetch('/data/last_update.txt?t=' + Date.now());
                 const updateTime = await timeRes.text();
                 lastUpdateTime = updateTime;
                 document.getElementById('update-time').textContent = updateTime.trim().slice(5, 16) || '--:--';
 
+                // 2. 计算最近12小时需要的日期
                 const now = new Date();
                 const startTime = new Date(now);
                 startTime.setHours(startTime.getHours() - 12);
@@ -641,13 +687,11 @@
                     currentDate.setDate(currentDate.getDate() + 1);
                 }
 
+                // 3. 加载所有需要的归档文件
                 if (datesToLoad.length > 0) {
                     console.log(`🔄 加载初始数据: ${datesToLoad.join(', ')}`);
 
-                    const loadPromises = datesToLoad.map(dateStr =>
-                        fetch(`/data/archive/${dateStr}.json?t=${Date.now()}`)
-                            .then(res => res.ok ? res.json() : null)
-                    );
+                    const loadPromises = datesToLoad.map(dateStr => loadDateData(dateStr));
                     const results = await Promise.all(loadPromises);
 
                     allNews = [];
@@ -655,15 +699,14 @@
                         if (data && data.length > 0) {
                             const dateStr = datesToLoad[index];
                             console.log(`  ✅ 加载 ${dateStr} 成功: ${data.length} 条`);
-                            loadedDates.add(dateStr);
                             const merged = mergeNews(data);
                             allNews = mergeNews([...allNews, ...merged]);
                         }
                     });
                 }
 
-                // 强制加载今天的数据（确保最新）
-                const todayStr = new Date().toISOString().split('T')[0];
+                // 4. 强制加载今天的数据（防止日期计算遗漏）
+                const todayStr = now.toISOString().split('T')[0];
                 if (!loadedDates.has(todayStr)) {
                     const todayData = await loadDateData(todayStr);
                     if (todayData && todayData.length > 0) {
@@ -672,11 +715,12 @@
                     }
                 }
 
+                // 5. 显示12小时视图
                 applyFilters();
                 console.log(`✅ 初始化完成: 总计 ${allNews.length} 条新闻，最新时间: ${allNews[0]?.time}`);
 
             } catch (e) {
-                console.error('初始化失败', e);
+                console.error('❌ 加载初始数据失败:', e);
                 document.getElementById('news-list').innerHTML = `
                     <div class="error">
                         <span>⚠️</span>
@@ -688,6 +732,7 @@
             }
         }
 
+        // ==================== 按需加载历史数据（用于24h/3d）====================
         async function loadHistoricalData(range) {
             if (isLoading) return;
             isLoading = true;
@@ -712,17 +757,11 @@
                 }
 
                 if (datesToLoad.length > 0) {
-                    const loadPromises = datesToLoad.map(dateStr =>
-                        fetch(`/data/archive/${dateStr}.json?t=${Date.now()}`)
-                            .then(res => res.ok ? res.json() : null)
-                    );
+                    const loadPromises = datesToLoad.map(dateStr => loadDateData(dateStr));
                     const results = await Promise.all(loadPromises);
 
-                    results.forEach((data, index) => {
+                    results.forEach((data) => {
                         if (data && data.length > 0) {
-                            const dateStr = datesToLoad[index];
-                            console.log(`  ✅ 加载 ${dateStr} 成功: ${data.length} 条`);
-                            loadedDates.add(dateStr);
                             const merged = mergeNews(data);
                             allNews = mergeNews([...allNews, ...merged]);
                         }
@@ -739,6 +778,7 @@
             }
         }
 
+        // ==================== 渲染新闻列表 ====================
         function renderNews(newsArray) {
             const container = document.getElementById('news-list');
             if (!newsArray || newsArray.length === 0) {
@@ -749,6 +789,9 @@
 
             let html = '';
             newsArray.forEach((item, index) => {
+                const displayTime = item.displayTime || (item.time ? item.time.slice(5, 16) : '未知时间');
+
+                // 渲染来源图标
                 let sourcesHtml = '';
                 if (item.sources && item.sources.length > 0) {
                     item.sources.forEach(source => {
@@ -780,7 +823,7 @@
                         ` : ''}
                         <div class="news-time">
                             <span class="time-icon">🕐</span>
-                            <span>${item.displayTime || item.time.slice(5, 16)}</span>
+                            <span>${displayTime}</span>
                         </div>
                         ${tagsHtml ? `<div class="news-tags">${tagsHtml}</div>` : ''}
                     </div>
@@ -807,12 +850,14 @@
             });
         }
 
+        // 应用所有过滤条件
         function applyFilters() {
             let filtered = filterByTimeRange(allNews, currentTimeRange);
             filtered = filterNews(filtered, currentSearchTerm);
             renderNews(filtered);
         }
 
+        // 改变时间范围
         async function setTimeRange(range) {
             currentTimeRange = range;
 
@@ -831,6 +876,7 @@
             await loadHistoricalData(range);
         }
 
+        // 搜索处理
         function handleSearch() {
             const searchInput = document.getElementById('search-input');
             const term = searchInput.value.trim();
@@ -856,6 +902,7 @@
                 .replace(/'/g, "&#039;");
         }
 
+        // ==================== 初始化 ====================
         window.addEventListener('DOMContentLoaded', () => {
             loadInitialData();
 
@@ -868,6 +915,8 @@
             document.getElementById('search-input').addEventListener('keypress', (e) => {
                 if (e.key === 'Enter') handleSearch();
             });
+
+            // 注意：移除了自动刷新定时器，完全手动刷新
         });
     </script>
 </body>
