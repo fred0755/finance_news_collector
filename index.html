@@ -490,7 +490,6 @@
             return html;
         }
 
-        // ==================== 合并新闻（修复版）====================
         function mergeNews(newsList) {
             const newsMap = new Map();
 
@@ -506,7 +505,6 @@
                 const sourceName = item.source || null;
                 const newsUrl = getNewsUrl(item);
 
-                // 构建 sources 数组 - 只要有 source 就添加
                 const sources = [];
                 if (sourceName) {
                     const config = getSourceConfig(sourceName);
@@ -535,7 +533,6 @@
                     });
                 } else {
                     const existing = newsMap.get(key);
-                    // 如果有新来源且不在现有来源中，才添加
                     if (sourceName && !existing.sources.some(s => s.name === sourceName)) {
                         const config = getSourceConfig(sourceName);
                         if (config) {
@@ -546,7 +543,6 @@
                             });
                         }
                     }
-                    // 保留最新的时间
                     if (time !== '未知时间' && (existing.time === '未知时间' || time > existing.time)) {
                         existing.time = time;
                         existing.displayTime = displayTime;
@@ -608,7 +604,6 @@
             }
         }
 
-        // ==================== 初始化加载（确保加载今天数据）====================
         async function loadInitialData() {
             try {
                 const timeRes = await fetch('/data/last_update.txt?t=' + Date.now());
@@ -650,6 +645,16 @@
                             allNews = mergeNews([...allNews, ...merged]);
                         }
                     });
+                }
+
+                // 强制加载今天的数据（防止日期计算遗漏）
+                const todayStr = new Date().toISOString().split('T')[0];
+                if (!loadedDates.has(todayStr)) {
+                    const todayData = await loadDateData(todayStr);
+                    if (todayData && todayData.length > 0) {
+                        const merged = mergeNews(todayData);
+                        allNews = mergeNews([...allNews, ...merged]);
+                    }
                 }
 
                 applyFilters();
@@ -719,7 +724,6 @@
             }
         }
 
-        // ==================== 渲染新闻列表 ====================
         function renderNews(newsArray) {
             const container = document.getElementById('news-list');
             if (!newsArray || newsArray.length === 0) {
@@ -837,55 +841,6 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // ==================== 智能刷新 ====================
-        async function refreshTodayData() {
-            if (currentSearchTerm || currentTimeRange !== '12h') return;
-
-            try {
-                console.log('🔄 强制刷新今天的数据...');
-                const timestamp = Date.now();
-                const today = new Date().toISOString().split('T')[0];
-
-                const response = await fetch(`/data/archive/${today}.json?t=${timestamp}`);
-                if (!response.ok) {
-                    console.log(`⚠️ 无法加载今天的归档文件: ${response.status}`);
-                    return;
-                }
-
-                const newData = await response.json();
-
-                const timeRes = await fetch('/data/last_update.txt?t=' + timestamp);
-                const newUpdateTime = await timeRes.text();
-
-                const otherNews = allNews.filter(item => {
-                    const itemDate = new Date(item.time).toISOString().split('T')[0];
-                    return itemDate !== today;
-                });
-
-                const mergedToday = mergeNews(newData);
-                const newAllNews = mergeNews([...otherNews, ...mergedToday]);
-
-                if (newAllNews.length !== allNews.length) {
-                    console.log(`✅ 发现新新闻: 从 ${allNews.length} 条变为 ${newAllNews.length} 条`);
-                    allNews = newAllNews;
-                    lastUpdateTime = newUpdateTime;
-
-                    document.getElementById('update-time').textContent = newUpdateTime.trim().slice(5, 16) || '--:--';
-
-                    applyFilters();
-                } else {
-                    console.log('⏳ 今天没有新新闻');
-                    if (newUpdateTime !== lastUpdateTime) {
-                        lastUpdateTime = newUpdateTime;
-                        document.getElementById('update-time').textContent = newUpdateTime.trim().slice(5, 16) || '--:--';
-                    }
-                }
-
-            } catch (e) {
-                console.error('❌ 刷新失败', e);
-            }
-        }
-
         window.addEventListener('DOMContentLoaded', () => {
             loadInitialData();
 
@@ -899,7 +854,7 @@
                 if (e.key === 'Enter') handleSearch();
             });
 
-            setInterval(refreshTodayData, 30000);
+            // 自动刷新已移除
         });
     </script>
 </body>
