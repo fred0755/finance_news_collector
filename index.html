@@ -917,33 +917,56 @@
                 if (e.key === 'Enter') handleSearch();
             });
 
-            // 智能刷新：只更新数据，不重置折叠状态
+            // 智能刷新：避免重复渲染
+            let lastNewsCount = 0;
+            let lastUpdateTime = '';
+
             setInterval(async () => {
                 // 只在12小时视图且不在搜索状态时刷新
                 if (currentSearchTerm || currentTimeRange !== '12h') return;
 
                 try {
-                    console.log('🔄 静默刷新数据...');
+                    console.log('🔄 检查新数据...');
                     const timestamp = Date.now();
-                    const newsRes = await fetch('/data/today.json?t=' + timestamp);
 
+                    // 先获取时间戳，看是否有更新
+                    const timeRes = await fetch('/data/last_update.txt?t=' + timestamp);
+                    const newUpdateTime = await timeRes.text();
+
+                    // 如果时间戳没变，说明没有新数据
+                    if (newUpdateTime === lastUpdateTime && lastUpdateTime !== '') {
+                        console.log('⏳ 没有新数据');
+                        return;
+                    }
+
+                    // 获取新数据
+                    const newsRes = await fetch('/data/today.json?t=' + timestamp);
                     if (!newsRes.ok) return;
 
                     const newNews = await newsRes.json();
-                    // 合并新数据（但先不渲染）
+
+                    // 如果新闻数量没变，也没有新数据
+                    if (newNews.length === lastNewsCount && lastNewsCount > 0) {
+                        console.log('⏳ 新闻数量未变');
+                        lastUpdateTime = newUpdateTime;
+                        return;
+                    }
+
+                    // 合并新数据
                     const mergedNews = mergeNews([...allNews, ...newNews]);
 
-                    // 检查是否有新新闻（简单比较数量）
-                    if (mergedNews.length > allNews.length) {
-                        console.log(`✅ 发现 ${mergedNews.length - allNews.length} 条新新闻，更新视图`);
-                        allNews = sortByTime(mergedNews);
-                        // 重新应用当前过滤条件，这会触发 renderNews
-                        applyFilters();
-                    } else {
-                        console.log('⏳ 没有新新闻');
-                    }
+                    // 更新全局变量
+                    allNews = sortByTime(mergedNews);
+                    lastNewsCount = allNews.length;
+                    lastUpdateTime = newUpdateTime;
+
+                    // 重新渲染
+                    applyFilters();
+
+                    console.log(`✅ 数据已更新: ${allNews.length} 条`);
+
                 } catch (e) {
-                    console.error('❌ 静默刷新失败', e);
+                    console.error('❌ 刷新失败', e);
                 }
             }, 60000);
         });
