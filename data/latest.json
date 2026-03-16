@@ -1,5 +1,999 @@
 [
   {
+    "id": "da33d28849cd05ab",
+    "code": "202603173673568717",
+    "title": "英伟达CEO黄仁勋表示 公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片",
+    "summary": "英伟达CEO黄仁勋表示，公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片。",
+    "content": "英伟达CEO黄仁勋表示，公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片。",
+    "full_content": "英伟达CEO黄仁勋表示，公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片。",
+    "sort_time": "1773689876068717",
+    "showTime": "2026-03-17 03:37:56",
+    "time": "2026-03-17 03:37:56",
+    "publish_time": "2026-03-17 03:37:56",
+    "raw_data": {
+      "code": "202603173673568717",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773689876068717",
+      "share": 0,
+      "showTime": "2026-03-17 03:37:56",
+      "stockList": [
+        "90.BK1161",
+        "0.159813"
+      ],
+      "summary": "英伟达CEO黄仁勋表示，公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片。",
+      "title": "英伟达CEO黄仁勋表示 公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673568717.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "0.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "8cd39c97d8ae152c",
+    "code": "202603173673568555",
+    "title": "英伟达推出Vera CPU 专为智能体AI（Agentic AI）量身打造",
+    "summary": "英伟达推出Vera CPU，专为智能体AI（Agentic AI）量身打造；Vera的性能是任何其他CPU的两倍。",
+    "content": "英伟达推出Vera CPU，专为智能体AI（Agentic AI）量身打造；Vera的性能是任何其他CPU的两倍。",
+    "full_content": "英伟达推出Vera CPU，专为智能体AI（Agentic AI）量身打造；Vera的性能是任何其他CPU的两倍。",
+    "sort_time": "1773689753068555",
+    "showTime": "2026-03-17 03:35:53",
+    "time": "2026-03-17 03:35:53",
+    "publish_time": "2026-03-17 03:35:53",
+    "raw_data": {
+      "code": "202603173673568555",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773689753068555",
+      "share": 0,
+      "showTime": "2026-03-17 03:35:53",
+      "stockList": [
+        "90.BK0800",
+        "90.BK1161"
+      ],
+      "summary": "英伟达推出Vera CPU，专为智能体AI（Agentic AI）量身打造；Vera的性能是任何其他CPU的两倍。",
+      "title": "英伟达推出Vera CPU 专为智能体AI（Agentic AI）量身打造",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673568555.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "90.BK1161"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "8463f4d4e0e1f2e9",
+    "code": "202603173673568455",
+    "title": "英伟达表示 七款全新的Vera Rubin芯片现已进入全面量产阶段",
+    "summary": "英伟达表示，七款全新的Vera Rubin芯片现已进入全面量产阶段；全新 Vera 处理器采用 LPDDR5 内存。",
+    "content": "英伟达表示，七款全新的Vera Rubin芯片现已进入全面量产阶段；全新 Vera 处理器采用 LPDDR5 内存。",
+    "full_content": "英伟达表示，七款全新的Vera Rubin芯片现已进入全面量产阶段；全新 Vera 处理器采用 LPDDR5 内存。",
+    "sort_time": "1773689716068455",
+    "showTime": "2026-03-17 03:35:16",
+    "time": "2026-03-17 03:35:16",
+    "publish_time": "2026-03-17 03:35:16",
+    "raw_data": {
+      "code": "202603173673568455",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773689716068455",
+      "share": 0,
+      "showTime": "2026-03-17 03:35:16",
+      "stockList": [
+        "90.BK1161",
+        "0.159813"
+      ],
+      "summary": "英伟达表示，七款全新的Vera Rubin芯片现已进入全面量产阶段；全新 Vera 处理器采用 LPDDR5 内存。",
+      "title": "英伟达表示 七款全新的Vera Rubin芯片现已进入全面量产阶段",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673568455.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "0.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "a924c2bddb900cd6",
+    "code": "202603173673568383",
+    "title": "英伟达发布了基于BlueField-4的STX（存储技术扩展） 存储架构 并获得了业界的广泛采用",
+    "summary": "英伟达发布了基于BlueField-4的STX（存储技术扩展） 存储架构，并获得了业界的广泛采用。",
+    "content": "英伟达发布了基于BlueField-4的STX（存储技术扩展） 存储架构，并获得了业界的广泛采用。",
+    "full_content": "英伟达发布了基于BlueField-4的STX（存储技术扩展） 存储架构，并获得了业界的广泛采用。",
+    "sort_time": "1773689500068383",
+    "showTime": "2026-03-17 03:31:40",
+    "time": "2026-03-17 03:31:40",
+    "publish_time": "2026-03-17 03:31:40",
+    "raw_data": {
+      "code": "202603173673568383",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773689500068383",
+      "share": 0,
+      "showTime": "2026-03-17 03:31:40",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "英伟达发布了基于BlueField-4的STX（存储技术扩展） 存储架构，并获得了业界的广泛采用。",
+      "title": "英伟达发布了基于BlueField-4的STX（存储技术扩展） 存储架构 并获得了业界的广泛采用",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673568383.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C814",
+          "name": "ST板块",
+          "matched_keyword": "ST"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C814"
+      ]
+    }
+  },
+  {
+    "id": "3f9b188cf39b5338",
+    "code": "202603173673568249",
+    "title": "英伟达宣布推出全新GROQ LPU产品",
+    "summary": "英伟达宣布推出全新GROQ LPU产品。",
+    "content": "英伟达宣布推出全新GROQ LPU产品。",
+    "full_content": "英伟达宣布推出全新GROQ LPU产品。",
+    "sort_time": "1773689420068249",
+    "showTime": "2026-03-17 03:30:20",
+    "time": "2026-03-17 03:30:20",
+    "publish_time": "2026-03-17 03:30:20",
+    "raw_data": {
+      "code": "202603173673568249",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773689420068249",
+      "share": 1,
+      "showTime": "2026-03-17 03:30:20",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "英伟达宣布推出全新GROQ LPU产品。",
+      "title": "英伟达宣布推出全新GROQ LPU产品",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673568249.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "07dcff34d811421c",
+    "code": "202603173673568125",
+    "title": "伊朗议会议长：停火只有以不再开战为前提时才合理",
+    "summary": "【伊朗议会议长：停火只有以不再开战为前提时才合理】当地时间16日，伊朗议会议长卡利巴夫在接受采访时表示，停火只有以不再开战为前提时才合理。停火不能只是给敌人创造机会，让他们解决自己的问题，比如解决雷达被毁或拦截导弹短缺的问题，然后再次对伊朗发起攻击。",
+    "content": "【伊朗议会议长：停火只有以不再开战为前提时才合理】当地时间16日，伊朗议会议长卡利巴夫在接受采访时表示，停火只有以不再开战为前提时才合理。停火不能只是给敌人创造机会，让他们解决自己的问题，比如解决雷达被毁或拦截导弹短缺的问题，然后再次对伊朗发起攻击。",
+    "full_content": "【伊朗议会议长：停火只有以不再开战为前提时才合理】当地时间16日，伊朗议会议长卡利巴夫在接受采访时表示，停火只有以不再开战为前提时才合理。停火不能只是给敌人创造机会，让他们解决自己的问题，比如解决雷达被毁或拦截导弹短缺的问题，然后再次对伊朗发起攻击。",
+    "sort_time": "1773689335068125",
+    "showTime": "2026-03-17 03:28:55",
+    "time": "2026-03-17 03:28:55",
+    "publish_time": "2026-03-17 03:28:55",
+    "raw_data": {
+      "code": "202603173673568125",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773689335068125",
+      "share": 0,
+      "showTime": "2026-03-17 03:28:55",
+      "stockList": [],
+      "summary": "【伊朗议会议长：停火只有以不再开战为前提时才合理】当地时间16日，伊朗议会议长卡利巴夫在接受采访时表示，停火只有以不再开战为前提时才合理。停火不能只是给敌人创造机会，让他们解决自己的问题，比如解决雷达被毁或拦截导弹短缺的问题，然后再次对伊朗发起攻击。",
+      "title": "伊朗议会议长：停火只有以不再开战为前提时才合理",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673568125.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "41df53f74accbced",
+    "code": "202603173673568061",
+    "title": "以色列北部遭火箭弹袭击多人受伤",
+    "summary": "【以色列北部遭火箭弹袭击多人受伤】以色列北部地区当地时间3月16日晚遭黎巴嫩真主党火箭弹和无人机袭击。以色列救援部门称，北部城市纳哈里亚有两栋房屋起火，造成至少7人受伤。以色列军方称，这可能是由一枚火箭弹造成的。但目前尚不清楚弹片来自火箭弹本身，还是来自拦截弹。",
+    "content": "【以色列北部遭火箭弹袭击多人受伤】以色列北部地区当地时间3月16日晚遭黎巴嫩真主党火箭弹和无人机袭击。以色列救援部门称，北部城市纳哈里亚有两栋房屋起火，造成至少7人受伤。以色列军方称，这可能是由一枚火箭弹造成的。但目前尚不清楚弹片来自火箭弹本身，还是来自拦截弹。",
+    "full_content": "【以色列北部遭火箭弹袭击多人受伤】以色列北部地区当地时间3月16日晚遭黎巴嫩真主党火箭弹和无人机袭击。以色列救援部门称，北部城市纳哈里亚有两栋房屋起火，造成至少7人受伤。以色列军方称，这可能是由一枚火箭弹造成的。但目前尚不清楚弹片来自火箭弹本身，还是来自拦截弹。",
+    "sort_time": "1773689050068061",
+    "showTime": "2026-03-17 03:24:10",
+    "time": "2026-03-17 03:24:10",
+    "publish_time": "2026-03-17 03:24:10",
+    "raw_data": {
+      "code": "202603173673568061",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773689050068061",
+      "share": 0,
+      "showTime": "2026-03-17 03:24:10",
+      "stockList": [],
+      "summary": "【以色列北部遭火箭弹袭击多人受伤】以色列北部地区当地时间3月16日晚遭黎巴嫩真主党火箭弹和无人机袭击。以色列救援部门称，北部城市纳哈里亚有两栋房屋起火，造成至少7人受伤。以色列军方称，这可能是由一枚火箭弹造成的。但目前尚不清楚弹片来自火箭弹本身，还是来自拦截弹。",
+      "title": "以色列北部遭火箭弹袭击多人受伤",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673568061.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "火箭"
+        },
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C202",
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "044b7b431edda244",
+    "code": "202603173673567953",
+    "title": "英伟达CEO黄仁勋表示 60% 的业务将来自超大规模云服务商",
+    "summary": "英伟达CEO黄仁勋表示，60% 的业务将来自超大规模云服务商。",
+    "content": "英伟达CEO黄仁勋表示，60% 的业务将来自超大规模云服务商。",
+    "full_content": "英伟达CEO黄仁勋表示，60% 的业务将来自超大规模云服务商。",
+    "sort_time": "1773688647067953",
+    "showTime": "2026-03-17 03:17:27",
+    "time": "2026-03-17 03:17:27",
+    "publish_time": "2026-03-17 03:17:27",
+    "raw_data": {
+      "code": "202603173673567953",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773688647067953",
+      "share": 1,
+      "showTime": "2026-03-17 03:17:27",
+      "stockList": [
+        "90.BK1161",
+        "90.BK0579"
+      ],
+      "summary": "英伟达CEO黄仁勋表示，60% 的业务将来自超大规模云服务商。",
+      "title": "英伟达CEO黄仁勋表示 60% 的业务将来自超大规模云服务商",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673567953.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "90.BK0579"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C005",
+          "name": "云计算",
+          "matched_keyword": "云服务"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C005"
+      ]
+    }
+  },
+  {
+    "id": "f9d29d49e013fc90",
+    "code": "202603173673567784",
+    "title": "英伟达涨幅扩大至4.7%",
+    "summary": "英伟达涨幅扩大至4.7%，刷新日内新高，英伟达CEO预计2027年营收至少达到1万亿美元。",
+    "content": "英伟达涨幅扩大至4.7%，刷新日内新高，英伟达CEO预计2027年营收至少达到1万亿美元。",
+    "full_content": "英伟达涨幅扩大至4.7%，刷新日内新高，英伟达CEO预计2027年营收至少达到1万亿美元。",
+    "sort_time": "1773688454067784",
+    "showTime": "2026-03-17 03:14:14",
+    "time": "2026-03-17 03:14:14",
+    "publish_time": "2026-03-17 03:14:14",
+    "raw_data": {
+      "code": "202603173673567784",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1773688454067784",
+      "share": 0,
+      "showTime": "2026-03-17 03:14:14",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "英伟达涨幅扩大至4.7%，刷新日内新高，英伟达CEO预计2027年营收至少达到1万亿美元。",
+      "title": "英伟达涨幅扩大至4.7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673567784.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "762397f339618b27",
+    "code": "202603173673567616",
+    "title": "英伟达CEO预计2027年营收至少达到1万亿美元",
+    "summary": "英伟达CEO预计2027年营收至少达到1万亿美元。",
+    "content": "英伟达CEO预计2027年营收至少达到1万亿美元。",
+    "full_content": "英伟达CEO预计2027年营收至少达到1万亿美元。",
+    "sort_time": "1773688327067616",
+    "showTime": "2026-03-17 03:12:07",
+    "time": "2026-03-17 03:12:07",
+    "publish_time": "2026-03-17 03:12:07",
+    "raw_data": {
+      "code": "202603173673567616",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1773688327067616",
+      "share": 8,
+      "showTime": "2026-03-17 03:12:07",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "英伟达CEO预计2027年营收至少达到1万亿美元。",
+      "title": "英伟达CEO预计2027年营收至少达到1万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673567616.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 10,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "bd8ddf9db0c7febd",
+    "code": "202603173673567535",
+    "title": "伊拉克巴格达“绿区”内美驻伊使馆附近地带遭袭",
+    "summary": "【伊拉克巴格达“绿区”内美驻伊使馆附近地带遭袭】当地时间16日晚，伊拉克首都巴格达“绿区”内的美国驻伊拉克使馆附近地带遭袭。",
+    "content": "【伊拉克巴格达“绿区”内美驻伊使馆附近地带遭袭】当地时间16日晚，伊拉克首都巴格达“绿区”内的美国驻伊拉克使馆附近地带遭袭。",
+    "full_content": "【伊拉克巴格达“绿区”内美驻伊使馆附近地带遭袭】当地时间16日晚，伊拉克首都巴格达“绿区”内的美国驻伊拉克使馆附近地带遭袭。",
+    "sort_time": "1773688231067535",
+    "showTime": "2026-03-17 03:10:31",
+    "time": "2026-03-17 03:10:31",
+    "publish_time": "2026-03-17 03:10:31",
+    "raw_data": {
+      "code": "202603173673567535",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773688231067535",
+      "share": 0,
+      "showTime": "2026-03-17 03:10:31",
+      "stockList": [],
+      "summary": "【伊拉克巴格达“绿区”内美驻伊使馆附近地带遭袭】当地时间16日晚，伊拉克首都巴格达“绿区”内的美国驻伊拉克使馆附近地带遭袭。",
+      "title": "伊拉克巴格达“绿区”内美驻伊使馆附近地带遭袭",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673567535.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3829b86a259f2500",
+    "code": "202603173673567433",
+    "title": "英伟达首席执行官黄仁勋表示 需求持续增长",
+    "summary": "英伟达首席执行官黄仁勋表示，需求持续增长。",
+    "content": "英伟达首席执行官黄仁勋表示，需求持续增长。",
+    "full_content": "英伟达首席执行官黄仁勋表示，需求持续增长。",
+    "sort_time": "1773688188067433",
+    "showTime": "2026-03-17 03:09:48",
+    "time": "2026-03-17 03:09:48",
+    "publish_time": "2026-03-17 03:09:48",
+    "raw_data": {
+      "code": "202603173673567433",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1773688188067433",
+      "share": 3,
+      "showTime": "2026-03-17 03:09:48",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "英伟达首席执行官黄仁勋表示，需求持续增长。",
+      "title": "英伟达首席执行官黄仁勋表示 需求持续增长",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673567433.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6a03b7bea31a160f",
+    "code": "202603173673567394",
+    "title": "由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心",
+    "summary": "由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
+    "content": "由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
+    "full_content": "由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
+    "sort_time": "1773688136067394",
+    "showTime": "2026-03-17 03:08:56",
+    "time": "2026-03-17 03:08:56",
+    "publish_time": "2026-03-17 03:08:56",
+    "raw_data": {
+      "code": "202603173673567394",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773688136067394",
+      "share": 0,
+      "showTime": "2026-03-17 03:08:56",
+      "stockList": [
+        "90.BK0800",
+        "90.BK1161"
+      ],
+      "summary": "由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
+      "title": "由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673567394.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "90.BK1161"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "e86614c3a8400696",
+    "code": "202603173673567245",
+    "title": "美国芝加哥期权交易所（CBOE）计划于2026年12月启动24*5的美国证券交易服务",
+    "summary": "美国芝加哥期权交易所（CBOE）计划于2026年12月启动24*5的美国证券交易服务。",
+    "content": "美国芝加哥期权交易所（CBOE）计划于2026年12月启动24*5的美国证券交易服务。",
+    "full_content": "美国芝加哥期权交易所（CBOE）计划于2026年12月启动24*5的美国证券交易服务。",
+    "sort_time": "1773687893067245",
+    "showTime": "2026-03-17 03:04:53",
+    "time": "2026-03-17 03:04:53",
+    "publish_time": "2026-03-17 03:04:53",
+    "raw_data": {
+      "code": "202603173673567245",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773687893067245",
+      "share": 0,
+      "showTime": "2026-03-17 03:04:53",
+      "stockList": [
+        "90.BK1366",
+        "90.BK0473"
+      ],
+      "summary": "美国芝加哥期权交易所（CBOE）计划于2026年12月启动24*5的美国证券交易服务。",
+      "title": "美国芝加哥期权交易所（CBOE）计划于2026年12月启动24*5的美国证券交易服务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673567245.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1366",
+      "90.BK0473"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "86a4b1de886805ff",
+    "code": "202603173673567125",
+    "title": "恒生指数主连夜盘收涨0.56%",
+    "summary": "恒生指数主连夜盘收涨0.56%，报25894点。",
+    "content": "恒生指数主连夜盘收涨0.56%，报25894点。",
+    "full_content": "恒生指数主连夜盘收涨0.56%，报25894点。",
+    "sort_time": "1773687683067125",
+    "showTime": "2026-03-17 03:01:23",
+    "time": "2026-03-17 03:01:23",
+    "publish_time": "2026-03-17 03:01:23",
+    "raw_data": {
+      "code": "202603173673567125",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773687683067125",
+      "share": 0,
+      "showTime": "2026-03-17 03:01:23",
+      "stockList": [],
+      "summary": "恒生指数主连夜盘收涨0.56%，报25894点。",
+      "title": "恒生指数主连夜盘收涨0.56%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673567125.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ed3fbca2f96632b3",
+    "code": "202603173673566841",
+    "title": "伊朗议长称不能停火让敌人喘息",
+    "summary": "【伊朗议长称不能停火让敌人喘息】伊朗议会议长卡利巴夫当地时间3月16日在接受采访时表示，停火只有以不再开战为前提时才合理。卡利巴夫说，“停火不能只是给敌人创造机会，让敌人解决自己的问题，比如解决雷达被毁或拦截弹短缺的问题，然后再次对我们发起攻击。”卡利巴夫说，“我们将继续战斗——在敌人真正感到后悔，并且全球和地区形成适宜的政治与安全条件之前，我们不会接受停火。”卡利巴夫还表示，伊朗已为长期战争做好准备。他认为如今已无人相信美国所谓“摧毁伊朗进攻能力”的言论。伊朗拥有充足的导弹和无人机储备，由于掌握自主技术，伊朗能以远超敌人的效率和远低于敌方的成本来进行生产。",
+    "content": "【伊朗议长称不能停火让敌人喘息】伊朗议会议长卡利巴夫当地时间3月16日在接受采访时表示，停火只有以不再开战为前提时才合理。卡利巴夫说，“停火不能只是给敌人创造机会，让敌人解决自己的问题，比如解决雷达被毁或拦截弹短缺的问题，然后再次对我们发起攻击。”卡利巴夫说，“我们将继续战斗——在敌人真正感到后悔，并且全球和地区形成适宜的政治与安全条件之前，我们不会接受停火。”卡利巴夫还表示，伊朗已为长期战争做好准备。他认为如今已无人相信美国所谓“摧毁伊朗进攻能力”的言论。伊朗拥有充足的导弹和无人机储备，由于掌握自主技术，伊朗能以远超敌人的效率和远低于敌方的成本来进行生产。",
+    "full_content": "【伊朗议长称不能停火让敌人喘息】伊朗议会议长卡利巴夫当地时间3月16日在接受采访时表示，停火只有以不再开战为前提时才合理。卡利巴夫说，“停火不能只是给敌人创造机会，让敌人解决自己的问题，比如解决雷达被毁或拦截弹短缺的问题，然后再次对我们发起攻击。”卡利巴夫说，“我们将继续战斗——在敌人真正感到后悔，并且全球和地区形成适宜的政治与安全条件之前，我们不会接受停火。”卡利巴夫还表示，伊朗已为长期战争做好准备。他认为如今已无人相信美国所谓“摧毁伊朗进攻能力”的言论。伊朗拥有充足的导弹和无人机储备，由于掌握自主技术，伊朗能以远超敌人的效率和远低于敌方的成本来进行生产。",
+    "sort_time": "1773687388066841",
+    "showTime": "2026-03-17 02:56:28",
+    "time": "2026-03-17 02:56:28",
+    "publish_time": "2026-03-17 02:56:28",
+    "raw_data": {
+      "code": "202603173673566841",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1773687388066841",
+      "share": 1,
+      "showTime": "2026-03-17 02:56:28",
+      "stockList": [],
+      "summary": "【伊朗议长称不能停火让敌人喘息】伊朗议会议长卡利巴夫当地时间3月16日在接受采访时表示，停火只有以不再开战为前提时才合理。卡利巴夫说，“停火不能只是给敌人创造机会，让敌人解决自己的问题，比如解决雷达被毁或拦截弹短缺的问题，然后再次对我们发起攻击。”卡利巴夫说，“我们将继续战斗——在敌人真正感到后悔，并且全球和地区形成适宜的政治与安全条件之前，我们不会接受停火。”卡利巴夫还表示，伊朗已为长期战争做好准备。他认为如今已无人相信美国所谓“摧毁伊朗进攻能力”的言论。伊朗拥有充足的导弹和无人机储备，由于掌握自主技术，伊朗能以远超敌人的效率和远低于敌方的成本来进行生产。",
+      "title": "伊朗议长称不能停火让敌人喘息",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673566841.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 11,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "35061d516d091aeb",
+    "code": "202603173673566760",
+    "title": "阿富汗称巴基斯坦再次空袭喀布尔",
+    "summary": "【阿富汗称巴基斯坦再次空袭喀布尔】16日晚，阿富汗政府发言人穆贾希德在社交媒体发文表示，巴基斯坦军方当晚再次空袭阿首都喀布尔，阿方对此予以谴责。",
+    "content": "【阿富汗称巴基斯坦再次空袭喀布尔】16日晚，阿富汗政府发言人穆贾希德在社交媒体发文表示，巴基斯坦军方当晚再次空袭阿首都喀布尔，阿方对此予以谴责。",
+    "full_content": "【阿富汗称巴基斯坦再次空袭喀布尔】16日晚，阿富汗政府发言人穆贾希德在社交媒体发文表示，巴基斯坦军方当晚再次空袭阿首都喀布尔，阿方对此予以谴责。",
+    "sort_time": "1773686737066760",
+    "showTime": "2026-03-17 02:45:37",
+    "time": "2026-03-17 02:45:37",
+    "publish_time": "2026-03-17 02:45:37",
+    "raw_data": {
+      "code": "202603173673566760",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773686737066760",
+      "share": 0,
+      "showTime": "2026-03-17 02:45:37",
+      "stockList": [],
+      "summary": "【阿富汗称巴基斯坦再次空袭喀布尔】16日晚，阿富汗政府发言人穆贾希德在社交媒体发文表示，巴基斯坦军方当晚再次空袭阿首都喀布尔，阿方对此予以谴责。",
+      "title": "阿富汗称巴基斯坦再次空袭喀布尔",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673566760.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "56c2221aa6cc2046",
+    "code": "202603173673566644",
+    "title": "IBM与英伟达在数据处理领域进行合作 IBM股价上涨2%",
+    "summary": "IBM与英伟达在数据处理领域进行合作，IBM股价上涨2%。",
+    "content": "IBM与英伟达在数据处理领域进行合作，IBM股价上涨2%。",
+    "full_content": "IBM与英伟达在数据处理领域进行合作，IBM股价上涨2%。",
+    "sort_time": "1773686567066644",
+    "showTime": "2026-03-17 02:42:47",
+    "time": "2026-03-17 02:42:47",
+    "publish_time": "2026-03-17 02:42:47",
+    "raw_data": {
+      "code": "202603173673566644",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773686567066644",
+      "share": 1,
+      "showTime": "2026-03-17 02:42:47",
+      "stockList": [
+        "90.BK1161",
+        "106.IBM"
+      ],
+      "summary": "IBM与英伟达在数据处理领域进行合作，IBM股价上涨2%。",
+      "title": "IBM与英伟达在数据处理领域进行合作 IBM股价上涨2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673566644.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK1161",
+      "106.IBM"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4c9cc4322b9c53d6",
+    "code": "202603173673566524",
+    "title": "马斯克旗下xAI表示 Grok的文本生成Speech API上线",
+    "summary": "马斯克旗下xAI表示，Grok的文本生成Speech API上线。",
+    "content": "马斯克旗下xAI表示，Grok的文本生成Speech API上线。",
+    "full_content": "马斯克旗下xAI表示，Grok的文本生成Speech API上线。",
+    "sort_time": "1773686510066524",
+    "showTime": "2026-03-17 02:41:50",
+    "time": "2026-03-17 02:41:50",
+    "publish_time": "2026-03-17 02:41:50",
+    "raw_data": {
+      "code": "202603173673566524",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773686510066524",
+      "share": 0,
+      "showTime": "2026-03-17 02:41:50",
+      "stockList": [],
+      "summary": "马斯克旗下xAI表示，Grok的文本生成Speech API上线。",
+      "title": "马斯克旗下xAI表示 Grok的文本生成Speech API上线",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673566524.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "a2e083514394e9ad",
+    "code": "202603173673566367",
+    "title": "英伟达发布NVIDIA DLSS 5 黄仁勋将其比作图形学领域的GPT时刻",
+    "summary": "【英伟达发布NVIDIA DLSS 5 黄仁勋将其比作图形学领域的GPT时刻】英伟达在DLSS 5引入了一种全新的实时神经渲染模型，它能够为每一个像素注入具有照片级真实感的光照和材质属性。这是自2018年实时光线追踪技术首秀以来，该公司在计算机图形领域取得的最具深远意义的突破。“在英伟达发明可编程着色器二十五年后的今天，我们正在再次重塑计算机图形学，”该公司创始人兼首席执行官（CEO）黄仁勋表示。“DLSS 5是图形学领域的GPT时刻——它将手工渲染与生成式AI完美融合，在大幅飞跃视觉真实感的同时，依然保留了艺术家进行创意表达所需的控制力。”",
+    "content": "【英伟达发布NVIDIA DLSS 5 黄仁勋将其比作图形学领域的GPT时刻】英伟达在DLSS 5引入了一种全新的实时神经渲染模型，它能够为每一个像素注入具有照片级真实感的光照和材质属性。这是自2018年实时光线追踪技术首秀以来，该公司在计算机图形领域取得的最具深远意义的突破。“在英伟达发明可编程着色器二十五年后的今天，我们正在再次重塑计算机图形学，”该公司创始人兼首席执行官（CEO）黄仁勋表示。“DLSS 5是图形学领域的GPT时刻——它将手工渲染与生成式AI完美融合，在大幅飞跃视觉真实感的同时，依然保留了艺术家进行创意表达所需的控制力。”",
+    "full_content": "【英伟达发布NVIDIA DLSS 5 黄仁勋将其比作图形学领域的GPT时刻】英伟达在DLSS 5引入了一种全新的实时神经渲染模型，它能够为每一个像素注入具有照片级真实感的光照和材质属性。这是自2018年实时光线追踪技术首秀以来，该公司在计算机图形领域取得的最具深远意义的突破。“在英伟达发明可编程着色器二十五年后的今天，我们正在再次重塑计算机图形学，”该公司创始人兼首席执行官（CEO）黄仁勋表示。“DLSS 5是图形学领域的GPT时刻——它将手工渲染与生成式AI完美融合，在大幅飞跃视觉真实感的同时，依然保留了艺术家进行创意表达所需的控制力。”",
+    "sort_time": "1773686234066367",
+    "showTime": "2026-03-17 02:37:14",
+    "time": "2026-03-17 02:37:14",
+    "publish_time": "2026-03-17 02:37:14",
+    "raw_data": {
+      "code": "202603173673566367",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1773686234066367",
+      "share": 6,
+      "showTime": "2026-03-17 02:37:14",
+      "stockList": [
+        "90.BK1161",
+        "0.159998"
+      ],
+      "summary": "【英伟达发布NVIDIA DLSS 5 黄仁勋将其比作图形学领域的GPT时刻】英伟达在DLSS 5引入了一种全新的实时神经渲染模型，它能够为每一个像素注入具有照片级真实感的光照和材质属性。这是自2018年实时光线追踪技术首秀以来，该公司在计算机图形领域取得的最具深远意义的突破。“在英伟达发明可编程着色器二十五年后的今天，我们正在再次重塑计算机图形学，”该公司创始人兼首席执行官（CEO）黄仁勋表示。“DLSS 5是图形学领域的GPT时刻——它将手工渲染与生成式AI完美融合，在大幅飞跃视觉真实感的同时，依然保留了艺术家进行创意表达所需的控制力。”",
+      "title": "英伟达发布NVIDIA DLSS 5 黄仁勋将其比作图形学领域的GPT时刻",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603173673566367.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK1161",
+      "0.159998"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 6,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "GPT"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
     "id": "c1420f92fd97b291",
     "code": "202603173673566249",
     "title": "美军自称13死200伤",
@@ -13,7 +1007,7 @@
     "raw_data": {
       "code": "202603173673566249",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1773686085066249",
       "share": 0,
       "showTime": "2026-03-17 02:34:45",
@@ -29,7 +1023,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -52,7 +1046,7 @@
     "raw_data": {
       "code": "202603173673566154",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1773686054066154",
       "share": 0,
       "showTime": "2026-03-17 02:34:14",
@@ -68,7 +1062,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -91,9 +1085,9 @@
     "raw_data": {
       "code": "202603173673566010",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1773686003066010",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-03-17 02:33:23",
       "stockList": [
         "90.BK1301",
@@ -113,8 +1107,8 @@
       "90.BK1046"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -197,7 +1191,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1773685337065819",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-03-17 02:22:17",
       "stockList": [
         "90.BK1161",
@@ -218,7 +1212,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 2,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -242,7 +1236,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1773685196065546",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-03-17 02:19:56",
       "stockList": [
         "90.BK1161",
@@ -263,7 +1257,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 2,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -402,9 +1396,9 @@
     "raw_data": {
       "code": "202603173673562413",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 9,
       "realSort": "1773684552062413",
-      "share": 33,
+      "share": 36,
       "showTime": "2026-03-17 02:09:12",
       "stockList": [],
       "summary": "【李成钢：中美就一些议题取得初步共识】当地时间3月15日至16日，中美双方在法国巴黎举行经贸磋商。中国商务部国际贸易谈判代表兼副部长李成钢表示，过去一天半，双方团队进行了坦诚、深入、建设性的磋商，就一些议题取得初步共识，下一步双方将继续保持磋商进程。",
@@ -418,8 +1412,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 33,
+    "comment_count": 9,
+    "share_count": 36,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -441,9 +1435,9 @@
     "raw_data": {
       "code": "202603173673563464",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 13,
       "realSort": "1773684339063464",
-      "share": 2,
+      "share": 24,
       "showTime": "2026-03-17 02:05:39",
       "stockList": [
         "90.BK1134",
@@ -463,8 +1457,8 @@
       "150.159813"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 2,
+    "comment_count": 13,
+    "share_count": 24,
     "tags": {
       "industries": [
         {
@@ -604,7 +1598,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1773682757060193",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-17 01:39:17",
       "stockList": [],
       "summary": "【美以袭击已致伊朗200多名未成年人遇难】据伊朗塔斯尼姆通讯社16日报道，伊朗政府发言人穆哈杰拉尼当天更新伊朗最新人员伤亡和财产损失数据。她表示，美国和以色列的袭击已造成伊朗大量未成年人、女性、医务人员等平民遇难，有超过6.1万个民用设施遭袭击或受损。",
@@ -619,7 +1613,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -719,7 +1713,7 @@
     "raw_data": {
       "code": "202603173673555953",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1773682145055953",
       "share": 1,
       "showTime": "2026-03-17 01:29:05",
@@ -735,7 +1729,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -872,9 +1866,9 @@
     "raw_data": {
       "code": "202603173673542325",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 15,
       "realSort": "1773680933042325",
-      "share": 21,
+      "share": 27,
       "showTime": "2026-03-17 01:08:53",
       "stockList": [
         "90.BK1550",
@@ -894,8 +1888,8 @@
       "90.BK0484"
     ],
     "has_stock_mention": true,
-    "comment_count": 14,
-    "share_count": 21,
+    "comment_count": 15,
+    "share_count": 27,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -919,7 +1913,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1773680599038330",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-17 01:03:19",
       "stockList": [],
       "summary": "【沪锡夜盘收涨超2.4%】国际铜夜盘收涨0.61%，沪铜收涨0.58%，沪铝收跌0.48%，沪锌收跌0.56%，沪铅收涨0.24%，沪镍收涨0.37%，沪锡收涨2.43%。氧化铝夜盘收涨0.57%，铝合金收跌0.13%。不锈钢夜盘收涨0.04%。",
@@ -934,7 +1928,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1015,7 +2009,7 @@
     "raw_data": {
       "code": "202603173673533545",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 16,
       "realSort": "1773680308033545",
       "share": 0,
       "showTime": "2026-03-17 00:58:28",
@@ -1031,7 +2025,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 15,
+    "comment_count": 16,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1062,7 +2056,7 @@
     "raw_data": {
       "code": "202603173673528235",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 15,
       "realSort": "1773679623028235",
       "share": 3,
       "showTime": "2026-03-17 00:47:03",
@@ -1078,7 +2072,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
+    "comment_count": 15,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1338,9 +2332,9 @@
     "raw_data": {
       "code": "202603163673469037",
       "image": [],
-      "pinglun_Num": 166,
+      "pinglun_Num": 171,
       "realSort": "1773678358069037",
-      "share": 529,
+      "share": 534,
       "showTime": "2026-03-17 00:25:58",
       "stockList": [],
       "summary": "【伦敦金属交易所铜、铝等主要合约暂停交易】伦敦金属交易所(LME)的铜、锌、铝及其他合约已暂停交易。该交易所的一位发言人表示暂时无法置评。",
@@ -1354,8 +2348,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 166,
-    "share_count": 529,
+    "comment_count": 171,
+    "share_count": 534,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1368,918 +2362,6 @@
       "industry_ids": [],
       "concept_ids": [
         "C501"
-      ]
-    }
-  },
-  {
-    "id": "99bb73fc79f1efb1",
-    "code": "202603173673505411",
-    "title": "谷歌宣布在Google AI Studio中推出项目支出上限功能",
-    "summary": "谷歌宣布在Google AI Studio中推出项目支出上限功能；这将有助于掌控月度Gemini API开销。",
-    "content": "谷歌宣布在Google AI Studio中推出项目支出上限功能；这将有助于掌控月度Gemini API开销。",
-    "full_content": "谷歌宣布在Google AI Studio中推出项目支出上限功能；这将有助于掌控月度Gemini API开销。",
-    "sort_time": "1773677580005411",
-    "showTime": "2026-03-17 00:13:00",
-    "time": "2026-03-17 00:13:00",
-    "publish_time": "2026-03-17 00:13:00",
-    "raw_data": {
-      "code": "202603173673505411",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1773677580005411",
-      "share": 0,
-      "showTime": "2026-03-17 00:13:00",
-      "stockList": [
-        "90.BK0800",
-        "105.GOOG"
-      ],
-      "summary": "谷歌宣布在Google AI Studio中推出项目支出上限功能；这将有助于掌控月度Gemini API开销。",
-      "title": "谷歌宣布在Google AI Studio中推出项目支出上限功能",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603173673505411.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "105.GOOG"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "d6e8b760ac6e4bc7",
-    "code": "202603173673504860",
-    "title": "伊朗称“未来数小时内”将打击美在中东产业",
-    "summary": "【伊朗称“未来数小时内”将打击美在中东产业】据伊朗媒体16日报道，伊朗伊斯兰革命卫队称，将在“未来数小时内”打击美国在中东地区的产业，并建议相关区域人员撤离。",
-    "content": "【伊朗称“未来数小时内”将打击美在中东产业】据伊朗媒体16日报道，伊朗伊斯兰革命卫队称，将在“未来数小时内”打击美国在中东地区的产业，并建议相关区域人员撤离。",
-    "full_content": "【伊朗称“未来数小时内”将打击美在中东产业】据伊朗媒体16日报道，伊朗伊斯兰革命卫队称，将在“未来数小时内”打击美国在中东地区的产业，并建议相关区域人员撤离。",
-    "sort_time": "1773677545004860",
-    "showTime": "2026-03-17 00:12:25",
-    "time": "2026-03-17 00:12:25",
-    "publish_time": "2026-03-17 00:12:25",
-    "raw_data": {
-      "code": "202603173673504860",
-      "image": [],
-      "pinglun_Num": 47,
-      "realSort": "1773677545004860",
-      "share": 25,
-      "showTime": "2026-03-17 00:12:25",
-      "stockList": [],
-      "summary": "【伊朗称“未来数小时内”将打击美在中东产业】据伊朗媒体16日报道，伊朗伊斯兰革命卫队称，将在“未来数小时内”打击美国在中东地区的产业，并建议相关区域人员撤离。",
-      "title": "伊朗称“未来数小时内”将打击美在中东产业",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603173673504860.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 47,
-    "share_count": 25,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "cc6e55715d3c2b96",
-    "code": "202603173673498261",
-    "title": "越共中央总书记苏林会见王毅一行",
-    "summary": "【越共中央总书记苏林会见王毅一行】当地时间2026年3月16日，越南共产党中央总书记苏林在河内会见出席中越外交、国防、公安“3+3”战略对话机制首次部长级会议的外交部长王毅、公安部长王小洪、国防部长董军。",
-    "content": "【越共中央总书记苏林会见王毅一行】当地时间2026年3月16日，越南共产党中央总书记苏林在河内会见出席中越外交、国防、公安“3+3”战略对话机制首次部长级会议的外交部长王毅、公安部长王小洪、国防部长董军。",
-    "full_content": "【越共中央总书记苏林会见王毅一行】当地时间2026年3月16日，越南共产党中央总书记苏林在河内会见出席中越外交、国防、公安“3+3”战略对话机制首次部长级会议的外交部长王毅、公安部长王小洪、国防部长董军。",
-    "sort_time": "1773676860098261",
-    "showTime": "2026-03-17 00:01:00",
-    "time": "2026-03-17 00:01:00",
-    "publish_time": "2026-03-17 00:01:00",
-    "raw_data": {
-      "code": "202603173673498261",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1773676860098261",
-      "share": 1,
-      "showTime": "2026-03-17 00:01:00",
-      "stockList": [],
-      "summary": "【越共中央总书记苏林会见王毅一行】当地时间2026年3月16日，越南共产党中央总书记苏林在河内会见出席中越外交、国防、公安“3+3”战略对话机制首次部长级会议的外交部长王毅、公安部长王小洪、国防部长董军。",
-      "title": "越共中央总书记苏林会见王毅一行",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603173673498261.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "45f0a17f0e40c974",
-    "code": "202603163673497192",
-    "title": "伦敦金属交易所表示 电子交易市场目前无法使用",
-    "summary": "【伦敦金属交易所表示 电子交易市场目前无法使用】伦敦金属交易所表示，电子交易市场目前无法使用；所内交易仍正常进行。电子交易市场目前处于技术性暂停状态；交易所计划在第二次尝试时恢复交易。",
-    "content": "【伦敦金属交易所表示 电子交易市场目前无法使用】伦敦金属交易所表示，电子交易市场目前无法使用；所内交易仍正常进行。电子交易市场目前处于技术性暂停状态；交易所计划在第二次尝试时恢复交易。",
-    "full_content": "【伦敦金属交易所表示 电子交易市场目前无法使用】伦敦金属交易所表示，电子交易市场目前无法使用；所内交易仍正常进行。电子交易市场目前处于技术性暂停状态；交易所计划在第二次尝试时恢复交易。",
-    "sort_time": "1773676662097192",
-    "showTime": "2026-03-16 23:57:42",
-    "time": "2026-03-16 23:57:42",
-    "publish_time": "2026-03-16 23:57:42",
-    "raw_data": {
-      "code": "202603163673497192",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1773676662097192",
-      "share": 5,
-      "showTime": "2026-03-16 23:57:42",
-      "stockList": [
-        "90.BK1201",
-        "1007.BK000053"
-      ],
-      "summary": "【伦敦金属交易所表示 电子交易市场目前无法使用】伦敦金属交易所表示，电子交易市场目前无法使用；所内交易仍正常进行。电子交易市场目前处于技术性暂停状态；交易所计划在第二次尝试时恢复交易。",
-      "title": "伦敦金属交易所表示 电子交易市场目前无法使用",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673497192.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1201",
-      "1007.BK000053"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "98fdd20ee1f9ef52",
-    "code": "202603163673496831",
-    "title": "美豆油日内大跌5%",
-    "summary": "美豆油日内大跌5%，现报64.1美分/磅。",
-    "content": "美豆油日内大跌5%，现报64.1美分/磅。",
-    "full_content": "美豆油日内大跌5%，现报64.1美分/磅。",
-    "sort_time": "1773676662096831",
-    "showTime": "2026-03-16 23:57:42",
-    "time": "2026-03-16 23:57:42",
-    "publish_time": "2026-03-16 23:57:42",
-    "raw_data": {
-      "code": "202603163673496831",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1773676662096831",
-      "share": 0,
-      "showTime": "2026-03-16 23:57:42",
-      "stockList": [],
-      "summary": "美豆油日内大跌5%，现报64.1美分/磅。",
-      "title": "美豆油日内大跌5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673496831.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6391d7835a83b6f0",
-    "code": "202603163673496583",
-    "title": "伦敦可可期货上涨3%",
-    "summary": "伦敦可可期货上涨3%，至每吨2484英镑。",
-    "content": "伦敦可可期货上涨3%，至每吨2484英镑。",
-    "full_content": "伦敦可可期货上涨3%，至每吨2484英镑。",
-    "sort_time": "1773676662096583",
-    "showTime": "2026-03-16 23:57:42",
-    "time": "2026-03-16 23:57:42",
-    "publish_time": "2026-03-16 23:57:42",
-    "raw_data": {
-      "code": "202603163673496583",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1773676662096583",
-      "share": 0,
-      "showTime": "2026-03-16 23:57:42",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "伦敦可可期货上涨3%，至每吨2484英镑。",
-      "title": "伦敦可可期货上涨3%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673496583.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "829da6d0d61d36fc",
-    "code": "202603163673496039",
-    "title": "摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元",
-    "summary": "【摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元】摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元，维持埃森哲股票“增持”评级。",
-    "content": "【摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元】摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元，维持埃森哲股票“增持”评级。",
-    "full_content": "【摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元】摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元，维持埃森哲股票“增持”评级。",
-    "sort_time": "1773676634096039",
-    "showTime": "2026-03-16 23:57:14",
-    "time": "2026-03-16 23:57:14",
-    "publish_time": "2026-03-16 23:57:14",
-    "raw_data": {
-      "code": "202603163673496039",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1773676634096039",
-      "share": 0,
-      "showTime": "2026-03-16 23:57:14",
-      "stockList": [
-        "106.ACN"
-      ],
-      "summary": "【摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元】摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元，维持埃森哲股票“增持”评级。",
-      "title": "摩根士丹利将埃森哲（Accenture）的目标股价从每股320美元下调至240美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673496039.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.ACN"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e5395a9c01e9dc1b",
-    "code": "202603163673493276",
-    "title": "中美在法国巴黎举行经贸磋商",
-    "summary": "【中美在法国巴黎举行经贸磋商】当地时间3月15日－16日，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔在法国巴黎举行经贸磋商。双方以中美两国元首重要共识为引领，围绕关税安排、促进双边贸易投资、维护已有磋商共识等彼此关心的经贸议题，进行了坦诚、深入、建设性的交流磋商，形成了一些新的共识，并将继续保持磋商。",
-    "content": "【中美在法国巴黎举行经贸磋商】当地时间3月15日－16日，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔在法国巴黎举行经贸磋商。双方以中美两国元首重要共识为引领，围绕关税安排、促进双边贸易投资、维护已有磋商共识等彼此关心的经贸议题，进行了坦诚、深入、建设性的交流磋商，形成了一些新的共识，并将继续保持磋商。",
-    "full_content": "【中美在法国巴黎举行经贸磋商】当地时间3月15日－16日，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔在法国巴黎举行经贸磋商。双方以中美两国元首重要共识为引领，围绕关税安排、促进双边贸易投资、维护已有磋商共识等彼此关心的经贸议题，进行了坦诚、深入、建设性的交流磋商，形成了一些新的共识，并将继续保持磋商。",
-    "sort_time": "1773675762093276",
-    "showTime": "2026-03-16 23:42:42",
-    "time": "2026-03-16 23:42:42",
-    "publish_time": "2026-03-16 23:42:42",
-    "raw_data": {
-      "code": "202603163673493276",
-      "image": [],
-      "pinglun_Num": 87,
-      "realSort": "1773675762093276",
-      "share": 240,
-      "showTime": "2026-03-16 23:42:42",
-      "stockList": [],
-      "summary": "【中美在法国巴黎举行经贸磋商】当地时间3月15日－16日，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔在法国巴黎举行经贸磋商。双方以中美两国元首重要共识为引领，围绕关税安排、促进双边贸易投资、维护已有磋商共识等彼此关心的经贸议题，进行了坦诚、深入、建设性的交流磋商，形成了一些新的共识，并将继续保持磋商。",
-      "title": "中美在法国巴黎举行经贸磋商",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673493276.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 87,
-    "share_count": 240,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "07c11a2cf7993360",
-    "code": "202603163673492358",
-    "title": "大量油轮涌向沙特红海港口装运原油 绕开霍尔木兹海峡",
-    "summary": "【大量油轮涌向沙特红海港口装运原油 绕开霍尔木兹海峡】随着重要航道霍尔木兹海峡实际上对航运关闭，沙特阿拉伯正加紧通过绕行路线出口原油，目前大量油轮正守候在沙特红海关键港口准备装运原油。数据显示，周一，至少有27艘油轮停泊在延布港两处原油出口设施附近。这一数字高于上周五的11艘。沙特正在快速提高延布港的装运规模，该港实际上已成为这个全球最大石油出口国向世界各地客户输送原油的唯一通道。自20世纪80年代建成以来，利雅得一直在稳步扩大这条绕开霍尔木兹海峡的输油管道运力。冲突爆发后，沙特原油出口开始改道，该国曾表示目标是通过这条替代通道每天出口多达500万桶原油。沙特能多快实现这一目标，已成为全球石油市场的一个关键变量。尽管运量仍在逐步上升，但目前仍远低于这一目标。",
-    "content": "【大量油轮涌向沙特红海港口装运原油 绕开霍尔木兹海峡】随着重要航道霍尔木兹海峡实际上对航运关闭，沙特阿拉伯正加紧通过绕行路线出口原油，目前大量油轮正守候在沙特红海关键港口准备装运原油。数据显示，周一，至少有27艘油轮停泊在延布港两处原油出口设施附近。这一数字高于上周五的11艘。沙特正在快速提高延布港的装运规模，该港实际上已成为这个全球最大石油出口国向世界各地客户输送原油的唯一通道。自20世纪80年代建成以来，利雅得一直在稳步扩大这条绕开霍尔木兹海峡的输油管道运力。冲突爆发后，沙特原油出口开始改道，该国曾表示目标是通过这条替代通道每天出口多达500万桶原油。沙特能多快实现这一目标，已成为全球石油市场的一个关键变量。尽管运量仍在逐步上升，但目前仍远低于这一目标。",
-    "full_content": "【大量油轮涌向沙特红海港口装运原油 绕开霍尔木兹海峡】随着重要航道霍尔木兹海峡实际上对航运关闭，沙特阿拉伯正加紧通过绕行路线出口原油，目前大量油轮正守候在沙特红海关键港口准备装运原油。数据显示，周一，至少有27艘油轮停泊在延布港两处原油出口设施附近。这一数字高于上周五的11艘。沙特正在快速提高延布港的装运规模，该港实际上已成为这个全球最大石油出口国向世界各地客户输送原油的唯一通道。自20世纪80年代建成以来，利雅得一直在稳步扩大这条绕开霍尔木兹海峡的输油管道运力。冲突爆发后，沙特原油出口开始改道，该国曾表示目标是通过这条替代通道每天出口多达500万桶原油。沙特能多快实现这一目标，已成为全球石油市场的一个关键变量。尽管运量仍在逐步上升，但目前仍远低于这一目标。",
-    "sort_time": "1773675670092358",
-    "showTime": "2026-03-16 23:41:10",
-    "time": "2026-03-16 23:41:10",
-    "publish_time": "2026-03-16 23:41:10",
-    "raw_data": {
-      "code": "202603163673492358",
-      "image": [],
-      "pinglun_Num": 34,
-      "realSort": "1773675670092358",
-      "share": 38,
-      "showTime": "2026-03-16 23:41:10",
-      "stockList": [
-        "90.BK1481"
-      ],
-      "summary": "【大量油轮涌向沙特红海港口装运原油 绕开霍尔木兹海峡】随着重要航道霍尔木兹海峡实际上对航运关闭，沙特阿拉伯正加紧通过绕行路线出口原油，目前大量油轮正守候在沙特红海关键港口准备装运原油。数据显示，周一，至少有27艘油轮停泊在延布港两处原油出口设施附近。这一数字高于上周五的11艘。沙特正在快速提高延布港的装运规模，该港实际上已成为这个全球最大石油出口国向世界各地客户输送原油的唯一通道。自20世纪80年代建成以来，利雅得一直在稳步扩大这条绕开霍尔木兹海峡的输油管道运力。冲突爆发后，沙特原油出口开始改道，该国曾表示目标是通过这条替代通道每天出口多达500万桶原油。沙特能多快实现这一目标，已成为全球石油市场的一个关键变量。尽管运量仍在逐步上升，但目前仍远低于这一目标。",
-      "title": "大量油轮涌向沙特红海港口装运原油 绕开霍尔木兹海峡",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673492358.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1481"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 34,
-    "share_count": 38,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "306c4707513eedc0",
-    "code": "202603163673489748",
-    "title": "申通快递：拟募资不超过30亿元用于智慧物流设备升级项目等",
-    "summary": "【申通快递：拟募资不超过30亿元用于智慧物流设备升级项目等】申通快递(002468.SZ)公告称，本次向不特定对象发行可转债拟募集资金总额不超过人民币30亿元（含本数），扣除发行费用后，将全部投资于智慧物流设备升级项目和干线运力网络提升项目。",
-    "content": "【申通快递：拟募资不超过30亿元用于智慧物流设备升级项目等】申通快递(002468.SZ)公告称，本次向不特定对象发行可转债拟募集资金总额不超过人民币30亿元（含本数），扣除发行费用后，将全部投资于智慧物流设备升级项目和干线运力网络提升项目。",
-    "full_content": "【申通快递：拟募资不超过30亿元用于智慧物流设备升级项目等】申通快递(002468.SZ)公告称，本次向不特定对象发行可转债拟募集资金总额不超过人民币30亿元（含本数），扣除发行费用后，将全部投资于智慧物流设备升级项目和干线运力网络提升项目。",
-    "sort_time": "1773675437089748",
-    "showTime": "2026-03-16 23:37:17",
-    "time": "2026-03-16 23:37:17",
-    "publish_time": "2026-03-16 23:37:17",
-    "raw_data": {
-      "code": "202603163673489748",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1773675437089748",
-      "share": 2,
-      "showTime": "2026-03-16 23:37:17",
-      "stockList": [],
-      "summary": "【申通快递：拟募资不超过30亿元用于智慧物流设备升级项目等】申通快递(002468.SZ)公告称，本次向不特定对象发行可转债拟募集资金总额不超过人民币30亿元（含本数），扣除发行费用后，将全部投资于智慧物流设备升级项目和干线运力网络提升项目。",
-      "title": "申通快递：拟募资不超过30亿元用于智慧物流设备升级项目等",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673489748.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b6155a839c49dc74",
-    "code": "202603163673487982",
-    "title": "渣打银行将2026年布伦特原油价格预测上调至每桶85.50美元",
-    "summary": "渣打银行将2026年布伦特原油价格预测上调至每桶85.50美元，将2027年的预测上调至每桶77.50美元。",
-    "content": "渣打银行将2026年布伦特原油价格预测上调至每桶85.50美元，将2027年的预测上调至每桶77.50美元。",
-    "full_content": "渣打银行将2026年布伦特原油价格预测上调至每桶85.50美元，将2027年的预测上调至每桶77.50美元。",
-    "sort_time": "1773675269087982",
-    "showTime": "2026-03-16 23:34:29",
-    "time": "2026-03-16 23:34:29",
-    "publish_time": "2026-03-16 23:34:29",
-    "raw_data": {
-      "code": "202603163673487982",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1773675269087982",
-      "share": 1,
-      "showTime": "2026-03-16 23:34:29",
-      "stockList": [
-        "90.BK1283",
-        "0.161121"
-      ],
-      "summary": "渣打银行将2026年布伦特原油价格预测上调至每桶85.50美元，将2027年的预测上调至每桶77.50美元。",
-      "title": "渣打银行将2026年布伦特原油价格预测上调至每桶85.50美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673487982.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1283",
-      "0.161121"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402",
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "a41c132fd1ed1695",
-    "code": "202603163673487216",
-    "title": "几内亚将收紧铝土矿供应规则 以遏制价格大跌",
-    "summary": "报道称，几内亚将收紧铝土矿供应规则，以遏制价格大跌。",
-    "content": "报道称，几内亚将收紧铝土矿供应规则，以遏制价格大跌。",
-    "full_content": "报道称，几内亚将收紧铝土矿供应规则，以遏制价格大跌。",
-    "sort_time": "1773675156087216",
-    "showTime": "2026-03-16 23:32:36",
-    "time": "2026-03-16 23:32:36",
-    "publish_time": "2026-03-16 23:32:36",
-    "raw_data": {
-      "code": "202603163673487216",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1773675156087216",
-      "share": 8,
-      "showTime": "2026-03-16 23:32:36",
-      "stockList": [],
-      "summary": "报道称，几内亚将收紧铝土矿供应规则，以遏制价格大跌。",
-      "title": "几内亚将收紧铝土矿供应规则 以遏制价格大跌",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673487216.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C501",
-          "name": "有色金属",
-          "matched_keyword": "铝"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "284d6246d557db2a",
-    "code": "202603163673484723",
-    "title": "拉里贾尼呼吁伊斯兰国家考虑选边站队",
-    "summary": "【拉里贾尼呼吁伊斯兰国家考虑选边站队】伊朗最高国家安全委员会秘书阿里·拉里贾尼当地时间16日晚间向外界发表“致全世界穆斯林和伊斯兰国家的信函”，表示伊朗遭遇了美国和以色列在谈判期间的“欺骗性攻击”，称此类攻击的目的是分裂伊朗，美以因此遭到了伊朗人民的坚决抵抗。",
-    "content": "【拉里贾尼呼吁伊斯兰国家考虑选边站队】伊朗最高国家安全委员会秘书阿里·拉里贾尼当地时间16日晚间向外界发表“致全世界穆斯林和伊斯兰国家的信函”，表示伊朗遭遇了美国和以色列在谈判期间的“欺骗性攻击”，称此类攻击的目的是分裂伊朗，美以因此遭到了伊朗人民的坚决抵抗。",
-    "full_content": "【拉里贾尼呼吁伊斯兰国家考虑选边站队】伊朗最高国家安全委员会秘书阿里·拉里贾尼当地时间16日晚间向外界发表“致全世界穆斯林和伊斯兰国家的信函”，表示伊朗遭遇了美国和以色列在谈判期间的“欺骗性攻击”，称此类攻击的目的是分裂伊朗，美以因此遭到了伊朗人民的坚决抵抗。",
-    "sort_time": "1773674881084723",
-    "showTime": "2026-03-16 23:28:01",
-    "time": "2026-03-16 23:28:01",
-    "publish_time": "2026-03-16 23:28:01",
-    "raw_data": {
-      "code": "202603163673484723",
-      "image": [],
-      "pinglun_Num": 18,
-      "realSort": "1773674881084723",
-      "share": 6,
-      "showTime": "2026-03-16 23:28:01",
-      "stockList": [],
-      "summary": "【拉里贾尼呼吁伊斯兰国家考虑选边站队】伊朗最高国家安全委员会秘书阿里·拉里贾尼当地时间16日晚间向外界发表“致全世界穆斯林和伊斯兰国家的信函”，表示伊朗遭遇了美国和以色列在谈判期间的“欺骗性攻击”，称此类攻击的目的是分裂伊朗，美以因此遭到了伊朗人民的坚决抵抗。",
-      "title": "拉里贾尼呼吁伊斯兰国家考虑选边站队",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673484723.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 18,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ea3a6d1bd1361af5",
-    "code": "202603163673484275",
-    "title": "迪拜方面称 机场附近油罐火灾已被扑灭",
-    "summary": "迪拜方面称，机场附近油罐火灾已被扑灭。",
-    "content": "迪拜方面称，机场附近油罐火灾已被扑灭。",
-    "full_content": "迪拜方面称，机场附近油罐火灾已被扑灭。",
-    "sort_time": "1773674853084275",
-    "showTime": "2026-03-16 23:27:33",
-    "time": "2026-03-16 23:27:33",
-    "publish_time": "2026-03-16 23:27:33",
-    "raw_data": {
-      "code": "202603163673484275",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1773674853084275",
-      "share": 1,
-      "showTime": "2026-03-16 23:27:33",
-      "stockList": [
-        "90.BK1480"
-      ],
-      "summary": "迪拜方面称，机场附近油罐火灾已被扑灭。",
-      "title": "迪拜方面称 机场附近油罐火灾已被扑灭",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673484275.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1480"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3d115e92d6928543",
-    "code": "202603163673482730",
-    "title": "富途控股涨逾7%",
-    "summary": "中概股富途控股涨逾7%，2025年净利润同比增加101.9%。",
-    "content": "中概股富途控股涨逾7%，2025年净利润同比增加101.9%。",
-    "full_content": "中概股富途控股涨逾7%，2025年净利润同比增加101.9%。",
-    "sort_time": "1773674732082730",
-    "showTime": "2026-03-16 23:25:32",
-    "time": "2026-03-16 23:25:32",
-    "publish_time": "2026-03-16 23:25:32",
-    "raw_data": {
-      "code": "202603163673482730",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1773674732082730",
-      "share": 0,
-      "showTime": "2026-03-16 23:25:32",
-      "stockList": [
-        "105.FUTU"
-      ],
-      "summary": "中概股富途控股涨逾7%，2025年净利润同比增加101.9%。",
-      "title": "富途控股涨逾7%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673482730.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.FUTU"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "361a0c7396572d44",
-    "code": "202603163673482412",
-    "title": "阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机",
-    "summary": "【阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机】阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机，并有额外20架飞机的选择权。",
-    "content": "【阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机】阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机，并有额外20架飞机的选择权。",
-    "full_content": "【阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机】阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机，并有额外20架飞机的选择权。",
-    "sort_time": "1773674685082412",
-    "showTime": "2026-03-16 23:24:45",
-    "time": "2026-03-16 23:24:45",
-    "publish_time": "2026-03-16 23:24:45",
-    "raw_data": {
-      "code": "202603163673482412",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1773674685082412",
-      "share": 1,
-      "showTime": "2026-03-16 23:24:45",
-      "stockList": [],
-      "summary": "【阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机】阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机，并有额外20架飞机的选择权。",
-      "title": "阿特拉斯航空环球公司宣布确定订购20架空客A350F型货运飞机",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673482412.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "航空"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "1af01f034853b020",
-    "code": "202603163673481152",
-    "title": "伦敦金属交易所（LME）发言人表示 LME已意识到该问题",
-    "summary": "伦敦金属交易所（LME）发言人表示，LME已意识到该问题，并正在努力解决。此前，伦敦金属交易所铜、铝等主要合约暂停交易。",
-    "content": "伦敦金属交易所（LME）发言人表示，LME已意识到该问题，并正在努力解决。此前，伦敦金属交易所铜、铝等主要合约暂停交易。",
-    "full_content": "伦敦金属交易所（LME）发言人表示，LME已意识到该问题，并正在努力解决。此前，伦敦金属交易所铜、铝等主要合约暂停交易。",
-    "sort_time": "1773674545081152",
-    "showTime": "2026-03-16 23:22:25",
-    "time": "2026-03-16 23:22:25",
-    "publish_time": "2026-03-16 23:22:25",
-    "raw_data": {
-      "code": "202603163673481152",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1773674545081152",
-      "share": 10,
-      "showTime": "2026-03-16 23:22:25",
-      "stockList": [],
-      "summary": "伦敦金属交易所（LME）发言人表示，LME已意识到该问题，并正在努力解决。此前，伦敦金属交易所铜、铝等主要合约暂停交易。",
-      "title": "伦敦金属交易所（LME）发言人表示 LME已意识到该问题",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673481152.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 10,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C501",
-          "name": "有色金属",
-          "matched_keyword": "铝"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "9de9580a2b9c7cef",
-    "code": "202603163673480488",
-    "title": "北约表示将考虑加强土耳其空军基地的导弹防御能力",
-    "summary": "北约表示将考虑加强土耳其空军基地的导弹防御能力。",
-    "content": "北约表示将考虑加强土耳其空军基地的导弹防御能力。",
-    "full_content": "北约表示将考虑加强土耳其空军基地的导弹防御能力。",
-    "sort_time": "1773674519080488",
-    "showTime": "2026-03-16 23:21:59",
-    "time": "2026-03-16 23:21:59",
-    "publish_time": "2026-03-16 23:21:59",
-    "raw_data": {
-      "code": "202603163673480488",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1773674519080488",
-      "share": 1,
-      "showTime": "2026-03-16 23:21:59",
-      "stockList": [],
-      "summary": "北约表示将考虑加强土耳其空军基地的导弹防御能力。",
-      "title": "北约表示将考虑加强土耳其空军基地的导弹防御能力",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673480488.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "7b297b7049abb290",
-    "code": "202603163673480620",
-    "title": "申通快递：子公司拟2.8亿元收购揭阳传云、成都传申100%股权",
-    "summary": "【申通快递：子公司拟2.8亿元收购揭阳传云、成都传申100%股权】申通快递(002468)3月16日公告，下属子公司上海达滕申科技有限公司（简称“达滕申”）拟以现金方式收购浙江菜鸟供应链管理有限公司（简称“浙江菜鸟”）所持有揭阳传云物联网技术有限公司（简称“揭阳传云”）和成都传申物联网技术有限公司（简称“成都传申”）的100%股权，本次交易对价为2.8亿元。交易对方为公司关联方，本次交易构成关联交易，但不构成重大资产重组。揭阳是快递重要产粮区之一，简阳亦是西南地区快递物流的关键节点，完善本地区的中转网络布局对于公司拓展当地市场规模具有重要的战略意义。本次收购标的揭阳传云和成都传申均在其所在地运营着高度定制化的仓储物流中心，占地面积分别约为150亩和130亩，具有一定的地区资源稀缺性。",
-    "content": "【申通快递：子公司拟2.8亿元收购揭阳传云、成都传申100%股权】申通快递(002468)3月16日公告，下属子公司上海达滕申科技有限公司（简称“达滕申”）拟以现金方式收购浙江菜鸟供应链管理有限公司（简称“浙江菜鸟”）所持有揭阳传云物联网技术有限公司（简称“揭阳传云”）和成都传申物联网技术有限公司（简称“成都传申”）的100%股权，本次交易对价为2.8亿元。交易对方为公司关联方，本次交易构成关联交易，但不构成重大资产重组。揭阳是快递重要产粮区之一，简阳亦是西南地区快递物流的关键节点，完善本地区的中转网络布局对于公司拓展当地市场规模具有重要的战略意义。本次收购标的揭阳传云和成都传申均在其所在地运营着高度定制化的仓储物流中心，占地面积分别约为150亩和130亩，具有一定的地区资源稀缺性。",
-    "full_content": "【申通快递：子公司拟2.8亿元收购揭阳传云、成都传申100%股权】申通快递(002468)3月16日公告，下属子公司上海达滕申科技有限公司（简称“达滕申”）拟以现金方式收购浙江菜鸟供应链管理有限公司（简称“浙江菜鸟”）所持有揭阳传云物联网技术有限公司（简称“揭阳传云”）和成都传申物联网技术有限公司（简称“成都传申”）的100%股权，本次交易对价为2.8亿元。交易对方为公司关联方，本次交易构成关联交易，但不构成重大资产重组。揭阳是快递重要产粮区之一，简阳亦是西南地区快递物流的关键节点，完善本地区的中转网络布局对于公司拓展当地市场规模具有重要的战略意义。本次收购标的揭阳传云和成都传申均在其所在地运营着高度定制化的仓储物流中心，占地面积分别约为150亩和130亩，具有一定的地区资源稀缺性。",
-    "sort_time": "1773674468080620",
-    "showTime": "2026-03-16 23:21:08",
-    "time": "2026-03-16 23:21:08",
-    "publish_time": "2026-03-16 23:21:08",
-    "raw_data": {
-      "code": "202603163673480620",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1773674468080620",
-      "share": 2,
-      "showTime": "2026-03-16 23:21:08",
-      "stockList": [],
-      "summary": "【申通快递：子公司拟2.8亿元收购揭阳传云、成都传申100%股权】申通快递(002468)3月16日公告，下属子公司上海达滕申科技有限公司（简称“达滕申”）拟以现金方式收购浙江菜鸟供应链管理有限公司（简称“浙江菜鸟”）所持有揭阳传云物联网技术有限公司（简称“揭阳传云”）和成都传申物联网技术有限公司（简称“成都传申”）的100%股权，本次交易对价为2.8亿元。交易对方为公司关联方，本次交易构成关联交易，但不构成重大资产重组。揭阳是快递重要产粮区之一，简阳亦是西南地区快递物流的关键节点，完善本地区的中转网络布局对于公司拓展当地市场规模具有重要的战略意义。本次收购标的揭阳传云和成都传申均在其所在地运营着高度定制化的仓储物流中心，占地面积分别约为150亩和130亩，具有一定的地区资源稀缺性。",
-      "title": "申通快递：子公司拟2.8亿元收购揭阳传云、成都传申100%股权",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673480620.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C007",
-          "name": "物联网",
-          "matched_keyword": "物联网"
-        },
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "供应链"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C007",
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "f5e06a32af38c350",
-    "code": "202603163673472842",
-    "title": "海关总署牵头部署开展2026年跨境贸易便利化专项行动",
-    "summary": "【海关总署牵头部署开展2026年跨境贸易便利化专项行动】海关总署会同中央网信办、外交部、国家发展改革委、工业和信息化部、公安部、财政部、交通运输部、商务部、市场监管总局等24个部门（单位），联合部署在45个城市集中开展2026年跨境贸易便利化专项行动，围绕优化升级货物贸易、大力发展服务贸易、创新发展数字贸易绿色贸易等重点任务，研究提出新一轮助力外贸提质增效的便利化政策措施，主要包括深化进出口通关监管模式创新、优化外贸新业态监管服务、提升跨境物流运输效能、加强数智口岸建设、推进标准规则互联互通、强化对企综合服务等29项举措。",
-    "content": "【海关总署牵头部署开展2026年跨境贸易便利化专项行动】海关总署会同中央网信办、外交部、国家发展改革委、工业和信息化部、公安部、财政部、交通运输部、商务部、市场监管总局等24个部门（单位），联合部署在45个城市集中开展2026年跨境贸易便利化专项行动，围绕优化升级货物贸易、大力发展服务贸易、创新发展数字贸易绿色贸易等重点任务，研究提出新一轮助力外贸提质增效的便利化政策措施，主要包括深化进出口通关监管模式创新、优化外贸新业态监管服务、提升跨境物流运输效能、加强数智口岸建设、推进标准规则互联互通、强化对企综合服务等29项举措。",
-    "full_content": "【海关总署牵头部署开展2026年跨境贸易便利化专项行动】海关总署会同中央网信办、外交部、国家发展改革委、工业和信息化部、公安部、财政部、交通运输部、商务部、市场监管总局等24个部门（单位），联合部署在45个城市集中开展2026年跨境贸易便利化专项行动，围绕优化升级货物贸易、大力发展服务贸易、创新发展数字贸易绿色贸易等重点任务，研究提出新一轮助力外贸提质增效的便利化政策措施，主要包括深化进出口通关监管模式创新、优化外贸新业态监管服务、提升跨境物流运输效能、加强数智口岸建设、推进标准规则互联互通、强化对企综合服务等29项举措。",
-    "sort_time": "1773673723072842",
-    "showTime": "2026-03-16 23:08:43",
-    "time": "2026-03-16 23:08:43",
-    "publish_time": "2026-03-16 23:08:43",
-    "raw_data": {
-      "code": "202603163673472842",
-      "image": [],
-      "pinglun_Num": 23,
-      "realSort": "1773673723072842",
-      "share": 7,
-      "showTime": "2026-03-16 23:08:43",
-      "stockList": [],
-      "summary": "【海关总署牵头部署开展2026年跨境贸易便利化专项行动】海关总署会同中央网信办、外交部、国家发展改革委、工业和信息化部、公安部、财政部、交通运输部、商务部、市场监管总局等24个部门（单位），联合部署在45个城市集中开展2026年跨境贸易便利化专项行动，围绕优化升级货物贸易、大力发展服务贸易、创新发展数字贸易绿色贸易等重点任务，研究提出新一轮助力外贸提质增效的便利化政策措施，主要包括深化进出口通关监管模式创新、优化外贸新业态监管服务、提升跨境物流运输效能、加强数智口岸建设、推进标准规则互联互通、强化对企综合服务等29项举措。",
-      "title": "海关总署牵头部署开展2026年跨境贸易便利化专项行动",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603163673472842.html",
-    "category": "政策",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 23,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C801",
-          "name": "跨境电商",
-          "matched_keyword": "外贸"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C801"
       ]
     }
   }
