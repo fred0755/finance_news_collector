@@ -1,14 +1,31 @@
-// ==================== 加载单日数据 ====================
+// ==================== 加载单日数据（带详细日志）====================
 async function loadDateData(dateStr) {
-    if (loadedDates.has(dateStr)) return null;
+    if (loadedDates.has(dateStr)) {
+        console.log(`⏭️ 跳过已加载的日期: ${dateStr}`);
+        return null;
+    }
+
+    const url = `/data/archive/${dateStr}.json?t=${Date.now()}`;
+    console.log(`🔍 尝试加载: ${url}`);
+
     try {
-        const response = await fetch(`/data/archive/${dateStr}.json?t=${Date.now()}`);
-        if (!response.ok) return null;
+        const response = await fetch(url);
+
+        if (!response.ok) {
+            if (response.status === 404) {
+                console.log(`📭 文件不存在 (404): ${dateStr}.json`);
+            } else {
+                console.log(`⚠️ 加载失败 (${response.status}): ${dateStr}.json`);
+            }
+            return null;
+        }
+
         const data = await response.json();
+        console.log(`✅ 加载成功: ${dateStr}.json, 共 ${data.length} 条新闻`);
         loadedDates.add(dateStr);
         return data;
     } catch (e) {
-        console.error(`加载 ${dateStr} 失败:`, e);
+        console.error(`❌ 加载异常: ${dateStr}.json`, e.message);
         return null;
     }
 }
@@ -16,10 +33,10 @@ async function loadDateData(dateStr) {
 // ==================== 加载所有未加载的历史数据（动态版）====================
 async function loadAllRemainingArchiveData() {
     const today = new Date();
-    const maxDaysToTry = 90; // 最多尝试90天
+    const maxDaysToTry = 90;
     let loadedCount = 0;
 
-    // 动态生成日期列表（从今天往前推）
+    // 动态生成日期列表
     const dateList = [];
     for (let i = 0; i < maxDaysToTry; i++) {
         const date = new Date(today);
@@ -28,9 +45,9 @@ async function loadAllRemainingArchiveData() {
     }
 
     console.log(`🔄 开始尝试加载最近 ${maxDaysToTry} 天的数据...`);
+    console.log('📅 将要尝试的日期:', dateList.slice(0, 10).join(', ') + '...'); // 只显示前10个
 
     for (const dateStr of dateList) {
-        // 如果已经加载过，跳过
         if (loadedDates.has(dateStr)) {
             continue;
         }
@@ -39,13 +56,13 @@ async function loadAllRemainingArchiveData() {
             showSearchLoading(`正在加载历史数据 (${dateStr})...`);
             const response = await fetch(`/data/archive/${dateStr}.json?t=${Date.now()}`);
 
-            // 文件不存在（404）静默跳过
             if (response.status === 404) {
+                // 404 静默跳过，不显示警告
                 continue;
             }
 
             if (!response.ok) {
-                console.log(`⚠️ 加载 ${dateStr} 失败 (${response.status})，跳过`);
+                console.log(`⚠️ 加载 ${dateStr} 失败 (${response.status})`);
                 continue;
             }
 
@@ -58,13 +75,11 @@ async function loadAllRemainingArchiveData() {
                 loadedCount++;
             }
         } catch (e) {
-            // 网络错误等，静默跳过，不中断
             console.log(`⚠️ 加载 ${dateStr} 异常:`, e.message);
         }
     }
 
     if (loadedCount > 0) {
-        // 按时间重新排序
         allNews = sortByTime(allNews);
         console.log(`✅ 全库搜索完成，新增 ${loadedCount} 天的数据`);
     } else {
