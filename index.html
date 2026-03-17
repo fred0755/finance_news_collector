@@ -92,6 +92,7 @@
             display: flex;
             align-items: center;
             box-shadow: 0 4px 10px rgba(0,0,0,0.02);
+            flex-wrap: wrap;
         }
 
         .search-bar input {
@@ -101,6 +102,7 @@
             font-size: 0.95rem;
             padding: 8px 0;
             background: transparent;
+            min-width: 150px;
         }
 
         .search-bar button {
@@ -112,6 +114,7 @@
             font-size: 0.9rem;
             cursor: pointer;
             transition: background 0.2s;
+            margin-left: 8px;
         }
 
         .search-bar button:hover {
@@ -123,6 +126,23 @@
             color: #6b7a8f;
             cursor: pointer;
             font-size: 1.2rem;
+        }
+
+        .search-all-label {
+            margin-left: 10px;
+            font-size: 0.85rem;
+            color: #2a4d6e;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+        .search-all-label input {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
         }
 
         .news-list {
@@ -348,6 +368,46 @@
             margin-bottom: 16px;
         }
 
+        /* 搜索加载提示 */
+        .search-loading {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,0.8);
+            color: white;
+            padding: 16px 24px;
+            border-radius: 40px;
+            font-size: 0.95rem;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            backdrop-filter: blur(4px);
+        }
+
+        .search-loading span {
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 640px) {
+            .search-bar {
+                padding: 12px 16px;
+            }
+            .search-all-label {
+                margin-left: 0;
+                width: 100%;
+                justify-content: flex-end;
+                margin-top: 8px;
+            }
+        }
+
         @media (max-width: 480px) {
             .news-card {
                 padding: 14px 16px;
@@ -396,11 +456,15 @@
             <button class="time-btn" data-range="3d">最近3天</button>
         </div>
 
-        <!-- 搜索栏 -->
+        <!-- 搜索栏 - 添加了全库搜索复选框 -->
         <div class="search-bar">
             <input type="text" id="search-input" placeholder="搜索新闻标题..." value="">
             <button id="search-btn">搜索</button>
             <span class="search-clear" id="clear-search" style="display: none;">✕</span>
+            <label class="search-all-label">
+                <input type="checkbox" id="search-all">
+                <span>🔍 搜索全部历史</span>
+            </label>
         </div>
 
         <div id="news-list" class="news-list">
@@ -464,13 +528,19 @@
         // 3. 此函数被 mergeNews 和 renderNews 调用，确保链接正确
         function getNewsUrl(item) {
             if (item && item.code) {
-                const constructedUrl = `https://finance.eastmoney.com/a/${item.code}.html`;
-                // 调试时可取消注释
-                // console.log('🔗 为新闻构造链接:', constructedUrl, '新闻标题:', item.title?.substring(0, 30));
-                return constructedUrl;
+                return `https://finance.eastmoney.com/a/${item.code}.html`;
             }
-            console.warn('⚠️ 新闻缺少 code 字段，使用默认首页', item);
             return 'https://finance.eastmoney.com/';
+        }
+
+        // ==================== 按时间排序 ====================
+        function sortByTime(newsArray) {
+            return newsArray.sort((a, b) => {
+                if (a.time === '未知时间' && b.time === '未知时间') return 0;
+                if (a.time === '未知时间') return 1;
+                if (b.time === '未知时间') return -1;
+                return b.time.localeCompare(a.time);
+            });
         }
 
         // ==================== 格式化时间显示 ====================
@@ -607,7 +677,6 @@
                 }
             });
 
-            // 按时间倒序排列
             return Array.from(newsMap.values()).sort((a, b) => (b.time || '').localeCompare(a.time || ''));
         }
 
@@ -644,6 +713,79 @@
                 const itemDate = new Date(item.time);
                 return itemDate >= cutoffTime;
             });
+        }
+
+        // ==================== 显示/隐藏搜索加载提示 ====================
+        function showSearchLoading(message) {
+            let loadingDiv = document.getElementById('search-loading');
+            if (!loadingDiv) {
+                loadingDiv = document.createElement('div');
+                loadingDiv.id = 'search-loading';
+                loadingDiv.className = 'search-loading';
+                document.body.appendChild(loadingDiv);
+            }
+            loadingDiv.innerHTML = `<span>⏳</span> ${message}`;
+            loadingDiv.style.display = 'flex';
+        }
+
+        function hideSearchLoading() {
+            const loadingDiv = document.getElementById('search-loading');
+            if (loadingDiv) {
+                loadingDiv.style.display = 'none';
+            }
+        }
+
+        // ==================== 加载所有未加载的历史数据 ====================
+        // 说明：从今天往前推，尝试加载归档文件，直到连续5天都失败则停止
+        async function loadAllRemainingArchiveData() {
+            const today = new Date();
+            const maxDaysToTry = 90; // 最多尝试加载90天
+            let consecutiveFailures = 0;
+            const maxConsecutiveFailures = 5; // 连续5天失败就停止
+
+            for (let i = 0; i < maxDaysToTry; i++) {
+                const date = new Date(today);
+                date.setDate(date.getDate() - i);
+                const dateStr = date.toISOString().split('T')[0];
+
+                // 如果已经加载过，跳过
+                if (loadedDates.has(dateStr)) {
+                    consecutiveFailures = 0; // 重置失败计数
+                    continue;
+                }
+
+                try {
+                    showSearchLoading(`正在加载历史数据 (${dateStr})...`);
+                    const response = await fetch(`/data/archive/${dateStr}.json?t=${Date.now()}`);
+
+                    if (!response.ok) {
+                        consecutiveFailures++;
+                        if (consecutiveFailures >= maxConsecutiveFailures) {
+                            console.log(`⏹️ 连续${maxConsecutiveFailures}天没有数据，停止加载`);
+                            break;
+                        }
+                        continue;
+                    }
+
+                    const data = await response.json();
+                    if (data && data.length > 0) {
+                        console.log(`  ✅ 加载 ${dateStr} 成功: ${data.length} 条`);
+                        loadedDates.add(dateStr);
+                        const merged = mergeNews(data);
+                        allNews = mergeNews([...allNews, ...merged]);
+                        consecutiveFailures = 0; // 重置失败计数
+                    }
+                } catch (e) {
+                    console.error(`加载 ${dateStr} 失败:`, e);
+                    consecutiveFailures++;
+                    if (consecutiveFailures >= maxConsecutiveFailures) {
+                        break;
+                    }
+                }
+            }
+
+            // 按时间重新排序
+            allNews = sortByTime(allNews);
         }
 
         // ==================== 加载单日数据 ====================
@@ -850,14 +992,24 @@
             });
         }
 
-        // 应用所有过滤条件
+        // ==================== 应用所有过滤条件 ====================
         function applyFilters() {
+            // 如果正在搜索，显示提示
+            if (currentSearchTerm) {
+                document.getElementById('news-list').innerHTML = `
+                    <div class="loading">
+                        <span>🔍</span>
+                        正在搜索 "${currentSearchTerm}"...
+                    </div>
+                `;
+            }
+
             let filtered = filterByTimeRange(allNews, currentTimeRange);
             filtered = filterNews(filtered, currentSearchTerm);
             renderNews(filtered);
         }
 
-        // 改变时间范围
+        // ==================== 改变时间范围 ====================
         async function setTimeRange(range) {
             currentTimeRange = range;
 
@@ -876,22 +1028,40 @@
             await loadHistoricalData(range);
         }
 
-        // 搜索处理
-        function handleSearch() {
+        // ==================== 搜索处理 ====================
+        async function handleSearch() {
             const searchInput = document.getElementById('search-input');
             const term = searchInput.value.trim();
             currentSearchTerm = term;
+
+            const searchAll = document.getElementById('search-all')?.checked || false;
+
+            // 显示清除按钮
             document.getElementById('clear-search').style.display = term ? 'inline' : 'none';
+
+            if (searchAll && term) {
+                try {
+                    await loadAllRemainingArchiveData();
+                } catch (e) {
+                    console.error('全库搜索失败:', e);
+                } finally {
+                    hideSearchLoading();
+                }
+            }
+
             applyFilters();
         }
 
+        // ==================== 清除搜索 ====================
         function clearSearch() {
             document.getElementById('search-input').value = '';
             currentSearchTerm = '';
+            document.getElementById('search-all').checked = false;
             document.getElementById('clear-search').style.display = 'none';
             applyFilters();
         }
 
+        // ==================== HTML转义 ====================
         function escapeHtml(unsafe) {
             if (!unsafe) return '';
             return String(unsafe)
