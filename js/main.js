@@ -71,6 +71,7 @@ function renderNews(newsArray) {
 
 // ==================== 应用所有过滤条件 ====================
 function applyFilters() {
+    // 如果正在搜索，显示提示
     if (currentSearchTerm) {
         document.getElementById('news-list').innerHTML = `
             <div class="loading">
@@ -80,8 +81,15 @@ function applyFilters() {
         `;
     }
 
-    let filtered = filterByTimeRange(allNews, currentTimeRange);
-    filtered = filterNews(filtered, currentSearchTerm);
+    // 关键修改：如果有搜索词，就不按时间范围过滤
+    let filtered;
+    if (currentSearchTerm) {
+        filtered = filterNews(allNews, currentSearchTerm);
+    } else {
+        filtered = filterByTimeRange(allNews, currentTimeRange);
+        filtered = filterNews(filtered, currentSearchTerm);
+    }
+
     renderNews(filtered);
 }
 
@@ -124,7 +132,7 @@ async function handleSearch() {
         }
     }
 
-    applyFilters();
+    applyFilters(); // 直接调用，让 applyFilters 处理是否有搜索词的情况
 }
 
 // ==================== 清除搜索 ====================
