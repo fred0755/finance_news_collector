@@ -1,5 +1,215 @@
 [
   {
+    "id": "1e63f0c3505f2560",
+    "code": "202603183675014393",
+    "title": "Sofi跌幅扩大至5.5%",
+    "summary": "Sofi跌幅扩大至5.5%，浑水宣布做空。",
+    "content": "Sofi跌幅扩大至5.5%，浑水宣布做空。",
+    "full_content": "Sofi跌幅扩大至5.5%，浑水宣布做空。",
+    "sort_time": "1773772272014393",
+    "showTime": "2026-03-18 02:31:12",
+    "time": "2026-03-18 02:31:12",
+    "publish_time": "2026-03-18 02:31:12",
+    "raw_data": {
+      "code": "202603183675014393",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773772272014393",
+      "share": 0,
+      "showTime": "2026-03-18 02:31:12",
+      "stockList": [
+        "105.SOFI"
+      ],
+      "summary": "Sofi跌幅扩大至5.5%，浑水宣布做空。",
+      "title": "Sofi跌幅扩大至5.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603183675014393.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SOFI"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1defce73106f3c44",
+    "code": "202603183675012210",
+    "title": "英伟达下场“养虾” 全力押注万亿级AI推理时代",
+    "summary": "【英伟达下场“养虾” 全力押注万亿级AI推理时代】全球算力巨头英伟达正在从芯片巨头转型AI工厂，押注人工智能推理市场的机遇。在3月17日开幕的2026年度英伟达GTC大会（GPU技术大会）上，英伟达首席执行官黄仁勋大幅上调新一代AI芯片收入预期，剑指1万亿美元目标，并正式推出下一代硬件平台，以及发布支持“养虾”的软件栈等产品。",
+    "content": "【英伟达下场“养虾” 全力押注万亿级AI推理时代】全球算力巨头英伟达正在从芯片巨头转型AI工厂，押注人工智能推理市场的机遇。在3月17日开幕的2026年度英伟达GTC大会（GPU技术大会）上，英伟达首席执行官黄仁勋大幅上调新一代AI芯片收入预期，剑指1万亿美元目标，并正式推出下一代硬件平台，以及发布支持“养虾”的软件栈等产品。",
+    "full_content": "【英伟达下场“养虾” 全力押注万亿级AI推理时代】全球算力巨头英伟达正在从芯片巨头转型AI工厂，押注人工智能推理市场的机遇。在3月17日开幕的2026年度英伟达GTC大会（GPU技术大会）上，英伟达首席执行官黄仁勋大幅上调新一代AI芯片收入预期，剑指1万亿美元目标，并正式推出下一代硬件平台，以及发布支持“养虾”的软件栈等产品。",
+    "sort_time": "1773771599012210",
+    "showTime": "2026-03-18 02:19:59",
+    "time": "2026-03-18 02:19:59",
+    "publish_time": "2026-03-18 02:19:59",
+    "raw_data": {
+      "code": "202603183675012210",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773771599012210",
+      "share": 0,
+      "showTime": "2026-03-18 02:19:59",
+      "stockList": [
+        "90.BK1161",
+        "90.BK0800"
+      ],
+      "summary": "【英伟达下场“养虾” 全力押注万亿级AI推理时代】全球算力巨头英伟达正在从芯片巨头转型AI工厂，押注人工智能推理市场的机遇。在3月17日开幕的2026年度英伟达GTC大会（GPU技术大会）上，英伟达首席执行官黄仁勋大幅上调新一代AI芯片收入预期，剑指1万亿美元目标，并正式推出下一代硬件平台，以及发布支持“养虾”的软件栈等产品。",
+      "title": "英伟达下场“养虾” 全力押注万亿级AI推理时代",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603183675012210.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "GPU"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "16d1c99ba1acc52e",
+    "code": "202603183675013573",
+    "title": "LME期铜收跌80美元",
+    "summary": "LME期铜收跌80美元，报12775美元/吨。LME期铝收涨4美元，报3400美元/吨。LME期锌收跌42美元，报3228美元/吨。",
+    "content": "LME期铜收跌80美元，报12775美元/吨。LME期铝收涨4美元，报3400美元/吨。LME期锌收跌42美元，报3228美元/吨。",
+    "full_content": "LME期铜收跌80美元，报12775美元/吨。LME期铝收涨4美元，报3400美元/吨。LME期锌收跌42美元，报3228美元/吨。",
+    "sort_time": "1773770237013573",
+    "showTime": "2026-03-18 01:57:17",
+    "time": "2026-03-18 01:57:17",
+    "publish_time": "2026-03-18 01:57:17",
+    "raw_data": {
+      "code": "202603183675013573",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773770237013573",
+      "share": 0,
+      "showTime": "2026-03-18 01:57:17",
+      "stockList": [],
+      "summary": "LME期铜收跌80美元，报12775美元/吨。LME期铝收涨4美元，报3400美元/吨。LME期锌收跌42美元，报3228美元/吨。",
+      "title": "LME期铜收跌80美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603183675013573.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "锌"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "50692dda7faef835",
+    "code": "202603183675012027",
+    "title": "加密货币概念股走强",
+    "summary": "加密货币概念股走强，Circle涨超7%，上一交易日涨超9%；Coinbase涨近4%，Strategy、Robinhood涨超2%。",
+    "content": "加密货币概念股走强，Circle涨超7%，上一交易日涨超9%；Coinbase涨近4%，Strategy、Robinhood涨超2%。",
+    "full_content": "加密货币概念股走强，Circle涨超7%，上一交易日涨超9%；Coinbase涨近4%，Strategy、Robinhood涨超2%。",
+    "sort_time": "1773769818012027",
+    "showTime": "2026-03-18 01:50:18",
+    "time": "2026-03-18 01:50:18",
+    "publish_time": "2026-03-18 01:50:18",
+    "raw_data": {
+      "code": "202603183675012027",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773769818012027",
+      "share": 0,
+      "showTime": "2026-03-18 01:50:18",
+      "stockList": [
+        "106.CRCL",
+        "105.COIN"
+      ],
+      "summary": "加密货币概念股走强，Circle涨超7%，上一交易日涨超9%；Coinbase涨近4%，Strategy、Robinhood涨超2%。",
+      "title": "加密货币概念股走强",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603183675012027.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.CRCL",
+      "105.COIN"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "e0008011a9d5512a",
     "code": "202603183675009640",
     "title": "光通讯板块走势分化",
