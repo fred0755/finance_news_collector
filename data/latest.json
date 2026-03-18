@@ -1,5 +1,158 @@
 [
   {
+    "id": "409b3096a616c8dc",
+    "code": "202603193676439131",
+    "title": "标普500指数期货下跌0.3%",
+    "summary": "标普500指数期货下跌0.3%。",
+    "content": "标普500指数期货下跌0.3%。",
+    "full_content": "标普500指数期货下跌0.3%。",
+    "sort_time": "1773874049039131",
+    "showTime": "2026-03-19 06:47:29",
+    "time": "2026-03-19 06:47:29",
+    "publish_time": "2026-03-19 06:47:29",
+    "raw_data": {
+      "code": "202603193676439131",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773874049039131",
+      "share": 0,
+      "showTime": "2026-03-19 06:47:29",
+      "stockList": [],
+      "summary": "标普500指数期货下跌0.3%。",
+      "title": "标普500指数期货下跌0.3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603193676439131.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "91a23eaeac9ef3fe",
+    "code": "202603193676439056",
+    "title": "存储芯片涨价潮席卷产业链 新一轮成本考验已至",
+    "summary": "【存储芯片涨价潮席卷产业链 新一轮成本考验已至】阿里云、百度智能云等云厂商3月18日同步上调AI算力与存储产品价格，最高涨幅达34%。2025年下半年以来，全球存储芯片进入新一轮涨价周期，如今其连锁反应正持续发酵。近日，OPPO、vivo宣布手机涨价。据新华社3月18日报道，韩国三星电子或发生大规模罢工，这为本就紧张的存储产品供需再添压力。业内人士表示，2026年-2027年存储芯片价格将保持坚挺，全产业链正迎来新一轮成本考验。",
+    "content": "【存储芯片涨价潮席卷产业链 新一轮成本考验已至】阿里云、百度智能云等云厂商3月18日同步上调AI算力与存储产品价格，最高涨幅达34%。2025年下半年以来，全球存储芯片进入新一轮涨价周期，如今其连锁反应正持续发酵。近日，OPPO、vivo宣布手机涨价。据新华社3月18日报道，韩国三星电子或发生大规模罢工，这为本就紧张的存储产品供需再添压力。业内人士表示，2026年-2027年存储芯片价格将保持坚挺，全产业链正迎来新一轮成本考验。",
+    "full_content": "【存储芯片涨价潮席卷产业链 新一轮成本考验已至】阿里云、百度智能云等云厂商3月18日同步上调AI算力与存储产品价格，最高涨幅达34%。2025年下半年以来，全球存储芯片进入新一轮涨价周期，如今其连锁反应正持续发酵。近日，OPPO、vivo宣布手机涨价。据新华社3月18日报道，韩国三星电子或发生大规模罢工，这为本就紧张的存储产品供需再添压力。业内人士表示，2026年-2027年存储芯片价格将保持坚挺，全产业链正迎来新一轮成本考验。",
+    "sort_time": "1773873746039056",
+    "showTime": "2026-03-19 06:42:26",
+    "time": "2026-03-19 06:42:26",
+    "publish_time": "2026-03-19 06:42:26",
+    "raw_data": {
+      "code": "202603193676439056",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1773873746039056",
+      "share": 2,
+      "showTime": "2026-03-19 06:42:26",
+      "stockList": [
+        "90.BK0459",
+        "90.BK1137"
+      ],
+      "summary": "【存储芯片涨价潮席卷产业链 新一轮成本考验已至】阿里云、百度智能云等云厂商3月18日同步上调AI算力与存储产品价格，最高涨幅达34%。2025年下半年以来，全球存储芯片进入新一轮涨价周期，如今其连锁反应正持续发酵。近日，OPPO、vivo宣布手机涨价。据新华社3月18日报道，韩国三星电子或发生大规模罢工，这为本就紧张的存储产品供需再添压力。业内人士表示，2026年-2027年存储芯片价格将保持坚挺，全产业链正迎来新一轮成本考验。",
+      "title": "存储芯片涨价潮席卷产业链 新一轮成本考验已至",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603193676439056.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0459",
+      "90.BK1137"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "存储芯片"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "算力"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "500e54538d16f2ec",
+    "code": "202603193676438188",
+    "title": "美光科技美股盘后跌幅扩大至6%",
+    "summary": "美光科技美股盘后跌幅扩大至6%。",
+    "content": "美光科技美股盘后跌幅扩大至6%。",
+    "full_content": "美光科技美股盘后跌幅扩大至6%。",
+    "sort_time": "1773873555038188",
+    "showTime": "2026-03-19 06:39:15",
+    "time": "2026-03-19 06:39:15",
+    "publish_time": "2026-03-19 06:39:15",
+    "raw_data": {
+      "code": "202603193676438188",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1773873555038188",
+      "share": 4,
+      "showTime": "2026-03-19 06:39:15",
+      "stockList": [],
+      "summary": "美光科技美股盘后跌幅扩大至6%。",
+      "title": "美光科技美股盘后跌幅扩大至6%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603193676438188.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "608d4fe52430cf25",
     "code": "202603193676435175",
     "title": "现货白银向下跌破75美元/盎司 日内下跌0.5%",
@@ -17,9 +170,7 @@
       "realSort": "1773872439035175",
       "share": 0,
       "showTime": "2026-03-19 06:20:39",
-      "stockList": [
-        "90.BK1616"
-      ],
+      "stockList": [],
       "summary": "现货白银向下跌破75美元/盎司，日内下跌0.5%。",
       "title": "现货白银向下跌破75美元/盎司 日内下跌0.5%",
       "titleColor": 0
@@ -27,12 +178,10 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603193676435175.html",
     "category": "期货",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "bearish",
-    "related_stocks": [
-      "90.BK1616"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 0,
     "share_count": 0,
     "tags": {
@@ -58,7 +207,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1773872390035031",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-19 06:19:50",
       "stockList": [],
       "summary": "【周四（3月19日）重点关注财经事件和经济数据】① 待定 阿里巴巴公布财报；② 待定 日本央行公布利率决议；③ 02:00 美联储公布利率决议和经济预期摘要；④ 02:30 美联储主席鲍威尔召开新闻发布会；⑤ 08:30 澳大利亚2月季调后失业率；⑥ 09:00 中国2月Swift人民币在全球支付中占比；⑦ 14:30 日本央行行长植田和男召开新闻发布会；⑧ 15:00 瑞士2月贸易帐；⑨ 15:00 英国1月三个月ILO失业率；",
@@ -73,7 +222,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -113,9 +262,9 @@
     "raw_data": {
       "code": "202603193676434759",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1773872359034759",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-03-19 06:19:19",
       "stockList": [],
       "summary": "【伊朗南部一处司法机构遭袭 致14死50伤】伊朗南部法尔斯省拉雷斯坦县一处司法机构当地时间18日遭美国和以色列袭击，导致14人死亡、50人受伤。法尔斯省首席大法官表示，遇难者包括两名法官、两名工作人员和10名办事民众。",
@@ -129,8 +278,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -152,13 +301,11 @@
     "raw_data": {
       "code": "202603193676433974",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1773872155033974",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-19 06:15:55",
-      "stockList": [
-        "90.BK1361"
-      ],
+      "stockList": [],
       "summary": "WTI原油期货涨幅扩大至超3%，报98.45美元/桶。",
       "title": "WTI原油期货涨幅扩大至超3% 报98.45美元/桶",
       "titleColor": 0
@@ -166,14 +313,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603193676433974.html",
     "category": "期货",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -203,7 +348,7 @@
     "raw_data": {
       "code": "202603193676431290",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1773871891031290",
       "share": 0,
       "showTime": "2026-03-19 06:11:31",
@@ -219,7 +364,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -260,7 +405,7 @@
     "raw_data": {
       "code": "202603193676430918",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 6,
       "realSort": "1773871840030918",
       "share": 0,
       "showTime": "2026-03-19 06:10:40",
@@ -280,7 +425,7 @@
       "1007.BK000339"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -311,9 +456,9 @@
     "raw_data": {
       "code": "202603193676427472",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1773871486027472",
-      "share": 6,
+      "share": 12,
       "showTime": "2026-03-19 06:04:46",
       "stockList": [
         "0.159945",
@@ -333,8 +478,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 6,
+    "comment_count": 3,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -364,9 +509,9 @@
     "raw_data": {
       "code": "202603193676421017",
       "image": [],
-      "pinglun_Num": 141,
+      "pinglun_Num": 188,
       "realSort": "1773870300021017",
-      "share": 123,
+      "share": 242,
       "showTime": "2026-03-19 05:45:00",
       "stockList": [
         "0.159945",
@@ -386,8 +531,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 141,
-    "share_count": 123,
+    "comment_count": 188,
+    "share_count": 242,
     "tags": {
       "industries": [],
       "concepts": [
@@ -497,7 +642,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1773869619020498",
-      "share": 9,
+      "share": 15,
       "showTime": "2026-03-19 05:33:39",
       "stockList": [
         "0.161631",
@@ -518,7 +663,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 9,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -540,14 +685,11 @@
     "raw_data": {
       "code": "202603193676418782",
       "image": [],
-      "pinglun_Num": 32,
+      "pinglun_Num": 39,
       "realSort": "1773868333018782",
-      "share": 22,
+      "share": 32,
       "showTime": "2026-03-19 05:12:13",
-      "stockList": [
-        "0.159945",
-        "150.014238"
-      ],
+      "stockList": [],
       "summary": "【伊朗发起“真实承诺4”第63轮行动 报复能源基础设施遭袭】伊朗伊斯兰革命卫队当地时间19日凌晨发表紧急声明，宣布已对地区内与美国相关的石油及能源设施发动大规模导弹袭击。此次行动是对18日早些时候伊朗能源基础设施遭袭的直接对等报复。声明指出，此次报复行动旨在打击“美国利益相关及拥有美方股份”的能源设施。",
       "title": "伊朗发起“真实承诺4”第63轮行动 报复能源基础设施遭袭",
       "titleColor": 0
@@ -555,15 +697,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603193676418782.html",
     "category": "其他",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "0.159945",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 32,
-    "share_count": 22,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 39,
+    "share_count": 32,
     "tags": {
       "industries": [],
       "concepts": [
@@ -593,9 +732,9 @@
     "raw_data": {
       "code": "202603193676418632",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1773868028018632",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-19 05:07:08",
       "stockList": [],
       "summary": "【国际油价18日微涨】国际油价18日微涨。截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格上涨11美分，收于每桶96.32美元，涨幅为0.11%；5月交货的伦敦布伦特原油期货价格上涨3.96美元，收于每桶107.38美元，涨幅为3.83%。",
@@ -609,8 +748,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 0,
+    "comment_count": 8,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -640,9 +779,9 @@
     "raw_data": {
       "code": "202603193676418451",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 32,
       "realSort": "1773867679018451",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-19 05:01:19",
       "stockList": [],
       "summary": "【卡塔尔宣布伊朗武官为“不受欢迎的人”】卡塔尔外交部当地时间18日宣布伊朗驻卡塔尔大使馆武官及相关工作人员为“不受欢迎的人”，并要求其在24小时内离境。卡塔尔外交部表示，伊朗多次对卡塔尔实施袭击，损害卡方主权与安全，公然违反国际法原则和睦邻友好原则。",
@@ -656,8 +795,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 3,
+    "comment_count": 32,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -838,7 +977,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1773866713012285",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-03-19 04:45:13",
       "stockList": [],
       "summary": "【普京就拉里贾尼遇难向伊朗最高领袖表示哀悼】财联社3月19日电，俄罗斯总统普京当地时间18日就伊朗最高国家安全委员会秘书拉里贾尼遇难一事，向伊朗最高领袖穆杰塔巴·哈梅内伊表示哀悼。普京在信函中称，拉里贾尼是俄罗斯真正的朋友，是一位睿智且有远见的政治家，他曾与其多次会面。伊朗国家广播电视公司当日公布了普京的信函。",
@@ -853,7 +992,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 2,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -875,7 +1014,7 @@
     "raw_data": {
       "code": "202603193676406139",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1773865996006139",
       "share": 6,
       "showTime": "2026-03-19 04:33:16",
@@ -895,7 +1034,7 @@
       "90.BK1361"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -928,7 +1067,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1773865738005388",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-19 04:28:58",
       "stockList": [
         "90.BK1616",
@@ -949,7 +1088,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -979,9 +1118,9 @@
     "raw_data": {
       "code": "202603193676402053",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1773865198002053",
-      "share": 7,
+      "share": 13,
       "showTime": "2026-03-19 04:19:58",
       "stockList": [],
       "summary": "美光科技第二财季业绩经调整营收238.6亿美元，上年同期80.5亿美元，预估197.4亿美元；调整后每股收益12.20美元，上年同期1.56美元，预估9.00美元。",
@@ -995,8 +1134,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 7,
+    "comment_count": 8,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1020,7 +1159,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1773865150001794",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-19 04:19:10",
       "stockList": [],
       "summary": "【苏丹边境发生武装冲突 已致17人死亡】苏丹与乍得边境当地时间18日发生激烈武装冲突，已造成至少17人死亡、123人受伤。苏丹军方表示，此次冲突因苏丹快速支援部队扩大对苏丹边境蒂纳军事区的袭击引发，相关袭击已被军方击退。苏丹冲突双方自2023年4月以来持续交战，联合国数据显示冲突已造成超过4万人死亡。",
@@ -1035,7 +1174,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1100,7 +1239,7 @@
     "raw_data": {
       "code": "202603193676401537",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1773865103001537",
       "share": 2,
       "showTime": "2026-03-19 04:18:23",
@@ -1116,7 +1255,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 2,
     "tags": {
       "industries": [
@@ -1190,7 +1329,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1773865047004035",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-19 04:17:27",
       "stockList": [
         "90.BK0800",
@@ -1211,7 +1350,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -1263,9 +1402,9 @@
     "raw_data": {
       "code": "202603193676400913",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1773865018000913",
-      "share": 4,
+      "share": 7,
       "showTime": "2026-03-19 04:16:58",
       "stockList": [],
       "summary": "【美股三大指数集体收跌 均跌超1%】美股三大指数集体收跌，道指跌1.64%，纳指跌1.46%，标普500指数跌1.36%。黄金矿业股走低，哈莫尼黄金跌超8%，科尔黛伦矿业跌超8%，金罗斯黄金跌超6%。光通信板块大涨，Lumentum涨超7%，Coherent涨超4%；芯片股上涨，闪迪涨超4%，英特尔涨超2%，AMD 涨超1%。",
@@ -1279,8 +1418,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 4,
+    "comment_count": 4,
+    "share_count": 7,
     "tags": {
       "industries": [
         {
@@ -1332,7 +1471,7 @@
     "raw_data": {
       "code": "202603193676403741",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1773864949003741",
       "share": 1,
       "showTime": "2026-03-19 04:15:49",
@@ -1348,7 +1487,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1371,9 +1510,9 @@
     "raw_data": {
       "code": "202603193676400565",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 7,
       "realSort": "1773864927000565",
-      "share": 9,
+      "share": 10,
       "showTime": "2026-03-19 04:15:27",
       "stockList": [
         "105.MU"
@@ -1391,8 +1530,8 @@
       "105.MU"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 9,
+    "comment_count": 7,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1498,7 +1637,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1773862442000169",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-19 03:34:02",
       "stockList": [],
       "summary": "【鲍威尔称已做好美联储主席任期结束后“临时留任”的准备】美国联邦储备委员会18日结束为期两天的货币政策会议，宣布将联邦基金利率目标区间维持在3.5%至3.75%之间不变。美联储主席鲍威尔表示，从去年9月至12月，美联储将政策利率下调了0.75个百分点，使其回落至中性利率预估区间的合理范围内。",
@@ -1513,7 +1652,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [
         {
@@ -1592,9 +1731,9 @@
     "raw_data": {
       "code": "202603193676399984",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 17,
       "realSort": "1773862365099984",
-      "share": 3,
+      "share": 6,
       "showTime": "2026-03-19 03:32:45",
       "stockList": [],
       "summary": "【沙特首都利雅得遭弹道导弹袭击】沙特阿拉伯国防部发布消息说，该国首都利雅得当晚遭到弹道导弹袭击，防空系统拦截并摧毁4枚弹道导弹。当晚稍早时候，利雅得多次传出巨大爆炸声，当地居民收到经由手机程序发布的防空警报。据悉，这是美国和以色列2月28日对伊朗联合发起军事行动以来，利雅得市区首次大范围通过手机程序发布防空警报。",
@@ -1608,8 +1747,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 3,
+    "comment_count": 17,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1702,7 +1841,7 @@
       "image": [],
       "pinglun_Num": 7,
       "realSort": "1773861922099324",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-03-19 03:25:22",
       "stockList": [
         "90.BK0922",
@@ -1723,7 +1862,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 7,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1896,9 +2035,9 @@
     "raw_data": {
       "code": "202603193676398770",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1773861238098770",
-      "share": 10,
+      "share": 12,
       "showTime": "2026-03-19 03:13:58",
       "stockList": [],
       "summary": "【伊朗警告数小时后 卡塔尔拉斯拉凡工业城遭导弹袭击】卡塔尔能源公司当地时间18日发表声明称，卡塔尔拉斯拉凡工业城当晚遭遇导弹袭击。",
@@ -1912,8 +2051,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 10,
+    "comment_count": 11,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1980,9 +2119,9 @@
     "raw_data": {
       "code": "202603193676398525",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 16,
       "realSort": "1773860836098525",
-      "share": 9,
+      "share": 10,
       "showTime": "2026-03-19 03:07:16",
       "stockList": [],
       "summary": "【伊朗打击利雅得炼油厂美方专属区域 引发大火】伊朗方面当地时间18日消息称，伊朗成功打击位于沙特首都利雅得郊区的利雅得油气联合炼油厂美方专属区域。声明表示，袭击引发大火，造成重大财产损失，但未造成人员伤亡。目前，民防部门已将火势控制。当天早些时候，伊朗伊斯兰革命卫队发出紧急警告。",
@@ -1996,8 +2135,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 9,
+    "comment_count": 16,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2027,7 +2166,7 @@
     "raw_data": {
       "code": "202603193676398418",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1773860787098418",
       "share": 0,
       "showTime": "2026-03-19 03:06:27",
@@ -2043,7 +2182,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -2183,7 +2322,7 @@
     "raw_data": {
       "code": "202603193676398086",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1773860501098086",
       "share": 7,
       "showTime": "2026-03-19 03:01:41",
@@ -2199,135 +2338,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4e881559fe14a7f2",
-    "code": "202603193676397862",
-    "title": "美联储主席鲍威尔表示 劳动力市场确实呈现出存在下行风险的迹象",
-    "summary": "美联储主席鲍威尔表示，劳动力市场确实呈现出存在下行风险的迹象；这次能源供应冲击是一次性的。",
-    "content": "美联储主席鲍威尔表示，劳动力市场确实呈现出存在下行风险的迹象；这次能源供应冲击是一次性的。",
-    "full_content": "美联储主席鲍威尔表示，劳动力市场确实呈现出存在下行风险的迹象；这次能源供应冲击是一次性的。",
-    "sort_time": "1773860323097862",
-    "showTime": "2026-03-19 02:58:43",
-    "time": "2026-03-19 02:58:43",
-    "publish_time": "2026-03-19 02:58:43",
-    "raw_data": {
-      "code": "202603193676397862",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1773860323097862",
-      "share": 0,
-      "showTime": "2026-03-19 02:58:43",
-      "stockList": [
-        "0.159945",
-        "150.014238"
-      ],
-      "summary": "美联储主席鲍威尔表示，劳动力市场确实呈现出存在下行风险的迹象；这次能源供应冲击是一次性的。",
-      "title": "美联储主席鲍威尔表示 劳动力市场确实呈现出存在下行风险的迹象",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603193676397862.html",
-    "category": "国际",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159945",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "2148eb083a85048c",
-    "code": "202603193676397714",
-    "title": "美股三大指数均跌超1%",
-    "summary": "【美股三大指数均跌超1%】道指跌1.39%，纳指跌1.1%，标普500指数跌1.07%。",
-    "content": "【美股三大指数均跌超1%】道指跌1.39%，纳指跌1.1%，标普500指数跌1.07%。",
-    "full_content": "【美股三大指数均跌超1%】道指跌1.39%，纳指跌1.1%，标普500指数跌1.07%。",
-    "sort_time": "1773860199097714",
-    "showTime": "2026-03-19 02:56:39",
-    "time": "2026-03-19 02:56:39",
-    "publish_time": "2026-03-19 02:56:39",
-    "raw_data": {
-      "code": "202603193676397714",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1773860199097714",
-      "share": 0,
-      "showTime": "2026-03-19 02:56:39",
-      "stockList": [
-        "105.NDAQ"
-      ],
-      "summary": "【美股三大指数均跌超1%】道指跌1.39%，纳指跌1.1%，标普500指数跌1.07%。",
-      "title": "美股三大指数均跌超1%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603193676397714.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.NDAQ"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d40571dc75b78758",
-    "code": "202603193676397459",
-    "title": "美联储主席鲍威尔表示 在司法部调查结束之前 无意离开美联储",
-    "summary": "美联储主席鲍威尔表示，在司法部调查结束之前，无意离开美联储；将担任临时主席，直至继任者获得确认；尚未决定在美联储待多久；将以美联储和公众的最大利益为重。",
-    "content": "美联储主席鲍威尔表示，在司法部调查结束之前，无意离开美联储；将担任临时主席，直至继任者获得确认；尚未决定在美联储待多久；将以美联储和公众的最大利益为重。",
-    "full_content": "美联储主席鲍威尔表示，在司法部调查结束之前，无意离开美联储；将担任临时主席，直至继任者获得确认；尚未决定在美联储待多久；将以美联储和公众的最大利益为重。",
-    "sort_time": "1773860060097459",
-    "showTime": "2026-03-19 02:54:20",
-    "time": "2026-03-19 02:54:20",
-    "publish_time": "2026-03-19 02:54:20",
-    "raw_data": {
-      "code": "202603193676397459",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1773860060097459",
-      "share": 2,
-      "showTime": "2026-03-19 02:54:20",
-      "stockList": [],
-      "summary": "美联储主席鲍威尔表示，在司法部调查结束之前，无意离开美联储；将担任临时主席，直至继任者获得确认；尚未决定在美联储待多久；将以美联储和公众的最大利益为重。",
-      "title": "美联储主席鲍威尔表示 在司法部调查结束之前 无意离开美联储",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603193676397459.html",
-    "category": "国际",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
