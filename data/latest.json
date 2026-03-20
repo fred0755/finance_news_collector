@@ -1,5 +1,95 @@
 [
   {
+    "id": "6f6e32ec3e23b03f",
+    "code": "202603213679332112",
+    "title": "行情",
+    "summary": "【行情】WTI原油期货涨幅扩大至3%，报98.412美元/桶。",
+    "content": "【行情】WTI原油期货涨幅扩大至3%，报98.412美元/桶。",
+    "full_content": "【行情】WTI原油期货涨幅扩大至3%，报98.412美元/桶。",
+    "sort_time": "1774028715032112",
+    "showTime": "2026-03-21 01:45:15",
+    "time": "2026-03-21 01:45:15",
+    "publish_time": "2026-03-21 01:45:15",
+    "raw_data": {
+      "code": "202603213679332112",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1774028715032112",
+      "share": 0,
+      "showTime": "2026-03-21 01:45:15",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "【行情】WTI原油期货涨幅扩大至3%，报98.412美元/桶。",
+      "title": "WTI原油期货涨幅扩大至3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603213679332112.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "30c91df3b2d91275",
+    "code": "202603213679331931",
+    "title": "纳斯达克100指数跌幅扩大至1.5%",
+    "summary": "纳斯达克100指数跌幅扩大至1.5%。",
+    "content": "纳斯达克100指数跌幅扩大至1.5%。",
+    "full_content": "纳斯达克100指数跌幅扩大至1.5%。",
+    "sort_time": "1774028286031931",
+    "showTime": "2026-03-21 01:38:06",
+    "time": "2026-03-21 01:38:06",
+    "publish_time": "2026-03-21 01:38:06",
+    "raw_data": {
+      "code": "202603213679331931",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774028286031931",
+      "share": 0,
+      "showTime": "2026-03-21 01:38:06",
+      "stockList": [],
+      "summary": "纳斯达克100指数跌幅扩大至1.5%。",
+      "title": "纳斯达克100指数跌幅扩大至1.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603213679331931.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "e7f0ad67e306485c",
     "code": "202603213679331514",
     "title": "周五 美联储隔夜逆回购协议（RRP）使用规模为8.22亿美元",
@@ -13,7 +103,7 @@
     "raw_data": {
       "code": "202603213679331514",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774027114031514",
       "share": 0,
       "showTime": "2026-03-21 01:18:34",
@@ -29,7 +119,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -52,7 +142,7 @@
     "raw_data": {
       "code": "202603213679331484",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774026698031484",
       "share": 0,
       "showTime": "2026-03-21 01:11:38",
@@ -72,7 +162,7 @@
       "90.BK1361"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -162,9 +252,9 @@
     "raw_data": {
       "code": "202603213679328662",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 4,
       "realSort": "1774026180028662",
-      "share": 2,
+      "share": 6,
       "showTime": "2026-03-21 01:03:00",
       "stockList": [],
       "summary": "【波兰宣布撤离全部驻伊拉克军事人员】波兰国防部长瓦迪斯瓦夫·科西尼亚克－卡梅什20日表示，波兰已将该国所有驻伊拉克的军事人员撤离。科西尼亚克－卡梅什当天在社交媒体平台上发文称，鉴于中东地区安全形势恶化，在对作战条件和潜在威胁进行评估后，波兰决定撤出驻伊拉克的军事特遣队。他表示，特遣队大部分人员已返回波兰或正在返程途中，另有部分人员目前在约旦。",
@@ -178,8 +268,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 2,
+    "comment_count": 4,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [
@@ -340,7 +430,7 @@
     "raw_data": {
       "code": "202603213679321090",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 16,
       "realSort": "1774024937021090",
       "share": 2,
       "showTime": "2026-03-21 00:42:17",
@@ -356,7 +446,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
+    "comment_count": 16,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -526,9 +616,9 @@
     "raw_data": {
       "code": "202603213679311359",
       "image": [],
-      "pinglun_Num": 80,
+      "pinglun_Num": 95,
       "realSort": "1774023140011359",
-      "share": 78,
+      "share": 86,
       "showTime": "2026-03-21 00:12:20",
       "stockList": [],
       "summary": "【美军正向中东增派3艘军舰和约2500名海军陆战队员】据美国媒体20日报道，美国军方正向中东地区增派3艘军舰和约2500名海军陆战队员。报道援引美国官员的话说，“拳师”号两栖攻击舰及“康斯托克”号船坞登陆舰、“波特兰”号两栖船坞运输舰，连同隶属第11海军陆战队远征部队的约2500名海军陆战队员，已从位于加利福尼亚州的圣迭戈启程，正开赴中东地区。",
@@ -542,8 +632,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 80,
-    "share_count": 78,
+    "comment_count": 95,
+    "share_count": 86,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -645,7 +735,7 @@
       "image": [],
       "pinglun_Num": 25,
       "realSort": "1774022216009410",
-      "share": 14,
+      "share": 15,
       "showTime": "2026-03-20 23:56:56",
       "stockList": [],
       "summary": "【伊朗已无官员愿意与美国谈判】3月20日，美以伊战争已经进行了整3周。过去24个小时，伊朗霍尔木兹甘省的多个地区，以及设拉子、克尔曼和首都德黑兰等城市均传出爆炸声，其中德黑兰遭袭情况最为严重。伊朗则继续对地区美军基地和以色列的战略军事设施、政府中枢及宣传机构，包括位于特拉维夫的本-古里安国际机场，耶路撒冷的以色列国家安全部门建筑等多个场所实施高强度打击。伊朗政治分析人士指出，按目前的事态发展看，伊朗已经没有官员愿意与美国进行谈判，美国总统特朗普的威胁施压言论也就没有了意义。美以的“闪电战”计划已彻底失败，接下来，各方的后勤保障能力、国内政治经济的稳定程度，以及军事行动的持久性等等，将成为决定后续战事发展的关键因素。",
@@ -660,7 +750,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 25,
-    "share_count": 14,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -782,7 +872,7 @@
     "raw_data": {
       "code": "202603203679308046",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 24,
       "realSort": "1774021755008046",
       "share": 0,
       "showTime": "2026-03-20 23:49:15",
@@ -798,7 +888,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 20,
+    "comment_count": 24,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -821,9 +911,9 @@
     "raw_data": {
       "code": "202603203679304928",
       "image": [],
-      "pinglun_Num": 110,
+      "pinglun_Num": 115,
       "realSort": "1774021208004928",
-      "share": 32,
+      "share": 34,
       "showTime": "2026-03-20 23:40:08",
       "stockList": [],
       "summary": "【白宫官员称特朗普暂无向伊朗派遣地面部队计划】当地时间3月20日，一名白宫官员表示，尽管美国正向中东增派兵力，但美国总统唐纳德·特朗普目前“没有计划”向伊朗派遣地面部队。",
@@ -837,8 +927,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 110,
-    "share_count": 32,
+    "comment_count": 115,
+    "share_count": 34,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -860,7 +950,7 @@
     "raw_data": {
       "code": "202603203679304475",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1774021064004475",
       "share": 4,
       "showTime": "2026-03-20 23:37:44",
@@ -876,7 +966,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -899,7 +989,7 @@
     "raw_data": {
       "code": "202603203679292736",
       "image": [],
-      "pinglun_Num": 24,
+      "pinglun_Num": 25,
       "realSort": "1774020607092736",
       "share": 21,
       "showTime": "2026-03-20 23:30:07",
@@ -915,7 +1005,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 24,
+    "comment_count": 25,
     "share_count": 21,
     "tags": {
       "industries": [],
@@ -985,7 +1075,7 @@
     "raw_data": {
       "code": "202603203679267470",
       "image": [],
-      "pinglun_Num": 74,
+      "pinglun_Num": 80,
       "realSort": "1774020028067470",
       "share": 24,
       "showTime": "2026-03-20 23:20:28",
@@ -1001,7 +1091,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 74,
+    "comment_count": 80,
     "share_count": 24,
     "tags": {
       "industries": [],
@@ -1026,7 +1116,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1774019692058418",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-03-20 23:14:52",
       "stockList": [
         "90.BK0739",
@@ -1047,7 +1137,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 7,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1126,7 +1216,7 @@
     "raw_data": {
       "code": "202603203679250270",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 11,
       "realSort": "1774019283050270",
       "share": 9,
       "showTime": "2026-03-20 23:08:03",
@@ -1142,7 +1232,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 11,
     "share_count": 9,
     "tags": {
       "industries": [],
@@ -1165,9 +1255,9 @@
     "raw_data": {
       "code": "202603203679249445",
       "image": [],
-      "pinglun_Num": 78,
+      "pinglun_Num": 80,
       "realSort": "1774019088049445",
-      "share": 35,
+      "share": 37,
       "showTime": "2026-03-20 23:04:48",
       "stockList": [],
       "summary": "【伊朗最高领袖就伊朗新年发表贺词】今天（3月20日），伊朗最高领袖穆杰塔巴·哈梅内伊就即将到来的传统节日诺鲁孜节，也就是伊朗传统新年发表贺词。穆杰塔巴表示，过去一年伊朗经历多轮“军事与安全冲突”，造成包括军方指挥官和民众在内的人员伤亡。他指责以色列在美国支持下对伊朗实施袭击，并称相关行动未能达到其预期目标。在谈及国内局势时，穆杰塔巴表示，外部势力试图通过经济压力和舆论手段影响伊朗社会稳定，但伊朗民众的动员能力和社会凝聚力有效挫败了相关企图。经济方面，穆杰塔巴强调，应通过发展“抵抗经济”、改善民生和基础设施建设来增强国家韧性。",
@@ -1181,8 +1271,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 78,
-    "share_count": 35,
+    "comment_count": 80,
+    "share_count": 37,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1204,7 +1294,7 @@
     "raw_data": {
       "code": "202603203679247978",
       "image": [],
-      "pinglun_Num": 28,
+      "pinglun_Num": 30,
       "realSort": "1774018912047978",
       "share": 16,
       "showTime": "2026-03-20 23:01:52",
@@ -1226,7 +1316,7 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 28,
+    "comment_count": 30,
     "share_count": 16,
     "tags": {
       "industries": [],
@@ -1302,7 +1392,7 @@
     "raw_data": {
       "code": "202603203679247295",
       "image": [],
-      "pinglun_Num": 74,
+      "pinglun_Num": 76,
       "realSort": "1774018665047295",
       "share": 40,
       "showTime": "2026-03-20 22:57:45",
@@ -1322,7 +1412,7 @@
       "1.600759"
     ],
     "has_stock_mention": true,
-    "comment_count": 74,
+    "comment_count": 76,
     "share_count": 40,
     "tags": {
       "industries": [],
@@ -1400,7 +1490,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1774018450046241",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-03-20 22:54:10",
       "stockList": [
         "90.BK0989",
@@ -1421,7 +1511,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 8,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1469,7 +1559,7 @@
     "raw_data": {
       "code": "202603203679245417",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1774018291045417",
       "share": 6,
       "showTime": "2026-03-20 22:51:31",
@@ -1485,7 +1575,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -1888,7 +1978,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1774016700034732",
-      "share": 10,
+      "share": 11,
       "showTime": "2026-03-20 22:25:00",
       "stockList": [
         "1.688766"
@@ -1907,7 +1997,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 10,
+    "share_count": 11,
     "tags": {
       "industries": [
         {
@@ -2197,98 +2287,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "92d7d3923e48339e",
-    "code": "202603203679227498",
-    "title": "法国CAC40指数延续跌势 较2月高点下跌10%",
-    "summary": "法国CAC40指数延续跌势，较2月高点下跌10%。",
-    "content": "法国CAC40指数延续跌势，较2月高点下跌10%。",
-    "full_content": "法国CAC40指数延续跌势，较2月高点下跌10%。",
-    "sort_time": "1774015860027498",
-    "showTime": "2026-03-20 22:11:00",
-    "time": "2026-03-20 22:11:00",
-    "publish_time": "2026-03-20 22:11:00",
-    "raw_data": {
-      "code": "202603203679227498",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1774015860027498",
-      "share": 2,
-      "showTime": "2026-03-20 22:11:00",
-      "stockList": [],
-      "summary": "法国CAC40指数延续跌势，较2月高点下跌10%。",
-      "title": "法国CAC40指数延续跌势 较2月高点下跌10%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603203679227498.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "295fea532cf0b925",
-    "code": "202603203679226682",
-    "title": "现货黄金日内跌幅扩大至1%",
-    "summary": "现货黄金日内跌幅扩大至1%，报4602.89美元/盎司。",
-    "content": "现货黄金日内跌幅扩大至1%，报4602.89美元/盎司。",
-    "full_content": "现货黄金日内跌幅扩大至1%，报4602.89美元/盎司。",
-    "sort_time": "1774015779026682",
-    "showTime": "2026-03-20 22:09:39",
-    "time": "2026-03-20 22:09:39",
-    "publish_time": "2026-03-20 22:09:39",
-    "raw_data": {
-      "code": "202603203679226682",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1774015779026682",
-      "share": 0,
-      "showTime": "2026-03-20 22:09:39",
-      "stockList": [
-        "90.BK0732",
-        "90.BK1617"
-      ],
-      "summary": "现货黄金日内跌幅扩大至1%，报4602.89美元/盎司。",
-      "title": "现货黄金日内跌幅扩大至1%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603203679226682.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0732",
-      "90.BK1617"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
     }
   }
 ]
