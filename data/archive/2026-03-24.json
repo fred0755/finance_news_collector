@@ -1,5 +1,530 @@
 [
   {
+    "id": "d7130d33fde661a6",
+    "code": "202603253683024948",
+    "title": "美国上周API原油库存增加230万桶 之前一周增加655.6万桶",
+    "summary": "美国上周API原油库存增加230万桶，之前一周增加655.6万桶。",
+    "content": "美国上周API原油库存增加230万桶，之前一周增加655.6万桶。",
+    "full_content": "美国上周API原油库存增加230万桶，之前一周增加655.6万桶。",
+    "sort_time": "1774385416024948",
+    "showTime": "2026-03-25 04:50:16",
+    "time": "2026-03-25 04:50:16",
+    "publish_time": "2026-03-25 04:50:16",
+    "raw_data": {
+      "code": "202603253683024948",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774385416024948",
+      "share": 0,
+      "showTime": "2026-03-25 04:50:16",
+      "stockList": [],
+      "summary": "美国上周API原油库存增加230万桶，之前一周增加655.6万桶。",
+      "title": "美国上周API原油库存增加230万桶 之前一周增加655.6万桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683024948.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "bf4d9b2705ddfacf",
+    "code": "202603253683024142",
+    "title": "中东冲突扰乱市场 对冲基金Brevan和Taula业绩在3月大缩水",
+    "summary": "【中东冲突扰乱市场 对冲基金Brevan和Taula业绩在3月大缩水】由于中东冲突震动市场，Brevan Howard Asset Management旗下历史最悠久的对冲基金在过去两周扩大了亏损，抹去了今年以来的全部涨幅。Brevan Howard主基金在3月份截至上周五下跌了6%，这使得该基金今年以来累计下跌0.5%。与此同时，据了解Taula Capital Management业绩情况的人士称，截至上周五该基金当月下跌了7.5%。这些人士说，该公司在当月前两周下跌10%后，上周略有回升。",
+    "content": "【中东冲突扰乱市场 对冲基金Brevan和Taula业绩在3月大缩水】由于中东冲突震动市场，Brevan Howard Asset Management旗下历史最悠久的对冲基金在过去两周扩大了亏损，抹去了今年以来的全部涨幅。Brevan Howard主基金在3月份截至上周五下跌了6%，这使得该基金今年以来累计下跌0.5%。与此同时，据了解Taula Capital Management业绩情况的人士称，截至上周五该基金当月下跌了7.5%。这些人士说，该公司在当月前两周下跌10%后，上周略有回升。",
+    "full_content": "【中东冲突扰乱市场 对冲基金Brevan和Taula业绩在3月大缩水】由于中东冲突震动市场，Brevan Howard Asset Management旗下历史最悠久的对冲基金在过去两周扩大了亏损，抹去了今年以来的全部涨幅。Brevan Howard主基金在3月份截至上周五下跌了6%，这使得该基金今年以来累计下跌0.5%。与此同时，据了解Taula Capital Management业绩情况的人士称，截至上周五该基金当月下跌了7.5%。这些人士说，该公司在当月前两周下跌10%后，上周略有回升。",
+    "sort_time": "1774385085024142",
+    "showTime": "2026-03-25 04:44:45",
+    "time": "2026-03-25 04:44:45",
+    "publish_time": "2026-03-25 04:44:45",
+    "raw_data": {
+      "code": "202603253683024142",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774385085024142",
+      "share": 0,
+      "showTime": "2026-03-25 04:44:45",
+      "stockList": [],
+      "summary": "【中东冲突扰乱市场 对冲基金Brevan和Taula业绩在3月大缩水】由于中东冲突震动市场，Brevan Howard Asset Management旗下历史最悠久的对冲基金在过去两周扩大了亏损，抹去了今年以来的全部涨幅。Brevan Howard主基金在3月份截至上周五下跌了6%，这使得该基金今年以来累计下跌0.5%。与此同时，据了解Taula Capital Management业绩情况的人士称，截至上周五该基金当月下跌了7.5%。这些人士说，该公司在当月前两周下跌10%后，上周略有回升。",
+      "title": "中东冲突扰乱市场 对冲基金Brevan和Taula业绩在3月大缩水",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683024142.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4acb98aac8f2f2c7",
+    "code": "202603253683024095",
+    "title": "美国国债上涨 收窄日内跌幅",
+    "summary": "美国国债上涨，收窄日内跌幅，10年期收益率报4.35%。",
+    "content": "美国国债上涨，收窄日内跌幅，10年期收益率报4.35%。",
+    "full_content": "美国国债上涨，收窄日内跌幅，10年期收益率报4.35%。",
+    "sort_time": "1774384263024095",
+    "showTime": "2026-03-25 04:31:03",
+    "time": "2026-03-25 04:31:03",
+    "publish_time": "2026-03-25 04:31:03",
+    "raw_data": {
+      "code": "202603253683024095",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774384263024095",
+      "share": 0,
+      "showTime": "2026-03-25 04:31:03",
+      "stockList": [],
+      "summary": "美国国债上涨，收窄日内跌幅，10年期收益率报4.35%。",
+      "title": "美国国债上涨 收窄日内跌幅",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683024095.html",
+    "category": "债券",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "05f13e2ae36394bd",
+    "code": "202603253683023977",
+    "title": "现货黄金短线拉升涨超1%",
+    "summary": "【现货黄金短线拉升涨超1%】国际贵金属短线拉升，现货黄金涨1.13%，报4456.22美元/盎司；现货白银涨2.01%，报70.46美元/盎司。",
+    "content": "【现货黄金短线拉升涨超1%】国际贵金属短线拉升，现货黄金涨1.13%，报4456.22美元/盎司；现货白银涨2.01%，报70.46美元/盎司。",
+    "full_content": "【现货黄金短线拉升涨超1%】国际贵金属短线拉升，现货黄金涨1.13%，报4456.22美元/盎司；现货白银涨2.01%，报70.46美元/盎司。",
+    "sort_time": "1774384151023977",
+    "showTime": "2026-03-25 04:29:11",
+    "time": "2026-03-25 04:29:11",
+    "publish_time": "2026-03-25 04:29:11",
+    "raw_data": {
+      "code": "202603253683023977",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1774384151023977",
+      "share": 0,
+      "showTime": "2026-03-25 04:29:11",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "【现货黄金短线拉升涨超1%】国际贵金属短线拉升，现货黄金涨1.13%，报4456.22美元/盎司；现货白银涨2.01%，报70.46美元/盎司。",
+      "title": "现货黄金短线拉升涨超1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683023977.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "9bbdc99b3bf3dd67",
+    "code": "202603253683023761",
+    "title": "国际油价短线跳水并抹去此前涨幅",
+    "summary": "【国际油价短线跳水并抹去此前涨幅】国际油价短线跳水并抹去此前涨幅，WTI原油期货向下跌破90美元/桶，最新报87.79美元/桶，日内下跌0.39%。布伦特原油跌0.91%，报95.049美元/桶。",
+    "content": "【国际油价短线跳水并抹去此前涨幅】国际油价短线跳水并抹去此前涨幅，WTI原油期货向下跌破90美元/桶，最新报87.79美元/桶，日内下跌0.39%。布伦特原油跌0.91%，报95.049美元/桶。",
+    "full_content": "【国际油价短线跳水并抹去此前涨幅】国际油价短线跳水并抹去此前涨幅，WTI原油期货向下跌破90美元/桶，最新报87.79美元/桶，日内下跌0.39%。布伦特原油跌0.91%，报95.049美元/桶。",
+    "sort_time": "1774383919023761",
+    "showTime": "2026-03-25 04:25:19",
+    "time": "2026-03-25 04:25:19",
+    "publish_time": "2026-03-25 04:25:19",
+    "raw_data": {
+      "code": "202603253683023761",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1774383919023761",
+      "share": 0,
+      "showTime": "2026-03-25 04:25:19",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【国际油价短线跳水并抹去此前涨幅】国际油价短线跳水并抹去此前涨幅，WTI原油期货向下跌破90美元/桶，最新报87.79美元/桶，日内下跌0.39%。布伦特原油跌0.91%，报95.049美元/桶。",
+      "title": "国际油价短线跳水并抹去此前涨幅",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683023761.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "d08e808ddff967a3",
+    "code": "202603253683021947",
+    "title": "Victory Capital撤回收购骏利亨德森的提议",
+    "summary": "Victory Capital撤回收购骏利亨德森的提议。",
+    "content": "Victory Capital撤回收购骏利亨德森的提议。",
+    "full_content": "Victory Capital撤回收购骏利亨德森的提议。",
+    "sort_time": "1774383654021947",
+    "showTime": "2026-03-25 04:20:54",
+    "time": "2026-03-25 04:20:54",
+    "publish_time": "2026-03-25 04:20:54",
+    "raw_data": {
+      "code": "202603253683021947",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1774383654021947",
+      "share": 0,
+      "showTime": "2026-03-25 04:20:54",
+      "stockList": [
+        "105.VCTR"
+      ],
+      "summary": "Victory Capital撤回收购骏利亨德森的提议。",
+      "title": "Victory Capital撤回收购骏利亨德森的提议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683021947.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.VCTR"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2d2640d42d8ff8e7",
+    "code": "202603253683021871",
+    "title": "国际油价24日显著上涨",
+    "summary": "【国际油价24日显著上涨】国际油价24日显著上涨。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨4.22美元，收于每桶92.35美元，涨幅为4.79%；5月交货的伦敦布伦特原油期货价格上涨4.55美元，收于每桶104.49美元，涨幅为4.55%。",
+    "content": "【国际油价24日显著上涨】国际油价24日显著上涨。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨4.22美元，收于每桶92.35美元，涨幅为4.79%；5月交货的伦敦布伦特原油期货价格上涨4.55美元，收于每桶104.49美元，涨幅为4.55%。",
+    "full_content": "【国际油价24日显著上涨】国际油价24日显著上涨。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨4.22美元，收于每桶92.35美元，涨幅为4.79%；5月交货的伦敦布伦特原油期货价格上涨4.55美元，收于每桶104.49美元，涨幅为4.55%。",
+    "sort_time": "1774383597021871",
+    "showTime": "2026-03-25 04:19:57",
+    "time": "2026-03-25 04:19:57",
+    "publish_time": "2026-03-25 04:19:57",
+    "raw_data": {
+      "code": "202603253683021871",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1774383597021871",
+      "share": 0,
+      "showTime": "2026-03-25 04:19:57",
+      "stockList": [],
+      "summary": "【国际油价24日显著上涨】国际油价24日显著上涨。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨4.22美元，收于每桶92.35美元，涨幅为4.79%；5月交货的伦敦布伦特原油期货价格上涨4.55美元，收于每桶104.49美元，涨幅为4.55%。",
+      "title": "国际油价24日显著上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683021871.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "e2431b7207a6b9a9",
+    "code": "202603253683021737",
+    "title": "OpenAI旗下SORA确认其将终止服务",
+    "summary": "OpenAI旗下SORA确认其将终止服务。",
+    "content": "OpenAI旗下SORA确认其将终止服务。",
+    "full_content": "OpenAI旗下SORA确认其将终止服务。",
+    "sort_time": "1774383385021737",
+    "showTime": "2026-03-25 04:16:25",
+    "time": "2026-03-25 04:16:25",
+    "publish_time": "2026-03-25 04:16:25",
+    "raw_data": {
+      "code": "202603253683021737",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1774383385021737",
+      "share": 0,
+      "showTime": "2026-03-25 04:16:25",
+      "stockList": [
+        "90.BK1159"
+      ],
+      "summary": "OpenAI旗下SORA确认其将终止服务。",
+      "title": "OpenAI旗下SORA确认其将终止服务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683021737.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1159"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "143da58f3917677c",
+    "code": "202603253683020430",
+    "title": "美元指数24日上涨",
+    "summary": "【美元指数24日上涨】美元指数24日上涨。衡量美元对六种主要货币的美元指数当天上涨0.48%，在汇市尾市收于99.431。截至纽约汇市尾市，1欧元兑换1.1569美元，低于前一交易日的1.1607美元；1英镑兑换1.3366美元，低于前一交易日的1.3425美元。1美元兑换159.14日元，高于前一交易日的158.45日元；1美元兑换0.7918瑞士法郎，高于前一交易日的0.7865瑞士法郎；1美元兑换1.3783加元，高于前一交易日的1.3719加元；1美元兑换9.3669瑞典克朗，高于前一交易日的9.3095瑞典克朗。",
+    "content": "【美元指数24日上涨】美元指数24日上涨。衡量美元对六种主要货币的美元指数当天上涨0.48%，在汇市尾市收于99.431。截至纽约汇市尾市，1欧元兑换1.1569美元，低于前一交易日的1.1607美元；1英镑兑换1.3366美元，低于前一交易日的1.3425美元。1美元兑换159.14日元，高于前一交易日的158.45日元；1美元兑换0.7918瑞士法郎，高于前一交易日的0.7865瑞士法郎；1美元兑换1.3783加元，高于前一交易日的1.3719加元；1美元兑换9.3669瑞典克朗，高于前一交易日的9.3095瑞典克朗。",
+    "full_content": "【美元指数24日上涨】美元指数24日上涨。衡量美元对六种主要货币的美元指数当天上涨0.48%，在汇市尾市收于99.431。截至纽约汇市尾市，1欧元兑换1.1569美元，低于前一交易日的1.1607美元；1英镑兑换1.3366美元，低于前一交易日的1.3425美元。1美元兑换159.14日元，高于前一交易日的158.45日元；1美元兑换0.7918瑞士法郎，高于前一交易日的0.7865瑞士法郎；1美元兑换1.3783加元，高于前一交易日的1.3719加元；1美元兑换9.3669瑞典克朗，高于前一交易日的9.3095瑞典克朗。",
+    "sort_time": "1774382966020430",
+    "showTime": "2026-03-25 04:09:26",
+    "time": "2026-03-25 04:09:26",
+    "publish_time": "2026-03-25 04:09:26",
+    "raw_data": {
+      "code": "202603253683020430",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774382966020430",
+      "share": 0,
+      "showTime": "2026-03-25 04:09:26",
+      "stockList": [],
+      "summary": "【美元指数24日上涨】美元指数24日上涨。衡量美元对六种主要货币的美元指数当天上涨0.48%，在汇市尾市收于99.431。截至纽约汇市尾市，1欧元兑换1.1569美元，低于前一交易日的1.1607美元；1英镑兑换1.3366美元，低于前一交易日的1.3425美元。1美元兑换159.14日元，高于前一交易日的158.45日元；1美元兑换0.7918瑞士法郎，高于前一交易日的0.7865瑞士法郎；1美元兑换1.3783加元，高于前一交易日的1.3719加元；1美元兑换9.3669瑞典克朗，高于前一交易日的9.3095瑞典克朗。",
+      "title": "美元指数24日上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683020430.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "68e3edcab8b41c88",
+    "code": "202603253683020171",
+    "title": "Robinhood董事会批准进行至多15亿美元的股票回购计划",
+    "summary": "Robinhood董事会批准进行至多15亿美元的股票回购计划。",
+    "content": "Robinhood董事会批准进行至多15亿美元的股票回购计划。",
+    "full_content": "Robinhood董事会批准进行至多15亿美元的股票回购计划。",
+    "sort_time": "1774382931020171",
+    "showTime": "2026-03-25 04:08:51",
+    "time": "2026-03-25 04:08:51",
+    "publish_time": "2026-03-25 04:08:51",
+    "raw_data": {
+      "code": "202603253683020171",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1774382931020171",
+      "share": 0,
+      "showTime": "2026-03-25 04:08:51",
+      "stockList": [
+        "105.HOOD"
+      ],
+      "summary": "Robinhood董事会批准进行至多15亿美元的股票回购计划。",
+      "title": "Robinhood董事会批准进行至多15亿美元的股票回购计划",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683020171.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.HOOD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4663878d4886efc8",
+    "code": "202603253683020012",
+    "title": "OpenAI据悉完成了新AI模型的初步开发",
+    "summary": "【OpenAI据悉完成了新AI模型的初步开发】据报道，OpenAI完成了新AI模型的初步开发。Sam Altman不再直接负责OpenAI安全团队，将把重点转向数据中心建设，并将聚焦募资和供应链。",
+    "content": "【OpenAI据悉完成了新AI模型的初步开发】据报道，OpenAI完成了新AI模型的初步开发。Sam Altman不再直接负责OpenAI安全团队，将把重点转向数据中心建设，并将聚焦募资和供应链。",
+    "full_content": "【OpenAI据悉完成了新AI模型的初步开发】据报道，OpenAI完成了新AI模型的初步开发。Sam Altman不再直接负责OpenAI安全团队，将把重点转向数据中心建设，并将聚焦募资和供应链。",
+    "sort_time": "1774382834020012",
+    "showTime": "2026-03-25 04:07:14",
+    "time": "2026-03-25 04:07:14",
+    "publish_time": "2026-03-25 04:07:14",
+    "raw_data": {
+      "code": "202603253683020012",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774382834020012",
+      "share": 0,
+      "showTime": "2026-03-25 04:07:14",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "【OpenAI据悉完成了新AI模型的初步开发】据报道，OpenAI完成了新AI模型的初步开发。Sam Altman不再直接负责OpenAI安全团队，将把重点转向数据中心建设，并将聚焦募资和供应链。",
+      "title": "OpenAI据悉完成了新AI模型的初步开发",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683020012.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "供应链"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006",
+        "C807"
+      ]
+    }
+  },
+  {
     "id": "8df8773d4e64c065",
     "code": "202603253683019752",
     "title": "游戏驿站第四季度净销售额11亿美元 同比下降14%",
@@ -73,6 +598,83 @@
     "category": "科技",
     "importance": 6,
     "sentiment": "bullish",
+    "related_stocks": [
+      "0.159813",
+      "150.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "AR"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C009",
+          "name": "元宇宙",
+          "matched_keyword": "AR"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I010103"
+      ],
+      "concept_ids": [
+        "C002",
+        "C009"
+      ]
+    }
+  },
+  {
+    "id": "6fa60a7b1f9135fb",
+    "code": "202603253683019647",
+    "title": "ARM预计其新芯片部门五年内年销售额将达到150亿美元 ARM盘后一度涨超4%",
+    "summary": "ARM预计其新芯片部门五年内年销售额将达到150亿美元。ARM盘后一度涨超4%。",
+    "content": "ARM预计其新芯片部门五年内年销售额将达到150亿美元。ARM盘后一度涨超4%。",
+    "full_content": "ARM预计其新芯片部门五年内年销售额将达到150亿美元。ARM盘后一度涨超4%。",
+    "sort_time": "1774382629019647",
+    "showTime": "2026-03-25 04:03:49",
+    "time": "2026-03-25 04:03:49",
+    "publish_time": "2026-03-25 04:03:49",
+    "raw_data": {
+      "code": "202603253683019647",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774382629019647",
+      "share": 0,
+      "showTime": "2026-03-25 04:03:49",
+      "stockList": [
+        "0.159813",
+        "150.159813"
+      ],
+      "summary": "ARM预计其新芯片部门五年内年销售额将达到150亿美元。ARM盘后一度涨超4%。",
+      "title": "ARM预计其新芯片部门五年内年销售额将达到150亿美元 ARM盘后一度涨超4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683019647.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
     "related_stocks": [
       "0.159813",
       "150.159813"
@@ -213,6 +815,57 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
+    }
+  },
+  {
+    "id": "caa9a12439092c4f",
+    "code": "202603253683019961",
+    "title": "伊朗布什尔核电站再次遭袭",
+    "summary": "【伊朗布什尔核电站再次遭袭】当地时间24日21时08分，伊朗南部布什尔核电站再次遭到袭击。伊朗原子能组织当天表示，本次袭击发生在布什尔核电站的空旷地区，没有造成人员、财产、技术损失。该组织谴责称，袭击和平的核设施违反国际法，此举可能对该地区的安全，特别是波斯湾沿岸国家的安全，造成危险且不可挽回的后果。",
+    "content": "【伊朗布什尔核电站再次遭袭】当地时间24日21时08分，伊朗南部布什尔核电站再次遭到袭击。伊朗原子能组织当天表示，本次袭击发生在布什尔核电站的空旷地区，没有造成人员、财产、技术损失。该组织谴责称，袭击和平的核设施违反国际法，此举可能对该地区的安全，特别是波斯湾沿岸国家的安全，造成危险且不可挽回的后果。",
+    "full_content": "【伊朗布什尔核电站再次遭袭】当地时间24日21时08分，伊朗南部布什尔核电站再次遭到袭击。伊朗原子能组织当天表示，本次袭击发生在布什尔核电站的空旷地区，没有造成人员、财产、技术损失。该组织谴责称，袭击和平的核设施违反国际法，此举可能对该地区的安全，特别是波斯湾沿岸国家的安全，造成危险且不可挽回的后果。",
+    "sort_time": "1774381952019961",
+    "showTime": "2026-03-25 03:52:32",
+    "time": "2026-03-25 03:52:32",
+    "publish_time": "2026-03-25 03:52:32",
+    "raw_data": {
+      "code": "202603253683019961",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1774381952019961",
+      "share": 0,
+      "showTime": "2026-03-25 03:52:32",
+      "stockList": [
+        "90.BK0577"
+      ],
+      "summary": "【伊朗布什尔核电站再次遭袭】当地时间24日21时08分，伊朗南部布什尔核电站再次遭到袭击。伊朗原子能组织当天表示，本次袭击发生在布什尔核电站的空旷地区，没有造成人员、财产、技术损失。该组织谴责称，袭击和平的核设施违反国际法，此举可能对该地区的安全，特别是波斯湾沿岸国家的安全，造成危险且不可挽回的后果。",
+      "title": "伊朗布什尔核电站再次遭袭",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603253683019961.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0577"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 10,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "核电站"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109"
+      ]
     }
   },
   {
