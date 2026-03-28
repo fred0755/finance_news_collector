@@ -1,5 +1,101 @@
 [
   {
+    "id": "f26c331ba794b121",
+    "code": "202603293687904065",
+    "title": "以军称拦截一架疑似从也门发射的无人机",
+    "summary": "【以军称拦截一架疑似从也门发射的无人机】当地时间3月28日晚，以色列国防军称，一架疑似从也门发射的无人机在以色列最南部城市埃拉特上空被防空系统拦截。",
+    "content": "【以军称拦截一架疑似从也门发射的无人机】当地时间3月28日晚，以色列国防军称，一架疑似从也门发射的无人机在以色列最南部城市埃拉特上空被防空系统拦截。",
+    "full_content": "【以军称拦截一架疑似从也门发射的无人机】当地时间3月28日晚，以色列国防军称，一架疑似从也门发射的无人机在以色列最南部城市埃拉特上空被防空系统拦截。",
+    "sort_time": "1774719858004065",
+    "showTime": "2026-03-29 01:44:18",
+    "time": "2026-03-29 01:44:18",
+    "publish_time": "2026-03-29 01:44:18",
+    "raw_data": {
+      "code": "202603293687904065",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774719858004065",
+      "share": 0,
+      "showTime": "2026-03-29 01:44:18",
+      "stockList": [
+        "90.BK0704"
+      ],
+      "summary": "【以军称拦截一架疑似从也门发射的无人机】当地时间3月28日晚，以色列国防军称，一架疑似从也门发射的无人机在以色列最南部城市埃拉特上空被防空系统拦截。",
+      "title": "以军称拦截一架疑似从也门发射的无人机",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603293687904065.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0704"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        },
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201",
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "5b01a2f278c2a45b",
+    "code": "202603293687903955",
+    "title": "5名菲律宾国家警察在棉兰老岛遇袭身亡",
+    "summary": "【5名菲律宾国家警察在棉兰老岛遇袭身亡】菲律宾媒体28日晚援引当地官员消息报道，5名菲律宾国家警察当天在南部棉兰老岛南马京达瑙省沙里夫阿瓜克镇遇袭身亡，相关调查正在进行中。",
+    "content": "【5名菲律宾国家警察在棉兰老岛遇袭身亡】菲律宾媒体28日晚援引当地官员消息报道，5名菲律宾国家警察当天在南部棉兰老岛南马京达瑙省沙里夫阿瓜克镇遇袭身亡，相关调查正在进行中。",
+    "full_content": "【5名菲律宾国家警察在棉兰老岛遇袭身亡】菲律宾媒体28日晚援引当地官员消息报道，5名菲律宾国家警察当天在南部棉兰老岛南马京达瑙省沙里夫阿瓜克镇遇袭身亡，相关调查正在进行中。",
+    "sort_time": "1774718643003955",
+    "showTime": "2026-03-29 01:24:03",
+    "time": "2026-03-29 01:24:03",
+    "publish_time": "2026-03-29 01:24:03",
+    "raw_data": {
+      "code": "202603293687903955",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774718643003955",
+      "share": 0,
+      "showTime": "2026-03-29 01:24:03",
+      "stockList": [],
+      "summary": "【5名菲律宾国家警察在棉兰老岛遇袭身亡】菲律宾媒体28日晚援引当地官员消息报道，5名菲律宾国家警察当天在南部棉兰老岛南马京达瑙省沙里夫阿瓜克镇遇袭身亡，相关调查正在进行中。",
+      "title": "5名菲律宾国家警察在棉兰老岛遇袭身亡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603293687903955.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "02bd5f8d15edef60",
     "code": "202603293687903861",
     "title": "以军称接近完成对伊朗约90%关键军工设施的打击",
@@ -13,9 +109,9 @@
     "raw_data": {
       "code": "202603293687903861",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 10,
       "realSort": "1774717484003861",
-      "share": 0,
+      "share": 3,
       "showTime": "2026-03-29 01:04:44",
       "stockList": [
         "90.BK0480",
@@ -35,8 +131,8 @@
       "90.BK0490"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 10,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -66,7 +162,7 @@
     "raw_data": {
       "code": "202603293687903687",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 19,
       "realSort": "1774716291003687",
       "share": 1,
       "showTime": "2026-03-29 00:44:51",
@@ -82,7 +178,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
+    "comment_count": 19,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -105,9 +201,9 @@
     "raw_data": {
       "code": "202603293687898366",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 9,
       "realSort": "1774715120098366",
-      "share": 9,
+      "share": 11,
       "showTime": "2026-03-29 00:25:20",
       "stockList": [],
       "summary": "【欧洲发生“巧克力棒大劫案”】欧洲食品巨头雀巢周六披露，上周欧洲发生一起货运盗窃案，一辆运输12吨KitKat巧克力的卡车被盗，整车货物失踪。公司表示，这辆载有413,793根新系列巧克力棒的卡车原本从意大利中部出发，计划向欧洲各地配送。目前，车辆及其货物仍下落不明。KitKat表示：“虽然我们认可这些犯罪分子的品味确实非同一般，但货物盗窃仍然是一个正在不断升级、影响各类规模企业的严重问题。”",
@@ -121,8 +217,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 9,
+    "comment_count": 9,
+    "share_count": 11,
     "tags": {
       "industries": [
         {
@@ -203,7 +299,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1774713259089586",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-28 23:54:19",
       "stockList": [
         "90.BK1283",
@@ -224,7 +320,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 3,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -264,9 +360,9 @@
     "raw_data": {
       "code": "202603283687885839",
       "image": [],
-      "pinglun_Num": 50,
+      "pinglun_Num": 53,
       "realSort": "1774712084085839",
-      "share": 21,
+      "share": 22,
       "showTime": "2026-03-28 23:34:44",
       "stockList": [],
       "summary": "【美国海军陆战队员抵达美军中央司令部责任区】美军中央司令部28日称，美国海军陆战队员等人员乘坐“的黎波里”号两栖攻击舰已抵达美军中央司令部责任区。",
@@ -280,8 +376,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 50,
-    "share_count": 21,
+    "comment_count": 53,
+    "share_count": 22,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -303,7 +399,7 @@
     "raw_data": {
       "code": "202603283687883288",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1774711542083288",
       "share": 2,
       "showTime": "2026-03-28 23:25:42",
@@ -319,7 +415,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -350,7 +446,7 @@
     "raw_data": {
       "code": "202603283687879841",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 23,
       "realSort": "1774710582079841",
       "share": 3,
       "showTime": "2026-03-28 23:09:42",
@@ -366,7 +462,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 22,
+    "comment_count": 23,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -397,7 +493,7 @@
     "raw_data": {
       "code": "202603283687877542",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 16,
       "realSort": "1774709967077542",
       "share": 1,
       "showTime": "2026-03-28 22:59:27",
@@ -413,7 +509,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 15,
+    "comment_count": 16,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -475,9 +571,9 @@
     "raw_data": {
       "code": "202603283687876062",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 13,
       "realSort": "1774709562076062",
-      "share": 28,
+      "share": 29,
       "showTime": "2026-03-28 22:52:42",
       "stockList": [],
       "summary": "【阿联酋环球铝业：工厂遭严重破坏】阿联酋环球铝业（EGA）周六发表声明，称其位于阿布扎比酋长国Kezad工业区的Al Taweelah工厂在伊朗导弹和无人机袭击中遭受严重破坏。公司称仍在评估损失，并表示有多名员工在袭击中受伤。声明称，Al Taweelah工厂在2025年产出160万吨铸锭。",
@@ -491,8 +587,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
-    "share_count": 28,
+    "comment_count": 13,
+    "share_count": 29,
     "tags": {
       "industries": [],
       "concepts": [
@@ -528,7 +624,7 @@
     "raw_data": {
       "code": "202603283687869456",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1774708703069456",
       "share": 1,
       "showTime": "2026-03-28 22:38:23",
@@ -544,7 +640,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 8,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -698,7 +794,7 @@
     "raw_data": {
       "code": "202603283687862191",
       "image": [],
-      "pinglun_Num": 39,
+      "pinglun_Num": 40,
       "realSort": "1774707071062191",
       "share": 10,
       "showTime": "2026-03-28 22:11:11",
@@ -720,7 +816,7 @@
       "1007.BK000339"
     ],
     "has_stock_mention": true,
-    "comment_count": 39,
+    "comment_count": 40,
     "share_count": 10,
     "tags": {
       "industries": [],
@@ -751,7 +847,7 @@
     "raw_data": {
       "code": "202603283687859949",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 13,
       "realSort": "1774706743059949",
       "share": 4,
       "showTime": "2026-03-28 22:05:43",
@@ -771,7 +867,7 @@
       "90.BK0577"
     ],
     "has_stock_mention": true,
-    "comment_count": 12,
+    "comment_count": 13,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -880,7 +976,7 @@
     "raw_data": {
       "code": "202603283687856029",
       "image": [],
-      "pinglun_Num": 80,
+      "pinglun_Num": 82,
       "realSort": "1774705398056029",
       "share": 58,
       "showTime": "2026-03-28 21:43:18",
@@ -896,7 +992,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 80,
+    "comment_count": 82,
     "share_count": 58,
     "tags": {
       "industries": [],
@@ -927,7 +1023,7 @@
     "raw_data": {
       "code": "202603283687854563",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 22,
       "realSort": "1774704229054563",
       "share": 7,
       "showTime": "2026-03-28 21:23:49",
@@ -947,7 +1043,7 @@
       "90.BK0706"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
+    "comment_count": 22,
     "share_count": 7,
     "tags": {
       "industries": [],
@@ -1117,7 +1213,7 @@
     "raw_data": {
       "code": "202603283687853127",
       "image": [],
-      "pinglun_Num": 73,
+      "pinglun_Num": 74,
       "realSort": "1774703122053127",
       "share": 12,
       "showTime": "2026-03-28 21:05:22",
@@ -1133,7 +1229,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 73,
+    "comment_count": 74,
     "share_count": 12,
     "tags": {
       "industries": [],
@@ -1246,7 +1342,7 @@
     "raw_data": {
       "code": "202603283687852614",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 15,
       "realSort": "1774701843052614",
       "share": 4,
       "showTime": "2026-03-28 20:44:03",
@@ -1262,7 +1358,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 15,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1301,7 +1397,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1774701713052222",
-      "share": 9,
+      "share": 10,
       "showTime": "2026-03-28 20:41:53",
       "stockList": [],
       "summary": "【下周财经日历】3月30日-4月5日。",
@@ -1316,7 +1412,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 9,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1438,9 +1534,9 @@
     "raw_data": {
       "code": "202603283687848626",
       "image": [],
-      "pinglun_Num": 97,
+      "pinglun_Num": 99,
       "realSort": "1774699763048626",
-      "share": 79,
+      "share": 81,
       "showTime": "2026-03-28 20:09:23",
       "stockList": [
         "90.BK1134",
@@ -1460,8 +1556,8 @@
       "0.300442"
     ],
     "has_stock_mention": true,
-    "comment_count": 97,
-    "share_count": 79,
+    "comment_count": 99,
+    "share_count": 81,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1491,7 +1587,7 @@
     "raw_data": {
       "code": "202603283687848196",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 17,
       "realSort": "1774699631048196",
       "share": 11,
       "showTime": "2026-03-28 20:07:11",
@@ -1507,7 +1603,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
+    "comment_count": 17,
     "share_count": 11,
     "tags": {
       "industries": [
@@ -1918,7 +2014,7 @@
     "raw_data": {
       "code": "202603283687840187",
       "image": [],
-      "pinglun_Num": 44,
+      "pinglun_Num": 46,
       "realSort": "1774695498040187",
       "share": 15,
       "showTime": "2026-03-28 18:58:18",
@@ -1938,7 +2034,7 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 44,
+    "comment_count": 46,
     "share_count": 15,
     "tags": {
       "industries": [],
@@ -2157,7 +2253,7 @@
     "raw_data": {
       "code": "202603283687830854",
       "image": [],
-      "pinglun_Num": 124,
+      "pinglun_Num": 125,
       "realSort": "1774692177030854",
       "share": 14,
       "showTime": "2026-03-28 18:02:57",
@@ -2173,7 +2269,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 124,
+    "comment_count": 125,
     "share_count": 14,
     "tags": {
       "industries": [],
@@ -2220,90 +2316,6 @@
     "has_stock_mention": true,
     "comment_count": 3,
     "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "cc608634e04d592b",
-    "code": "202603283687829654",
-    "title": "伊朗称击毁敌方2架加油机",
-    "summary": "【伊朗称击毁敌方2架加油机】据伊朗塔斯尼姆通讯社28日报道，伊朗武装部队哈塔姆安比亚中央总部发言人说，击毁2架敌方加油机，并打击美军1艘支援舰艇。发言人说，27日晚以来，伊朗伊斯兰革命卫队对位于沙特阿拉伯海尔季的美军基地发动导弹袭击，美军5架加油机中有2架被彻底摧毁，另3架严重受损并丧失作战能力。",
-    "content": "【伊朗称击毁敌方2架加油机】据伊朗塔斯尼姆通讯社28日报道，伊朗武装部队哈塔姆安比亚中央总部发言人说，击毁2架敌方加油机，并打击美军1艘支援舰艇。发言人说，27日晚以来，伊朗伊斯兰革命卫队对位于沙特阿拉伯海尔季的美军基地发动导弹袭击，美军5架加油机中有2架被彻底摧毁，另3架严重受损并丧失作战能力。",
-    "full_content": "【伊朗称击毁敌方2架加油机】据伊朗塔斯尼姆通讯社28日报道，伊朗武装部队哈塔姆安比亚中央总部发言人说，击毁2架敌方加油机，并打击美军1艘支援舰艇。发言人说，27日晚以来，伊朗伊斯兰革命卫队对位于沙特阿拉伯海尔季的美军基地发动导弹袭击，美军5架加油机中有2架被彻底摧毁，另3架严重受损并丧失作战能力。",
-    "sort_time": "1774691578029654",
-    "showTime": "2026-03-28 17:52:58",
-    "time": "2026-03-28 17:52:58",
-    "publish_time": "2026-03-28 17:52:58",
-    "raw_data": {
-      "code": "202603283687829654",
-      "image": [],
-      "pinglun_Num": 26,
-      "realSort": "1774691578029654",
-      "share": 16,
-      "showTime": "2026-03-28 17:52:58",
-      "stockList": [],
-      "summary": "【伊朗称击毁敌方2架加油机】据伊朗塔斯尼姆通讯社28日报道，伊朗武装部队哈塔姆安比亚中央总部发言人说，击毁2架敌方加油机，并打击美军1艘支援舰艇。发言人说，27日晚以来，伊朗伊斯兰革命卫队对位于沙特阿拉伯海尔季的美军基地发动导弹袭击，美军5架加油机中有2架被彻底摧毁，另3架严重受损并丧失作战能力。",
-      "title": "伊朗称击毁敌方2架加油机",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603283687829654.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 26,
-    "share_count": 16,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "bc8122df63671676",
-    "code": "202603283687831065",
-    "title": "喜临门1亿现金“消失” 监管火速出手！下周多只牛股将面临解禁（附股）",
-    "summary": "【喜临门1亿现金“消失” 监管火速出手！下周多只牛股将面临解禁（附股）】据统计，下周（3月30日—4月5日）将有29股解禁，合计解禁数量为13.34亿股，以最新收盘价计算（下同），总解禁市值为372.88亿元。下周解禁股较为集中，其中有9股解禁市值超10亿元，合计解禁市值超343.7亿元，占下周全部解禁市值比例为92.17%。",
-    "content": "【喜临门1亿现金“消失” 监管火速出手！下周多只牛股将面临解禁（附股）】据统计，下周（3月30日—4月5日）将有29股解禁，合计解禁数量为13.34亿股，以最新收盘价计算（下同），总解禁市值为372.88亿元。下周解禁股较为集中，其中有9股解禁市值超10亿元，合计解禁市值超343.7亿元，占下周全部解禁市值比例为92.17%。",
-    "full_content": "【喜临门1亿现金“消失” 监管火速出手！下周多只牛股将面临解禁（附股）】据统计，下周（3月30日—4月5日）将有29股解禁，合计解禁数量为13.34亿股，以最新收盘价计算（下同），总解禁市值为372.88亿元。下周解禁股较为集中，其中有9股解禁市值超10亿元，合计解禁市值超343.7亿元，占下周全部解禁市值比例为92.17%。",
-    "sort_time": "1774691340031065",
-    "showTime": "2026-03-28 17:49:00",
-    "time": "2026-03-28 17:49:00",
-    "publish_time": "2026-03-28 17:49:00",
-    "raw_data": {
-      "code": "202603283687831065",
-      "image": [],
-      "pinglun_Num": 17,
-      "realSort": "1774691340031065",
-      "share": 20,
-      "showTime": "2026-03-28 17:49:00",
-      "stockList": [
-        "90.BK0459",
-        "150.512480"
-      ],
-      "summary": "【喜临门1亿现金“消失” 监管火速出手！下周多只牛股将面临解禁（附股）】据统计，下周（3月30日—4月5日）将有29股解禁，合计解禁数量为13.34亿股，以最新收盘价计算（下同），总解禁市值为372.88亿元。下周解禁股较为集中，其中有9股解禁市值超10亿元，合计解禁市值超343.7亿元，占下周全部解禁市值比例为92.17%。",
-      "title": "喜临门1亿现金“消失” 监管火速出手！下周多只牛股将面临解禁（附股）",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603283687831065.html",
-    "category": "政策",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0459",
-      "150.512480"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 17,
-    "share_count": 20,
     "tags": {
       "industries": [],
       "concepts": [],
