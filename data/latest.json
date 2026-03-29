@@ -13,7 +13,7 @@
     "raw_data": {
       "code": "202603303688103491",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774806562003491",
       "share": 0,
       "showTime": "2026-03-30 01:49:22",
@@ -29,7 +29,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -52,7 +52,7 @@
     "raw_data": {
       "code": "202603303688103193",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1774806047003193",
       "share": 0,
       "showTime": "2026-03-30 01:40:47",
@@ -68,7 +68,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -91,7 +91,7 @@
     "raw_data": {
       "code": "202603303688102524",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1774805546002524",
       "share": 0,
       "showTime": "2026-03-30 01:32:26",
@@ -107,7 +107,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -173,7 +173,7 @@
     "raw_data": {
       "code": "202603303688102872",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1774805255002872",
       "share": 0,
       "showTime": "2026-03-30 01:27:35",
@@ -189,7 +189,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -255,7 +255,7 @@
     "raw_data": {
       "code": "202603303688100887",
       "image": [],
-      "pinglun_Num": 24,
+      "pinglun_Num": 27,
       "realSort": "1774802595000887",
       "share": 1,
       "showTime": "2026-03-30 00:43:15",
@@ -271,7 +271,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 24,
+    "comment_count": 27,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -811,7 +811,7 @@
     "raw_data": {
       "code": "202603293688072049",
       "image": [],
-      "pinglun_Num": 70,
+      "pinglun_Num": 71,
       "realSort": "1774794883072049",
       "share": 21,
       "showTime": "2026-03-29 22:34:43",
@@ -827,7 +827,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 70,
+    "comment_count": 71,
     "share_count": 21,
     "tags": {
       "industries": [],
@@ -1097,9 +1097,9 @@
     "raw_data": {
       "code": "202603293688058136",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1774792964058136",
-      "share": 38,
+      "share": 39,
       "showTime": "2026-03-29 22:02:44",
       "stockList": [
         "150.014238",
@@ -1119,8 +1119,8 @@
       "0.159767"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 38,
+    "comment_count": 9,
+    "share_count": 39,
     "tags": {
       "industries": [
         {
@@ -1637,7 +1637,7 @@
     "raw_data": {
       "code": "202603293688042463",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 24,
       "realSort": "1774789000042463",
       "share": 98,
       "showTime": "2026-03-29 20:56:40",
@@ -1657,7 +1657,7 @@
       "90.BK0478"
     ],
     "has_stock_mention": true,
-    "comment_count": 23,
+    "comment_count": 24,
     "share_count": 98,
     "tags": {
       "industries": [
@@ -2304,7 +2304,7 @@
     "raw_data": {
       "code": "202603293688019436",
       "image": [],
-      "pinglun_Num": 145,
+      "pinglun_Num": 144,
       "realSort": "1774782736019436",
       "share": 202,
       "showTime": "2026-03-29 19:12:16",
@@ -2326,7 +2326,7 @@
       "90.BK0490"
     ],
     "has_stock_mention": true,
-    "comment_count": 145,
+    "comment_count": 144,
     "share_count": 202,
     "tags": {
       "industries": [],
