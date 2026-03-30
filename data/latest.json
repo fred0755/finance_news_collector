@@ -1,5 +1,501 @@
 [
   {
+    "id": "c0fcd744a9b13ffb",
+    "code": "202603313689385674",
+    "title": "现货白银从日内低点反弹至70美元/盎司 日内下跌0.13%",
+    "summary": "现货白银从日内低点反弹至70美元/盎司，日内下跌0.13%。",
+    "content": "现货白银从日内低点反弹至70美元/盎司，日内下跌0.13%。",
+    "full_content": "现货白银从日内低点反弹至70美元/盎司，日内下跌0.13%。",
+    "sort_time": "1774909326085674",
+    "showTime": "2026-03-31 06:22:06",
+    "time": "2026-03-31 06:22:06",
+    "publish_time": "2026-03-31 06:22:06",
+    "raw_data": {
+      "code": "202603313689385674",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774909326085674",
+      "share": 0,
+      "showTime": "2026-03-31 06:22:06",
+      "stockList": [
+        "90.BK1616"
+      ],
+      "summary": "现货白银从日内低点反弹至70美元/盎司，日内下跌0.13%。",
+      "title": "现货白银从日内低点反弹至70美元/盎司 日内下跌0.13%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689385674.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK1616"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0d6b18e06b5a506e",
+    "code": "202603313689375088",
+    "title": "全球市场波动 中国资产凸显“避风港”韧性",
+    "summary": "【全球市场波动 中国资产凸显“避风港”韧性】在地缘因素与通胀预期交织共振的背景下，布伦特原油价格3月以来飙升逾40%，全球风险资产遭遇大幅调整，多个主要股指跌幅超过10%。最新数据显示，对冲基金已连续六周净卖出美股，高盛美股波动恐慌指数高企，且连续17个交易日处于恐慌区间，市场避险情绪显著升温。",
+    "content": "【全球市场波动 中国资产凸显“避风港”韧性】在地缘因素与通胀预期交织共振的背景下，布伦特原油价格3月以来飙升逾40%，全球风险资产遭遇大幅调整，多个主要股指跌幅超过10%。最新数据显示，对冲基金已连续六周净卖出美股，高盛美股波动恐慌指数高企，且连续17个交易日处于恐慌区间，市场避险情绪显著升温。",
+    "full_content": "【全球市场波动 中国资产凸显“避风港”韧性】在地缘因素与通胀预期交织共振的背景下，布伦特原油价格3月以来飙升逾40%，全球风险资产遭遇大幅调整，多个主要股指跌幅超过10%。最新数据显示，对冲基金已连续六周净卖出美股，高盛美股波动恐慌指数高企，且连续17个交易日处于恐慌区间，市场避险情绪显著升温。",
+    "sort_time": "1774909207075088",
+    "showTime": "2026-03-31 06:20:07",
+    "time": "2026-03-31 06:20:07",
+    "publish_time": "2026-03-31 06:20:07",
+    "raw_data": {
+      "code": "202603313689375088",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774909207075088",
+      "share": 0,
+      "showTime": "2026-03-31 06:20:07",
+      "stockList": [
+        "90.BK0464",
+        "0.159945"
+      ],
+      "summary": "【全球市场波动 中国资产凸显“避风港”韧性】在地缘因素与通胀预期交织共振的背景下，布伦特原油价格3月以来飙升逾40%，全球风险资产遭遇大幅调整，多个主要股指跌幅超过10%。最新数据显示，对冲基金已连续六周净卖出美股，高盛美股波动恐慌指数高企，且连续17个交易日处于恐慌区间，市场避险情绪显著升温。",
+      "title": "全球市场波动 中国资产凸显“避风港”韧性",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689375088.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464",
+      "0.159945"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        },
+        {
+          "id": "C701",
+          "name": "国企改革",
+          "matched_keyword": "国资"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C506",
+        "C701"
+      ]
+    }
+  },
+  {
+    "id": "a5c91c559e0d714c",
+    "code": "202603313689381992",
+    "title": "一艘油轮在迪拜附近海域起火",
+    "summary": "【一艘油轮在迪拜附近海域起火】当地时间30日，英国海事贸易行动办公室发布通告称，一艘油轮当天在阿联酋迪拜西北31海里处被一枚不明物体击中右舷，导致船上起火。通告称，船上所有人员安全。",
+    "content": "【一艘油轮在迪拜附近海域起火】当地时间30日，英国海事贸易行动办公室发布通告称，一艘油轮当天在阿联酋迪拜西北31海里处被一枚不明物体击中右舷，导致船上起火。通告称，船上所有人员安全。",
+    "full_content": "【一艘油轮在迪拜附近海域起火】当地时间30日，英国海事贸易行动办公室发布通告称，一艘油轮当天在阿联酋迪拜西北31海里处被一枚不明物体击中右舷，导致船上起火。通告称，船上所有人员安全。",
+    "sort_time": "1774908882081992",
+    "showTime": "2026-03-31 06:14:42",
+    "time": "2026-03-31 06:14:42",
+    "publish_time": "2026-03-31 06:14:42",
+    "raw_data": {
+      "code": "202603313689381992",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774908882081992",
+      "share": 0,
+      "showTime": "2026-03-31 06:14:42",
+      "stockList": [],
+      "summary": "【一艘油轮在迪拜附近海域起火】当地时间30日，英国海事贸易行动办公室发布通告称，一艘油轮当天在阿联酋迪拜西北31海里处被一枚不明物体击中右舷，导致船上起火。通告称，船上所有人员安全。",
+      "title": "一艘油轮在迪拜附近海域起火",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689381992.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1b56ead7d0257800",
+    "code": "202603313689380937",
+    "title": "美联储威廉姆斯称：美联储需要关注数据 以判断能源将如何影响通胀",
+    "summary": "美联储威廉姆斯称，美联储需要关注数据，以判断能源将如何影响通胀。到目前为止，预计能源价格将影响整体通胀，而非核心通胀。",
+    "content": "美联储威廉姆斯称，美联储需要关注数据，以判断能源将如何影响通胀。到目前为止，预计能源价格将影响整体通胀，而非核心通胀。",
+    "full_content": "美联储威廉姆斯称，美联储需要关注数据，以判断能源将如何影响通胀。到目前为止，预计能源价格将影响整体通胀，而非核心通胀。",
+    "sort_time": "1774908724080937",
+    "showTime": "2026-03-31 06:12:04",
+    "time": "2026-03-31 06:12:04",
+    "publish_time": "2026-03-31 06:12:04",
+    "raw_data": {
+      "code": "202603313689380937",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774908724080937",
+      "share": 0,
+      "showTime": "2026-03-31 06:12:04",
+      "stockList": [
+        "0.159945",
+        "150.014238"
+      ],
+      "summary": "美联储威廉姆斯称，美联储需要关注数据，以判断能源将如何影响通胀。到目前为止，预计能源价格将影响整体通胀，而非核心通胀。",
+      "title": "美联储威廉姆斯称：美联储需要关注数据 以判断能源将如何影响通胀",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689380937.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7e21473ffe56538a",
+    "code": "202603313689378788",
+    "title": "美联储4月维持利率不变的概率为97.4%",
+    "summary": "【美联储4月维持利率不变的概率为97.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为2.6%，维持利率不变的概率为97.4%。美联储到6月累计降息25个基点的概率为5%，维持利率不变的概率为92.5%，累计加息25个基点的概率为2.5%。",
+    "content": "【美联储4月维持利率不变的概率为97.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为2.6%，维持利率不变的概率为97.4%。美联储到6月累计降息25个基点的概率为5%，维持利率不变的概率为92.5%，累计加息25个基点的概率为2.5%。",
+    "full_content": "【美联储4月维持利率不变的概率为97.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为2.6%，维持利率不变的概率为97.4%。美联储到6月累计降息25个基点的概率为5%，维持利率不变的概率为92.5%，累计加息25个基点的概率为2.5%。",
+    "sort_time": "1774908347078788",
+    "showTime": "2026-03-31 06:05:47",
+    "time": "2026-03-31 06:05:47",
+    "publish_time": "2026-03-31 06:05:47",
+    "raw_data": {
+      "code": "202603313689378788",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1774908347078788",
+      "share": 1,
+      "showTime": "2026-03-31 06:05:47",
+      "stockList": [],
+      "summary": "【美联储4月维持利率不变的概率为97.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为2.6%，维持利率不变的概率为97.4%。美联储到6月累计降息25个基点的概率为5%，维持利率不变的概率为92.5%，累计加息25个基点的概率为2.5%。",
+      "title": "美联储4月维持利率不变的概率为97.4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689378788.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "降息"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "降息"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "e60fdaa9413935ec",
+    "code": "202603313689378461",
+    "title": "纽约联储行长威廉姆斯表示：石油价格冲击尚未改变核心通胀预测",
+    "summary": "纽约联储行长威廉姆斯表示，石油价格冲击尚未改变核心通胀预测。",
+    "content": "纽约联储行长威廉姆斯表示，石油价格冲击尚未改变核心通胀预测。",
+    "full_content": "纽约联储行长威廉姆斯表示，石油价格冲击尚未改变核心通胀预测。",
+    "sort_time": "1774908317078461",
+    "showTime": "2026-03-31 06:05:17",
+    "time": "2026-03-31 06:05:17",
+    "publish_time": "2026-03-31 06:05:17",
+    "raw_data": {
+      "code": "202603313689378461",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774908317078461",
+      "share": 0,
+      "showTime": "2026-03-31 06:05:17",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "纽约联储行长威廉姆斯表示，石油价格冲击尚未改变核心通胀预测。",
+      "title": "纽约联储行长威廉姆斯表示：石油价格冲击尚未改变核心通胀预测",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689378461.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "f5e64528c2aa951f",
+    "code": "202603313689377134",
+    "title": "美油高开近2%",
+    "summary": "【美油高开近2%】周二亚太早盘，国际油价走高，WTI原油涨1.89%，报104.827美元/桶。美股期指小幅走低，道琼斯指数期货涨0.03%，标普500指数期货跌0.01%，纳斯达克100指数期货跌0.06%。国际贵金属走高，现货黄金涨0.07%，报4514.31美元/盎司；现货白银涨0.30%，报70.30美元/盎司。",
+    "content": "【美油高开近2%】周二亚太早盘，国际油价走高，WTI原油涨1.89%，报104.827美元/桶。美股期指小幅走低，道琼斯指数期货涨0.03%，标普500指数期货跌0.01%，纳斯达克100指数期货跌0.06%。国际贵金属走高，现货黄金涨0.07%，报4514.31美元/盎司；现货白银涨0.30%，报70.30美元/盎司。",
+    "full_content": "【美油高开近2%】周二亚太早盘，国际油价走高，WTI原油涨1.89%，报104.827美元/桶。美股期指小幅走低，道琼斯指数期货涨0.03%，标普500指数期货跌0.01%，纳斯达克100指数期货跌0.06%。国际贵金属走高，现货黄金涨0.07%，报4514.31美元/盎司；现货白银涨0.30%，报70.30美元/盎司。",
+    "sort_time": "1774908142077134",
+    "showTime": "2026-03-31 06:02:22",
+    "time": "2026-03-31 06:02:22",
+    "publish_time": "2026-03-31 06:02:22",
+    "raw_data": {
+      "code": "202603313689377134",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774908142077134",
+      "share": 1,
+      "showTime": "2026-03-31 06:02:22",
+      "stockList": [
+        "150.011631"
+      ],
+      "summary": "【美油高开近2%】周二亚太早盘，国际油价走高，WTI原油涨1.89%，报104.827美元/桶。美股期指小幅走低，道琼斯指数期货涨0.03%，标普500指数期货跌0.01%，纳斯达克100指数期货跌0.06%。国际贵金属走高，现货黄金涨0.07%，报4514.31美元/盎司；现货白银涨0.30%，报70.30美元/盎司。",
+      "title": "美油高开近2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689377134.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.011631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502",
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "7f244cfa2521a969",
+    "code": "202603313689375847",
+    "title": "智利部长委员会批准价值10亿美元的多个可再生能源项目",
+    "summary": "智利部长委员会批准价值10亿美元的多个可再生能源项目。",
+    "content": "智利部长委员会批准价值10亿美元的多个可再生能源项目。",
+    "full_content": "智利部长委员会批准价值10亿美元的多个可再生能源项目。",
+    "sort_time": "1774907969075847",
+    "showTime": "2026-03-31 05:59:29",
+    "time": "2026-03-31 05:59:29",
+    "publish_time": "2026-03-31 05:59:29",
+    "raw_data": {
+      "code": "202603313689375847",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1774907969075847",
+      "share": 0,
+      "showTime": "2026-03-31 05:59:29",
+      "stockList": [],
+      "summary": "智利部长委员会批准价值10亿美元的多个可再生能源项目。",
+      "title": "智利部长委员会批准价值10亿美元的多个可再生能源项目",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689375847.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "717f6fb141d41544",
+    "code": "202603313689375547",
+    "title": "据报道：联合利华表示已实施招聘冻结措施 将持续至少三个月",
+    "summary": "据报道，联合利华表示已实施招聘冻结措施，将持续至少三个月。",
+    "content": "据报道，联合利华表示已实施招聘冻结措施，将持续至少三个月。",
+    "full_content": "据报道，联合利华表示已实施招聘冻结措施，将持续至少三个月。",
+    "sort_time": "1774907322075547",
+    "showTime": "2026-03-31 05:48:42",
+    "time": "2026-03-31 05:48:42",
+    "publish_time": "2026-03-31 05:48:42",
+    "raw_data": {
+      "code": "202603313689375547",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774907322075547",
+      "share": 0,
+      "showTime": "2026-03-31 05:48:42",
+      "stockList": [
+        "155.ULVR"
+      ],
+      "summary": "据报道，联合利华表示已实施招聘冻结措施，将持续至少三个月。",
+      "title": "据报道：联合利华表示已实施招聘冻结措施 将持续至少三个月",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689375547.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "155.ULVR"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "faea64873bb3997b",
+    "code": "202603313689372791",
+    "title": "特朗普威胁摧毁伊朗石油设施 国际油价应声大涨",
+    "summary": "【特朗普威胁摧毁伊朗石油设施 国际油价应声大涨】当地时间3月30日，受中东冲突升级预期影响，国际油价大幅走高。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨3.24美元，收于每桶102.88美元，涨幅为3.25%；5月交货的伦敦布伦特原油期货价格上涨21美分，收于每桶112.78美元，涨幅为0.19%。",
+    "content": "【特朗普威胁摧毁伊朗石油设施 国际油价应声大涨】当地时间3月30日，受中东冲突升级预期影响，国际油价大幅走高。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨3.24美元，收于每桶102.88美元，涨幅为3.25%；5月交货的伦敦布伦特原油期货价格上涨21美分，收于每桶112.78美元，涨幅为0.19%。",
+    "full_content": "【特朗普威胁摧毁伊朗石油设施 国际油价应声大涨】当地时间3月30日，受中东冲突升级预期影响，国际油价大幅走高。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨3.24美元，收于每桶102.88美元，涨幅为3.25%；5月交货的伦敦布伦特原油期货价格上涨21美分，收于每桶112.78美元，涨幅为0.19%。",
+    "sort_time": "1774906247072791",
+    "showTime": "2026-03-31 05:30:47",
+    "time": "2026-03-31 05:30:47",
+    "publish_time": "2026-03-31 05:30:47",
+    "raw_data": {
+      "code": "202603313689372791",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1774906247072791",
+      "share": 0,
+      "showTime": "2026-03-31 05:30:47",
+      "stockList": [
+        "90.BK0464",
+        "150.014238"
+      ],
+      "summary": "【特朗普威胁摧毁伊朗石油设施 国际油价应声大涨】当地时间3月30日，受中东冲突升级预期影响，国际油价大幅走高。截至当天收盘，纽约商品交易所5月交货的轻质原油期货价格上涨3.24美元，收于每桶102.88美元，涨幅为3.25%；5月交货的伦敦布伦特原油期货价格上涨21美分，收于每桶112.78美元，涨幅为0.19%。",
+      "title": "特朗普威胁摧毁伊朗石油设施 国际油价应声大涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689372791.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0464",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "3ac9c3f4dacfd68a",
     "code": "202603313689371693",
     "title": "富时中国A50指数期货夜盘收跌0.16% 报14547点",
@@ -13,7 +509,7 @@
     "raw_data": {
       "code": "202603313689371693",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774905504071693",
       "share": 0,
       "showTime": "2026-03-31 05:18:24",
@@ -29,7 +525,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -113,9 +609,9 @@
     "raw_data": {
       "code": "202603313689371428",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 15,
       "realSort": "1774905180071428",
-      "share": 3,
+      "share": 7,
       "showTime": "2026-03-31 05:13:00",
       "stockList": [],
       "summary": "【市场监管总局发文要求 着力防治重点行业和领域“内卷式”竞争】国家市场监督管理总局3月30日发布《关于进一步贯彻实施〈中华人民共和国反不正当竞争法〉的通知》，对准确把握贯彻实施反不正当竞争法的工作重点、积极推动反不正当竞争法有效实施等内容提出要求。",
@@ -129,8 +625,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 3,
+    "comment_count": 15,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -152,9 +648,9 @@
     "raw_data": {
       "code": "202603303689282888",
       "image": [],
-      "pinglun_Num": 71,
+      "pinglun_Num": 82,
       "realSort": "1774904409082888",
-      "share": 48,
+      "share": 55,
       "showTime": "2026-03-31 05:00:09",
       "stockList": [
         "90.BK0464"
@@ -172,8 +668,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 71,
-    "share_count": 48,
+    "comment_count": 82,
+    "share_count": 55,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -242,9 +738,9 @@
     "raw_data": {
       "code": "202603313689369913",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 24,
       "realSort": "1774904143069913",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-03-31 04:55:43",
       "stockList": [],
       "summary": "【特朗普欲让阿拉伯国家为美国打伊朗埋单】美国白宫新闻秘书莱维特30日在记者会上说，美总统特朗普有意呼吁阿拉伯国家承担美对伊朗军事行动的费用，并称这是特朗普自己的一个想法。被问及阿拉伯国家是否会协助支付战争费用时，莱维特表示，她认为特朗普“会非常有兴趣呼吁他们去落实这件事”，“据我所知，这是他确实有过的一个想法。而且我认为，你们随后会听到他就此发表更多言论”。",
@@ -258,8 +754,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 4,
+    "comment_count": 24,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -281,7 +777,7 @@
     "raw_data": {
       "code": "202603313689369517",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774903899069517",
       "share": 0,
       "showTime": "2026-03-31 04:51:39",
@@ -303,7 +799,7 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -334,9 +830,9 @@
     "raw_data": {
       "code": "202603313689369255",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 16,
       "realSort": "1774903857069255",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-03-31 04:50:57",
       "stockList": [],
       "summary": "【默茨：伊朗战事若升级 欧洲承压堪比疫情】德国总理默茨30日表示，如果美国和以色列对伊朗的战事演变成一场区域性大规模冲突，德国和欧洲或许将面临与新冠疫情期间或乌克兰危机升级之初程度相当的压力。默茨当天在与到访柏林的叙利亚过渡政府总统艾哈迈德·沙拉共同会见记者时说，这场战事“影响着我们所有人”，“已经渗透到我们的日常生活中”。数周以来，德国家庭和企业承受着持续上涨的能源价格。德国不得不再次加强对犹太教堂和犹太人社区的警力保护。",
@@ -350,8 +846,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
-    "share_count": 2,
+    "comment_count": 16,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -563,7 +1059,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1774901400065147",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-31 04:10:00",
       "stockList": [
         "90.BK1361"
@@ -582,7 +1078,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -612,9 +1108,9 @@
     "raw_data": {
       "code": "202603313689364913",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 12,
       "realSort": "1774901254064913",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-03-31 04:07:34",
       "stockList": [],
       "summary": "【伊朗议长：美以威胁伊朗是“重大错误”】当地时间3月30日，伊朗伊斯兰议会议长卡利巴夫表示，美国和以色列威胁伊朗是“重大错误”。卡利巴夫当天在社交媒体发文称，伊朗将在最高领袖指挥下，让任何侵略者付出代价，坚决维护自身权利。",
@@ -628,8 +1124,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 2,
+    "comment_count": 12,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -651,9 +1147,9 @@
     "raw_data": {
       "code": "202603313689364594",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 10,
       "realSort": "1774901163064594",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-03-31 04:06:03",
       "stockList": [],
       "summary": "【伊朗第一副总统警告美国：向哈尔克岛派兵将有去无回】当地时间3月30日，伊朗第一副总统阿雷夫警告美国总统特朗普不要派兵攻打伊朗哈尔克岛。阿雷夫表示，特朗普可以决定是否向哈尔克岛派兵，但能否从那里撤军将不由美方掌控，因为“没有人能从地狱里活着回来”。",
@@ -667,8 +1163,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 4,
+    "comment_count": 10,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -788,7 +1284,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1774900814062761",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-31 04:00:14",
       "stockList": [
         "150.013446",
@@ -809,7 +1305,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -896,9 +1392,9 @@
     "raw_data": {
       "code": "202603313689362470",
       "image": [],
-      "pinglun_Num": 186,
+      "pinglun_Num": 254,
       "realSort": "1774899609062470",
-      "share": 55,
+      "share": 95,
       "showTime": "2026-03-31 03:40:09",
       "stockList": [],
       "summary": "【伊朗议会批准对霍尔木兹海峡征收通行费的法案】当地时间3月30日，伊朗议会国家安全委员会通过了拟对霍尔木兹海峡通行船只收费的法案。计划内容包括将以伊朗里亚尔形式实施财务安排和收费系统；将禁止美国和以色列的船只通过霍尔木兹海峡；将维护伊朗及其武装部队的主导地位；将禁止参与对伊朗单边制裁的国家通行；伊朗将与阿曼合作制定相关法律框架。",
@@ -912,8 +1408,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 186,
-    "share_count": 55,
+    "comment_count": 254,
+    "share_count": 95,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -976,7 +1472,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1774898184060583",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-31 03:16:24",
       "stockList": [
         "90.BK0704"
@@ -995,7 +1491,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1025,7 +1521,7 @@
     "raw_data": {
       "code": "202603313689360411",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1774897812060411",
       "share": 0,
       "showTime": "2026-03-31 03:10:12",
@@ -1041,7 +1537,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1289,7 +1785,7 @@
       "image": [],
       "pinglun_Num": 16,
       "realSort": "1774896678058995",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-31 02:51:18",
       "stockList": [],
       "summary": "【伊朗：发动第87波攻势 打击美军指挥中心】伊朗伊斯兰革命卫队30日发表声明说，革命卫队海军当天发动“真实承诺-4”行动第87波攻势，对美国和以色列目标实施4次打击。声明说，伊朗伊斯兰革命卫队使用精确制导导弹打击位于阿联酋的一处美军指挥控制中心，内有超过200名美军指挥官和中层军官；使用无人机精确打击在巴林一处秘密住宿地点召开会议的美国海军第五舰队指挥官。",
@@ -1304,7 +1800,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 16,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1381,9 +1877,9 @@
     "raw_data": {
       "code": "202603313689358758",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 23,
       "realSort": "1774896178058758",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-03-31 02:42:58",
       "stockList": [],
       "summary": "【以军称战争已进入“收尾阶段” 将打击伊朗经济目标】当地时间30日获悉，以色列军方和其他以色列领导人表示，在与伊朗开战一个月后，以色列军方几乎完成了对冲突开始时自行确定的所有目标的轰炸，以色列在伊朗的军事目标已进入“收尾阶段”。以色列政治领导层已命令军队转向打击伊朗政权的“经济”目标。",
@@ -1397,8 +1893,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 21,
-    "share_count": 3,
+    "comment_count": 23,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1420,7 +1916,7 @@
     "raw_data": {
       "code": "202603313689358510",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1774895624058510",
       "share": 0,
       "showTime": "2026-03-31 02:33:44",
@@ -1440,7 +1936,7 @@
       "90.BK1361"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1549,7 +2045,7 @@
     "raw_data": {
       "code": "202603313689358117",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 11,
       "realSort": "1774894704058117",
       "share": 0,
       "showTime": "2026-03-31 02:18:24",
@@ -1565,7 +2061,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 11,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1588,9 +2084,9 @@
     "raw_data": {
       "code": "202603313689358046",
       "image": [],
-      "pinglun_Num": 24,
+      "pinglun_Num": 32,
       "realSort": "1774894652058046",
-      "share": 5,
+      "share": 15,
       "showTime": "2026-03-31 02:17:32",
       "stockList": [
         "0.159945",
@@ -1610,8 +2106,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 24,
-    "share_count": 5,
+    "comment_count": 32,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1633,9 +2129,9 @@
     "raw_data": {
       "code": "202603313689357912",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 39,
       "realSort": "1774894325057912",
-      "share": 6,
+      "share": 8,
       "showTime": "2026-03-31 02:12:05",
       "stockList": [],
       "summary": "【美白宫：美国与伊朗对话仍在持续进行 且进展顺利】当地时间3月30日，美国白宫新闻秘书莱维特表示，美伊双方的对话仍在持续进行，且进展顺利。",
@@ -1649,8 +2145,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 29,
-    "share_count": 6,
+    "comment_count": 39,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1754,9 +2250,9 @@
     "raw_data": {
       "code": "202603313689310950",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1774893588010950",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-03-31 01:59:48",
       "stockList": [
         "150.012322",
@@ -1776,8 +2272,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 11,
+    "comment_count": 5,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1790,546 +2286,6 @@
       "industry_ids": [],
       "concept_ids": [
         "C105"
-      ]
-    }
-  },
-  {
-    "id": "61ec02d12bc1531e",
-    "code": "202603313689345810",
-    "title": "美股芯片股走低 费城半导体指数跌4%",
-    "summary": "【美股芯片股走低 费城半导体指数跌4%】美股芯片股走低，费城半导体指数跌4%，西部数据跌超8%，闪迪、希捷科技跌超6%，英特尔、应用材料、ARM跌超4%，台积电、阿斯麦跌超3%，AMD、博通跌超2%。",
-    "content": "【美股芯片股走低 费城半导体指数跌4%】美股芯片股走低，费城半导体指数跌4%，西部数据跌超8%，闪迪、希捷科技跌超6%，英特尔、应用材料、ARM跌超4%，台积电、阿斯麦跌超3%，AMD、博通跌超2%。",
-    "full_content": "【美股芯片股走低 费城半导体指数跌4%】美股芯片股走低，费城半导体指数跌4%，西部数据跌超8%，闪迪、希捷科技跌超6%，英特尔、应用材料、ARM跌超4%，台积电、阿斯麦跌超3%，AMD、博通跌超2%。",
-    "sort_time": "1774892834045810",
-    "showTime": "2026-03-31 01:47:14",
-    "time": "2026-03-31 01:47:14",
-    "publish_time": "2026-03-31 01:47:14",
-    "raw_data": {
-      "code": "202603313689345810",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1774892834045810",
-      "share": 4,
-      "showTime": "2026-03-31 01:47:14",
-      "stockList": [
-        "90.BK1036",
-        "90.BK0459"
-      ],
-      "summary": "【美股芯片股走低 费城半导体指数跌4%】美股芯片股走低，费城半导体指数跌4%，西部数据跌超8%，闪迪、希捷科技跌超6%，英特尔、应用材料、ARM跌超4%，台积电、阿斯麦跌超3%，AMD、博通跌超2%。",
-      "title": "美股芯片股走低 费城半导体指数跌4%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313689345810.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1036",
-      "90.BK0459"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 4,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        },
-        {
-          "id": "I010103",
-          "name": "消费电子",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "AR"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "C009",
-          "name": "元宇宙",
-          "matched_keyword": "AR"
-        }
-      ],
-      "industry_ids": [
-        "I010101",
-        "I010103"
-      ],
-      "concept_ids": [
-        "C002",
-        "C009"
-      ]
-    }
-  },
-  {
-    "id": "45fa569f2f9680b9",
-    "code": "202603303689269767",
-    "title": "上次重组折戟不足一年 业绩连续下滑的高凌信息再抛收购预案 这次“押注”卫星通信",
-    "summary": "【上次重组折戟不足一年 业绩连续下滑的高凌信息再抛收购预案 这次“押注”卫星通信】在连续两年亏损及上一次重大资产重组失败的双重背景下，科创板上市公司高凌信息（SH688175）再次将目光投向了外延式并购，约半个月前，高凌信息宣布收购。",
-    "content": "【上次重组折戟不足一年 业绩连续下滑的高凌信息再抛收购预案 这次“押注”卫星通信】在连续两年亏损及上一次重大资产重组失败的双重背景下，科创板上市公司高凌信息（SH688175）再次将目光投向了外延式并购，约半个月前，高凌信息宣布收购。",
-    "full_content": "【上次重组折戟不足一年 业绩连续下滑的高凌信息再抛收购预案 这次“押注”卫星通信】在连续两年亏损及上一次重大资产重组失败的双重背景下，科创板上市公司高凌信息（SH688175）再次将目光投向了外延式并购，约半个月前，高凌信息宣布收购。",
-    "sort_time": "1774892271069767",
-    "showTime": "2026-03-31 01:37:51",
-    "time": "2026-03-31 01:37:51",
-    "publish_time": "2026-03-31 01:37:51",
-    "raw_data": {
-      "code": "202603303689269767",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1774892271069767",
-      "share": 1,
-      "showTime": "2026-03-31 01:37:51",
-      "stockList": [
-        "150.012372",
-        "1007.BK000174"
-      ],
-      "summary": "【上次重组折戟不足一年 业绩连续下滑的高凌信息再抛收购预案 这次“押注”卫星通信】在连续两年亏损及上一次重大资产重组失败的双重背景下，科创板上市公司高凌信息（SH688175）再次将目光投向了外延式并购，约半个月前，高凌信息宣布收购。",
-      "title": "上次重组折戟不足一年 业绩连续下滑的高凌信息再抛收购预案 这次“押注”卫星通信",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689269767.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "bearish",
-    "related_stocks": [
-      "150.012372",
-      "1007.BK000174"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020202",
-          "name": "投资银行",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "并购"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "通信"
-        },
-        {
-          "id": "C202",
-          "name": "航天",
-          "matched_keyword": "卫星"
-        }
-      ],
-      "industry_ids": [
-        "I020202"
-      ],
-      "concept_ids": [
-        "C004",
-        "C202"
-      ]
-    }
-  },
-  {
-    "id": "ec2a0539dccbad2b",
-    "code": "202603303689156624",
-    "title": "蚂蚁收购耀才证券 完成交割！",
-    "summary": "【蚂蚁收购耀才证券 完成交割！】3月30日晚间，耀才证券官宣，蚂蚁以28.14亿港元收购耀才50.55%股权，完成交割。同时公示，新董事会成员获委任。",
-    "content": "【蚂蚁收购耀才证券 完成交割！】3月30日晚间，耀才证券官宣，蚂蚁以28.14亿港元收购耀才50.55%股权，完成交割。同时公示，新董事会成员获委任。",
-    "full_content": "【蚂蚁收购耀才证券 完成交割！】3月30日晚间，耀才证券官宣，蚂蚁以28.14亿港元收购耀才50.55%股权，完成交割。同时公示，新董事会成员获委任。",
-    "sort_time": "1774892121056624",
-    "showTime": "2026-03-31 01:35:21",
-    "time": "2026-03-31 01:35:21",
-    "publish_time": "2026-03-31 01:35:21",
-    "raw_data": {
-      "code": "202603303689156624",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1774892121056624",
-      "share": 2,
-      "showTime": "2026-03-31 01:35:21",
-      "stockList": [
-        "150.161027",
-        "150.161025"
-      ],
-      "summary": "【蚂蚁收购耀才证券 完成交割！】3月30日晚间，耀才证券官宣，蚂蚁以28.14亿港元收购耀才50.55%股权，完成交割。同时公示，新董事会成员获委任。",
-      "title": "蚂蚁收购耀才证券 完成交割！",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689156624.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.161027",
-      "150.161025"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 2,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401"
-      ]
-    }
-  },
-  {
-    "id": "4a6cd3135ff58a53",
-    "code": "202603303689269588",
-    "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
-    "summary": "【科技股暴跌释放反转信号 华尔街吹响“抄底”号角】分析人士指出，尽管大型科技股近段时间遭到抛售，并导致纳斯达克100指数进入技术性调整，但这场惨烈的跌势正显现出一些信号，这些信号在过去曾预示着该板块的行情拐点即将到来。",
-    "content": "【科技股暴跌释放反转信号 华尔街吹响“抄底”号角】分析人士指出，尽管大型科技股近段时间遭到抛售，并导致纳斯达克100指数进入技术性调整，但这场惨烈的跌势正显现出一些信号，这些信号在过去曾预示着该板块的行情拐点即将到来。",
-    "full_content": "【科技股暴跌释放反转信号 华尔街吹响“抄底”号角】分析人士指出，尽管大型科技股近段时间遭到抛售，并导致纳斯达克100指数进入技术性调整，但这场惨烈的跌势正显现出一些信号，这些信号在过去曾预示着该板块的行情拐点即将到来。",
-    "sort_time": "1774892038069588",
-    "showTime": "2026-03-31 01:33:58",
-    "time": "2026-03-31 01:33:58",
-    "publish_time": "2026-03-31 01:33:58",
-    "raw_data": {
-      "code": "202603303689269588",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1774892038069588",
-      "share": 2,
-      "showTime": "2026-03-31 01:33:58",
-      "stockList": [
-        "90.BK0800"
-      ],
-      "summary": "【科技股暴跌释放反转信号 华尔街吹响“抄底”号角】分析人士指出，尽管大型科技股近段时间遭到抛售，并导致纳斯达克100指数进入技术性调整，但这场惨烈的跌势正显现出一些信号，这些信号在过去曾预示着该板块的行情拐点即将到来。",
-      "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689269588.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "679e318799d4426c",
-    "code": "202603303689252982",
-    "title": "三家锂企率先披露2025年年报：第四季度业绩环比大增 毛利分化显示资源端掌控力",
-    "summary": "【三家锂企率先披露2025年年报：第四季度业绩环比大增 毛利分化显示资源端掌控力】2025年，锂价整体呈现“先抑后扬”的走势。随着年报季拉开帷幕，融捷股份（SZ002192，股价81.98元，市值213亿元）、天齐锂业（SZ002466，股价57.24元，市值942亿元）、盛新锂能（SZ002240，股价42.08元，市值385亿元）三家锂企在2026年3月下旬率先交出成绩单。",
-    "content": "【三家锂企率先披露2025年年报：第四季度业绩环比大增 毛利分化显示资源端掌控力】2025年，锂价整体呈现“先抑后扬”的走势。随着年报季拉开帷幕，融捷股份（SZ002192，股价81.98元，市值213亿元）、天齐锂业（SZ002466，股价57.24元，市值942亿元）、盛新锂能（SZ002240，股价42.08元，市值385亿元）三家锂企在2026年3月下旬率先交出成绩单。",
-    "full_content": "【三家锂企率先披露2025年年报：第四季度业绩环比大增 毛利分化显示资源端掌控力】2025年，锂价整体呈现“先抑后扬”的走势。随着年报季拉开帷幕，融捷股份（SZ002192，股价81.98元，市值213亿元）、天齐锂业（SZ002466，股价57.24元，市值942亿元）、盛新锂能（SZ002240，股价42.08元，市值385亿元）三家锂企在2026年3月下旬率先交出成绩单。",
-    "sort_time": "1774891963052982",
-    "showTime": "2026-03-31 01:32:43",
-    "time": "2026-03-31 01:32:43",
-    "publish_time": "2026-03-31 01:32:43",
-    "raw_data": {
-      "code": "202603303689252982",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1774891963052982",
-      "share": 17,
-      "showTime": "2026-03-31 01:32:43",
-      "stockList": [
-        "90.BK0478",
-        "90.BK0574"
-      ],
-      "summary": "【三家锂企率先披露2025年年报：第四季度业绩环比大增 毛利分化显示资源端掌控力】2025年，锂价整体呈现“先抑后扬”的走势。随着年报季拉开帷幕，融捷股份（SZ002192，股价81.98元，市值213亿元）、天齐锂业（SZ002466，股价57.24元，市值942亿元）、盛新锂能（SZ002240，股价42.08元，市值385亿元）三家锂企在2026年3月下旬率先交出成绩单。",
-      "title": "三家锂企率先披露2025年年报：第四季度业绩环比大增 毛利分化显示资源端掌控力",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689252982.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0478",
-      "90.BK0574"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 17,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "54bd8709a05aef89",
-    "code": "202603313689334169",
-    "title": "纳斯达克综合指数跌幅扩大",
-    "summary": "纳斯达克综合指数跌幅扩大，现跌0.5%，最新报20841.19点。",
-    "content": "纳斯达克综合指数跌幅扩大，现跌0.5%，最新报20841.19点。",
-    "full_content": "纳斯达克综合指数跌幅扩大，现跌0.5%，最新报20841.19点。",
-    "sort_time": "1774891756034169",
-    "showTime": "2026-03-31 01:29:16",
-    "time": "2026-03-31 01:29:16",
-    "publish_time": "2026-03-31 01:29:16",
-    "raw_data": {
-      "code": "202603313689334169",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1774891756034169",
-      "share": 0,
-      "showTime": "2026-03-31 01:29:16",
-      "stockList": [],
-      "summary": "纳斯达克综合指数跌幅扩大，现跌0.5%，最新报20841.19点。",
-      "title": "纳斯达克综合指数跌幅扩大",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313689334169.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "39d5ef9e2e7ab188",
-    "code": "202603303689278638",
-    "title": "国有六大行2025年业绩收官！4200亿元分红底气何在",
-    "summary": "【国有六大行2025年业绩收官！4200亿元分红底气何在】随着3月30日晚间农业银行、中国银行年报的正式公布，国有六大行2025年度业绩披露圆满收官。过去一年，面对复杂多变的市场环境，六家国有大行悉数实现营收与归母净利润“双正增长”，交出一份稳健的成绩单。在净息差普遍承压的背景下，六大行通过优化信贷、加强负债端成本管控积极应对，同时拿出超4200亿元用于分红回馈股东，成为资本市场中稳定的“压舱石”。而在数字化转型的浪潮中，AI技术的加速落地尤为亮眼，从信贷审批到风险管控，人工智能正深度融入业务全流程。",
-    "content": "【国有六大行2025年业绩收官！4200亿元分红底气何在】随着3月30日晚间农业银行、中国银行年报的正式公布，国有六大行2025年度业绩披露圆满收官。过去一年，面对复杂多变的市场环境，六家国有大行悉数实现营收与归母净利润“双正增长”，交出一份稳健的成绩单。在净息差普遍承压的背景下，六大行通过优化信贷、加强负债端成本管控积极应对，同时拿出超4200亿元用于分红回馈股东，成为资本市场中稳定的“压舱石”。而在数字化转型的浪潮中，AI技术的加速落地尤为亮眼，从信贷审批到风险管控，人工智能正深度融入业务全流程。",
-    "full_content": "【国有六大行2025年业绩收官！4200亿元分红底气何在】随着3月30日晚间农业银行、中国银行年报的正式公布，国有六大行2025年度业绩披露圆满收官。过去一年，面对复杂多变的市场环境，六家国有大行悉数实现营收与归母净利润“双正增长”，交出一份稳健的成绩单。在净息差普遍承压的背景下，六大行通过优化信贷、加强负债端成本管控积极应对，同时拿出超4200亿元用于分红回馈股东，成为资本市场中稳定的“压舱石”。而在数字化转型的浪潮中，AI技术的加速落地尤为亮眼，从信贷审批到风险管控，人工智能正深度融入业务全流程。",
-    "sort_time": "1774891747078638",
-    "showTime": "2026-03-31 01:29:07",
-    "time": "2026-03-31 01:29:07",
-    "publish_time": "2026-03-31 01:29:07",
-    "raw_data": {
-      "code": "202603303689278638",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1774891747078638",
-      "share": 8,
-      "showTime": "2026-03-31 01:29:07",
-      "stockList": [
-        "90.BK0475",
-        "90.BK1283"
-      ],
-      "summary": "【国有六大行2025年业绩收官！4200亿元分红底气何在】随着3月30日晚间农业银行、中国银行年报的正式公布，国有六大行2025年度业绩披露圆满收官。过去一年，面对复杂多变的市场环境，六家国有大行悉数实现营收与归母净利润“双正增长”，交出一份稳健的成绩单。在净息差普遍承压的背景下，六大行通过优化信贷、加强负债端成本管控积极应对，同时拿出超4200亿元用于分红回馈股东，成为资本市场中稳定的“压舱石”。而在数字化转型的浪潮中，AI技术的加速落地尤为亮眼，从信贷审批到风险管控，人工智能正深度融入业务全流程。",
-      "title": "国有六大行2025年业绩收官！4200亿元分红底气何在",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689278638.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0475",
-      "90.BK1283"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 8,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        },
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C001",
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "a02c4a3baa4afe08",
-    "code": "202603313689333885",
-    "title": "罗素2000指数跌至四个月低位",
-    "summary": "罗素2000指数跌至四个月低位，日内下跌1.2%。",
-    "content": "罗素2000指数跌至四个月低位，日内下跌1.2%。",
-    "full_content": "罗素2000指数跌至四个月低位，日内下跌1.2%。",
-    "sort_time": "1774891705033885",
-    "showTime": "2026-03-31 01:28:25",
-    "time": "2026-03-31 01:28:25",
-    "publish_time": "2026-03-31 01:28:25",
-    "raw_data": {
-      "code": "202603313689333885",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1774891705033885",
-      "share": 0,
-      "showTime": "2026-03-31 01:28:25",
-      "stockList": [],
-      "summary": "罗素2000指数跌至四个月低位，日内下跌1.2%。",
-      "title": "罗素2000指数跌至四个月低位",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313689333885.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "072599146c8920d9",
-    "code": "202603303689233767",
-    "title": "摩尔线程：近日与某客户签订6.6亿元合同订单",
-    "summary": "【摩尔线程：近日与某客户签订6.6亿元合同订单】30日晚间，摩尔线程智能科技(北京)股份有限公司（简称“摩尔线程”，688795.SH）披露重大合同公告，公司于近日与某客户签订了产品销售协议（以下简称“合同”），合同标的为摩尔线程夸娥（KUAE）智算集群，合同总价款为6.6亿元。",
-    "content": "【摩尔线程：近日与某客户签订6.6亿元合同订单】30日晚间，摩尔线程智能科技(北京)股份有限公司（简称“摩尔线程”，688795.SH）披露重大合同公告，公司于近日与某客户签订了产品销售协议（以下简称“合同”），合同标的为摩尔线程夸娥（KUAE）智算集群，合同总价款为6.6亿元。",
-    "full_content": "【摩尔线程：近日与某客户签订6.6亿元合同订单】30日晚间，摩尔线程智能科技(北京)股份有限公司（简称“摩尔线程”，688795.SH）披露重大合同公告，公司于近日与某客户签订了产品销售协议（以下简称“合同”），合同标的为摩尔线程夸娥（KUAE）智算集群，合同总价款为6.6亿元。",
-    "sort_time": "1774891650033767",
-    "showTime": "2026-03-31 01:27:30",
-    "time": "2026-03-31 01:27:30",
-    "publish_time": "2026-03-31 01:27:30",
-    "raw_data": {
-      "code": "202603303689233767",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1774891650033767",
-      "share": 5,
-      "showTime": "2026-03-31 01:27:30",
-      "stockList": [
-        "1.688795"
-      ],
-      "summary": "【摩尔线程：近日与某客户签订6.6亿元合同订单】30日晚间，摩尔线程智能科技(北京)股份有限公司（简称“摩尔线程”，688795.SH）披露重大合同公告，公司于近日与某客户签订了产品销售协议（以下简称“合同”），合同标的为摩尔线程夸娥（KUAE）智算集群，合同总价款为6.6亿元。",
-      "title": "摩尔线程：近日与某客户签订6.6亿元合同订单",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689233767.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.688795"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "36a2faa5d1ae5156",
-    "code": "202603303689066426",
-    "title": "可贷额度最高306万元！杭州发布住房公积金新政",
-    "summary": "【可贷额度最高306万元！杭州发布住房公积金新政】3月30日，杭州发布住房公积金新政，其中提出，提高贷款最高额度，普通家庭最高可贷额度提升至180万元，并建立可叠加的上浮机制：新市民、青年人上浮20%，多子女及高层次人才上浮50%，绿色建筑、“以旧换新”购房上浮20%，三类情形最高可叠加上浮70%，实际可贷额度达到306万元。同时，新增支付购房契税提取和物业费提取，扩大家庭代际互助提取范围。",
-    "content": "【可贷额度最高306万元！杭州发布住房公积金新政】3月30日，杭州发布住房公积金新政，其中提出，提高贷款最高额度，普通家庭最高可贷额度提升至180万元，并建立可叠加的上浮机制：新市民、青年人上浮20%，多子女及高层次人才上浮50%，绿色建筑、“以旧换新”购房上浮20%，三类情形最高可叠加上浮70%，实际可贷额度达到306万元。同时，新增支付购房契税提取和物业费提取，扩大家庭代际互助提取范围。",
-    "full_content": "【可贷额度最高306万元！杭州发布住房公积金新政】3月30日，杭州发布住房公积金新政，其中提出，提高贷款最高额度，普通家庭最高可贷额度提升至180万元，并建立可叠加的上浮机制：新市民、青年人上浮20%，多子女及高层次人才上浮50%，绿色建筑、“以旧换新”购房上浮20%，三类情形最高可叠加上浮70%，实际可贷额度达到306万元。同时，新增支付购房契税提取和物业费提取，扩大家庭代际互助提取范围。",
-    "sort_time": "1774891530066426",
-    "showTime": "2026-03-31 01:25:30",
-    "time": "2026-03-31 01:25:30",
-    "publish_time": "2026-03-31 01:25:30",
-    "raw_data": {
-      "code": "202603303689066426",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1774891530066426",
-      "share": 1,
-      "showTime": "2026-03-31 01:25:30",
-      "stockList": [
-        "90.BK0451",
-        "90.BK1202"
-      ],
-      "summary": "【可贷额度最高306万元！杭州发布住房公积金新政】3月30日，杭州发布住房公积金新政，其中提出，提高贷款最高额度，普通家庭最高可贷额度提升至180万元，并建立可叠加的上浮机制：新市民、青年人上浮20%，多子女及高层次人才上浮50%，绿色建筑、“以旧换新”购房上浮20%，三类情形最高可叠加上浮70%，实际可贷额度达到306万元。同时，新增支付购房契税提取和物业费提取，扩大家庭代际互助提取范围。",
-      "title": "可贷额度最高306万元！杭州发布住房公积金新政",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689066426.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0451",
-      "90.BK1202"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C405",
-          "name": "房地产",
-          "matched_keyword": "物业"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C405"
       ]
     }
   }
