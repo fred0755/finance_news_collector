@@ -1,5 +1,144 @@
 [
   {
+    "id": "3ac9c3f4dacfd68a",
+    "code": "202603313689371693",
+    "title": "富时中国A50指数期货夜盘收跌0.16% 报14547点",
+    "summary": "富时中国A50指数期货夜盘收跌0.16%，报14547点。",
+    "content": "富时中国A50指数期货夜盘收跌0.16%，报14547点。",
+    "full_content": "富时中国A50指数期货夜盘收跌0.16%，报14547点。",
+    "sort_time": "1774905504071693",
+    "showTime": "2026-03-31 05:18:24",
+    "time": "2026-03-31 05:18:24",
+    "publish_time": "2026-03-31 05:18:24",
+    "raw_data": {
+      "code": "202603313689371693",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774905504071693",
+      "share": 0,
+      "showTime": "2026-03-31 05:18:24",
+      "stockList": [],
+      "summary": "富时中国A50指数期货夜盘收跌0.16%，报14547点。",
+      "title": "富时中国A50指数期货夜盘收跌0.16% 报14547点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689371693.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0051b8b6db7ef5db",
+    "code": "202603313689371068",
+    "title": "通用汽车将底特律电动汽车工厂停产至4月13日",
+    "summary": "通用汽车将底特律电动汽车工厂停产至4月13日。",
+    "content": "通用汽车将底特律电动汽车工厂停产至4月13日。",
+    "full_content": "通用汽车将底特律电动汽车工厂停产至4月13日。",
+    "sort_time": "1774905293071068",
+    "showTime": "2026-03-31 05:14:53",
+    "time": "2026-03-31 05:14:53",
+    "publish_time": "2026-03-31 05:14:53",
+    "raw_data": {
+      "code": "202603313689371068",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1774905293071068",
+      "share": 0,
+      "showTime": "2026-03-31 05:14:53",
+      "stockList": [
+        "106.GM"
+      ],
+      "summary": "通用汽车将底特律电动汽车工厂停产至4月13日。",
+      "title": "通用汽车将底特律电动汽车工厂停产至4月13日",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689371068.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.GM"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C101",
+          "name": "新能源车",
+          "matched_keyword": "电动汽车"
+        }
+      ],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": [
+        "C101"
+      ]
+    }
+  },
+  {
+    "id": "0e091743fcb411f2",
+    "code": "202603313689371428",
+    "title": "市场监管总局发文要求 着力防治重点行业和领域“内卷式”竞争",
+    "summary": "【市场监管总局发文要求 着力防治重点行业和领域“内卷式”竞争】国家市场监督管理总局3月30日发布《关于进一步贯彻实施〈中华人民共和国反不正当竞争法〉的通知》，对准确把握贯彻实施反不正当竞争法的工作重点、积极推动反不正当竞争法有效实施等内容提出要求。",
+    "content": "【市场监管总局发文要求 着力防治重点行业和领域“内卷式”竞争】国家市场监督管理总局3月30日发布《关于进一步贯彻实施〈中华人民共和国反不正当竞争法〉的通知》，对准确把握贯彻实施反不正当竞争法的工作重点、积极推动反不正当竞争法有效实施等内容提出要求。",
+    "full_content": "【市场监管总局发文要求 着力防治重点行业和领域“内卷式”竞争】国家市场监督管理总局3月30日发布《关于进一步贯彻实施〈中华人民共和国反不正当竞争法〉的通知》，对准确把握贯彻实施反不正当竞争法的工作重点、积极推动反不正当竞争法有效实施等内容提出要求。",
+    "sort_time": "1774905180071428",
+    "showTime": "2026-03-31 05:13:00",
+    "time": "2026-03-31 05:13:00",
+    "publish_time": "2026-03-31 05:13:00",
+    "raw_data": {
+      "code": "202603313689371428",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1774905180071428",
+      "share": 3,
+      "showTime": "2026-03-31 05:13:00",
+      "stockList": [],
+      "summary": "【市场监管总局发文要求 着力防治重点行业和领域“内卷式”竞争】国家市场监督管理总局3月30日发布《关于进一步贯彻实施〈中华人民共和国反不正当竞争法〉的通知》，对准确把握贯彻实施反不正当竞争法的工作重点、积极推动反不正当竞争法有效实施等内容提出要求。",
+      "title": "市场监管总局发文要求 着力防治重点行业和领域“内卷式”竞争",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202603313689371428.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 10,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "ba6044ffd3f18cc7",
     "code": "202603303689282888",
     "title": "深夜跳水！霍尔木兹海峡重大变数！特朗普发出最新威胁！",
@@ -13,9 +152,9 @@
     "raw_data": {
       "code": "202603303689282888",
       "image": [],
-      "pinglun_Num": 42,
+      "pinglun_Num": 71,
       "realSort": "1774904409082888",
-      "share": 33,
+      "share": 48,
       "showTime": "2026-03-31 05:00:09",
       "stockList": [
         "90.BK0464"
@@ -33,8 +172,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 42,
-    "share_count": 33,
+    "comment_count": 71,
+    "share_count": 48,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -103,9 +242,9 @@
     "raw_data": {
       "code": "202603313689369913",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 22,
       "realSort": "1774904143069913",
-      "share": 0,
+      "share": 4,
       "showTime": "2026-03-31 04:55:43",
       "stockList": [],
       "summary": "【特朗普欲让阿拉伯国家为美国打伊朗埋单】美国白宫新闻秘书莱维特30日在记者会上说，美总统特朗普有意呼吁阿拉伯国家承担美对伊朗军事行动的费用，并称这是特朗普自己的一个想法。被问及阿拉伯国家是否会协助支付战争费用时，莱维特表示，她认为特朗普“会非常有兴趣呼吁他们去落实这件事”，“据我所知，这是他确实有过的一个想法。而且我认为，你们随后会听到他就此发表更多言论”。",
@@ -119,8 +258,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 0,
+    "comment_count": 22,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -195,9 +334,9 @@
     "raw_data": {
       "code": "202603313689369255",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 13,
       "realSort": "1774903857069255",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-03-31 04:50:57",
       "stockList": [],
       "summary": "【默茨：伊朗战事若升级 欧洲承压堪比疫情】德国总理默茨30日表示，如果美国和以色列对伊朗的战事演变成一场区域性大规模冲突，德国和欧洲或许将面临与新冠疫情期间或乌克兰危机升级之初程度相当的压力。默茨当天在与到访柏林的叙利亚过渡政府总统艾哈迈德·沙拉共同会见记者时说，这场战事“影响着我们所有人”，“已经渗透到我们的日常生活中”。数周以来，德国家庭和企业承受着持续上涨的能源价格。德国不得不再次加强对犹太教堂和犹太人社区的警力保护。",
@@ -211,8 +350,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
+    "comment_count": 13,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -383,7 +522,7 @@
     "raw_data": {
       "code": "202603313689365693",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 6,
       "realSort": "1774902293065693",
       "share": 0,
       "showTime": "2026-03-31 04:24:53",
@@ -399,7 +538,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -422,7 +561,7 @@
     "raw_data": {
       "code": "202603313689365147",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1774901400065147",
       "share": 1,
       "showTime": "2026-03-31 04:10:00",
@@ -442,7 +581,7 @@
       "90.BK1361"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -473,7 +612,7 @@
     "raw_data": {
       "code": "202603313689364913",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1774901254064913",
       "share": 2,
       "showTime": "2026-03-31 04:07:34",
@@ -489,7 +628,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 8,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -512,9 +651,9 @@
     "raw_data": {
       "code": "202603313689364594",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1774901163064594",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-03-31 04:06:03",
       "stockList": [],
       "summary": "【伊朗第一副总统警告美国：向哈尔克岛派兵将有去无回】当地时间3月30日，伊朗第一副总统阿雷夫警告美国总统特朗普不要派兵攻打伊朗哈尔克岛。阿雷夫表示，特朗普可以决定是否向哈尔克岛派兵，但能否从那里撤军将不由美方掌控，因为“没有人能从地狱里活着回来”。",
@@ -528,8 +667,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 2,
+    "comment_count": 6,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -592,7 +731,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1774900980063397",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-31 04:03:00",
       "stockList": [],
       "summary": "【热门中概股收盘涨跌不一 纳斯达克中国金龙指数跌0.36%】热门中概股收盘涨跌不一，纳斯达克中国金龙指数跌0.36%，爱奇艺涨5.83%，小鹏汽车跌1.24%，拼多多跌1.39%，百度跌1.41%。",
@@ -607,7 +746,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -647,7 +786,7 @@
     "raw_data": {
       "code": "202603313689362761",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1774900814062761",
       "share": 1,
       "showTime": "2026-03-31 04:00:14",
@@ -669,7 +808,7 @@
       "0.159813"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -757,9 +896,9 @@
     "raw_data": {
       "code": "202603313689362470",
       "image": [],
-      "pinglun_Num": 113,
+      "pinglun_Num": 186,
       "realSort": "1774899609062470",
-      "share": 27,
+      "share": 55,
       "showTime": "2026-03-31 03:40:09",
       "stockList": [],
       "summary": "【伊朗议会批准对霍尔木兹海峡征收通行费的法案】当地时间3月30日，伊朗议会国家安全委员会通过了拟对霍尔木兹海峡通行船只收费的法案。计划内容包括将以伊朗里亚尔形式实施财务安排和收费系统；将禁止美国和以色列的船只通过霍尔木兹海峡；将维护伊朗及其武装部队的主导地位；将禁止参与对伊朗单边制裁的国家通行；伊朗将与阿曼合作制定相关法律框架。",
@@ -773,8 +912,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 113,
-    "share_count": 27,
+    "comment_count": 186,
+    "share_count": 55,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -886,7 +1025,7 @@
     "raw_data": {
       "code": "202603313689360411",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1774897812060411",
       "share": 0,
       "showTime": "2026-03-31 03:10:12",
@@ -902,7 +1041,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 7,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -925,7 +1064,7 @@
     "raw_data": {
       "code": "202603313689360333",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774897697060333",
       "share": 0,
       "showTime": "2026-03-31 03:08:17",
@@ -941,7 +1080,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1003,7 +1142,7 @@
     "raw_data": {
       "code": "202603313689359323",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1774897402059323",
       "share": 2,
       "showTime": "2026-03-31 03:03:22",
@@ -1019,7 +1158,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1050,7 +1189,7 @@
     "raw_data": {
       "code": "202603313689359190",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1774896944059190",
       "share": 2,
       "showTime": "2026-03-31 02:55:44",
@@ -1066,7 +1205,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 8,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1099,7 +1238,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1774896893059030",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-03-31 02:54:53",
       "stockList": [
         "90.BK0704"
@@ -1118,7 +1257,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1148,7 +1287,7 @@
     "raw_data": {
       "code": "202603313689358995",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 16,
       "realSort": "1774896678058995",
       "share": 3,
       "showTime": "2026-03-31 02:51:18",
@@ -1164,7 +1303,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 16,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1242,7 +1381,7 @@
     "raw_data": {
       "code": "202603313689358758",
       "image": [],
-      "pinglun_Num": 17,
+      "pinglun_Num": 21,
       "realSort": "1774896178058758",
       "share": 3,
       "showTime": "2026-03-31 02:42:58",
@@ -1258,7 +1397,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 17,
+    "comment_count": 21,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1410,7 +1549,7 @@
     "raw_data": {
       "code": "202603313689358117",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1774894704058117",
       "share": 0,
       "showTime": "2026-03-31 02:18:24",
@@ -1426,7 +1565,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
+    "comment_count": 9,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1449,7 +1588,7 @@
     "raw_data": {
       "code": "202603313689358046",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 24,
       "realSort": "1774894652058046",
       "share": 5,
       "showTime": "2026-03-31 02:17:32",
@@ -1459,7 +1598,7 @@
       ],
       "summary": "【白宫：特朗普希望4月6日前与伊朗达成协议】美国白宫新闻秘书莱维特30日表示，美总统特朗普希望4月6日前与伊朗达成协议。",
       "title": "白宫：特朗普希望4月6日前与伊朗达成协议",
-      "titleColor": 0
+      "titleColor": 3
     },
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603313689358046.html",
@@ -1471,7 +1610,7 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 21,
+    "comment_count": 24,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -1494,14 +1633,14 @@
     "raw_data": {
       "code": "202603313689357912",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 29,
       "realSort": "1774894325057912",
-      "share": 5,
+      "share": 6,
       "showTime": "2026-03-31 02:12:05",
       "stockList": [],
       "summary": "【美白宫：美国与伊朗对话仍在持续进行 且进展顺利】当地时间3月30日，美国白宫新闻秘书莱维特表示，美伊双方的对话仍在持续进行，且进展顺利。",
       "title": "美白宫：美国与伊朗对话仍在持续进行 且进展顺利",
-      "titleColor": 0
+      "titleColor": 3
     },
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202603313689357912.html",
@@ -1510,8 +1649,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 18,
-    "share_count": 5,
+    "comment_count": 29,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1615,7 +1754,7 @@
     "raw_data": {
       "code": "202603313689310950",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1774893588010950",
       "share": 11,
       "showTime": "2026-03-31 01:59:48",
@@ -1637,7 +1776,7 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 11,
     "tags": {
       "industries": [],
@@ -1814,9 +1953,9 @@
     "raw_data": {
       "code": "202603303689156624",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 8,
       "realSort": "1774892121056624",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-03-31 01:35:21",
       "stockList": [
         "150.161027",
@@ -1836,8 +1975,8 @@
       "150.161025"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 8,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -1920,9 +2059,9 @@
     "raw_data": {
       "code": "202603303689252982",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1774891963052982",
-      "share": 13,
+      "share": 17,
       "showTime": "2026-03-31 01:32:43",
       "stockList": [
         "90.BK0478",
@@ -1942,8 +2081,8 @@
       "90.BK0574"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 13,
+    "comment_count": 4,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2006,7 +2145,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1774891747078638",
-      "share": 4,
+      "share": 8,
       "showTime": "2026-03-31 01:29:07",
       "stockList": [
         "90.BK0475",
@@ -2027,7 +2166,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 4,
+    "share_count": 8,
     "tags": {
       "industries": [
         {
@@ -2114,7 +2253,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1774891650033767",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-03-31 01:27:30",
       "stockList": [
         "1.688795"
@@ -2133,7 +2272,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2155,7 +2294,7 @@
     "raw_data": {
       "code": "202603303689066426",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1774891530066426",
       "share": 1,
       "showTime": "2026-03-31 01:25:30",
@@ -2177,7 +2316,7 @@
       "90.BK1202"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -2191,197 +2330,6 @@
       "industry_ids": [],
       "concept_ids": [
         "C405"
-      ]
-    }
-  },
-  {
-    "id": "dbcfb81d22f4e958",
-    "code": "202603303689197547",
-    "title": "剑指SpaceX等独角兽 纳斯达克“快速纳入”指数新规5月1日生效",
-    "summary": "【剑指SpaceX等独角兽 纳斯达克“快速纳入”指数新规5月1日生效】纳斯达克宣布自5月1日起实施纳斯达克100指数编制规则调整；其中“快速准入”新规被普遍认为是在为SpaceX、OpenAI、Anthropic等超级独角兽公司上市铺路。",
-    "content": "【剑指SpaceX等独角兽 纳斯达克“快速纳入”指数新规5月1日生效】纳斯达克宣布自5月1日起实施纳斯达克100指数编制规则调整；其中“快速准入”新规被普遍认为是在为SpaceX、OpenAI、Anthropic等超级独角兽公司上市铺路。",
-    "full_content": "【剑指SpaceX等独角兽 纳斯达克“快速纳入”指数新规5月1日生效】纳斯达克宣布自5月1日起实施纳斯达克100指数编制规则调整；其中“快速准入”新规被普遍认为是在为SpaceX、OpenAI、Anthropic等超级独角兽公司上市铺路。",
-    "sort_time": "1774891456097547",
-    "showTime": "2026-03-31 01:24:16",
-    "time": "2026-03-31 01:24:16",
-    "publish_time": "2026-03-31 01:24:16",
-    "raw_data": {
-      "code": "202603303689197547",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1774891456097547",
-      "share": 18,
-      "showTime": "2026-03-31 01:24:16",
-      "stockList": [
-        "90.BK0835",
-        "105.NDAQ"
-      ],
-      "summary": "【剑指SpaceX等独角兽 纳斯达克“快速纳入”指数新规5月1日生效】纳斯达克宣布自5月1日起实施纳斯达克100指数编制规则调整；其中“快速准入”新规被普遍认为是在为SpaceX、OpenAI、Anthropic等超级独角兽公司上市铺路。",
-      "title": "剑指SpaceX等独角兽 纳斯达克“快速纳入”指数新规5月1日生效",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689197547.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0835",
-      "105.NDAQ"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 18,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C811",
-          "name": "独角兽",
-          "matched_keyword": "独角兽"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C811"
-      ]
-    }
-  },
-  {
-    "id": "b18721fc05da54eb",
-    "code": "202603303689256240",
-    "title": "壁仞科技去年营收10亿元增两倍 下一代BR20X芯片计划今年正式推出",
-    "summary": "【壁仞科技去年营收10亿元增两倍 下一代BR20X芯片计划今年正式推出】“国产GPU四小龙”壁仞科技（06082.HK）2025年收入增长207%。3月30日盘后，壁仞科技发布2025年全年业绩公告，2025年公司收入10.35亿元，同比增长207.2%；毛利为5.57亿元，同比增长210.8%，毛利率达到53.8%，同比提升63个基点。",
-    "content": "【壁仞科技去年营收10亿元增两倍 下一代BR20X芯片计划今年正式推出】“国产GPU四小龙”壁仞科技（06082.HK）2025年收入增长207%。3月30日盘后，壁仞科技发布2025年全年业绩公告，2025年公司收入10.35亿元，同比增长207.2%；毛利为5.57亿元，同比增长210.8%，毛利率达到53.8%，同比提升63个基点。",
-    "full_content": "【壁仞科技去年营收10亿元增两倍 下一代BR20X芯片计划今年正式推出】“国产GPU四小龙”壁仞科技（06082.HK）2025年收入增长207%。3月30日盘后，壁仞科技发布2025年全年业绩公告，2025年公司收入10.35亿元，同比增长207.2%；毛利为5.57亿元，同比增长210.8%，毛利率达到53.8%，同比提升63个基点。",
-    "sort_time": "1774891400056240",
-    "showTime": "2026-03-31 01:23:20",
-    "time": "2026-03-31 01:23:20",
-    "publish_time": "2026-03-31 01:23:20",
-    "raw_data": {
-      "code": "202603303689256240",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1774891400056240",
-      "share": 1,
-      "showTime": "2026-03-31 01:23:20",
-      "stockList": [
-        "90.BK0800",
-        "150.159813"
-      ],
-      "summary": "【壁仞科技去年营收10亿元增两倍 下一代BR20X芯片计划今年正式推出】“国产GPU四小龙”壁仞科技（06082.HK）2025年收入增长207%。3月30日盘后，壁仞科技发布2025年全年业绩公告，2025年公司收入10.35亿元，同比增长207.2%；毛利为5.57亿元，同比增长210.8%，毛利率达到53.8%，同比提升63个基点。",
-      "title": "壁仞科技去年营收10亿元增两倍 下一代BR20X芯片计划今年正式推出",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603303689256240.html",
-    "category": "宏观",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0800",
-      "150.159813"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "GPU"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002",
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "e59c8afa92e77e91",
-    "code": "202603313689303526",
-    "title": "英矽智能宣布与礼来27.5亿美元合作 公司CEO回应收购传闻：目前不考虑出售",
-    "summary": "【英矽智能宣布与礼来27.5亿美元合作 公司CEO回应收购传闻：目前不考虑出售】3月30日，英矽智能（HK03696，股价58.7港元，市值336亿港元）收涨2.62%。前一晚，公司发布2025年年报，受管线开发收入的首付款同比减少，公司年收入为5624万美元，截至2025年末，公司现金及银行结余达3.93亿美元。",
-    "content": "【英矽智能宣布与礼来27.5亿美元合作 公司CEO回应收购传闻：目前不考虑出售】3月30日，英矽智能（HK03696，股价58.7港元，市值336亿港元）收涨2.62%。前一晚，公司发布2025年年报，受管线开发收入的首付款同比减少，公司年收入为5624万美元，截至2025年末，公司现金及银行结余达3.93亿美元。",
-    "full_content": "【英矽智能宣布与礼来27.5亿美元合作 公司CEO回应收购传闻：目前不考虑出售】3月30日，英矽智能（HK03696，股价58.7港元，市值336亿港元）收涨2.62%。前一晚，公司发布2025年年报，受管线开发收入的首付款同比减少，公司年收入为5624万美元，截至2025年末，公司现金及银行结余达3.93亿美元。",
-    "sort_time": "1774891339003526",
-    "showTime": "2026-03-31 01:22:19",
-    "time": "2026-03-31 01:22:19",
-    "publish_time": "2026-03-31 01:22:19",
-    "raw_data": {
-      "code": "202603313689303526",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1774891339003526",
-      "share": 0,
-      "showTime": "2026-03-31 01:22:19",
-      "stockList": [
-        "90.BK0465",
-        "90.BK0800"
-      ],
-      "summary": "【英矽智能宣布与礼来27.5亿美元合作 公司CEO回应收购传闻：目前不考虑出售】3月30日，英矽智能（HK03696，股价58.7港元，市值336亿港元）收涨2.62%。前一晚，公司发布2025年年报，受管线开发收入的首付款同比减少，公司年收入为5624万美元，截至2025年末，公司现金及银行结余达3.93亿美元。",
-      "title": "英矽智能宣布与礼来27.5亿美元合作 公司CEO回应收购传闻：目前不考虑出售",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313689303526.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0465",
-      "90.BK0800"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
       ]
     }
   }
