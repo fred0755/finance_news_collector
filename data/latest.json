@@ -1,5 +1,390 @@
 [
   {
+    "id": "98838a63b504392f",
+    "code": "202604013690916843",
+    "title": "行情",
+    "summary": "【行情】上期所原油期货2605合约夜盘收跌7.39%，报693.90元人民币/桶。沪金夜盘收涨1.97%，沪银收涨5.18%。",
+    "content": "【行情】上期所原油期货2605合约夜盘收跌7.39%，报693.90元人民币/桶。沪金夜盘收涨1.97%，沪银收涨5.18%。",
+    "full_content": "【行情】上期所原油期货2605合约夜盘收跌7.39%，报693.90元人民币/桶。沪金夜盘收涨1.97%，沪银收涨5.18%。",
+    "sort_time": "1774981854016843",
+    "showTime": "2026-04-01 02:30:54",
+    "time": "2026-04-01 02:30:54",
+    "publish_time": "2026-04-01 02:30:54",
+    "raw_data": {
+      "code": "202604013690916843",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774981854016843",
+      "share": 0,
+      "showTime": "2026-04-01 02:30:54",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "【行情】上期所原油期货2605合约夜盘收跌7.39%，报693.90元人民币/桶。沪金夜盘收涨1.97%，沪银收涨5.18%。",
+      "title": "上期所原油期货2605合约夜盘收跌7.39%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690916843.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "bcbb353339bae90b",
+    "code": "202604013690916698",
+    "title": "欧洲央行官员Rehn称加息并非确定",
+    "summary": "欧洲央行官员Rehn称加息并非确定。",
+    "content": "欧洲央行官员Rehn称加息并非确定。",
+    "full_content": "欧洲央行官员Rehn称加息并非确定。",
+    "sort_time": "1774981827016698",
+    "showTime": "2026-04-01 02:30:27",
+    "time": "2026-04-01 02:30:27",
+    "publish_time": "2026-04-01 02:30:27",
+    "raw_data": {
+      "code": "202604013690916698",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774981827016698",
+      "share": 0,
+      "showTime": "2026-04-01 02:30:27",
+      "stockList": [],
+      "summary": "欧洲央行官员Rehn称加息并非确定。",
+      "title": "欧洲央行官员Rehn称加息并非确定",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690916698.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "6269ed6c4c000a3d",
+    "code": "202604013690914591",
+    "title": "俄罗斯大使：伊朗最高领袖目前身在伊朗",
+    "summary": "【俄罗斯大使：伊朗最高领袖目前身在伊朗】俄罗斯驻伊朗大使阿列克谢·杰多夫3月31日接受俄罗斯媒体采访时表示，伊朗最高领袖穆杰塔巴·哈梅内伊目前身在伊朗，但避免公开露面。",
+    "content": "【俄罗斯大使：伊朗最高领袖目前身在伊朗】俄罗斯驻伊朗大使阿列克谢·杰多夫3月31日接受俄罗斯媒体采访时表示，伊朗最高领袖穆杰塔巴·哈梅内伊目前身在伊朗，但避免公开露面。",
+    "full_content": "【俄罗斯大使：伊朗最高领袖目前身在伊朗】俄罗斯驻伊朗大使阿列克谢·杰多夫3月31日接受俄罗斯媒体采访时表示，伊朗最高领袖穆杰塔巴·哈梅内伊目前身在伊朗，但避免公开露面。",
+    "sort_time": "1774981420014591",
+    "showTime": "2026-04-01 02:23:40",
+    "time": "2026-04-01 02:23:40",
+    "publish_time": "2026-04-01 02:23:40",
+    "raw_data": {
+      "code": "202604013690914591",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1774981420014591",
+      "share": 0,
+      "showTime": "2026-04-01 02:23:40",
+      "stockList": [],
+      "summary": "【俄罗斯大使：伊朗最高领袖目前身在伊朗】俄罗斯驻伊朗大使阿列克谢·杰多夫3月31日接受俄罗斯媒体采访时表示，伊朗最高领袖穆杰塔巴·哈梅内伊目前身在伊朗，但避免公开露面。",
+      "title": "俄罗斯大使：伊朗最高领袖目前身在伊朗",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690914591.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "159223408a907919",
+    "code": "202604013690913059",
+    "title": "伊朗外长：未与美展开谈判 但有信息交换",
+    "summary": "【伊朗外长：未与美展开谈判 但有信息交换】伊朗外交部长阿拉格齐表示，当前局势“并非谈判”，而是通过直接渠道或“地区朋友”进行的信息交换。伊朗仍收到来自美方代表威特科夫的信息，但这并不意味着谈判已启动，相关交流主要为“警告或交换观点”。他指出，目前伊朗未与任何特定方展开谈判，信息交换工作由外交部在安全机构协调下进行，并在政府及最高国家安全委员会的监督下，严格在官方框架内推进。阿拉格齐强调，伊朗未对美国提出的15项提议作出任何回应，也未提出任何提议或条件。伊朗方面尚未就谈判原则作出最终决定，但伊朗结束战争的条件“非常明确”：伊朗“不会同意停火”，而是要求“彻底结束整个地区的战争”。霍尔木兹海峡“完全开放”，仅对参与对伊朗战争的各方关闭。",
+    "content": "【伊朗外长：未与美展开谈判 但有信息交换】伊朗外交部长阿拉格齐表示，当前局势“并非谈判”，而是通过直接渠道或“地区朋友”进行的信息交换。伊朗仍收到来自美方代表威特科夫的信息，但这并不意味着谈判已启动，相关交流主要为“警告或交换观点”。他指出，目前伊朗未与任何特定方展开谈判，信息交换工作由外交部在安全机构协调下进行，并在政府及最高国家安全委员会的监督下，严格在官方框架内推进。阿拉格齐强调，伊朗未对美国提出的15项提议作出任何回应，也未提出任何提议或条件。伊朗方面尚未就谈判原则作出最终决定，但伊朗结束战争的条件“非常明确”：伊朗“不会同意停火”，而是要求“彻底结束整个地区的战争”。霍尔木兹海峡“完全开放”，仅对参与对伊朗战争的各方关闭。",
+    "full_content": "【伊朗外长：未与美展开谈判 但有信息交换】伊朗外交部长阿拉格齐表示，当前局势“并非谈判”，而是通过直接渠道或“地区朋友”进行的信息交换。伊朗仍收到来自美方代表威特科夫的信息，但这并不意味着谈判已启动，相关交流主要为“警告或交换观点”。他指出，目前伊朗未与任何特定方展开谈判，信息交换工作由外交部在安全机构协调下进行，并在政府及最高国家安全委员会的监督下，严格在官方框架内推进。阿拉格齐强调，伊朗未对美国提出的15项提议作出任何回应，也未提出任何提议或条件。伊朗方面尚未就谈判原则作出最终决定，但伊朗结束战争的条件“非常明确”：伊朗“不会同意停火”，而是要求“彻底结束整个地区的战争”。霍尔木兹海峡“完全开放”，仅对参与对伊朗战争的各方关闭。",
+    "sort_time": "1774980943013059",
+    "showTime": "2026-04-01 02:15:43",
+    "time": "2026-04-01 02:15:43",
+    "publish_time": "2026-04-01 02:15:43",
+    "raw_data": {
+      "code": "202604013690913059",
+      "image": [],
+      "pinglun_Num": 25,
+      "realSort": "1774980943013059",
+      "share": 1,
+      "showTime": "2026-04-01 02:15:43",
+      "stockList": [],
+      "summary": "【伊朗外长：未与美展开谈判 但有信息交换】伊朗外交部长阿拉格齐表示，当前局势“并非谈判”，而是通过直接渠道或“地区朋友”进行的信息交换。伊朗仍收到来自美方代表威特科夫的信息，但这并不意味着谈判已启动，相关交流主要为“警告或交换观点”。他指出，目前伊朗未与任何特定方展开谈判，信息交换工作由外交部在安全机构协调下进行，并在政府及最高国家安全委员会的监督下，严格在官方框架内推进。阿拉格齐强调，伊朗未对美国提出的15项提议作出任何回应，也未提出任何提议或条件。伊朗方面尚未就谈判原则作出最终决定，但伊朗结束战争的条件“非常明确”：伊朗“不会同意停火”，而是要求“彻底结束整个地区的战争”。霍尔木兹海峡“完全开放”，仅对参与对伊朗战争的各方关闭。",
+      "title": "伊朗外长：未与美展开谈判 但有信息交换",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690913059.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 25,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "bae243cb7e590f0c",
+    "code": "202604013690909594",
+    "title": "美军布什号航母启程赴中东",
+    "summary": "【美军布什号航母启程赴中东】美军“布什”号航母当地时间3月31日上午离开诺福克港，预计将在与打击群其他舰船汇合后，前往中东或附近区域。根据其行进速度和天气等因素，估计其行程将用时两至三周。目前，美军已有“林肯”号和“福特”号两个航母打击群投入对伊朗军事行动。不过，“福特”号目前正在克罗地亚接受维修，尚不清楚“福特”号在完成维修后是否会继续参与对伊朗军事行动。",
+    "content": "【美军布什号航母启程赴中东】美军“布什”号航母当地时间3月31日上午离开诺福克港，预计将在与打击群其他舰船汇合后，前往中东或附近区域。根据其行进速度和天气等因素，估计其行程将用时两至三周。目前，美军已有“林肯”号和“福特”号两个航母打击群投入对伊朗军事行动。不过，“福特”号目前正在克罗地亚接受维修，尚不清楚“福特”号在完成维修后是否会继续参与对伊朗军事行动。",
+    "full_content": "【美军布什号航母启程赴中东】美军“布什”号航母当地时间3月31日上午离开诺福克港，预计将在与打击群其他舰船汇合后，前往中东或附近区域。根据其行进速度和天气等因素，估计其行程将用时两至三周。目前，美军已有“林肯”号和“福特”号两个航母打击群投入对伊朗军事行动。不过，“福特”号目前正在克罗地亚接受维修，尚不清楚“福特”号在完成维修后是否会继续参与对伊朗军事行动。",
+    "sort_time": "1774980112009594",
+    "showTime": "2026-04-01 02:01:52",
+    "time": "2026-04-01 02:01:52",
+    "publish_time": "2026-04-01 02:01:52",
+    "raw_data": {
+      "code": "202604013690909594",
+      "image": [],
+      "pinglun_Num": 25,
+      "realSort": "1774980112009594",
+      "share": 3,
+      "showTime": "2026-04-01 02:01:52",
+      "stockList": [
+        "1007.BK000339"
+      ],
+      "summary": "【美军布什号航母启程赴中东】美军“布什”号航母当地时间3月31日上午离开诺福克港，预计将在与打击群其他舰船汇合后，前往中东或附近区域。根据其行进速度和天气等因素，估计其行程将用时两至三周。目前，美军已有“林肯”号和“福特”号两个航母打击群投入对伊朗军事行动。不过，“福特”号目前正在克罗地亚接受维修，尚不清楚“福特”号在完成维修后是否会继续参与对伊朗军事行动。",
+      "title": "美军布什号航母启程赴中东",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690909594.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1007.BK000339"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 25,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f88ac1bd893ff9a3",
+    "code": "202604013690908844",
+    "title": "英国宣布向海湾地区增派防空力量",
+    "summary": "【英国宣布向海湾地区增派防空力量】英国政府3月31日发表声明说，随着中东局势持续紧张，英方将向海湾地区增派防空力量，包括延长“台风”战斗机在卡塔尔的部署、向沙特阿拉伯部署“天剑”防空系统。",
+    "content": "【英国宣布向海湾地区增派防空力量】英国政府3月31日发表声明说，随着中东局势持续紧张，英方将向海湾地区增派防空力量，包括延长“台风”战斗机在卡塔尔的部署、向沙特阿拉伯部署“天剑”防空系统。",
+    "full_content": "【英国宣布向海湾地区增派防空力量】英国政府3月31日发表声明说，随着中东局势持续紧张，英方将向海湾地区增派防空力量，包括延长“台风”战斗机在卡塔尔的部署、向沙特阿拉伯部署“天剑”防空系统。",
+    "sort_time": "1774980027008844",
+    "showTime": "2026-04-01 02:00:27",
+    "time": "2026-04-01 02:00:27",
+    "publish_time": "2026-04-01 02:00:27",
+    "raw_data": {
+      "code": "202604013690908844",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1774980027008844",
+      "share": 3,
+      "showTime": "2026-04-01 02:00:27",
+      "stockList": [],
+      "summary": "【英国宣布向海湾地区增派防空力量】英国政府3月31日发表声明说，随着中东局势持续紧张，英方将向海湾地区增派防空力量，包括延长“台风”战斗机在卡塔尔的部署、向沙特阿拉伯部署“天剑”防空系统。",
+      "title": "英国宣布向海湾地区增派防空力量",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690908844.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 13,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3e592e11d4c68164",
+    "code": "202604013690907856",
+    "title": "再度搭档 卢拉与阿尔克明竞选连任",
+    "summary": "【再度搭档 卢拉与阿尔克明竞选连任】巴西总统卢拉3月31日在首都巴西利亚宣布，将与现任副总统兼发展、工业与贸易部长阿尔克明再次组成竞选搭档，参加今年的总统选举。",
+    "content": "【再度搭档 卢拉与阿尔克明竞选连任】巴西总统卢拉3月31日在首都巴西利亚宣布，将与现任副总统兼发展、工业与贸易部长阿尔克明再次组成竞选搭档，参加今年的总统选举。",
+    "full_content": "【再度搭档 卢拉与阿尔克明竞选连任】巴西总统卢拉3月31日在首都巴西利亚宣布，将与现任副总统兼发展、工业与贸易部长阿尔克明再次组成竞选搭档，参加今年的总统选举。",
+    "sort_time": "1774979777007856",
+    "showTime": "2026-04-01 01:56:17",
+    "time": "2026-04-01 01:56:17",
+    "publish_time": "2026-04-01 01:56:17",
+    "raw_data": {
+      "code": "202604013690907856",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774979777007856",
+      "share": 0,
+      "showTime": "2026-04-01 01:56:17",
+      "stockList": [],
+      "summary": "【再度搭档 卢拉与阿尔克明竞选连任】巴西总统卢拉3月31日在首都巴西利亚宣布，将与现任副总统兼发展、工业与贸易部长阿尔克明再次组成竞选搭档，参加今年的总统选举。",
+      "title": "再度搭档 卢拉与阿尔克明竞选连任",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690907856.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0baceebc2f48729e",
+    "code": "202604013690906854",
+    "title": "伊朗总统：伊方愿在诉求满足前提下结束战争",
+    "summary": "【伊朗总统：伊方愿在诉求满足前提下结束战争】当地时间3月31日，伊朗总统佩泽希齐扬表示，伊朗愿意结束战争，但前提是其诉求得到满足，尤其是获得不再遭受侵略的保证。",
+    "content": "【伊朗总统：伊方愿在诉求满足前提下结束战争】当地时间3月31日，伊朗总统佩泽希齐扬表示，伊朗愿意结束战争，但前提是其诉求得到满足，尤其是获得不再遭受侵略的保证。",
+    "full_content": "【伊朗总统：伊方愿在诉求满足前提下结束战争】当地时间3月31日，伊朗总统佩泽希齐扬表示，伊朗愿意结束战争，但前提是其诉求得到满足，尤其是获得不再遭受侵略的保证。",
+    "sort_time": "1774979537006854",
+    "showTime": "2026-04-01 01:52:17",
+    "time": "2026-04-01 01:52:17",
+    "publish_time": "2026-04-01 01:52:17",
+    "raw_data": {
+      "code": "202604013690906854",
+      "image": [],
+      "pinglun_Num": 217,
+      "realSort": "1774979537006854",
+      "share": 176,
+      "showTime": "2026-04-01 01:52:17",
+      "stockList": [],
+      "summary": "【伊朗总统：伊方愿在诉求满足前提下结束战争】当地时间3月31日，伊朗总统佩泽希齐扬表示，伊朗愿意结束战争，但前提是其诉求得到满足，尤其是获得不再遭受侵略的保证。",
+      "title": "伊朗总统：伊方愿在诉求满足前提下结束战争",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690906854.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 217,
+    "share_count": 176,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e8acc2d6e91c11d6",
+    "code": "202604013690901719",
+    "title": "梅赛德斯-奔驰：计划到2030年对美国业务进行超过70亿美元的投入",
+    "summary": "梅赛德斯-奔驰表示，计划到2030年对美国业务进行超过70亿美元的投入。",
+    "content": "梅赛德斯-奔驰表示，计划到2030年对美国业务进行超过70亿美元的投入。",
+    "full_content": "梅赛德斯-奔驰表示，计划到2030年对美国业务进行超过70亿美元的投入。",
+    "sort_time": "1774978620001719",
+    "showTime": "2026-04-01 01:37:00",
+    "time": "2026-04-01 01:37:00",
+    "publish_time": "2026-04-01 01:37:00",
+    "raw_data": {
+      "code": "202604013690901719",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1774978620001719",
+      "share": 1,
+      "showTime": "2026-04-01 01:37:00",
+      "stockList": [],
+      "summary": "梅赛德斯-奔驰表示，计划到2030年对美国业务进行超过70亿美元的投入。",
+      "title": "梅赛德斯-奔驰：计划到2030年对美国业务进行超过70亿美元的投入",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604013690901719.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "ebe13fd53d6eebf7",
     "code": "202604013690903134",
     "title": "法国对特朗普指责“不配合”表“惊讶”",
@@ -13,7 +398,7 @@
     "raw_data": {
       "code": "202604013690903134",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774978489003134",
       "share": 0,
       "showTime": "2026-04-01 01:34:49",
@@ -29,7 +414,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -91,7 +476,7 @@
     "raw_data": {
       "code": "202604013690899424",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1774977867099424",
       "share": 0,
       "showTime": "2026-04-01 01:24:27",
@@ -107,7 +492,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -130,7 +515,7 @@
     "raw_data": {
       "code": "202604013690897626",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774977724097626",
       "share": 0,
       "showTime": "2026-04-01 01:22:04",
@@ -146,7 +531,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -169,7 +554,7 @@
     "raw_data": {
       "code": "202604013690895245",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 5,
       "realSort": "1774977441095245",
       "share": 0,
       "showTime": "2026-04-01 01:17:21",
@@ -185,7 +570,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -208,7 +593,7 @@
     "raw_data": {
       "code": "202604013690895311",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1774977400095311",
       "share": 2,
       "showTime": "2026-04-01 01:16:40",
@@ -224,7 +609,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -300,7 +685,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1774977190093044",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-01 01:13:10",
       "stockList": [
         "90.BK0420",
@@ -321,7 +706,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -455,9 +840,9 @@
     "raw_data": {
       "code": "202604013690886934",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 15,
       "realSort": "1774976375086934",
-      "share": 20,
+      "share": 31,
       "showTime": "2026-04-01 00:59:35",
       "stockList": [],
       "summary": "【行情】上期所原油夜盘跌幅扩大至10%，现报674.00元/桶。",
@@ -471,8 +856,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 20,
+    "comment_count": 15,
+    "share_count": 31,
     "tags": {
       "industries": [],
       "concepts": [
@@ -502,7 +887,7 @@
     "raw_data": {
       "code": "202604013690886888",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 13,
       "realSort": "1774976168086888",
       "share": 1,
       "showTime": "2026-04-01 00:56:08",
@@ -518,7 +903,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 13,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -692,7 +1077,7 @@
     "raw_data": {
       "code": "202604013690885935",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1774975639085935",
       "share": 2,
       "showTime": "2026-04-01 00:47:19",
@@ -714,7 +1099,7 @@
       "150.011631"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -874,9 +1259,9 @@
     "raw_data": {
       "code": "202604013690885180",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 13,
       "realSort": "1774975519085180",
-      "share": 11,
+      "share": 18,
       "showTime": "2026-04-01 00:45:19",
       "stockList": [],
       "summary": "【行情】富时中国A50指数期货涨超1%，纳斯达克中国金龙指数涨近3%，蔚来涨近10%，爱奇艺涨超8%，百度、富途、哔哩哔哩涨超3%，小鹏汽车、阿里巴巴涨超2%。",
@@ -890,8 +1275,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 11,
+    "comment_count": 13,
+    "share_count": 18,
     "tags": {
       "industries": [
         {
@@ -974,9 +1359,9 @@
     "raw_data": {
       "code": "202604013690883222",
       "image": [],
-      "pinglun_Num": 88,
+      "pinglun_Num": 103,
       "realSort": "1774975330083222",
-      "share": 231,
+      "share": 242,
       "showTime": "2026-04-01 00:42:10",
       "stockList": [],
       "summary": "【纳指涨幅扩大至3% 富时中国A50指数期货涨超1%】美股涨幅扩大，截至目前，道琼斯指数涨1.95%，标普500指数期货涨2.37%，纳斯达克综合指数涨3%。富时中国A50指数期货涨超1%。",
@@ -990,8 +1375,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 88,
-    "share_count": 231,
+    "comment_count": 103,
+    "share_count": 242,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1052,7 +1437,7 @@
     "raw_data": {
       "code": "202604013690878934",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 9,
       "realSort": "1774974777078934",
       "share": 8,
       "showTime": "2026-04-01 00:32:57",
@@ -1068,7 +1453,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 9,
     "share_count": 8,
     "tags": {
       "industries": [],
@@ -1093,7 +1478,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1774974527077545",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-04-01 00:28:47",
       "stockList": [],
       "summary": "【10国发表联合声明呼吁黎以开展直接政治谈判】当地时间3月31日，比利时、克罗地亚、塞浦路斯、法国、希腊、意大利、马耳他、荷兰、葡萄牙和英国以及欧盟发表联合声明，呼吁黎巴嫩与以色列开展直接政治谈判，以推动结束当前冲突。声明称，直接政治谈判有助于为冲突画上句号，并为地区实现持久和平共处创造条件。",
@@ -1108,7 +1493,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1179,7 +1564,7 @@
       "image": [],
       "pinglun_Num": 12,
       "realSort": "1774974027073818",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-01 00:20:27",
       "stockList": [
         "105.GOOGL",
@@ -1200,7 +1585,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 12,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1222,7 +1607,7 @@
     "raw_data": {
       "code": "202604013690872755",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1774973978072755",
       "share": 0,
       "showTime": "2026-04-01 00:19:38",
@@ -1238,7 +1623,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1555,7 +1940,7 @@
     "raw_data": {
       "code": "202603313690861030",
       "image": [],
-      "pinglun_Num": 25,
+      "pinglun_Num": 28,
       "realSort": "1774972079061030",
       "share": 3,
       "showTime": "2026-03-31 23:47:59",
@@ -1571,7 +1956,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 25,
+    "comment_count": 28,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1594,7 +1979,7 @@
     "raw_data": {
       "code": "202603313690860716",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 14,
       "realSort": "1774972071060716",
       "share": 5,
       "showTime": "2026-03-31 23:47:51",
@@ -1610,7 +1995,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 14,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -1641,7 +2026,7 @@
     "raw_data": {
       "code": "202603313690658079",
       "image": [],
-      "pinglun_Num": 66,
+      "pinglun_Num": 68,
       "realSort": "1774971990058079",
       "share": 18,
       "showTime": "2026-03-31 23:46:30",
@@ -1657,7 +2042,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 66,
+    "comment_count": 68,
     "share_count": 18,
     "tags": {
       "industries": [],
@@ -1735,7 +2120,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1774971444057658",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-03-31 23:37:24",
       "stockList": [
         "90.BK1028",
@@ -1756,7 +2141,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 6,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1825,9 +2210,9 @@
     "raw_data": {
       "code": "202603313690851786",
       "image": [],
-      "pinglun_Num": 122,
+      "pinglun_Num": 125,
       "realSort": "1774970182051786",
-      "share": 49,
+      "share": 50,
       "showTime": "2026-03-31 23:16:22",
       "stockList": [
         "90.BK1137"
@@ -1845,8 +2230,8 @@
       "90.BK1137"
     ],
     "has_stock_mention": true,
-    "comment_count": 122,
-    "share_count": 49,
+    "comment_count": 125,
+    "share_count": 50,
     "tags": {
       "industries": [
         {
@@ -1870,493 +2255,6 @@
       "concept_ids": [
         "C002"
       ]
-    }
-  },
-  {
-    "id": "3aaed2ba7f8f0dc7",
-    "code": "202603313690849190",
-    "title": "伊朗称使用无人机打击以色列境内科技公司",
-    "summary": "【伊朗称使用无人机打击以色列境内科技公司】当地时间3月31日，伊朗军队发布声明称，为回应以色列和美国对伊朗基础设施的袭击，自当天凌晨起，伊朗出动攻击型无人机，打击了位于以色列本-古里安国际机场和海法地区的西门子公司、美国电话电报公司的通讯、电信与工业中心。",
-    "content": "【伊朗称使用无人机打击以色列境内科技公司】当地时间3月31日，伊朗军队发布声明称，为回应以色列和美国对伊朗基础设施的袭击，自当天凌晨起，伊朗出动攻击型无人机，打击了位于以色列本-古里安国际机场和海法地区的西门子公司、美国电话电报公司的通讯、电信与工业中心。",
-    "full_content": "【伊朗称使用无人机打击以色列境内科技公司】当地时间3月31日，伊朗军队发布声明称，为回应以色列和美国对伊朗基础设施的袭击，自当天凌晨起，伊朗出动攻击型无人机，打击了位于以色列本-古里安国际机场和海法地区的西门子公司、美国电话电报公司的通讯、电信与工业中心。",
-    "sort_time": "1774970048049190",
-    "showTime": "2026-03-31 23:14:08",
-    "time": "2026-03-31 23:14:08",
-    "publish_time": "2026-03-31 23:14:08",
-    "raw_data": {
-      "code": "202603313690849190",
-      "image": [],
-      "pinglun_Num": 37,
-      "realSort": "1774970048049190",
-      "share": 21,
-      "showTime": "2026-03-31 23:14:08",
-      "stockList": [
-        "90.BK0704",
-        "150.012322"
-      ],
-      "summary": "【伊朗称使用无人机打击以色列境内科技公司】当地时间3月31日，伊朗军队发布声明称，为回应以色列和美国对伊朗基础设施的袭击，自当天凌晨起，伊朗出动攻击型无人机，打击了位于以色列本-古里安国际机场和海法地区的西门子公司、美国电话电报公司的通讯、电信与工业中心。",
-      "title": "伊朗称使用无人机打击以色列境内科技公司",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690849190.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0704",
-      "150.012322"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 37,
-    "share_count": 21,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "661e50320152b933",
-    "code": "202603313690848961",
-    "title": "特朗普拒绝透露万斯和威特科夫是否前往巴基斯坦",
-    "summary": "特朗普拒绝透露万斯和威特科夫是否前往巴基斯坦。",
-    "content": "特朗普拒绝透露万斯和威特科夫是否前往巴基斯坦。",
-    "full_content": "特朗普拒绝透露万斯和威特科夫是否前往巴基斯坦。",
-    "sort_time": "1774969958048961",
-    "showTime": "2026-03-31 23:12:38",
-    "time": "2026-03-31 23:12:38",
-    "publish_time": "2026-03-31 23:12:38",
-    "raw_data": {
-      "code": "202603313690848961",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1774969958048961",
-      "share": 8,
-      "showTime": "2026-03-31 23:12:38",
-      "stockList": [],
-      "summary": "特朗普拒绝透露万斯和威特科夫是否前往巴基斯坦。",
-      "title": "特朗普拒绝透露万斯和威特科夫是否前往巴基斯坦",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690848961.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "666817473640dc98",
-    "code": "202603313690846635",
-    "title": "中环新能源（01735）：收益大增82.64% 布局储能与AI算力双赛道",
-    "summary": "【中环新能源（01735）：收益大增82.64% 布局储能与AI算力双赛道】中环新能源（01735）公布2025年业绩，实现收益约110.17亿港元，同比增长82.64%；营业利润约2.1亿元，同比增长64.75%；EBITDA约3.22亿港元，同比增长34.1%；年内溢利6073.4万港元，同比增长12.27%。公司位于淮南凤台、安庆桐城的高效光伏N型电池及组件项目已全面投产，宁夏光伏制造及储能项目有序推进。在此基础上，该公司正积极向产业链下游延伸，构建“发－储－用”一体化能源网络，并规划依托自有绿电建设AI算力中心，拓展绿色数据服务。同时，已就可持续航空燃料、“一带一路”清洁能源项目签订多项合作框架。公司愿景明确为“清洁智慧能源引领者”，聚焦能源自主、供应链韧性与下一代太阳能技术创新。",
-    "content": "【中环新能源（01735）：收益大增82.64% 布局储能与AI算力双赛道】中环新能源（01735）公布2025年业绩，实现收益约110.17亿港元，同比增长82.64%；营业利润约2.1亿元，同比增长64.75%；EBITDA约3.22亿港元，同比增长34.1%；年内溢利6073.4万港元，同比增长12.27%。公司位于淮南凤台、安庆桐城的高效光伏N型电池及组件项目已全面投产，宁夏光伏制造及储能项目有序推进。在此基础上，该公司正积极向产业链下游延伸，构建“发－储－用”一体化能源网络，并规划依托自有绿电建设AI算力中心，拓展绿色数据服务。同时，已就可持续航空燃料、“一带一路”清洁能源项目签订多项合作框架。公司愿景明确为“清洁智慧能源引领者”，聚焦能源自主、供应链韧性与下一代太阳能技术创新。",
-    "full_content": "【中环新能源（01735）：收益大增82.64% 布局储能与AI算力双赛道】中环新能源（01735）公布2025年业绩，实现收益约110.17亿港元，同比增长82.64%；营业利润约2.1亿元，同比增长64.75%；EBITDA约3.22亿港元，同比增长34.1%；年内溢利6073.4万港元，同比增长12.27%。公司位于淮南凤台、安庆桐城的高效光伏N型电池及组件项目已全面投产，宁夏光伏制造及储能项目有序推进。在此基础上，该公司正积极向产业链下游延伸，构建“发－储－用”一体化能源网络，并规划依托自有绿电建设AI算力中心，拓展绿色数据服务。同时，已就可持续航空燃料、“一带一路”清洁能源项目签订多项合作框架。公司愿景明确为“清洁智慧能源引领者”，聚焦能源自主、供应链韧性与下一代太阳能技术创新。",
-    "sort_time": "1774969572046635",
-    "showTime": "2026-03-31 23:06:12",
-    "time": "2026-03-31 23:06:12",
-    "publish_time": "2026-03-31 23:06:12",
-    "raw_data": {
-      "code": "202603313690846635",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1774969572046635",
-      "share": 3,
-      "showTime": "2026-03-31 23:06:12",
-      "stockList": [
-        "90.BK0989",
-        "90.BK1134"
-      ],
-      "summary": "【中环新能源（01735）：收益大增82.64% 布局储能与AI算力双赛道】中环新能源（01735）公布2025年业绩，实现收益约110.17亿港元，同比增长82.64%；营业利润约2.1亿元，同比增长64.75%；EBITDA约3.22亿港元，同比增长34.1%；年内溢利6073.4万港元，同比增长12.27%。公司位于淮南凤台、安庆桐城的高效光伏N型电池及组件项目已全面投产，宁夏光伏制造及储能项目有序推进。在此基础上，该公司正积极向产业链下游延伸，构建“发－储－用”一体化能源网络，并规划依托自有绿电建设AI算力中心，拓展绿色数据服务。同时，已就可持续航空燃料、“一带一路”清洁能源项目签订多项合作框架。公司愿景明确为“清洁智慧能源引领者”，聚焦能源自主、供应链韧性与下一代太阳能技术创新。",
-      "title": "中环新能源（01735）：收益大增82.64% 布局储能与AI算力双赛道",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690846635.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0989",
-      "90.BK1134"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010202",
-          "name": "光伏设备",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "组件"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        },
-        {
-          "id": "C103",
-          "name": "光伏",
-          "matched_keyword": "组件"
-        },
-        {
-          "id": "C105",
-          "name": "储能",
-          "matched_keyword": "储能"
-        },
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "航空"
-        },
-        {
-          "id": "C702",
-          "name": "一带一路",
-          "matched_keyword": "一带一路"
-        },
-        {
-          "id": "C705",
-          "name": "绿色电力",
-          "matched_keyword": "清洁能源"
-        },
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "供应链"
-        }
-      ],
-      "industry_ids": [
-        "I010202"
-      ],
-      "concept_ids": [
-        "C001",
-        "C011",
-        "C103",
-        "C105",
-        "C201",
-        "C702",
-        "C705",
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "dfc31174ebcf9ced",
-    "code": "202603313690846022",
-    "title": "广汽子公司因湃电池：计划融资上市",
-    "summary": "【广汽子公司因湃电池：计划融资上市】因湃电池总经理许俊海今日表示，因湃电池计划融资上市，从而通过资本化方式提升自身抗风险能力。因湃电池为广汽集团全资子公司，业务范围涵盖新能源汽车动力电池生产制造、电池材料研发及相关产品的技术服务等，最新产品为587Ah固液混合储能大电芯。",
-    "content": "【广汽子公司因湃电池：计划融资上市】因湃电池总经理许俊海今日表示，因湃电池计划融资上市，从而通过资本化方式提升自身抗风险能力。因湃电池为广汽集团全资子公司，业务范围涵盖新能源汽车动力电池生产制造、电池材料研发及相关产品的技术服务等，最新产品为587Ah固液混合储能大电芯。",
-    "full_content": "【广汽子公司因湃电池：计划融资上市】因湃电池总经理许俊海今日表示，因湃电池计划融资上市，从而通过资本化方式提升自身抗风险能力。因湃电池为广汽集团全资子公司，业务范围涵盖新能源汽车动力电池生产制造、电池材料研发及相关产品的技术服务等，最新产品为587Ah固液混合储能大电芯。",
-    "sort_time": "1774969502046022",
-    "showTime": "2026-03-31 23:05:02",
-    "time": "2026-03-31 23:05:02",
-    "publish_time": "2026-03-31 23:05:02",
-    "raw_data": {
-      "code": "202603313690846022",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1774969502046022",
-      "share": 3,
-      "showTime": "2026-03-31 23:05:02",
-      "stockList": [
-        "90.BK1033",
-        "150.011668"
-      ],
-      "summary": "【广汽子公司因湃电池：计划融资上市】因湃电池总经理许俊海今日表示，因湃电池计划融资上市，从而通过资本化方式提升自身抗风险能力。因湃电池为广汽集团全资子公司，业务范围涵盖新能源汽车动力电池生产制造、电池材料研发及相关产品的技术服务等，最新产品为587Ah固液混合储能大电芯。",
-      "title": "广汽子公司因湃电池：计划融资上市",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690846022.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1033",
-      "150.011668"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010201",
-          "name": "锂离子电池制造",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "动力电池"
-        },
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C101",
-          "name": "新能源车",
-          "matched_keyword": "新能源汽车"
-        },
-        {
-          "id": "C102",
-          "name": "锂电池",
-          "matched_keyword": "动力电池"
-        },
-        {
-          "id": "C105",
-          "name": "储能",
-          "matched_keyword": "储能"
-        }
-      ],
-      "industry_ids": [
-        "I010201",
-        "I010301"
-      ],
-      "concept_ids": [
-        "C101",
-        "C102",
-        "C105"
-      ]
-    }
-  },
-  {
-    "id": "780cd1dca89c2e98",
-    "code": "202603313690844258",
-    "title": "美国总统特朗普称对伊朗的战争不会持续“太久”",
-    "summary": "美国总统特朗普称对伊朗的战争不会持续“太久”。他还表示，其他国家可重新开放霍尔木兹海峡。",
-    "content": "美国总统特朗普称对伊朗的战争不会持续“太久”。他还表示，其他国家可重新开放霍尔木兹海峡。",
-    "full_content": "美国总统特朗普称对伊朗的战争不会持续“太久”。他还表示，其他国家可重新开放霍尔木兹海峡。",
-    "sort_time": "1774969452044258",
-    "showTime": "2026-03-31 23:04:12",
-    "time": "2026-03-31 23:04:12",
-    "publish_time": "2026-03-31 23:04:12",
-    "raw_data": {
-      "code": "202603313690844258",
-      "image": [],
-      "pinglun_Num": 116,
-      "realSort": "1774969452044258",
-      "share": 65,
-      "showTime": "2026-03-31 23:04:12",
-      "stockList": [],
-      "summary": "美国总统特朗普称对伊朗的战争不会持续“太久”。他还表示，其他国家可重新开放霍尔木兹海峡。",
-      "title": "美国总统特朗普称对伊朗的战争不会持续“太久”",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690844258.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 116,
-    "share_count": 65,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "999449d55af84a32",
-    "code": "202603313690843225",
-    "title": "晨光文具：拟分拆子公司科力普赴港上市",
-    "summary": "【晨光文具：拟分拆子公司科力普赴港上市】晨光文具(603899.SH)公告称，拟将控股子公司科力普集团分拆至香港联交所主板上市。",
-    "content": "【晨光文具：拟分拆子公司科力普赴港上市】晨光文具(603899.SH)公告称，拟将控股子公司科力普集团分拆至香港联交所主板上市。",
-    "full_content": "【晨光文具：拟分拆子公司科力普赴港上市】晨光文具(603899.SH)公告称，拟将控股子公司科力普集团分拆至香港联交所主板上市。",
-    "sort_time": "1774969277043225",
-    "showTime": "2026-03-31 23:01:17",
-    "time": "2026-03-31 23:01:17",
-    "publish_time": "2026-03-31 23:01:17",
-    "raw_data": {
-      "code": "202603313690843225",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1774969277043225",
-      "share": 2,
-      "showTime": "2026-03-31 23:01:17",
-      "stockList": [
-        "1.603899"
-      ],
-      "summary": "【晨光文具：拟分拆子公司科力普赴港上市】晨光文具(603899.SH)公告称，拟将控股子公司科力普集团分拆至香港联交所主板上市。",
-      "title": "晨光文具：拟分拆子公司科力普赴港上市",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690843225.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.603899"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a15705ab891f61c5",
-    "code": "202603313690842942",
-    "title": "行情",
-    "summary": "【行情】部分期货品种夜盘收盘，涨跌参半，低硫燃料油、合成橡胶涨超2%领涨，橡胶期货涨2%。",
-    "content": "【行情】部分期货品种夜盘收盘，涨跌参半，低硫燃料油、合成橡胶涨超2%领涨，橡胶期货涨2%。",
-    "full_content": "【行情】部分期货品种夜盘收盘，涨跌参半，低硫燃料油、合成橡胶涨超2%领涨，橡胶期货涨2%。",
-    "sort_time": "1774969217042942",
-    "showTime": "2026-03-31 23:00:17",
-    "time": "2026-03-31 23:00:17",
-    "publish_time": "2026-03-31 23:00:17",
-    "raw_data": {
-      "code": "202603313690842942",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1774969217042942",
-      "share": 0,
-      "showTime": "2026-03-31 23:00:17",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "【行情】部分期货品种夜盘收盘，涨跌参半，低硫燃料油、合成橡胶涨超2%领涨，橡胶期货涨2%。",
-      "title": "部分期货品种夜盘收盘涨跌参半",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690842942.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "1f09659eff56a426",
-    "code": "202603313690840886",
-    "title": "行情",
-    "summary": "【行情】道琼斯指数涨幅收窄至0.63%，标普500指数涨幅收窄至1%，纳斯达克指数涨幅收窄至1.35%。",
-    "content": "【行情】道琼斯指数涨幅收窄至0.63%，标普500指数涨幅收窄至1%，纳斯达克指数涨幅收窄至1.35%。",
-    "full_content": "【行情】道琼斯指数涨幅收窄至0.63%，标普500指数涨幅收窄至1%，纳斯达克指数涨幅收窄至1.35%。",
-    "sort_time": "1774969140040886",
-    "showTime": "2026-03-31 22:59:00",
-    "time": "2026-03-31 22:59:00",
-    "publish_time": "2026-03-31 22:59:00",
-    "raw_data": {
-      "code": "202603313690840886",
-      "image": [],
-      "pinglun_Num": 10,
-      "realSort": "1774969140040886",
-      "share": 0,
-      "showTime": "2026-03-31 22:59:00",
-      "stockList": [],
-      "summary": "【行情】道琼斯指数涨幅收窄至0.63%，标普500指数涨幅收窄至1%，纳斯达克指数涨幅收窄至1.35%。",
-      "title": "美股冲高回落",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690840886.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f9938ff0b6604042",
-    "code": "202603313690836659",
-    "title": "行情",
-    "summary": "【行情】Snap股价瞬间拉涨10%，消息上，激进投资者伊瑞尼克据称正增持 Snap Inc. 的股份。",
-    "content": "【行情】Snap股价瞬间拉涨10%，消息上，激进投资者伊瑞尼克据称正增持 Snap Inc. 的股份。",
-    "full_content": "【行情】Snap股价瞬间拉涨10%，消息上，激进投资者伊瑞尼克据称正增持 Snap Inc. 的股份。",
-    "sort_time": "1774968771036659",
-    "showTime": "2026-03-31 22:52:51",
-    "time": "2026-03-31 22:52:51",
-    "publish_time": "2026-03-31 22:52:51",
-    "raw_data": {
-      "code": "202603313690836659",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1774968771036659",
-      "share": 0,
-      "showTime": "2026-03-31 22:52:51",
-      "stockList": [
-        "106.SNAP"
-      ],
-      "summary": "【行情】Snap股价瞬间拉涨10%，消息上，激进投资者伊瑞尼克据称正增持 Snap Inc. 的股份。",
-      "title": "Snap股价瞬间拉涨10%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202603313690836659.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.SNAP"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
