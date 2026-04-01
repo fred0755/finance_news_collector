@@ -1,5 +1,425 @@
 [
   {
+    "id": "b4d2482a89fb1a98",
+    "code": "202604023692434577",
+    "title": "澳大利亚将考虑启用国内天然气安全机制",
+    "summary": "澳大利亚将考虑启用国内天然气安全机制。",
+    "content": "澳大利亚将考虑启用国内天然气安全机制。",
+    "full_content": "澳大利亚将考虑启用国内天然气安全机制。",
+    "sort_time": "1775074523034577",
+    "showTime": "2026-04-02 04:15:23",
+    "time": "2026-04-02 04:15:23",
+    "publish_time": "2026-04-02 04:15:23",
+    "raw_data": {
+      "code": "202604023692434577",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775074523034577",
+      "share": 0,
+      "showTime": "2026-04-02 04:15:23",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "澳大利亚将考虑启用国内天然气安全机制。",
+      "title": "澳大利亚将考虑启用国内天然气安全机制",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692434577.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "8ecefb7ac922a9fe",
+    "code": "202604023692432155",
+    "title": "摩根大通将民生银行A股评级下调至中性 目标价4.15元",
+    "summary": "摩根大通将民生银行A股评级下调至中性，目标价4.15元。",
+    "content": "摩根大通将民生银行A股评级下调至中性，目标价4.15元。",
+    "full_content": "摩根大通将民生银行A股评级下调至中性，目标价4.15元。",
+    "sort_time": "1775073892032155",
+    "showTime": "2026-04-02 04:04:52",
+    "time": "2026-04-02 04:04:52",
+    "publish_time": "2026-04-02 04:04:52",
+    "raw_data": {
+      "code": "202604023692432155",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775073892032155",
+      "share": 0,
+      "showTime": "2026-04-02 04:04:52",
+      "stockList": [
+        "1.600016"
+      ],
+      "summary": "摩根大通将民生银行A股评级下调至中性，目标价4.15元。",
+      "title": "摩根大通将民生银行A股评级下调至中性 目标价4.15元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692432155.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.600016"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "5b6c076e0ed1fb7a",
+    "code": "202604023692431853",
+    "title": "热门中概股收盘多数上涨 纳斯达克中国金龙指数涨0.31%",
+    "summary": "【热门中概股收盘多数上涨 纳斯达克中国金龙指数涨0.31%】热门中概股收盘多数上涨，纳斯达克中国金龙指数涨0.31%，理想汽车涨超3%，蔚来、小鹏汽车、爱奇艺涨超2%，哔哩哔哩涨超1%。",
+    "content": "【热门中概股收盘多数上涨 纳斯达克中国金龙指数涨0.31%】热门中概股收盘多数上涨，纳斯达克中国金龙指数涨0.31%，理想汽车涨超3%，蔚来、小鹏汽车、爱奇艺涨超2%，哔哩哔哩涨超1%。",
+    "full_content": "【热门中概股收盘多数上涨 纳斯达克中国金龙指数涨0.31%】热门中概股收盘多数上涨，纳斯达克中国金龙指数涨0.31%，理想汽车涨超3%，蔚来、小鹏汽车、爱奇艺涨超2%，哔哩哔哩涨超1%。",
+    "sort_time": "1775073812031853",
+    "showTime": "2026-04-02 04:03:32",
+    "time": "2026-04-02 04:03:32",
+    "publish_time": "2026-04-02 04:03:32",
+    "raw_data": {
+      "code": "202604023692431853",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775073812031853",
+      "share": 0,
+      "showTime": "2026-04-02 04:03:32",
+      "stockList": [],
+      "summary": "【热门中概股收盘多数上涨 纳斯达克中国金龙指数涨0.31%】热门中概股收盘多数上涨，纳斯达克中国金龙指数涨0.31%，理想汽车涨超3%，蔚来、小鹏汽车、爱奇艺涨超2%，哔哩哔哩涨超1%。",
+      "title": "热门中概股收盘多数上涨 纳斯达克中国金龙指数涨0.31%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692431853.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "58899df218252809",
+    "code": "202604023692431319",
+    "title": "美股纳指收涨超1% 芯片股走强",
+    "summary": "【美股纳指收涨超1% 芯片股走强】美股三大指数集体收涨，纳指涨1.16%，道指涨0.48%，标普500指数涨0.72%。芯片股走高，西部数据涨超10%，美光科技、英特尔涨超8%，应用材料、AMD涨超3%。耐克股价收盘下跌16%，创自2024年6月以来的最大单日跌幅。",
+    "content": "【美股纳指收涨超1% 芯片股走强】美股三大指数集体收涨，纳指涨1.16%，道指涨0.48%，标普500指数涨0.72%。芯片股走高，西部数据涨超10%，美光科技、英特尔涨超8%，应用材料、AMD涨超3%。耐克股价收盘下跌16%，创自2024年6月以来的最大单日跌幅。",
+    "full_content": "【美股纳指收涨超1% 芯片股走强】美股三大指数集体收涨，纳指涨1.16%，道指涨0.48%，标普500指数涨0.72%。芯片股走高，西部数据涨超10%，美光科技、英特尔涨超8%，应用材料、AMD涨超3%。耐克股价收盘下跌16%，创自2024年6月以来的最大单日跌幅。",
+    "sort_time": "1775073745031319",
+    "showTime": "2026-04-02 04:02:25",
+    "time": "2026-04-02 04:02:25",
+    "publish_time": "2026-04-02 04:02:25",
+    "raw_data": {
+      "code": "202604023692431319",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775073745031319",
+      "share": 0,
+      "showTime": "2026-04-02 04:02:25",
+      "stockList": [
+        "0.159813",
+        "150.159813"
+      ],
+      "summary": "【美股纳指收涨超1% 芯片股走强】美股三大指数集体收涨，纳指涨1.16%，道指涨0.48%，标普500指数涨0.72%。芯片股走高，西部数据涨超10%，美光科技、英特尔涨超8%，应用材料、AMD涨超3%。耐克股价收盘下跌16%，创自2024年6月以来的最大单日跌幅。",
+      "title": "美股纳指收涨超1% 芯片股走强",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692431319.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "0.159813",
+      "150.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "51d1d55afaf41c39",
+    "code": "202604023692431110",
+    "title": "美国将委内瑞拉代总统移出制裁名单",
+    "summary": "【美国将委内瑞拉代总统移出制裁名单】当地时间4月1日，美国财政部网站显示，美国将委内瑞拉代总统罗德里格斯移出制裁名单。",
+    "content": "【美国将委内瑞拉代总统移出制裁名单】当地时间4月1日，美国财政部网站显示，美国将委内瑞拉代总统罗德里格斯移出制裁名单。",
+    "full_content": "【美国将委内瑞拉代总统移出制裁名单】当地时间4月1日，美国财政部网站显示，美国将委内瑞拉代总统罗德里格斯移出制裁名单。",
+    "sort_time": "1775073394031110",
+    "showTime": "2026-04-02 03:56:34",
+    "time": "2026-04-02 03:56:34",
+    "publish_time": "2026-04-02 03:56:34",
+    "raw_data": {
+      "code": "202604023692431110",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775073394031110",
+      "share": 0,
+      "showTime": "2026-04-02 03:56:34",
+      "stockList": [],
+      "summary": "【美国将委内瑞拉代总统移出制裁名单】当地时间4月1日，美国财政部网站显示，美国将委内瑞拉代总统罗德里格斯移出制裁名单。",
+      "title": "美国将委内瑞拉代总统移出制裁名单",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692431110.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2abe51b8ca4c6e3c",
+    "code": "202604023692423948",
+    "title": "行情近3年来最“旺” 热度能否延续看4月",
+    "summary": "【行情近3年来最“旺” 热度能否延续看4月】“今天，我要给3对客户办理房产过户手续。上个月，我和工作团队经常加班。在我看来，今年的楼市‘小阳春’行情是近3年来最‘旺’的一次。”4月1日，深圳市罗湖区不动产登记中心刚刚开门，证券时报记者就见到正在帮客户填写资料的小黎，他这样表示。小黎是深圳一家大型房产中介机构的工作人员，专门负责办理房产过户等相关手续。",
+    "content": "【行情近3年来最“旺” 热度能否延续看4月】“今天，我要给3对客户办理房产过户手续。上个月，我和工作团队经常加班。在我看来，今年的楼市‘小阳春’行情是近3年来最‘旺’的一次。”4月1日，深圳市罗湖区不动产登记中心刚刚开门，证券时报记者就见到正在帮客户填写资料的小黎，他这样表示。小黎是深圳一家大型房产中介机构的工作人员，专门负责办理房产过户等相关手续。",
+    "full_content": "【行情近3年来最“旺” 热度能否延续看4月】“今天，我要给3对客户办理房产过户手续。上个月，我和工作团队经常加班。在我看来，今年的楼市‘小阳春’行情是近3年来最‘旺’的一次。”4月1日，深圳市罗湖区不动产登记中心刚刚开门，证券时报记者就见到正在帮客户填写资料的小黎，他这样表示。小黎是深圳一家大型房产中介机构的工作人员，专门负责办理房产过户等相关手续。",
+    "sort_time": "1775073043023948",
+    "showTime": "2026-04-02 03:50:43",
+    "time": "2026-04-02 03:50:43",
+    "publish_time": "2026-04-02 03:50:43",
+    "raw_data": {
+      "code": "202604023692423948",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775073043023948",
+      "share": 1,
+      "showTime": "2026-04-02 03:50:43",
+      "stockList": [
+        "0.161027",
+        "150.161027"
+      ],
+      "summary": "【行情近3年来最“旺” 热度能否延续看4月】“今天，我要给3对客户办理房产过户手续。上个月，我和工作团队经常加班。在我看来，今年的楼市‘小阳春’行情是近3年来最‘旺’的一次。”4月1日，深圳市罗湖区不动产登记中心刚刚开门，证券时报记者就见到正在帮客户填写资料的小黎，他这样表示。小黎是深圳一家大型房产中介机构的工作人员，专门负责办理房产过户等相关手续。",
+      "title": "行情近3年来最“旺” 热度能否延续看4月",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692423948.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.161027",
+      "150.161027"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        },
+        {
+          "id": "C406",
+          "name": "REITs",
+          "matched_keyword": "不动产"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401",
+        "C406"
+      ]
+    }
+  },
+  {
+    "id": "597c3bdae4a1aab9",
+    "code": "202604023692430595",
+    "title": "特朗普要求军方提交夺取伊朗核材料计划",
+    "summary": "【特朗普要求军方提交夺取伊朗核材料计划】当地时间4月1日，央视记者获悉，两位知情人士透露，美国军方已向美国总统特朗普提交了一项计划，旨在夺取伊朗境内460多公斤高丰度浓缩铀。",
+    "content": "【特朗普要求军方提交夺取伊朗核材料计划】当地时间4月1日，央视记者获悉，两位知情人士透露，美国军方已向美国总统特朗普提交了一项计划，旨在夺取伊朗境内460多公斤高丰度浓缩铀。",
+    "full_content": "【特朗普要求军方提交夺取伊朗核材料计划】当地时间4月1日，央视记者获悉，两位知情人士透露，美国军方已向美国总统特朗普提交了一项计划，旨在夺取伊朗境内460多公斤高丰度浓缩铀。",
+    "sort_time": "1775071962030595",
+    "showTime": "2026-04-02 03:32:42",
+    "time": "2026-04-02 03:32:42",
+    "publish_time": "2026-04-02 03:32:42",
+    "raw_data": {
+      "code": "202604023692430595",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775071962030595",
+      "share": 0,
+      "showTime": "2026-04-02 03:32:42",
+      "stockList": [],
+      "summary": "【特朗普要求军方提交夺取伊朗核材料计划】当地时间4月1日，央视记者获悉，两位知情人士透露，美国军方已向美国总统特朗普提交了一项计划，旨在夺取伊朗境内460多公斤高丰度浓缩铀。",
+      "title": "特朗普要求军方提交夺取伊朗核材料计划",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692430595.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "铀"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109"
+      ]
+    }
+  },
+  {
+    "id": "fe709be8a5f8817d",
+    "code": "202604023692430454",
+    "title": "伊朗最高领袖外交政策顾问遇袭重伤",
+    "summary": "【伊朗最高领袖外交政策顾问遇袭重伤】当地时间4月1日，总台记者获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色列袭击，身受重伤，他的妻子遇难。",
+    "content": "【伊朗最高领袖外交政策顾问遇袭重伤】当地时间4月1日，总台记者获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色列袭击，身受重伤，他的妻子遇难。",
+    "full_content": "【伊朗最高领袖外交政策顾问遇袭重伤】当地时间4月1日，总台记者获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色列袭击，身受重伤，他的妻子遇难。",
+    "sort_time": "1775071741030454",
+    "showTime": "2026-04-02 03:29:01",
+    "time": "2026-04-02 03:29:01",
+    "publish_time": "2026-04-02 03:29:01",
+    "raw_data": {
+      "code": "202604023692430454",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775071741030454",
+      "share": 0,
+      "showTime": "2026-04-02 03:29:01",
+      "stockList": [],
+      "summary": "【伊朗最高领袖外交政策顾问遇袭重伤】当地时间4月1日，总台记者获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色列袭击，身受重伤，他的妻子遇难。",
+      "title": "伊朗最高领袖外交政策顾问遇袭重伤",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692430454.html",
+    "category": "政策",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "bd9dab499532f94e",
     "code": "202604023692430031",
     "title": "伊朗最高领袖缅怀战争死难者",
@@ -13,7 +433,7 @@
     "raw_data": {
       "code": "202604023692430031",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 6,
       "realSort": "1775070905030031",
       "share": 0,
       "showTime": "2026-04-02 03:15:05",
@@ -29,7 +449,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -52,7 +472,7 @@
     "raw_data": {
       "code": "202604023692427788",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 10,
       "realSort": "1775070584027788",
       "share": 4,
       "showTime": "2026-04-02 03:09:44",
@@ -68,7 +488,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 10,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -99,7 +519,7 @@
     "raw_data": {
       "code": "202604023692426447",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1775070066026447",
       "share": 0,
       "showTime": "2026-04-02 03:01:06",
@@ -115,7 +535,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -138,7 +558,7 @@
     "raw_data": {
       "code": "202604023692426320",
       "image": [],
-      "pinglun_Num": 17,
+      "pinglun_Num": 24,
       "realSort": "1775069910026320",
       "share": 3,
       "showTime": "2026-04-02 02:58:30",
@@ -154,7 +574,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 17,
+    "comment_count": 24,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -177,7 +597,7 @@
     "raw_data": {
       "code": "202604023692423678",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1775069446023678",
       "share": 0,
       "showTime": "2026-04-02 02:50:46",
@@ -193,7 +613,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -289,9 +709,9 @@
     "raw_data": {
       "code": "202604023692415142",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 11,
       "realSort": "1775068019015142",
-      "share": 5,
+      "share": 9,
       "showTime": "2026-04-02 02:26:59",
       "stockList": [
         "90.BK0428",
@@ -311,8 +731,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 5,
+    "comment_count": 11,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [
@@ -360,7 +780,7 @@
     "raw_data": {
       "code": "202604023692418090",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1775067651018090",
       "share": 0,
       "showTime": "2026-04-02 02:20:51",
@@ -376,7 +796,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -460,7 +880,7 @@
     "raw_data": {
       "code": "202604023692411846",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1775066343011846",
       "share": 0,
       "showTime": "2026-04-02 01:59:03",
@@ -476,7 +896,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -779,7 +1199,7 @@
     "raw_data": {
       "code": "202604013692209411",
       "image": [],
-      "pinglun_Num": 24,
+      "pinglun_Num": 26,
       "realSort": "1775064003009411",
       "share": 24,
       "showTime": "2026-04-02 01:20:03",
@@ -795,7 +1215,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 24,
+    "comment_count": 26,
     "share_count": 24,
     "tags": {
       "industries": [],
@@ -1292,7 +1712,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1775060922090289",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-02 00:28:42",
       "stockList": [
         "116.00658",
@@ -1313,7 +1733,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1439,7 +1859,7 @@
     "raw_data": {
       "code": "202604023692386127",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1775059637086127",
       "share": 1,
       "showTime": "2026-04-02 00:07:17",
@@ -1455,7 +1875,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1773,7 +2193,7 @@
     "raw_data": {
       "code": "202604013692374458",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 13,
       "realSort": "1775058567074458",
       "share": 20,
       "showTime": "2026-04-01 23:49:27",
@@ -1789,7 +2209,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
+    "comment_count": 13,
     "share_count": 20,
     "tags": {
       "industries": [],
@@ -1935,370 +2355,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "944c63c9bf215051",
-    "code": "202604013692361694",
-    "title": "伊朗重申将封锁霍尔木兹海峡作为反制手段",
-    "summary": "【伊朗重申将封锁霍尔木兹海峡作为反制手段】伊朗最高领袖办公室4月1日在社交媒体上摘发最高领袖穆杰塔巴·哈梅内伊首次讲话内容，重申继续将封锁霍尔木兹海峡作为反制手段。伊朗最高领袖办公室还摘发讲话内容说，伊朗正研究开辟“其他潜在战线”，认为对手在相关领域“缺乏经验且存在明显弱点”。如战事持续，在综合考量相关因素后，“将启动这些战线”。",
-    "content": "【伊朗重申将封锁霍尔木兹海峡作为反制手段】伊朗最高领袖办公室4月1日在社交媒体上摘发最高领袖穆杰塔巴·哈梅内伊首次讲话内容，重申继续将封锁霍尔木兹海峡作为反制手段。伊朗最高领袖办公室还摘发讲话内容说，伊朗正研究开辟“其他潜在战线”，认为对手在相关领域“缺乏经验且存在明显弱点”。如战事持续，在综合考量相关因素后，“将启动这些战线”。",
-    "full_content": "【伊朗重申将封锁霍尔木兹海峡作为反制手段】伊朗最高领袖办公室4月1日在社交媒体上摘发最高领袖穆杰塔巴·哈梅内伊首次讲话内容，重申继续将封锁霍尔木兹海峡作为反制手段。伊朗最高领袖办公室还摘发讲话内容说，伊朗正研究开辟“其他潜在战线”，认为对手在相关领域“缺乏经验且存在明显弱点”。如战事持续，在综合考量相关因素后，“将启动这些战线”。",
-    "sort_time": "1775057483061694",
-    "showTime": "2026-04-01 23:31:23",
-    "time": "2026-04-01 23:31:23",
-    "publish_time": "2026-04-01 23:31:23",
-    "raw_data": {
-      "code": "202604013692361694",
-      "image": [],
-      "pinglun_Num": 34,
-      "realSort": "1775057483061694",
-      "share": 10,
-      "showTime": "2026-04-01 23:31:23",
-      "stockList": [],
-      "summary": "【伊朗重申将封锁霍尔木兹海峡作为反制手段】伊朗最高领袖办公室4月1日在社交媒体上摘发最高领袖穆杰塔巴·哈梅内伊首次讲话内容，重申继续将封锁霍尔木兹海峡作为反制手段。伊朗最高领袖办公室还摘发讲话内容说，伊朗正研究开辟“其他潜在战线”，认为对手在相关领域“缺乏经验且存在明显弱点”。如战事持续，在综合考量相关因素后，“将启动这些战线”。",
-      "title": "伊朗重申将封锁霍尔木兹海峡作为反制手段",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604013692361694.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 34,
-    "share_count": 10,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "38e7cfc39da44b0f",
-    "code": "202604013692360483",
-    "title": "礼来公司涨幅扩大至3.4%",
-    "summary": "礼来公司涨幅扩大至3.4%，据财联社报道，美国FDA批准礼来公司的FOUNDAYO。",
-    "content": "礼来公司涨幅扩大至3.4%，据财联社报道，美国FDA批准礼来公司的FOUNDAYO。",
-    "full_content": "礼来公司涨幅扩大至3.4%，据财联社报道，美国FDA批准礼来公司的FOUNDAYO。",
-    "sort_time": "1775057402060483",
-    "showTime": "2026-04-01 23:30:02",
-    "time": "2026-04-01 23:30:02",
-    "publish_time": "2026-04-01 23:30:02",
-    "raw_data": {
-      "code": "202604013692360483",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1775057402060483",
-      "share": 2,
-      "showTime": "2026-04-01 23:30:02",
-      "stockList": [],
-      "summary": "礼来公司涨幅扩大至3.4%，据财联社报道，美国FDA批准礼来公司的FOUNDAYO。",
-      "title": "礼来公司涨幅扩大至3.4%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604013692360483.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4d036a100fb425ea",
-    "code": "202604013692359752",
-    "title": "刚刚过去的一个小时 以色列遭开战以来最大规模导弹袭击",
-    "summary": "【刚刚过去的一个小时 以色列遭开战以来最大规模导弹袭击】当地时间今天（4月1日）傍晚，以色列军方再次宣布防空警报解除。有以色列媒体统计显示，刚刚过去的一个小时，伊朗对以色列的导弹袭击是2月28日战争爆发以来短时间内最密集的一次。",
-    "content": "【刚刚过去的一个小时 以色列遭开战以来最大规模导弹袭击】当地时间今天（4月1日）傍晚，以色列军方再次宣布防空警报解除。有以色列媒体统计显示，刚刚过去的一个小时，伊朗对以色列的导弹袭击是2月28日战争爆发以来短时间内最密集的一次。",
-    "full_content": "【刚刚过去的一个小时 以色列遭开战以来最大规模导弹袭击】当地时间今天（4月1日）傍晚，以色列军方再次宣布防空警报解除。有以色列媒体统计显示，刚刚过去的一个小时，伊朗对以色列的导弹袭击是2月28日战争爆发以来短时间内最密集的一次。",
-    "sort_time": "1775057324059752",
-    "showTime": "2026-04-01 23:28:44",
-    "time": "2026-04-01 23:28:44",
-    "publish_time": "2026-04-01 23:28:44",
-    "raw_data": {
-      "code": "202604013692359752",
-      "image": [],
-      "pinglun_Num": 33,
-      "realSort": "1775057324059752",
-      "share": 13,
-      "showTime": "2026-04-01 23:28:44",
-      "stockList": [],
-      "summary": "【刚刚过去的一个小时 以色列遭开战以来最大规模导弹袭击】当地时间今天（4月1日）傍晚，以色列军方再次宣布防空警报解除。有以色列媒体统计显示，刚刚过去的一个小时，伊朗对以色列的导弹袭击是2月28日战争爆发以来短时间内最密集的一次。",
-      "title": "刚刚过去的一个小时 以色列遭开战以来最大规模导弹袭击",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604013692359752.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 33,
-    "share_count": 13,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f9f6aa9d03f068cf",
-    "code": "202604013692355924",
-    "title": "美股石油股普跌 西方石油跌逾4%",
-    "summary": "【美股石油股普跌 西方石油跌逾4%】周三美股石油股普跌，西方石油、雪佛龙跌逾4%，巴西石油、康菲石油跌逾3%，帝国石油跌近2%。布伦特原油期货日内一度跌逾5%，截至发稿，跌2.81%。",
-    "content": "【美股石油股普跌 西方石油跌逾4%】周三美股石油股普跌，西方石油、雪佛龙跌逾4%，巴西石油、康菲石油跌逾3%，帝国石油跌近2%。布伦特原油期货日内一度跌逾5%，截至发稿，跌2.81%。",
-    "full_content": "【美股石油股普跌 西方石油跌逾4%】周三美股石油股普跌，西方石油、雪佛龙跌逾4%，巴西石油、康菲石油跌逾3%，帝国石油跌近2%。布伦特原油期货日内一度跌逾5%，截至发稿，跌2.81%。",
-    "sort_time": "1775056937055924",
-    "showTime": "2026-04-01 23:22:17",
-    "time": "2026-04-01 23:22:17",
-    "publish_time": "2026-04-01 23:22:17",
-    "raw_data": {
-      "code": "202604013692355924",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1775056937055924",
-      "share": 8,
-      "showTime": "2026-04-01 23:22:17",
-      "stockList": [],
-      "summary": "【美股石油股普跌 西方石油跌逾4%】周三美股石油股普跌，西方石油、雪佛龙跌逾4%，巴西石油、康菲石油跌逾3%，帝国石油跌近2%。布伦特原油期货日内一度跌逾5%，截至发稿，跌2.81%。",
-      "title": "美股石油股普跌 西方石油跌逾4%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604013692355924.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "872ceadd0aa61772",
-    "code": "202604013692353038",
-    "title": "马斯克旗下的SpaceX公司已秘密提交IPO文件",
-    "summary": "【马斯克旗下的SpaceX公司已秘密提交IPO文件】消息称，亿万富翁埃隆·马斯克的太空探索技术公司（SpaceX）已秘密提交首次公开募股申请（IPO）。此次申请使其有望在6月份挂牌上市，这将使SpaceX成为可能出现的“三巨头超级IPO”中的首家——抢在OpenAI和AnthropicPBC之前。据知情人士透露，SpaceX在IPO中寻求的估值可能超过1.75万亿美元。SpaceX的一位代表尚未对此事作出回应。根据3月25日的报道，参与筹备工作的顾问预计，SpaceX公司在IPO中或拟募资超750亿美元，高于此前报道的500亿美元预估。",
-    "content": "【马斯克旗下的SpaceX公司已秘密提交IPO文件】消息称，亿万富翁埃隆·马斯克的太空探索技术公司（SpaceX）已秘密提交首次公开募股申请（IPO）。此次申请使其有望在6月份挂牌上市，这将使SpaceX成为可能出现的“三巨头超级IPO”中的首家——抢在OpenAI和AnthropicPBC之前。据知情人士透露，SpaceX在IPO中寻求的估值可能超过1.75万亿美元。SpaceX的一位代表尚未对此事作出回应。根据3月25日的报道，参与筹备工作的顾问预计，SpaceX公司在IPO中或拟募资超750亿美元，高于此前报道的500亿美元预估。",
-    "full_content": "【马斯克旗下的SpaceX公司已秘密提交IPO文件】消息称，亿万富翁埃隆·马斯克的太空探索技术公司（SpaceX）已秘密提交首次公开募股申请（IPO）。此次申请使其有望在6月份挂牌上市，这将使SpaceX成为可能出现的“三巨头超级IPO”中的首家——抢在OpenAI和AnthropicPBC之前。据知情人士透露，SpaceX在IPO中寻求的估值可能超过1.75万亿美元。SpaceX的一位代表尚未对此事作出回应。根据3月25日的报道，参与筹备工作的顾问预计，SpaceX公司在IPO中或拟募资超750亿美元，高于此前报道的500亿美元预估。",
-    "sort_time": "1775056672053038",
-    "showTime": "2026-04-01 23:17:52",
-    "time": "2026-04-01 23:17:52",
-    "publish_time": "2026-04-01 23:17:52",
-    "raw_data": {
-      "code": "202604013692353038",
-      "image": [],
-      "pinglun_Num": 426,
-      "realSort": "1775056672053038",
-      "share": 555,
-      "showTime": "2026-04-01 23:17:52",
-      "stockList": [
-        "90.BK0697",
-        "0.161027"
-      ],
-      "summary": "【马斯克旗下的SpaceX公司已秘密提交IPO文件】消息称，亿万富翁埃隆·马斯克的太空探索技术公司（SpaceX）已秘密提交首次公开募股申请（IPO）。此次申请使其有望在6月份挂牌上市，这将使SpaceX成为可能出现的“三巨头超级IPO”中的首家——抢在OpenAI和AnthropicPBC之前。据知情人士透露，SpaceX在IPO中寻求的估值可能超过1.75万亿美元。SpaceX的一位代表尚未对此事作出回应。根据3月25日的报道，参与筹备工作的顾问预计，SpaceX公司在IPO中或拟募资超750亿美元，高于此前报道的500亿美元预估。",
-      "title": "马斯克旗下的SpaceX公司已秘密提交IPO文件",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604013692353038.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0697",
-      "0.161027"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 426,
-    "share_count": 555,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020202",
-          "name": "投资银行",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "IPO"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [
-        "I020202"
-      ],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "9c179cdcd2cd08b9",
-    "code": "202604013692351294",
-    "title": "富临运业：实际控制人将变更为东阳市国资办明起复牌",
-    "summary": "【富临运业：实际控制人将变更为东阳市国资办明起复牌】富临运业(002357.SZ)公告称，公司控股股东永锋集团拟以14.18元/股的价格，合计8亿元将所持18%股份转让给东望联航。交易完成后，公司控股股东将由永锋集团变更为东望联航，实际控制人将由刘锋变更为东阳市国资办。公司股票自4月2日开市起复牌。",
-    "content": "【富临运业：实际控制人将变更为东阳市国资办明起复牌】富临运业(002357.SZ)公告称，公司控股股东永锋集团拟以14.18元/股的价格，合计8亿元将所持18%股份转让给东望联航。交易完成后，公司控股股东将由永锋集团变更为东望联航，实际控制人将由刘锋变更为东阳市国资办。公司股票自4月2日开市起复牌。",
-    "full_content": "【富临运业：实际控制人将变更为东阳市国资办明起复牌】富临运业(002357.SZ)公告称，公司控股股东永锋集团拟以14.18元/股的价格，合计8亿元将所持18%股份转让给东望联航。交易完成后，公司控股股东将由永锋集团变更为东望联航，实际控制人将由刘锋变更为东阳市国资办。公司股票自4月2日开市起复牌。",
-    "sort_time": "1775056516051294",
-    "showTime": "2026-04-01 23:15:16",
-    "time": "2026-04-01 23:15:16",
-    "publish_time": "2026-04-01 23:15:16",
-    "raw_data": {
-      "code": "202604013692351294",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1775056516051294",
-      "share": 16,
-      "showTime": "2026-04-01 23:15:16",
-      "stockList": [
-        "0.002357"
-      ],
-      "summary": "【富临运业：实际控制人将变更为东阳市国资办明起复牌】富临运业(002357.SZ)公告称，公司控股股东永锋集团拟以14.18元/股的价格，合计8亿元将所持18%股份转让给东望联航。交易完成后，公司控股股东将由永锋集团变更为东望联航，实际控制人将由刘锋变更为东阳市国资办。公司股票自4月2日开市起复牌。",
-      "title": "富临运业：实际控制人将变更为东阳市国资办明起复牌",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604013692351294.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.002357"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 16,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C701",
-          "name": "国企改革",
-          "matched_keyword": "国资"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C701"
-      ]
-    }
-  },
-  {
-    "id": "e4b7551547afceb8",
-    "code": "202604013692349650",
-    "title": "多伦多股票指数.GSPTSE继续扩大涨幅 上涨1%",
-    "summary": "多伦多股票指数.GSPTSE继续扩大涨幅，上涨1%。",
-    "content": "多伦多股票指数.GSPTSE继续扩大涨幅，上涨1%。",
-    "full_content": "多伦多股票指数.GSPTSE继续扩大涨幅，上涨1%。",
-    "sort_time": "1775056297049650",
-    "showTime": "2026-04-01 23:11:37",
-    "time": "2026-04-01 23:11:37",
-    "publish_time": "2026-04-01 23:11:37",
-    "raw_data": {
-      "code": "202604013692349650",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1775056297049650",
-      "share": 0,
-      "showTime": "2026-04-01 23:11:37",
-      "stockList": [],
-      "summary": "多伦多股票指数.GSPTSE继续扩大涨幅，上涨1%。",
-      "title": "多伦多股票指数.GSPTSE继续扩大涨幅 上涨1%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604013692349650.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6f5d18a7ce083bc7",
-    "code": "202604013692349293",
-    "title": "美股太空概念走强 Planet Labs PBC涨超8%",
-    "summary": "美股太空概念走强，Planet Labs PBC涨超8%，波音、Rocket Lab涨超5%，AST SpaceMobile涨近4%。",
-    "content": "美股太空概念走强，Planet Labs PBC涨超8%，波音、Rocket Lab涨超5%，AST SpaceMobile涨近4%。",
-    "full_content": "美股太空概念走强，Planet Labs PBC涨超8%，波音、Rocket Lab涨超5%，AST SpaceMobile涨近4%。",
-    "sort_time": "1775056256049293",
-    "showTime": "2026-04-01 23:10:56",
-    "time": "2026-04-01 23:10:56",
-    "publish_time": "2026-04-01 23:10:56",
-    "raw_data": {
-      "code": "202604013692349293",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1775056256049293",
-      "share": 14,
-      "showTime": "2026-04-01 23:10:56",
-      "stockList": [],
-      "summary": "美股太空概念走强，Planet Labs PBC涨超8%，波音、Rocket Lab涨超5%，AST SpaceMobile涨近4%。",
-      "title": "美股太空概念走强 Planet Labs PBC涨超8%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604013692349293.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 14,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "ST"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C814"
-      ]
     }
   }
 ]
