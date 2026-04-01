@@ -1,5 +1,321 @@
 [
   {
+    "id": "587f5b0c707c3476",
+    "code": "202604023692458019",
+    "title": "中国地震台网自动测定：04月02日06时48分在印尼马鲁古海峡附近（北纬1.21度，东经126.32度）发生7.5级左右地震",
+    "summary": "中国地震台网自动测定：04月02日06时48分在印尼马鲁古海峡附近（北纬1.21度，东经126.32度）发生7.5级左右地震，最终结果以正式速报为准。",
+    "content": "中国地震台网自动测定：04月02日06时48分在印尼马鲁古海峡附近（北纬1.21度，东经126.32度）发生7.5级左右地震，最终结果以正式速报为准。",
+    "full_content": "中国地震台网自动测定：04月02日06时48分在印尼马鲁古海峡附近（北纬1.21度，东经126.32度）发生7.5级左右地震，最终结果以正式速报为准。",
+    "sort_time": "1775084296058019",
+    "showTime": "2026-04-02 06:58:16",
+    "time": "2026-04-02 06:58:16",
+    "publish_time": "2026-04-02 06:58:16",
+    "raw_data": {
+      "code": "202604023692458019",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775084296058019",
+      "share": 0,
+      "showTime": "2026-04-02 06:58:16",
+      "stockList": [],
+      "summary": "中国地震台网自动测定：04月02日06时48分在印尼马鲁古海峡附近（北纬1.21度，东经126.32度）发生7.5级左右地震，最终结果以正式速报为准。",
+      "title": "中国地震台网自动测定：04月02日06时48分在印尼马鲁古海峡附近（北纬1.21度，东经126.32度）发生7.5级左右地震",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692458019.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "646b9c4c4e2a0ecf",
+    "code": "202604023692414887",
+    "title": "逾八成消费电子及家电A股公司2025年实现盈利",
+    "summary": "【逾八成消费电子及家电A股公司2025年实现盈利】受益于AI技术深度赋能、业务与海外市场多元拓展以及“以旧换新”等政策落地，2025年A股消费电子与家电行业整体呈现稳步修复态势，企业加快转型升级，逐步迈向价值提升新阶段。",
+    "content": "【逾八成消费电子及家电A股公司2025年实现盈利】受益于AI技术深度赋能、业务与海外市场多元拓展以及“以旧换新”等政策落地，2025年A股消费电子与家电行业整体呈现稳步修复态势，企业加快转型升级，逐步迈向价值提升新阶段。",
+    "full_content": "【逾八成消费电子及家电A股公司2025年实现盈利】受益于AI技术深度赋能、业务与海外市场多元拓展以及“以旧换新”等政策落地，2025年A股消费电子与家电行业整体呈现稳步修复态势，企业加快转型升级，逐步迈向价值提升新阶段。",
+    "sort_time": "1775083319014887",
+    "showTime": "2026-04-02 06:41:59",
+    "time": "2026-04-02 06:41:59",
+    "publish_time": "2026-04-02 06:41:59",
+    "raw_data": {
+      "code": "202604023692414887",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775083319014887",
+      "share": 3,
+      "showTime": "2026-04-02 06:41:59",
+      "stockList": [
+        "90.BK1037",
+        "90.BK0459"
+      ],
+      "summary": "【逾八成消费电子及家电A股公司2025年实现盈利】受益于AI技术深度赋能、业务与海外市场多元拓展以及“以旧换新”等政策落地，2025年A股消费电子与家电行业整体呈现稳步修复态势，企业加快转型升级，逐步迈向价值提升新阶段。",
+      "title": "逾八成消费电子及家电A股公司2025年实现盈利",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692414887.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1037",
+      "90.BK0459"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "消费电子"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C013",
+          "name": "消费电子",
+          "matched_keyword": "消费电子"
+        },
+        {
+          "id": "C606",
+          "name": "家电",
+          "matched_keyword": "家电"
+        }
+      ],
+      "industry_ids": [
+        "I010103"
+      ],
+      "concept_ids": [
+        "C001",
+        "C013",
+        "C606"
+      ]
+    }
+  },
+  {
+    "id": "837ec04e14609e31",
+    "code": "202604023692415420",
+    "title": "3月楼市成交反弹 百家典型房企销售环比增长127.1%",
+    "summary": "【3月楼市成交反弹 百家典型房企销售环比增长127.1%】在一系列政策持续加持下，今年一季度房地产市场销售端暖意渐显，呈现稳中向好的积极态势。4月1日，研究机构发布的最新数据显示：3月，全国重点50城新建商品住宅成交面积约为1133万平方米，环比增长89%；重点20城二手房成交面积约为1797万平方米，环比增长117%。与此同时，房企销售端也迎来显著反弹，100家典型房企3月单月实现销售权益金额2065.2亿元，环比增长127.1%。",
+    "content": "【3月楼市成交反弹 百家典型房企销售环比增长127.1%】在一系列政策持续加持下，今年一季度房地产市场销售端暖意渐显，呈现稳中向好的积极态势。4月1日，研究机构发布的最新数据显示：3月，全国重点50城新建商品住宅成交面积约为1133万平方米，环比增长89%；重点20城二手房成交面积约为1797万平方米，环比增长117%。与此同时，房企销售端也迎来显著反弹，100家典型房企3月单月实现销售权益金额2065.2亿元，环比增长127.1%。",
+    "full_content": "【3月楼市成交反弹 百家典型房企销售环比增长127.1%】在一系列政策持续加持下，今年一季度房地产市场销售端暖意渐显，呈现稳中向好的积极态势。4月1日，研究机构发布的最新数据显示：3月，全国重点50城新建商品住宅成交面积约为1133万平方米，环比增长89%；重点20城二手房成交面积约为1797万平方米，环比增长117%。与此同时，房企销售端也迎来显著反弹，100家典型房企3月单月实现销售权益金额2065.2亿元，环比增长127.1%。",
+    "sort_time": "1775083137015420",
+    "showTime": "2026-04-02 06:38:57",
+    "time": "2026-04-02 06:38:57",
+    "publish_time": "2026-04-02 06:38:57",
+    "raw_data": {
+      "code": "202604023692415420",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1775083137015420",
+      "share": 8,
+      "showTime": "2026-04-02 06:38:57",
+      "stockList": [
+        "90.BK0451",
+        "116.00688"
+      ],
+      "summary": "【3月楼市成交反弹 百家典型房企销售环比增长127.1%】在一系列政策持续加持下，今年一季度房地产市场销售端暖意渐显，呈现稳中向好的积极态势。4月1日，研究机构发布的最新数据显示：3月，全国重点50城新建商品住宅成交面积约为1133万平方米，环比增长89%；重点20城二手房成交面积约为1797万平方米，环比增长117%。与此同时，房企销售端也迎来显著反弹，100家典型房企3月单月实现销售权益金额2065.2亿元，环比增长127.1%。",
+      "title": "3月楼市成交反弹 百家典型房企销售环比增长127.1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692415420.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0451",
+      "116.00688"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 8,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C405",
+          "name": "房地产",
+          "matched_keyword": "房企"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C405"
+      ]
+    }
+  },
+  {
+    "id": "6789afac08570089",
+    "code": "202604023692455385",
+    "title": "美国执行载人绕月任务火箭发射升空",
+    "summary": "【美国执行载人绕月任务火箭发射升空】当地时间4月1日傍晚，美国航空航天局新一代登月火箭“太空发射系统”从佛罗里达州肯尼迪航天中心发射升空，执行“阿耳忒弥斯2号”载人绕月任务。这是美国自1972年以来首次载人飞向月球。",
+    "content": "【美国执行载人绕月任务火箭发射升空】当地时间4月1日傍晚，美国航空航天局新一代登月火箭“太空发射系统”从佛罗里达州肯尼迪航天中心发射升空，执行“阿耳忒弥斯2号”载人绕月任务。这是美国自1972年以来首次载人飞向月球。",
+    "full_content": "【美国执行载人绕月任务火箭发射升空】当地时间4月1日傍晚，美国航空航天局新一代登月火箭“太空发射系统”从佛罗里达州肯尼迪航天中心发射升空，执行“阿耳忒弥斯2号”载人绕月任务。这是美国自1972年以来首次载人飞向月球。",
+    "sort_time": "1775083023055385",
+    "showTime": "2026-04-02 06:37:03",
+    "time": "2026-04-02 06:37:03",
+    "publish_time": "2026-04-02 06:37:03",
+    "raw_data": {
+      "code": "202604023692455385",
+      "image": [],
+      "pinglun_Num": 44,
+      "realSort": "1775083023055385",
+      "share": 80,
+      "showTime": "2026-04-02 06:37:03",
+      "stockList": [
+        "90.BK0480",
+        "1007.BK000313"
+      ],
+      "summary": "【美国执行载人绕月任务火箭发射升空】当地时间4月1日傍晚，美国航空航天局新一代登月火箭“太空发射系统”从佛罗里达州肯尼迪航天中心发射升空，执行“阿耳忒弥斯2号”载人绕月任务。这是美国自1972年以来首次载人飞向月球。",
+      "title": "美国执行载人绕月任务火箭发射升空",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692455385.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0480",
+      "1007.BK000313"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 44,
+    "share_count": 80,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "火箭"
+        },
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C202",
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "252856e69089f9ff",
+    "code": "202604023692455117",
+    "title": "周四你需要知道的隔夜全球要闻：中东停战预期升温 国际油价承压 金价四连涨 美股四月开门红",
+    "summary": "【周四你需要知道的隔夜全球要闻：中东停战预期升温 国际油价承压 金价四连涨 美股四月开门红】1、伊朗总统佩泽希齐扬发表致美国人民的公开信。信中表示，伊朗人民对其他国家没有敌意。伊朗已采取而且将继续采取的，是基于合法自卫权的回应，绝不是发动战争或侵略。2、伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。",
+    "content": "【周四你需要知道的隔夜全球要闻：中东停战预期升温 国际油价承压 金价四连涨 美股四月开门红】1、伊朗总统佩泽希齐扬发表致美国人民的公开信。信中表示，伊朗人民对其他国家没有敌意。伊朗已采取而且将继续采取的，是基于合法自卫权的回应，绝不是发动战争或侵略。2、伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。",
+    "full_content": "【周四你需要知道的隔夜全球要闻：中东停战预期升温 国际油价承压 金价四连涨 美股四月开门红】1、伊朗总统佩泽希齐扬发表致美国人民的公开信。信中表示，伊朗人民对其他国家没有敌意。伊朗已采取而且将继续采取的，是基于合法自卫权的回应，绝不是发动战争或侵略。2、伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。",
+    "sort_time": "1775082849055117",
+    "showTime": "2026-04-02 06:34:09",
+    "time": "2026-04-02 06:34:09",
+    "publish_time": "2026-04-02 06:34:09",
+    "raw_data": {
+      "code": "202604023692455117",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1775082849055117",
+      "share": 3,
+      "showTime": "2026-04-02 06:34:09",
+      "stockList": [
+        "90.BK0464",
+        "90.BK0732"
+      ],
+      "summary": "【周四你需要知道的隔夜全球要闻：中东停战预期升温 国际油价承压 金价四连涨 美股四月开门红】1、伊朗总统佩泽希齐扬发表致美国人民的公开信。信中表示，伊朗人民对其他国家没有敌意。伊朗已采取而且将继续采取的，是基于合法自卫权的回应，绝不是发动战争或侵略。2、伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。",
+      "title": "周四你需要知道的隔夜全球要闻：中东停战预期升温 国际油价承压 金价四连涨 美股四月开门红",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692455117.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464",
+      "90.BK0732"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "66570efd86239530",
+    "code": "202604023692423167",
+    "title": "加力供给侧调控 盘活存量成楼市关键抓手",
+    "summary": "【加力供给侧调控 盘活存量成楼市关键抓手】“十五五”规划纲要不仅从土地供应源头提出“与存量住房、人口变动等相协调”的要求，还针对存量土地、在建项目、存量商品房等明确了一系列盘活政策，明确已供未开发土地和在建项目要“分类处置”，存量商品房和闲置商办要推进“盘活利用”等。",
+    "content": "【加力供给侧调控 盘活存量成楼市关键抓手】“十五五”规划纲要不仅从土地供应源头提出“与存量住房、人口变动等相协调”的要求，还针对存量土地、在建项目、存量商品房等明确了一系列盘活政策，明确已供未开发土地和在建项目要“分类处置”，存量商品房和闲置商办要推进“盘活利用”等。",
+    "full_content": "【加力供给侧调控 盘活存量成楼市关键抓手】“十五五”规划纲要不仅从土地供应源头提出“与存量住房、人口变动等相协调”的要求，还针对存量土地、在建项目、存量商品房等明确了一系列盘活政策，明确已供未开发土地和在建项目要“分类处置”，存量商品房和闲置商办要推进“盘活利用”等。",
+    "sort_time": "1775082528023167",
+    "showTime": "2026-04-02 06:28:48",
+    "time": "2026-04-02 06:28:48",
+    "publish_time": "2026-04-02 06:28:48",
+    "raw_data": {
+      "code": "202604023692423167",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775082528023167",
+      "share": 2,
+      "showTime": "2026-04-02 06:28:48",
+      "stockList": [
+        "90.BK0451",
+        "0.160628"
+      ],
+      "summary": "【加力供给侧调控 盘活存量成楼市关键抓手】“十五五”规划纲要不仅从土地供应源头提出“与存量住房、人口变动等相协调”的要求，还针对存量土地、在建项目、存量商品房等明确了一系列盘活政策，明确已供未开发土地和在建项目要“分类处置”，存量商品房和闲置商办要推进“盘活利用”等。",
+      "title": "加力供给侧调控 盘活存量成楼市关键抓手",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604023692423167.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0451",
+      "0.160628"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "c6c50dabd52009c2",
     "code": "202604023692447527",
     "title": "美联储4月维持利率不变的概率为97.4%",
@@ -13,7 +329,7 @@
     "raw_data": {
       "code": "202604023692447527",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1775081387047527",
       "share": 1,
       "showTime": "2026-04-02 06:09:47",
@@ -29,7 +345,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -70,7 +386,7 @@
     "raw_data": {
       "code": "202604023692445552",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1775081275045552",
       "share": 0,
       "showTime": "2026-04-02 06:07:55",
@@ -90,7 +406,7 @@
       "90.BK1616"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -113,7 +429,7 @@
     "raw_data": {
       "code": "202604023692445127",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1775081136045127",
       "share": 0,
       "showTime": "2026-04-02 06:05:36",
@@ -129,7 +445,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -166,7 +482,7 @@
     "raw_data": {
       "code": "202604023692441187",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 26,
       "realSort": "1775080633041187",
       "share": 0,
       "showTime": "2026-04-02 05:57:13",
@@ -182,7 +498,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 26,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -205,9 +521,9 @@
     "raw_data": {
       "code": "202604023692440321",
       "image": [],
-      "pinglun_Num": 17,
+      "pinglun_Num": 27,
       "realSort": "1775079787040321",
-      "share": 2,
+      "share": 5,
       "showTime": "2026-04-02 05:43:07",
       "stockList": [],
       "summary": "【美情报机构：伊朗目前无意参与实质性谈判】当地时间4月1日，央视记者获悉，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。",
@@ -221,8 +537,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 17,
-    "share_count": 2,
+    "comment_count": 27,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -322,9 +638,9 @@
     "raw_data": {
       "code": "202604023692439168",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 15,
       "realSort": "1775078967039168",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-04-02 05:29:27",
       "stockList": [],
       "summary": "【伊朗称其反击行动最终目标包括美军撤离中东】当地时间4月1日，伊朗国防部发言人礼萨·塔莱尼克表示，伊朗对美国和以色列反击行动的最终目标，包括美军撤离中东地区以及彻底摧毁美军在该地区的基地。",
@@ -338,8 +654,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
-    "share_count": 2,
+    "comment_count": 15,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -408,7 +724,7 @@
     "raw_data": {
       "code": "202604023692437725",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 6,
       "realSort": "1775078186037725",
       "share": 0,
       "showTime": "2026-04-02 05:16:26",
@@ -424,7 +740,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -580,9 +896,9 @@
     "raw_data": {
       "code": "202604013692274317",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 13,
       "realSort": "1775076480074317",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-04-02 04:48:00",
       "stockList": [
         "1.601398",
@@ -602,8 +918,8 @@
       "116.01398"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 2,
+    "comment_count": 13,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -627,7 +943,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1775075356034823",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-02 04:29:16",
       "stockList": [],
       "summary": "印度政府公告，自4月2日起至6月30日止，对部分化学品的进口关税降至零。",
@@ -642,7 +958,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 4,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -717,7 +1033,7 @@
     "raw_data": {
       "code": "202604023692432155",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1775073892032155",
       "share": 0,
       "showTime": "2026-04-02 04:04:52",
@@ -737,7 +1053,7 @@
       "1.600016"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -829,7 +1145,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1775073745031319",
-      "share": 6,
+      "share": 8,
       "showTime": "2026-04-02 04:02:25",
       "stockList": [],
       "summary": "【美股纳指收涨超1% 芯片股走强】美股三大指数集体收涨，纳指涨1.16%，道指涨0.48%，标普500指数涨0.72%。芯片股走高，西部数据涨超10%，美光科技、英特尔涨超8%，应用材料、AMD涨超3%。耐克股价收盘下跌16%，创自2024年6月以来的最大单日跌幅。",
@@ -844,7 +1160,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 6,
+    "share_count": 8,
     "tags": {
       "industries": [
         {
@@ -884,9 +1200,9 @@
     "raw_data": {
       "code": "202604023692431110",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 14,
       "realSort": "1775073394031110",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-02 03:56:34",
       "stockList": [],
       "summary": "【美国将委内瑞拉代总统移出制裁名单】当地时间4月1日，美国财政部网站显示，美国将委内瑞拉代总统罗德里格斯移出制裁名单。",
@@ -900,8 +1216,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 0,
+    "comment_count": 14,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -925,7 +1241,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1775073043023948",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-04-02 03:50:43",
       "stockList": [
         "0.161027",
@@ -946,7 +1262,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 1,
+    "share_count": 3,
     "tags": {
       "industries": [
         {
@@ -992,7 +1308,7 @@
     "raw_data": {
       "code": "202604023692430595",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 19,
       "realSort": "1775071962030595",
       "share": 3,
       "showTime": "2026-04-02 03:32:42",
@@ -1008,7 +1324,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 19,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1039,9 +1355,9 @@
     "raw_data": {
       "code": "202604023692430454",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 12,
       "realSort": "1775071741030454",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-02 03:29:01",
       "stockList": [],
       "summary": "【伊朗最高领袖外交政策顾问遇袭重伤】当地时间4月1日，总台记者获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色列袭击，身受重伤，他的妻子遇难。",
@@ -1055,8 +1371,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 2,
+    "comment_count": 12,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1080,7 +1396,7 @@
       "image": [],
       "pinglun_Num": 6,
       "realSort": "1775070905030031",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-02 03:15:05",
       "stockList": [],
       "summary": "【伊朗最高领袖缅怀战争死难者】当地时间4月1日，伊朗最高领袖穆杰塔巴·哈梅内伊就当天的伊朗伊斯兰共和国日暨自然日发表书面致辞，呼吁伊朗人民植树，缅怀战争中的死难者。",
@@ -1095,7 +1411,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 6,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1117,9 +1433,9 @@
     "raw_data": {
       "code": "202604023692427788",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 14,
       "realSort": "1775070584027788",
-      "share": 9,
+      "share": 11,
       "showTime": "2026-04-02 03:09:44",
       "stockList": [],
       "summary": "【美国防部将部署在中东的A-10攻击机规模扩大一倍】当地时间4月1日，央视记者获悉，美国国防部正将其在中东部署的空军A-10攻击机机队规模扩大一倍。据悉，这类飞机主要负责支援地面部队的推进作战。而此前，美国总统特朗普表示他希望在两到三周内结束与伊朗的战争。",
@@ -1133,8 +1449,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 9,
+    "comment_count": 14,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1203,9 +1519,9 @@
     "raw_data": {
       "code": "202604023692426320",
       "image": [],
-      "pinglun_Num": 32,
+      "pinglun_Num": 35,
       "realSort": "1775069910026320",
-      "share": 9,
+      "share": 12,
       "showTime": "2026-04-02 02:58:30",
       "stockList": [],
       "summary": "【伊朗总统发表致美国人民公开信】伊朗总统佩泽希齐扬发表致美国人民的公开信。信中表示，伊朗人民对其他国家没有敌意，是美国将大量军事基地和军事力量集结于伊朗周边，形成对伊朗的军事威胁。伊朗已采取而且将继续采取的，是基于合法自卫权的回应，绝不是发动战争或侵略。佩泽希齐扬强调，美国的制裁、战争和侵略对伊朗人民生活的破坏性不能被低估，攻击伊朗重要基础设施，包括能源和工业基础设施，都构成战争罪。佩泽希齐扬进一步对美国当前政策是否真正契合“美国优先”提出质疑。他表示，美国如今俨然成为以色列的代理人，对伊朗实施打击，其政策深受以色列政权的影响与操纵。而以色列则通过刻意制造“伊朗威胁论”，试图转移国际社会对其在巴勒斯坦犯下罪行的关注。此外，佩泽希齐扬还邀请美国民众超越政治话术的束缚，重新审视伊朗的过去、当下以及对未来的愿景——一个不以对抗为导向，而是以真理、尊严与相互理解为基石的和平未来。",
@@ -1219,8 +1535,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 32,
-    "share_count": 9,
+    "comment_count": 35,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1244,7 +1560,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1775069446023678",
-      "share": 0,
+      "share": 4,
       "showTime": "2026-04-02 02:50:46",
       "stockList": [],
       "summary": "【首季超1600只基金分红531亿 债基成绝对主力】2026年第一季度，公募基金市场再次给持有人派发了丰厚的“红包”。以红利发放日为统计口径，全市场超1600只基金（份额分开计，下同）实施分红，总额超过531.2亿元。其中，头部宽基ETF与绩优权益基金“出手阔绰”，而债券型基金则在分红数量上占据绝对主力。",
@@ -1259,7 +1575,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 0,
+    "share_count": 4,
     "tags": {
       "industries": [
         {
@@ -1354,9 +1670,9 @@
     "raw_data": {
       "code": "202604023692420174",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 40,
       "realSort": "1775068186020174",
-      "share": 59,
+      "share": 96,
       "showTime": "2026-04-02 02:29:46",
       "stockList": [
         "90.BK0697",
@@ -1376,8 +1692,8 @@
       "150.012322"
     ],
     "has_stock_mention": true,
-    "comment_count": 23,
-    "share_count": 59,
+    "comment_count": 40,
+    "share_count": 96,
     "tags": {
       "industries": [
         {
@@ -1431,9 +1747,9 @@
     "raw_data": {
       "code": "202604023692415142",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 16,
       "realSort": "1775068019015142",
-      "share": 18,
+      "share": 22,
       "showTime": "2026-04-02 02:26:59",
       "stockList": [
         "90.BK0428",
@@ -1453,8 +1769,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 18,
+    "comment_count": 16,
+    "share_count": 22,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1502,7 +1818,7 @@
     "raw_data": {
       "code": "202604023692418090",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1775067651018090",
       "share": 0,
       "showTime": "2026-04-02 02:20:51",
@@ -1518,7 +1834,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1541,9 +1857,9 @@
     "raw_data": {
       "code": "202604023692414496",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 31,
       "realSort": "1775066817014496",
-      "share": 23,
+      "share": 32,
       "showTime": "2026-04-02 02:06:57",
       "stockList": [
         "90.BK0428",
@@ -1563,8 +1879,8 @@
       "150.161027"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 23,
+    "comment_count": 31,
+    "share_count": 32,
     "tags": {
       "industries": [
         {
@@ -1996,9 +2312,9 @@
     "raw_data": {
       "code": "202604013692209411",
       "image": [],
-      "pinglun_Num": 30,
+      "pinglun_Num": 32,
       "realSort": "1775064003009411",
-      "share": 25,
+      "share": 26,
       "showTime": "2026-04-02 01:20:03",
       "stockList": [],
       "summary": "【内塔尼亚胡当年曾怂恿美国打伊拉克】近日，一段2002年9月美国国会众议院政府改革委员会听证会的视频，在社交媒体被广泛转发。在这段23年半前的视频中，时任以色列看守内阁外长、现任以色列总理内塔尼亚胡拼命游说美国政府出兵攻打伊拉克，信誓旦旦地称萨达姆在寻求发展包括核武器在内的大规模杀伤性武器，称只有颠覆其政权才能使世界不至于陷入危险。",
@@ -2012,8 +2328,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 30,
-    "share_count": 25,
+    "comment_count": 32,
+    "share_count": 26,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2074,7 +2390,7 @@
     "raw_data": {
       "code": "202604023692404534",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1775063673004534",
       "share": 0,
       "showTime": "2026-04-02 01:14:33",
@@ -2094,301 +2410,13 @@
       "90.BK0740"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "5633240b2f177552",
-    "code": "202604023692401223",
-    "title": "美国天然气期货日内跌幅达3.00% 现报2.797美元/百万英热",
-    "summary": "美国天然气期货日内跌幅达3.00%，现报2.797美元/百万英热。",
-    "content": "美国天然气期货日内跌幅达3.00%，现报2.797美元/百万英热。",
-    "full_content": "美国天然气期货日内跌幅达3.00%，现报2.797美元/百万英热。",
-    "sort_time": "1775062916001223",
-    "showTime": "2026-04-02 01:01:56",
-    "time": "2026-04-02 01:01:56",
-    "publish_time": "2026-04-02 01:01:56",
-    "raw_data": {
-      "code": "202604023692401223",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1775062916001223",
-      "share": 0,
-      "showTime": "2026-04-02 01:01:56",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "美国天然气期货日内跌幅达3.00%，现报2.797美元/百万英热。",
-      "title": "美国天然气期货日内跌幅达3.00% 现报2.797美元/百万英热",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604023692401223.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
-    }
-  },
-  {
-    "id": "8e6a811c969d4f5a",
-    "code": "202604023692400946",
-    "title": "现货白银涨幅达1.00% 报75.82美元/盎司",
-    "summary": "现货白银涨幅达1.00%，报75.82美元/盎司。",
-    "content": "现货白银涨幅达1.00%，报75.82美元/盎司。",
-    "full_content": "现货白银涨幅达1.00%，报75.82美元/盎司。",
-    "sort_time": "1775062799000946",
-    "showTime": "2026-04-02 00:59:59",
-    "time": "2026-04-02 00:59:59",
-    "publish_time": "2026-04-02 00:59:59",
-    "raw_data": {
-      "code": "202604023692400946",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1775062799000946",
-      "share": 1,
-      "showTime": "2026-04-02 00:59:59",
-      "stockList": [
-        "90.BK1616"
-      ],
-      "summary": "现货白银涨幅达1.00%，报75.82美元/盎司。",
-      "title": "现货白银涨幅达1.00% 报75.82美元/盎司",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604023692400946.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1616"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0cb4e2ed3c81c8f5",
-    "code": "202604023692399444",
-    "title": "LME期铜收涨99美元",
-    "summary": "【LME期铜收涨99美元】LME期铜收涨99美元，报12434美元/吨。LME期铝收涨64美元，报3532美元/吨。LME期锌收涨63美元，报3290美元/吨。LME期铅收涨38美元，报1942美元/吨。LME期镍收涨99美元，报17209美元/吨。LME期锡收涨615美元，报47362美元/吨。LME期钴收平，报56290美元/吨。",
-    "content": "【LME期铜收涨99美元】LME期铜收涨99美元，报12434美元/吨。LME期铝收涨64美元，报3532美元/吨。LME期锌收涨63美元，报3290美元/吨。LME期铅收涨38美元，报1942美元/吨。LME期镍收涨99美元，报17209美元/吨。LME期锡收涨615美元，报47362美元/吨。LME期钴收平，报56290美元/吨。",
-    "full_content": "【LME期铜收涨99美元】LME期铜收涨99美元，报12434美元/吨。LME期铝收涨64美元，报3532美元/吨。LME期锌收涨63美元，报3290美元/吨。LME期铅收涨38美元，报1942美元/吨。LME期镍收涨99美元，报17209美元/吨。LME期锡收涨615美元，报47362美元/吨。LME期钴收平，报56290美元/吨。",
-    "sort_time": "1775062391099444",
-    "showTime": "2026-04-02 00:53:11",
-    "time": "2026-04-02 00:53:11",
-    "publish_time": "2026-04-02 00:53:11",
-    "raw_data": {
-      "code": "202604023692399444",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1775062391099444",
-      "share": 6,
-      "showTime": "2026-04-02 00:53:11",
-      "stockList": [],
-      "summary": "【LME期铜收涨99美元】LME期铜收涨99美元，报12434美元/吨。LME期铝收涨64美元，报3532美元/吨。LME期锌收涨63美元，报3290美元/吨。LME期铅收涨38美元，报1942美元/吨。LME期镍收涨99美元，报17209美元/吨。LME期锡收涨615美元，报47362美元/吨。LME期钴收平，报56290美元/吨。",
-      "title": "LME期铜收涨99美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604023692399444.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C501",
-          "name": "有色金属",
-          "matched_keyword": "钴"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "7f2fdb95b6a7ec05",
-    "code": "202604023692398296",
-    "title": "伊朗总统强调捍卫国家独立与安全",
-    "summary": "【伊朗总统强调捍卫国家独立与安全】当地时间4月1日，伊朗总统佩泽希齐扬就当天的伊朗伊斯兰共和国日发表致辞，强调将依靠人民支持，捍卫国家独立、安全与发展。他在致辞中表示，伊朗伊斯兰共和国日是伊朗人民渴望独立、尊严和拒绝任何侵略的明确体现。伊朗人民将团结一致、坚定不移地捍卫国家主权和领土完整。",
-    "content": "【伊朗总统强调捍卫国家独立与安全】当地时间4月1日，伊朗总统佩泽希齐扬就当天的伊朗伊斯兰共和国日发表致辞，强调将依靠人民支持，捍卫国家独立、安全与发展。他在致辞中表示，伊朗伊斯兰共和国日是伊朗人民渴望独立、尊严和拒绝任何侵略的明确体现。伊朗人民将团结一致、坚定不移地捍卫国家主权和领土完整。",
-    "full_content": "【伊朗总统强调捍卫国家独立与安全】当地时间4月1日，伊朗总统佩泽希齐扬就当天的伊朗伊斯兰共和国日发表致辞，强调将依靠人民支持，捍卫国家独立、安全与发展。他在致辞中表示，伊朗伊斯兰共和国日是伊朗人民渴望独立、尊严和拒绝任何侵略的明确体现。伊朗人民将团结一致、坚定不移地捍卫国家主权和领土完整。",
-    "sort_time": "1775062201098296",
-    "showTime": "2026-04-02 00:50:01",
-    "time": "2026-04-02 00:50:01",
-    "publish_time": "2026-04-02 00:50:01",
-    "raw_data": {
-      "code": "202604023692398296",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1775062201098296",
-      "share": 0,
-      "showTime": "2026-04-02 00:50:01",
-      "stockList": [],
-      "summary": "【伊朗总统强调捍卫国家独立与安全】当地时间4月1日，伊朗总统佩泽希齐扬就当天的伊朗伊斯兰共和国日发表致辞，强调将依靠人民支持，捍卫国家独立、安全与发展。他在致辞中表示，伊朗伊斯兰共和国日是伊朗人民渴望独立、尊严和拒绝任何侵略的明确体现。伊朗人民将团结一致、坚定不移地捍卫国家主权和领土完整。",
-      "title": "伊朗总统强调捍卫国家独立与安全",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604023692398296.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b2a30fd1611106a6",
-    "code": "202604023692397639",
-    "title": "伊朗军方称打击以色列军工企业",
-    "summary": "【伊朗军方称打击以色列军工企业】当地时间4月1日，伊朗军方表示，近日多次发动无人机打击行动，目标为以色列军工企业拉斐尔公司的相关基础设施，包括武器装备生产及研发中心，称袭击引发火灾并造成损失。拉斐尔公司是以色列主要军工企业之一，专注于研发高精度防御系统，其标志性产品是“铁穹”防空系统。",
-    "content": "【伊朗军方称打击以色列军工企业】当地时间4月1日，伊朗军方表示，近日多次发动无人机打击行动，目标为以色列军工企业拉斐尔公司的相关基础设施，包括武器装备生产及研发中心，称袭击引发火灾并造成损失。拉斐尔公司是以色列主要军工企业之一，专注于研发高精度防御系统，其标志性产品是“铁穹”防空系统。",
-    "full_content": "【伊朗军方称打击以色列军工企业】当地时间4月1日，伊朗军方表示，近日多次发动无人机打击行动，目标为以色列军工企业拉斐尔公司的相关基础设施，包括武器装备生产及研发中心，称袭击引发火灾并造成损失。拉斐尔公司是以色列主要军工企业之一，专注于研发高精度防御系统，其标志性产品是“铁穹”防空系统。",
-    "sort_time": "1775062040097639",
-    "showTime": "2026-04-02 00:47:20",
-    "time": "2026-04-02 00:47:20",
-    "publish_time": "2026-04-02 00:47:20",
-    "raw_data": {
-      "code": "202604023692397639",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1775062040097639",
-      "share": 1,
-      "showTime": "2026-04-02 00:47:20",
-      "stockList": [
-        "90.BK0480"
-      ],
-      "summary": "【伊朗军方称打击以色列军工企业】当地时间4月1日，伊朗军方表示，近日多次发动无人机打击行动，目标为以色列军工企业拉斐尔公司的相关基础设施，包括武器装备生产及研发中心，称袭击引发火灾并造成损失。拉斐尔公司是以色列主要军工企业之一，专注于研发高精度防御系统，其标志性产品是“铁穹”防空系统。",
-      "title": "伊朗军方称打击以色列军工企业",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604023692397639.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0480"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "军工"
-        },
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201",
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "909b138f1775e037",
-    "code": "202604023692397444",
-    "title": "伊朗强调不理会美以的“幻想与谎言”",
-    "summary": "【伊朗强调不理会美以的“幻想与谎言”】伊朗总统办公室通信与新闻副主任4月1日通过社交媒体平台强调，伊朗在捍卫国家安全、应对外部侵略和结束当前冲突的条件方面“均无任何立场改变”。伊朗不会理会美国和以色列的“幻想与谎言”。伊朗人民将以坚定、团结的态度捍卫国家主权。",
-    "content": "【伊朗强调不理会美以的“幻想与谎言”】伊朗总统办公室通信与新闻副主任4月1日通过社交媒体平台强调，伊朗在捍卫国家安全、应对外部侵略和结束当前冲突的条件方面“均无任何立场改变”。伊朗不会理会美国和以色列的“幻想与谎言”。伊朗人民将以坚定、团结的态度捍卫国家主权。",
-    "full_content": "【伊朗强调不理会美以的“幻想与谎言”】伊朗总统办公室通信与新闻副主任4月1日通过社交媒体平台强调，伊朗在捍卫国家安全、应对外部侵略和结束当前冲突的条件方面“均无任何立场改变”。伊朗不会理会美国和以色列的“幻想与谎言”。伊朗人民将以坚定、团结的态度捍卫国家主权。",
-    "sort_time": "1775061981097444",
-    "showTime": "2026-04-02 00:46:21",
-    "time": "2026-04-02 00:46:21",
-    "publish_time": "2026-04-02 00:46:21",
-    "raw_data": {
-      "code": "202604023692397444",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1775061981097444",
-      "share": 1,
-      "showTime": "2026-04-02 00:46:21",
-      "stockList": [
-        "150.012372"
-      ],
-      "summary": "【伊朗强调不理会美以的“幻想与谎言”】伊朗总统办公室通信与新闻副主任4月1日通过社交媒体平台强调，伊朗在捍卫国家安全、应对外部侵略和结束当前冲突的条件方面“均无任何立场改变”。伊朗不会理会美国和以色列的“幻想与谎言”。伊朗人民将以坚定、团结的态度捍卫国家主权。",
-      "title": "伊朗强调不理会美以的“幻想与谎言”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604023692397444.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.012372"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "通信"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C004"
-      ]
     }
   }
 ]
