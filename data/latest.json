@@ -1,5 +1,265 @@
 [
   {
+    "id": "49e124887eb8ccf1",
+    "code": "202604043695592334",
+    "title": "美国将海湾国家置于危险境地",
+    "summary": "【美国将海湾国家置于危险境地】近日，以色列总理办公室前高级顾问丹尼尔·利维在接受总台《高端访谈》采访时表示，海湾国家面临一个迫在眉睫的问题：他们是否还能依靠美国？利维分析称，目前海湾国家看到的是，美国根本无法保障他们的安全。美国非但不能保障其安全，反而正在把他们置于更危险的境地。",
+    "content": "【美国将海湾国家置于危险境地】近日，以色列总理办公室前高级顾问丹尼尔·利维在接受总台《高端访谈》采访时表示，海湾国家面临一个迫在眉睫的问题：他们是否还能依靠美国？利维分析称，目前海湾国家看到的是，美国根本无法保障他们的安全。美国非但不能保障其安全，反而正在把他们置于更危险的境地。",
+    "full_content": "【美国将海湾国家置于危险境地】近日，以色列总理办公室前高级顾问丹尼尔·利维在接受总台《高端访谈》采访时表示，海湾国家面临一个迫在眉睫的问题：他们是否还能依靠美国？利维分析称，目前海湾国家看到的是，美国根本无法保障他们的安全。美国非但不能保障其安全，反而正在把他们置于更危险的境地。",
+    "sort_time": "1775299757092334",
+    "showTime": "2026-04-04 18:49:17",
+    "time": "2026-04-04 18:49:17",
+    "publish_time": "2026-04-04 18:49:17",
+    "raw_data": {
+      "code": "202604043695592334",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775299757092334",
+      "share": 0,
+      "showTime": "2026-04-04 18:49:17",
+      "stockList": [],
+      "summary": "【美国将海湾国家置于危险境地】近日，以色列总理办公室前高级顾问丹尼尔·利维在接受总台《高端访谈》采访时表示，海湾国家面临一个迫在眉睫的问题：他们是否还能依靠美国？利维分析称，目前海湾国家看到的是，美国根本无法保障他们的安全。美国非但不能保障其安全，反而正在把他们置于更危险的境地。",
+      "title": "美国将海湾国家置于危险境地",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695592334.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "32dde1df843ffc83",
+    "code": "202604043695590787",
+    "title": "Meta将于5月份在墨西哥湾区削减近200个工作岗位",
+    "summary": "【Meta将于5月份在墨西哥湾区削减近200个工作岗位】根据州WARN法案申报文件，作为持续重组的一部分，Meta平台将于5月份在墨西哥湾区削减近200个工作岗位。",
+    "content": "【Meta将于5月份在墨西哥湾区削减近200个工作岗位】根据州WARN法案申报文件，作为持续重组的一部分，Meta平台将于5月份在墨西哥湾区削减近200个工作岗位。",
+    "full_content": "【Meta将于5月份在墨西哥湾区削减近200个工作岗位】根据州WARN法案申报文件，作为持续重组的一部分，Meta平台将于5月份在墨西哥湾区削减近200个工作岗位。",
+    "sort_time": "1775299178090787",
+    "showTime": "2026-04-04 18:39:38",
+    "time": "2026-04-04 18:39:38",
+    "publish_time": "2026-04-04 18:39:38",
+    "raw_data": {
+      "code": "202604043695590787",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775299178090787",
+      "share": 0,
+      "showTime": "2026-04-04 18:39:38",
+      "stockList": [
+        "105.META"
+      ],
+      "summary": "【Meta将于5月份在墨西哥湾区削减近200个工作岗位】根据州WARN法案申报文件，作为持续重组的一部分，Meta平台将于5月份在墨西哥湾区削减近200个工作岗位。",
+      "title": "Meta将于5月份在墨西哥湾区削减近200个工作岗位",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695590787.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.META"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "AR"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C009",
+          "name": "元宇宙",
+          "matched_keyword": "AR"
+        }
+      ],
+      "industry_ids": [
+        "I010103"
+      ],
+      "concept_ids": [
+        "C009"
+      ]
+    }
+  },
+  {
+    "id": "78c2900a8f4dfaa8",
+    "code": "202604043695590185",
+    "title": "伊朗否认石化经济特区遭袭后发生有毒物质泄漏",
+    "summary": "【伊朗否认石化经济特区遭袭后发生有毒物质泄漏】伊朗胡齐斯坦省安全事务负责人表示，当地时间4日上午，位于马赫沙赫尔石化经济特区的部分发电装置遭到敌军飞机袭击，发电装置受到干扰，但没有发生有毒物质泄漏。",
+    "content": "【伊朗否认石化经济特区遭袭后发生有毒物质泄漏】伊朗胡齐斯坦省安全事务负责人表示，当地时间4日上午，位于马赫沙赫尔石化经济特区的部分发电装置遭到敌军飞机袭击，发电装置受到干扰，但没有发生有毒物质泄漏。",
+    "full_content": "【伊朗否认石化经济特区遭袭后发生有毒物质泄漏】伊朗胡齐斯坦省安全事务负责人表示，当地时间4日上午，位于马赫沙赫尔石化经济特区的部分发电装置遭到敌军飞机袭击，发电装置受到干扰，但没有发生有毒物质泄漏。",
+    "sort_time": "1775298538090185",
+    "showTime": "2026-04-04 18:28:58",
+    "time": "2026-04-04 18:28:58",
+    "publish_time": "2026-04-04 18:28:58",
+    "raw_data": {
+      "code": "202604043695590185",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1775298538090185",
+      "share": 0,
+      "showTime": "2026-04-04 18:28:58",
+      "stockList": [],
+      "summary": "【伊朗否认石化经济特区遭袭后发生有毒物质泄漏】伊朗胡齐斯坦省安全事务负责人表示，当地时间4日上午，位于马赫沙赫尔石化经济特区的部分发电装置遭到敌军飞机袭击，发电装置受到干扰，但没有发生有毒物质泄漏。",
+      "title": "伊朗否认石化经济特区遭袭后发生有毒物质泄漏",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695590185.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d5978858f5da7aaa",
+    "code": "202604043695589854",
+    "title": "看好俄罗斯市场 中国企业涌现莫斯科国际建材展",
+    "summary": "【看好俄罗斯市场 中国企业涌现莫斯科国际建材展】第31届莫斯科国际建材展日前在莫斯科克罗库斯国际展览中心举行，吸引来自20个国家和地区的1300余家企业参与，其中中国企业约占四成。多家中国参展商表示，看好俄罗斯市场发展前景，期待通过参展发掘更多机遇。",
+    "content": "【看好俄罗斯市场 中国企业涌现莫斯科国际建材展】第31届莫斯科国际建材展日前在莫斯科克罗库斯国际展览中心举行，吸引来自20个国家和地区的1300余家企业参与，其中中国企业约占四成。多家中国参展商表示，看好俄罗斯市场发展前景，期待通过参展发掘更多机遇。",
+    "full_content": "【看好俄罗斯市场 中国企业涌现莫斯科国际建材展】第31届莫斯科国际建材展日前在莫斯科克罗库斯国际展览中心举行，吸引来自20个国家和地区的1300余家企业参与，其中中国企业约占四成。多家中国参展商表示，看好俄罗斯市场发展前景，期待通过参展发掘更多机遇。",
+    "sort_time": "1775298434089854",
+    "showTime": "2026-04-04 18:27:14",
+    "time": "2026-04-04 18:27:14",
+    "publish_time": "2026-04-04 18:27:14",
+    "raw_data": {
+      "code": "202604043695589854",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775298434089854",
+      "share": 1,
+      "showTime": "2026-04-04 18:27:14",
+      "stockList": [
+        "150.011668"
+      ],
+      "summary": "【看好俄罗斯市场 中国企业涌现莫斯科国际建材展】第31届莫斯科国际建材展日前在莫斯科克罗库斯国际展览中心举行，吸引来自20个国家和地区的1300余家企业参与，其中中国企业约占四成。多家中国参展商表示，看好俄罗斯市场发展前景，期待通过参展发掘更多机遇。",
+      "title": "看好俄罗斯市场 中国企业涌现莫斯科国际建材展",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695589854.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "150.011668"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b22bb6ba5db65623",
+    "code": "202604043695589796",
+    "title": "奥地利副总理：不想卷入特朗普发动的战争",
+    "summary": "【奥地利副总理：不想卷入特朗普发动的战争】奥地利副总理巴布勒3日在社交媒体发文说，必须禁止美国军机使用奥地利领空，奥地利不想卷入美国总统特朗普发动的战争。",
+    "content": "【奥地利副总理：不想卷入特朗普发动的战争】奥地利副总理巴布勒3日在社交媒体发文说，必须禁止美国军机使用奥地利领空，奥地利不想卷入美国总统特朗普发动的战争。",
+    "full_content": "【奥地利副总理：不想卷入特朗普发动的战争】奥地利副总理巴布勒3日在社交媒体发文说，必须禁止美国军机使用奥地利领空，奥地利不想卷入美国总统特朗普发动的战争。",
+    "sort_time": "1775298385089796",
+    "showTime": "2026-04-04 18:26:25",
+    "time": "2026-04-04 18:26:25",
+    "publish_time": "2026-04-04 18:26:25",
+    "raw_data": {
+      "code": "202604043695589796",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1775298385089796",
+      "share": 2,
+      "showTime": "2026-04-04 18:26:25",
+      "stockList": [],
+      "summary": "【奥地利副总理：不想卷入特朗普发动的战争】奥地利副总理巴布勒3日在社交媒体发文说，必须禁止美国军机使用奥地利领空，奥地利不想卷入美国总统特朗普发动的战争。",
+      "title": "奥地利副总理：不想卷入特朗普发动的战争",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695589796.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b62fd324c8ab58de",
+    "code": "202604043695589045",
+    "title": "美前官员说美国正在公然践踏战争规则",
+    "summary": "【美前官员说美国正在公然践踏战争规则】美国国家安全委员会前官员加里·西克在一档4月3日播出的访谈节目中表示，美国总统特朗普没有理由对伊朗发动战争，美国正在公然践踏战争规则和人道主义程序，必然会为此付出代价。",
+    "content": "【美前官员说美国正在公然践踏战争规则】美国国家安全委员会前官员加里·西克在一档4月3日播出的访谈节目中表示，美国总统特朗普没有理由对伊朗发动战争，美国正在公然践踏战争规则和人道主义程序，必然会为此付出代价。",
+    "full_content": "【美前官员说美国正在公然践踏战争规则】美国国家安全委员会前官员加里·西克在一档4月3日播出的访谈节目中表示，美国总统特朗普没有理由对伊朗发动战争，美国正在公然践踏战争规则和人道主义程序，必然会为此付出代价。",
+    "sort_time": "1775297568089045",
+    "showTime": "2026-04-04 18:12:48",
+    "time": "2026-04-04 18:12:48",
+    "publish_time": "2026-04-04 18:12:48",
+    "raw_data": {
+      "code": "202604043695589045",
+      "image": [],
+      "pinglun_Num": 14,
+      "realSort": "1775297568089045",
+      "share": 5,
+      "showTime": "2026-04-04 18:12:48",
+      "stockList": [],
+      "summary": "【美前官员说美国正在公然践踏战争规则】美国国家安全委员会前官员加里·西克在一档4月3日播出的访谈节目中表示，美国总统特朗普没有理由对伊朗发动战争，美国正在公然践踏战争规则和人道主义程序，必然会为此付出代价。",
+      "title": "美前官员说美国正在公然践踏战争规则",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695589045.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 14,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "00378f7c338c0012",
     "code": "202604043695588610",
     "title": "以色列最大天然气田恢复运营",
@@ -13,9 +273,9 @@
     "raw_data": {
       "code": "202604043695588610",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 21,
       "realSort": "1775296527088610",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-04-04 17:55:27",
       "stockList": [
         "90.BK1028",
@@ -35,8 +295,8 @@
       "90.BK0427"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 1,
+    "comment_count": 21,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -68,7 +328,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1775296132088523",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-04 17:48:52",
       "stockList": [],
       "summary": "【重庆一固定三角翼飞行器坠落致2人受伤 官方通报】重庆市南岸区峡口镇人民政府今天发布情况通报称，4月4日下午3时35分左右，重庆市南岸区峡口镇两山路发生一起固定三角翼飞行器坠落事件，造成机上一名男性飞行员及一名乘客受伤。事发后，现场应急力量迅速响应，伤者已第一时间送医救治。事件原因正在进一步调查中。",
@@ -83,7 +343,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -105,7 +365,7 @@
     "raw_data": {
       "code": "202604043695587750",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 5,
       "realSort": "1775295398087750",
       "share": 1,
       "showTime": "2026-04-04 17:36:38",
@@ -121,7 +381,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 5,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -144,9 +404,9 @@
     "raw_data": {
       "code": "202604043695587472",
       "image": [],
-      "pinglun_Num": 37,
+      "pinglun_Num": 40,
       "realSort": "1775295060087472",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-04-04 17:31:00",
       "stockList": [],
       "summary": "【以军称伊朗发射集束弹头导弹 击中以中部多地致住宅受损】当地时间4日，以色列救援部门表示，一枚搭载集束弹头的伊朗弹道导弹发射后，其子母弹落在以色列中部城市伯尼布莱克和拉马特甘，导致当地住宅建筑受损。",
@@ -160,8 +420,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 37,
-    "share_count": 3,
+    "comment_count": 40,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -183,9 +443,9 @@
     "raw_data": {
       "code": "202604043695587217",
       "image": [],
-      "pinglun_Num": 39,
+      "pinglun_Num": 48,
       "realSort": "1775294707087217",
-      "share": 10,
+      "share": 15,
       "showTime": "2026-04-04 17:25:07",
       "stockList": [],
       "summary": "【伊朗发起“真实承诺-4”行动第94波攻势】当地时间4月4日，伊朗伊斯兰革命卫队公共关系部发布消息称，当天上午，在“真实承诺-4”第94波打击行动中，一些位于以色列南部、中部、北部以及特拉维夫地区的以色列工业和军事设施、以军指挥官和部队所在地遭到摧毁。打击行动使用了弹道导弹、固液双燃料重型导弹、多弹头导弹和无人机等。",
@@ -199,8 +459,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 39,
-    "share_count": 10,
+    "comment_count": 48,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [
@@ -230,7 +490,7 @@
     "raw_data": {
       "code": "202604043695587123",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1775294666087123",
       "share": 0,
       "showTime": "2026-04-04 17:24:26",
@@ -246,7 +506,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -277,9 +537,9 @@
     "raw_data": {
       "code": "202604043695587055",
       "image": [],
-      "pinglun_Num": 31,
+      "pinglun_Num": 38,
       "realSort": "1775294369087055",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-04-04 17:19:29",
       "stockList": [],
       "summary": "【又一艘日本相关运输船通过霍尔木兹海峡】日本商船三井公司方面透露称，其关联公司的一艘液化石油气船已于日本时间4月4日前通过了霍尔木兹海峡。",
@@ -293,8 +553,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 31,
-    "share_count": 11,
+    "comment_count": 38,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -375,9 +635,9 @@
     "raw_data": {
       "code": "202604043695586568",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 26,
       "realSort": "1775293592086568",
-      "share": 21,
+      "share": 26,
       "showTime": "2026-04-04 17:06:32",
       "stockList": [
         "150.014238"
@@ -395,8 +655,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 23,
-    "share_count": 21,
+    "comment_count": 26,
+    "share_count": 26,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -418,7 +678,7 @@
     "raw_data": {
       "code": "202604043695585351",
       "image": [],
-      "pinglun_Num": 28,
+      "pinglun_Num": 32,
       "realSort": "1775292883085351",
       "share": 3,
       "showTime": "2026-04-04 16:54:43",
@@ -434,7 +694,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 28,
+    "comment_count": 32,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -465,9 +725,9 @@
     "raw_data": {
       "code": "202604043695585227",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 22,
       "realSort": "1775292836085227",
-      "share": 19,
+      "share": 23,
       "showTime": "2026-04-04 16:53:56",
       "stockList": [
         "105.UAL"
@@ -485,8 +745,8 @@
       "105.UAL"
     ],
     "has_stock_mention": true,
-    "comment_count": 18,
-    "share_count": 19,
+    "comment_count": 22,
+    "share_count": 23,
     "tags": {
       "industries": [],
       "concepts": [
@@ -516,9 +776,9 @@
     "raw_data": {
       "code": "202604043695585149",
       "image": [],
-      "pinglun_Num": 28,
+      "pinglun_Num": 29,
       "realSort": "1775292639085149",
-      "share": 9,
+      "share": 12,
       "showTime": "2026-04-04 16:50:39",
       "stockList": [],
       "summary": "【中东战争令欧洲热泵供暖需求激增，中国热泵出口模式待变】今年2月中国热泵出口欧洲猛增，中东战争使能源价格暴涨将进一步带动欧洲热泵需求，而欧盟工业加速器法案将使纯出口模式转向合作模式。分析师表示，2026年1-2月中国热泵出口额同比增长超50%，其中2月出口额增长81.8%至9.3亿元，主要出口欧洲市场。中东战争使石油、天然气价格近一个月疯涨，将进一步带动欧洲热泵需求的增长。业内人士称，今后中国企业如果完全用出口方式去拓展欧洲市场，会受到影响。预计欧洲部分锅炉企业将上马一些热泵项目，而中国企业在本土品牌、渠道上尚需加强。",
@@ -532,8 +792,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 28,
-    "share_count": 9,
+    "comment_count": 29,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -569,7 +829,7 @@
     "raw_data": {
       "code": "202604043695584695",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 20,
       "realSort": "1775292268084695",
       "share": 7,
       "showTime": "2026-04-04 16:44:28",
@@ -591,7 +851,7 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 19,
+    "comment_count": 20,
     "share_count": 7,
     "tags": {
       "industries": [],
@@ -622,7 +882,7 @@
     "raw_data": {
       "code": "202604043695582882",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 12,
       "realSort": "1775291559082882",
       "share": 2,
       "showTime": "2026-04-04 16:32:39",
@@ -644,7 +904,7 @@
       "1.600438"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
+    "comment_count": 12,
     "share_count": 2,
     "tags": {
       "industries": [
@@ -685,7 +945,7 @@
     "raw_data": {
       "code": "202604043695581832",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 32,
       "realSort": "1775291421081832",
       "share": 8,
       "showTime": "2026-04-04 16:30:21",
@@ -701,7 +961,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 29,
+    "comment_count": 32,
     "share_count": 8,
     "tags": {
       "industries": [],
@@ -763,7 +1023,7 @@
     "raw_data": {
       "code": "202604043695581060",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 10,
       "realSort": "1775290997081060",
       "share": 1,
       "showTime": "2026-04-04 16:23:17",
@@ -779,7 +1039,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 10,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -810,7 +1070,7 @@
     "raw_data": {
       "code": "202604043695580884",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 10,
       "realSort": "1775290927080884",
       "share": 1,
       "showTime": "2026-04-04 16:22:07",
@@ -826,7 +1086,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 10,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -910,7 +1170,7 @@
       "image": [],
       "pinglun_Num": 18,
       "realSort": "1775290489079795",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-04 16:14:49",
       "stockList": [],
       "summary": "【我国数据产权登记制度建设迈出重要一步】国家数据局4月3日发布公告，就《数据产权登记工作指引（试行）》（公开征求意见稿）向社会公开征求意见。此举旨在推动建立健全数据产权制度，构建全国统一的数据产权登记体系，助力培育全国一体化数据市场。",
@@ -925,7 +1185,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 18,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -949,7 +1209,7 @@
       "image": [],
       "pinglun_Num": 15,
       "realSort": "1775290180078376",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-04 16:09:40",
       "stockList": [],
       "summary": "【伊朗警告以色列：若伊使馆和外交机构遭袭 将迅速反击】当地时间4月4日，伊朗哈塔姆安比亚中央总部发言人再次对以色列发出警告称，若对任何伊朗大使馆和外交机构所在处发动侵略和攻击，以色列在该地区所有大使馆都将成为伊朗武装力量的合法打击目标，伊方将采取迅速而有力的行动。",
@@ -964,7 +1224,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 15,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -986,9 +1246,9 @@
     "raw_data": {
       "code": "202604043695575385",
       "image": [],
-      "pinglun_Num": 187,
+      "pinglun_Num": 211,
       "realSort": "1775289934075385",
-      "share": 136,
+      "share": 158,
       "showTime": "2026-04-04 16:05:34",
       "stockList": [],
       "summary": "【美以对伊朗西南地区石化枢纽发动空袭】总台记者当地时间4日获悉，美国和以色列当天对伊朗西南地区的石化枢纽发动空袭。",
@@ -1002,8 +1262,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 187,
-    "share_count": 136,
+    "comment_count": 211,
+    "share_count": 158,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1025,7 +1285,7 @@
     "raw_data": {
       "code": "202604043695575892",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1775289802075892",
       "share": 2,
       "showTime": "2026-04-04 16:03:22",
@@ -1041,7 +1301,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 7,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1072,9 +1332,9 @@
     "raw_data": {
       "code": "202604043695572963",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1775289643072963",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-04-04 16:00:43",
       "stockList": [
         "90.BK0577",
@@ -1094,8 +1354,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 3,
+    "comment_count": 6,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1127,7 +1387,7 @@
       "image": [],
       "pinglun_Num": 30,
       "realSort": "1775289037070625",
-      "share": 19,
+      "share": 21,
       "showTime": "2026-04-04 15:50:37",
       "stockList": [],
       "summary": "【伊朗马赫沙赫尔石化特区发生爆炸】据伊朗法尔斯通讯社当地时间今天（4月4日）上午报道，位于伊朗西南部胡齐斯坦省的马赫沙赫尔石化特区传出数声爆炸声，部分区域冒出浓烟。目前爆炸的确切位置和损失程度尚无法准确评估。",
@@ -1142,7 +1402,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 30,
-    "share_count": 19,
+    "share_count": 21,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1164,9 +1424,9 @@
     "raw_data": {
       "code": "202604043695570519",
       "image": [],
-      "pinglun_Num": 123,
+      "pinglun_Num": 139,
       "realSort": "1775288950070519",
-      "share": 79,
+      "share": 86,
       "showTime": "2026-04-04 15:49:10",
       "stockList": [
         "150.515980",
@@ -1186,8 +1446,8 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 123,
-    "share_count": 79,
+    "comment_count": 139,
+    "share_count": 86,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1339,9 +1599,9 @@
     "raw_data": {
       "code": "202604043695570384",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 13,
       "realSort": "1775288462070384",
-      "share": 13,
+      "share": 15,
       "showTime": "2026-04-04 15:41:02",
       "stockList": [],
       "summary": "【胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向】胜宏科技4月3日在投资者现场参观中表示，随着全球通用人工智能技术加速演进，人工智能训练和推理需求持续扩大，AI算力、AI服务器的需求迅速增长，对PCB的需求量大且要求高，为行业未来的持续增长提供了强有力的支撑，未来AI PCB是整个PCB行业最具确定性的增长细分方向。",
@@ -1355,8 +1615,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 13,
+    "comment_count": 13,
+    "share_count": 15,
     "tags": {
       "industries": [
         {
@@ -1512,7 +1772,7 @@
     "raw_data": {
       "code": "202604043695568196",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 7,
       "realSort": "1775288036068196",
       "share": 5,
       "showTime": "2026-04-04 15:33:56",
@@ -1528,7 +1788,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 7,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -1551,9 +1811,9 @@
     "raw_data": {
       "code": "202604043695566334",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 20,
       "realSort": "1775287887066334",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-04-04 15:31:27",
       "stockList": [
         "0.159945",
@@ -1573,8 +1833,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 19,
-    "share_count": 8,
+    "comment_count": 20,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1641,9 +1901,9 @@
     "raw_data": {
       "code": "202604043695564569",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 10,
       "realSort": "1775287637064569",
-      "share": 3,
+      "share": 6,
       "showTime": "2026-04-04 15:27:17",
       "stockList": [],
       "summary": "【对伊朗行动致美军13死365伤】根据美国国防部4月3日公布的最新数据，共有365名美军人员在对伊朗的军事行动中受伤。在这些伤员中，247人来自陆军，63人来自海军，19人来自海军陆战队，36人来自空军。据美军方统计数据，目前死亡人数仍为13人。",
@@ -1657,8 +1917,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 3,
+    "comment_count": 10,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1741,9 +2001,9 @@
     "raw_data": {
       "code": "202604043695553375",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 22,
       "realSort": "1775287085053375",
-      "share": 20,
+      "share": 21,
       "showTime": "2026-04-04 15:18:05",
       "stockList": [
         "90.BK0800"
@@ -1761,8 +2021,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 19,
-    "share_count": 20,
+    "comment_count": 22,
+    "share_count": 21,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1784,9 +2044,9 @@
     "raw_data": {
       "code": "202604043695560874",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 19,
       "realSort": "1775287077060874",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-04-04 15:17:57",
       "stockList": [],
       "summary": "【美议员：美战机被伊朗击落是“一场噩梦”】当地时间4月3日，美国民主党籍联邦众议员杰米·拉斯金在接受采访时表示，美军战机在伊朗境内被击落“是一场噩梦”。他表示，这一事件证明美国并未完全控制伊朗的领空，他强调，即使控制了领空，也不意味着实现了政权更迭和对地面局势的控制。",
@@ -1800,8 +2060,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 18,
-    "share_count": 2,
+    "comment_count": 19,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1823,7 +2083,7 @@
     "raw_data": {
       "code": "202604043695560588",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 30,
       "realSort": "1775286722060588",
       "share": 6,
       "showTime": "2026-04-04 15:12:02",
@@ -1839,7 +2099,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 29,
+    "comment_count": 30,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -1927,7 +2187,7 @@
       "image": [],
       "pinglun_Num": 18,
       "realSort": "1775286525059620",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-04-04 15:08:45",
       "stockList": [],
       "summary": "【第七艘悬挂印度国旗的液化石油气船驶出霍尔木兹海峡】船舶追踪数据显示，一艘悬挂印度国旗的液化石油气运输船于周五驶过霍尔木兹海峡，成为第七艘驶出波斯湾的同类船只。这艘悬挂印度国旗的超大型液化气船“绿色桑维号”（Green Sanvi）目前已抵达阿曼马斯喀特附近海域。该船显示为印度所有、配备印度船员，未标明目的地，航行路线为伊朗批准的航道。",
@@ -1942,7 +2202,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 18,
-    "share_count": 6,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1972,9 +2232,9 @@
     "raw_data": {
       "code": "202604043695559576",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 17,
       "realSort": "1775286183059576",
-      "share": 9,
+      "share": 12,
       "showTime": "2026-04-04 15:03:03",
       "stockList": [],
       "summary": "【美国大模型头部公司宣布正式封杀OpenClaw】美国大模型头部公司Anthropic旗下AI 编程工具Claude Code负责人Boris Cherny发文称，美国西部时间4月4日中午12点起，Claude订阅服务将不再包含对OpenClaw等第三方工具的使用额度。",
@@ -1988,8 +2248,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
-    "share_count": 9,
+    "comment_count": 17,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2081,272 +2341,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "590082a3b5d11668",
-    "code": "202604043695556622",
-    "title": "法国海关查获1.1吨可卡因",
-    "summary": "【法国海关查获1.1吨可卡因】法国海关官员3日说，他们在一辆运送盆栽土的卡车上查获约1.1吨可卡因。",
-    "content": "【法国海关查获1.1吨可卡因】法国海关官员3日说，他们在一辆运送盆栽土的卡车上查获约1.1吨可卡因。",
-    "full_content": "【法国海关查获1.1吨可卡因】法国海关官员3日说，他们在一辆运送盆栽土的卡车上查获约1.1吨可卡因。",
-    "sort_time": "1775284907056622",
-    "showTime": "2026-04-04 14:41:47",
-    "time": "2026-04-04 14:41:47",
-    "publish_time": "2026-04-04 14:41:47",
-    "raw_data": {
-      "code": "202604043695556622",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1775284907056622",
-      "share": 1,
-      "showTime": "2026-04-04 14:41:47",
-      "stockList": [],
-      "summary": "【法国海关查获1.1吨可卡因】法国海关官员3日说，他们在一辆运送盆栽土的卡车上查获约1.1吨可卡因。",
-      "title": "法国海关查获1.1吨可卡因",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695556622.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c0e7b96cb0d0f111",
-    "code": "202604043695556430",
-    "title": "伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为",
-    "summary": "【伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为】当地时间4月4日，伊朗伊斯兰革命卫队公共关系部门发布消息表示，对美方称美国驻沙特大使馆遭到伊朗袭击一事表示谴责，声明此次事件与伊朗无关，并指出，鉴于该地区以军的战略，此次行动“无疑是以色列所为”。",
-    "content": "【伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为】当地时间4月4日，伊朗伊斯兰革命卫队公共关系部门发布消息表示，对美方称美国驻沙特大使馆遭到伊朗袭击一事表示谴责，声明此次事件与伊朗无关，并指出，鉴于该地区以军的战略，此次行动“无疑是以色列所为”。",
-    "full_content": "【伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为】当地时间4月4日，伊朗伊斯兰革命卫队公共关系部门发布消息表示，对美方称美国驻沙特大使馆遭到伊朗袭击一事表示谴责，声明此次事件与伊朗无关，并指出，鉴于该地区以军的战略，此次行动“无疑是以色列所为”。",
-    "sort_time": "1775284805056430",
-    "showTime": "2026-04-04 14:40:05",
-    "time": "2026-04-04 14:40:05",
-    "publish_time": "2026-04-04 14:40:05",
-    "raw_data": {
-      "code": "202604043695556430",
-      "image": [],
-      "pinglun_Num": 48,
-      "realSort": "1775284805056430",
-      "share": 16,
-      "showTime": "2026-04-04 14:40:05",
-      "stockList": [],
-      "summary": "【伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为】当地时间4月4日，伊朗伊斯兰革命卫队公共关系部门发布消息表示，对美方称美国驻沙特大使馆遭到伊朗袭击一事表示谴责，声明此次事件与伊朗无关，并指出，鉴于该地区以军的战略，此次行动“无疑是以色列所为”。",
-      "title": "伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695556430.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 48,
-    "share_count": 16,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8125b57d69871411",
-    "code": "202604043695556324",
-    "title": "以军称空袭德黑兰多处关键基础设施",
-    "summary": "【以军称空袭德黑兰多处关键基础设施】以色列国防军当地时间4日发表声明称，3日，以空军对伊朗首都德黑兰多处目标实施空袭。",
-    "content": "【以军称空袭德黑兰多处关键基础设施】以色列国防军当地时间4日发表声明称，3日，以空军对伊朗首都德黑兰多处目标实施空袭。",
-    "full_content": "【以军称空袭德黑兰多处关键基础设施】以色列国防军当地时间4日发表声明称，3日，以空军对伊朗首都德黑兰多处目标实施空袭。",
-    "sort_time": "1775284682056324",
-    "showTime": "2026-04-04 14:38:02",
-    "time": "2026-04-04 14:38:02",
-    "publish_time": "2026-04-04 14:38:02",
-    "raw_data": {
-      "code": "202604043695556324",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1775284682056324",
-      "share": 0,
-      "showTime": "2026-04-04 14:38:02",
-      "stockList": [],
-      "summary": "【以军称空袭德黑兰多处关键基础设施】以色列国防军当地时间4日发表声明称，3日，以空军对伊朗首都德黑兰多处目标实施空袭。",
-      "title": "以军称空袭德黑兰多处关键基础设施",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695556324.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "106e29f90b50173a",
-    "code": "202604043695554010",
-    "title": "清明去哪儿 这届年轻人玩明白了",
-    "summary": "【清明去哪儿 这届年轻人玩明白了】这个清明假期，年轻人算是把传统文化玩明白了——穿汉服踏青赏花、沉浸式吃顿“三国餐”；要么做拓印、画漆扇、学点茶，把非遗从“远观”变成了“真玩”。古韵国风，果然才是年轻人眼里最顶流的审美。",
-    "content": "【清明去哪儿 这届年轻人玩明白了】这个清明假期，年轻人算是把传统文化玩明白了——穿汉服踏青赏花、沉浸式吃顿“三国餐”；要么做拓印、画漆扇、学点茶，把非遗从“远观”变成了“真玩”。古韵国风，果然才是年轻人眼里最顶流的审美。",
-    "full_content": "【清明去哪儿 这届年轻人玩明白了】这个清明假期，年轻人算是把传统文化玩明白了——穿汉服踏青赏花、沉浸式吃顿“三国餐”；要么做拓印、画漆扇、学点茶，把非遗从“远观”变成了“真玩”。古韵国风，果然才是年轻人眼里最顶流的审美。",
-    "sort_time": "1775283910054010",
-    "showTime": "2026-04-04 14:25:10",
-    "time": "2026-04-04 14:25:10",
-    "publish_time": "2026-04-04 14:25:10",
-    "raw_data": {
-      "code": "202604043695554010",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1775283910054010",
-      "share": 2,
-      "showTime": "2026-04-04 14:25:10",
-      "stockList": [],
-      "summary": "【清明去哪儿 这届年轻人玩明白了】这个清明假期，年轻人算是把传统文化玩明白了——穿汉服踏青赏花、沉浸式吃顿“三国餐”；要么做拓印、画漆扇、学点茶，把非遗从“远观”变成了“真玩”。古韵国风，果然才是年轻人眼里最顶流的审美。",
-      "title": "清明去哪儿 这届年轻人玩明白了",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695554010.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "283e1d6005208d0a",
-    "code": "202604043695553814",
-    "title": "一季度经深圳机场口岸免签入境外国人增长超六成",
-    "summary": "【一季度经深圳机场口岸免签入境外国人增长超六成】从深圳边检总站了解到，2026年一季度深圳机场口岸出入境人员超175.4万人次，同比增长近12%，创历史同期新高。其中，免签入境外国人增长超六成。",
-    "content": "【一季度经深圳机场口岸免签入境外国人增长超六成】从深圳边检总站了解到，2026年一季度深圳机场口岸出入境人员超175.4万人次，同比增长近12%，创历史同期新高。其中，免签入境外国人增长超六成。",
-    "full_content": "【一季度经深圳机场口岸免签入境外国人增长超六成】从深圳边检总站了解到，2026年一季度深圳机场口岸出入境人员超175.4万人次，同比增长近12%，创历史同期新高。其中，免签入境外国人增长超六成。",
-    "sort_time": "1775283849053814",
-    "showTime": "2026-04-04 14:24:09",
-    "time": "2026-04-04 14:24:09",
-    "publish_time": "2026-04-04 14:24:09",
-    "raw_data": {
-      "code": "202604043695553814",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1775283849053814",
-      "share": 2,
-      "showTime": "2026-04-04 14:24:09",
-      "stockList": [],
-      "summary": "【一季度经深圳机场口岸免签入境外国人增长超六成】从深圳边检总站了解到，2026年一季度深圳机场口岸出入境人员超175.4万人次，同比增长近12%，创历史同期新高。其中，免签入境外国人增长超六成。",
-      "title": "一季度经深圳机场口岸免签入境外国人增长超六成",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695553814.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0c5bf5402023559c",
-    "code": "202604043695552778",
-    "title": "美以袭击对伊朗25家制药企业造成损失",
-    "summary": "【美以袭击对伊朗25家制药企业造成损失】总台记者当地时间4日获悉，伊朗药剂师协会发言人在接受媒体采访时表示，自美以对伊朗发动袭击以来，当地25家负责生产、分销的制药企业遭受了直接和间接袭击。其中，抗癌药物和疫苗生产商是敌方袭击的直接目标。",
-    "content": "【美以袭击对伊朗25家制药企业造成损失】总台记者当地时间4日获悉，伊朗药剂师协会发言人在接受媒体采访时表示，自美以对伊朗发动袭击以来，当地25家负责生产、分销的制药企业遭受了直接和间接袭击。其中，抗癌药物和疫苗生产商是敌方袭击的直接目标。",
-    "full_content": "【美以袭击对伊朗25家制药企业造成损失】总台记者当地时间4日获悉，伊朗药剂师协会发言人在接受媒体采访时表示，自美以对伊朗发动袭击以来，当地25家负责生产、分销的制药企业遭受了直接和间接袭击。其中，抗癌药物和疫苗生产商是敌方袭击的直接目标。",
-    "sort_time": "1775283471052778",
-    "showTime": "2026-04-04 14:17:51",
-    "time": "2026-04-04 14:17:51",
-    "publish_time": "2026-04-04 14:17:51",
-    "raw_data": {
-      "code": "202604043695552778",
-      "image": [],
-      "pinglun_Num": 22,
-      "realSort": "1775283471052778",
-      "share": 11,
-      "showTime": "2026-04-04 14:17:51",
-      "stockList": [],
-      "summary": "【美以袭击对伊朗25家制药企业造成损失】总台记者当地时间4日获悉，伊朗药剂师协会发言人在接受媒体采访时表示，自美以对伊朗发动袭击以来，当地25家负责生产、分销的制药企业遭受了直接和间接袭击。其中，抗癌药物和疫苗生产商是敌方袭击的直接目标。",
-      "title": "美以袭击对伊朗25家制药企业造成损失",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695552778.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 11,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010402",
-          "name": "生物制品",
-          "level1": "制造业",
-          "level2": "医药制造业",
-          "matched_keyword": "疫苗"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C301",
-          "name": "创新药",
-          "matched_keyword": "抗癌药"
-        },
-        {
-          "id": "C305",
-          "name": "疫苗",
-          "matched_keyword": "疫苗"
-        }
-      ],
-      "industry_ids": [
-        "I010402"
-      ],
-      "concept_ids": [
-        "C301",
-        "C305"
-      ]
     }
   }
 ]
