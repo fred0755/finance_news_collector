@@ -1,5 +1,97 @@
 [
   {
+    "id": "77c84c81f3814e71",
+    "code": "202604043695630111",
+    "title": "受中东局势影响 美国汽油均价升至4.1美元",
+    "summary": "【受中东局势影响 美国汽油均价升至4.1美元】当地时间4月4日，据美国汽车协会数据，美国汽油平均价格已升至每加仑4.1美元，较上周上涨12美分。",
+    "content": "【受中东局势影响 美国汽油均价升至4.1美元】当地时间4月4日，据美国汽车协会数据，美国汽油平均价格已升至每加仑4.1美元，较上周上涨12美分。",
+    "full_content": "【受中东局势影响 美国汽油均价升至4.1美元】当地时间4月4日，据美国汽车协会数据，美国汽油平均价格已升至每加仑4.1美元，较上周上涨12美分。",
+    "sort_time": "1775315724030111",
+    "showTime": "2026-04-04 23:15:24",
+    "time": "2026-04-04 23:15:24",
+    "publish_time": "2026-04-04 23:15:24",
+    "raw_data": {
+      "code": "202604043695630111",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1775315724030111",
+      "share": 1,
+      "showTime": "2026-04-04 23:15:24",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【受中东局势影响 美国汽油均价升至4.1美元】当地时间4月4日，据美国汽车协会数据，美国汽油平均价格已升至每加仑4.1美元，较上周上涨12美分。",
+      "title": "受中东局势影响 美国汽油均价升至4.1美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695630111.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 10,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6511904e46569f9f",
+    "code": "202604043695628761",
+    "title": "乌克兰预计美国特使本月访问基辅重启谈判",
+    "summary": "乌克兰预计美国特使本月访问基辅重启谈判。",
+    "content": "乌克兰预计美国特使本月访问基辅重启谈判。",
+    "full_content": "乌克兰预计美国特使本月访问基辅重启谈判。",
+    "sort_time": "1775314838028761",
+    "showTime": "2026-04-04 23:00:38",
+    "time": "2026-04-04 23:00:38",
+    "publish_time": "2026-04-04 23:00:38",
+    "raw_data": {
+      "code": "202604043695628761",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775314838028761",
+      "share": 1,
+      "showTime": "2026-04-04 23:00:38",
+      "stockList": [],
+      "summary": "乌克兰预计美国特使本月访问基辅重启谈判。",
+      "title": "乌克兰预计美国特使本月访问基辅重启谈判",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695628761.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "821834e2026b218c",
     "code": "202604043695628093",
     "title": "伊朗“圣城旅”指挥官苏莱曼尼亲属在美被逮捕",
