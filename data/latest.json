@@ -1,5 +1,707 @@
 [
   {
+    "id": "5fcee4ebeaf6ce79",
+    "code": "202604043695570625",
+    "title": "伊朗马赫沙赫尔石化特区发生爆炸",
+    "summary": "【伊朗马赫沙赫尔石化特区发生爆炸】据伊朗法尔斯通讯社当地时间今天（4月4日）上午报道，位于伊朗西南部胡齐斯坦省的马赫沙赫尔石化特区传出数声爆炸声，部分区域冒出浓烟。目前爆炸的确切位置和损失程度尚无法准确评估。",
+    "content": "【伊朗马赫沙赫尔石化特区发生爆炸】据伊朗法尔斯通讯社当地时间今天（4月4日）上午报道，位于伊朗西南部胡齐斯坦省的马赫沙赫尔石化特区传出数声爆炸声，部分区域冒出浓烟。目前爆炸的确切位置和损失程度尚无法准确评估。",
+    "full_content": "【伊朗马赫沙赫尔石化特区发生爆炸】据伊朗法尔斯通讯社当地时间今天（4月4日）上午报道，位于伊朗西南部胡齐斯坦省的马赫沙赫尔石化特区传出数声爆炸声，部分区域冒出浓烟。目前爆炸的确切位置和损失程度尚无法准确评估。",
+    "sort_time": "1775289037070625",
+    "showTime": "2026-04-04 15:50:37",
+    "time": "2026-04-04 15:50:37",
+    "publish_time": "2026-04-04 15:50:37",
+    "raw_data": {
+      "code": "202604043695570625",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1775289037070625",
+      "share": 5,
+      "showTime": "2026-04-04 15:50:37",
+      "stockList": [],
+      "summary": "【伊朗马赫沙赫尔石化特区发生爆炸】据伊朗法尔斯通讯社当地时间今天（4月4日）上午报道，位于伊朗西南部胡齐斯坦省的马赫沙赫尔石化特区传出数声爆炸声，部分区域冒出浓烟。目前爆炸的确切位置和损失程度尚无法准确评估。",
+      "title": "伊朗马赫沙赫尔石化特区发生爆炸",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695570625.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a4a11c0bebbe3546",
+    "code": "202604043695570519",
+    "title": "伊官员：伊朗石油出口量有所增加 全国燃料供应正常",
+    "summary": "【伊官员：伊朗石油出口量有所增加 全国燃料供应正常】总台记者获悉，伊朗议会能源委员会主席4日表示，伊朗石油出口量有所增加。他还表示，目前伊朗全国燃料供应正常，已做好应对战争的必要准备。",
+    "content": "【伊官员：伊朗石油出口量有所增加 全国燃料供应正常】总台记者获悉，伊朗议会能源委员会主席4日表示，伊朗石油出口量有所增加。他还表示，目前伊朗全国燃料供应正常，已做好应对战争的必要准备。",
+    "full_content": "【伊官员：伊朗石油出口量有所增加 全国燃料供应正常】总台记者获悉，伊朗议会能源委员会主席4日表示，伊朗石油出口量有所增加。他还表示，目前伊朗全国燃料供应正常，已做好应对战争的必要准备。",
+    "sort_time": "1775288950070519",
+    "showTime": "2026-04-04 15:49:10",
+    "time": "2026-04-04 15:49:10",
+    "publish_time": "2026-04-04 15:49:10",
+    "raw_data": {
+      "code": "202604043695570519",
+      "image": [],
+      "pinglun_Num": 51,
+      "realSort": "1775288950070519",
+      "share": 40,
+      "showTime": "2026-04-04 15:49:10",
+      "stockList": [
+        "90.BK0464",
+        "90.BK0800"
+      ],
+      "summary": "【伊官员：伊朗石油出口量有所增加 全国燃料供应正常】总台记者获悉，伊朗议会能源委员会主席4日表示，伊朗石油出口量有所增加。他还表示，目前伊朗全国燃料供应正常，已做好应对战争的必要准备。",
+      "title": "伊官员：伊朗石油出口量有所增加 全国燃料供应正常",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695570519.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 51,
+    "share_count": 40,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "9e7d0ff48f12cf8f",
+    "code": "202604043695571497",
+    "title": "中加金融工作组首次会议在京举行",
+    "summary": "【中加金融工作组首次会议在京举行】4月3日，中加金融工作组首次会议在北京举行。会议由中国人民银行行长潘功胜与加拿大财政部长商鹏飞共同主持。",
+    "content": "【中加金融工作组首次会议在京举行】4月3日，中加金融工作组首次会议在北京举行。会议由中国人民银行行长潘功胜与加拿大财政部长商鹏飞共同主持。",
+    "full_content": "【中加金融工作组首次会议在京举行】4月3日，中加金融工作组首次会议在北京举行。会议由中国人民银行行长潘功胜与加拿大财政部长商鹏飞共同主持。",
+    "sort_time": "1775288760071497",
+    "showTime": "2026-04-04 15:46:00",
+    "time": "2026-04-04 15:46:00",
+    "publish_time": "2026-04-04 15:46:00",
+    "raw_data": {
+      "code": "202604043695571497",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775288760071497",
+      "share": 0,
+      "showTime": "2026-04-04 15:46:00",
+      "stockList": [],
+      "summary": "【中加金融工作组首次会议在京举行】4月3日，中加金融工作组首次会议在北京举行。会议由中国人民银行行长潘功胜与加拿大财政部长商鹏飞共同主持。",
+      "title": "中加金融工作组首次会议在京举行",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695571497.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "8e85d5c4eb4fde6e",
+    "code": "202604043695570450",
+    "title": "国际货币基金组织敦促日本央行继续加息",
+    "summary": "【国际货币基金组织敦促日本央行继续加息】国际货币基金组织（IMF）敦促日本央行继续加息，尽管中东冲突给日本经济前景带来了“重大新风险”。",
+    "content": "【国际货币基金组织敦促日本央行继续加息】国际货币基金组织（IMF）敦促日本央行继续加息，尽管中东冲突给日本经济前景带来了“重大新风险”。",
+    "full_content": "【国际货币基金组织敦促日本央行继续加息】国际货币基金组织（IMF）敦促日本央行继续加息，尽管中东冲突给日本经济前景带来了“重大新风险”。",
+    "sort_time": "1775288510070450",
+    "showTime": "2026-04-04 15:41:50",
+    "time": "2026-04-04 15:41:50",
+    "publish_time": "2026-04-04 15:41:50",
+    "raw_data": {
+      "code": "202604043695570450",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775288510070450",
+      "share": 0,
+      "showTime": "2026-04-04 15:41:50",
+      "stockList": [],
+      "summary": "【国际货币基金组织敦促日本央行继续加息】国际货币基金组织（IMF）敦促日本央行继续加息，尽管中东冲突给日本经济前景带来了“重大新风险”。",
+      "title": "国际货币基金组织敦促日本央行继续加息",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695570450.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        },
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101",
+        "I020201"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "db5e5c574244cd61",
+    "code": "202604043695570384",
+    "title": "胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向",
+    "summary": "【胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向】胜宏科技4月3日在投资者现场参观中表示，随着全球通用人工智能技术加速演进，人工智能训练和推理需求持续扩大，AI算力、AI服务器的需求迅速增长，对PCB的需求量大且要求高，为行业未来的持续增长提供了强有力的支撑，未来AI PCB是整个PCB行业最具确定性的增长细分方向。",
+    "content": "【胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向】胜宏科技4月3日在投资者现场参观中表示，随着全球通用人工智能技术加速演进，人工智能训练和推理需求持续扩大，AI算力、AI服务器的需求迅速增长，对PCB的需求量大且要求高，为行业未来的持续增长提供了强有力的支撑，未来AI PCB是整个PCB行业最具确定性的增长细分方向。",
+    "full_content": "【胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向】胜宏科技4月3日在投资者现场参观中表示，随着全球通用人工智能技术加速演进，人工智能训练和推理需求持续扩大，AI算力、AI服务器的需求迅速增长，对PCB的需求量大且要求高，为行业未来的持续增长提供了强有力的支撑，未来AI PCB是整个PCB行业最具确定性的增长细分方向。",
+    "sort_time": "1775288462070384",
+    "showTime": "2026-04-04 15:41:02",
+    "time": "2026-04-04 15:41:02",
+    "publish_time": "2026-04-04 15:41:02",
+    "raw_data": {
+      "code": "202604043695570384",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775288462070384",
+      "share": 4,
+      "showTime": "2026-04-04 15:41:02",
+      "stockList": [],
+      "summary": "【胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向】胜宏科技4月3日在投资者现场参观中表示，随着全球通用人工智能技术加速演进，人工智能训练和推理需求持续扩大，AI算力、AI服务器的需求迅速增长，对PCB的需求量大且要求高，为行业未来的持续增长提供了强有力的支撑，未来AI PCB是整个PCB行业最具确定性的增长细分方向。",
+      "title": "胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695570384.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010102",
+          "name": "电子元件",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "PCB"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "服务器"
+        }
+      ],
+      "industry_ids": [
+        "I010102"
+      ],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "25c70a6d8a5ef17a",
+    "code": "202604043695570233",
+    "title": "土耳其国家能源公司BOTAS：土耳其已将家庭零售电价上调25%",
+    "summary": "土耳其国家能源公司BOTAS表示，由于生产和输送成本上升，土耳其已将家庭零售电价上调25%，同时，家庭天然气价格平均也上调了相同幅度。",
+    "content": "土耳其国家能源公司BOTAS表示，由于生产和输送成本上升，土耳其已将家庭零售电价上调25%，同时，家庭天然气价格平均也上调了相同幅度。",
+    "full_content": "土耳其国家能源公司BOTAS表示，由于生产和输送成本上升，土耳其已将家庭零售电价上调25%，同时，家庭天然气价格平均也上调了相同幅度。",
+    "sort_time": "1775288396070233",
+    "showTime": "2026-04-04 15:39:56",
+    "time": "2026-04-04 15:39:56",
+    "publish_time": "2026-04-04 15:39:56",
+    "raw_data": {
+      "code": "202604043695570233",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1775288396070233",
+      "share": 3,
+      "showTime": "2026-04-04 15:39:56",
+      "stockList": [
+        "90.BK0428"
+      ],
+      "summary": "土耳其国家能源公司BOTAS表示，由于生产和输送成本上升，土耳其已将家庭零售电价上调25%，同时，家庭天然气价格平均也上调了相同幅度。",
+      "title": "土耳其国家能源公司BOTAS：土耳其已将家庭零售电价上调25%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695570233.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0428"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        },
+        {
+          "id": "C605",
+          "name": "零售",
+          "matched_keyword": "零售"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507",
+        "C605"
+      ]
+    }
+  },
+  {
+    "id": "1cc505afcb44507f",
+    "code": "202604043695568771",
+    "title": "浙江嘉兴港首次实现重大件设备直通欧洲",
+    "summary": "【浙江嘉兴港首次实现重大件设备直通欧洲】两批总重超600吨的超大尺寸风电基座在浙江嘉兴港搭乘“新海通502”轮前往荷兰鹿特丹港，用于当地海上风电项目建设。这是嘉兴港首次实现重大件设备直通欧洲，进一步完善了长三角地区绿色能源装备“出海”物流网络。此次风电装备顺利直通欧洲，既是港口服务能级跃升的体现，也为浙江乃至长三角新能源装备参与国际绿色能源建设提供了有力支撑。",
+    "content": "【浙江嘉兴港首次实现重大件设备直通欧洲】两批总重超600吨的超大尺寸风电基座在浙江嘉兴港搭乘“新海通502”轮前往荷兰鹿特丹港，用于当地海上风电项目建设。这是嘉兴港首次实现重大件设备直通欧洲，进一步完善了长三角地区绿色能源装备“出海”物流网络。此次风电装备顺利直通欧洲，既是港口服务能级跃升的体现，也为浙江乃至长三角新能源装备参与国际绿色能源建设提供了有力支撑。",
+    "full_content": "【浙江嘉兴港首次实现重大件设备直通欧洲】两批总重超600吨的超大尺寸风电基座在浙江嘉兴港搭乘“新海通502”轮前往荷兰鹿特丹港，用于当地海上风电项目建设。这是嘉兴港首次实现重大件设备直通欧洲，进一步完善了长三角地区绿色能源装备“出海”物流网络。此次风电装备顺利直通欧洲，既是港口服务能级跃升的体现，也为浙江乃至长三角新能源装备参与国际绿色能源建设提供了有力支撑。",
+    "sort_time": "1775288121068771",
+    "showTime": "2026-04-04 15:35:21",
+    "time": "2026-04-04 15:35:21",
+    "publish_time": "2026-04-04 15:35:21",
+    "raw_data": {
+      "code": "202604043695568771",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775288121068771",
+      "share": 4,
+      "showTime": "2026-04-04 15:35:21",
+      "stockList": [
+        "150.014238"
+      ],
+      "summary": "【浙江嘉兴港首次实现重大件设备直通欧洲】两批总重超600吨的超大尺寸风电基座在浙江嘉兴港搭乘“新海通502”轮前往荷兰鹿特丹港，用于当地海上风电项目建设。这是嘉兴港首次实现重大件设备直通欧洲，进一步完善了长三角地区绿色能源装备“出海”物流网络。此次风电装备顺利直通欧洲，既是港口服务能级跃升的体现，也为浙江乃至长三角新能源装备参与国际绿色能源建设提供了有力支撑。",
+      "title": "浙江嘉兴港首次实现重大件设备直通欧洲",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695568771.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C104",
+          "name": "风电",
+          "matched_keyword": "海上风电"
+        },
+        {
+          "id": "C801",
+          "name": "跨境电商",
+          "matched_keyword": "出海"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C104",
+        "C801"
+      ]
+    }
+  },
+  {
+    "id": "e236debf4874a9f4",
+    "code": "202604043695568196",
+    "title": "因燃油价格上涨 欧盟五国财长呼吁对能源企业征收暴利税",
+    "summary": "【因燃油价格上涨 欧盟五国财长呼吁对能源企业征收暴利税】欧盟五个成员国的财政部长呼吁，对能源公司因伊朗战争导致燃料价格上涨而获得的“暴利”征收税款。",
+    "content": "【因燃油价格上涨 欧盟五国财长呼吁对能源企业征收暴利税】欧盟五个成员国的财政部长呼吁，对能源公司因伊朗战争导致燃料价格上涨而获得的“暴利”征收税款。",
+    "full_content": "【因燃油价格上涨 欧盟五国财长呼吁对能源企业征收暴利税】欧盟五个成员国的财政部长呼吁，对能源公司因伊朗战争导致燃料价格上涨而获得的“暴利”征收税款。",
+    "sort_time": "1775288036068196",
+    "showTime": "2026-04-04 15:33:56",
+    "time": "2026-04-04 15:33:56",
+    "publish_time": "2026-04-04 15:33:56",
+    "raw_data": {
+      "code": "202604043695568196",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1775288036068196",
+      "share": 0,
+      "showTime": "2026-04-04 15:33:56",
+      "stockList": [],
+      "summary": "【因燃油价格上涨 欧盟五国财长呼吁对能源企业征收暴利税】欧盟五个成员国的财政部长呼吁，对能源公司因伊朗战争导致燃料价格上涨而获得的“暴利”征收税款。",
+      "title": "因燃油价格上涨 欧盟五国财长呼吁对能源企业征收暴利税",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695568196.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6df91b667693c7db",
+    "code": "202604043695566334",
+    "title": "美情报评估：霍尔木兹海峡短期内不太可能“打通”",
+    "summary": "【美情报评估：霍尔木兹海峡短期内不太可能“打通”】美国情报界近期评估认为，伊朗视霍尔木兹海峡为抗衡美国的重要“筹码”，短期内不太可能放松对这一能源航运要道的控制。",
+    "content": "【美情报评估：霍尔木兹海峡短期内不太可能“打通”】美国情报界近期评估认为，伊朗视霍尔木兹海峡为抗衡美国的重要“筹码”，短期内不太可能放松对这一能源航运要道的控制。",
+    "full_content": "【美情报评估：霍尔木兹海峡短期内不太可能“打通”】美国情报界近期评估认为，伊朗视霍尔木兹海峡为抗衡美国的重要“筹码”，短期内不太可能放松对这一能源航运要道的控制。",
+    "sort_time": "1775287887066334",
+    "showTime": "2026-04-04 15:31:27",
+    "time": "2026-04-04 15:31:27",
+    "publish_time": "2026-04-04 15:31:27",
+    "raw_data": {
+      "code": "202604043695566334",
+      "image": [],
+      "pinglun_Num": 9,
+      "realSort": "1775287887066334",
+      "share": 5,
+      "showTime": "2026-04-04 15:31:27",
+      "stockList": [
+        "0.159945",
+        "150.014238"
+      ],
+      "summary": "【美情报评估：霍尔木兹海峡短期内不太可能“打通”】美国情报界近期评估认为，伊朗视霍尔木兹海峡为抗衡美国的重要“筹码”，短期内不太可能放松对这一能源航运要道的控制。",
+      "title": "美情报评估：霍尔木兹海峡短期内不太可能“打通”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695566334.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 9,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c16a6c170ae7d4c4",
+    "code": "202604043695565128",
+    "title": "伊朗军方：如基础设施遇袭 将“更有力更果断”回击",
+    "summary": "【伊朗军方：如基础设施遇袭 将“更有力更果断”回击】据伊朗新闻电视台4日报道，伊朗武装部队哈塔姆安比亚中央总部发言人当天发表声明警告，如美国继续威胁摧毁伊朗的桥梁、发电厂和能源基础设施，伊朗将“更有力、更果断地”回击。",
+    "content": "【伊朗军方：如基础设施遇袭 将“更有力更果断”回击】据伊朗新闻电视台4日报道，伊朗武装部队哈塔姆安比亚中央总部发言人当天发表声明警告，如美国继续威胁摧毁伊朗的桥梁、发电厂和能源基础设施，伊朗将“更有力、更果断地”回击。",
+    "full_content": "【伊朗军方：如基础设施遇袭 将“更有力更果断”回击】据伊朗新闻电视台4日报道，伊朗武装部队哈塔姆安比亚中央总部发言人当天发表声明警告，如美国继续威胁摧毁伊朗的桥梁、发电厂和能源基础设施，伊朗将“更有力、更果断地”回击。",
+    "sort_time": "1775287689065128",
+    "showTime": "2026-04-04 15:28:09",
+    "time": "2026-04-04 15:28:09",
+    "publish_time": "2026-04-04 15:28:09",
+    "raw_data": {
+      "code": "202604043695565128",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1775287689065128",
+      "share": 0,
+      "showTime": "2026-04-04 15:28:09",
+      "stockList": [
+        "0.159945",
+        "150.014238"
+      ],
+      "summary": "【伊朗军方：如基础设施遇袭 将“更有力更果断”回击】据伊朗新闻电视台4日报道，伊朗武装部队哈塔姆安比亚中央总部发言人当天发表声明警告，如美国继续威胁摧毁伊朗的桥梁、发电厂和能源基础设施，伊朗将“更有力、更果断地”回击。",
+      "title": "伊朗军方：如基础设施遇袭 将“更有力更果断”回击",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695565128.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "53ff6e9890c60b6d",
+    "code": "202604043695564569",
+    "title": "对伊朗行动致美军13死365伤",
+    "summary": "【对伊朗行动致美军13死365伤】根据美国国防部4月3日公布的最新数据，共有365名美军人员在对伊朗的军事行动中受伤。在这些伤员中，247人来自陆军，63人来自海军，19人来自海军陆战队，36人来自空军。据美军方统计数据，目前死亡人数仍为13人。",
+    "content": "【对伊朗行动致美军13死365伤】根据美国国防部4月3日公布的最新数据，共有365名美军人员在对伊朗的军事行动中受伤。在这些伤员中，247人来自陆军，63人来自海军，19人来自海军陆战队，36人来自空军。据美军方统计数据，目前死亡人数仍为13人。",
+    "full_content": "【对伊朗行动致美军13死365伤】根据美国国防部4月3日公布的最新数据，共有365名美军人员在对伊朗的军事行动中受伤。在这些伤员中，247人来自陆军，63人来自海军，19人来自海军陆战队，36人来自空军。据美军方统计数据，目前死亡人数仍为13人。",
+    "sort_time": "1775287637064569",
+    "showTime": "2026-04-04 15:27:17",
+    "time": "2026-04-04 15:27:17",
+    "publish_time": "2026-04-04 15:27:17",
+    "raw_data": {
+      "code": "202604043695564569",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1775287637064569",
+      "share": 1,
+      "showTime": "2026-04-04 15:27:17",
+      "stockList": [],
+      "summary": "【对伊朗行动致美军13死365伤】根据美国国防部4月3日公布的最新数据，共有365名美军人员在对伊朗的军事行动中受伤。在这些伤员中，247人来自陆军，63人来自海军，19人来自海军陆战队，36人来自空军。据美军方统计数据，目前死亡人数仍为13人。",
+      "title": "对伊朗行动致美军13死365伤",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695564569.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "817e760e3d98c5a7",
+    "code": "202604043695561239",
+    "title": "中国有色金属工业协会硅业分会赴包头开展硅产业深度调研",
+    "summary": "【中国有色金属工业协会硅业分会赴包头开展硅产业深度调研】3月30日至4月2日，中国有色金属工业协会副秘书长兼政策研究室主任、硅业分会常务副会长林如海一行前往内蒙古包头市，深入硅产业生产一线，进行了为期四天的专题调研，重点关注当前行业发展的核心问题与挑战。",
+    "content": "【中国有色金属工业协会硅业分会赴包头开展硅产业深度调研】3月30日至4月2日，中国有色金属工业协会副秘书长兼政策研究室主任、硅业分会常务副会长林如海一行前往内蒙古包头市，深入硅产业生产一线，进行了为期四天的专题调研，重点关注当前行业发展的核心问题与挑战。",
+    "full_content": "【中国有色金属工业协会硅业分会赴包头开展硅产业深度调研】3月30日至4月2日，中国有色金属工业协会副秘书长兼政策研究室主任、硅业分会常务副会长林如海一行前往内蒙古包头市，深入硅产业生产一线，进行了为期四天的专题调研，重点关注当前行业发展的核心问题与挑战。",
+    "sort_time": "1775287500061239",
+    "showTime": "2026-04-04 15:25:00",
+    "time": "2026-04-04 15:25:00",
+    "publish_time": "2026-04-04 15:25:00",
+    "raw_data": {
+      "code": "202604043695561239",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775287500061239",
+      "share": 0,
+      "showTime": "2026-04-04 15:25:00",
+      "stockList": [
+        "0.159863",
+        "1.516180"
+      ],
+      "summary": "【中国有色金属工业协会硅业分会赴包头开展硅产业深度调研】3月30日至4月2日，中国有色金属工业协会副秘书长兼政策研究室主任、硅业分会常务副会长林如海一行前往内蒙古包头市，深入硅产业生产一线，进行了为期四天的专题调研，重点关注当前行业发展的核心问题与挑战。",
+      "title": "中国有色金属工业协会硅业分会赴包头开展硅产业深度调研",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695561239.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159863",
+      "1.516180"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "有色金属"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "677d856ba20c434c",
+    "code": "202604043695553375",
+    "title": "世界杯还没开踢 中国卖家先爆单了",
+    "summary": "【世界杯还没开踢 中国卖家先爆单了】随着赛程公布，美加墨世界杯逐渐临近，赛事氛围也越来越浓。中国卖家或许是最早参与世界杯的一批人。早在去年预选赛，就有卖家经历了一轮爆单，当时工厂每天加班到凌晨两三点，连续忙碌了半个月，才将纷至沓来的订单完成。如今商家预计，世界杯开赛后还将迎来第二轮爆单，必须为此提前几个月准备。",
+    "content": "【世界杯还没开踢 中国卖家先爆单了】随着赛程公布，美加墨世界杯逐渐临近，赛事氛围也越来越浓。中国卖家或许是最早参与世界杯的一批人。早在去年预选赛，就有卖家经历了一轮爆单，当时工厂每天加班到凌晨两三点，连续忙碌了半个月，才将纷至沓来的订单完成。如今商家预计，世界杯开赛后还将迎来第二轮爆单，必须为此提前几个月准备。",
+    "full_content": "【世界杯还没开踢 中国卖家先爆单了】随着赛程公布，美加墨世界杯逐渐临近，赛事氛围也越来越浓。中国卖家或许是最早参与世界杯的一批人。早在去年预选赛，就有卖家经历了一轮爆单，当时工厂每天加班到凌晨两三点，连续忙碌了半个月，才将纷至沓来的订单完成。如今商家预计，世界杯开赛后还将迎来第二轮爆单，必须为此提前几个月准备。",
+    "sort_time": "1775287085053375",
+    "showTime": "2026-04-04 15:18:05",
+    "time": "2026-04-04 15:18:05",
+    "publish_time": "2026-04-04 15:18:05",
+    "raw_data": {
+      "code": "202604043695553375",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1775287085053375",
+      "share": 8,
+      "showTime": "2026-04-04 15:18:05",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "【世界杯还没开踢 中国卖家先爆单了】随着赛程公布，美加墨世界杯逐渐临近，赛事氛围也越来越浓。中国卖家或许是最早参与世界杯的一批人。早在去年预选赛，就有卖家经历了一轮爆单，当时工厂每天加班到凌晨两三点，连续忙碌了半个月，才将纷至沓来的订单完成。如今商家预计，世界杯开赛后还将迎来第二轮爆单，必须为此提前几个月准备。",
+      "title": "世界杯还没开踢 中国卖家先爆单了",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695553375.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1e592ee06d8e7600",
+    "code": "202604043695560874",
+    "title": "美议员：美战机被伊朗击落是“一场噩梦”",
+    "summary": "【美议员：美战机被伊朗击落是“一场噩梦”】当地时间4月3日，美国民主党籍联邦众议员杰米·拉斯金在接受采访时表示，美军战机在伊朗境内被击落“是一场噩梦”。他表示，这一事件证明美国并未完全控制伊朗的领空，他强调，即使控制了领空，也不意味着实现了政权更迭和对地面局势的控制。",
+    "content": "【美议员：美战机被伊朗击落是“一场噩梦”】当地时间4月3日，美国民主党籍联邦众议员杰米·拉斯金在接受采访时表示，美军战机在伊朗境内被击落“是一场噩梦”。他表示，这一事件证明美国并未完全控制伊朗的领空，他强调，即使控制了领空，也不意味着实现了政权更迭和对地面局势的控制。",
+    "full_content": "【美议员：美战机被伊朗击落是“一场噩梦”】当地时间4月3日，美国民主党籍联邦众议员杰米·拉斯金在接受采访时表示，美军战机在伊朗境内被击落“是一场噩梦”。他表示，这一事件证明美国并未完全控制伊朗的领空，他强调，即使控制了领空，也不意味着实现了政权更迭和对地面局势的控制。",
+    "sort_time": "1775287077060874",
+    "showTime": "2026-04-04 15:17:57",
+    "time": "2026-04-04 15:17:57",
+    "publish_time": "2026-04-04 15:17:57",
+    "raw_data": {
+      "code": "202604043695560874",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1775287077060874",
+      "share": 0,
+      "showTime": "2026-04-04 15:17:57",
+      "stockList": [],
+      "summary": "【美议员：美战机被伊朗击落是“一场噩梦”】当地时间4月3日，美国民主党籍联邦众议员杰米·拉斯金在接受采访时表示，美军战机在伊朗境内被击落“是一场噩梦”。他表示，这一事件证明美国并未完全控制伊朗的领空，他强调，即使控制了领空，也不意味着实现了政权更迭和对地面局势的控制。",
+      "title": "美议员：美战机被伊朗击落是“一场噩梦”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695560874.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 12,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "d227699b1d5f4cc5",
     "code": "202604043695560588",
     "title": "伊朗军方：已做好伏击敌方先进战斗机的准备",
@@ -13,9 +715,9 @@
     "raw_data": {
       "code": "202604043695560588",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 22,
       "realSort": "1775286722060588",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-04-04 15:12:02",
       "stockList": [],
       "summary": "【伊朗军方：已做好伏击敌方先进战斗机的准备】当地时间4月4日，伊朗防空联合司令部司令阿里雷扎·埃尔哈米当天在视察伊朗陆军和伊斯兰革命卫队防御阵地时表示，伊朗利用自主研发的新型方法和装备，“已做好了伏击敌方第五代战斗机和先进无人机的准备”。",
@@ -29,8 +731,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
+    "comment_count": 22,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -115,9 +817,9 @@
     "raw_data": {
       "code": "202604043695559620",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 12,
       "realSort": "1775286525059620",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-04-04 15:08:45",
       "stockList": [],
       "summary": "【第七艘悬挂印度国旗的液化石油气船驶出霍尔木兹海峡】船舶追踪数据显示，一艘悬挂印度国旗的液化石油气运输船于周五驶过霍尔木兹海峡，成为第七艘驶出波斯湾的同类船只。这艘悬挂印度国旗的超大型液化气船“绿色桑维号”（Green Sanvi）目前已抵达阿曼马斯喀特附近海域。该船显示为印度所有、配备印度船员，未标明目的地，航行路线为伊朗批准的航道。",
@@ -131,8 +833,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 12,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -162,9 +864,9 @@
     "raw_data": {
       "code": "202604043695559576",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1775286183059576",
-      "share": 3,
+      "share": 6,
       "showTime": "2026-04-04 15:03:03",
       "stockList": [],
       "summary": "【美国大模型头部公司宣布正式封杀OpenClaw】美国大模型头部公司Anthropic旗下AI 编程工具Claude Code负责人Boris Cherny发文称，美国西部时间4月4日中午12点起，Claude订阅服务将不再包含对OpenClaw等第三方工具的使用额度。",
@@ -178,8 +880,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 3,
+    "comment_count": 7,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [
@@ -209,7 +911,7 @@
     "raw_data": {
       "code": "202604043695559155",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1775285772059155",
       "share": 0,
       "showTime": "2026-04-04 14:56:12",
@@ -225,7 +927,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -287,7 +989,7 @@
     "raw_data": {
       "code": "202604043695556622",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1775284907056622",
       "share": 1,
       "showTime": "2026-04-04 14:41:47",
@@ -303,7 +1005,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -326,9 +1028,9 @@
     "raw_data": {
       "code": "202604043695556430",
       "image": [],
-      "pinglun_Num": 27,
+      "pinglun_Num": 35,
       "realSort": "1775284805056430",
-      "share": 10,
+      "share": 12,
       "showTime": "2026-04-04 14:40:05",
       "stockList": [],
       "summary": "【伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为】当地时间4月4日，伊朗伊斯兰革命卫队公共关系部门发布消息表示，对美方称美国驻沙特大使馆遭到伊朗袭击一事表示谴责，声明此次事件与伊朗无关，并指出，鉴于该地区以军的战略，此次行动“无疑是以色列所为”。",
@@ -342,8 +1044,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 27,
-    "share_count": 10,
+    "comment_count": 35,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -412,7 +1114,7 @@
     "raw_data": {
       "code": "202604043695554010",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1775283910054010",
       "share": 0,
       "showTime": "2026-04-04 14:25:10",
@@ -428,7 +1130,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -451,7 +1153,7 @@
     "raw_data": {
       "code": "202604043695553814",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1775283849053814",
       "share": 2,
       "showTime": "2026-04-04 14:24:09",
@@ -467,7 +1169,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -492,7 +1194,7 @@
       "image": [],
       "pinglun_Num": 21,
       "realSort": "1775283471052778",
-      "share": 7,
+      "share": 10,
       "showTime": "2026-04-04 14:17:51",
       "stockList": [],
       "summary": "【美以袭击对伊朗25家制药企业造成损失】总台记者当地时间4日获悉，伊朗药剂师协会发言人在接受媒体采访时表示，自美以对伊朗发动袭击以来，当地25家负责生产、分销的制药企业遭受了直接和间接袭击。其中，抗癌药物和疫苗生产商是敌方袭击的直接目标。",
@@ -507,7 +1209,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 21,
-    "share_count": 7,
+    "share_count": 10,
     "tags": {
       "industries": [
         {
@@ -600,7 +1302,7 @@
     "raw_data": {
       "code": "202604043695551843",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 27,
       "realSort": "1775282969051843",
       "share": 3,
       "showTime": "2026-04-04 14:09:29",
@@ -616,7 +1318,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 23,
+    "comment_count": 27,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -653,13 +1355,11 @@
     "raw_data": {
       "code": "202604043695551134",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1775282543051134",
       "share": 0,
       "showTime": "2026-04-04 14:02:23",
-      "stockList": [
-        "90.BK0154"
-      ],
+      "stockList": [],
       "summary": "【广西海事局启动西江干线船舶水污染物“零排放”工作】广西海事局消息，近日，广西海事局已印发2026年西江干线船舶水污染物“零排放”专项行动实施方案，到年底前开展攻坚行动，推动南宁到梧州、柳州到桂平近800公里的西江航运干线，近万艘船舶污染物实施“船上储存、交岸处置”的“零排放”模式，持续擦亮“广西生态优势金不换”金字招牌。",
       "title": "广西海事局启动西江干线船舶水污染物“零排放”工作",
       "titleColor": 0
@@ -667,13 +1367,11 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202604043695551134.html",
     "category": "其他",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0154"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -696,9 +1394,9 @@
     "raw_data": {
       "code": "202604043695551065",
       "image": [],
-      "pinglun_Num": 25,
+      "pinglun_Num": 30,
       "realSort": "1775281751051065",
-      "share": 10,
+      "share": 14,
       "showTime": "2026-04-04 13:49:11",
       "stockList": [
         "90.BK0433",
@@ -718,8 +1416,8 @@
       "90.BK0882"
     ],
     "has_stock_mention": true,
-    "comment_count": 25,
-    "share_count": 10,
+    "comment_count": 30,
+    "share_count": 14,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -833,9 +1531,9 @@
     "raw_data": {
       "code": "202604043695549870",
       "image": [],
-      "pinglun_Num": 70,
+      "pinglun_Num": 119,
       "realSort": "1775280471049870",
-      "share": 18,
+      "share": 24,
       "showTime": "2026-04-04 13:27:51",
       "stockList": [],
       "summary": "【伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子】当地时间4月4日，伊朗总统佩泽希齐扬在社交媒体平台发文表示，此前，在他发表致美国人民公开信的时候，伊朗最高领袖外交政策顾问、前外交部长卡迈勒·哈拉齐遭到袭击，并导致哈拉齐的妻子遇难。佩泽希齐扬说，让国际社会来评判“哪一方是谈判者，哪一方是恐怖分子？”",
@@ -849,8 +1547,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 70,
-    "share_count": 18,
+    "comment_count": 119,
+    "share_count": 24,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -923,7 +1621,7 @@
     "raw_data": {
       "code": "202604043695547687",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 10,
       "realSort": "1775279096047687",
       "share": 2,
       "showTime": "2026-04-04 13:04:56",
@@ -939,7 +1637,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 10,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -964,7 +1662,7 @@
       "image": [],
       "pinglun_Num": 20,
       "realSort": "1775279033047566",
-      "share": 9,
+      "share": 10,
       "showTime": "2026-04-04 13:03:53",
       "stockList": [],
       "summary": "【一名美军战机飞行员仍失踪 特朗普：希望“那种情况”不会发生】美国空军一架F-15E型“打击鹰”双座战斗机3日在伊朗上空被击落。两名飞行员弹射逃生，其中一人被美军营救，另一人失踪。美国总统特朗普当天短暂接受英国《独立报》电话采访，被问及如果该飞行员在伊朗被俘或受到伤害时美方将如何回应。特朗普表示：“我没法说，因为——我们希望不会出现那种情况。”之后，他很快结束了通话。",
@@ -979,7 +1677,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 20,
-    "share_count": 9,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1044,9 +1742,9 @@
     "raw_data": {
       "code": "202604043695547398",
       "image": [],
-      "pinglun_Num": 113,
+      "pinglun_Num": 174,
       "realSort": "1775277780047398",
-      "share": 40,
+      "share": 62,
       "showTime": "2026-04-04 12:43:00",
       "stockList": [
         "90.BK0800"
@@ -1064,8 +1762,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 113,
-    "share_count": 40,
+    "comment_count": 174,
+    "share_count": 62,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1472,9 +2170,9 @@
     "raw_data": {
       "code": "202604043695542792",
       "image": [],
-      "pinglun_Num": 122,
+      "pinglun_Num": 126,
       "realSort": "1775273036042792",
-      "share": 54,
+      "share": 57,
       "showTime": "2026-04-04 11:23:56",
       "stockList": [
         "90.BK0428",
@@ -1494,8 +2192,8 @@
       "90.BK0493"
     ],
     "has_stock_mention": true,
-    "comment_count": 122,
-    "share_count": 54,
+    "comment_count": 126,
+    "share_count": 57,
     "tags": {
       "industries": [
         {
@@ -1549,7 +2247,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1775272582042130",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-04 11:16:22",
       "stockList": [
         "116.09868",
@@ -1570,7 +2268,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [
         {
@@ -1625,698 +2323,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "0727725575b6d5d9",
-    "code": "202604043695540150",
-    "title": "中东局势致燃料紧缺 日本多地温泉被迫停业",
-    "summary": "【中东局势致燃料紧缺 日本多地温泉被迫停业】日本媒体3日报道，受中东局势影响，日本原油进口量骤降，由原油加工所得的重油供应紧张。日本多地温泉和洗浴设施因缺乏用于燃料的重油被迫停业，另一些温泉则以缩短营业时间的方式降低成本。",
-    "content": "【中东局势致燃料紧缺 日本多地温泉被迫停业】日本媒体3日报道，受中东局势影响，日本原油进口量骤降，由原油加工所得的重油供应紧张。日本多地温泉和洗浴设施因缺乏用于燃料的重油被迫停业，另一些温泉则以缩短营业时间的方式降低成本。",
-    "full_content": "【中东局势致燃料紧缺 日本多地温泉被迫停业】日本媒体3日报道，受中东局势影响，日本原油进口量骤降，由原油加工所得的重油供应紧张。日本多地温泉和洗浴设施因缺乏用于燃料的重油被迫停业，另一些温泉则以缩短营业时间的方式降低成本。",
-    "sort_time": "1775271584040150",
-    "showTime": "2026-04-04 10:59:44",
-    "time": "2026-04-04 10:59:44",
-    "publish_time": "2026-04-04 10:59:44",
-    "raw_data": {
-      "code": "202604043695540150",
-      "image": [],
-      "pinglun_Num": 31,
-      "realSort": "1775271584040150",
-      "share": 31,
-      "showTime": "2026-04-04 10:59:44",
-      "stockList": [
-        "90.BK0464",
-        "0.159945"
-      ],
-      "summary": "【中东局势致燃料紧缺 日本多地温泉被迫停业】日本媒体3日报道，受中东局势影响，日本原油进口量骤降，由原油加工所得的重油供应紧张。日本多地温泉和洗浴设施因缺乏用于燃料的重油被迫停业，另一些温泉则以缩短营业时间的方式降低成本。",
-      "title": "中东局势致燃料紧缺 日本多地温泉被迫停业",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695540150.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464",
-      "0.159945"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 31,
-    "share_count": 31,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "10642e8b5b96d507",
-    "code": "202604043695539486",
-    "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
-    "summary": "【农业成本因伊朗战事上升 土耳其取消部分化肥关税】土耳其贸易部3日说，土耳其已取消尿素等一些基本氮肥和复合肥的关税，以保护农业部门免受伊朗战事造成的成本上升影响，促进肥料供应安全。",
-    "content": "【农业成本因伊朗战事上升 土耳其取消部分化肥关税】土耳其贸易部3日说，土耳其已取消尿素等一些基本氮肥和复合肥的关税，以保护农业部门免受伊朗战事造成的成本上升影响，促进肥料供应安全。",
-    "full_content": "【农业成本因伊朗战事上升 土耳其取消部分化肥关税】土耳其贸易部3日说，土耳其已取消尿素等一些基本氮肥和复合肥的关税，以保护农业部门免受伊朗战事造成的成本上升影响，促进肥料供应安全。",
-    "sort_time": "1775271517039486",
-    "showTime": "2026-04-04 10:58:37",
-    "time": "2026-04-04 10:58:37",
-    "publish_time": "2026-04-04 10:58:37",
-    "raw_data": {
-      "code": "202604043695539486",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1775271517039486",
-      "share": 2,
-      "showTime": "2026-04-04 10:58:37",
-      "stockList": [
-        "90.BK0731",
-        "90.BK0512"
-      ],
-      "summary": "【农业成本因伊朗战事上升 土耳其取消部分化肥关税】土耳其贸易部3日说，土耳其已取消尿素等一些基本氮肥和复合肥的关税，以保护农业部门免受伊朗战事造成的成本上升影响，促进肥料供应安全。",
-      "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695539486.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0731",
-      "90.BK0512"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C508",
-          "name": "化工",
-          "matched_keyword": "化肥"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C508"
-      ]
-    }
-  },
-  {
-    "id": "4bf5bdd545b0e443",
-    "code": "202604043695539145",
-    "title": "美法官维持驳回检方对美联储发出传票的决定",
-    "summary": "【美法官维持驳回检方对美联储发出传票的决定】美国哥伦比亚特区联邦地区法院3日公布的一份法律文件显示，该法院首席法官詹姆斯·博斯伯格当日维持驳回联邦检察官对联邦储备委员会发出两份传票的决定。",
-    "content": "【美法官维持驳回检方对美联储发出传票的决定】美国哥伦比亚特区联邦地区法院3日公布的一份法律文件显示，该法院首席法官詹姆斯·博斯伯格当日维持驳回联邦检察官对联邦储备委员会发出两份传票的决定。",
-    "full_content": "【美法官维持驳回检方对美联储发出传票的决定】美国哥伦比亚特区联邦地区法院3日公布的一份法律文件显示，该法院首席法官詹姆斯·博斯伯格当日维持驳回联邦检察官对联邦储备委员会发出两份传票的决定。",
-    "sort_time": "1775271017039145",
-    "showTime": "2026-04-04 10:50:17",
-    "time": "2026-04-04 10:50:17",
-    "publish_time": "2026-04-04 10:50:17",
-    "raw_data": {
-      "code": "202604043695539145",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1775271017039145",
-      "share": 1,
-      "showTime": "2026-04-04 10:50:17",
-      "stockList": [],
-      "summary": "【美法官维持驳回检方对美联储发出传票的决定】美国哥伦比亚特区联邦地区法院3日公布的一份法律文件显示，该法院首席法官詹姆斯·博斯伯格当日维持驳回联邦检察官对联邦储备委员会发出两份传票的决定。",
-      "title": "美法官维持驳回检方对美联储发出传票的决定",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695539145.html",
-    "category": "国际",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4cc76d739cc65bae",
-    "code": "202604043695537985",
-    "title": "美国旧金山国际机场发生火灾",
-    "summary": "【美国旧金山国际机场发生火灾】当地时间4月3日下午，美国旧金山国际机场存放货物的区域发生火灾，但没有对机场的运营造成影响。旧金山消防局表示，火势已经被控制，没有人员受伤的报告，但是火灾的原因仍在调查中。",
-    "content": "【美国旧金山国际机场发生火灾】当地时间4月3日下午，美国旧金山国际机场存放货物的区域发生火灾，但没有对机场的运营造成影响。旧金山消防局表示，火势已经被控制，没有人员受伤的报告，但是火灾的原因仍在调查中。",
-    "full_content": "【美国旧金山国际机场发生火灾】当地时间4月3日下午，美国旧金山国际机场存放货物的区域发生火灾，但没有对机场的运营造成影响。旧金山消防局表示，火势已经被控制，没有人员受伤的报告，但是火灾的原因仍在调查中。",
-    "sort_time": "1775270691037985",
-    "showTime": "2026-04-04 10:44:51",
-    "time": "2026-04-04 10:44:51",
-    "publish_time": "2026-04-04 10:44:51",
-    "raw_data": {
-      "code": "202604043695537985",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1775270691037985",
-      "share": 2,
-      "showTime": "2026-04-04 10:44:51",
-      "stockList": [
-        "90.BK1480"
-      ],
-      "summary": "【美国旧金山国际机场发生火灾】当地时间4月3日下午，美国旧金山国际机场存放货物的区域发生火灾，但没有对机场的运营造成影响。旧金山消防局表示，火势已经被控制，没有人员受伤的报告，但是火灾的原因仍在调查中。",
-      "title": "美国旧金山国际机场发生火灾",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695537985.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1480"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "bd1955c6b4962d51",
-    "code": "202604043695536981",
-    "title": "抗辐照、散热、成本……把算力送上太空还要过几关？",
-    "summary": "【抗辐照、散热、成本……把算力送上太空还要过几关？】在4月3日的2026太空算力产业大会上，关于一款“鱼代码”APP的描述映射出未来太空算力普惠的愿景。中国科学院计算技术研究所副研究员刘垚圻分享了一名学生的畅想——有渔民在APP上询问：“金枪鱼在哪里？”随后，天上的卫星通过高光谱相机找鱼，智慧大脑进行推算，最后通信链路给出包括位置、捕捞器具等答案。",
-    "content": "【抗辐照、散热、成本……把算力送上太空还要过几关？】在4月3日的2026太空算力产业大会上，关于一款“鱼代码”APP的描述映射出未来太空算力普惠的愿景。中国科学院计算技术研究所副研究员刘垚圻分享了一名学生的畅想——有渔民在APP上询问：“金枪鱼在哪里？”随后，天上的卫星通过高光谱相机找鱼，智慧大脑进行推算，最后通信链路给出包括位置、捕捞器具等答案。",
-    "full_content": "【抗辐照、散热、成本……把算力送上太空还要过几关？】在4月3日的2026太空算力产业大会上，关于一款“鱼代码”APP的描述映射出未来太空算力普惠的愿景。中国科学院计算技术研究所副研究员刘垚圻分享了一名学生的畅想——有渔民在APP上询问：“金枪鱼在哪里？”随后，天上的卫星通过高光谱相机找鱼，智慧大脑进行推算，最后通信链路给出包括位置、捕捞器具等答案。",
-    "sort_time": "1775270451036981",
-    "showTime": "2026-04-04 10:40:51",
-    "time": "2026-04-04 10:40:51",
-    "publish_time": "2026-04-04 10:40:51",
-    "raw_data": {
-      "code": "202604043695536981",
-      "image": [],
-      "pinglun_Num": 97,
-      "realSort": "1775270451036981",
-      "share": 45,
-      "showTime": "2026-04-04 10:40:51",
-      "stockList": [
-        "90.BK1134",
-        "150.013446"
-      ],
-      "summary": "【抗辐照、散热、成本……把算力送上太空还要过几关？】在4月3日的2026太空算力产业大会上，关于一款“鱼代码”APP的描述映射出未来太空算力普惠的愿景。中国科学院计算技术研究所副研究员刘垚圻分享了一名学生的畅想——有渔民在APP上询问：“金枪鱼在哪里？”随后，天上的卫星通过高光谱相机找鱼，智慧大脑进行推算，最后通信链路给出包括位置、捕捞器具等答案。",
-      "title": "抗辐照、散热、成本 把算力送上太空还要过几关？",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695536981.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1134",
-      "150.013446"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 97,
-    "share_count": 45,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "通信"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        },
-        {
-          "id": "C202",
-          "name": "航天",
-          "matched_keyword": "卫星"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C004",
-        "C011",
-        "C202"
-      ]
-    }
-  },
-  {
-    "id": "ed645cb251de7efe",
-    "code": "202604043695537715",
-    "title": "千问3.6Plus大模型登顶全球模型调用排行榜首，日调用量破万亿",
-    "summary": "【千问3.6Plus大模型登顶全球模型调用排行榜首，日调用量破万亿】4月4日消息，发布仅1天的千问新模型Qwen3.6-Plus，冲上全球知名大模型API调用平台OpenRouter的日榜榜首，数据显示，Qwen3.6-Plus的日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量的全球纪录。",
-    "content": "【千问3.6Plus大模型登顶全球模型调用排行榜首，日调用量破万亿】4月4日消息，发布仅1天的千问新模型Qwen3.6-Plus，冲上全球知名大模型API调用平台OpenRouter的日榜榜首，数据显示，Qwen3.6-Plus的日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量的全球纪录。",
-    "full_content": "【千问3.6Plus大模型登顶全球模型调用排行榜首，日调用量破万亿】4月4日消息，发布仅1天的千问新模型Qwen3.6-Plus，冲上全球知名大模型API调用平台OpenRouter的日榜榜首，数据显示，Qwen3.6-Plus的日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量的全球纪录。",
-    "sort_time": "1775270346037715",
-    "showTime": "2026-04-04 10:39:06",
-    "time": "2026-04-04 10:39:06",
-    "publish_time": "2026-04-04 10:39:06",
-    "raw_data": {
-      "code": "202604043695537715",
-      "image": [],
-      "pinglun_Num": 54,
-      "realSort": "1775270346037715",
-      "share": 11,
-      "showTime": "2026-04-04 10:39:06",
-      "stockList": [
-        "116.09988",
-        "106.BABA"
-      ],
-      "summary": "【千问3.6Plus大模型登顶全球模型调用排行榜首，日调用量破万亿】4月4日消息，发布仅1天的千问新模型Qwen3.6-Plus，冲上全球知名大模型API调用平台OpenRouter的日榜榜首，数据显示，Qwen3.6-Plus的日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量的全球纪录。",
-      "title": "千问3.6Plus大模型登顶全球模型调用排行榜首，日调用量破万亿",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695537715.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "116.09988",
-      "106.BABA"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 54,
-    "share_count": 11,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "大模型"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "434d1df184e15fd1",
-    "code": "202604043695536179",
-    "title": "我国牵头高压直流输电领域电容器国际标准成功立项",
-    "summary": "【我国牵头高压直流输电领域电容器国际标准成功立项】记者今天了解到，由我国发起的《高压直流输电系统用直流滤波电容器》国际标准提案近日通过国际电工委员会（IEC）立项。该标准是高压直流输电领域首个专门针对直流滤波电容器的国际标准，填补了相关专业领域标准空白。",
-    "content": "【我国牵头高压直流输电领域电容器国际标准成功立项】记者今天了解到，由我国发起的《高压直流输电系统用直流滤波电容器》国际标准提案近日通过国际电工委员会（IEC）立项。该标准是高压直流输电领域首个专门针对直流滤波电容器的国际标准，填补了相关专业领域标准空白。",
-    "full_content": "【我国牵头高压直流输电领域电容器国际标准成功立项】记者今天了解到，由我国发起的《高压直流输电系统用直流滤波电容器》国际标准提案近日通过国际电工委员会（IEC）立项。该标准是高压直流输电领域首个专门针对直流滤波电容器的国际标准，填补了相关专业领域标准空白。",
-    "sort_time": "1775269257036179",
-    "showTime": "2026-04-04 10:20:57",
-    "time": "2026-04-04 10:20:57",
-    "publish_time": "2026-04-04 10:20:57",
-    "raw_data": {
-      "code": "202604043695536179",
-      "image": [],
-      "pinglun_Num": 44,
-      "realSort": "1775269257036179",
-      "share": 9,
-      "showTime": "2026-04-04 10:20:57",
-      "stockList": [],
-      "summary": "【我国牵头高压直流输电领域电容器国际标准成功立项】记者今天了解到，由我国发起的《高压直流输电系统用直流滤波电容器》国际标准提案近日通过国际电工委员会（IEC）立项。该标准是高压直流输电领域首个专门针对直流滤波电容器的国际标准，填补了相关专业领域标准空白。",
-      "title": "我国牵头高压直流输电领域电容器国际标准成功立项",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695536179.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 44,
-    "share_count": 9,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010102",
-          "name": "电子元件",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "电容器"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010102"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "095e99df0173dce2",
-    "code": "202604043695535925",
-    "title": "我国主导国际学术期刊Vita将出版",
-    "summary": "【我国主导国际学术期刊Vita将出版】记者日前从高等教育出版社了解到，由我国主导的国际学术期刊《Vita》将于今年6月正式出版纸质版。该期刊对标国际顶级学术期刊，聚焦生命科学与生物医学领域，主刊面向全球科研人员免费开放。",
-    "content": "【我国主导国际学术期刊Vita将出版】记者日前从高等教育出版社了解到，由我国主导的国际学术期刊《Vita》将于今年6月正式出版纸质版。该期刊对标国际顶级学术期刊，聚焦生命科学与生物医学领域，主刊面向全球科研人员免费开放。",
-    "full_content": "【我国主导国际学术期刊Vita将出版】记者日前从高等教育出版社了解到，由我国主导的国际学术期刊《Vita》将于今年6月正式出版纸质版。该期刊对标国际顶级学术期刊，聚焦生命科学与生物医学领域，主刊面向全球科研人员免费开放。",
-    "sort_time": "1775269001035925",
-    "showTime": "2026-04-04 10:16:41",
-    "time": "2026-04-04 10:16:41",
-    "publish_time": "2026-04-04 10:16:41",
-    "raw_data": {
-      "code": "202604043695535925",
-      "image": [],
-      "pinglun_Num": 19,
-      "realSort": "1775269001035925",
-      "share": 8,
-      "showTime": "2026-04-04 10:16:41",
-      "stockList": [
-        "90.BK1218",
-        "1007.BK000172"
-      ],
-      "summary": "【我国主导国际学术期刊Vita将出版】记者日前从高等教育出版社了解到，由我国主导的国际学术期刊《Vita》将于今年6月正式出版纸质版。该期刊对标国际顶级学术期刊，聚焦生命科学与生物医学领域，主刊面向全球科研人员免费开放。",
-      "title": "我国主导国际学术期刊Vita将出版",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695535925.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1218",
-      "1007.BK000172"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 19,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5abd8903aa6fd715",
-    "code": "202604043695535832",
-    "title": "清明假期预计出游规模增长6% 跨省游占比超54%",
-    "summary": "【清明假期预计出游规模增长6% 跨省游占比超54%】今天是清明假期第一天，中国移动梧桐大数据分析发现，今年部分中小学春假与清明假期叠加，激发了人们的出游热情，预计清明假期整体出游人群规模较去年同期增长6%。中国移动数智事业部数据与流程管理部总经理王冀彬：从出游类型看，省内游占比46%，跨省游占比54%，其中跨省出游人群占比较去年同期增长12个百分点。",
-    "content": "【清明假期预计出游规模增长6% 跨省游占比超54%】今天是清明假期第一天，中国移动梧桐大数据分析发现，今年部分中小学春假与清明假期叠加，激发了人们的出游热情，预计清明假期整体出游人群规模较去年同期增长6%。中国移动数智事业部数据与流程管理部总经理王冀彬：从出游类型看，省内游占比46%，跨省游占比54%，其中跨省出游人群占比较去年同期增长12个百分点。",
-    "full_content": "【清明假期预计出游规模增长6% 跨省游占比超54%】今天是清明假期第一天，中国移动梧桐大数据分析发现，今年部分中小学春假与清明假期叠加，激发了人们的出游热情，预计清明假期整体出游人群规模较去年同期增长6%。中国移动数智事业部数据与流程管理部总经理王冀彬：从出游类型看，省内游占比46%，跨省游占比54%，其中跨省出游人群占比较去年同期增长12个百分点。",
-    "sort_time": "1775268816035832",
-    "showTime": "2026-04-04 10:13:36",
-    "time": "2026-04-04 10:13:36",
-    "publish_time": "2026-04-04 10:13:36",
-    "raw_data": {
-      "code": "202604043695535832",
-      "image": [],
-      "pinglun_Num": 14,
-      "realSort": "1775268816035832",
-      "share": 1,
-      "showTime": "2026-04-04 10:13:36",
-      "stockList": [],
-      "summary": "【清明假期预计出游规模增长6% 跨省游占比超54%】今天是清明假期第一天，中国移动梧桐大数据分析发现，今年部分中小学春假与清明假期叠加，激发了人们的出游热情，预计清明假期整体出游人群规模较去年同期增长6%。中国移动数智事业部数据与流程管理部总经理王冀彬：从出游类型看，省内游占比46%，跨省游占比54%，其中跨省出游人群占比较去年同期增长12个百分点。",
-      "title": "清明假期预计出游规模增长6% 跨省游占比超54%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695535832.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C006",
-          "name": "大数据",
-          "matched_keyword": "大数据"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C006"
-      ]
-    }
-  },
-  {
-    "id": "b1abbc4a2d525c91",
-    "code": "202604043695535257",
-    "title": "长三角铁路今日预计发送旅客455万人次",
-    "summary": "【长三角铁路今日预计发送旅客455万人次】4月4日，清明假期第一天，长三角铁路当天预计发送旅客455万人次，有望创单日客发新高，较去年同期多发送旅客36万人次，增幅8.6%。4月3日，上铁集团发送旅客407.4万人次，同比增长17.3%，其中售出儿童票26.5万张，是去年同期的2.6倍。",
-    "content": "【长三角铁路今日预计发送旅客455万人次】4月4日，清明假期第一天，长三角铁路当天预计发送旅客455万人次，有望创单日客发新高，较去年同期多发送旅客36万人次，增幅8.6%。4月3日，上铁集团发送旅客407.4万人次，同比增长17.3%，其中售出儿童票26.5万张，是去年同期的2.6倍。",
-    "full_content": "【长三角铁路今日预计发送旅客455万人次】4月4日，清明假期第一天，长三角铁路当天预计发送旅客455万人次，有望创单日客发新高，较去年同期多发送旅客36万人次，增幅8.6%。4月3日，上铁集团发送旅客407.4万人次，同比增长17.3%，其中售出儿童票26.5万张，是去年同期的2.6倍。",
-    "sort_time": "1775268668035257",
-    "showTime": "2026-04-04 10:11:08",
-    "time": "2026-04-04 10:11:08",
-    "publish_time": "2026-04-04 10:11:08",
-    "raw_data": {
-      "code": "202604043695535257",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1775268668035257",
-      "share": 0,
-      "showTime": "2026-04-04 10:11:08",
-      "stockList": [],
-      "summary": "【长三角铁路今日预计发送旅客455万人次】4月4日，清明假期第一天，长三角铁路当天预计发送旅客455万人次，有望创单日客发新高，较去年同期多发送旅客36万人次，增幅8.6%。4月3日，上铁集团发送旅客407.4万人次，同比增长17.3%，其中售出儿童票26.5万张，是去年同期的2.6倍。",
-      "title": "长三角铁路今日预计发送旅客455万人次",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695535257.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "416cc85fba3383a6",
-    "code": "202604043695535192",
-    "title": "以色列袭击黎巴嫩致至少10人受伤",
-    "summary": "【以色列袭击黎巴嫩致至少10人受伤】黎巴嫩卫生部4日说，以色列当天对黎巴嫩的袭击已造成黎南部至少10人受伤。",
-    "content": "【以色列袭击黎巴嫩致至少10人受伤】黎巴嫩卫生部4日说，以色列当天对黎巴嫩的袭击已造成黎南部至少10人受伤。",
-    "full_content": "【以色列袭击黎巴嫩致至少10人受伤】黎巴嫩卫生部4日说，以色列当天对黎巴嫩的袭击已造成黎南部至少10人受伤。",
-    "sort_time": "1775268495035192",
-    "showTime": "2026-04-04 10:08:15",
-    "time": "2026-04-04 10:08:15",
-    "publish_time": "2026-04-04 10:08:15",
-    "raw_data": {
-      "code": "202604043695535192",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1775268495035192",
-      "share": 0,
-      "showTime": "2026-04-04 10:08:15",
-      "stockList": [],
-      "summary": "【以色列袭击黎巴嫩致至少10人受伤】黎巴嫩卫生部4日说，以色列当天对黎巴嫩的袭击已造成黎南部至少10人受伤。",
-      "title": "以色列袭击黎巴嫩致至少10人受伤",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695535192.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "030626f02dd3bbd4",
-    "code": "202604043695534975",
-    "title": "多省区国省干线多路段因雨雪雾封闭管控",
-    "summary": "【多省区国省干线多路段因雨雪雾封闭管控】记者从交通运输部路网中心了解到，截至今早8点，因降雪及路面结冰，黑龙江、吉林、内蒙古等3省（区）国省干线共有32个路段采取主动封闭管控措施（涉及29条高速公路）。",
-    "content": "【多省区国省干线多路段因雨雪雾封闭管控】记者从交通运输部路网中心了解到，截至今早8点，因降雪及路面结冰，黑龙江、吉林、内蒙古等3省（区）国省干线共有32个路段采取主动封闭管控措施（涉及29条高速公路）。",
-    "full_content": "【多省区国省干线多路段因雨雪雾封闭管控】记者从交通运输部路网中心了解到，截至今早8点，因降雪及路面结冰，黑龙江、吉林、内蒙古等3省（区）国省干线共有32个路段采取主动封闭管控措施（涉及29条高速公路）。",
-    "sort_time": "1775268132034975",
-    "showTime": "2026-04-04 10:02:12",
-    "time": "2026-04-04 10:02:12",
-    "publish_time": "2026-04-04 10:02:12",
-    "raw_data": {
-      "code": "202604043695534975",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1775268132034975",
-      "share": 0,
-      "showTime": "2026-04-04 10:02:12",
-      "stockList": [],
-      "summary": "【多省区国省干线多路段因雨雪雾封闭管控】记者从交通运输部路网中心了解到，截至今早8点，因降雪及路面结冰，黑龙江、吉林、内蒙古等3省（区）国省干线共有32个路段采取主动封闭管控措施（涉及29条高速公路）。",
-      "title": "多省区国省干线多路段因雨雪雾封闭管控",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695534975.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "2d2be6da3c433575",
-    "code": "202604043695531435",
-    "title": "总投资50亿元 苏州光通信产业基地将落户苏州工业园区",
-    "summary": "【总投资50亿元 苏州光通信产业基地将落户苏州工业园区】苏州光通信产业基地签约仪式4月3日举行。根据协议，苏州光通信产业基地将落户苏州工业园区，由包括旭创科技在内的多家光通信领域企业合作共建，聚焦光芯片、光材料、光器件、光模块等重点领域，打造集研发创新、生产制造、成果转化、产业协同于一体的光通信产业创新集群。项目总投资50亿元，预计今年新增产值超150亿元。",
-    "content": "【总投资50亿元 苏州光通信产业基地将落户苏州工业园区】苏州光通信产业基地签约仪式4月3日举行。根据协议，苏州光通信产业基地将落户苏州工业园区，由包括旭创科技在内的多家光通信领域企业合作共建，聚焦光芯片、光材料、光器件、光模块等重点领域，打造集研发创新、生产制造、成果转化、产业协同于一体的光通信产业创新集群。项目总投资50亿元，预计今年新增产值超150亿元。",
-    "full_content": "【总投资50亿元 苏州光通信产业基地将落户苏州工业园区】苏州光通信产业基地签约仪式4月3日举行。根据协议，苏州光通信产业基地将落户苏州工业园区，由包括旭创科技在内的多家光通信领域企业合作共建，聚焦光芯片、光材料、光器件、光模块等重点领域，打造集研发创新、生产制造、成果转化、产业协同于一体的光通信产业创新集群。项目总投资50亿元，预计今年新增产值超150亿元。",
-    "sort_time": "1775267324031435",
-    "showTime": "2026-04-04 09:48:44",
-    "time": "2026-04-04 09:48:44",
-    "publish_time": "2026-04-04 09:48:44",
-    "raw_data": {
-      "code": "202604043695531435",
-      "image": [],
-      "pinglun_Num": 34,
-      "realSort": "1775267324031435",
-      "share": 16,
-      "showTime": "2026-04-04 09:48:44",
-      "stockList": [],
-      "summary": "【总投资50亿元 苏州光通信产业基地将落户苏州工业园区】苏州光通信产业基地签约仪式4月3日举行。根据协议，苏州光通信产业基地将落户苏州工业园区，由包括旭创科技在内的多家光通信领域企业合作共建，聚焦光芯片、光材料、光器件、光模块等重点领域，打造集研发创新、生产制造、成果转化、产业协同于一体的光通信产业创新集群。项目总投资50亿元，预计今年新增产值超150亿元。",
-      "title": "总投资50亿元 苏州光通信产业基地将落户苏州工业园区",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695531435.html",
-    "category": "科技",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 34,
-    "share_count": 16,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        },
-        {
-          "id": "I010104",
-          "name": "通信设备",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "光模块"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        },
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "光通信"
-        }
-      ],
-      "industry_ids": [
-        "I010101",
-        "I010104"
-      ],
-      "concept_ids": [
-        "C002",
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "80962384abcbe4a3",
-    "code": "202604043695531379",
-    "title": "以军在叙利亚南部发动袭击",
-    "summary": "【以军在叙利亚南部发动袭击】据叙利亚国家通讯社3日报道，以色列国防军当天在叙南部库奈特拉省使用坦克向一辆民用汽车发射炮弹，导致车上一名叙利亚青年身亡。",
-    "content": "【以军在叙利亚南部发动袭击】据叙利亚国家通讯社3日报道，以色列国防军当天在叙南部库奈特拉省使用坦克向一辆民用汽车发射炮弹，导致车上一名叙利亚青年身亡。",
-    "full_content": "【以军在叙利亚南部发动袭击】据叙利亚国家通讯社3日报道，以色列国防军当天在叙南部库奈特拉省使用坦克向一辆民用汽车发射炮弹，导致车上一名叙利亚青年身亡。",
-    "sort_time": "1775267252031379",
-    "showTime": "2026-04-04 09:47:32",
-    "time": "2026-04-04 09:47:32",
-    "publish_time": "2026-04-04 09:47:32",
-    "raw_data": {
-      "code": "202604043695531379",
-      "image": [],
-      "pinglun_Num": 14,
-      "realSort": "1775267252031379",
-      "share": 3,
-      "showTime": "2026-04-04 09:47:32",
-      "stockList": [],
-      "summary": "【以军在叙利亚南部发动袭击】据叙利亚国家通讯社3日报道，以色列国防军当天在叙南部库奈特拉省使用坦克向一辆民用汽车发射炮弹，导致车上一名叙利亚青年身亡。",
-      "title": "以军在叙利亚南部发动袭击",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695531379.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": [
-        "C201"
-      ]
     }
   }
 ]
