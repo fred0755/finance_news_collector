@@ -1,5 +1,56 @@
 [
   {
+    "id": "2f34c9e275a3d0ac",
+    "code": "202604043695630392",
+    "title": "伊朗外长：若发生核泄漏 周边国家将遭殃",
+    "summary": "【伊朗外长：若发生核泄漏 周边国家将遭殃】伊朗外长阿拉格齐4日在社交媒体发文警告，以色列和美国轰炸伊朗布什尔核电站，如果造成核泄漏，距离核电站更近的地区邻国将遭受生命损失。",
+    "content": "【伊朗外长：若发生核泄漏 周边国家将遭殃】伊朗外长阿拉格齐4日在社交媒体发文警告，以色列和美国轰炸伊朗布什尔核电站，如果造成核泄漏，距离核电站更近的地区邻国将遭受生命损失。",
+    "full_content": "【伊朗外长：若发生核泄漏 周边国家将遭殃】伊朗外长阿拉格齐4日在社交媒体发文警告，以色列和美国轰炸伊朗布什尔核电站，如果造成核泄漏，距离核电站更近的地区邻国将遭受生命损失。",
+    "sort_time": "1775316947030392",
+    "showTime": "2026-04-04 23:35:47",
+    "time": "2026-04-04 23:35:47",
+    "publish_time": "2026-04-04 23:35:47",
+    "raw_data": {
+      "code": "202604043695630392",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1775316947030392",
+      "share": 3,
+      "showTime": "2026-04-04 23:35:47",
+      "stockList": [
+        "90.BK0577"
+      ],
+      "summary": "【伊朗外长：若发生核泄漏 周边国家将遭殃】伊朗外长阿拉格齐4日在社交媒体发文警告，以色列和美国轰炸伊朗布什尔核电站，如果造成核泄漏，距离核电站更近的地区邻国将遭受生命损失。",
+      "title": "伊朗外长：若发生核泄漏 周边国家将遭殃",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604043695630392.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0577"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 13,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "核电站"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109"
+      ]
+    }
+  },
+  {
     "id": "77c84c81f3814e71",
     "code": "202604043695630111",
     "title": "受中东局势影响 美国汽油均价升至4.1美元",
@@ -13,9 +64,9 @@
     "raw_data": {
       "code": "202604043695630111",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 30,
       "realSort": "1775315724030111",
-      "share": 1,
+      "share": 5,
       "showTime": "2026-04-04 23:15:24",
       "stockList": [
         "90.BK0464"
@@ -33,8 +84,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 1,
+    "comment_count": 30,
+    "share_count": 5,
     "tags": {
       "industries": [
         {
@@ -66,7 +117,7 @@
     "raw_data": {
       "code": "202604043695628761",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 5,
       "realSort": "1775314838028761",
       "share": 1,
       "showTime": "2026-04-04 23:00:38",
@@ -82,7 +133,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 5,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -105,9 +156,9 @@
     "raw_data": {
       "code": "202604043695628093",
       "image": [],
-      "pinglun_Num": 69,
+      "pinglun_Num": 89,
       "realSort": "1775313969028093",
-      "share": 26,
+      "share": 36,
       "showTime": "2026-04-04 22:46:09",
       "stockList": [],
       "summary": "【伊朗“圣城旅”指挥官苏莱曼尼亲属在美被逮捕】当地时间4月4日，美国国务院表示，伊朗伊斯兰革命卫队下属“圣城旅”指挥官卡西姆·苏莱曼尼的外甥女及外甥孙女于3日在美国被联邦执法人员逮捕。",
@@ -121,8 +172,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 69,
-    "share_count": 26,
+    "comment_count": 89,
+    "share_count": 36,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -144,7 +195,7 @@
     "raw_data": {
       "code": "202604043695627398",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1775313685027398",
       "share": 0,
       "showTime": "2026-04-04 22:41:25",
@@ -160,7 +211,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -183,9 +234,9 @@
     "raw_data": {
       "code": "202604043695625338",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 23,
       "realSort": "1775313359025338",
-      "share": 5,
+      "share": 9,
       "showTime": "2026-04-04 22:35:59",
       "stockList": [
         "90.BK0577"
@@ -203,8 +254,8 @@
       "90.BK0577"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 5,
+    "comment_count": 23,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [
@@ -234,9 +285,9 @@
     "raw_data": {
       "code": "202604043695625831",
       "image": [],
-      "pinglun_Num": 518,
+      "pinglun_Num": 517,
       "realSort": "1775312482025831",
-      "share": 492,
+      "share": 532,
       "showTime": "2026-04-04 22:21:22",
       "stockList": [],
       "summary": "【特朗普再警告伊朗：“48小时内”可能采取进一步行动】当地时间4月4日，美国总统特朗普在社交平台发文，就伊朗问题再次发出强硬表态，称此前已给予伊朗10天时间达成协议或开放霍尔木兹海峡。",
@@ -250,8 +301,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 518,
-    "share_count": 492,
+    "comment_count": 517,
+    "share_count": 532,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -273,7 +324,7 @@
     "raw_data": {
       "code": "202604043695625181",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1775312408025181",
       "share": 0,
       "showTime": "2026-04-04 22:20:08",
@@ -289,7 +340,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -312,9 +363,9 @@
     "raw_data": {
       "code": "202604043695623782",
       "image": [],
-      "pinglun_Num": 50,
+      "pinglun_Num": 52,
       "realSort": "1775311442023782",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-04-04 22:04:02",
       "stockList": [],
       "summary": "【美媒：至少16架美国MQ－9型“死神”无人机被击落】据美国全国广播公司4日报道，一名美国官员称，自对伊朗战争爆发以来，已有至少16架美国MQ－9型“死神”无人机被击落，其中两架本周被击落。据报道，每架MQ－9型“死神”无人机约3000万美元。",
@@ -328,8 +379,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 50,
-    "share_count": 5,
+    "comment_count": 52,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -359,9 +410,9 @@
     "raw_data": {
       "code": "202604043695622079",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1775310427022079",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-04 21:47:07",
       "stockList": [],
       "summary": "【清明假期首日 长三角铁路客流破单日纪录】2026年清明假期第一天，长三角铁路客流创下466万人次的单日发客量历史新高，较2025年5月1日创下的426.8万人次纪录，增长近40万人次。",
@@ -375,8 +426,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 2,
+    "comment_count": 6,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -398,9 +449,9 @@
     "raw_data": {
       "code": "202604043695618133",
       "image": [],
-      "pinglun_Num": 66,
+      "pinglun_Num": 72,
       "realSort": "1775309741018133",
-      "share": 25,
+      "share": 27,
       "showTime": "2026-04-04 21:35:41",
       "stockList": [],
       "summary": "【伊朗称动用新型防空系统击落美国战机】伊朗媒体4日报道，伊朗武装部队哈塔姆安比亚中央总部发言人说，伊朗伊斯兰革命卫队航空航天部队的新型防空系统成功击落了一架美国F－35战机、包括MQ－9和“赫尔墨斯”两种型号在内的3架无人机以及两枚巡航导弹，“这个星期五（4月3日），应称之为美国和以色列的黑色耻辱星期五”。",
@@ -414,8 +465,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 66,
-    "share_count": 25,
+    "comment_count": 72,
+    "share_count": 27,
     "tags": {
       "industries": [],
       "concepts": [
@@ -508,9 +559,9 @@
     "raw_data": {
       "code": "202604043695617984",
       "image": [],
-      "pinglun_Num": 516,
+      "pinglun_Num": 552,
       "realSort": "1775308214017984",
-      "share": 372,
+      "share": 379,
       "showTime": "2026-04-04 21:10:14",
       "stockList": [
         "90.BK0864",
@@ -530,8 +581,8 @@
       "90.BK0682"
     ],
     "has_stock_mention": true,
-    "comment_count": 516,
-    "share_count": 372,
+    "comment_count": 552,
+    "share_count": 379,
     "tags": {
       "industries": [],
       "concepts": [
@@ -561,7 +612,7 @@
     "raw_data": {
       "code": "202604043695616997",
       "image": [],
-      "pinglun_Num": 61,
+      "pinglun_Num": 63,
       "realSort": "1775307692016997",
       "share": 21,
       "showTime": "2026-04-04 21:01:32",
@@ -577,7 +628,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 61,
+    "comment_count": 63,
     "share_count": 21,
     "tags": {
       "industries": [],
@@ -698,7 +749,7 @@
     "raw_data": {
       "code": "202604043695616268",
       "image": [],
-      "pinglun_Num": 64,
+      "pinglun_Num": 66,
       "realSort": "1775306277016268",
       "share": 23,
       "showTime": "2026-04-04 20:37:57",
@@ -718,7 +769,7 @@
       "106.ORCL"
     ],
     "has_stock_mention": true,
-    "comment_count": 64,
+    "comment_count": 66,
     "share_count": 23,
     "tags": {
       "industries": [],
@@ -755,7 +806,7 @@
     "raw_data": {
       "code": "202604043695616089",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 26,
       "realSort": "1775305553016089",
       "share": 2,
       "showTime": "2026-04-04 20:25:53",
@@ -771,7 +822,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 23,
+    "comment_count": 26,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -945,7 +996,7 @@
     "raw_data": {
       "code": "202604043695603912",
       "image": [],
-      "pinglun_Num": 30,
+      "pinglun_Num": 31,
       "realSort": "1775303446003912",
       "share": 6,
       "showTime": "2026-04-04 19:50:46",
@@ -961,7 +1012,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 30,
+    "comment_count": 31,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -984,7 +1035,7 @@
     "raw_data": {
       "code": "202604043695601932",
       "image": [],
-      "pinglun_Num": 119,
+      "pinglun_Num": 122,
       "realSort": "1775303018001932",
       "share": 30,
       "showTime": "2026-04-04 19:43:38",
@@ -1000,7 +1051,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 119,
+    "comment_count": 122,
     "share_count": 30,
     "tags": {
       "industries": [
@@ -1216,7 +1267,7 @@
       "image": [],
       "pinglun_Num": 32,
       "realSort": "1775301194095796",
-      "share": 14,
+      "share": 17,
       "showTime": "2026-04-04 19:13:14",
       "stockList": [],
       "summary": "【土耳其两周用掉近120吨黄金】为应对中东冲突引发的能源供应短缺以及土耳其里拉贬值压力，土耳其黄金储备在过去两周大幅减少近120吨，为2013年有相关记录以来最大两周降幅。",
@@ -1231,7 +1282,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 32,
-    "share_count": 14,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1261,7 +1312,7 @@
     "raw_data": {
       "code": "202604043695594350",
       "image": [],
-      "pinglun_Num": 326,
+      "pinglun_Num": 330,
       "realSort": "1775301028094350",
       "share": 122,
       "showTime": "2026-04-04 19:10:28",
@@ -1277,7 +1328,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 326,
+    "comment_count": 330,
     "share_count": 122,
     "tags": {
       "industries": [],
@@ -1441,7 +1492,7 @@
       "image": [],
       "pinglun_Num": 26,
       "realSort": "1775299020090927",
-      "share": 35,
+      "share": 37,
       "showTime": "2026-04-04 18:37:00",
       "stockList": [
         "999.401651",
@@ -1462,7 +1513,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 26,
-    "share_count": 35,
+    "share_count": 37,
     "tags": {
       "industries": [
         {
@@ -1631,7 +1682,7 @@
     "raw_data": {
       "code": "202604043695589045",
       "image": [],
-      "pinglun_Num": 25,
+      "pinglun_Num": 27,
       "realSort": "1775297568089045",
       "share": 7,
       "showTime": "2026-04-04 18:12:48",
@@ -1647,7 +1698,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 25,
+    "comment_count": 27,
     "share_count": 7,
     "tags": {
       "industries": [],
@@ -1795,7 +1846,7 @@
     "raw_data": {
       "code": "202604043695587472",
       "image": [],
-      "pinglun_Num": 54,
+      "pinglun_Num": 55,
       "realSort": "1775295060087472",
       "share": 5,
       "showTime": "2026-04-04 17:31:00",
@@ -1811,7 +1862,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 54,
+    "comment_count": 55,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -2320,45 +2371,6 @@
       "concept_ids": [
         "C103"
       ]
-    }
-  },
-  {
-    "id": "9d24e83d4dee4771",
-    "code": "202604043695581832",
-    "title": "美以袭击伊朗石化经济特区已致至少5人受伤",
-    "summary": "【美以袭击伊朗石化经济特区已致至少5人受伤】总台记者获悉，美以4日袭击伊朗马赫沙赫尔石化经济特区，目前已造成至少5人受伤。",
-    "content": "【美以袭击伊朗石化经济特区已致至少5人受伤】总台记者获悉，美以4日袭击伊朗马赫沙赫尔石化经济特区，目前已造成至少5人受伤。",
-    "full_content": "【美以袭击伊朗石化经济特区已致至少5人受伤】总台记者获悉，美以4日袭击伊朗马赫沙赫尔石化经济特区，目前已造成至少5人受伤。",
-    "sort_time": "1775291421081832",
-    "showTime": "2026-04-04 16:30:21",
-    "time": "2026-04-04 16:30:21",
-    "publish_time": "2026-04-04 16:30:21",
-    "raw_data": {
-      "code": "202604043695581832",
-      "image": [],
-      "pinglun_Num": 32,
-      "realSort": "1775291421081832",
-      "share": 9,
-      "showTime": "2026-04-04 16:30:21",
-      "stockList": [],
-      "summary": "【美以袭击伊朗石化经济特区已致至少5人受伤】总台记者获悉，美以4日袭击伊朗马赫沙赫尔石化经济特区，目前已造成至少5人受伤。",
-      "title": "美以袭击伊朗石化经济特区已致至少5人受伤",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604043695581832.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 32,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
