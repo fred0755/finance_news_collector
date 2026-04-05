@@ -1,5 +1,56 @@
 [
   {
+    "id": "bb38754cf7b5bca7",
+    "code": "202604063695732031",
+    "title": "比特币升破69000美元",
+    "summary": "4月6日电，比特币升破69000美元，日内涨2.60%。",
+    "content": "4月6日电，比特币升破69000美元，日内涨2.60%。",
+    "full_content": "4月6日电，比特币升破69000美元，日内涨2.60%。",
+    "sort_time": "1775432604032031",
+    "showTime": "2026-04-06 07:43:24",
+    "time": "2026-04-06 07:43:24",
+    "publish_time": "2026-04-06 07:43:24",
+    "raw_data": {
+      "code": "202604063695732031",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1775432604032031",
+      "share": 2,
+      "showTime": "2026-04-06 07:43:24",
+      "stockList": [
+        "90.BK0830"
+      ],
+      "summary": "4月6日电，比特币升破69000美元，日内涨2.60%。",
+      "title": "比特币升破69000美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695732031.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0830"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C008",
+          "name": "区块链",
+          "matched_keyword": "比特币"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C008"
+      ]
+    }
+  },
+  {
     "id": "2a7b278b60951abb",
     "code": "202604063695726939",
     "title": "伊朗议会审议霍尔木兹海峡治理提案",
@@ -13,9 +64,9 @@
     "raw_data": {
       "code": "202604063695726939",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 20,
       "realSort": "1775430389026939",
-      "share": 2,
+      "share": 8,
       "showTime": "2026-04-06 07:06:29",
       "stockList": [],
       "summary": "【伊朗议会审议霍尔木兹海峡治理提案】据伊朗伊斯兰共和国通讯社5日报道，伊朗伊斯兰议会当天审议了关于霍尔木兹海峡治理的多份提案。",
@@ -29,8 +80,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 2,
+    "comment_count": 20,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -52,9 +103,9 @@
     "raw_data": {
       "code": "202604063695720713",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 5,
       "realSort": "1775430348020713",
-      "share": 1,
+      "share": 4,
       "showTime": "2026-04-06 07:05:48",
       "stockList": [
         "90.BK1032",
@@ -74,8 +125,8 @@
       "90.BK0595"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
+    "comment_count": 5,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -111,9 +162,9 @@
     "raw_data": {
       "code": "202604063695726218",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1775429494026218",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-06 06:51:34",
       "stockList": [],
       "summary": "【周一（4月6日）重点关注财经事件和经济数据】① 22:00 美国3月ISM非制造业PMI；② 22:00 美国3月全球供应链压力指数。",
@@ -127,8 +178,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -158,7 +209,7 @@
     "raw_data": {
       "code": "202604063695726133",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 4,
       "realSort": "1775429318026133",
       "share": 0,
       "showTime": "2026-04-06 06:48:38",
@@ -180,7 +231,7 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -299,9 +350,9 @@
     "raw_data": {
       "code": "202604063695725369",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1775427294025369",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-06 06:14:54",
       "stockList": [],
       "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
@@ -315,8 +366,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -401,7 +452,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1775427133024977",
-      "share": 5,
+      "share": 6,
       "showTime": "2026-04-06 06:12:13",
       "stockList": [
         "90.BK1361"
@@ -420,7 +471,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 5,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [
@@ -548,7 +599,7 @@
     "raw_data": {
       "code": "202604063695720812",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 16,
       "realSort": "1775426346020812",
       "share": 1,
       "showTime": "2026-04-06 05:59:06",
@@ -564,7 +615,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 16,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -630,9 +681,9 @@
     "raw_data": {
       "code": "202604063695720435",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 16,
       "realSort": "1775425453020435",
-      "share": 4,
+      "share": 10,
       "showTime": "2026-04-06 05:44:13",
       "stockList": [],
       "summary": "【过去24小时15艘船只获准通过霍尔木兹海峡】当地时间4月5日，总台记者获悉，霍尔木兹海峡船舶通行数据显示，过去24小时内，共有15艘船只在获得伊朗许可后通过该海峡。",
@@ -646,8 +697,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
-    "share_count": 4,
+    "comment_count": 16,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -669,9 +720,9 @@
     "raw_data": {
       "code": "202604063695720351",
       "image": [],
-      "pinglun_Num": 28,
+      "pinglun_Num": 30,
       "realSort": "1775424530020351",
-      "share": 13,
+      "share": 15,
       "showTime": "2026-04-06 05:28:50",
       "stockList": [],
       "summary": "【伊朗军方过去两天击落美军12架战机】当地时间4月5日，总台记者获悉，据伊朗方面消息，伊朗军方自4月3日以来击落12架美国各式战机。",
@@ -685,8 +736,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 28,
-    "share_count": 13,
+    "comment_count": 30,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -708,9 +759,9 @@
     "raw_data": {
       "code": "202604063695720216",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 17,
       "realSort": "1775424113020216",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-06 05:21:53",
       "stockList": [],
       "summary": "【伊朗常驻联合国代表团：特朗普企图将中东拖入无休止战争】据伊朗伊斯兰共和国通讯社5日报道，针对美国总统特朗普威胁摧毁伊朗电厂和桥梁等基础设施的言论，伊朗常驻联合国代表团表示特朗普企图将中东地区拖入无休止的战争。",
@@ -724,8 +775,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 4,
+    "comment_count": 17,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -747,9 +798,9 @@
     "raw_data": {
       "code": "202604053695707965",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 11,
       "realSort": "1775422949007965",
-      "share": 14,
+      "share": 17,
       "showTime": "2026-04-06 05:02:29",
       "stockList": [
         "90.BK1134",
@@ -769,8 +820,8 @@
       "999.532640"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 14,
+    "comment_count": 11,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [
@@ -812,9 +863,9 @@
     "raw_data": {
       "code": "202604063695720125",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 19,
       "realSort": "1775421742020125",
-      "share": 12,
+      "share": 15,
       "showTime": "2026-04-06 04:42:22",
       "stockList": [],
       "summary": "【伊朗革命卫队海军称准备在波斯湾建立“新秩序”】当地时间4月5日，伊朗伊斯兰革命卫队海军司令部表示，霍尔木兹海峡将永远不会回到以往局面了，特别是对美国和以色列来说。",
@@ -828,8 +879,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 12,
+    "comment_count": 19,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -851,7 +902,7 @@
     "raw_data": {
       "code": "202604063695720086",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1775420746020086",
       "share": 0,
       "showTime": "2026-04-06 04:25:46",
@@ -871,7 +922,7 @@
       "90.BK0577"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -902,9 +953,9 @@
     "raw_data": {
       "code": "202604063695719938",
       "image": [],
-      "pinglun_Num": 161,
+      "pinglun_Num": 226,
       "realSort": "1775420710019938",
-      "share": 85,
+      "share": 118,
       "showTime": "2026-04-06 04:25:10",
       "stockList": [],
       "summary": "【特朗普：与伊朗协议有望在7日最后期限前达成】当地时间4月5日，美国总统特朗普在接受采访时称，美国目前正与伊朗进行“深入谈判”，有望在其设定的4月7日最后期限到来之前达成协议。",
@@ -918,8 +969,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 161,
-    "share_count": 85,
+    "comment_count": 226,
+    "share_count": 118,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -980,7 +1031,7 @@
     "raw_data": {
       "code": "202604063695719789",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1775418307019789",
       "share": 2,
       "showTime": "2026-04-06 03:45:07",
@@ -996,7 +1047,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 7,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1119,7 +1170,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1775415492009289",
-      "share": 7,
+      "share": 9,
       "showTime": "2026-04-06 02:58:12",
       "stockList": [
         "90.BK0697",
@@ -1140,7 +1191,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 7,
+    "share_count": 9,
     "tags": {
       "industries": [
         {
@@ -1172,7 +1223,7 @@
     "raw_data": {
       "code": "202604063695719342",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 1,
       "realSort": "1775414544019342",
       "share": 3,
       "showTime": "2026-04-06 02:42:24",
@@ -1192,7 +1243,7 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 1,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1231,7 +1282,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1775413960017659",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-06 02:32:40",
       "stockList": [
         "0.300081"
@@ -1250,7 +1301,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1319,9 +1370,9 @@
     "raw_data": {
       "code": "202604063695719133",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 12,
       "realSort": "1775411168019133",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-06 01:46:08",
       "stockList": [],
       "summary": "【伊朗议会审议霍尔木兹海峡管理方案】当地时间4月5日，伊朗伊斯兰议会就霍尔木兹海峡管理方案展开审议。",
@@ -1335,8 +1386,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 4,
+    "comment_count": 12,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1358,9 +1409,9 @@
     "raw_data": {
       "code": "202604063695718942",
       "image": [],
-      "pinglun_Num": 26,
+      "pinglun_Num": 27,
       "realSort": "1775410903018942",
-      "share": 10,
+      "share": 13,
       "showTime": "2026-04-06 01:41:43",
       "stockList": [],
       "summary": "【伊朗最高领袖：将继续利用封锁霍尔木兹海峡这一战略杠杆】当地时间4月5日，伊朗最高领袖穆杰塔巴·哈梅内伊在社交媒体发文称，伊朗人民的意愿是继续开展有效的国土防御行动，同时，封锁霍尔木兹海峡这一战略杠杆也必须继续加以运用。",
@@ -1374,8 +1425,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 26,
-    "share_count": 10,
+    "comment_count": 27,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1397,9 +1448,9 @@
     "raw_data": {
       "code": "202604063695718878",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 34,
       "realSort": "1775410836018878",
-      "share": 23,
+      "share": 26,
       "showTime": "2026-04-06 01:40:36",
       "stockList": [],
       "summary": "【特朗普再延长最后期限】美国总统特朗普在社交媒体简短发帖称：“（美国）东部时间周二（4月7日）晚8点！”美媒称，这似乎是再次延长了他为伊朗设定的所谓“最后期限”。特朗普此前曾威胁称，如果伊朗不在美国东部时间4月6日晚8点前与美国达成协议或开放霍尔木兹海峡，美以将轰炸伊朗发电厂等基础设施。",
@@ -1413,8 +1464,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 29,
-    "share_count": 23,
+    "comment_count": 34,
+    "share_count": 26,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1436,7 +1487,7 @@
     "raw_data": {
       "code": "202604063695718720",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 14,
       "realSort": "1775410039018720",
       "share": 0,
       "showTime": "2026-04-06 01:27:19",
@@ -1456,7 +1507,7 @@
       "0.159891"
     ],
     "has_stock_mention": true,
-    "comment_count": 13,
+    "comment_count": 14,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1573,9 +1624,9 @@
     "raw_data": {
       "code": "202604063695718525",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 21,
       "realSort": "1775407823018525",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-06 00:50:23",
       "stockList": [],
       "summary": "【伊朗发动“真实承诺-4”第97波攻势】当地时间4月5日，伊朗伊斯兰革命卫队公共关系部发表声明说，伊朗发动“真实承诺-4”行动第97波攻势，开展大规模导弹与无人机联合打击，摧毁了美国和以色列在波斯湾周边国家的多个重要目标及相关资产。",
@@ -1589,8 +1640,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 4,
+    "comment_count": 21,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1603,6 +1654,69 @@
       "industry_ids": [],
       "concept_ids": [
         "C205"
+      ]
+    }
+  },
+  {
+    "id": "50b08ddf14a30d98",
+    "code": "202604053695703094",
+    "title": "期货公司2025年业绩出炉！净利最高超10亿",
+    "summary": "【期货公司2025年业绩出炉！净利最高超10亿】近日，南华期货、瑞达期货、弘业期货三家A股上市期货公司陆续披露2025年年报。此外，不少券商系期货公司的业绩也随母公司年报披露。",
+    "content": "【期货公司2025年业绩出炉！净利最高超10亿】近日，南华期货、瑞达期货、弘业期货三家A股上市期货公司陆续披露2025年年报。此外，不少券商系期货公司的业绩也随母公司年报披露。",
+    "full_content": "【期货公司2025年业绩出炉！净利最高超10亿】近日，南华期货、瑞达期货、弘业期货三家A股上市期货公司陆续披露2025年年报。此外，不少券商系期货公司的业绩也随母公司年报披露。",
+    "sort_time": "1775407556003094",
+    "showTime": "2026-04-06 00:45:56",
+    "time": "2026-04-06 00:45:56",
+    "publish_time": "2026-04-06 00:45:56",
+    "raw_data": {
+      "code": "202604053695703094",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775407556003094",
+      "share": 3,
+      "showTime": "2026-04-06 00:45:56",
+      "stockList": [
+        "90.BK1366",
+        "90.BK0473"
+      ],
+      "summary": "【期货公司2025年业绩出炉！净利最高超10亿】近日，南华期货、瑞达期货、弘业期货三家A股上市期货公司陆续披露2025年年报。此外，不少券商系期货公司的业绩也随母公司年报披露。",
+      "title": "期货公司2025年业绩出炉！净利最高超10亿",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604053695703094.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1366",
+      "90.BK0473"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "券商"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "券商"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
       ]
     }
   },
@@ -1620,9 +1734,9 @@
     "raw_data": {
       "code": "202604063695718461",
       "image": [],
-      "pinglun_Num": 301,
+      "pinglun_Num": 317,
       "realSort": "1775407125018461",
-      "share": 82,
+      "share": 88,
       "showTime": "2026-04-06 00:38:45",
       "stockList": [],
       "summary": "【特朗普：若伊朗未在7日晚前开放霍尔木兹海峡将打击其发电厂】当地时间4月5日，央视记者获悉，美国总统特朗普当天在接受采访时未给出结束对伊朗战争的时间表。特朗普表示，若伊朗未能在4月7日晚间之前开放霍尔木兹海峡，美国将把伊朗的发电厂列为打击目标。",
@@ -1636,8 +1750,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 301,
-    "share_count": 82,
+    "comment_count": 317,
+    "share_count": 88,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1659,7 +1773,7 @@
     "raw_data": {
       "code": "202604063695718334",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 24,
       "realSort": "1775406661018334",
       "share": 4,
       "showTime": "2026-04-06 00:31:01",
@@ -1675,7 +1789,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 22,
+    "comment_count": 24,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1755,6 +1869,151 @@
     "has_stock_mention": false,
     "comment_count": 21,
     "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d124ecdb50f7bb50",
+    "code": "202604053695687322",
+    "title": "冰火两重天！百亿量化阵营扩至61家！超额收益为何集体承压？",
+    "summary": "【冰火两重天！百亿量化阵营扩至61家！超额收益为何集体承压？】一方面，管理规模再度“狂飙”，百亿量化阵营扩容至61家，持续刷新历史纪录，整体管理规模（AUM）史无前例逼近2万亿元；另一方面，超额收益却骤然“降温”，在中东战事引发的全球金融动荡冲击下，曾经“点石成金”的量化模型正面临均值回归与策略拥挤的双重考验，部分机构年内已出现负超额甚至亏损。",
+    "content": "【冰火两重天！百亿量化阵营扩至61家！超额收益为何集体承压？】一方面，管理规模再度“狂飙”，百亿量化阵营扩容至61家，持续刷新历史纪录，整体管理规模（AUM）史无前例逼近2万亿元；另一方面，超额收益却骤然“降温”，在中东战事引发的全球金融动荡冲击下，曾经“点石成金”的量化模型正面临均值回归与策略拥挤的双重考验，部分机构年内已出现负超额甚至亏损。",
+    "full_content": "【冰火两重天！百亿量化阵营扩至61家！超额收益为何集体承压？】一方面，管理规模再度“狂飙”，百亿量化阵营扩容至61家，持续刷新历史纪录，整体管理规模（AUM）史无前例逼近2万亿元；另一方面，超额收益却骤然“降温”，在中东战事引发的全球金融动荡冲击下，曾经“点石成金”的量化模型正面临均值回归与策略拥挤的双重考验，部分机构年内已出现负超额甚至亏损。",
+    "sort_time": "1775405640087322",
+    "showTime": "2026-04-06 00:14:00",
+    "time": "2026-04-06 00:14:00",
+    "publish_time": "2026-04-06 00:14:00",
+    "raw_data": {
+      "code": "202604053695687322",
+      "image": [],
+      "pinglun_Num": 46,
+      "realSort": "1775405640087322",
+      "share": 37,
+      "showTime": "2026-04-06 00:14:00",
+      "stockList": [
+        "90.BK0701",
+        "0.159982"
+      ],
+      "summary": "【冰火两重天！百亿量化阵营扩至61家！超额收益为何集体承压？】一方面，管理规模再度“狂飙”，百亿量化阵营扩容至61家，持续刷新历史纪录，整体管理规模（AUM）史无前例逼近2万亿元；另一方面，超额收益却骤然“降温”，在中东战事引发的全球金融动荡冲击下，曾经“点石成金”的量化模型正面临均值回归与策略拥挤的双重考验，部分机构年内已出现负超额甚至亏损。",
+      "title": "冰火两重天！百亿量化阵营扩至61家！超额收益为何集体承压？",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604053695687322.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0701",
+      "0.159982"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 46,
+    "share_count": 37,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f55bdeb4d600991d",
+    "code": "202604053695698220",
+    "title": "杀疯了！量化基金集体狂飙 四家“顶流”私募规模均超800亿元 百亿级已超50家 谁在投资？",
+    "summary": "【杀疯了！量化基金集体狂飙 四家“顶流”私募规模均超800亿元 百亿级已超50家 谁在投资？】2026年一季度，量化私募行业上演硬核跃迁：幻方、九坤、明汯、衍复四家进入800亿元~900亿元区间，千亿大厂似乎已不再遥远；鸣石、乾象、龙旗等多家机构更是连跨两至三级，梯队洗牌凶猛。公开数据显示，截至今年一季度末，规模超过100亿元的量化私募已经超过50家。",
+    "content": "【杀疯了！量化基金集体狂飙 四家“顶流”私募规模均超800亿元 百亿级已超50家 谁在投资？】2026年一季度，量化私募行业上演硬核跃迁：幻方、九坤、明汯、衍复四家进入800亿元~900亿元区间，千亿大厂似乎已不再遥远；鸣石、乾象、龙旗等多家机构更是连跨两至三级，梯队洗牌凶猛。公开数据显示，截至今年一季度末，规模超过100亿元的量化私募已经超过50家。",
+    "full_content": "【杀疯了！量化基金集体狂飙 四家“顶流”私募规模均超800亿元 百亿级已超50家 谁在投资？】2026年一季度，量化私募行业上演硬核跃迁：幻方、九坤、明汯、衍复四家进入800亿元~900亿元区间，千亿大厂似乎已不再遥远；鸣石、乾象、龙旗等多家机构更是连跨两至三级，梯队洗牌凶猛。公开数据显示，截至今年一季度末，规模超过100亿元的量化私募已经超过50家。",
+    "sort_time": "1775405051098220",
+    "showTime": "2026-04-06 00:04:11",
+    "time": "2026-04-06 00:04:11",
+    "publish_time": "2026-04-06 00:04:11",
+    "raw_data": {
+      "code": "202604053695698220",
+      "image": [],
+      "pinglun_Num": 98,
+      "realSort": "1775405051098220",
+      "share": 83,
+      "showTime": "2026-04-06 00:04:11",
+      "stockList": [
+        "90.BK1366",
+        "90.BK0473"
+      ],
+      "summary": "【杀疯了！量化基金集体狂飙 四家“顶流”私募规模均超800亿元 百亿级已超50家 谁在投资？】2026年一季度，量化私募行业上演硬核跃迁：幻方、九坤、明汯、衍复四家进入800亿元~900亿元区间，千亿大厂似乎已不再遥远；鸣石、乾象、龙旗等多家机构更是连跨两至三级，梯队洗牌凶猛。公开数据显示，截至今年一季度末，规模超过100亿元的量化私募已经超过50家。",
+      "title": "杀疯了！量化基金集体狂飙 四家“顶流”私募规模均超800亿元 百亿级已超50家 谁在投资？",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604053695698220.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1366",
+      "90.BK0473"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 98,
+    "share_count": 83,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "私募"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8a7aa4b7fc2f082f",
+    "code": "202604053695688449",
+    "title": "上海楼市“金三”行情强势兑现：二手房量价齐升、新房复苏提速",
+    "summary": "【上海楼市“金三”行情强势兑现：二手房量价齐升、新房复苏提速】“沪七条”落地后，3月上海楼市迎来成色十足的“小阳春”：多个新房项目客流与成交显著改善，二手房市场表现尤为亮眼，以31215套的成交量创下近5年新高、近10年同期第二高纪录，价格更终结了长达33个月的下跌态势。",
+    "content": "【上海楼市“金三”行情强势兑现：二手房量价齐升、新房复苏提速】“沪七条”落地后，3月上海楼市迎来成色十足的“小阳春”：多个新房项目客流与成交显著改善，二手房市场表现尤为亮眼，以31215套的成交量创下近5年新高、近10年同期第二高纪录，价格更终结了长达33个月的下跌态势。",
+    "full_content": "【上海楼市“金三”行情强势兑现：二手房量价齐升、新房复苏提速】“沪七条”落地后，3月上海楼市迎来成色十足的“小阳春”：多个新房项目客流与成交显著改善，二手房市场表现尤为亮眼，以31215套的成交量创下近5年新高、近10年同期第二高纪录，价格更终结了长达33个月的下跌态势。",
+    "sort_time": "1775405040088449",
+    "showTime": "2026-04-06 00:04:00",
+    "time": "2026-04-06 00:04:00",
+    "publish_time": "2026-04-06 00:04:00",
+    "raw_data": {
+      "code": "202604053695688449",
+      "image": [],
+      "pinglun_Num": 51,
+      "realSort": "1775405040088449",
+      "share": 16,
+      "showTime": "2026-04-06 00:04:00",
+      "stockList": [
+        "90.BK1045",
+        "90.BK0451"
+      ],
+      "summary": "【上海楼市“金三”行情强势兑现：二手房量价齐升、新房复苏提速】“沪七条”落地后，3月上海楼市迎来成色十足的“小阳春”：多个新房项目客流与成交显著改善，二手房市场表现尤为亮眼，以31215套的成交量创下近5年新高、近10年同期第二高纪录，价格更终结了长达33个月的下跌态势。",
+      "title": "上海楼市“金三”行情强势兑现：二手房量价齐升、新房复苏提速",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604053695688449.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1045",
+      "90.BK0451"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 51,
+    "share_count": 16,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1892,69 +2151,6 @@
     }
   },
   {
-    "id": "1b2a82487c08a745",
-    "code": "202604053695703094",
-    "title": "期货公司2025年业绩出炉！净利最高超10亿",
-    "summary": "【期货公司2025年业绩出炉！净利最高超10亿】近日，南华期货、瑞达期货、弘业期货三家A股上市期货公司陆续披露2025年年报。此外，不少券商系期货公司的业绩也随母公司年报披露。",
-    "content": "【期货公司2025年业绩出炉！净利最高超10亿】近日，南华期货、瑞达期货、弘业期货三家A股上市期货公司陆续披露2025年年报。此外，不少券商系期货公司的业绩也随母公司年报披露。",
-    "full_content": "【期货公司2025年业绩出炉！净利最高超10亿】近日，南华期货、瑞达期货、弘业期货三家A股上市期货公司陆续披露2025年年报。此外，不少券商系期货公司的业绩也随母公司年报披露。",
-    "sort_time": "1775403956003094",
-    "showTime": "2026-04-05 23:45:56",
-    "time": "2026-04-05 23:45:56",
-    "publish_time": "2026-04-05 23:45:56",
-    "raw_data": {
-      "code": "202604053695703094",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1775403956003094",
-      "share": 3,
-      "showTime": "2026-04-05 23:45:56",
-      "stockList": [
-        "90.BK1366",
-        "90.BK0473"
-      ],
-      "summary": "【期货公司2025年业绩出炉！净利最高超10亿】近日，南华期货、瑞达期货、弘业期货三家A股上市期货公司陆续披露2025年年报。此外，不少券商系期货公司的业绩也随母公司年报披露。",
-      "title": "期货公司2025年业绩出炉！净利最高超10亿",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695703094.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1366",
-      "90.BK0473"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "券商"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "券商"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401"
-      ]
-    }
-  },
-  {
     "id": "507b37e8e841dcee",
     "code": "202604053695716549",
     "title": "伊朗军队称对以色列及美国驻科威特军事目标实施无人机打击",
@@ -2072,9 +2268,9 @@
     "raw_data": {
       "code": "202604053695716245",
       "image": [],
-      "pinglun_Num": 671,
+      "pinglun_Num": 688,
       "realSort": "1775402013016245",
-      "share": 324,
+      "share": 330,
       "showTime": "2026-04-05 23:13:33",
       "stockList": [],
       "summary": "伊官员提开放霍尔木兹海峡条件：先用过往船税补偿伊朗战争损失。",
@@ -2088,189 +2284,13 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 671,
-    "share_count": 324,
+    "comment_count": 688,
+    "share_count": 330,
     "tags": {
       "industries": [],
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "e5079212306bd956",
-    "code": "202604053695715856",
-    "title": "特朗普称对救美飞行员结果满意",
-    "summary": "【特朗普称对救美飞行员结果满意】据以色列第12频道电视台今天（4月5日）报道，美国总统特朗普在接受采访时谈到了“在伊朗营救美方飞行员”一事，称对结果“非常满意”。据他说，“以色列给美国提供了一点帮助，行动主要是由美方完成的，但也有以色列的协助——以色列与美国配合得很好，双方的关系就像‘大哥和小弟’一样。”",
-    "content": "【特朗普称对救美飞行员结果满意】据以色列第12频道电视台今天（4月5日）报道，美国总统特朗普在接受采访时谈到了“在伊朗营救美方飞行员”一事，称对结果“非常满意”。据他说，“以色列给美国提供了一点帮助，行动主要是由美方完成的，但也有以色列的协助——以色列与美国配合得很好，双方的关系就像‘大哥和小弟’一样。”",
-    "full_content": "【特朗普称对救美飞行员结果满意】据以色列第12频道电视台今天（4月5日）报道，美国总统特朗普在接受采访时谈到了“在伊朗营救美方飞行员”一事，称对结果“非常满意”。据他说，“以色列给美国提供了一点帮助，行动主要是由美方完成的，但也有以色列的协助——以色列与美国配合得很好，双方的关系就像‘大哥和小弟’一样。”",
-    "sort_time": "1775401607015856",
-    "showTime": "2026-04-05 23:06:47",
-    "time": "2026-04-05 23:06:47",
-    "publish_time": "2026-04-05 23:06:47",
-    "raw_data": {
-      "code": "202604053695715856",
-      "image": [],
-      "pinglun_Num": 36,
-      "realSort": "1775401607015856",
-      "share": 12,
-      "showTime": "2026-04-05 23:06:47",
-      "stockList": [],
-      "summary": "【特朗普称对救美飞行员结果满意】据以色列第12频道电视台今天（4月5日）报道，美国总统特朗普在接受采访时谈到了“在伊朗营救美方飞行员”一事，称对结果“非常满意”。据他说，“以色列给美国提供了一点帮助，行动主要是由美方完成的，但也有以色列的协助——以色列与美国配合得很好，双方的关系就像‘大哥和小弟’一样。”",
-      "title": "特朗普称对救美飞行员结果满意",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695715856.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 36,
-    "share_count": 12,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ea55f0a2a85f1112",
-    "code": "202604053695715730",
-    "title": "伊朗第一副总统说特朗普仍停留在“石器时代”",
-    "summary": "【伊朗第一副总统说特朗普仍停留在“石器时代”】据伊朗伊斯兰共和国通讯社5日报道，伊朗第一副总统阿雷夫在社交媒体上发文说，以牺牲美国人民福祉为代价去威胁他国，美国总统特朗普仍停留在“石器时代”。",
-    "content": "【伊朗第一副总统说特朗普仍停留在“石器时代”】据伊朗伊斯兰共和国通讯社5日报道，伊朗第一副总统阿雷夫在社交媒体上发文说，以牺牲美国人民福祉为代价去威胁他国，美国总统特朗普仍停留在“石器时代”。",
-    "full_content": "【伊朗第一副总统说特朗普仍停留在“石器时代”】据伊朗伊斯兰共和国通讯社5日报道，伊朗第一副总统阿雷夫在社交媒体上发文说，以牺牲美国人民福祉为代价去威胁他国，美国总统特朗普仍停留在“石器时代”。",
-    "sort_time": "1775401393015730",
-    "showTime": "2026-04-05 23:03:13",
-    "time": "2026-04-05 23:03:13",
-    "publish_time": "2026-04-05 23:03:13",
-    "raw_data": {
-      "code": "202604053695715730",
-      "image": [],
-      "pinglun_Num": 24,
-      "realSort": "1775401393015730",
-      "share": 2,
-      "showTime": "2026-04-05 23:03:13",
-      "stockList": [],
-      "summary": "【伊朗第一副总统说特朗普仍停留在“石器时代”】据伊朗伊斯兰共和国通讯社5日报道，伊朗第一副总统阿雷夫在社交媒体上发文说，以牺牲美国人民福祉为代价去威胁他国，美国总统特朗普仍停留在“石器时代”。",
-      "title": "伊朗第一副总统说特朗普仍停留在“石器时代”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695715730.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 24,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a714fcf8d7b4d62a",
-    "code": "202604053695715640",
-    "title": "一货船在亚速海遭无人机袭击致2人死亡",
-    "summary": "【一货船在亚速海遭无人机袭击致2人死亡】据俄罗斯紧急情况部门消息，一艘载有小麦的干货船5日在亚速海海域遭无人机袭击后沉没，事故目前已造成2人死亡。",
-    "content": "【一货船在亚速海遭无人机袭击致2人死亡】据俄罗斯紧急情况部门消息，一艘载有小麦的干货船5日在亚速海海域遭无人机袭击后沉没，事故目前已造成2人死亡。",
-    "full_content": "【一货船在亚速海遭无人机袭击致2人死亡】据俄罗斯紧急情况部门消息，一艘载有小麦的干货船5日在亚速海海域遭无人机袭击后沉没，事故目前已造成2人死亡。",
-    "sort_time": "1775400912015640",
-    "showTime": "2026-04-05 22:55:12",
-    "time": "2026-04-05 22:55:12",
-    "publish_time": "2026-04-05 22:55:12",
-    "raw_data": {
-      "code": "202604053695715640",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1775400912015640",
-      "share": 1,
-      "showTime": "2026-04-05 22:55:12",
-      "stockList": [
-        "90.BK0704"
-      ],
-      "summary": "【一货船在亚速海遭无人机袭击致2人死亡】据俄罗斯紧急情况部门消息，一艘载有小麦的干货船5日在亚速海海域遭无人机袭击后沉没，事故目前已造成2人死亡。",
-      "title": "一货船在亚速海遭无人机袭击致2人死亡",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695715640.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0704"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "1b4f3b9e448acdd4",
-    "code": "202604053695715265",
-    "title": "匈牙利将军事保护“土耳其溪”天然气管道匈牙利段",
-    "summary": "【匈牙利将军事保护“土耳其溪”天然气管道匈牙利段】匈牙利外长西雅尔多当地时间5日在布达佩斯表示，鉴于针对“土耳其溪”天然气管道的袭击愈加频繁，匈牙利将军事保护“土耳其溪”天然气管道匈牙利段，包括从塞尔维亚—匈牙利边境到斯洛伐克—匈牙利边境。",
-    "content": "【匈牙利将军事保护“土耳其溪”天然气管道匈牙利段】匈牙利外长西雅尔多当地时间5日在布达佩斯表示，鉴于针对“土耳其溪”天然气管道的袭击愈加频繁，匈牙利将军事保护“土耳其溪”天然气管道匈牙利段，包括从塞尔维亚—匈牙利边境到斯洛伐克—匈牙利边境。",
-    "full_content": "【匈牙利将军事保护“土耳其溪”天然气管道匈牙利段】匈牙利外长西雅尔多当地时间5日在布达佩斯表示，鉴于针对“土耳其溪”天然气管道的袭击愈加频繁，匈牙利将军事保护“土耳其溪”天然气管道匈牙利段，包括从塞尔维亚—匈牙利边境到斯洛伐克—匈牙利边境。",
-    "sort_time": "1775400222015265",
-    "showTime": "2026-04-05 22:43:42",
-    "time": "2026-04-05 22:43:42",
-    "publish_time": "2026-04-05 22:43:42",
-    "raw_data": {
-      "code": "202604053695715265",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1775400222015265",
-      "share": 2,
-      "showTime": "2026-04-05 22:43:42",
-      "stockList": [],
-      "summary": "【匈牙利将军事保护“土耳其溪”天然气管道匈牙利段】匈牙利外长西雅尔多当地时间5日在布达佩斯表示，鉴于针对“土耳其溪”天然气管道的袭击愈加频繁，匈牙利将军事保护“土耳其溪”天然气管道匈牙利段，包括从塞尔维亚—匈牙利边境到斯洛伐克—匈牙利边境。",
-      "title": "匈牙利将军事保护“土耳其溪”天然气管道匈牙利段",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695715265.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
     }
   }
 ]
