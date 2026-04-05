@@ -1,5 +1,336 @@
 [
   {
+    "id": "54e0a908387a6e7c",
+    "code": "202604063695725369",
+    "title": "美联储4月维持利率不变的概率为98.4%",
+    "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
+    "content": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
+    "full_content": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
+    "sort_time": "1775427294025369",
+    "showTime": "2026-04-06 06:14:54",
+    "time": "2026-04-06 06:14:54",
+    "publish_time": "2026-04-06 06:14:54",
+    "raw_data": {
+      "code": "202604063695725369",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775427294025369",
+      "share": 0,
+      "showTime": "2026-04-06 06:14:54",
+      "stockList": [],
+      "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
+      "title": "美联储4月维持利率不变的概率为98.4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695725369.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "降息"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "降息"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "a8b74ff86fe00bc8",
+    "code": "202604063695725046",
+    "title": "现货白银日内跌幅扩大至2%",
+    "summary": "现货白银日内跌幅扩大至2%，报71.42美元/盎司。",
+    "content": "现货白银日内跌幅扩大至2%，报71.42美元/盎司。",
+    "full_content": "现货白银日内跌幅扩大至2%，报71.42美元/盎司。",
+    "sort_time": "1775427175025046",
+    "showTime": "2026-04-06 06:12:55",
+    "time": "2026-04-06 06:12:55",
+    "publish_time": "2026-04-06 06:12:55",
+    "raw_data": {
+      "code": "202604063695725046",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775427175025046",
+      "share": 0,
+      "showTime": "2026-04-06 06:12:55",
+      "stockList": [
+        "90.BK1616"
+      ],
+      "summary": "现货白银日内跌幅扩大至2%，报71.42美元/盎司。",
+      "title": "现货白银日内跌幅扩大至2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695725046.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1616"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8a5f66d58338667d",
+    "code": "202604063695724977",
+    "title": "WTI原油期货涨幅扩大至3%",
+    "summary": "WTI原油期货涨幅扩大至3%，报114.964美元/桶。",
+    "content": "WTI原油期货涨幅扩大至3%，报114.964美元/桶。",
+    "full_content": "WTI原油期货涨幅扩大至3%，报114.964美元/桶。",
+    "sort_time": "1775427133024977",
+    "showTime": "2026-04-06 06:12:13",
+    "time": "2026-04-06 06:12:13",
+    "publish_time": "2026-04-06 06:12:13",
+    "raw_data": {
+      "code": "202604063695724977",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775427133024977",
+      "share": 1,
+      "showTime": "2026-04-06 06:12:13",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "WTI原油期货涨幅扩大至3%，报114.964美元/桶。",
+      "title": "WTI原油期货涨幅扩大至3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695724977.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "f77afeb6d3f980b0",
+    "code": "202604063695724865",
+    "title": "现货钯金向下触及1500美元/盎司 日内跌1.02%",
+    "summary": "现货钯金向下触及1500美元/盎司，日内跌1.02%。",
+    "content": "现货钯金向下触及1500美元/盎司，日内跌1.02%。",
+    "full_content": "现货钯金向下触及1500美元/盎司，日内跌1.02%。",
+    "sort_time": "1775427072024865",
+    "showTime": "2026-04-06 06:11:12",
+    "time": "2026-04-06 06:11:12",
+    "publish_time": "2026-04-06 06:11:12",
+    "raw_data": {
+      "code": "202604063695724865",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775427072024865",
+      "share": 0,
+      "showTime": "2026-04-06 06:11:12",
+      "stockList": [],
+      "summary": "现货钯金向下触及1500美元/盎司，日内跌1.02%。",
+      "title": "现货钯金向下触及1500美元/盎司 日内跌1.02%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695724865.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c58187df996d690f",
+    "code": "202604063695724662",
+    "title": "美油高开超1% 黄金、白银、美股期指走低",
+    "summary": "【美油高开超1% 黄金、白银、美股期指走低】特朗普再次威胁伊朗打开霍尔木兹海峡，国际油价早盘冲高，WTI原油涨1.39%，报113.089美元/桶。国际贵金属下挫，现货黄金跌破4640美元/盎司，日内跌0.80%；现货白银跌1%，报72.07美元/盎司。美股期指走低，道琼斯指数期货跌0.38%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.37%。",
+    "content": "【美油高开超1% 黄金、白银、美股期指走低】特朗普再次威胁伊朗打开霍尔木兹海峡，国际油价早盘冲高，WTI原油涨1.39%，报113.089美元/桶。国际贵金属下挫，现货黄金跌破4640美元/盎司，日内跌0.80%；现货白银跌1%，报72.07美元/盎司。美股期指走低，道琼斯指数期货跌0.38%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.37%。",
+    "full_content": "【美油高开超1% 黄金、白银、美股期指走低】特朗普再次威胁伊朗打开霍尔木兹海峡，国际油价早盘冲高，WTI原油涨1.39%，报113.089美元/桶。国际贵金属下挫，现货黄金跌破4640美元/盎司，日内跌0.80%；现货白银跌1%，报72.07美元/盎司。美股期指走低，道琼斯指数期货跌0.38%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.37%。",
+    "sort_time": "1775426715024662",
+    "showTime": "2026-04-06 06:05:15",
+    "time": "2026-04-06 06:05:15",
+    "publish_time": "2026-04-06 06:05:15",
+    "raw_data": {
+      "code": "202604063695724662",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775426715024662",
+      "share": 2,
+      "showTime": "2026-04-06 06:05:15",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "【美油高开超1% 黄金、白银、美股期指走低】特朗普再次威胁伊朗打开霍尔木兹海峡，国际油价早盘冲高，WTI原油涨1.39%，报113.089美元/桶。国际贵金属下挫，现货黄金跌破4640美元/盎司，日内跌0.80%；现货白银跌1%，报72.07美元/盎司。美股期指走低，道琼斯指数期货跌0.38%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.37%。",
+      "title": "美油高开超1% 黄金、白银、美股期指走低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695724662.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502",
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "1761da3f32d6b5d1",
+    "code": "202604063695720812",
+    "title": "俄伊外长通电话 呼吁通过政治外交手段化解危机",
+    "summary": "【俄伊外长通电话 呼吁通过政治外交手段化解危机】据俄罗斯外交部5日通报，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐当天通电话，双方呼吁相关方面勿破坏通过政治外交手段化解危机的机会。",
+    "content": "【俄伊外长通电话 呼吁通过政治外交手段化解危机】据俄罗斯外交部5日通报，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐当天通电话，双方呼吁相关方面勿破坏通过政治外交手段化解危机的机会。",
+    "full_content": "【俄伊外长通电话 呼吁通过政治外交手段化解危机】据俄罗斯外交部5日通报，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐当天通电话，双方呼吁相关方面勿破坏通过政治外交手段化解危机的机会。",
+    "sort_time": "1775426346020812",
+    "showTime": "2026-04-06 05:59:06",
+    "time": "2026-04-06 05:59:06",
+    "publish_time": "2026-04-06 05:59:06",
+    "raw_data": {
+      "code": "202604063695720812",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775426346020812",
+      "share": 1,
+      "showTime": "2026-04-06 05:59:06",
+      "stockList": [],
+      "summary": "【俄伊外长通电话 呼吁通过政治外交手段化解危机】据俄罗斯外交部5日通报，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐当天通电话，双方呼吁相关方面勿破坏通过政治外交手段化解危机的机会。",
+      "title": "俄伊外长通电话 呼吁通过政治外交手段化解危机",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695720812.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e5105bc65009d84b",
+    "code": "202604063695720537",
+    "title": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士",
+    "summary": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士。",
+    "content": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士。",
+    "full_content": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士。",
+    "sort_time": "1775426204020537",
+    "showTime": "2026-04-06 05:56:44",
+    "time": "2026-04-06 05:56:44",
+    "publish_time": "2026-04-06 05:56:44",
+    "raw_data": {
+      "code": "202604063695720537",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775426204020537",
+      "share": 0,
+      "showTime": "2026-04-06 05:56:44",
+      "stockList": [
+        "150.011668"
+      ],
+      "summary": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士。",
+      "title": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695720537.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.011668"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "8d4c5cb47127152a",
     "code": "202604063695720435",
     "title": "过去24小时15艘船只获准通过霍尔木兹海峡",
@@ -13,9 +344,9 @@
     "raw_data": {
       "code": "202604063695720435",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 8,
       "realSort": "1775425453020435",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-04-06 05:44:13",
       "stockList": [],
       "summary": "【过去24小时15艘船只获准通过霍尔木兹海峡】当地时间4月5日，总台记者获悉，霍尔木兹海峡船舶通行数据显示，过去24小时内，共有15艘船只在获得伊朗许可后通过该海峡。",
@@ -29,8 +360,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 8,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -52,9 +383,9 @@
     "raw_data": {
       "code": "202604063695720351",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 11,
       "realSort": "1775424530020351",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-06 05:28:50",
       "stockList": [],
       "summary": "【伊朗军方过去两天击落美军12架战机】当地时间4月5日，总台记者获悉，据伊朗方面消息，伊朗军方自4月3日以来击落12架美国各式战机。",
@@ -68,8 +399,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
+    "comment_count": 11,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -91,7 +422,7 @@
     "raw_data": {
       "code": "202604063695720216",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 4,
       "realSort": "1775424113020216",
       "share": 0,
       "showTime": "2026-04-06 05:21:53",
@@ -107,7 +438,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -130,9 +461,9 @@
     "raw_data": {
       "code": "202604053695707965",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 8,
       "realSort": "1775422949007965",
-      "share": 8,
+      "share": 11,
       "showTime": "2026-04-06 05:02:29",
       "stockList": [
         "90.BK1134",
@@ -152,8 +483,8 @@
       "999.532640"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 8,
+    "comment_count": 8,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [
@@ -197,7 +528,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1775421742020125",
-      "share": 2,
+      "share": 5,
       "showTime": "2026-04-06 04:42:22",
       "stockList": [],
       "summary": "【伊朗革命卫队海军称准备在波斯湾建立“新秩序”】当地时间4月5日，伊朗伊斯兰革命卫队海军司令部表示，霍尔木兹海峡将永远不会回到以往局面了，特别是对美国和以色列来说。",
@@ -212,7 +543,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 4,
-    "share_count": 2,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -285,9 +616,9 @@
     "raw_data": {
       "code": "202604063695719938",
       "image": [],
-      "pinglun_Num": 27,
+      "pinglun_Num": 34,
       "realSort": "1775420710019938",
-      "share": 4,
+      "share": 8,
       "showTime": "2026-04-06 04:25:10",
       "stockList": [],
       "summary": "【特朗普：与伊朗协议有望在7日最后期限前达成】当地时间4月5日，美国总统特朗普在接受采访时称，美国目前正与伊朗进行“深入谈判”，有望在其设定的4月7日最后期限到来之前达成协议。",
@@ -301,8 +632,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 27,
-    "share_count": 4,
+    "comment_count": 34,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -326,7 +657,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1775419282019850",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-06 04:01:22",
       "stockList": [],
       "summary": "【陕西汉中市勉县发生3.9级地震 震源深度27千米】中国地震台网正式测定：4月6日2时32分在陕西汉中市勉县（北纬33.20度，东经106.57度）发生3.9级地震，震源深度27千米。",
@@ -341,7 +672,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -365,7 +696,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1775418307019789",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-06 03:45:07",
       "stockList": [],
       "summary": "【8个产油国决定自5月起将原油日产量上调20.6万桶】当地时间4月5日，石油输出国组织与非OPEC产油国组成的“OPEC+”中8个成员国举行会议，决定自2026年5月起将原油日产量上调20.6万桶，延续此前逐步退出自愿减产的安排。",
@@ -380,7 +711,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 4,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -612,7 +943,7 @@
     "raw_data": {
       "code": "202604053695717659",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1775413960017659",
       "share": 0,
       "showTime": "2026-04-06 02:32:40",
@@ -632,7 +963,7 @@
       "0.300081"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -663,7 +994,7 @@
     "raw_data": {
       "code": "202604063695719291",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1775412805019291",
       "share": 1,
       "showTime": "2026-04-06 02:13:25",
@@ -679,7 +1010,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -741,7 +1072,7 @@
     "raw_data": {
       "code": "202604063695718942",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 22,
       "realSort": "1775410903018942",
       "share": 7,
       "showTime": "2026-04-06 01:41:43",
@@ -757,7 +1088,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 21,
+    "comment_count": 22,
     "share_count": 7,
     "tags": {
       "industries": [],
@@ -956,9 +1287,9 @@
     "raw_data": {
       "code": "202604063695718525",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 17,
       "realSort": "1775407823018525",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-06 00:50:23",
       "stockList": [],
       "summary": "【伊朗发动“真实承诺-4”第97波攻势】当地时间4月5日，伊朗伊斯兰革命卫队公共关系部发表声明说，伊朗发动“真实承诺-4”行动第97波攻势，开展大规模导弹与无人机联合打击，摧毁了美国和以色列在波斯湾周边国家的多个重要目标及相关资产。",
@@ -972,8 +1303,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
-    "share_count": 2,
+    "comment_count": 17,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1003,9 +1334,9 @@
     "raw_data": {
       "code": "202604063695718461",
       "image": [],
-      "pinglun_Num": 212,
+      "pinglun_Num": 231,
       "realSort": "1775407125018461",
-      "share": 52,
+      "share": 58,
       "showTime": "2026-04-06 00:38:45",
       "stockList": [],
       "summary": "【特朗普：若伊朗未在7日晚前开放霍尔木兹海峡将打击其发电厂】当地时间4月5日，央视记者获悉，美国总统特朗普当天在接受采访时未给出结束对伊朗战争的时间表。特朗普表示，若伊朗未能在4月7日晚间之前开放霍尔木兹海峡，美国将把伊朗的发电厂列为打击目标。",
@@ -1019,8 +1350,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 212,
-    "share_count": 52,
+    "comment_count": 231,
+    "share_count": 58,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1159,7 +1490,7 @@
     "raw_data": {
       "code": "202604053695717458",
       "image": [],
-      "pinglun_Num": 30,
+      "pinglun_Num": 34,
       "realSort": "1775404765017458",
       "share": 7,
       "showTime": "2026-04-05 23:59:25",
@@ -1175,7 +1506,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 30,
+    "comment_count": 34,
     "share_count": 7,
     "tags": {
       "industries": [],
@@ -1198,7 +1529,7 @@
     "raw_data": {
       "code": "202604053695717384",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1775404600017384",
       "share": 0,
       "showTime": "2026-04-05 23:56:40",
@@ -1218,7 +1549,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1404,7 +1735,7 @@
     "raw_data": {
       "code": "202604053695716359",
       "image": [],
-      "pinglun_Num": 128,
+      "pinglun_Num": 129,
       "realSort": "1775402053016359",
       "share": 63,
       "showTime": "2026-04-05 23:14:13",
@@ -1424,7 +1755,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 128,
+    "comment_count": 129,
     "share_count": 63,
     "tags": {
       "industries": [],
@@ -1455,9 +1786,9 @@
     "raw_data": {
       "code": "202604053695716245",
       "image": [],
-      "pinglun_Num": 583,
+      "pinglun_Num": 604,
       "realSort": "1775402013016245",
-      "share": 302,
+      "share": 305,
       "showTime": "2026-04-05 23:13:33",
       "stockList": [],
       "summary": "伊官员提开放霍尔木兹海峡条件：先用过往船税补偿伊朗战争损失。",
@@ -1471,8 +1802,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 583,
-    "share_count": 302,
+    "comment_count": 604,
+    "share_count": 305,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1494,7 +1825,7 @@
     "raw_data": {
       "code": "202604053695715856",
       "image": [],
-      "pinglun_Num": 34,
+      "pinglun_Num": 35,
       "realSort": "1775401607015856",
       "share": 12,
       "showTime": "2026-04-05 23:06:47",
@@ -1510,7 +1841,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 34,
+    "comment_count": 35,
     "share_count": 12,
     "tags": {
       "industries": [],
@@ -1533,7 +1864,7 @@
     "raw_data": {
       "code": "202604053695715730",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 23,
       "realSort": "1775401393015730",
       "share": 2,
       "showTime": "2026-04-05 23:03:13",
@@ -1549,7 +1880,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 21,
+    "comment_count": 23,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1672,7 +2003,7 @@
       "image": [],
       "pinglun_Num": 109,
       "realSort": "1775399276014692",
-      "share": 600,
+      "share": 614,
       "showTime": "2026-04-05 22:27:56",
       "stockList": [],
       "summary": "【白宫回应特朗普病重住院传闻】当地时间4月4日，一则关于特朗普病重住院的消息迅速引爆网络。美国前参议员沃克·米特在社交媒体X上发文，表示美国总统特朗普近日在社交媒体上的帖子是他人代发，并直指“特朗普的健康状况令人担忧”。“他现在在沃尔特·里德医疗中心，可能离世只有几分钟了。”",
@@ -1687,7 +2018,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 109,
-    "share_count": 600,
+    "share_count": 614,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1709,9 +2040,9 @@
     "raw_data": {
       "code": "202604053695714145",
       "image": [],
-      "pinglun_Num": 26,
+      "pinglun_Num": 27,
       "realSort": "1775399207014145",
-      "share": 53,
+      "share": 55,
       "showTime": "2026-04-05 22:26:47",
       "stockList": [],
       "summary": "【王毅同俄罗斯外长拉夫罗夫通电话】中共中央政治局委员、外交部长王毅5日应约同俄罗斯外长拉夫罗夫通电话，就当前中东形势交换意见。",
@@ -1725,8 +2056,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 26,
-    "share_count": 53,
+    "comment_count": 27,
+    "share_count": 55,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1914,287 +2245,6 @@
         "C201",
         "C506"
       ]
-    }
-  },
-  {
-    "id": "58042f72fcd5e62c",
-    "code": "202604053695712639",
-    "title": "欧佩克+已将下一次联合部长级监督委员会会议的日期定为6月7日",
-    "summary": "欧佩克+已将下一次联合部长级监督委员会会议的日期定为6月7日。",
-    "content": "欧佩克+已将下一次联合部长级监督委员会会议的日期定为6月7日。",
-    "full_content": "欧佩克+已将下一次联合部长级监督委员会会议的日期定为6月7日。",
-    "sort_time": "1775398251012639",
-    "showTime": "2026-04-05 22:10:51",
-    "time": "2026-04-05 22:10:51",
-    "publish_time": "2026-04-05 22:10:51",
-    "raw_data": {
-      "code": "202604053695712639",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1775398251012639",
-      "share": 0,
-      "showTime": "2026-04-05 22:10:51",
-      "stockList": [],
-      "summary": "欧佩克+已将下一次联合部长级监督委员会会议的日期定为6月7日。",
-      "title": "欧佩克+已将下一次联合部长级监督委员会会议的日期定为6月7日",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695712639.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f4028628a472b062",
-    "code": "202604053695711833",
-    "title": "以色列宣布已停止所有对法国防采购",
-    "summary": "【以色列宣布已停止所有对法国防采购】当地时间5日，总台记者获悉，据以色列国防军发言人消息，由于法国采取了多项“损害以色列安全”的措施，包括禁止以色列军机利用法国领空执行针对伊朗的作战任务，以国防部已停止所有来自法国的国防采购。",
-    "content": "【以色列宣布已停止所有对法国防采购】当地时间5日，总台记者获悉，据以色列国防军发言人消息，由于法国采取了多项“损害以色列安全”的措施，包括禁止以色列军机利用法国领空执行针对伊朗的作战任务，以国防部已停止所有来自法国的国防采购。",
-    "full_content": "【以色列宣布已停止所有对法国防采购】当地时间5日，总台记者获悉，据以色列国防军发言人消息，由于法国采取了多项“损害以色列安全”的措施，包括禁止以色列军机利用法国领空执行针对伊朗的作战任务，以国防部已停止所有来自法国的国防采购。",
-    "sort_time": "1775397859011833",
-    "showTime": "2026-04-05 22:04:19",
-    "time": "2026-04-05 22:04:19",
-    "publish_time": "2026-04-05 22:04:19",
-    "raw_data": {
-      "code": "202604053695711833",
-      "image": [],
-      "pinglun_Num": 41,
-      "realSort": "1775397859011833",
-      "share": 9,
-      "showTime": "2026-04-05 22:04:19",
-      "stockList": [],
-      "summary": "【以色列宣布已停止所有对法国防采购】当地时间5日，总台记者获悉，据以色列国防军发言人消息，由于法国采取了多项“损害以色列安全”的措施，包括禁止以色列军机利用法国领空执行针对伊朗的作战任务，以国防部已停止所有来自法国的国防采购。",
-      "title": "以色列宣布已停止所有对法国防采购",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695711833.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 41,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "67d7ecd1faa9b822",
-    "code": "202604053695708783",
-    "title": "特朗普：相信能在6日之前与伊朗达成协议",
-    "summary": "【特朗普：相信能在6日之前与伊朗达成协议】当地时间4月5日，美国总统特朗普表示，他相信能在6日之前与伊朗达成协议，伊朗目前正在进行谈判。",
-    "content": "【特朗普：相信能在6日之前与伊朗达成协议】当地时间4月5日，美国总统特朗普表示，他相信能在6日之前与伊朗达成协议，伊朗目前正在进行谈判。",
-    "full_content": "【特朗普：相信能在6日之前与伊朗达成协议】当地时间4月5日，美国总统特朗普表示，他相信能在6日之前与伊朗达成协议，伊朗目前正在进行谈判。",
-    "sort_time": "1775397299008783",
-    "showTime": "2026-04-05 21:54:59",
-    "time": "2026-04-05 21:54:59",
-    "publish_time": "2026-04-05 21:54:59",
-    "raw_data": {
-      "code": "202604053695708783",
-      "image": [],
-      "pinglun_Num": 863,
-      "realSort": "1775397299008783",
-      "share": 1580,
-      "showTime": "2026-04-05 21:54:59",
-      "stockList": [],
-      "summary": "【特朗普：相信能在6日之前与伊朗达成协议】当地时间4月5日，美国总统特朗普表示，他相信能在6日之前与伊朗达成协议，伊朗目前正在进行谈判。",
-      "title": "特朗普：相信能在6日之前与伊朗达成协议",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695708783.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 863,
-    "share_count": 1580,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "405851452ce72633",
-    "code": "202604053695706695",
-    "title": "阿富汗近期强降雨已致99人死亡",
-    "summary": "【阿富汗近期强降雨已致99人死亡】阿富汗国家灾害管理部门5日说，阿富汗近期由强降雨引发的灾害已造成至少99人死亡、154人受伤。",
-    "content": "【阿富汗近期强降雨已致99人死亡】阿富汗国家灾害管理部门5日说，阿富汗近期由强降雨引发的灾害已造成至少99人死亡、154人受伤。",
-    "full_content": "【阿富汗近期强降雨已致99人死亡】阿富汗国家灾害管理部门5日说，阿富汗近期由强降雨引发的灾害已造成至少99人死亡、154人受伤。",
-    "sort_time": "1775396930006695",
-    "showTime": "2026-04-05 21:48:50",
-    "time": "2026-04-05 21:48:50",
-    "publish_time": "2026-04-05 21:48:50",
-    "raw_data": {
-      "code": "202604053695706695",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1775396930006695",
-      "share": 0,
-      "showTime": "2026-04-05 21:48:50",
-      "stockList": [],
-      "summary": "【阿富汗近期强降雨已致99人死亡】阿富汗国家灾害管理部门5日说，阿富汗近期由强降雨引发的灾害已造成至少99人死亡、154人受伤。",
-      "title": "阿富汗近期强降雨已致99人死亡",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695706695.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8f84ad45fe54d450",
-    "code": "202604053695703653",
-    "title": "美以对伊朗胡齐斯坦省发动空袭 阿瓦士国际机场遭袭",
-    "summary": "【美以对伊朗胡齐斯坦省发动空袭 阿瓦士国际机场遭袭】伊朗胡齐斯坦省负责安全事务的副省长5日表示，位于该省首府阿瓦士的苏莱曼尼中将国际机场遭到美国与以色列的空袭，机场建筑被击中。",
-    "content": "【美以对伊朗胡齐斯坦省发动空袭 阿瓦士国际机场遭袭】伊朗胡齐斯坦省负责安全事务的副省长5日表示，位于该省首府阿瓦士的苏莱曼尼中将国际机场遭到美国与以色列的空袭，机场建筑被击中。",
-    "full_content": "【美以对伊朗胡齐斯坦省发动空袭 阿瓦士国际机场遭袭】伊朗胡齐斯坦省负责安全事务的副省长5日表示，位于该省首府阿瓦士的苏莱曼尼中将国际机场遭到美国与以色列的空袭，机场建筑被击中。",
-    "sort_time": "1775396412003653",
-    "showTime": "2026-04-05 21:40:12",
-    "time": "2026-04-05 21:40:12",
-    "publish_time": "2026-04-05 21:40:12",
-    "raw_data": {
-      "code": "202604053695703653",
-      "image": [],
-      "pinglun_Num": 10,
-      "realSort": "1775396412003653",
-      "share": 5,
-      "showTime": "2026-04-05 21:40:12",
-      "stockList": [],
-      "summary": "【美以对伊朗胡齐斯坦省发动空袭 阿瓦士国际机场遭袭】伊朗胡齐斯坦省负责安全事务的副省长5日表示，位于该省首府阿瓦士的苏莱曼尼中将国际机场遭到美国与以色列的空袭，机场建筑被击中。",
-      "title": "美以对伊朗胡齐斯坦省发动空袭 阿瓦士国际机场遭袭",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695703653.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "48f01722612907f4",
-    "code": "202604053695703429",
-    "title": "新疆克孜勒苏州乌恰县附近发生4.4级左右地震",
-    "summary": "【新疆克孜勒苏州乌恰县附近发生4.4级左右地震】中国地震台网自动测定：4月5日21时24分在新疆克孜勒苏州乌恰县附近（北纬39.62度，东经74.48度）发生4.4级左右地震，最终结果以正式速报为准。",
-    "content": "【新疆克孜勒苏州乌恰县附近发生4.4级左右地震】中国地震台网自动测定：4月5日21时24分在新疆克孜勒苏州乌恰县附近（北纬39.62度，东经74.48度）发生4.4级左右地震，最终结果以正式速报为准。",
-    "full_content": "【新疆克孜勒苏州乌恰县附近发生4.4级左右地震】中国地震台网自动测定：4月5日21时24分在新疆克孜勒苏州乌恰县附近（北纬39.62度，东经74.48度）发生4.4级左右地震，最终结果以正式速报为准。",
-    "sort_time": "1775396069003429",
-    "showTime": "2026-04-05 21:34:29",
-    "time": "2026-04-05 21:34:29",
-    "publish_time": "2026-04-05 21:34:29",
-    "raw_data": {
-      "code": "202604053695703429",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1775396069003429",
-      "share": 0,
-      "showTime": "2026-04-05 21:34:29",
-      "stockList": [],
-      "summary": "【新疆克孜勒苏州乌恰县附近发生4.4级左右地震】中国地震台网自动测定：4月5日21时24分在新疆克孜勒苏州乌恰县附近（北纬39.62度，东经74.48度）发生4.4级左右地震，最终结果以正式速报为准。",
-      "title": "新疆克孜勒苏州乌恰县附近发生4.4级左右地震",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695703429.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "97bab644263ec2b9",
-    "code": "202604053695700339",
-    "title": "胡塞组织：逮捕多名与以色列间谍网络合作的人员",
-    "summary": "【胡塞组织：逮捕多名与以色列间谍网络合作的人员】据埃菲社4月4日报道，也门胡塞组织4日称，已逮捕数名涉嫌与以色列情报机构合作的人员，并称该团伙在也门境内收集了敏感的军事和经济信息。",
-    "content": "【胡塞组织：逮捕多名与以色列间谍网络合作的人员】据埃菲社4月4日报道，也门胡塞组织4日称，已逮捕数名涉嫌与以色列情报机构合作的人员，并称该团伙在也门境内收集了敏感的军事和经济信息。",
-    "full_content": "【胡塞组织：逮捕多名与以色列间谍网络合作的人员】据埃菲社4月4日报道，也门胡塞组织4日称，已逮捕数名涉嫌与以色列情报机构合作的人员，并称该团伙在也门境内收集了敏感的军事和经济信息。",
-    "sort_time": "1775395213000339",
-    "showTime": "2026-04-05 21:20:13",
-    "time": "2026-04-05 21:20:13",
-    "publish_time": "2026-04-05 21:20:13",
-    "raw_data": {
-      "code": "202604053695700339",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1775395213000339",
-      "share": 1,
-      "showTime": "2026-04-05 21:20:13",
-      "stockList": [],
-      "summary": "【胡塞组织：逮捕多名与以色列间谍网络合作的人员】据埃菲社4月4日报道，也门胡塞组织4日称，已逮捕数名涉嫌与以色列情报机构合作的人员，并称该团伙在也门境内收集了敏感的军事和经济信息。",
-      "title": "胡塞组织：逮捕多名与以色列间谍网络合作的人员",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604053695700339.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]

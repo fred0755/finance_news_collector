@@ -1,5 +1,336 @@
 [
   {
+    "id": "54e0a908387a6e7c",
+    "code": "202604063695725369",
+    "title": "美联储4月维持利率不变的概率为98.4%",
+    "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
+    "content": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
+    "full_content": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
+    "sort_time": "1775427294025369",
+    "showTime": "2026-04-06 06:14:54",
+    "time": "2026-04-06 06:14:54",
+    "publish_time": "2026-04-06 06:14:54",
+    "raw_data": {
+      "code": "202604063695725369",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775427294025369",
+      "share": 0,
+      "showTime": "2026-04-06 06:14:54",
+      "stockList": [],
+      "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。",
+      "title": "美联储4月维持利率不变的概率为98.4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695725369.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "降息"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "降息"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "a8b74ff86fe00bc8",
+    "code": "202604063695725046",
+    "title": "现货白银日内跌幅扩大至2%",
+    "summary": "现货白银日内跌幅扩大至2%，报71.42美元/盎司。",
+    "content": "现货白银日内跌幅扩大至2%，报71.42美元/盎司。",
+    "full_content": "现货白银日内跌幅扩大至2%，报71.42美元/盎司。",
+    "sort_time": "1775427175025046",
+    "showTime": "2026-04-06 06:12:55",
+    "time": "2026-04-06 06:12:55",
+    "publish_time": "2026-04-06 06:12:55",
+    "raw_data": {
+      "code": "202604063695725046",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775427175025046",
+      "share": 0,
+      "showTime": "2026-04-06 06:12:55",
+      "stockList": [
+        "90.BK1616"
+      ],
+      "summary": "现货白银日内跌幅扩大至2%，报71.42美元/盎司。",
+      "title": "现货白银日内跌幅扩大至2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695725046.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1616"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8a5f66d58338667d",
+    "code": "202604063695724977",
+    "title": "WTI原油期货涨幅扩大至3%",
+    "summary": "WTI原油期货涨幅扩大至3%，报114.964美元/桶。",
+    "content": "WTI原油期货涨幅扩大至3%，报114.964美元/桶。",
+    "full_content": "WTI原油期货涨幅扩大至3%，报114.964美元/桶。",
+    "sort_time": "1775427133024977",
+    "showTime": "2026-04-06 06:12:13",
+    "time": "2026-04-06 06:12:13",
+    "publish_time": "2026-04-06 06:12:13",
+    "raw_data": {
+      "code": "202604063695724977",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775427133024977",
+      "share": 1,
+      "showTime": "2026-04-06 06:12:13",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "WTI原油期货涨幅扩大至3%，报114.964美元/桶。",
+      "title": "WTI原油期货涨幅扩大至3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695724977.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "f77afeb6d3f980b0",
+    "code": "202604063695724865",
+    "title": "现货钯金向下触及1500美元/盎司 日内跌1.02%",
+    "summary": "现货钯金向下触及1500美元/盎司，日内跌1.02%。",
+    "content": "现货钯金向下触及1500美元/盎司，日内跌1.02%。",
+    "full_content": "现货钯金向下触及1500美元/盎司，日内跌1.02%。",
+    "sort_time": "1775427072024865",
+    "showTime": "2026-04-06 06:11:12",
+    "time": "2026-04-06 06:11:12",
+    "publish_time": "2026-04-06 06:11:12",
+    "raw_data": {
+      "code": "202604063695724865",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775427072024865",
+      "share": 0,
+      "showTime": "2026-04-06 06:11:12",
+      "stockList": [],
+      "summary": "现货钯金向下触及1500美元/盎司，日内跌1.02%。",
+      "title": "现货钯金向下触及1500美元/盎司 日内跌1.02%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695724865.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c58187df996d690f",
+    "code": "202604063695724662",
+    "title": "美油高开超1% 黄金、白银、美股期指走低",
+    "summary": "【美油高开超1% 黄金、白银、美股期指走低】特朗普再次威胁伊朗打开霍尔木兹海峡，国际油价早盘冲高，WTI原油涨1.39%，报113.089美元/桶。国际贵金属下挫，现货黄金跌破4640美元/盎司，日内跌0.80%；现货白银跌1%，报72.07美元/盎司。美股期指走低，道琼斯指数期货跌0.38%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.37%。",
+    "content": "【美油高开超1% 黄金、白银、美股期指走低】特朗普再次威胁伊朗打开霍尔木兹海峡，国际油价早盘冲高，WTI原油涨1.39%，报113.089美元/桶。国际贵金属下挫，现货黄金跌破4640美元/盎司，日内跌0.80%；现货白银跌1%，报72.07美元/盎司。美股期指走低，道琼斯指数期货跌0.38%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.37%。",
+    "full_content": "【美油高开超1% 黄金、白银、美股期指走低】特朗普再次威胁伊朗打开霍尔木兹海峡，国际油价早盘冲高，WTI原油涨1.39%，报113.089美元/桶。国际贵金属下挫，现货黄金跌破4640美元/盎司，日内跌0.80%；现货白银跌1%，报72.07美元/盎司。美股期指走低，道琼斯指数期货跌0.38%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.37%。",
+    "sort_time": "1775426715024662",
+    "showTime": "2026-04-06 06:05:15",
+    "time": "2026-04-06 06:05:15",
+    "publish_time": "2026-04-06 06:05:15",
+    "raw_data": {
+      "code": "202604063695724662",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775426715024662",
+      "share": 2,
+      "showTime": "2026-04-06 06:05:15",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "【美油高开超1% 黄金、白银、美股期指走低】特朗普再次威胁伊朗打开霍尔木兹海峡，国际油价早盘冲高，WTI原油涨1.39%，报113.089美元/桶。国际贵金属下挫，现货黄金跌破4640美元/盎司，日内跌0.80%；现货白银跌1%，报72.07美元/盎司。美股期指走低，道琼斯指数期货跌0.38%，标普500指数期货跌0.35%，纳斯达克100指数期货跌0.37%。",
+      "title": "美油高开超1% 黄金、白银、美股期指走低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695724662.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502",
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "1761da3f32d6b5d1",
+    "code": "202604063695720812",
+    "title": "俄伊外长通电话 呼吁通过政治外交手段化解危机",
+    "summary": "【俄伊外长通电话 呼吁通过政治外交手段化解危机】据俄罗斯外交部5日通报，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐当天通电话，双方呼吁相关方面勿破坏通过政治外交手段化解危机的机会。",
+    "content": "【俄伊外长通电话 呼吁通过政治外交手段化解危机】据俄罗斯外交部5日通报，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐当天通电话，双方呼吁相关方面勿破坏通过政治外交手段化解危机的机会。",
+    "full_content": "【俄伊外长通电话 呼吁通过政治外交手段化解危机】据俄罗斯外交部5日通报，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐当天通电话，双方呼吁相关方面勿破坏通过政治外交手段化解危机的机会。",
+    "sort_time": "1775426346020812",
+    "showTime": "2026-04-06 05:59:06",
+    "time": "2026-04-06 05:59:06",
+    "publish_time": "2026-04-06 05:59:06",
+    "raw_data": {
+      "code": "202604063695720812",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775426346020812",
+      "share": 1,
+      "showTime": "2026-04-06 05:59:06",
+      "stockList": [],
+      "summary": "【俄伊外长通电话 呼吁通过政治外交手段化解危机】据俄罗斯外交部5日通报，俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐当天通电话，双方呼吁相关方面勿破坏通过政治外交手段化解危机的机会。",
+      "title": "俄伊外长通电话 呼吁通过政治外交手段化解危机",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695720812.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e5105bc65009d84b",
+    "code": "202604063695720537",
+    "title": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士",
+    "summary": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士。",
+    "content": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士。",
+    "full_content": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士。",
+    "sort_time": "1775426204020537",
+    "showTime": "2026-04-06 05:56:44",
+    "time": "2026-04-06 05:56:44",
+    "publish_time": "2026-04-06 05:56:44",
+    "raw_data": {
+      "code": "202604063695720537",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775426204020537",
+      "share": 0,
+      "showTime": "2026-04-06 05:56:44",
+      "stockList": [
+        "150.011668"
+      ],
+      "summary": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士。",
+      "title": "鸿海与三菱扶桑据悉计划出口日本制造的电动巴士",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695720537.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.011668"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "8d4c5cb47127152a",
     "code": "202604063695720435",
     "title": "过去24小时15艘船只获准通过霍尔木兹海峡",
