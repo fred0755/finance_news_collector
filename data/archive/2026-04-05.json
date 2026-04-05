@@ -1,5 +1,193 @@
 [
   {
+    "id": "8eb2959f40e309ce",
+    "code": "202604063695726218",
+    "title": "周一（4月6日）重点关注财经事件和经济数据",
+    "summary": "【周一（4月6日）重点关注财经事件和经济数据】① 22:00 美国3月ISM非制造业PMI；② 22:00 美国3月全球供应链压力指数。",
+    "content": "【周一（4月6日）重点关注财经事件和经济数据】① 22:00 美国3月ISM非制造业PMI；② 22:00 美国3月全球供应链压力指数。",
+    "full_content": "【周一（4月6日）重点关注财经事件和经济数据】① 22:00 美国3月ISM非制造业PMI；② 22:00 美国3月全球供应链压力指数。",
+    "sort_time": "1775429494026218",
+    "showTime": "2026-04-06 06:51:34",
+    "time": "2026-04-06 06:51:34",
+    "publish_time": "2026-04-06 06:51:34",
+    "raw_data": {
+      "code": "202604063695726218",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775429494026218",
+      "share": 0,
+      "showTime": "2026-04-06 06:51:34",
+      "stockList": [],
+      "summary": "【周一（4月6日）重点关注财经事件和经济数据】① 22:00 美国3月ISM非制造业PMI；② 22:00 美国3月全球供应链压力指数。",
+      "title": "周一（4月6日）重点关注财经事件和经济数据",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695726218.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "供应链"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "9465328d2327c4f4",
+    "code": "202604063695726133",
+    "title": "现货黄金失守4610美元/盎司",
+    "summary": "现货黄金失守4610美元/盎司，日内跌幅1.45%。",
+    "content": "现货黄金失守4610美元/盎司，日内跌幅1.45%。",
+    "full_content": "现货黄金失守4610美元/盎司，日内跌幅1.45%。",
+    "sort_time": "1775429318026133",
+    "showTime": "2026-04-06 06:48:38",
+    "time": "2026-04-06 06:48:38",
+    "publish_time": "2026-04-06 06:48:38",
+    "raw_data": {
+      "code": "202604063695726133",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775429318026133",
+      "share": 0,
+      "showTime": "2026-04-06 06:48:38",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金失守4610美元/盎司，日内跌幅1.45%。",
+      "title": "现货黄金失守4610美元/盎司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695726133.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "93902acc1532c963",
+    "code": "202604063695723932",
+    "title": "北京出台18条措施 促进首都高校科技成果转化",
+    "summary": "【北京出台18条措施 促进首都高校科技成果转化】北京近日发布《关于促进首都高校科技成果转化的若干措施》，18条举措推动更多高校科技成果从实验室走向产业一线。",
+    "content": "【北京出台18条措施 促进首都高校科技成果转化】北京近日发布《关于促进首都高校科技成果转化的若干措施》，18条举措推动更多高校科技成果从实验室走向产业一线。",
+    "full_content": "【北京出台18条措施 促进首都高校科技成果转化】北京近日发布《关于促进首都高校科技成果转化的若干措施》，18条举措推动更多高校科技成果从实验室走向产业一线。",
+    "sort_time": "1775429308023932",
+    "showTime": "2026-04-06 06:48:28",
+    "time": "2026-04-06 06:48:28",
+    "publish_time": "2026-04-06 06:48:28",
+    "raw_data": {
+      "code": "202604063695723932",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775429308023932",
+      "share": 1,
+      "showTime": "2026-04-06 06:48:28",
+      "stockList": [
+        "90.BK0150",
+        "1007.BK000391"
+      ],
+      "summary": "【北京出台18条措施 促进首都高校科技成果转化】北京近日发布《关于促进首都高校科技成果转化的若干措施》，18条举措推动更多高校科技成果从实验室走向产业一线。",
+      "title": "北京出台18条措施 促进首都高校科技成果转化",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695723932.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0150",
+      "1007.BK000391"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d779284b5ed5f241",
+    "code": "202604063695723398",
+    "title": "今年一季度 消费品以旧换新销售额超4300亿元",
+    "summary": "【今年一季度 消费品以旧换新销售额超4300亿元】记者从商务部获悉：今年一季度，消费品以旧换新销售额超4331.7亿元，惠及6093.3万人次。",
+    "content": "【今年一季度 消费品以旧换新销售额超4300亿元】记者从商务部获悉：今年一季度，消费品以旧换新销售额超4331.7亿元，惠及6093.3万人次。",
+    "full_content": "【今年一季度 消费品以旧换新销售额超4300亿元】记者从商务部获悉：今年一季度，消费品以旧换新销售额超4331.7亿元，惠及6093.3万人次。",
+    "sort_time": "1775428232023398",
+    "showTime": "2026-04-06 06:30:32",
+    "time": "2026-04-06 06:30:32",
+    "publish_time": "2026-04-06 06:30:32",
+    "raw_data": {
+      "code": "202604063695723398",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1775428232023398",
+      "share": 0,
+      "showTime": "2026-04-06 06:30:32",
+      "stockList": [
+        "150.012462"
+      ],
+      "summary": "【今年一季度 消费品以旧换新销售额超4300亿元】记者从商务部获悉：今年一季度，消费品以旧换新销售额超4331.7亿元，惠及6093.3万人次。",
+      "title": "今年一季度 消费品以旧换新销售额超4300亿元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604063695723398.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.012462"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "54e0a908387a6e7c",
     "code": "202604063695725369",
     "title": "美联储4月维持利率不变的概率为98.4%",
