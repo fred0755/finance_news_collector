@@ -1,5 +1,213 @@
 [
   {
+    "id": "1278c7f842d705a2",
+    "code": "202604073695895793",
+    "title": "三井住友金融集团（SMFG）据称正与日本生命保险筹备规模达30亿美元的私人信贷基金",
+    "summary": "三井住友金融集团（SMFG）据称正与日本生命保险筹备规模达30亿美元的私人信贷基金，用于交易融资。",
+    "content": "三井住友金融集团（SMFG）据称正与日本生命保险筹备规模达30亿美元的私人信贷基金，用于交易融资。",
+    "full_content": "三井住友金融集团（SMFG）据称正与日本生命保险筹备规模达30亿美元的私人信贷基金，用于交易融资。",
+    "sort_time": "1775494661095793",
+    "showTime": "2026-04-07 00:57:41",
+    "time": "2026-04-07 00:57:41",
+    "publish_time": "2026-04-07 00:57:41",
+    "raw_data": {
+      "code": "202604073695895793",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775494661095793",
+      "share": 0,
+      "showTime": "2026-04-07 00:57:41",
+      "stockList": [
+        "90.BK0474",
+        "90.BK1358"
+      ],
+      "summary": "三井住友金融集团（SMFG）据称正与日本生命保险筹备规模达30亿美元的私人信贷基金，用于交易融资。",
+      "title": "三井住友金融集团（SMFG）据称正与日本生命保险筹备规模达30亿美元的私人信贷基金",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604073695895793.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0474",
+      "90.BK1358"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C403",
+          "name": "保险",
+          "matched_keyword": "保险"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C403"
+      ]
+    }
+  },
+  {
+    "id": "280a255454d21b7b",
+    "code": "202604073695892137",
+    "title": "特斯拉跌幅扩大至2.5%",
+    "summary": "特斯拉跌幅扩大至2.5%，此前摩根大通下调对特斯拉的盈利预测。",
+    "content": "特斯拉跌幅扩大至2.5%，此前摩根大通下调对特斯拉的盈利预测。",
+    "full_content": "特斯拉跌幅扩大至2.5%，此前摩根大通下调对特斯拉的盈利预测。",
+    "sort_time": "1775493590092137",
+    "showTime": "2026-04-07 00:39:50",
+    "time": "2026-04-07 00:39:50",
+    "publish_time": "2026-04-07 00:39:50",
+    "raw_data": {
+      "code": "202604073695892137",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775493590092137",
+      "share": 0,
+      "showTime": "2026-04-07 00:39:50",
+      "stockList": [
+        "90.BK0644",
+        "1007.BK000300"
+      ],
+      "summary": "特斯拉跌幅扩大至2.5%，此前摩根大通下调对特斯拉的盈利预测。",
+      "title": "特斯拉跌幅扩大至2.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604073695892137.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0644",
+      "1007.BK000300"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "2a239c2b64746b44",
+    "code": "202604073695892016",
+    "title": "高盛旗下私募信贷基金第一季度赎回比例4.999% 勉强躲过行业上限",
+    "summary": "【高盛旗下私募信贷基金第一季度赎回比例4.999% 勉强躲过行业上限】高盛集团旗下一只私募信贷基金表示，投资者在第一季度寻求赎回的比例略低于5%。这使其勉强躲过了迫使一些同行对限制赎回的大范围赎回潮。根据周一的一份申报文件，这只规模为157亿美元的高盛私募信贷公司管理着一只所谓的非交易型商业发展公司(BDC)；该基金在第一季度满足了相当于其发行在外股份4.999%的赎回请求。相比之下，包括Blue Owl Capital Inc.在内的同行收到的赎回请求远高于行业普遍规定的5%上限。不过，赎回请求仍高于去年第四季度的3.5%。",
+    "content": "【高盛旗下私募信贷基金第一季度赎回比例4.999% 勉强躲过行业上限】高盛集团旗下一只私募信贷基金表示，投资者在第一季度寻求赎回的比例略低于5%。这使其勉强躲过了迫使一些同行对限制赎回的大范围赎回潮。根据周一的一份申报文件，这只规模为157亿美元的高盛私募信贷公司管理着一只所谓的非交易型商业发展公司(BDC)；该基金在第一季度满足了相当于其发行在外股份4.999%的赎回请求。相比之下，包括Blue Owl Capital Inc.在内的同行收到的赎回请求远高于行业普遍规定的5%上限。不过，赎回请求仍高于去年第四季度的3.5%。",
+    "full_content": "【高盛旗下私募信贷基金第一季度赎回比例4.999% 勉强躲过行业上限】高盛集团旗下一只私募信贷基金表示，投资者在第一季度寻求赎回的比例略低于5%。这使其勉强躲过了迫使一些同行对限制赎回的大范围赎回潮。根据周一的一份申报文件，这只规模为157亿美元的高盛私募信贷公司管理着一只所谓的非交易型商业发展公司(BDC)；该基金在第一季度满足了相当于其发行在外股份4.999%的赎回请求。相比之下，包括Blue Owl Capital Inc.在内的同行收到的赎回请求远高于行业普遍规定的5%上限。不过，赎回请求仍高于去年第四季度的3.5%。",
+    "sort_time": "1775493564092016",
+    "showTime": "2026-04-07 00:39:24",
+    "time": "2026-04-07 00:39:24",
+    "publish_time": "2026-04-07 00:39:24",
+    "raw_data": {
+      "code": "202604073695892016",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775493564092016",
+      "share": 0,
+      "showTime": "2026-04-07 00:39:24",
+      "stockList": [],
+      "summary": "【高盛旗下私募信贷基金第一季度赎回比例4.999% 勉强躲过行业上限】高盛集团旗下一只私募信贷基金表示，投资者在第一季度寻求赎回的比例略低于5%。这使其勉强躲过了迫使一些同行对限制赎回的大范围赎回潮。根据周一的一份申报文件，这只规模为157亿美元的高盛私募信贷公司管理着一只所谓的非交易型商业发展公司(BDC)；该基金在第一季度满足了相当于其发行在外股份4.999%的赎回请求。相比之下，包括Blue Owl Capital Inc.在内的同行收到的赎回请求远高于行业普遍规定的5%上限。不过，赎回请求仍高于去年第四季度的3.5%。",
+      "title": "高盛旗下私募信贷基金第一季度赎回比例4.999% 勉强躲过行业上限",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604073695892016.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "私募"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fed243c5f22c612b",
+    "code": "202604073695888822",
+    "title": "特朗普称伊朗若不服软将一无所有",
+    "summary": "【特朗普称伊朗若不服软将一无所有】今天（4月6日），美国总统特朗普在白宫出席活动时对媒体谈及伊朗称，美国东部时间周二（4月7日）即为最终期限，“不可更改”。特朗普再次强调“伊朗不能拥有核武器”，称其在第一任期内撕毁伊朗核问题全面协议，刺杀时任伊朗伊斯兰革命卫队下属“圣城旅”指挥官苏莱马尼，“从而避免了以色列被从地图上抹掉”。",
+    "content": "【特朗普称伊朗若不服软将一无所有】今天（4月6日），美国总统特朗普在白宫出席活动时对媒体谈及伊朗称，美国东部时间周二（4月7日）即为最终期限，“不可更改”。特朗普再次强调“伊朗不能拥有核武器”，称其在第一任期内撕毁伊朗核问题全面协议，刺杀时任伊朗伊斯兰革命卫队下属“圣城旅”指挥官苏莱马尼，“从而避免了以色列被从地图上抹掉”。",
+    "full_content": "【特朗普称伊朗若不服软将一无所有】今天（4月6日），美国总统特朗普在白宫出席活动时对媒体谈及伊朗称，美国东部时间周二（4月7日）即为最终期限，“不可更改”。特朗普再次强调“伊朗不能拥有核武器”，称其在第一任期内撕毁伊朗核问题全面协议，刺杀时任伊朗伊斯兰革命卫队下属“圣城旅”指挥官苏莱马尼，“从而避免了以色列被从地图上抹掉”。",
+    "sort_time": "1775492448088822",
+    "showTime": "2026-04-07 00:20:48",
+    "time": "2026-04-07 00:20:48",
+    "publish_time": "2026-04-07 00:20:48",
+    "raw_data": {
+      "code": "202604073695888822",
+      "image": [],
+      "pinglun_Num": 121,
+      "realSort": "1775492448088822",
+      "share": 54,
+      "showTime": "2026-04-07 00:20:48",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【特朗普称伊朗若不服软将一无所有】今天（4月6日），美国总统特朗普在白宫出席活动时对媒体谈及伊朗称，美国东部时间周二（4月7日）即为最终期限，“不可更改”。特朗普再次强调“伊朗不能拥有核武器”，称其在第一任期内撕毁伊朗核问题全面协议，刺杀时任伊朗伊斯兰革命卫队下属“圣城旅”指挥官苏莱马尼，“从而避免了以色列被从地图上抹掉”。",
+      "title": "特朗普称伊朗若不服软将一无所有",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604073695888822.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 121,
+    "share_count": 54,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "2e0373d3d556577d",
     "code": "202604073695888186",
     "title": "OpenAI据悉有望最早于第四季度进行IPO",
@@ -13,9 +221,9 @@
     "raw_data": {
       "code": "202604073695888186",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 4,
       "realSort": "1775491576088186",
-      "share": 1,
+      "share": 4,
       "showTime": "2026-04-07 00:06:16",
       "stockList": [
         "90.BK0697"
@@ -33,8 +241,8 @@
       "90.BK0697"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 4,
+    "share_count": 4,
     "tags": {
       "industries": [
         {
@@ -74,9 +282,9 @@
     "raw_data": {
       "code": "202604063695884457",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 6,
       "realSort": "1775491003084457",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-06 23:56:43",
       "stockList": [
         "90.BK0485"
@@ -94,8 +302,8 @@
       "90.BK0485"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 6,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -125,7 +333,7 @@
     "raw_data": {
       "code": "202604063695884987",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 11,
       "realSort": "1775490064084987",
       "share": 0,
       "showTime": "2026-04-06 23:41:04",
@@ -145,7 +353,7 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
+    "comment_count": 11,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -176,9 +384,9 @@
     "raw_data": {
       "code": "202604063695883693",
       "image": [],
-      "pinglun_Num": 93,
+      "pinglun_Num": 124,
       "realSort": "1775489581083693",
-      "share": 26,
+      "share": 36,
       "showTime": "2026-04-06 23:33:01",
       "stockList": [],
       "summary": "【伊朗就美停战提议提10项要求 特朗普：有意义但不够好】当地时间4月6日，美国总统特朗普就伊朗回应美国提出的停战提议作出回应。特朗普称，为伊朗设定的达成协议的最后期限是周二（7日）。特朗普还评价称，伊朗的提议虽然有意义，但还不够好。",
@@ -192,8 +400,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 93,
-    "share_count": 26,
+    "comment_count": 124,
+    "share_count": 36,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -215,9 +423,9 @@
     "raw_data": {
       "code": "202604063695883435",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 36,
       "realSort": "1775489560083435",
-      "share": 7,
+      "share": 11,
       "showTime": "2026-04-06 23:32:40",
       "stockList": [],
       "summary": "【特朗普称7日是同伊朗达成协议的最终期限】据外媒报道，美国总统特朗普6日说，他为伊朗设定的7日达成协议的期限是最终期限。他还补充说，伊朗对于停战事宜的回应意义重大，但还不够好。",
@@ -231,8 +439,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 29,
-    "share_count": 7,
+    "comment_count": 36,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -254,9 +462,9 @@
     "raw_data": {
       "code": "202604063695880417",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1775488577080417",
-      "share": 2,
+      "share": 7,
       "showTime": "2026-04-06 23:16:17",
       "stockList": [],
       "summary": "【柬埔寨颁布法律打击电信网络诈骗】柬埔寨代理国家元首洪森6日签署法令，颁布《反电信网络诈骗法》。该法律立即生效。",
@@ -270,8 +478,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 2,
+    "comment_count": 9,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -293,9 +501,9 @@
     "raw_data": {
       "code": "202604063695879853",
       "image": [],
-      "pinglun_Num": 46,
+      "pinglun_Num": 50,
       "realSort": "1775488545079853",
-      "share": 12,
+      "share": 13,
       "showTime": "2026-04-06 23:15:45",
       "stockList": [],
       "summary": "【美国官员称伊朗对美方停战提议的回应“要求过高”】当地时间6日，有美官员透露称，伊朗就美国提出的结束战争提议作出的回应“要求过高”，目前尚不清楚这是否有利于推动外交解决冲突。",
@@ -309,8 +517,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 46,
-    "share_count": 12,
+    "comment_count": 50,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -332,9 +540,9 @@
     "raw_data": {
       "code": "202604063695872175",
       "image": [],
-      "pinglun_Num": 51,
+      "pinglun_Num": 53,
       "realSort": "1775487359072175",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-04-06 22:55:59",
       "stockList": [],
       "summary": "美国阿克西奥斯新闻网6日援引一位美国官员的话报道，美国已收到伊朗关于结束战争的回应。",
@@ -348,8 +556,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 51,
-    "share_count": 11,
+    "comment_count": 53,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -371,9 +579,9 @@
     "raw_data": {
       "code": "202604063695871625",
       "image": [],
-      "pinglun_Num": 181,
+      "pinglun_Num": 204,
       "realSort": "1775487050071625",
-      "share": 88,
+      "share": 101,
       "showTime": "2026-04-06 22:50:50",
       "stockList": [],
       "summary": "【伊朗回应美方停战提议 提出10项条款】据伊朗伊斯兰共和国通讯社6日报道，伊朗已就美国提出的结束战争提议向巴基斯坦作出回应。报道称，回应包含10项条款，核心内容包括：强调必须根据伊朗的关切实现永久结束战争；提出一系列诉求，如结束地区冲突、制定霍尔木兹海峡安全通行协议、战后重建以及解除制裁。",
@@ -387,8 +595,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 181,
-    "share_count": 88,
+    "comment_count": 204,
+    "share_count": 101,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -410,9 +618,9 @@
     "raw_data": {
       "code": "202604063695871179",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1775486892071179",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-06 22:48:12",
       "stockList": [
         "90.BK0644",
@@ -432,8 +640,8 @@
       "1007.BK000300"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 4,
+    "comment_count": 8,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -463,7 +671,7 @@
     "raw_data": {
       "code": "202604063695868319",
       "image": [],
-      "pinglun_Num": 86,
+      "pinglun_Num": 87,
       "realSort": "1775486435068319",
       "share": 53,
       "showTime": "2026-04-06 22:40:35",
@@ -479,7 +687,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 86,
+    "comment_count": 87,
     "share_count": 53,
     "tags": {
       "industries": [],
@@ -502,9 +710,9 @@
     "raw_data": {
       "code": "202604063695856663",
       "image": [],
-      "pinglun_Num": 45,
+      "pinglun_Num": 50,
       "realSort": "1775485952056663",
-      "share": 41,
+      "share": 44,
       "showTime": "2026-04-06 22:32:32",
       "stockList": [
         "90.BK0464",
@@ -524,8 +732,8 @@
       "0.159945"
     ],
     "has_stock_mention": true,
-    "comment_count": 45,
-    "share_count": 41,
+    "comment_count": 50,
+    "share_count": 44,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -547,7 +755,7 @@
     "raw_data": {
       "code": "202604063695857085",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 21,
       "realSort": "1775485071057085",
       "share": 3,
       "showTime": "2026-04-06 22:17:51",
@@ -563,7 +771,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 19,
+    "comment_count": 21,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -586,7 +794,7 @@
     "raw_data": {
       "code": "202604063695855498",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1775484829055498",
       "share": 3,
       "showTime": "2026-04-06 22:13:49",
@@ -602,7 +810,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -625,7 +833,7 @@
     "raw_data": {
       "code": "202604063695843136",
       "image": [],
-      "pinglun_Num": 25,
+      "pinglun_Num": 26,
       "realSort": "1775484568043136",
       "share": 8,
       "showTime": "2026-04-06 22:09:28",
@@ -641,7 +849,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 25,
+    "comment_count": 26,
     "share_count": 8,
     "tags": {
       "industries": [],
@@ -750,9 +958,9 @@
     "raw_data": {
       "code": "202604063695836894",
       "image": [],
-      "pinglun_Num": 175,
+      "pinglun_Num": 184,
       "realSort": "1775483962036894",
-      "share": 81,
+      "share": 83,
       "showTime": "2026-04-06 21:59:22",
       "stockList": [],
       "summary": "【美媒称45天停火计划只是“众多方案之一”】据美国媒体6日报道，一名白宫官员说，美国和伊朗之间为期45天的停火计划只是目前正在讨论的“众多方案之一”。这位白宫官员表示，美国总统特朗普尚未批准该计划，美方对伊朗的军事行动仍在继续。",
@@ -766,8 +974,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 175,
-    "share_count": 81,
+    "comment_count": 184,
+    "share_count": 83,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -789,9 +997,9 @@
     "raw_data": {
       "code": "202604063695833797",
       "image": [],
-      "pinglun_Num": 427,
+      "pinglun_Num": 486,
       "realSort": "1775483507033797",
-      "share": 402,
+      "share": 440,
       "showTime": "2026-04-06 21:51:47",
       "stockList": [
         "90.BK0988",
@@ -811,8 +1019,8 @@
       "0.159767"
     ],
     "has_stock_mention": true,
-    "comment_count": 427,
-    "share_count": 402,
+    "comment_count": 486,
+    "share_count": 440,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1026,7 +1234,7 @@
     "raw_data": {
       "code": "202604063695818686",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1775482328018686",
       "share": 9,
       "showTime": "2026-04-06 21:32:08",
@@ -1042,7 +1250,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 9,
     "tags": {
       "industries": [
@@ -1416,7 +1624,7 @@
     "raw_data": {
       "code": "202604063695804950",
       "image": [],
-      "pinglun_Num": 124,
+      "pinglun_Num": 127,
       "realSort": "1775475546004950",
       "share": 87,
       "showTime": "2026-04-06 19:39:06",
@@ -1432,7 +1640,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 124,
+    "comment_count": 127,
     "share_count": 87,
     "tags": {
       "industries": [],
@@ -1773,7 +1981,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1775473507001077",
-      "share": 29,
+      "share": 31,
       "showTime": "2026-04-06 19:05:07",
       "stockList": [],
       "summary": "【超20家A股上市公司近一周披露并购重组最新公告 海泰科筹划购买旭域股份控制权并募集配套资金股票明起停牌】据不完全统计，截至发稿，近一周(3月30日-4月6日)包括海泰科、泰达股份、三鑫医疗、豪江智能、华纬科技、威帝股份、宁波能源、云赛智联、甘肃能化、横店影视、龙源电力、顺网科技、四川路桥、TCL科技、中微公司、天宇股份、大众交通、宝信软件、顺发恒能、三未信安、科创新源、高凌信息在内的22家A股上市公司披露并购重组进展最新公告。",
@@ -1788,7 +1996,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 29,
+    "share_count": 31,
     "tags": {
       "industries": [
         {
@@ -2034,9 +2242,9 @@
     "raw_data": {
       "code": "202604063695795084",
       "image": [],
-      "pinglun_Num": 811,
+      "pinglun_Num": 830,
       "realSort": "1775471414095084",
-      "share": 569,
+      "share": 577,
       "showTime": "2026-04-06 18:30:14",
       "stockList": [
         "90.BK0464",
@@ -2056,8 +2264,8 @@
       "90.BK0437"
     ],
     "has_stock_mention": true,
-    "comment_count": 811,
-    "share_count": 569,
+    "comment_count": 830,
+    "share_count": 577,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2140,202 +2348,6 @@
     "has_stock_mention": true,
     "comment_count": 1,
     "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e0acd557de746ccb",
-    "code": "202604063695787190",
-    "title": "征和工业：是张雪机车的官方技术合作伙伴 为张雪机车供应链传动系统",
-    "summary": "【征和工业：是张雪机车的官方技术合作伙伴 为张雪机车供应链传动系统】征和工业在互动平台表示，在摩托车链系统方面，公司产品主要包括传动链（及配套链轮）、正时链和油泵链。公司为多家知名摩托车企业提供配套产品，包括本田、大长江、隆鑫、钱江、春风动力、雅马哈、铃木、张雪机车等。",
-    "content": "【征和工业：是张雪机车的官方技术合作伙伴 为张雪机车供应链传动系统】征和工业在互动平台表示，在摩托车链系统方面，公司产品主要包括传动链（及配套链轮）、正时链和油泵链。公司为多家知名摩托车企业提供配套产品，包括本田、大长江、隆鑫、钱江、春风动力、雅马哈、铃木、张雪机车等。",
-    "full_content": "【征和工业：是张雪机车的官方技术合作伙伴 为张雪机车供应链传动系统】征和工业在互动平台表示，在摩托车链系统方面，公司产品主要包括传动链（及配套链轮）、正时链和油泵链。公司为多家知名摩托车企业提供配套产品，包括本田、大长江、隆鑫、钱江、春风动力、雅马哈、铃木、张雪机车等。",
-    "sort_time": "1775469746087190",
-    "showTime": "2026-04-06 18:02:26",
-    "time": "2026-04-06 18:02:26",
-    "publish_time": "2026-04-06 18:02:26",
-    "raw_data": {
-      "code": "202604063695787190",
-      "image": [],
-      "pinglun_Num": 14,
-      "realSort": "1775469746087190",
-      "share": 15,
-      "showTime": "2026-04-06 18:02:26",
-      "stockList": [],
-      "summary": "【征和工业：是张雪机车的官方技术合作伙伴 为张雪机车供应链传动系统】征和工业在互动平台表示，在摩托车链系统方面，公司产品主要包括传动链（及配套链轮）、正时链和油泵链。公司为多家知名摩托车企业提供配套产品，包括本田、大长江、隆鑫、钱江、春风动力、雅马哈、铃木、张雪机车等。",
-      "title": "征和工业：是张雪机车的官方技术合作伙伴 为张雪机车供应链传动系统",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604063695787190.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 15,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "供应链"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "7a85567b900c9e36",
-    "code": "202604063695782525",
-    "title": "对冲基金近四年来首次净看多小麦 多头头寸创逾六年新高",
-    "summary": "【对冲基金近四年来首次净看多小麦 多头头寸创逾六年新高】对冲基金近四年来首次转为净看多小麦，押注美国干旱天气以及中东冲突引发的化肥和燃料短缺将推高价格。根据美国商品期货交易委员会（CFTC）周五公布的周度数据，截至3月31日当周芝加哥小麦期货多头头寸超过空头头寸8641手，扭转了自2022年6月以来持续的净空头仓位。",
-    "content": "【对冲基金近四年来首次净看多小麦 多头头寸创逾六年新高】对冲基金近四年来首次转为净看多小麦，押注美国干旱天气以及中东冲突引发的化肥和燃料短缺将推高价格。根据美国商品期货交易委员会（CFTC）周五公布的周度数据，截至3月31日当周芝加哥小麦期货多头头寸超过空头头寸8641手，扭转了自2022年6月以来持续的净空头仓位。",
-    "full_content": "【对冲基金近四年来首次净看多小麦 多头头寸创逾六年新高】对冲基金近四年来首次转为净看多小麦，押注美国干旱天气以及中东冲突引发的化肥和燃料短缺将推高价格。根据美国商品期货交易委员会（CFTC）周五公布的周度数据，截至3月31日当周芝加哥小麦期货多头头寸超过空头头寸8641手，扭转了自2022年6月以来持续的净空头仓位。",
-    "sort_time": "1775467012082525",
-    "showTime": "2026-04-06 17:16:52",
-    "time": "2026-04-06 17:16:52",
-    "publish_time": "2026-04-06 17:16:52",
-    "raw_data": {
-      "code": "202604063695782525",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1775467012082525",
-      "share": 15,
-      "showTime": "2026-04-06 17:16:52",
-      "stockList": [],
-      "summary": "【对冲基金近四年来首次净看多小麦 多头头寸创逾六年新高】对冲基金近四年来首次转为净看多小麦，押注美国干旱天气以及中东冲突引发的化肥和燃料短缺将推高价格。根据美国商品期货交易委员会（CFTC）周五公布的周度数据，截至3月31日当周芝加哥小麦期货多头头寸超过空头头寸8641手，扭转了自2022年6月以来持续的净空头仓位。",
-      "title": "对冲基金近四年来首次净看多小麦 多头头寸创逾六年新高",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604063695782525.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 15,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "基金"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C508",
-          "name": "化工",
-          "matched_keyword": "化肥"
-        }
-      ],
-      "industry_ids": [
-        "I020201"
-      ],
-      "concept_ids": [
-        "C508"
-      ]
-    }
-  },
-  {
-    "id": "11969db94c067f2c",
-    "code": "202604063695782125",
-    "title": "现货黄金向上触及4700美元",
-    "summary": "【现货黄金向上触及4700美元】现货黄金向上触及4700美元，日内上涨0.52%。现货白银涨0.45%，报73.28美元/盎司。",
-    "content": "【现货黄金向上触及4700美元】现货黄金向上触及4700美元，日内上涨0.52%。现货白银涨0.45%，报73.28美元/盎司。",
-    "full_content": "【现货黄金向上触及4700美元】现货黄金向上触及4700美元，日内上涨0.52%。现货白银涨0.45%，报73.28美元/盎司。",
-    "sort_time": "1775466792082125",
-    "showTime": "2026-04-06 17:13:12",
-    "time": "2026-04-06 17:13:12",
-    "publish_time": "2026-04-06 17:13:12",
-    "raw_data": {
-      "code": "202604063695782125",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1775466792082125",
-      "share": 9,
-      "showTime": "2026-04-06 17:13:12",
-      "stockList": [
-        "90.BK0732",
-        "90.BK1617"
-      ],
-      "summary": "【现货黄金向上触及4700美元】现货黄金向上触及4700美元，日内上涨0.52%。现货白银涨0.45%，报73.28美元/盎司。",
-      "title": "现货黄金向上触及4700美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604063695782125.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0732",
-      "90.BK1617"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "0c6780bf47d9a528",
-    "code": "202604063695782066",
-    "title": "伊朗称已准备好对调解方的回应",
-    "summary": "【伊朗称已准备好对调解方的回应】伊朗外交部发言人6日说，伊朗已准备好对调解方的回应，如有必要将及时通报。",
-    "content": "【伊朗称已准备好对调解方的回应】伊朗外交部发言人6日说，伊朗已准备好对调解方的回应，如有必要将及时通报。",
-    "full_content": "【伊朗称已准备好对调解方的回应】伊朗外交部发言人6日说，伊朗已准备好对调解方的回应，如有必要将及时通报。",
-    "sort_time": "1775466762082066",
-    "showTime": "2026-04-06 17:12:42",
-    "time": "2026-04-06 17:12:42",
-    "publish_time": "2026-04-06 17:12:42",
-    "raw_data": {
-      "code": "202604063695782066",
-      "image": [],
-      "pinglun_Num": 162,
-      "realSort": "1775466762082066",
-      "share": 115,
-      "showTime": "2026-04-06 17:12:42",
-      "stockList": [],
-      "summary": "【伊朗称已准备好对调解方的回应】伊朗外交部发言人6日说，伊朗已准备好对调解方的回应，如有必要将及时通报。",
-      "title": "伊朗称已准备好对调解方的回应",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604063695782066.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 162,
-    "share_count": 115,
     "tags": {
       "industries": [],
       "concepts": [],
