@@ -1,5 +1,688 @@
 [
   {
+    "id": "ca9f880dea856b1a",
+    "code": "202604083696939541",
+    "title": "伊朗接受巴基斯坦提出的停火提议",
+    "summary": "伊朗接受巴基斯坦提出的停火提议。",
+    "content": "伊朗接受巴基斯坦提出的停火提议。",
+    "full_content": "伊朗接受巴基斯坦提出的停火提议。",
+    "sort_time": "1775603154039541",
+    "showTime": "2026-04-08 07:05:54",
+    "time": "2026-04-08 07:05:54",
+    "publish_time": "2026-04-08 07:05:54",
+    "raw_data": {
+      "code": "202604083696939541",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775603154039541",
+      "share": 165,
+      "showTime": "2026-04-08 07:05:54",
+      "stockList": [],
+      "summary": "伊朗接受巴基斯坦提出的停火提议。",
+      "title": "伊朗接受巴基斯坦提出的停火提议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696939541.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 165,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a313e7abf34d3835",
+    "code": "202604083696938571",
+    "title": "现货白银日内涨幅扩大至4% 报75.85美元/盎司",
+    "summary": "现货白银日内涨幅扩大至4%，报75.85美元/盎司。",
+    "content": "现货白银日内涨幅扩大至4%，报75.85美元/盎司。",
+    "full_content": "现货白银日内涨幅扩大至4%，报75.85美元/盎司。",
+    "sort_time": "1775602866038571",
+    "showTime": "2026-04-08 07:01:06",
+    "time": "2026-04-08 07:01:06",
+    "publish_time": "2026-04-08 07:01:06",
+    "raw_data": {
+      "code": "202604083696938571",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775602866038571",
+      "share": 3,
+      "showTime": "2026-04-08 07:01:06",
+      "stockList": [
+        "90.BK1616"
+      ],
+      "summary": "现货白银日内涨幅扩大至4%，报75.85美元/盎司。",
+      "title": "现货白银日内涨幅扩大至4% 报75.85美元/盎司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696938571.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1616"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cd01349fb52dcded",
+    "code": "202604083696937671",
+    "title": "美股股指期货扩大涨幅 其中纳指期货涨幅扩大至2%",
+    "summary": "美股股指期货扩大涨幅，其中纳指期货涨幅扩大至2%。",
+    "content": "美股股指期货扩大涨幅，其中纳指期货涨幅扩大至2%。",
+    "full_content": "美股股指期货扩大涨幅，其中纳指期货涨幅扩大至2%。",
+    "sort_time": "1775602657037671",
+    "showTime": "2026-04-08 06:57:37",
+    "time": "2026-04-08 06:57:37",
+    "publish_time": "2026-04-08 06:57:37",
+    "raw_data": {
+      "code": "202604083696937671",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775602657037671",
+      "share": 10,
+      "showTime": "2026-04-08 06:57:37",
+      "stockList": [],
+      "summary": "美股股指期货扩大涨幅，其中纳指期货涨幅扩大至2%。",
+      "title": "美股股指期货扩大涨幅 其中纳指期货涨幅扩大至2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696937671.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 10,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a8ec07d5588ceab4",
+    "code": "202604083696937222",
+    "title": "现货黄金日内涨幅扩大至2% 报4800.86美元/盎司",
+    "summary": "现货黄金日内涨幅扩大至2%，报4800.86美元/盎司。",
+    "content": "现货黄金日内涨幅扩大至2%，报4800.86美元/盎司。",
+    "full_content": "现货黄金日内涨幅扩大至2%，报4800.86美元/盎司。",
+    "sort_time": "1775602620037222",
+    "showTime": "2026-04-08 06:57:00",
+    "time": "2026-04-08 06:57:00",
+    "publish_time": "2026-04-08 06:57:00",
+    "raw_data": {
+      "code": "202604083696937222",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775602620037222",
+      "share": 7,
+      "showTime": "2026-04-08 06:57:00",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金日内涨幅扩大至2%，报4800.86美元/盎司。",
+      "title": "现货黄金日内涨幅扩大至2% 报4800.86美元/盎司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696937222.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 7,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "2284c46cf9e427d1",
+    "code": "202604083696935848",
+    "title": "WTI原油跌幅扩大至12% 报99.2美元/桶",
+    "summary": "WTI原油跌幅扩大至12%，报99.2美元/桶。",
+    "content": "WTI原油跌幅扩大至12%，报99.2美元/桶。",
+    "full_content": "WTI原油跌幅扩大至12%，报99.2美元/桶。",
+    "sort_time": "1775602390035848",
+    "showTime": "2026-04-08 06:53:10",
+    "time": "2026-04-08 06:53:10",
+    "publish_time": "2026-04-08 06:53:10",
+    "raw_data": {
+      "code": "202604083696935848",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1775602390035848",
+      "share": 26,
+      "showTime": "2026-04-08 06:53:10",
+      "stockList": [],
+      "summary": "WTI原油跌幅扩大至12%，报99.2美元/桶。",
+      "title": "WTI原油跌幅扩大至12% 报99.2美元/桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696935848.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 10,
+    "share_count": 26,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "de4c0746141bff43",
+    "code": "202604083696934026",
+    "title": "美联储4月维持利率不变的概率为98.4%",
+    "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为0%，维持利率不变的概率为97.9%，累计加息25个基点的概率为2.1%。",
+    "content": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为0%，维持利率不变的概率为97.9%，累计加息25个基点的概率为2.1%。",
+    "full_content": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为0%，维持利率不变的概率为97.9%，累计加息25个基点的概率为2.1%。",
+    "sort_time": "1775602050034026",
+    "showTime": "2026-04-08 06:47:30",
+    "time": "2026-04-08 06:47:30",
+    "publish_time": "2026-04-08 06:47:30",
+    "raw_data": {
+      "code": "202604083696934026",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775602050034026",
+      "share": 0,
+      "showTime": "2026-04-08 06:47:30",
+      "stockList": [],
+      "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为0%，维持利率不变的概率为97.9%，累计加息25个基点的概率为2.1%。",
+      "title": "美联储4月维持利率不变的概率为98.4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696934026.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "降息"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "降息"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "158293d4da51ac39",
+    "code": "202604083696915450",
+    "title": "特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高",
+    "summary": "【特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高】周三亚太早盘，特朗普同意停火两周，美股期货走高，国际油价跳水。美股期指走高，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "content": "【特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高】周三亚太早盘，特朗普同意停火两周，美股期货走高，国际油价跳水。美股期指走高，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "full_content": "【特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高】周三亚太早盘，特朗普同意停火两周，美股期货走高，国际油价跳水。美股期指走高，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "sort_time": "1775601913015450",
+    "showTime": "2026-04-08 06:45:13",
+    "time": "2026-04-08 06:45:13",
+    "publish_time": "2026-04-08 06:45:13",
+    "raw_data": {
+      "code": "202604083696915450",
+      "image": [],
+      "pinglun_Num": 229,
+      "realSort": "1775601913015450",
+      "share": 1080,
+      "showTime": "2026-04-08 06:45:13",
+      "stockList": [
+        "90.BK1361",
+        "90.BK0464"
+      ],
+      "summary": "【特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高】周三亚太早盘，特朗普同意停火两周，美股期货走高，国际油价跳水。美股期指走高，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+      "title": "特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696915450.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361",
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 229,
+    "share_count": 1080,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "5334ab9a141f2b61",
+    "code": "202604083696933429",
+    "title": "意防长称拒绝美方使用军事基地符合国际协议",
+    "summary": "【意防长称拒绝美方使用军事基地符合国际协议】意大利国防部长克罗塞托7日表示，意方此前拒绝美国使用其军事基地的做法符合与美方及北约的现有协议，意大利不参与美国和以色列对伊朗的战事。",
+    "content": "【意防长称拒绝美方使用军事基地符合国际协议】意大利国防部长克罗塞托7日表示，意方此前拒绝美国使用其军事基地的做法符合与美方及北约的现有协议，意大利不参与美国和以色列对伊朗的战事。",
+    "full_content": "【意防长称拒绝美方使用军事基地符合国际协议】意大利国防部长克罗塞托7日表示，意方此前拒绝美国使用其军事基地的做法符合与美方及北约的现有协议，意大利不参与美国和以色列对伊朗的战事。",
+    "sort_time": "1775601904033429",
+    "showTime": "2026-04-08 06:45:04",
+    "time": "2026-04-08 06:45:04",
+    "publish_time": "2026-04-08 06:45:04",
+    "raw_data": {
+      "code": "202604083696933429",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1775601904033429",
+      "share": 2,
+      "showTime": "2026-04-08 06:45:04",
+      "stockList": [],
+      "summary": "【意防长称拒绝美方使用军事基地符合国际协议】意大利国防部长克罗塞托7日表示，意方此前拒绝美国使用其军事基地的做法符合与美方及北约的现有协议，意大利不参与美国和以色列对伊朗的战事。",
+      "title": "意防长称拒绝美方使用军事基地符合国际协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696933429.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "f014e9caacac9bf1",
+    "code": "202604083696933391",
+    "title": "WTI原油跌幅扩大至10% 报101.07美元/桶",
+    "summary": "WTI原油跌幅扩大至10%，报101.07美元/桶。",
+    "content": "WTI原油跌幅扩大至10%，报101.07美元/桶。",
+    "full_content": "WTI原油跌幅扩大至10%，报101.07美元/桶。",
+    "sort_time": "1775601733033391",
+    "showTime": "2026-04-08 06:42:13",
+    "time": "2026-04-08 06:42:13",
+    "publish_time": "2026-04-08 06:42:13",
+    "raw_data": {
+      "code": "202604083696933391",
+      "image": [],
+      "pinglun_Num": 35,
+      "realSort": "1775601733033391",
+      "share": 230,
+      "showTime": "2026-04-08 06:42:13",
+      "stockList": [],
+      "summary": "WTI原油跌幅扩大至10%，报101.07美元/桶。",
+      "title": "WTI原油跌幅扩大至10% 报101.07美元/桶",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696933391.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 35,
+    "share_count": 230,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "76eefca4703c932b",
+    "code": "202604083696933275",
+    "title": "国际贵金属涨幅扩大 现货黄金涨1.57%",
+    "summary": "国际贵金属涨幅扩大，现货黄金涨1.57%，报4779.42美元/盎司；现货白银涨2.93%，报75.06美元/盎司。",
+    "content": "国际贵金属涨幅扩大，现货黄金涨1.57%，报4779.42美元/盎司；现货白银涨2.93%，报75.06美元/盎司。",
+    "full_content": "国际贵金属涨幅扩大，现货黄金涨1.57%，报4779.42美元/盎司；现货白银涨2.93%，报75.06美元/盎司。",
+    "sort_time": "1775601671033275",
+    "showTime": "2026-04-08 06:41:11",
+    "time": "2026-04-08 06:41:11",
+    "publish_time": "2026-04-08 06:41:11",
+    "raw_data": {
+      "code": "202604083696933275",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775601671033275",
+      "share": 3,
+      "showTime": "2026-04-08 06:41:11",
+      "stockList": [],
+      "summary": "国际贵金属涨幅扩大，现货黄金涨1.57%，报4779.42美元/盎司；现货白银涨2.93%，报75.06美元/盎司。",
+      "title": "国际贵金属涨幅扩大 现货黄金涨1.57%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696933275.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "106ef3bdd8c13bb9",
+    "code": "202604083696933096",
+    "title": "WTI原油跌幅扩大至9% 报102.56美元/桶",
+    "summary": "WTI原油跌幅扩大至9%，报102.56美元/桶。",
+    "content": "WTI原油跌幅扩大至9%，报102.56美元/桶。",
+    "full_content": "WTI原油跌幅扩大至9%，报102.56美元/桶。",
+    "sort_time": "1775601629033096",
+    "showTime": "2026-04-08 06:40:29",
+    "time": "2026-04-08 06:40:29",
+    "publish_time": "2026-04-08 06:40:29",
+    "raw_data": {
+      "code": "202604083696933096",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775601629033096",
+      "share": 2,
+      "showTime": "2026-04-08 06:40:29",
+      "stockList": [],
+      "summary": "WTI原油跌幅扩大至9%，报102.56美元/桶。",
+      "title": "WTI原油跌幅扩大至9% 报102.56美元/桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696933096.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "b65694ff4dac00a5",
+    "code": "202604083696932630",
+    "title": "美股期指涨幅扩大",
+    "summary": "美股期指涨幅扩大，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "content": "美股期指涨幅扩大，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "full_content": "美股期指涨幅扩大，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "sort_time": "1775601554032630",
+    "showTime": "2026-04-08 06:39:14",
+    "time": "2026-04-08 06:39:14",
+    "publish_time": "2026-04-08 06:39:14",
+    "raw_data": {
+      "code": "202604083696932630",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775601554032630",
+      "share": 14,
+      "showTime": "2026-04-08 06:39:14",
+      "stockList": [],
+      "summary": "美股期指涨幅扩大，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+      "title": "美股期指涨幅扩大",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696932630.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 14,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6973d1c9736a71c7",
+    "code": "202604083696932195",
+    "title": "日元兑美元一度涨0.3% 至159.13",
+    "summary": "日元兑美元一度涨0.3%，至159.13。",
+    "content": "日元兑美元一度涨0.3%，至159.13。",
+    "full_content": "日元兑美元一度涨0.3%，至159.13。",
+    "sort_time": "1775601513032195",
+    "showTime": "2026-04-08 06:38:33",
+    "time": "2026-04-08 06:38:33",
+    "publish_time": "2026-04-08 06:38:33",
+    "raw_data": {
+      "code": "202604083696932195",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775601513032195",
+      "share": 0,
+      "showTime": "2026-04-08 06:38:33",
+      "stockList": [],
+      "summary": "日元兑美元一度涨0.3%，至159.13。",
+      "title": "日元兑美元一度涨0.3% 至159.13",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696932195.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "96ac5ae56d224181",
+    "code": "202604083696931327",
+    "title": "特朗普同意停火两周",
+    "summary": "【特朗普同意停火两周】美国总统特朗普7日在社交媒体平台发文称：“我同意暂停对伊朗的轰炸和袭击行动，为期两周。”",
+    "content": "【特朗普同意停火两周】美国总统特朗普7日在社交媒体平台发文称：“我同意暂停对伊朗的轰炸和袭击行动，为期两周。”",
+    "full_content": "【特朗普同意停火两周】美国总统特朗普7日在社交媒体平台发文称：“我同意暂停对伊朗的轰炸和袭击行动，为期两周。”",
+    "sort_time": "1775601421031327",
+    "showTime": "2026-04-08 06:37:01",
+    "time": "2026-04-08 06:37:01",
+    "publish_time": "2026-04-08 06:37:01",
+    "raw_data": {
+      "code": "202604083696931327",
+      "image": [],
+      "pinglun_Num": 505,
+      "realSort": "1775601421031327",
+      "share": 3009,
+      "showTime": "2026-04-08 06:37:01",
+      "stockList": [],
+      "summary": "【特朗普同意停火两周】美国总统特朗普7日在社交媒体平台发文称：“我同意暂停对伊朗的轰炸和袭击行动，为期两周。”",
+      "title": "特朗普同意停火两周",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696931327.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 505,
+    "share_count": 3009,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1b4bc1367ad2ddae",
+    "code": "202604083696929774",
+    "title": "国际油价短线跳水 WTI原油跌超7%",
+    "summary": "国际油价短线跳水，WTI原油跌超7%，报104.7美元/桶。",
+    "content": "国际油价短线跳水，WTI原油跌超7%，报104.7美元/桶。",
+    "full_content": "国际油价短线跳水，WTI原油跌超7%，报104.7美元/桶。",
+    "sort_time": "1775601300029774",
+    "showTime": "2026-04-08 06:35:00",
+    "time": "2026-04-08 06:35:00",
+    "publish_time": "2026-04-08 06:35:00",
+    "raw_data": {
+      "code": "202604083696929774",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775601300029774",
+      "share": 15,
+      "showTime": "2026-04-08 06:35:00",
+      "stockList": [],
+      "summary": "国际油价短线跳水，WTI原油跌超7%，报104.7美元/桶。",
+      "title": "国际油价短线跳水 WTI原油跌超7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696929774.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 15,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "e111ab5a679cae5a",
     "code": "202604083696926120",
     "title": "周三你需要知道的隔夜全球要闻",

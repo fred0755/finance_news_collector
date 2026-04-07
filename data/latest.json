@@ -1,5 +1,688 @@
 [
   {
+    "id": "ca9f880dea856b1a",
+    "code": "202604083696939541",
+    "title": "伊朗接受巴基斯坦提出的停火提议",
+    "summary": "伊朗接受巴基斯坦提出的停火提议。",
+    "content": "伊朗接受巴基斯坦提出的停火提议。",
+    "full_content": "伊朗接受巴基斯坦提出的停火提议。",
+    "sort_time": "1775603154039541",
+    "showTime": "2026-04-08 07:05:54",
+    "time": "2026-04-08 07:05:54",
+    "publish_time": "2026-04-08 07:05:54",
+    "raw_data": {
+      "code": "202604083696939541",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775603154039541",
+      "share": 165,
+      "showTime": "2026-04-08 07:05:54",
+      "stockList": [],
+      "summary": "伊朗接受巴基斯坦提出的停火提议。",
+      "title": "伊朗接受巴基斯坦提出的停火提议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696939541.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 165,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a313e7abf34d3835",
+    "code": "202604083696938571",
+    "title": "现货白银日内涨幅扩大至4% 报75.85美元/盎司",
+    "summary": "现货白银日内涨幅扩大至4%，报75.85美元/盎司。",
+    "content": "现货白银日内涨幅扩大至4%，报75.85美元/盎司。",
+    "full_content": "现货白银日内涨幅扩大至4%，报75.85美元/盎司。",
+    "sort_time": "1775602866038571",
+    "showTime": "2026-04-08 07:01:06",
+    "time": "2026-04-08 07:01:06",
+    "publish_time": "2026-04-08 07:01:06",
+    "raw_data": {
+      "code": "202604083696938571",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775602866038571",
+      "share": 3,
+      "showTime": "2026-04-08 07:01:06",
+      "stockList": [
+        "90.BK1616"
+      ],
+      "summary": "现货白银日内涨幅扩大至4%，报75.85美元/盎司。",
+      "title": "现货白银日内涨幅扩大至4% 报75.85美元/盎司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696938571.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1616"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cd01349fb52dcded",
+    "code": "202604083696937671",
+    "title": "美股股指期货扩大涨幅 其中纳指期货涨幅扩大至2%",
+    "summary": "美股股指期货扩大涨幅，其中纳指期货涨幅扩大至2%。",
+    "content": "美股股指期货扩大涨幅，其中纳指期货涨幅扩大至2%。",
+    "full_content": "美股股指期货扩大涨幅，其中纳指期货涨幅扩大至2%。",
+    "sort_time": "1775602657037671",
+    "showTime": "2026-04-08 06:57:37",
+    "time": "2026-04-08 06:57:37",
+    "publish_time": "2026-04-08 06:57:37",
+    "raw_data": {
+      "code": "202604083696937671",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775602657037671",
+      "share": 10,
+      "showTime": "2026-04-08 06:57:37",
+      "stockList": [],
+      "summary": "美股股指期货扩大涨幅，其中纳指期货涨幅扩大至2%。",
+      "title": "美股股指期货扩大涨幅 其中纳指期货涨幅扩大至2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696937671.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 10,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a8ec07d5588ceab4",
+    "code": "202604083696937222",
+    "title": "现货黄金日内涨幅扩大至2% 报4800.86美元/盎司",
+    "summary": "现货黄金日内涨幅扩大至2%，报4800.86美元/盎司。",
+    "content": "现货黄金日内涨幅扩大至2%，报4800.86美元/盎司。",
+    "full_content": "现货黄金日内涨幅扩大至2%，报4800.86美元/盎司。",
+    "sort_time": "1775602620037222",
+    "showTime": "2026-04-08 06:57:00",
+    "time": "2026-04-08 06:57:00",
+    "publish_time": "2026-04-08 06:57:00",
+    "raw_data": {
+      "code": "202604083696937222",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775602620037222",
+      "share": 7,
+      "showTime": "2026-04-08 06:57:00",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金日内涨幅扩大至2%，报4800.86美元/盎司。",
+      "title": "现货黄金日内涨幅扩大至2% 报4800.86美元/盎司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696937222.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 7,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "2284c46cf9e427d1",
+    "code": "202604083696935848",
+    "title": "WTI原油跌幅扩大至12% 报99.2美元/桶",
+    "summary": "WTI原油跌幅扩大至12%，报99.2美元/桶。",
+    "content": "WTI原油跌幅扩大至12%，报99.2美元/桶。",
+    "full_content": "WTI原油跌幅扩大至12%，报99.2美元/桶。",
+    "sort_time": "1775602390035848",
+    "showTime": "2026-04-08 06:53:10",
+    "time": "2026-04-08 06:53:10",
+    "publish_time": "2026-04-08 06:53:10",
+    "raw_data": {
+      "code": "202604083696935848",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1775602390035848",
+      "share": 26,
+      "showTime": "2026-04-08 06:53:10",
+      "stockList": [],
+      "summary": "WTI原油跌幅扩大至12%，报99.2美元/桶。",
+      "title": "WTI原油跌幅扩大至12% 报99.2美元/桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696935848.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 10,
+    "share_count": 26,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "de4c0746141bff43",
+    "code": "202604083696934026",
+    "title": "美联储4月维持利率不变的概率为98.4%",
+    "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为0%，维持利率不变的概率为97.9%，累计加息25个基点的概率为2.1%。",
+    "content": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为0%，维持利率不变的概率为97.9%，累计加息25个基点的概率为2.1%。",
+    "full_content": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为0%，维持利率不变的概率为97.9%，累计加息25个基点的概率为2.1%。",
+    "sort_time": "1775602050034026",
+    "showTime": "2026-04-08 06:47:30",
+    "time": "2026-04-08 06:47:30",
+    "publish_time": "2026-04-08 06:47:30",
+    "raw_data": {
+      "code": "202604083696934026",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775602050034026",
+      "share": 0,
+      "showTime": "2026-04-08 06:47:30",
+      "stockList": [],
+      "summary": "【美联储4月维持利率不变的概率为98.4%】据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为0%，维持利率不变的概率为97.9%，累计加息25个基点的概率为2.1%。",
+      "title": "美联储4月维持利率不变的概率为98.4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696934026.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "降息"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "降息"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "158293d4da51ac39",
+    "code": "202604083696915450",
+    "title": "特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高",
+    "summary": "【特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高】周三亚太早盘，特朗普同意停火两周，美股期货走高，国际油价跳水。美股期指走高，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "content": "【特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高】周三亚太早盘，特朗普同意停火两周，美股期货走高，国际油价跳水。美股期指走高，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "full_content": "【特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高】周三亚太早盘，特朗普同意停火两周，美股期货走高，国际油价跳水。美股期指走高，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "sort_time": "1775601913015450",
+    "showTime": "2026-04-08 06:45:13",
+    "time": "2026-04-08 06:45:13",
+    "publish_time": "2026-04-08 06:45:13",
+    "raw_data": {
+      "code": "202604083696915450",
+      "image": [],
+      "pinglun_Num": 229,
+      "realSort": "1775601913015450",
+      "share": 1080,
+      "showTime": "2026-04-08 06:45:13",
+      "stockList": [
+        "90.BK1361",
+        "90.BK0464"
+      ],
+      "summary": "【特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高】周三亚太早盘，特朗普同意停火两周，美股期货走高，国际油价跳水。美股期指走高，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+      "title": "特朗普同意停火两周 国际油价短线跳水 WTI原油跌超12% 美股期货走高",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696915450.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361",
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 229,
+    "share_count": 1080,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "5334ab9a141f2b61",
+    "code": "202604083696933429",
+    "title": "意防长称拒绝美方使用军事基地符合国际协议",
+    "summary": "【意防长称拒绝美方使用军事基地符合国际协议】意大利国防部长克罗塞托7日表示，意方此前拒绝美国使用其军事基地的做法符合与美方及北约的现有协议，意大利不参与美国和以色列对伊朗的战事。",
+    "content": "【意防长称拒绝美方使用军事基地符合国际协议】意大利国防部长克罗塞托7日表示，意方此前拒绝美国使用其军事基地的做法符合与美方及北约的现有协议，意大利不参与美国和以色列对伊朗的战事。",
+    "full_content": "【意防长称拒绝美方使用军事基地符合国际协议】意大利国防部长克罗塞托7日表示，意方此前拒绝美国使用其军事基地的做法符合与美方及北约的现有协议，意大利不参与美国和以色列对伊朗的战事。",
+    "sort_time": "1775601904033429",
+    "showTime": "2026-04-08 06:45:04",
+    "time": "2026-04-08 06:45:04",
+    "publish_time": "2026-04-08 06:45:04",
+    "raw_data": {
+      "code": "202604083696933429",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1775601904033429",
+      "share": 2,
+      "showTime": "2026-04-08 06:45:04",
+      "stockList": [],
+      "summary": "【意防长称拒绝美方使用军事基地符合国际协议】意大利国防部长克罗塞托7日表示，意方此前拒绝美国使用其军事基地的做法符合与美方及北约的现有协议，意大利不参与美国和以色列对伊朗的战事。",
+      "title": "意防长称拒绝美方使用军事基地符合国际协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696933429.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "f014e9caacac9bf1",
+    "code": "202604083696933391",
+    "title": "WTI原油跌幅扩大至10% 报101.07美元/桶",
+    "summary": "WTI原油跌幅扩大至10%，报101.07美元/桶。",
+    "content": "WTI原油跌幅扩大至10%，报101.07美元/桶。",
+    "full_content": "WTI原油跌幅扩大至10%，报101.07美元/桶。",
+    "sort_time": "1775601733033391",
+    "showTime": "2026-04-08 06:42:13",
+    "time": "2026-04-08 06:42:13",
+    "publish_time": "2026-04-08 06:42:13",
+    "raw_data": {
+      "code": "202604083696933391",
+      "image": [],
+      "pinglun_Num": 35,
+      "realSort": "1775601733033391",
+      "share": 230,
+      "showTime": "2026-04-08 06:42:13",
+      "stockList": [],
+      "summary": "WTI原油跌幅扩大至10%，报101.07美元/桶。",
+      "title": "WTI原油跌幅扩大至10% 报101.07美元/桶",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696933391.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 35,
+    "share_count": 230,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "76eefca4703c932b",
+    "code": "202604083696933275",
+    "title": "国际贵金属涨幅扩大 现货黄金涨1.57%",
+    "summary": "国际贵金属涨幅扩大，现货黄金涨1.57%，报4779.42美元/盎司；现货白银涨2.93%，报75.06美元/盎司。",
+    "content": "国际贵金属涨幅扩大，现货黄金涨1.57%，报4779.42美元/盎司；现货白银涨2.93%，报75.06美元/盎司。",
+    "full_content": "国际贵金属涨幅扩大，现货黄金涨1.57%，报4779.42美元/盎司；现货白银涨2.93%，报75.06美元/盎司。",
+    "sort_time": "1775601671033275",
+    "showTime": "2026-04-08 06:41:11",
+    "time": "2026-04-08 06:41:11",
+    "publish_time": "2026-04-08 06:41:11",
+    "raw_data": {
+      "code": "202604083696933275",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775601671033275",
+      "share": 3,
+      "showTime": "2026-04-08 06:41:11",
+      "stockList": [],
+      "summary": "国际贵金属涨幅扩大，现货黄金涨1.57%，报4779.42美元/盎司；现货白银涨2.93%，报75.06美元/盎司。",
+      "title": "国际贵金属涨幅扩大 现货黄金涨1.57%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696933275.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "106ef3bdd8c13bb9",
+    "code": "202604083696933096",
+    "title": "WTI原油跌幅扩大至9% 报102.56美元/桶",
+    "summary": "WTI原油跌幅扩大至9%，报102.56美元/桶。",
+    "content": "WTI原油跌幅扩大至9%，报102.56美元/桶。",
+    "full_content": "WTI原油跌幅扩大至9%，报102.56美元/桶。",
+    "sort_time": "1775601629033096",
+    "showTime": "2026-04-08 06:40:29",
+    "time": "2026-04-08 06:40:29",
+    "publish_time": "2026-04-08 06:40:29",
+    "raw_data": {
+      "code": "202604083696933096",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775601629033096",
+      "share": 2,
+      "showTime": "2026-04-08 06:40:29",
+      "stockList": [],
+      "summary": "WTI原油跌幅扩大至9%，报102.56美元/桶。",
+      "title": "WTI原油跌幅扩大至9% 报102.56美元/桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696933096.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "b65694ff4dac00a5",
+    "code": "202604083696932630",
+    "title": "美股期指涨幅扩大",
+    "summary": "美股期指涨幅扩大，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "content": "美股期指涨幅扩大，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "full_content": "美股期指涨幅扩大，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+    "sort_time": "1775601554032630",
+    "showTime": "2026-04-08 06:39:14",
+    "time": "2026-04-08 06:39:14",
+    "publish_time": "2026-04-08 06:39:14",
+    "raw_data": {
+      "code": "202604083696932630",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775601554032630",
+      "share": 14,
+      "showTime": "2026-04-08 06:39:14",
+      "stockList": [],
+      "summary": "美股期指涨幅扩大，道琼斯指数期货涨1.51%，标普500指数期货涨1.62%，纳斯达克100指数期货涨1.76%。",
+      "title": "美股期指涨幅扩大",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696932630.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 14,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6973d1c9736a71c7",
+    "code": "202604083696932195",
+    "title": "日元兑美元一度涨0.3% 至159.13",
+    "summary": "日元兑美元一度涨0.3%，至159.13。",
+    "content": "日元兑美元一度涨0.3%，至159.13。",
+    "full_content": "日元兑美元一度涨0.3%，至159.13。",
+    "sort_time": "1775601513032195",
+    "showTime": "2026-04-08 06:38:33",
+    "time": "2026-04-08 06:38:33",
+    "publish_time": "2026-04-08 06:38:33",
+    "raw_data": {
+      "code": "202604083696932195",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775601513032195",
+      "share": 0,
+      "showTime": "2026-04-08 06:38:33",
+      "stockList": [],
+      "summary": "日元兑美元一度涨0.3%，至159.13。",
+      "title": "日元兑美元一度涨0.3% 至159.13",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696932195.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "96ac5ae56d224181",
+    "code": "202604083696931327",
+    "title": "特朗普同意停火两周",
+    "summary": "【特朗普同意停火两周】美国总统特朗普7日在社交媒体平台发文称：“我同意暂停对伊朗的轰炸和袭击行动，为期两周。”",
+    "content": "【特朗普同意停火两周】美国总统特朗普7日在社交媒体平台发文称：“我同意暂停对伊朗的轰炸和袭击行动，为期两周。”",
+    "full_content": "【特朗普同意停火两周】美国总统特朗普7日在社交媒体平台发文称：“我同意暂停对伊朗的轰炸和袭击行动，为期两周。”",
+    "sort_time": "1775601421031327",
+    "showTime": "2026-04-08 06:37:01",
+    "time": "2026-04-08 06:37:01",
+    "publish_time": "2026-04-08 06:37:01",
+    "raw_data": {
+      "code": "202604083696931327",
+      "image": [],
+      "pinglun_Num": 505,
+      "realSort": "1775601421031327",
+      "share": 3009,
+      "showTime": "2026-04-08 06:37:01",
+      "stockList": [],
+      "summary": "【特朗普同意停火两周】美国总统特朗普7日在社交媒体平台发文称：“我同意暂停对伊朗的轰炸和袭击行动，为期两周。”",
+      "title": "特朗普同意停火两周",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696931327.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 505,
+    "share_count": 3009,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1b4bc1367ad2ddae",
+    "code": "202604083696929774",
+    "title": "国际油价短线跳水 WTI原油跌超7%",
+    "summary": "国际油价短线跳水，WTI原油跌超7%，报104.7美元/桶。",
+    "content": "国际油价短线跳水，WTI原油跌超7%，报104.7美元/桶。",
+    "full_content": "国际油价短线跳水，WTI原油跌超7%，报104.7美元/桶。",
+    "sort_time": "1775601300029774",
+    "showTime": "2026-04-08 06:35:00",
+    "time": "2026-04-08 06:35:00",
+    "publish_time": "2026-04-08 06:35:00",
+    "raw_data": {
+      "code": "202604083696929774",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775601300029774",
+      "share": 15,
+      "showTime": "2026-04-08 06:35:00",
+      "stockList": [],
+      "summary": "国际油价短线跳水，WTI原油跌超7%，报104.7美元/桶。",
+      "title": "国际油价短线跳水 WTI原油跌超7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696929774.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 15,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "e111ab5a679cae5a",
     "code": "202604083696926120",
     "title": "周三你需要知道的隔夜全球要闻",
@@ -13,9 +696,9 @@
     "raw_data": {
       "code": "202604083696926120",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 10,
       "realSort": "1775600769026120",
-      "share": 0,
+      "share": 6,
       "showTime": "2026-04-08 06:26:09",
       "stockList": [
         "90.BK0464",
@@ -35,8 +718,8 @@
       "150.011631"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 10,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -58,9 +741,9 @@
     "raw_data": {
       "code": "202604083696925218",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1775600411025218",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-08 06:20:11",
       "stockList": [
         "90.BK0697",
@@ -80,8 +763,8 @@
       "999.144810"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -113,9 +796,9 @@
     "raw_data": {
       "code": "202604083696917265",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1775599744017265",
-      "share": 2,
+      "share": 5,
       "showTime": "2026-04-08 06:09:04",
       "stockList": [
         "90.BK1616"
@@ -133,8 +816,8 @@
       "90.BK1616"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 2,
+    "comment_count": 2,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -164,9 +847,9 @@
     "raw_data": {
       "code": "202604083696916021",
       "image": [],
-      "pinglun_Num": 28,
+      "pinglun_Num": 66,
       "realSort": "1775599672016021",
-      "share": 23,
+      "share": 48,
       "showTime": "2026-04-08 06:07:52",
       "stockList": [],
       "summary": "【以媒：特朗普设定期限临近 美伊谈判出现进展】以色列媒体7日晚报道说，在美国总统特朗普为伊朗设定的期限即将到期之际，美伊接触取得一定进展，各方正努力推动达成临时停火，并探讨逐步开放霍尔木兹海峡的可能性。以色列公共广播公司援引外交消息人士的话报道说，巴基斯坦方面提出将期限延后两周的建议，磋商正在紧张进行，相关接触出现“积极进展”，但尚未最终敲定。",
@@ -180,8 +863,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 28,
-    "share_count": 23,
+    "comment_count": 66,
+    "share_count": 48,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -205,7 +888,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1775599490015679",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-08 06:04:50",
       "stockList": [],
       "summary": "现货白银日内涨幅扩大至1%，报73.83美元/盎司。",
@@ -220,65 +903,12 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "856dc1df03b0a39b",
-    "code": "202604083696915450",
-    "title": "市场重燃通过外交途径结束中东冲突的希望 美油低开2%、美股期指高开1%",
-    "summary": "【市场重燃通过外交途径结束中东冲突的希望 美油低开2%、美股期指高开1%】周三亚太早盘，WTI原油跌4.42%，报107.90美元/桶。美股期指走高，道琼斯指数期货涨0.90%，标普500指数期货涨1.00%，纳斯达克指数期货涨1.00%。贵金属走高，现货黄金涨0.89%，报4747.45美元/盎司；现货白银涨0.93%，报73.60美元/盎司。消息面上，巴基斯坦总理夏巴兹8日凌晨在社交媒体发文说，他请求美国总统特朗普将“最后期限”延后两周，同时请求伊朗开放霍尔木兹海峡两周以示善意。",
-    "content": "【市场重燃通过外交途径结束中东冲突的希望 美油低开2%、美股期指高开1%】周三亚太早盘，WTI原油跌4.42%，报107.90美元/桶。美股期指走高，道琼斯指数期货涨0.90%，标普500指数期货涨1.00%，纳斯达克指数期货涨1.00%。贵金属走高，现货黄金涨0.89%，报4747.45美元/盎司；现货白银涨0.93%，报73.60美元/盎司。消息面上，巴基斯坦总理夏巴兹8日凌晨在社交媒体发文说，他请求美国总统特朗普将“最后期限”延后两周，同时请求伊朗开放霍尔木兹海峡两周以示善意。",
-    "full_content": "【市场重燃通过外交途径结束中东冲突的希望 美油低开2%、美股期指高开1%】周三亚太早盘，WTI原油跌4.42%，报107.90美元/桶。美股期指走高，道琼斯指数期货涨0.90%，标普500指数期货涨1.00%，纳斯达克指数期货涨1.00%。贵金属走高，现货黄金涨0.89%，报4747.45美元/盎司；现货白银涨0.93%，报73.60美元/盎司。消息面上，巴基斯坦总理夏巴兹8日凌晨在社交媒体发文说，他请求美国总统特朗普将“最后期限”延后两周，同时请求伊朗开放霍尔木兹海峡两周以示善意。",
-    "sort_time": "1775599453015450",
-    "showTime": "2026-04-08 06:04:13",
-    "time": "2026-04-08 06:04:13",
-    "publish_time": "2026-04-08 06:04:13",
-    "raw_data": {
-      "code": "202604083696915450",
-      "image": [],
-      "pinglun_Num": 33,
-      "realSort": "1775599453015450",
-      "share": 113,
-      "showTime": "2026-04-08 06:04:13",
-      "stockList": [],
-      "summary": "【市场重燃通过外交途径结束中东冲突的希望 美油低开2%、美股期指高开1%】周三亚太早盘，WTI原油跌4.42%，报107.90美元/桶。美股期指走高，道琼斯指数期货涨0.90%，标普500指数期货涨1.00%，纳斯达克指数期货涨1.00%。贵金属走高，现货黄金涨0.89%，报4747.45美元/盎司；现货白银涨0.93%，报73.60美元/盎司。消息面上，巴基斯坦总理夏巴兹8日凌晨在社交媒体发文说，他请求美国总统特朗普将“最后期限”延后两周，同时请求伊朗开放霍尔木兹海峡两周以示善意。",
-      "title": "市场重燃通过外交途径结束中东冲突的希望 美油低开2%、美股期指高开1%",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696915450.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 33,
-    "share_count": 113,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "贵金属"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502",
-        "C506"
-      ]
     }
   },
   {
@@ -295,7 +925,7 @@
     "raw_data": {
       "code": "202604083696913652",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1775599254013652",
       "share": 2,
       "showTime": "2026-04-08 06:00:54",
@@ -311,7 +941,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -336,7 +966,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1775599184012938",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-04-08 05:59:44",
       "stockList": [],
       "summary": "【中央气象台继续发布大风蓝色预警】中央气象台4月8日06时继续发布大风蓝色预警：预计，4月8日08时至9日08时，新疆东部和南疆盆地、内蒙古、甘肃东部、宁夏北部、吉林中西部、辽宁北部以及西藏大部、川西高原、云南、贵州等地部分地区有5~7级风，阵风8~9级；黄海中部和南部海域、东海西北部海域有7级风，阵风8级。",
@@ -351,7 +981,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -463,9 +1093,9 @@
     "raw_data": {
       "code": "202604083696906672",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 11,
       "realSort": "1775597145006672",
-      "share": 4,
+      "share": 7,
       "showTime": "2026-04-08 05:25:45",
       "stockList": [],
       "summary": "【以色列南部遭伊朗导弹袭击】以色列南部地区遭伊朗导弹袭击，迪莫纳、贝尔谢巴等地先后拉响防空警报。据称其中一枚导弹“被以色列防空系统拦截后坠落碎片造成2人受伤”。",
@@ -479,8 +1109,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 4,
+    "comment_count": 11,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -502,9 +1132,9 @@
     "raw_data": {
       "code": "202604083696906231",
       "image": [],
-      "pinglun_Num": 84,
+      "pinglun_Num": 108,
       "realSort": "1775596841006231",
-      "share": 106,
+      "share": 137,
       "showTime": "2026-04-08 05:20:41",
       "stockList": [],
       "summary": "【消息人士：预计美伊双方很快传来“好消息”】在巴基斯坦总理夏巴兹提出“两周方案”之后，消息人士透露，预计美伊双方很快将传来好消息，预计在当地时间7日晚前将达成最终协议。夏巴兹稍早时候在社交媒体发文说：“旨在和平结束当前中东战事的外交努力正坚定有力地推进，有望在近期取得切实成功。”为给外交进程留出空间，他请求特朗普将“最后期限”延后两周，同时请求“伊朗兄弟”开放霍尔木兹海峡两周以示善意。",
@@ -518,8 +1148,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 84,
-    "share_count": 106,
+    "comment_count": 108,
+    "share_count": 137,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -541,9 +1171,9 @@
     "raw_data": {
       "code": "202604083696905970",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 13,
       "realSort": "1775596771005970",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-04-08 05:19:31",
       "stockList": [],
       "summary": "【美媒：美伊谈判有进展 达成协议仍渺茫】美国阿克西奥斯新闻网站7日报道，美国、以色列官员以及另外两名知情人士透露，过去24小时内，美国与伊朗的谈判已取得进展，但要在美总统特朗普所设美东时间当天20时的最后期限前达成协议，目前仍希望渺茫。这些消息人士说，预计谈判将在接下来几小时内继续，一直持续到特朗普设定的最后期限。",
@@ -557,8 +1187,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 7,
+    "comment_count": 13,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -580,7 +1210,7 @@
     "raw_data": {
       "code": "202604083696905843",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 5,
       "realSort": "1775596690005843",
       "share": 0,
       "showTime": "2026-04-08 05:18:10",
@@ -596,7 +1226,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -621,11 +1251,9 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1775596517005362",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-08 05:15:17",
-      "stockList": [
-        "90.BK0830"
-      ],
+      "stockList": [],
       "summary": "【比特币突破70000美元】行情显示，比特币涨至70072.2美元，过去24小时内涨0.5%。",
       "title": "比特币突破70000美元",
       "titleColor": 0
@@ -633,14 +1261,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202604083696905362.html",
     "category": "其他",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0830"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -670,9 +1296,9 @@
     "raw_data": {
       "code": "202604083696904948",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 21,
       "realSort": "1775596363004948",
-      "share": 11,
+      "share": 13,
       "showTime": "2026-04-08 05:12:43",
       "stockList": [],
       "summary": "【伊朗多处石化工厂及铝厂设施遭袭】当地时间8日从伊朗方面获悉，位于伊朗马赫沙赫尔石化特区的阿米尔·卡比尔石化公司工厂遭到袭击。初步调查显示，袭击已造成阿米尔·卡比尔、法杰尔和班达尔伊玛目石化厂的部分设施受损。另有消息称，伊朗阿拉克铝厂遭到袭击。",
@@ -686,8 +1312,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
-    "share_count": 11,
+    "comment_count": 21,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [
@@ -723,9 +1349,9 @@
     "raw_data": {
       "code": "202604083696904836",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 12,
       "realSort": "1775596120004836",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-08 05:08:40",
       "stockList": [],
       "summary": "【中国驻以色列大使馆再次提示中国公民加强安全防范】中国驻以色列大使馆7日发表声明说，中东安全形势急剧恶化，提醒在以中国公民加强安全防范。声明说，战争即将发生重大升级，失控风险极高。使馆再次提醒在以中国公民，一定要对自己的生命负责，严格遵守以色列后方司令部指令，保持高度警惕，万不可麻痹大意，切勿远离避弹设施，提前熟悉避险路线，听到手机预警和防空警报务必第一时间进入避弹设施，切实加强安全防范。如遇紧急情况，请及时报警并与使馆取得联系。",
@@ -739,8 +1365,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 4,
+    "comment_count": 12,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -762,9 +1388,9 @@
     "raw_data": {
       "code": "202604083696903631",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 11,
       "realSort": "1775594865003631",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-04-08 04:47:45",
       "stockList": [],
       "summary": "伊朗称位于马赫沙赫尔的阿米尔卡比尔石化厂（Amirkabir）遭到袭击。",
@@ -778,8 +1404,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 1,
+    "comment_count": 11,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -895,9 +1521,9 @@
     "raw_data": {
       "code": "202604083696900889",
       "image": [],
-      "pinglun_Num": 54,
+      "pinglun_Num": 82,
       "realSort": "1775593845000889",
-      "share": 37,
+      "share": 50,
       "showTime": "2026-04-08 04:30:45",
       "stockList": [],
       "summary": "【特朗普称美方正就伊朗战争进行“激烈谈判”】当地时间4月7日，特朗普在接受采访时表示，美国目前正就伊朗战争进行“激烈谈判”，但未透露更多细节。他还称，自己即将听取关于巴基斯坦总理提出“两周停火”建议的完整简报。此前白宫已表示，总统已获悉该提议，并将作出回应。",
@@ -911,8 +1537,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 54,
-    "share_count": 37,
+    "comment_count": 82,
+    "share_count": 50,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -936,7 +1562,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1775593658003735",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-08 04:27:38",
       "stockList": [],
       "summary": "【美元指数7日下跌】美元指数7日下跌。衡量美元对六种主要货币的美元指数当天下跌0.12%，在汇市尾市收于99.857。截至纽约汇市尾市，1欧元兑换1.1574美元，高于前一交易日的1.1549美元；1英镑兑换1.3251美元，高于前一交易日的1.3241美元。1美元兑换159.73日元，高于前一交易日的159.63日元；1美元兑换0.7988瑞士法郎，高于前一交易日的0.7977瑞士法郎；1美元兑换1.3899加元，低于前一交易日的1.3914加元；1美元兑换9.5065瑞典克朗，高于前一交易日的9.4355瑞典克朗。",
@@ -951,7 +1577,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1141,7 +1767,7 @@
     "raw_data": {
       "code": "202604083696898226",
       "image": [],
-      "pinglun_Num": 59,
+      "pinglun_Num": 61,
       "realSort": "1775592250098226",
       "share": 18,
       "showTime": "2026-04-08 04:04:10",
@@ -1157,7 +1783,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 59,
+    "comment_count": 61,
     "share_count": 18,
     "tags": {
       "industries": [],
@@ -1219,9 +1845,9 @@
     "raw_data": {
       "code": "202604083696897484",
       "image": [],
-      "pinglun_Num": 399,
+      "pinglun_Num": 460,
       "realSort": "1775591745097484",
-      "share": 389,
+      "share": 599,
       "showTime": "2026-04-08 03:55:45",
       "stockList": [
         "90.BK0464",
@@ -1241,8 +1867,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 399,
-    "share_count": 389,
+    "comment_count": 460,
+    "share_count": 599,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1344,7 +1970,7 @@
       "image": [],
       "pinglun_Num": 31,
       "realSort": "1775590455097179",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-04-08 03:34:15",
       "stockList": [],
       "summary": "【伊朗官员：伊方通过调解人与美沟通仍在继续】总台记者当地时间4月7日获悉，伊朗官员透露，伊方通过调解人与美国的信息交流仍在继续，但未公布具体细节。",
@@ -1359,7 +1985,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 31,
-    "share_count": 6,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1556,9 +2182,9 @@
     "raw_data": {
       "code": "202604083696896618",
       "image": [],
-      "pinglun_Num": 24,
+      "pinglun_Num": 25,
       "realSort": "1775589437096618",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-04-08 03:17:17",
       "stockList": [],
       "summary": "【伊朗军方：已为特朗普可能的疯狂之举准备“惊喜”】一位军方知情人士称，伊朗已经为美国总统特朗普可能的疯狂之举准备了“惊喜”，其中之一就是将沙特阿美石油公司、延布油田和富查伊拉输油管道列入伊朗的打击目标。他表示，如果特朗普真的犯下罪行，伊朗将毫不犹豫地让美国及其盟友付出沉重代价。他还强调，“如果特朗普执意越陷越深，我们已经为他准备了一个黑洞，让他无法逃脱”。",
@@ -1572,8 +2198,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 24,
-    "share_count": 6,
+    "comment_count": 25,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1587,574 +2213,6 @@
       "concept_ids": [
         "C506"
       ]
-    }
-  },
-  {
-    "id": "0a70d3928542658e",
-    "code": "202604083696896571",
-    "title": "马士基租用的船只在霍尔木兹海峡被炮弹击中",
-    "summary": "【马士基租用的船只在霍尔木兹海峡被炮弹击中】当地时间4月7日，丹麦航运巨头马士基租用的船只在霍尔木兹海峡被炮弹击中，船员安然无恙，但船舶遭受实质性损坏，水线以上部分受损。该船可自主航行，目前正前往最近的停靠港接受检查。马士基公司未透露炮弹来源。",
-    "content": "【马士基租用的船只在霍尔木兹海峡被炮弹击中】当地时间4月7日，丹麦航运巨头马士基租用的船只在霍尔木兹海峡被炮弹击中，船员安然无恙，但船舶遭受实质性损坏，水线以上部分受损。该船可自主航行，目前正前往最近的停靠港接受检查。马士基公司未透露炮弹来源。",
-    "full_content": "【马士基租用的船只在霍尔木兹海峡被炮弹击中】当地时间4月7日，丹麦航运巨头马士基租用的船只在霍尔木兹海峡被炮弹击中，船员安然无恙，但船舶遭受实质性损坏，水线以上部分受损。该船可自主航行，目前正前往最近的停靠港接受检查。马士基公司未透露炮弹来源。",
-    "sort_time": "1775589264096571",
-    "showTime": "2026-04-08 03:14:24",
-    "time": "2026-04-08 03:14:24",
-    "publish_time": "2026-04-08 03:14:24",
-    "raw_data": {
-      "code": "202604083696896571",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1775589264096571",
-      "share": 2,
-      "showTime": "2026-04-08 03:14:24",
-      "stockList": [],
-      "summary": "【马士基租用的船只在霍尔木兹海峡被炮弹击中】当地时间4月7日，丹麦航运巨头马士基租用的船只在霍尔木兹海峡被炮弹击中，船员安然无恙，但船舶遭受实质性损坏，水线以上部分受损。该船可自主航行，目前正前往最近的停靠港接受检查。马士基公司未透露炮弹来源。",
-      "title": "马士基租用的船只在霍尔木兹海峡被炮弹击中",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696896571.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 12,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "9690f93594ea5520",
-    "code": "202604083696896321",
-    "title": "沙特与巴林跨境大桥因袭击警报再次暂停通行",
-    "summary": "【沙特与巴林跨境大桥因袭击警报再次暂停通行】法赫德国王大桥管理局7日晚在社交媒体上说，因过去数小时内预警平台发布针对沙特阿拉伯东部省的袭击警报，再次暂停这座沙特与巴林跨境大桥的车辆通行。根据该机构此前声明，法赫德国王大桥当天早晨因相同原因宣布暂停车辆通行，并在数小时后恢复通行。法赫德国王大桥是连接沙特与巴林的关键通道。",
-    "content": "【沙特与巴林跨境大桥因袭击警报再次暂停通行】法赫德国王大桥管理局7日晚在社交媒体上说，因过去数小时内预警平台发布针对沙特阿拉伯东部省的袭击警报，再次暂停这座沙特与巴林跨境大桥的车辆通行。根据该机构此前声明，法赫德国王大桥当天早晨因相同原因宣布暂停车辆通行，并在数小时后恢复通行。法赫德国王大桥是连接沙特与巴林的关键通道。",
-    "full_content": "【沙特与巴林跨境大桥因袭击警报再次暂停通行】法赫德国王大桥管理局7日晚在社交媒体上说，因过去数小时内预警平台发布针对沙特阿拉伯东部省的袭击警报，再次暂停这座沙特与巴林跨境大桥的车辆通行。根据该机构此前声明，法赫德国王大桥当天早晨因相同原因宣布暂停车辆通行，并在数小时后恢复通行。法赫德国王大桥是连接沙特与巴林的关键通道。",
-    "sort_time": "1775588187096321",
-    "showTime": "2026-04-08 02:56:27",
-    "time": "2026-04-08 02:56:27",
-    "publish_time": "2026-04-08 02:56:27",
-    "raw_data": {
-      "code": "202604083696896321",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1775588187096321",
-      "share": 0,
-      "showTime": "2026-04-08 02:56:27",
-      "stockList": [],
-      "summary": "【沙特与巴林跨境大桥因袭击警报再次暂停通行】法赫德国王大桥管理局7日晚在社交媒体上说，因过去数小时内预警平台发布针对沙特阿拉伯东部省的袭击警报，再次暂停这座沙特与巴林跨境大桥的车辆通行。根据该机构此前声明，法赫德国王大桥当天早晨因相同原因宣布暂停车辆通行，并在数小时后恢复通行。法赫德国王大桥是连接沙特与巴林的关键通道。",
-      "title": "沙特与巴林跨境大桥因袭击警报再次暂停通行",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696896321.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d405fc5d770bd3a4",
-    "code": "202604083696896246",
-    "title": "美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议",
-    "summary": "【美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议】两名美国官员表示，在是否对伊朗关键基础设施发动打击的问题上，美国总统特朗普正在考虑五角大楼提出的方案，其中包括针对“军民两用”目标的打击选项。据披露，相关目标可能包括桥梁、电力设施及海水淡化设施等。分析人士指出，选择“军民两用”目标，或使美方能够主张其打击对象具有军事用途，从而在法律上规避被认定为战争罪的风险。",
-    "content": "【美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议】两名美国官员表示，在是否对伊朗关键基础设施发动打击的问题上，美国总统特朗普正在考虑五角大楼提出的方案，其中包括针对“军民两用”目标的打击选项。据披露，相关目标可能包括桥梁、电力设施及海水淡化设施等。分析人士指出，选择“军民两用”目标，或使美方能够主张其打击对象具有军事用途，从而在法律上规避被认定为战争罪的风险。",
-    "full_content": "【美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议】两名美国官员表示，在是否对伊朗关键基础设施发动打击的问题上，美国总统特朗普正在考虑五角大楼提出的方案，其中包括针对“军民两用”目标的打击选项。据披露，相关目标可能包括桥梁、电力设施及海水淡化设施等。分析人士指出，选择“军民两用”目标，或使美方能够主张其打击对象具有军事用途，从而在法律上规避被认定为战争罪的风险。",
-    "sort_time": "1775587728096246",
-    "showTime": "2026-04-08 02:48:48",
-    "time": "2026-04-08 02:48:48",
-    "publish_time": "2026-04-08 02:48:48",
-    "raw_data": {
-      "code": "202604083696896246",
-      "image": [],
-      "pinglun_Num": 17,
-      "realSort": "1775587728096246",
-      "share": 2,
-      "showTime": "2026-04-08 02:48:48",
-      "stockList": [],
-      "summary": "【美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议】两名美国官员表示，在是否对伊朗关键基础设施发动打击的问题上，美国总统特朗普正在考虑五角大楼提出的方案，其中包括针对“军民两用”目标的打击选项。据披露，相关目标可能包括桥梁、电力设施及海水淡化设施等。分析人士指出，选择“军民两用”目标，或使美方能够主张其打击对象具有军事用途，从而在法律上规避被认定为战争罪的风险。",
-      "title": "美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696896246.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 17,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d8608ca793fad516",
-    "code": "202604083696895360",
-    "title": "IMF总裁格奥尔基耶娃表示：IMF计划因中东冲突下调全球经济增长预期",
-    "summary": "IMF总裁格奥尔基耶娃表示，IMF计划因中东冲突下调全球经济增长预期。",
-    "content": "IMF总裁格奥尔基耶娃表示，IMF计划因中东冲突下调全球经济增长预期。",
-    "full_content": "IMF总裁格奥尔基耶娃表示，IMF计划因中东冲突下调全球经济增长预期。",
-    "sort_time": "1775587601095360",
-    "showTime": "2026-04-08 02:46:41",
-    "time": "2026-04-08 02:46:41",
-    "publish_time": "2026-04-08 02:46:41",
-    "raw_data": {
-      "code": "202604083696895360",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1775587601095360",
-      "share": 1,
-      "showTime": "2026-04-08 02:46:41",
-      "stockList": [],
-      "summary": "IMF总裁格奥尔基耶娃表示，IMF计划因中东冲突下调全球经济增长预期。",
-      "title": "IMF总裁格奥尔基耶娃表示：IMF计划因中东冲突下调全球经济增长预期",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696895360.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "97dbc0cac1f711b1",
-    "code": "202604083696894284",
-    "title": "伊朗称打击沙特境内一美资石化综合体",
-    "summary": "【伊朗称打击沙特境内一美资石化综合体】伊朗伊斯兰革命卫队7日发表声明称，革命卫队在当天发动的“真实承诺-4”行动第99波攻势中，打击了沙特阿拉伯境内一家美资石化综合体以及美国在该国的其他一些重要资产。据伊朗伊斯兰共和国通讯社援引这份声明报道，伊朗导弹还打击了一艘属于以色列的集装箱船。该船原计划利用阿联酋港口向以色列运输军事装备。此举意在警告其他企图与美以合作的船只。",
-    "content": "【伊朗称打击沙特境内一美资石化综合体】伊朗伊斯兰革命卫队7日发表声明称，革命卫队在当天发动的“真实承诺-4”行动第99波攻势中，打击了沙特阿拉伯境内一家美资石化综合体以及美国在该国的其他一些重要资产。据伊朗伊斯兰共和国通讯社援引这份声明报道，伊朗导弹还打击了一艘属于以色列的集装箱船。该船原计划利用阿联酋港口向以色列运输军事装备。此举意在警告其他企图与美以合作的船只。",
-    "full_content": "【伊朗称打击沙特境内一美资石化综合体】伊朗伊斯兰革命卫队7日发表声明称，革命卫队在当天发动的“真实承诺-4”行动第99波攻势中，打击了沙特阿拉伯境内一家美资石化综合体以及美国在该国的其他一些重要资产。据伊朗伊斯兰共和国通讯社援引这份声明报道，伊朗导弹还打击了一艘属于以色列的集装箱船。该船原计划利用阿联酋港口向以色列运输军事装备。此举意在警告其他企图与美以合作的船只。",
-    "sort_time": "1775587456094284",
-    "showTime": "2026-04-08 02:44:16",
-    "time": "2026-04-08 02:44:16",
-    "publish_time": "2026-04-08 02:44:16",
-    "raw_data": {
-      "code": "202604083696894284",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1775587456094284",
-      "share": 0,
-      "showTime": "2026-04-08 02:44:16",
-      "stockList": [],
-      "summary": "【伊朗称打击沙特境内一美资石化综合体】伊朗伊斯兰革命卫队7日发表声明称，革命卫队在当天发动的“真实承诺-4”行动第99波攻势中，打击了沙特阿拉伯境内一家美资石化综合体以及美国在该国的其他一些重要资产。据伊朗伊斯兰共和国通讯社援引这份声明报道，伊朗导弹还打击了一艘属于以色列的集装箱船。该船原计划利用阿联酋港口向以色列运输军事装备。此举意在警告其他企图与美以合作的船只。",
-      "title": "伊朗称打击沙特境内一美资石化综合体",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696894284.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "7c0f1d542dfec008",
-    "code": "202604083696893982",
-    "title": "联合国人权高专：威胁消灭“整个文明”的言论“令人发指”",
-    "summary": "【联合国人权高专：威胁消灭“整个文明”的言论“令人发指”】联合国人权事务高级专员图尔克7日说，威胁消灭“整个文明”的言论“令人发指”。图尔克当天在一份声明中对中东冲突中的煽动性言论表示谴责，尤其是新出现的要消灭“整个文明”以及以民用基础设施为目标的威胁言论。“这令人发指。”",
-    "content": "【联合国人权高专：威胁消灭“整个文明”的言论“令人发指”】联合国人权事务高级专员图尔克7日说，威胁消灭“整个文明”的言论“令人发指”。图尔克当天在一份声明中对中东冲突中的煽动性言论表示谴责，尤其是新出现的要消灭“整个文明”以及以民用基础设施为目标的威胁言论。“这令人发指。”",
-    "full_content": "【联合国人权高专：威胁消灭“整个文明”的言论“令人发指”】联合国人权事务高级专员图尔克7日说，威胁消灭“整个文明”的言论“令人发指”。图尔克当天在一份声明中对中东冲突中的煽动性言论表示谴责，尤其是新出现的要消灭“整个文明”以及以民用基础设施为目标的威胁言论。“这令人发指。”",
-    "sort_time": "1775587398093982",
-    "showTime": "2026-04-08 02:43:18",
-    "time": "2026-04-08 02:43:18",
-    "publish_time": "2026-04-08 02:43:18",
-    "raw_data": {
-      "code": "202604083696893982",
-      "image": [],
-      "pinglun_Num": 22,
-      "realSort": "1775587398093982",
-      "share": 4,
-      "showTime": "2026-04-08 02:43:18",
-      "stockList": [],
-      "summary": "【联合国人权高专：威胁消灭“整个文明”的言论“令人发指”】联合国人权事务高级专员图尔克7日说，威胁消灭“整个文明”的言论“令人发指”。图尔克当天在一份声明中对中东冲突中的煽动性言论表示谴责，尤其是新出现的要消灭“整个文明”以及以民用基础设施为目标的威胁言论。“这令人发指。”",
-      "title": "联合国人权高专：威胁消灭“整个文明”的言论“令人发指”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696893982.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3483dcc7d207e3ee",
-    "code": "202604083696892651",
-    "title": "美国交通部长达菲表示：航空燃油价格上涨只是短期问题",
-    "summary": "美国交通部长达菲表示，航空燃油价格上涨只是短期问题。",
-    "content": "美国交通部长达菲表示，航空燃油价格上涨只是短期问题。",
-    "full_content": "美国交通部长达菲表示，航空燃油价格上涨只是短期问题。",
-    "sort_time": "1775587057092651",
-    "showTime": "2026-04-08 02:37:37",
-    "time": "2026-04-08 02:37:37",
-    "publish_time": "2026-04-08 02:37:37",
-    "raw_data": {
-      "code": "202604083696892651",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1775587057092651",
-      "share": 0,
-      "showTime": "2026-04-08 02:37:37",
-      "stockList": [],
-      "summary": "美国交通部长达菲表示，航空燃油价格上涨只是短期问题。",
-      "title": "美国交通部长达菲表示：航空燃油价格上涨只是短期问题",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696892651.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "航空"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "7314041174f383af",
-    "code": "202604083696892177",
-    "title": "联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党",
-    "summary": "【联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党】当地时间4月7日，联合国秘书长发言人迪雅里克在例行记者会上宣布，根据联合国驻黎巴嫩临时部队（联黎部队）的初步调查结果，3月29日和30日发生的维和人员遇袭身亡事件，爆炸物分别来自以色列和真主党，相关结果已通报有关各方。",
-    "content": "【联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党】当地时间4月7日，联合国秘书长发言人迪雅里克在例行记者会上宣布，根据联合国驻黎巴嫩临时部队（联黎部队）的初步调查结果，3月29日和30日发生的维和人员遇袭身亡事件，爆炸物分别来自以色列和真主党，相关结果已通报有关各方。",
-    "full_content": "【联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党】当地时间4月7日，联合国秘书长发言人迪雅里克在例行记者会上宣布，根据联合国驻黎巴嫩临时部队（联黎部队）的初步调查结果，3月29日和30日发生的维和人员遇袭身亡事件，爆炸物分别来自以色列和真主党，相关结果已通报有关各方。",
-    "sort_time": "1775586945092177",
-    "showTime": "2026-04-08 02:35:45",
-    "time": "2026-04-08 02:35:45",
-    "publish_time": "2026-04-08 02:35:45",
-    "raw_data": {
-      "code": "202604083696892177",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1775586945092177",
-      "share": 0,
-      "showTime": "2026-04-08 02:35:45",
-      "stockList": [],
-      "summary": "【联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党】当地时间4月7日，联合国秘书长发言人迪雅里克在例行记者会上宣布，根据联合国驻黎巴嫩临时部队（联黎部队）的初步调查结果，3月29日和30日发生的维和人员遇袭身亡事件，爆炸物分别来自以色列和真主党，相关结果已通报有关各方。",
-      "title": "联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696892177.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "191773bd84c05268",
-    "code": "202604083696888942",
-    "title": "即期布伦特原油价格涨至144.42美元/桶",
-    "summary": "即期布伦特原油价格涨至144.42美元/桶，创历史新高。",
-    "content": "即期布伦特原油价格涨至144.42美元/桶，创历史新高。",
-    "full_content": "即期布伦特原油价格涨至144.42美元/桶，创历史新高。",
-    "sort_time": "1775586555088942",
-    "showTime": "2026-04-08 02:29:15",
-    "time": "2026-04-08 02:29:15",
-    "publish_time": "2026-04-08 02:29:15",
-    "raw_data": {
-      "code": "202604083696888942",
-      "image": [],
-      "pinglun_Num": 22,
-      "realSort": "1775586555088942",
-      "share": 7,
-      "showTime": "2026-04-08 02:29:15",
-      "stockList": [],
-      "summary": "即期布伦特原油价格涨至144.42美元/桶，创历史新高。",
-      "title": "即期布伦特原油价格涨至144.42美元/桶",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696888942.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "6958dd50cb195112",
-    "code": "202604083696888484",
-    "title": "美经济学家：所谓对伊开战有利美国经济十分荒谬",
-    "summary": "【美经济学家：所谓对伊开战有利美国经济十分荒谬】据美国方面6日消息，多位经济学家对美国政府近日提出的“一旦伊朗战事结束，美国经济将迅速复苏”这一说法表示异议。专家认为，战事给美国经济带来的损害将长时间存在，价格上涨可能持续数年。",
-    "content": "【美经济学家：所谓对伊开战有利美国经济十分荒谬】据美国方面6日消息，多位经济学家对美国政府近日提出的“一旦伊朗战事结束，美国经济将迅速复苏”这一说法表示异议。专家认为，战事给美国经济带来的损害将长时间存在，价格上涨可能持续数年。",
-    "full_content": "【美经济学家：所谓对伊开战有利美国经济十分荒谬】据美国方面6日消息，多位经济学家对美国政府近日提出的“一旦伊朗战事结束，美国经济将迅速复苏”这一说法表示异议。专家认为，战事给美国经济带来的损害将长时间存在，价格上涨可能持续数年。",
-    "sort_time": "1775586079088484",
-    "showTime": "2026-04-08 02:21:19",
-    "time": "2026-04-08 02:21:19",
-    "publish_time": "2026-04-08 02:21:19",
-    "raw_data": {
-      "code": "202604083696888484",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1775586079088484",
-      "share": 3,
-      "showTime": "2026-04-08 02:21:19",
-      "stockList": [
-        "150.012341",
-        "0.159891"
-      ],
-      "summary": "【美经济学家：所谓对伊开战有利美国经济十分荒谬】据美国方面6日消息，多位经济学家对美国政府近日提出的“一旦伊朗战事结束，美国经济将迅速复苏”这一说法表示异议。专家认为，战事给美国经济带来的损害将长时间存在，价格上涨可能持续数年。",
-      "title": "美经济学家：所谓对伊开战有利美国经济十分荒谬",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696888484.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "150.012341",
-      "0.159891"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "79cd5691a97b1e70",
-    "code": "202604083696886130",
-    "title": "伊朗代表：断然拒绝临时停火 要求彻底停止侵略",
-    "summary": "【伊朗代表：断然拒绝临时停火 要求彻底停止侵略】伊朗常驻联合国代表伊拉瓦尼7日在联合国安理会发言时表示，伊朗断然拒绝临时停火，要求美国和以色列彻底停止侵略。",
-    "content": "【伊朗代表：断然拒绝临时停火 要求彻底停止侵略】伊朗常驻联合国代表伊拉瓦尼7日在联合国安理会发言时表示，伊朗断然拒绝临时停火，要求美国和以色列彻底停止侵略。",
-    "full_content": "【伊朗代表：断然拒绝临时停火 要求彻底停止侵略】伊朗常驻联合国代表伊拉瓦尼7日在联合国安理会发言时表示，伊朗断然拒绝临时停火，要求美国和以色列彻底停止侵略。",
-    "sort_time": "1775585843086130",
-    "showTime": "2026-04-08 02:17:23",
-    "time": "2026-04-08 02:17:23",
-    "publish_time": "2026-04-08 02:17:23",
-    "raw_data": {
-      "code": "202604083696886130",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1775585843086130",
-      "share": 1,
-      "showTime": "2026-04-08 02:17:23",
-      "stockList": [],
-      "summary": "【伊朗代表：断然拒绝临时停火 要求彻底停止侵略】伊朗常驻联合国代表伊拉瓦尼7日在联合国安理会发言时表示，伊朗断然拒绝临时停火，要求美国和以色列彻底停止侵略。",
-      "title": "伊朗代表：断然拒绝临时停火 要求彻底停止侵略",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696886130.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "7e101be9c50ebaf9",
-    "code": "202604083696885824",
-    "title": "以军发布警告 要求黎南部海域船只北撤",
-    "summary": "【以军发布警告 要求黎南部海域船只北撤】据黎巴嫩国家通讯社7日报道，以军发言人阿维凯·阿德拉伊当晚通过社交媒体平台，向在黎南部提尔至纳古拉之间海域活动的船只发出警告，要求相关海域内停泊或航行的船只立即驶往提尔以北海域，以确保“安全”。",
-    "content": "【以军发布警告 要求黎南部海域船只北撤】据黎巴嫩国家通讯社7日报道，以军发言人阿维凯·阿德拉伊当晚通过社交媒体平台，向在黎南部提尔至纳古拉之间海域活动的船只发出警告，要求相关海域内停泊或航行的船只立即驶往提尔以北海域，以确保“安全”。",
-    "full_content": "【以军发布警告 要求黎南部海域船只北撤】据黎巴嫩国家通讯社7日报道，以军发言人阿维凯·阿德拉伊当晚通过社交媒体平台，向在黎南部提尔至纳古拉之间海域活动的船只发出警告，要求相关海域内停泊或航行的船只立即驶往提尔以北海域，以确保“安全”。",
-    "sort_time": "1775585812085824",
-    "showTime": "2026-04-08 02:16:52",
-    "time": "2026-04-08 02:16:52",
-    "publish_time": "2026-04-08 02:16:52",
-    "raw_data": {
-      "code": "202604083696885824",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1775585812085824",
-      "share": 0,
-      "showTime": "2026-04-08 02:16:52",
-      "stockList": [],
-      "summary": "【以军发布警告 要求黎南部海域船只北撤】据黎巴嫩国家通讯社7日报道，以军发言人阿维凯·阿德拉伊当晚通过社交媒体平台，向在黎南部提尔至纳古拉之间海域活动的船只发出警告，要求相关海域内停泊或航行的船只立即驶往提尔以北海域，以确保“安全”。",
-      "title": "以军发布警告 要求黎南部海域船只北撤",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696885824.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a9247ccdf1f2a67e",
-    "code": "202604083696883544",
-    "title": "伊朗代表：俄罗斯和中国阻止了滥用安理会的行为",
-    "summary": "【伊朗代表：俄罗斯和中国阻止了滥用安理会的行为】伊朗常驻联合国代表伊拉瓦尼7日在安理会发言时表示，俄罗斯和中国对涉霍尔木兹海峡决议草案投反对票，阻止了滥用安理会使美国和以色列侵略伊朗合法化的行为。",
-    "content": "【伊朗代表：俄罗斯和中国阻止了滥用安理会的行为】伊朗常驻联合国代表伊拉瓦尼7日在安理会发言时表示，俄罗斯和中国对涉霍尔木兹海峡决议草案投反对票，阻止了滥用安理会使美国和以色列侵略伊朗合法化的行为。",
-    "full_content": "【伊朗代表：俄罗斯和中国阻止了滥用安理会的行为】伊朗常驻联合国代表伊拉瓦尼7日在安理会发言时表示，俄罗斯和中国对涉霍尔木兹海峡决议草案投反对票，阻止了滥用安理会使美国和以色列侵略伊朗合法化的行为。",
-    "sort_time": "1775585063083544",
-    "showTime": "2026-04-08 02:04:23",
-    "time": "2026-04-08 02:04:23",
-    "publish_time": "2026-04-08 02:04:23",
-    "raw_data": {
-      "code": "202604083696883544",
-      "image": [],
-      "pinglun_Num": 42,
-      "realSort": "1775585063083544",
-      "share": 7,
-      "showTime": "2026-04-08 02:04:23",
-      "stockList": [],
-      "summary": "【伊朗代表：俄罗斯和中国阻止了滥用安理会的行为】伊朗常驻联合国代表伊拉瓦尼7日在安理会发言时表示，俄罗斯和中国对涉霍尔木兹海峡决议草案投反对票，阻止了滥用安理会使美国和以色列侵略伊朗合法化的行为。",
-      "title": "伊朗代表：俄罗斯和中国阻止了滥用安理会的行为",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696883544.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 42,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4b2a811e17c34ea6",
-    "code": "202604083696881179",
-    "title": "特朗普称伊朗人愿为自由承受轰炸 网友：又一个谎言",
-    "summary": "【特朗普称伊朗人愿为自由承受轰炸 网友：又一个谎言】在6日的新闻发布会上，美国总统特朗普声称，伊朗民众请求他继续轰炸他们居住的地方，因为他们愿意“为了自由”承受这样的苦难。对此，网友称，相关言论是“一个接一个的谎言”。",
-    "content": "【特朗普称伊朗人愿为自由承受轰炸 网友：又一个谎言】在6日的新闻发布会上，美国总统特朗普声称，伊朗民众请求他继续轰炸他们居住的地方，因为他们愿意“为了自由”承受这样的苦难。对此，网友称，相关言论是“一个接一个的谎言”。",
-    "full_content": "【特朗普称伊朗人愿为自由承受轰炸 网友：又一个谎言】在6日的新闻发布会上，美国总统特朗普声称，伊朗民众请求他继续轰炸他们居住的地方，因为他们愿意“为了自由”承受这样的苦难。对此，网友称，相关言论是“一个接一个的谎言”。",
-    "sort_time": "1775584981081179",
-    "showTime": "2026-04-08 02:03:01",
-    "time": "2026-04-08 02:03:01",
-    "publish_time": "2026-04-08 02:03:01",
-    "raw_data": {
-      "code": "202604083696881179",
-      "image": [],
-      "pinglun_Num": 30,
-      "realSort": "1775584981081179",
-      "share": 7,
-      "showTime": "2026-04-08 02:03:01",
-      "stockList": [],
-      "summary": "【特朗普称伊朗人愿为自由承受轰炸 网友：又一个谎言】在6日的新闻发布会上，美国总统特朗普声称，伊朗民众请求他继续轰炸他们居住的地方，因为他们愿意“为了自由”承受这样的苦难。对此，网友称，相关言论是“一个接一个的谎言”。",
-      "title": "特朗普称伊朗人愿为自由承受轰炸 网友：又一个谎言",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604083696881179.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 30,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
