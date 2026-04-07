@@ -1,5 +1,586 @@
 [
   {
+    "id": "6e39d5e65cb5a69f",
+    "code": "202604083696897179",
+    "title": "伊朗官员：伊方通过调解人与美沟通仍在继续",
+    "summary": "【伊朗官员：伊方通过调解人与美沟通仍在继续】总台记者当地时间4月7日获悉，伊朗官员透露，伊方通过调解人与美国的信息交流仍在继续，但未公布具体细节。",
+    "content": "【伊朗官员：伊方通过调解人与美沟通仍在继续】总台记者当地时间4月7日获悉，伊朗官员透露，伊方通过调解人与美国的信息交流仍在继续，但未公布具体细节。",
+    "full_content": "【伊朗官员：伊方通过调解人与美沟通仍在继续】总台记者当地时间4月7日获悉，伊朗官员透露，伊方通过调解人与美国的信息交流仍在继续，但未公布具体细节。",
+    "sort_time": "1775590455097179",
+    "showTime": "2026-04-08 03:34:15",
+    "time": "2026-04-08 03:34:15",
+    "publish_time": "2026-04-08 03:34:15",
+    "raw_data": {
+      "code": "202604083696897179",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775590455097179",
+      "share": 1,
+      "showTime": "2026-04-08 03:34:15",
+      "stockList": [],
+      "summary": "【伊朗官员：伊方通过调解人与美沟通仍在继续】总台记者当地时间4月7日获悉，伊朗官员透露，伊方通过调解人与美国的信息交流仍在继续，但未公布具体细节。",
+      "title": "伊朗官员：伊方通过调解人与美沟通仍在继续",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696897179.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1517b057033b375b",
+    "code": "202604083696897079",
+    "title": "伊朗布什尔核电站：正在安全稳定运行并持续供电",
+    "summary": "【伊朗布什尔核电站：正在安全稳定运行并持续供电】伊朗布什尔核电站公共关系部7日发布消息称，该核电站具备1000兆瓦核电发电能力，目前已安全并稳定地接入电网运行，持续开展发电工作。声明还称，这一大型国家级核电综合体严格遵循最高国际标准，以安全可靠的状态运行，并持续向国家电网输送电力。",
+    "content": "【伊朗布什尔核电站：正在安全稳定运行并持续供电】伊朗布什尔核电站公共关系部7日发布消息称，该核电站具备1000兆瓦核电发电能力，目前已安全并稳定地接入电网运行，持续开展发电工作。声明还称，这一大型国家级核电综合体严格遵循最高国际标准，以安全可靠的状态运行，并持续向国家电网输送电力。",
+    "full_content": "【伊朗布什尔核电站：正在安全稳定运行并持续供电】伊朗布什尔核电站公共关系部7日发布消息称，该核电站具备1000兆瓦核电发电能力，目前已安全并稳定地接入电网运行，持续开展发电工作。声明还称，这一大型国家级核电综合体严格遵循最高国际标准，以安全可靠的状态运行，并持续向国家电网输送电力。",
+    "sort_time": "1775590173097079",
+    "showTime": "2026-04-08 03:29:33",
+    "time": "2026-04-08 03:29:33",
+    "publish_time": "2026-04-08 03:29:33",
+    "raw_data": {
+      "code": "202604083696897079",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1775590173097079",
+      "share": 0,
+      "showTime": "2026-04-08 03:29:33",
+      "stockList": [
+        "90.BK0577",
+        "150.014238"
+      ],
+      "summary": "【伊朗布什尔核电站：正在安全稳定运行并持续供电】伊朗布什尔核电站公共关系部7日发布消息称，该核电站具备1000兆瓦核电发电能力，目前已安全并稳定地接入电网运行，持续开展发电工作。声明还称，这一大型国家级核电综合体严格遵循最高国际标准，以安全可靠的状态运行，并持续向国家电网输送电力。",
+      "title": "伊朗布什尔核电站：正在安全稳定运行并持续供电",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696897079.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0577",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010203",
+          "name": "输配电设备",
+          "level1": "制造业",
+          "level2": "电气机械和器材制造业",
+          "matched_keyword": "电网"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C108",
+          "name": "特高压",
+          "matched_keyword": "电网"
+        },
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "核电站"
+        },
+        {
+          "id": "C606",
+          "name": "家电",
+          "matched_keyword": "家电"
+        }
+      ],
+      "industry_ids": [
+        "I010203"
+      ],
+      "concept_ids": [
+        "C108",
+        "C109",
+        "C606"
+      ]
+    }
+  },
+  {
+    "id": "3171e69b826971d2",
+    "code": "202604083696896987",
+    "title": "现货黄金突破4700美元/盎司 日内涨1.11%",
+    "summary": "现货黄金突破4700美元/盎司，日内涨1.11%。",
+    "content": "现货黄金突破4700美元/盎司，日内涨1.11%。",
+    "full_content": "现货黄金突破4700美元/盎司，日内涨1.11%。",
+    "sort_time": "1775589850096987",
+    "showTime": "2026-04-08 03:24:10",
+    "time": "2026-04-08 03:24:10",
+    "publish_time": "2026-04-08 03:24:10",
+    "raw_data": {
+      "code": "202604083696896987",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775589850096987",
+      "share": 0,
+      "showTime": "2026-04-08 03:24:10",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金突破4700美元/盎司，日内涨1.11%。",
+      "title": "现货黄金突破4700美元/盎司 日内涨1.11%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696896987.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "5e641c996aec0330",
+    "code": "202604083696896715",
+    "title": "以称打击伊朗声呐及水下探测系统核心生产设施",
+    "summary": "【以称打击伊朗声呐及水下探测系统核心生产设施】当地时间7日晚间，以色列国防军发表声明称，过去数日，以空军在情报部门支持下，对伊朗多处核心生产设施实施打击。6日，以军空袭了伊朗设拉子市一处声呐与水下探测系统生产中心。以军称该设施隶属于伊朗国防部，主要用于研发、生产声呐系统，该系统可用于探测潜艇、舰船及水下目标等。以军表示，此次打击显著削弱了伊朗海上探测与防御能力，影响其相关装备的生产和维护。",
+    "content": "【以称打击伊朗声呐及水下探测系统核心生产设施】当地时间7日晚间，以色列国防军发表声明称，过去数日，以空军在情报部门支持下，对伊朗多处核心生产设施实施打击。6日，以军空袭了伊朗设拉子市一处声呐与水下探测系统生产中心。以军称该设施隶属于伊朗国防部，主要用于研发、生产声呐系统，该系统可用于探测潜艇、舰船及水下目标等。以军表示，此次打击显著削弱了伊朗海上探测与防御能力，影响其相关装备的生产和维护。",
+    "full_content": "【以称打击伊朗声呐及水下探测系统核心生产设施】当地时间7日晚间，以色列国防军发表声明称，过去数日，以空军在情报部门支持下，对伊朗多处核心生产设施实施打击。6日，以军空袭了伊朗设拉子市一处声呐与水下探测系统生产中心。以军称该设施隶属于伊朗国防部，主要用于研发、生产声呐系统，该系统可用于探测潜艇、舰船及水下目标等。以军表示，此次打击显著削弱了伊朗海上探测与防御能力，影响其相关装备的生产和维护。",
+    "sort_time": "1775589662096715",
+    "showTime": "2026-04-08 03:21:02",
+    "time": "2026-04-08 03:21:02",
+    "publish_time": "2026-04-08 03:21:02",
+    "raw_data": {
+      "code": "202604083696896715",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775589662096715",
+      "share": 0,
+      "showTime": "2026-04-08 03:21:02",
+      "stockList": [],
+      "summary": "【以称打击伊朗声呐及水下探测系统核心生产设施】当地时间7日晚间，以色列国防军发表声明称，过去数日，以空军在情报部门支持下，对伊朗多处核心生产设施实施打击。6日，以军空袭了伊朗设拉子市一处声呐与水下探测系统生产中心。以军称该设施隶属于伊朗国防部，主要用于研发、生产声呐系统，该系统可用于探测潜艇、舰船及水下目标等。以军表示，此次打击显著削弱了伊朗海上探测与防御能力，影响其相关装备的生产和维护。",
+      "title": "以称打击伊朗声呐及水下探测系统核心生产设施",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696896715.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "1b73e86955ae3978",
+    "code": "202604083696896618",
+    "title": "伊朗军方：已为特朗普可能的疯狂之举准备“惊喜”",
+    "summary": "【伊朗军方：已为特朗普可能的疯狂之举准备“惊喜”】一位军方知情人士称，伊朗已经为美国总统特朗普可能的疯狂之举准备了“惊喜”，其中之一就是将沙特阿美石油公司、延布油田和富查伊拉输油管道列入伊朗的打击目标。他表示，如果特朗普真的犯下罪行，伊朗将毫不犹豫地让美国及其盟友付出沉重代价。他还强调，“如果特朗普执意越陷越深，我们已经为他准备了一个黑洞，让他无法逃脱”。",
+    "content": "【伊朗军方：已为特朗普可能的疯狂之举准备“惊喜”】一位军方知情人士称，伊朗已经为美国总统特朗普可能的疯狂之举准备了“惊喜”，其中之一就是将沙特阿美石油公司、延布油田和富查伊拉输油管道列入伊朗的打击目标。他表示，如果特朗普真的犯下罪行，伊朗将毫不犹豫地让美国及其盟友付出沉重代价。他还强调，“如果特朗普执意越陷越深，我们已经为他准备了一个黑洞，让他无法逃脱”。",
+    "full_content": "【伊朗军方：已为特朗普可能的疯狂之举准备“惊喜”】一位军方知情人士称，伊朗已经为美国总统特朗普可能的疯狂之举准备了“惊喜”，其中之一就是将沙特阿美石油公司、延布油田和富查伊拉输油管道列入伊朗的打击目标。他表示，如果特朗普真的犯下罪行，伊朗将毫不犹豫地让美国及其盟友付出沉重代价。他还强调，“如果特朗普执意越陷越深，我们已经为他准备了一个黑洞，让他无法逃脱”。",
+    "sort_time": "1775589437096618",
+    "showTime": "2026-04-08 03:17:17",
+    "time": "2026-04-08 03:17:17",
+    "publish_time": "2026-04-08 03:17:17",
+    "raw_data": {
+      "code": "202604083696896618",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1775589437096618",
+      "share": 4,
+      "showTime": "2026-04-08 03:17:17",
+      "stockList": [],
+      "summary": "【伊朗军方：已为特朗普可能的疯狂之举准备“惊喜”】一位军方知情人士称，伊朗已经为美国总统特朗普可能的疯狂之举准备了“惊喜”，其中之一就是将沙特阿美石油公司、延布油田和富查伊拉输油管道列入伊朗的打击目标。他表示，如果特朗普真的犯下罪行，伊朗将毫不犹豫地让美国及其盟友付出沉重代价。他还强调，“如果特朗普执意越陷越深，我们已经为他准备了一个黑洞，让他无法逃脱”。",
+      "title": "伊朗军方：已为特朗普可能的疯狂之举准备“惊喜”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696896618.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 10,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "0a70d3928542658e",
+    "code": "202604083696896571",
+    "title": "马士基租用的船只在霍尔木兹海峡被炮弹击中",
+    "summary": "【马士基租用的船只在霍尔木兹海峡被炮弹击中】当地时间4月7日，丹麦航运巨头马士基租用的船只在霍尔木兹海峡被炮弹击中，船员安然无恙，但船舶遭受实质性损坏，水线以上部分受损。该船可自主航行，目前正前往最近的停靠港接受检查。马士基公司未透露炮弹来源。",
+    "content": "【马士基租用的船只在霍尔木兹海峡被炮弹击中】当地时间4月7日，丹麦航运巨头马士基租用的船只在霍尔木兹海峡被炮弹击中，船员安然无恙，但船舶遭受实质性损坏，水线以上部分受损。该船可自主航行，目前正前往最近的停靠港接受检查。马士基公司未透露炮弹来源。",
+    "full_content": "【马士基租用的船只在霍尔木兹海峡被炮弹击中】当地时间4月7日，丹麦航运巨头马士基租用的船只在霍尔木兹海峡被炮弹击中，船员安然无恙，但船舶遭受实质性损坏，水线以上部分受损。该船可自主航行，目前正前往最近的停靠港接受检查。马士基公司未透露炮弹来源。",
+    "sort_time": "1775589264096571",
+    "showTime": "2026-04-08 03:14:24",
+    "time": "2026-04-08 03:14:24",
+    "publish_time": "2026-04-08 03:14:24",
+    "raw_data": {
+      "code": "202604083696896571",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1775589264096571",
+      "share": 1,
+      "showTime": "2026-04-08 03:14:24",
+      "stockList": [],
+      "summary": "【马士基租用的船只在霍尔木兹海峡被炮弹击中】当地时间4月7日，丹麦航运巨头马士基租用的船只在霍尔木兹海峡被炮弹击中，船员安然无恙，但船舶遭受实质性损坏，水线以上部分受损。该船可自主航行，目前正前往最近的停靠港接受检查。马士基公司未透露炮弹来源。",
+      "title": "马士基租用的船只在霍尔木兹海峡被炮弹击中",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696896571.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9690f93594ea5520",
+    "code": "202604083696896321",
+    "title": "沙特与巴林跨境大桥因袭击警报再次暂停通行",
+    "summary": "【沙特与巴林跨境大桥因袭击警报再次暂停通行】法赫德国王大桥管理局7日晚在社交媒体上说，因过去数小时内预警平台发布针对沙特阿拉伯东部省的袭击警报，再次暂停这座沙特与巴林跨境大桥的车辆通行。根据该机构此前声明，法赫德国王大桥当天早晨因相同原因宣布暂停车辆通行，并在数小时后恢复通行。法赫德国王大桥是连接沙特与巴林的关键通道。",
+    "content": "【沙特与巴林跨境大桥因袭击警报再次暂停通行】法赫德国王大桥管理局7日晚在社交媒体上说，因过去数小时内预警平台发布针对沙特阿拉伯东部省的袭击警报，再次暂停这座沙特与巴林跨境大桥的车辆通行。根据该机构此前声明，法赫德国王大桥当天早晨因相同原因宣布暂停车辆通行，并在数小时后恢复通行。法赫德国王大桥是连接沙特与巴林的关键通道。",
+    "full_content": "【沙特与巴林跨境大桥因袭击警报再次暂停通行】法赫德国王大桥管理局7日晚在社交媒体上说，因过去数小时内预警平台发布针对沙特阿拉伯东部省的袭击警报，再次暂停这座沙特与巴林跨境大桥的车辆通行。根据该机构此前声明，法赫德国王大桥当天早晨因相同原因宣布暂停车辆通行，并在数小时后恢复通行。法赫德国王大桥是连接沙特与巴林的关键通道。",
+    "sort_time": "1775588187096321",
+    "showTime": "2026-04-08 02:56:27",
+    "time": "2026-04-08 02:56:27",
+    "publish_time": "2026-04-08 02:56:27",
+    "raw_data": {
+      "code": "202604083696896321",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775588187096321",
+      "share": 0,
+      "showTime": "2026-04-08 02:56:27",
+      "stockList": [],
+      "summary": "【沙特与巴林跨境大桥因袭击警报再次暂停通行】法赫德国王大桥管理局7日晚在社交媒体上说，因过去数小时内预警平台发布针对沙特阿拉伯东部省的袭击警报，再次暂停这座沙特与巴林跨境大桥的车辆通行。根据该机构此前声明，法赫德国王大桥当天早晨因相同原因宣布暂停车辆通行，并在数小时后恢复通行。法赫德国王大桥是连接沙特与巴林的关键通道。",
+      "title": "沙特与巴林跨境大桥因袭击警报再次暂停通行",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696896321.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d405fc5d770bd3a4",
+    "code": "202604083696896246",
+    "title": "美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议",
+    "summary": "【美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议】两名美国官员表示，在是否对伊朗关键基础设施发动打击的问题上，美国总统特朗普正在考虑五角大楼提出的方案，其中包括针对“军民两用”目标的打击选项。据披露，相关目标可能包括桥梁、电力设施及海水淡化设施等。分析人士指出，选择“军民两用”目标，或使美方能够主张其打击对象具有军事用途，从而在法律上规避被认定为战争罪的风险。",
+    "content": "【美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议】两名美国官员表示，在是否对伊朗关键基础设施发动打击的问题上，美国总统特朗普正在考虑五角大楼提出的方案，其中包括针对“军民两用”目标的打击选项。据披露，相关目标可能包括桥梁、电力设施及海水淡化设施等。分析人士指出，选择“军民两用”目标，或使美方能够主张其打击对象具有军事用途，从而在法律上规避被认定为战争罪的风险。",
+    "full_content": "【美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议】两名美国官员表示，在是否对伊朗关键基础设施发动打击的问题上，美国总统特朗普正在考虑五角大楼提出的方案，其中包括针对“军民两用”目标的打击选项。据披露，相关目标可能包括桥梁、电力设施及海水淡化设施等。分析人士指出，选择“军民两用”目标，或使美方能够主张其打击对象具有军事用途，从而在法律上规避被认定为战争罪的风险。",
+    "sort_time": "1775587728096246",
+    "showTime": "2026-04-08 02:48:48",
+    "time": "2026-04-08 02:48:48",
+    "publish_time": "2026-04-08 02:48:48",
+    "raw_data": {
+      "code": "202604083696896246",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1775587728096246",
+      "share": 1,
+      "showTime": "2026-04-08 02:48:48",
+      "stockList": [],
+      "summary": "【美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议】两名美国官员表示，在是否对伊朗关键基础设施发动打击的问题上，美国总统特朗普正在考虑五角大楼提出的方案，其中包括针对“军民两用”目标的打击选项。据披露，相关目标可能包括桥梁、电力设施及海水淡化设施等。分析人士指出，选择“军民两用”目标，或使美方能够主张其打击对象具有军事用途，从而在法律上规避被认定为战争罪的风险。",
+      "title": "美方考虑打击伊朗“军民两用”目标 或规避战争罪界定争议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696896246.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 13,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d8608ca793fad516",
+    "code": "202604083696895360",
+    "title": "IMF总裁格奥尔基耶娃表示：IMF计划因中东冲突下调全球经济增长预期",
+    "summary": "IMF总裁格奥尔基耶娃表示，IMF计划因中东冲突下调全球经济增长预期。",
+    "content": "IMF总裁格奥尔基耶娃表示，IMF计划因中东冲突下调全球经济增长预期。",
+    "full_content": "IMF总裁格奥尔基耶娃表示，IMF计划因中东冲突下调全球经济增长预期。",
+    "sort_time": "1775587601095360",
+    "showTime": "2026-04-08 02:46:41",
+    "time": "2026-04-08 02:46:41",
+    "publish_time": "2026-04-08 02:46:41",
+    "raw_data": {
+      "code": "202604083696895360",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1775587601095360",
+      "share": 1,
+      "showTime": "2026-04-08 02:46:41",
+      "stockList": [],
+      "summary": "IMF总裁格奥尔基耶娃表示，IMF计划因中东冲突下调全球经济增长预期。",
+      "title": "IMF总裁格奥尔基耶娃表示：IMF计划因中东冲突下调全球经济增长预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696895360.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "97dbc0cac1f711b1",
+    "code": "202604083696894284",
+    "title": "伊朗称打击沙特境内一美资石化综合体",
+    "summary": "【伊朗称打击沙特境内一美资石化综合体】伊朗伊斯兰革命卫队7日发表声明称，革命卫队在当天发动的“真实承诺-4”行动第99波攻势中，打击了沙特阿拉伯境内一家美资石化综合体以及美国在该国的其他一些重要资产。据伊朗伊斯兰共和国通讯社援引这份声明报道，伊朗导弹还打击了一艘属于以色列的集装箱船。该船原计划利用阿联酋港口向以色列运输军事装备。此举意在警告其他企图与美以合作的船只。",
+    "content": "【伊朗称打击沙特境内一美资石化综合体】伊朗伊斯兰革命卫队7日发表声明称，革命卫队在当天发动的“真实承诺-4”行动第99波攻势中，打击了沙特阿拉伯境内一家美资石化综合体以及美国在该国的其他一些重要资产。据伊朗伊斯兰共和国通讯社援引这份声明报道，伊朗导弹还打击了一艘属于以色列的集装箱船。该船原计划利用阿联酋港口向以色列运输军事装备。此举意在警告其他企图与美以合作的船只。",
+    "full_content": "【伊朗称打击沙特境内一美资石化综合体】伊朗伊斯兰革命卫队7日发表声明称，革命卫队在当天发动的“真实承诺-4”行动第99波攻势中，打击了沙特阿拉伯境内一家美资石化综合体以及美国在该国的其他一些重要资产。据伊朗伊斯兰共和国通讯社援引这份声明报道，伊朗导弹还打击了一艘属于以色列的集装箱船。该船原计划利用阿联酋港口向以色列运输军事装备。此举意在警告其他企图与美以合作的船只。",
+    "sort_time": "1775587456094284",
+    "showTime": "2026-04-08 02:44:16",
+    "time": "2026-04-08 02:44:16",
+    "publish_time": "2026-04-08 02:44:16",
+    "raw_data": {
+      "code": "202604083696894284",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1775587456094284",
+      "share": 0,
+      "showTime": "2026-04-08 02:44:16",
+      "stockList": [],
+      "summary": "【伊朗称打击沙特境内一美资石化综合体】伊朗伊斯兰革命卫队7日发表声明称，革命卫队在当天发动的“真实承诺-4”行动第99波攻势中，打击了沙特阿拉伯境内一家美资石化综合体以及美国在该国的其他一些重要资产。据伊朗伊斯兰共和国通讯社援引这份声明报道，伊朗导弹还打击了一艘属于以色列的集装箱船。该船原计划利用阿联酋港口向以色列运输军事装备。此举意在警告其他企图与美以合作的船只。",
+      "title": "伊朗称打击沙特境内一美资石化综合体",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696894284.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7c0f1d542dfec008",
+    "code": "202604083696893982",
+    "title": "联合国人权高专：威胁消灭“整个文明”的言论“令人发指”",
+    "summary": "【联合国人权高专：威胁消灭“整个文明”的言论“令人发指”】联合国人权事务高级专员图尔克7日说，威胁消灭“整个文明”的言论“令人发指”。图尔克当天在一份声明中对中东冲突中的煽动性言论表示谴责，尤其是新出现的要消灭“整个文明”以及以民用基础设施为目标的威胁言论。“这令人发指。”",
+    "content": "【联合国人权高专：威胁消灭“整个文明”的言论“令人发指”】联合国人权事务高级专员图尔克7日说，威胁消灭“整个文明”的言论“令人发指”。图尔克当天在一份声明中对中东冲突中的煽动性言论表示谴责，尤其是新出现的要消灭“整个文明”以及以民用基础设施为目标的威胁言论。“这令人发指。”",
+    "full_content": "【联合国人权高专：威胁消灭“整个文明”的言论“令人发指”】联合国人权事务高级专员图尔克7日说，威胁消灭“整个文明”的言论“令人发指”。图尔克当天在一份声明中对中东冲突中的煽动性言论表示谴责，尤其是新出现的要消灭“整个文明”以及以民用基础设施为目标的威胁言论。“这令人发指。”",
+    "sort_time": "1775587398093982",
+    "showTime": "2026-04-08 02:43:18",
+    "time": "2026-04-08 02:43:18",
+    "publish_time": "2026-04-08 02:43:18",
+    "raw_data": {
+      "code": "202604083696893982",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1775587398093982",
+      "share": 1,
+      "showTime": "2026-04-08 02:43:18",
+      "stockList": [],
+      "summary": "【联合国人权高专：威胁消灭“整个文明”的言论“令人发指”】联合国人权事务高级专员图尔克7日说，威胁消灭“整个文明”的言论“令人发指”。图尔克当天在一份声明中对中东冲突中的煽动性言论表示谴责，尤其是新出现的要消灭“整个文明”以及以民用基础设施为目标的威胁言论。“这令人发指。”",
+      "title": "联合国人权高专：威胁消灭“整个文明”的言论“令人发指”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696893982.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 12,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3483dcc7d207e3ee",
+    "code": "202604083696892651",
+    "title": "美国交通部长达菲表示：航空燃油价格上涨只是短期问题",
+    "summary": "美国交通部长达菲表示，航空燃油价格上涨只是短期问题。",
+    "content": "美国交通部长达菲表示，航空燃油价格上涨只是短期问题。",
+    "full_content": "美国交通部长达菲表示，航空燃油价格上涨只是短期问题。",
+    "sort_time": "1775587057092651",
+    "showTime": "2026-04-08 02:37:37",
+    "time": "2026-04-08 02:37:37",
+    "publish_time": "2026-04-08 02:37:37",
+    "raw_data": {
+      "code": "202604083696892651",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1775587057092651",
+      "share": 0,
+      "showTime": "2026-04-08 02:37:37",
+      "stockList": [],
+      "summary": "美国交通部长达菲表示，航空燃油价格上涨只是短期问题。",
+      "title": "美国交通部长达菲表示：航空燃油价格上涨只是短期问题",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696892651.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "7314041174f383af",
+    "code": "202604083696892177",
+    "title": "联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党",
+    "summary": "【联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党】当地时间4月7日，联合国秘书长发言人迪雅里克在例行记者会上宣布，根据联合国驻黎巴嫩临时部队（联黎部队）的初步调查结果，3月29日和30日发生的维和人员遇袭身亡事件，爆炸物分别来自以色列和真主党，相关结果已通报有关各方。",
+    "content": "【联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党】当地时间4月7日，联合国秘书长发言人迪雅里克在例行记者会上宣布，根据联合国驻黎巴嫩临时部队（联黎部队）的初步调查结果，3月29日和30日发生的维和人员遇袭身亡事件，爆炸物分别来自以色列和真主党，相关结果已通报有关各方。",
+    "full_content": "【联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党】当地时间4月7日，联合国秘书长发言人迪雅里克在例行记者会上宣布，根据联合国驻黎巴嫩临时部队（联黎部队）的初步调查结果，3月29日和30日发生的维和人员遇袭身亡事件，爆炸物分别来自以色列和真主党，相关结果已通报有关各方。",
+    "sort_time": "1775586945092177",
+    "showTime": "2026-04-08 02:35:45",
+    "time": "2026-04-08 02:35:45",
+    "publish_time": "2026-04-08 02:35:45",
+    "raw_data": {
+      "code": "202604083696892177",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1775586945092177",
+      "share": 0,
+      "showTime": "2026-04-08 02:35:45",
+      "stockList": [],
+      "summary": "【联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党】当地时间4月7日，联合国秘书长发言人迪雅里克在例行记者会上宣布，根据联合国驻黎巴嫩临时部队（联黎部队）的初步调查结果，3月29日和30日发生的维和人员遇袭身亡事件，爆炸物分别来自以色列和真主党，相关结果已通报有关各方。",
+      "title": "联合国：联黎部队维和人员遇袭爆炸物分别来自以军和真主党",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604083696892177.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "191773bd84c05268",
     "code": "202604083696888942",
     "title": "即期布伦特原油价格涨至144.42美元/桶",
@@ -13,9 +594,9 @@
     "raw_data": {
       "code": "202604083696888942",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 18,
       "realSort": "1775586555088942",
-      "share": 0,
+      "share": 5,
       "showTime": "2026-04-08 02:29:15",
       "stockList": [],
       "summary": "即期布伦特原油价格涨至144.42美元/桶，创历史新高。",
@@ -29,8 +610,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 0,
+    "comment_count": 18,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -62,7 +643,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1775586079088484",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-04-08 02:21:19",
       "stockList": [
         "150.012341",
@@ -83,7 +664,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -105,9 +686,9 @@
     "raw_data": {
       "code": "202604083696886130",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 9,
       "realSort": "1775585843086130",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-08 02:17:23",
       "stockList": [],
       "summary": "【伊朗代表：断然拒绝临时停火 要求彻底停止侵略】伊朗常驻联合国代表伊拉瓦尼7日在联合国安理会发言时表示，伊朗断然拒绝临时停火，要求美国和以色列彻底停止侵略。",
@@ -121,8 +702,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 0,
+    "comment_count": 9,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -183,9 +764,9 @@
     "raw_data": {
       "code": "202604083696883544",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 33,
       "realSort": "1775585063083544",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-04-08 02:04:23",
       "stockList": [],
       "summary": "【伊朗代表：俄罗斯和中国阻止了滥用安理会的行为】伊朗常驻联合国代表伊拉瓦尼7日在安理会发言时表示，俄罗斯和中国对涉霍尔木兹海峡决议草案投反对票，阻止了滥用安理会使美国和以色列侵略伊朗合法化的行为。",
@@ -199,8 +780,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 3,
+    "comment_count": 33,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -222,9 +803,9 @@
     "raw_data": {
       "code": "202604083696881179",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 27,
       "realSort": "1775584981081179",
-      "share": 3,
+      "share": 6,
       "showTime": "2026-04-08 02:03:01",
       "stockList": [],
       "summary": "【特朗普称伊朗人愿为自由承受轰炸 网友：又一个谎言】在6日的新闻发布会上，美国总统特朗普声称，伊朗民众请求他继续轰炸他们居住的地方，因为他们愿意“为了自由”承受这样的苦难。对此，网友称，相关言论是“一个接一个的谎言”。",
@@ -238,8 +819,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 18,
-    "share_count": 3,
+    "comment_count": 27,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -261,9 +842,9 @@
     "raw_data": {
       "code": "202604083696880466",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1775584936080466",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-04-08 02:02:16",
       "stockList": [],
       "summary": "【古特雷斯对威胁伊朗言论深感不安 反对以军事目的伤害平民】当地时间4月7日，联合国秘书长发言人迪雅里克就近期涉伊朗相关言论表示，古特雷斯对有关言论深感不安。这些言论暗示，普通民众乃至整个文明都要为政治和军事决策付出代价。古特雷斯强调，任何军事目的，都不能成为摧毁一国社会基础设施或故意让平民承受苦难的正当理由。",
@@ -277,8 +858,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
+    "comment_count": 5,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -345,9 +926,9 @@
     "raw_data": {
       "code": "202604083696829714",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1775584171029714",
-      "share": 2,
+      "share": 6,
       "showTime": "2026-04-08 01:49:31",
       "stockList": [
         "90.BK0437",
@@ -367,8 +948,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 2,
+    "comment_count": 5,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -607,7 +1188,7 @@
     "raw_data": {
       "code": "202604083696858085",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1775581931058085",
       "share": 1,
       "showTime": "2026-04-08 01:12:11",
@@ -623,7 +1204,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -693,7 +1274,7 @@
     "raw_data": {
       "code": "202604083696854791",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1775581591054791",
       "share": 0,
       "showTime": "2026-04-08 01:06:31",
@@ -713,7 +1294,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -744,7 +1325,7 @@
     "raw_data": {
       "code": "202604083696852464",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 26,
       "realSort": "1775581409052464",
       "share": 7,
       "showTime": "2026-04-08 01:03:29",
@@ -760,7 +1341,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 23,
+    "comment_count": 26,
     "share_count": 7,
     "tags": {
       "industries": [],
@@ -783,7 +1364,7 @@
     "raw_data": {
       "code": "202604083696851585",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1775581385051585",
       "share": 1,
       "showTime": "2026-04-08 01:03:05",
@@ -799,7 +1380,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
+    "comment_count": 9,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -922,7 +1503,7 @@
     "raw_data": {
       "code": "202604083696844426",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1775580267044426",
       "share": 0,
       "showTime": "2026-04-08 00:44:27",
@@ -944,7 +1525,7 @@
       "90.BK0473"
     ],
     "has_stock_mention": true,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -985,9 +1566,9 @@
     "raw_data": {
       "code": "202604083696842383",
       "image": [],
-      "pinglun_Num": 32,
+      "pinglun_Num": 41,
       "realSort": "1775579926042383",
-      "share": 17,
+      "share": 20,
       "showTime": "2026-04-08 00:38:46",
       "stockList": [],
       "summary": "【联合国安理会未能通过霍尔木兹海峡决议草案】当地时间4月7日，联合国安理会就一份由巴林等国提交的涉霍尔木兹海峡决议草案进行表决。由于成员国围绕相关表述和应对方式存在分歧，该草案未获通过。",
@@ -1001,8 +1582,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 32,
-    "share_count": 17,
+    "comment_count": 41,
+    "share_count": 20,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1063,7 +1644,7 @@
     "raw_data": {
       "code": "202604083696836723",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 15,
       "realSort": "1775579248036723",
       "share": 3,
       "showTime": "2026-04-08 00:27:28",
@@ -1079,7 +1660,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
+    "comment_count": 15,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1204,9 +1785,9 @@
     "raw_data": {
       "code": "202604083696830633",
       "image": [],
-      "pinglun_Num": 110,
+      "pinglun_Num": 129,
       "realSort": "1775578402030633",
-      "share": 42,
+      "share": 46,
       "showTime": "2026-04-08 00:13:22",
       "stockList": [],
       "summary": "【万斯：若伊朗未达成协议 美国或拿出“尚未动用的手段”】当地时间4月7日，美国副总统万斯表示，若伊朗未能在当晚最后期限前达成协议，美国可能升级对伊行动，甚至动用此前“尚未动用的手段”。",
@@ -1220,8 +1801,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 110,
-    "share_count": 42,
+    "comment_count": 129,
+    "share_count": 46,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1460,7 +2041,7 @@
     "raw_data": {
       "code": "202604073696820075",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1775577133020075",
       "share": 1,
       "showTime": "2026-04-07 23:52:13",
@@ -1476,7 +2057,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1538,9 +2119,9 @@
     "raw_data": {
       "code": "202604073696818711",
       "image": [],
-      "pinglun_Num": 326,
+      "pinglun_Num": 338,
       "realSort": "1775576727018711",
-      "share": 486,
+      "share": 492,
       "showTime": "2026-04-07 23:45:27",
       "stockList": [],
       "summary": "【伊朗称与美国之间的外交及间接对话渠道并未关闭】当地时间7日，总台记者从伊朗方面获悉，伊朗与美国之间的外交渠道以及间接对话渠道并未关闭。",
@@ -1554,8 +2135,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 326,
-    "share_count": 486,
+    "comment_count": 338,
+    "share_count": 492,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1577,7 +2158,7 @@
     "raw_data": {
       "code": "202604073696816691",
       "image": [],
-      "pinglun_Num": 26,
+      "pinglun_Num": 28,
       "realSort": "1775576456016691",
       "share": 3,
       "showTime": "2026-04-07 23:40:56",
@@ -1593,557 +2174,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 26,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3c73f92696a424b4",
-    "code": "202604073696816232",
-    "title": "摩根大通表示 如果伊朗战争持续下去 美国汽油价格可能很快会突破每加仑5美元",
-    "summary": "摩根大通表示，如果伊朗战争持续下去，美国汽油价格可能很快会突破每加仑5美元。",
-    "content": "摩根大通表示，如果伊朗战争持续下去，美国汽油价格可能很快会突破每加仑5美元。",
-    "full_content": "摩根大通表示，如果伊朗战争持续下去，美国汽油价格可能很快会突破每加仑5美元。",
-    "sort_time": "1775576373016232",
-    "showTime": "2026-04-07 23:39:33",
-    "time": "2026-04-07 23:39:33",
-    "publish_time": "2026-04-07 23:39:33",
-    "raw_data": {
-      "code": "202604073696816232",
-      "image": [],
-      "pinglun_Num": 35,
-      "realSort": "1775576373016232",
-      "share": 1,
-      "showTime": "2026-04-07 23:39:33",
-      "stockList": [],
-      "summary": "摩根大通表示，如果伊朗战争持续下去，美国汽油价格可能很快会突破每加仑5美元。",
-      "title": "摩根大通表示 如果伊朗战争持续下去 美国汽油价格可能很快会突破每加仑5美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696816232.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 35,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b2e666a9cf66a7f4",
-    "code": "202604073696814470",
-    "title": "伊朗方面称 哈尔克岛局势得到控制 哈尔克岛石油设施未受影响",
-    "summary": "伊朗方面称，哈尔克岛局势得到控制，哈尔克岛石油设施未受影响。",
-    "content": "伊朗方面称，哈尔克岛局势得到控制，哈尔克岛石油设施未受影响。",
-    "full_content": "伊朗方面称，哈尔克岛局势得到控制，哈尔克岛石油设施未受影响。",
-    "sort_time": "1775576191014470",
-    "showTime": "2026-04-07 23:36:31",
-    "time": "2026-04-07 23:36:31",
-    "publish_time": "2026-04-07 23:36:31",
-    "raw_data": {
-      "code": "202604073696814470",
-      "image": [],
-      "pinglun_Num": 32,
-      "realSort": "1775576191014470",
-      "share": 9,
-      "showTime": "2026-04-07 23:36:31",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "伊朗方面称，哈尔克岛局势得到控制，哈尔克岛石油设施未受影响。",
-      "title": "伊朗方面称 哈尔克岛局势得到控制 哈尔克岛石油设施未受影响",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696814470.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 32,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "2be718fd0d64ca38",
-    "code": "202604073696805922",
-    "title": "俄罗斯和阿联酋外长呼吁停止波斯湾地区敌对行动",
-    "summary": "【俄罗斯和阿联酋外长呼吁停止波斯湾地区敌对行动】据俄罗斯外交部网站发布的消息，俄外长拉夫罗夫7日同阿拉伯联合酋长国副总理兼外长阿卜杜拉通电话，就波斯湾地区军事和政治局势持续恶化交换意见，双方呼吁立即停止该地区敌对行动。",
-    "content": "【俄罗斯和阿联酋外长呼吁停止波斯湾地区敌对行动】据俄罗斯外交部网站发布的消息，俄外长拉夫罗夫7日同阿拉伯联合酋长国副总理兼外长阿卜杜拉通电话，就波斯湾地区军事和政治局势持续恶化交换意见，双方呼吁立即停止该地区敌对行动。",
-    "full_content": "【俄罗斯和阿联酋外长呼吁停止波斯湾地区敌对行动】据俄罗斯外交部网站发布的消息，俄外长拉夫罗夫7日同阿拉伯联合酋长国副总理兼外长阿卜杜拉通电话，就波斯湾地区军事和政治局势持续恶化交换意见，双方呼吁立即停止该地区敌对行动。",
-    "sort_time": "1775575246005922",
-    "showTime": "2026-04-07 23:20:46",
-    "time": "2026-04-07 23:20:46",
-    "publish_time": "2026-04-07 23:20:46",
-    "raw_data": {
-      "code": "202604073696805922",
-      "image": [],
-      "pinglun_Num": 28,
-      "realSort": "1775575246005922",
-      "share": 8,
-      "showTime": "2026-04-07 23:20:46",
-      "stockList": [],
-      "summary": "【俄罗斯和阿联酋外长呼吁停止波斯湾地区敌对行动】据俄罗斯外交部网站发布的消息，俄外长拉夫罗夫7日同阿拉伯联合酋长国副总理兼外长阿卜杜拉通电话，就波斯湾地区军事和政治局势持续恶化交换意见，双方呼吁立即停止该地区敌对行动。",
-      "title": "俄罗斯和阿联酋外长呼吁停止波斯湾地区敌对行动",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696805922.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
     "comment_count": 28,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "10d08078fcec4f74",
-    "code": "202604073696805659",
-    "title": "英国10年期国债收益率当日上涨11个基点",
-    "summary": "英国10年期国债收益率当日上涨11个基点，达到4.95%，向3月26日以来最大单日涨幅迈进。",
-    "content": "英国10年期国债收益率当日上涨11个基点，达到4.95%，向3月26日以来最大单日涨幅迈进。",
-    "full_content": "英国10年期国债收益率当日上涨11个基点，达到4.95%，向3月26日以来最大单日涨幅迈进。",
-    "sort_time": "1775575121005659",
-    "showTime": "2026-04-07 23:18:41",
-    "time": "2026-04-07 23:18:41",
-    "publish_time": "2026-04-07 23:18:41",
-    "raw_data": {
-      "code": "202604073696805659",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1775575121005659",
-      "share": 1,
-      "showTime": "2026-04-07 23:18:41",
-      "stockList": [],
-      "summary": "英国10年期国债收益率当日上涨11个基点，达到4.95%，向3月26日以来最大单日涨幅迈进。",
-      "title": "英国10年期国债收益率当日上涨11个基点",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696805659.html",
-    "category": "债券",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b9ec83cabcac36a2",
-    "code": "202604073696804418",
-    "title": "巴基斯坦斡旋美伊谈判持续进行 未来数小时“至关重要”",
-    "summary": "【巴基斯坦斡旋美伊谈判持续进行 未来数小时“至关重要”】央视记者当地时间7日获悉，两名巴基斯坦消息人士表示，美国与伊朗之间的谈判斡旋仍在继续，由巴基斯坦作为主要中间人传递双方提案，但目前尚未出现实质性妥协。",
-    "content": "【巴基斯坦斡旋美伊谈判持续进行 未来数小时“至关重要”】央视记者当地时间7日获悉，两名巴基斯坦消息人士表示，美国与伊朗之间的谈判斡旋仍在继续，由巴基斯坦作为主要中间人传递双方提案，但目前尚未出现实质性妥协。",
-    "full_content": "【巴基斯坦斡旋美伊谈判持续进行 未来数小时“至关重要”】央视记者当地时间7日获悉，两名巴基斯坦消息人士表示，美国与伊朗之间的谈判斡旋仍在继续，由巴基斯坦作为主要中间人传递双方提案，但目前尚未出现实质性妥协。",
-    "sort_time": "1775574980004418",
-    "showTime": "2026-04-07 23:16:20",
-    "time": "2026-04-07 23:16:20",
-    "publish_time": "2026-04-07 23:16:20",
-    "raw_data": {
-      "code": "202604073696804418",
-      "image": [],
-      "pinglun_Num": 175,
-      "realSort": "1775574980004418",
-      "share": 219,
-      "showTime": "2026-04-07 23:16:20",
-      "stockList": [],
-      "summary": "【巴基斯坦斡旋美伊谈判持续进行 未来数小时“至关重要”】央视记者当地时间7日获悉，两名巴基斯坦消息人士表示，美国与伊朗之间的谈判斡旋仍在继续，由巴基斯坦作为主要中间人传递双方提案，但目前尚未出现实质性妥协。",
-      "title": "巴基斯坦斡旋美伊谈判持续进行 未来数小时“至关重要”",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696804418.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 175,
-    "share_count": 219,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5e1f5b325259dfd9",
-    "code": "202604073696801488",
-    "title": "特斯拉股价下挫4.4%",
-    "summary": "特斯拉股价下挫4.4%，年内跌幅进一步扩大至25%。",
-    "content": "特斯拉股价下挫4.4%，年内跌幅进一步扩大至25%。",
-    "full_content": "特斯拉股价下挫4.4%，年内跌幅进一步扩大至25%。",
-    "sort_time": "1775574649001488",
-    "showTime": "2026-04-07 23:10:49",
-    "time": "2026-04-07 23:10:49",
-    "publish_time": "2026-04-07 23:10:49",
-    "raw_data": {
-      "code": "202604073696801488",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1775574649001488",
-      "share": 5,
-      "showTime": "2026-04-07 23:10:49",
-      "stockList": [
-        "90.BK0644",
-        "105.TSLA"
-      ],
-      "summary": "特斯拉股价下挫4.4%，年内跌幅进一步扩大至25%。",
-      "title": "特斯拉股价下挫4.4%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696801488.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0644",
-      "105.TSLA"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 15,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C805",
-          "name": "特斯拉",
-          "matched_keyword": "特斯拉"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C805"
-      ]
-    }
-  },
-  {
-    "id": "4d24165919cb92cf",
-    "code": "202604073696799466",
-    "title": "美股跌幅扩大 纳斯达克100指数跌幅扩大至1.5%",
-    "summary": "美股跌幅扩大，纳斯达克100指数跌幅扩大至1.5%。",
-    "content": "美股跌幅扩大，纳斯达克100指数跌幅扩大至1.5%。",
-    "full_content": "美股跌幅扩大，纳斯达克100指数跌幅扩大至1.5%。",
-    "sort_time": "1775574360099466",
-    "showTime": "2026-04-07 23:06:00",
-    "time": "2026-04-07 23:06:00",
-    "publish_time": "2026-04-07 23:06:00",
-    "raw_data": {
-      "code": "202604073696799466",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1775574360099466",
-      "share": 11,
-      "showTime": "2026-04-07 23:06:00",
-      "stockList": [],
-      "summary": "美股跌幅扩大，纳斯达克100指数跌幅扩大至1.5%。",
-      "title": "美股跌幅扩大 纳斯达克100指数跌幅扩大至1.5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696799466.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 11,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e0540fded4e45568",
-    "code": "202604073696798986",
-    "title": "美国3月纽约联储1年通胀预期为3.42% 预期为3.5%",
-    "summary": "美国3月纽约联储1年通胀预期为3.42%，预期为3.5%，前值为3.00%。三年期通胀预期3.1%，前值3%。五年期通胀预期持稳于3%。",
-    "content": "美国3月纽约联储1年通胀预期为3.42%，预期为3.5%，前值为3.00%。三年期通胀预期3.1%，前值3%。五年期通胀预期持稳于3%。",
-    "full_content": "美国3月纽约联储1年通胀预期为3.42%，预期为3.5%，前值为3.00%。三年期通胀预期3.1%，前值3%。五年期通胀预期持稳于3%。",
-    "sort_time": "1775574340098986",
-    "showTime": "2026-04-07 23:05:40",
-    "time": "2026-04-07 23:05:40",
-    "publish_time": "2026-04-07 23:05:40",
-    "raw_data": {
-      "code": "202604073696798986",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1775574340098986",
-      "share": 1,
-      "showTime": "2026-04-07 23:05:40",
-      "stockList": [],
-      "summary": "美国3月纽约联储1年通胀预期为3.42%，预期为3.5%，前值为3.00%。三年期通胀预期3.1%，前值3%。五年期通胀预期持稳于3%。",
-      "title": "美国3月纽约联储1年通胀预期为3.42% 预期为3.5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696798986.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c8046a801d7701cd",
-    "code": "202604073696796980",
-    "title": "部分期货品种夜盘收盘",
-    "summary": "【部分期货品种夜盘收盘】部分期货品种夜盘收盘，多数下跌，烧碱跌超2%，LPG跌1.5%；乙二醇涨超4%，甲醇涨2.7%。",
-    "content": "【部分期货品种夜盘收盘】部分期货品种夜盘收盘，多数下跌，烧碱跌超2%，LPG跌1.5%；乙二醇涨超4%，甲醇涨2.7%。",
-    "full_content": "【部分期货品种夜盘收盘】部分期货品种夜盘收盘，多数下跌，烧碱跌超2%，LPG跌1.5%；乙二醇涨超4%，甲醇涨2.7%。",
-    "sort_time": "1775574082096980",
-    "showTime": "2026-04-07 23:01:22",
-    "time": "2026-04-07 23:01:22",
-    "publish_time": "2026-04-07 23:01:22",
-    "raw_data": {
-      "code": "202604073696796980",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1775574082096980",
-      "share": 1,
-      "showTime": "2026-04-07 23:01:22",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "【部分期货品种夜盘收盘】部分期货品种夜盘收盘，多数下跌，烧碱跌超2%，LPG跌1.5%；乙二醇涨超4%，甲醇涨2.7%。",
-      "title": "部分期货品种夜盘收盘",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696796980.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "bearish",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f9c352a69f8c6011",
-    "code": "202604073696796571",
-    "title": "伊朗终止同美国直接外交联系",
-    "summary": "【伊朗终止同美国直接外交联系】据美国方面7日消息，伊朗已终止与美国之间的直接外交联系。中东官员表示，尽管如此，伊朗与停火调解方的谈判仍在继续。此外，三名伊朗高级官员表示，伊朗方面已通知巴基斯坦，不会再参加旨在停火的会谈。",
-    "content": "【伊朗终止同美国直接外交联系】据美国方面7日消息，伊朗已终止与美国之间的直接外交联系。中东官员表示，尽管如此，伊朗与停火调解方的谈判仍在继续。此外，三名伊朗高级官员表示，伊朗方面已通知巴基斯坦，不会再参加旨在停火的会谈。",
-    "full_content": "【伊朗终止同美国直接外交联系】据美国方面7日消息，伊朗已终止与美国之间的直接外交联系。中东官员表示，尽管如此，伊朗与停火调解方的谈判仍在继续。此外，三名伊朗高级官员表示，伊朗方面已通知巴基斯坦，不会再参加旨在停火的会谈。",
-    "sort_time": "1775573936096571",
-    "showTime": "2026-04-07 22:58:56",
-    "time": "2026-04-07 22:58:56",
-    "publish_time": "2026-04-07 22:58:56",
-    "raw_data": {
-      "code": "202604073696796571",
-      "image": [],
-      "pinglun_Num": 299,
-      "realSort": "1775573936096571",
-      "share": 735,
-      "showTime": "2026-04-07 22:58:56",
-      "stockList": [],
-      "summary": "【伊朗终止同美国直接外交联系】据美国方面7日消息，伊朗已终止与美国之间的直接外交联系。中东官员表示，尽管如此，伊朗与停火调解方的谈判仍在继续。此外，三名伊朗高级官员表示，伊朗方面已通知巴基斯坦，不会再参加旨在停火的会谈。",
-      "title": "伊朗终止同美国直接外交联系",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696796571.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 299,
-    "share_count": 735,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8abcd15edc633483",
-    "code": "202604073696796040",
-    "title": "CFA三级考试通过率维持在50% 低于十年平均水平",
-    "summary": "【CFA三级考试通过率维持在50% 低于十年平均水平】特许金融分析师(CFA)最终级别考试的通过率仍低于历史平均水平，而推迟参加考试的考生通过率仍然较低。CFA协会周二表示，2月有50%的考生通过了三级考试，与去年8月的通过率持平，较去年2月49%的通过率上升。这一数字略低于过去十年51%的平均通过率。该机构持续发现，推迟考试的考生通过率显著较低。CFA协会教育事务董事总经理Chris Wiese表示，按最初计划参加考试的考生表现显著高于平均水平，通过率为59%，而至少推迟过一次考试的考生通过率仅为34%。他建议考生应尽量按计划参加考试。",
-    "content": "【CFA三级考试通过率维持在50% 低于十年平均水平】特许金融分析师(CFA)最终级别考试的通过率仍低于历史平均水平，而推迟参加考试的考生通过率仍然较低。CFA协会周二表示，2月有50%的考生通过了三级考试，与去年8月的通过率持平，较去年2月49%的通过率上升。这一数字略低于过去十年51%的平均通过率。该机构持续发现，推迟考试的考生通过率显著较低。CFA协会教育事务董事总经理Chris Wiese表示，按最初计划参加考试的考生表现显著高于平均水平，通过率为59%，而至少推迟过一次考试的考生通过率仅为34%。他建议考生应尽量按计划参加考试。",
-    "full_content": "【CFA三级考试通过率维持在50% 低于十年平均水平】特许金融分析师(CFA)最终级别考试的通过率仍低于历史平均水平，而推迟参加考试的考生通过率仍然较低。CFA协会周二表示，2月有50%的考生通过了三级考试，与去年8月的通过率持平，较去年2月49%的通过率上升。这一数字略低于过去十年51%的平均通过率。该机构持续发现，推迟考试的考生通过率显著较低。CFA协会教育事务董事总经理Chris Wiese表示，按最初计划参加考试的考生表现显著高于平均水平，通过率为59%，而至少推迟过一次考试的考生通过率仅为34%。他建议考生应尽量按计划参加考试。",
-    "sort_time": "1775573632096040",
-    "showTime": "2026-04-07 22:53:52",
-    "time": "2026-04-07 22:53:52",
-    "publish_time": "2026-04-07 22:53:52",
-    "raw_data": {
-      "code": "202604073696796040",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1775573632096040",
-      "share": 16,
-      "showTime": "2026-04-07 22:53:52",
-      "stockList": [],
-      "summary": "【CFA三级考试通过率维持在50% 低于十年平均水平】特许金融分析师(CFA)最终级别考试的通过率仍低于历史平均水平，而推迟参加考试的考生通过率仍然较低。CFA协会周二表示，2月有50%的考生通过了三级考试，与去年8月的通过率持平，较去年2月49%的通过率上升。这一数字略低于过去十年51%的平均通过率。该机构持续发现，推迟考试的考生通过率显著较低。CFA协会教育事务董事总经理Chris Wiese表示，按最初计划参加考试的考生表现显著高于平均水平，通过率为59%，而至少推迟过一次考试的考生通过率仅为34%。他建议考生应尽量按计划参加考试。",
-      "title": "CFA三级考试通过率维持在50% 低于十年平均水平",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696796040.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 16,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f08d4a49f06db937",
-    "code": "202604073696795868",
-    "title": "欧佩克上月石油产量出现数十年来最大降幅",
-    "summary": "【欧佩克上月石油产量出现数十年来最大降幅】调查显示，由于中东冲突导致主要成员国的石油出口受阻，欧佩克3月份原油产量创下至少40年来最大跌幅。调查显示，石油输出国组织（欧佩克）的石油日产量骤降756万桶，降幅约25%，至2200万桶，其中伊拉克、沙特阿拉伯和阿联酋的损失最大。这样的跌幅，以桶数计算，也将超过1973年阿拉伯石油禁运造成的损失。",
-    "content": "【欧佩克上月石油产量出现数十年来最大降幅】调查显示，由于中东冲突导致主要成员国的石油出口受阻，欧佩克3月份原油产量创下至少40年来最大跌幅。调查显示，石油输出国组织（欧佩克）的石油日产量骤降756万桶，降幅约25%，至2200万桶，其中伊拉克、沙特阿拉伯和阿联酋的损失最大。这样的跌幅，以桶数计算，也将超过1973年阿拉伯石油禁运造成的损失。",
-    "full_content": "【欧佩克上月石油产量出现数十年来最大降幅】调查显示，由于中东冲突导致主要成员国的石油出口受阻，欧佩克3月份原油产量创下至少40年来最大跌幅。调查显示，石油输出国组织（欧佩克）的石油日产量骤降756万桶，降幅约25%，至2200万桶，其中伊拉克、沙特阿拉伯和阿联酋的损失最大。这样的跌幅，以桶数计算，也将超过1973年阿拉伯石油禁运造成的损失。",
-    "sort_time": "1775573610095868",
-    "showTime": "2026-04-07 22:53:30",
-    "time": "2026-04-07 22:53:30",
-    "publish_time": "2026-04-07 22:53:30",
-    "raw_data": {
-      "code": "202604073696795868",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1775573610095868",
-      "share": 6,
-      "showTime": "2026-04-07 22:53:30",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "【欧佩克上月石油产量出现数十年来最大降幅】调查显示，由于中东冲突导致主要成员国的石油出口受阻，欧佩克3月份原油产量创下至少40年来最大跌幅。调查显示，石油输出国组织（欧佩克）的石油日产量骤降756万桶，降幅约25%，至2200万桶，其中伊拉克、沙特阿拉伯和阿联酋的损失最大。这样的跌幅，以桶数计算，也将超过1973年阿拉伯石油禁运造成的损失。",
-      "title": "欧佩克上月石油产量出现数十年来最大降幅",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696795868.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "8cadc86534a0c28a",
-    "code": "202604073696795013",
-    "title": "外媒称美国否认正考虑在伊朗使用核武器",
-    "summary": "【外媒称美国否认正考虑在伊朗使用核武器】据外媒7日报道，美国否认正在考虑在伊朗使用核武器。",
-    "content": "【外媒称美国否认正考虑在伊朗使用核武器】据外媒7日报道，美国否认正在考虑在伊朗使用核武器。",
-    "full_content": "【外媒称美国否认正考虑在伊朗使用核武器】据外媒7日报道，美国否认正在考虑在伊朗使用核武器。",
-    "sort_time": "1775573356095013",
-    "showTime": "2026-04-07 22:49:16",
-    "time": "2026-04-07 22:49:16",
-    "publish_time": "2026-04-07 22:49:16",
-    "raw_data": {
-      "code": "202604073696795013",
-      "image": [],
-      "pinglun_Num": 525,
-      "realSort": "1775573356095013",
-      "share": 1255,
-      "showTime": "2026-04-07 22:49:16",
-      "stockList": [],
-      "summary": "【外媒称美国否认正考虑在伊朗使用核武器】据外媒7日报道，美国否认正在考虑在伊朗使用核武器。",
-      "title": "外媒称美国否认正考虑在伊朗使用核武器",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604073696795013.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 525,
-    "share_count": 1255,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
