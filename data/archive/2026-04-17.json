@@ -1,5 +1,174 @@
 [
   {
+    "id": "bf3b914cbd9a58a5",
+    "code": "202604183709457682",
+    "title": "伊朗海军司令：美国对伊海上封锁是“海盗行为”",
+    "summary": "【伊朗海军司令：美国对伊海上封锁是“海盗行为”】德黑兰4月17日电伊朗海军司令沙赫拉姆·伊拉尼17日表示，美国对伊朗的海上封锁本质上是“海盗行为”。",
+    "content": "【伊朗海军司令：美国对伊海上封锁是“海盗行为”】德黑兰4月17日电伊朗海军司令沙赫拉姆·伊拉尼17日表示，美国对伊朗的海上封锁本质上是“海盗行为”。",
+    "full_content": "【伊朗海军司令：美国对伊海上封锁是“海盗行为”】德黑兰4月17日电伊朗海军司令沙赫拉姆·伊拉尼17日表示，美国对伊朗的海上封锁本质上是“海盗行为”。",
+    "sort_time": "1776459664057682",
+    "showTime": "2026-04-18 05:01:04",
+    "time": "2026-04-18 05:01:04",
+    "publish_time": "2026-04-18 05:01:04",
+    "raw_data": {
+      "code": "202604183709457682",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776459664057682",
+      "share": 1,
+      "showTime": "2026-04-18 05:01:04",
+      "stockList": [],
+      "summary": "【伊朗海军司令：美国对伊海上封锁是“海盗行为”】德黑兰4月17日电伊朗海军司令沙赫拉姆·伊拉尼17日表示，美国对伊朗的海上封锁本质上是“海盗行为”。",
+      "title": "伊朗海军司令：美国对伊海上封锁是“海盗行为”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604183709457682.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "40980df9215d3c4c",
+    "code": "202604183709457470",
+    "title": "美国AI芯片公司CerebrasSystems申请美国IPO 寻求按代码“CBRS”在纳斯达克交易其股票",
+    "summary": "美国AI芯片公司CerebrasSystems申请美国IPO，寻求按代码“CBRS”在纳斯达克交易其股票。摩根士丹利、花旗集团、巴克莱银行、瑞银投资银行及瑞穗银行为其首次公开募股的承销商。",
+    "content": "美国AI芯片公司CerebrasSystems申请美国IPO，寻求按代码“CBRS”在纳斯达克交易其股票。摩根士丹利、花旗集团、巴克莱银行、瑞银投资银行及瑞穗银行为其首次公开募股的承销商。",
+    "full_content": "美国AI芯片公司CerebrasSystems申请美国IPO，寻求按代码“CBRS”在纳斯达克交易其股票。摩根士丹利、花旗集团、巴克莱银行、瑞银投资银行及瑞穗银行为其首次公开募股的承销商。",
+    "sort_time": "1776458527057470",
+    "showTime": "2026-04-18 04:42:07",
+    "time": "2026-04-18 04:42:07",
+    "publish_time": "2026-04-18 04:42:07",
+    "raw_data": {
+      "code": "202604183709457470",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776458527057470",
+      "share": 0,
+      "showTime": "2026-04-18 04:42:07",
+      "stockList": [
+        "90.BK0697",
+        "0.161121"
+      ],
+      "summary": "美国AI芯片公司CerebrasSystems申请美国IPO，寻求按代码“CBRS”在纳斯达克交易其股票。摩根士丹利、花旗集团、巴克莱银行、瑞银投资银行及瑞穗银行为其首次公开募股的承销商。",
+      "title": "美国AI芯片公司CerebrasSystems申请美国IPO 寻求按代码“CBRS”在纳斯达克交易其股票",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604183709457470.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I020101",
+        "I020202"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "eff131136315fc1a",
+    "code": "202604183709457578",
+    "title": "知情人士称美伊下轮谈判最快可能于20日恢复",
+    "summary": "【知情人士称美伊下轮谈判最快可能于20日恢复】据美国方面17日消息，多名知情人士称，美国和伊朗下一轮面对面谈判最快可能于20日恢复。",
+    "content": "【知情人士称美伊下轮谈判最快可能于20日恢复】据美国方面17日消息，多名知情人士称，美国和伊朗下一轮面对面谈判最快可能于20日恢复。",
+    "full_content": "【知情人士称美伊下轮谈判最快可能于20日恢复】据美国方面17日消息，多名知情人士称，美国和伊朗下一轮面对面谈判最快可能于20日恢复。",
+    "sort_time": "1776457839057578",
+    "showTime": "2026-04-18 04:30:39",
+    "time": "2026-04-18 04:30:39",
+    "publish_time": "2026-04-18 04:30:39",
+    "raw_data": {
+      "code": "202604183709457578",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776457839057578",
+      "share": 0,
+      "showTime": "2026-04-18 04:30:39",
+      "stockList": [],
+      "summary": "【知情人士称美伊下轮谈判最快可能于20日恢复】据美国方面17日消息，多名知情人士称，美国和伊朗下一轮面对面谈判最快可能于20日恢复。",
+      "title": "知情人士称美伊下轮谈判最快可能于20日恢复",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604183709457578.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "e58df7d701a96389",
     "code": "202604183709456688",
     "title": "法英：条件允许时将牵头多国行动 保障霍尔木兹海峡航运",

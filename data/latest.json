@@ -1,5 +1,174 @@
 [
   {
+    "id": "bf3b914cbd9a58a5",
+    "code": "202604183709457682",
+    "title": "伊朗海军司令：美国对伊海上封锁是“海盗行为”",
+    "summary": "【伊朗海军司令：美国对伊海上封锁是“海盗行为”】德黑兰4月17日电伊朗海军司令沙赫拉姆·伊拉尼17日表示，美国对伊朗的海上封锁本质上是“海盗行为”。",
+    "content": "【伊朗海军司令：美国对伊海上封锁是“海盗行为”】德黑兰4月17日电伊朗海军司令沙赫拉姆·伊拉尼17日表示，美国对伊朗的海上封锁本质上是“海盗行为”。",
+    "full_content": "【伊朗海军司令：美国对伊海上封锁是“海盗行为”】德黑兰4月17日电伊朗海军司令沙赫拉姆·伊拉尼17日表示，美国对伊朗的海上封锁本质上是“海盗行为”。",
+    "sort_time": "1776459664057682",
+    "showTime": "2026-04-18 05:01:04",
+    "time": "2026-04-18 05:01:04",
+    "publish_time": "2026-04-18 05:01:04",
+    "raw_data": {
+      "code": "202604183709457682",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776459664057682",
+      "share": 1,
+      "showTime": "2026-04-18 05:01:04",
+      "stockList": [],
+      "summary": "【伊朗海军司令：美国对伊海上封锁是“海盗行为”】德黑兰4月17日电伊朗海军司令沙赫拉姆·伊拉尼17日表示，美国对伊朗的海上封锁本质上是“海盗行为”。",
+      "title": "伊朗海军司令：美国对伊海上封锁是“海盗行为”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604183709457682.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "40980df9215d3c4c",
+    "code": "202604183709457470",
+    "title": "美国AI芯片公司CerebrasSystems申请美国IPO 寻求按代码“CBRS”在纳斯达克交易其股票",
+    "summary": "美国AI芯片公司CerebrasSystems申请美国IPO，寻求按代码“CBRS”在纳斯达克交易其股票。摩根士丹利、花旗集团、巴克莱银行、瑞银投资银行及瑞穗银行为其首次公开募股的承销商。",
+    "content": "美国AI芯片公司CerebrasSystems申请美国IPO，寻求按代码“CBRS”在纳斯达克交易其股票。摩根士丹利、花旗集团、巴克莱银行、瑞银投资银行及瑞穗银行为其首次公开募股的承销商。",
+    "full_content": "美国AI芯片公司CerebrasSystems申请美国IPO，寻求按代码“CBRS”在纳斯达克交易其股票。摩根士丹利、花旗集团、巴克莱银行、瑞银投资银行及瑞穗银行为其首次公开募股的承销商。",
+    "sort_time": "1776458527057470",
+    "showTime": "2026-04-18 04:42:07",
+    "time": "2026-04-18 04:42:07",
+    "publish_time": "2026-04-18 04:42:07",
+    "raw_data": {
+      "code": "202604183709457470",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776458527057470",
+      "share": 0,
+      "showTime": "2026-04-18 04:42:07",
+      "stockList": [
+        "90.BK0697",
+        "0.161121"
+      ],
+      "summary": "美国AI芯片公司CerebrasSystems申请美国IPO，寻求按代码“CBRS”在纳斯达克交易其股票。摩根士丹利、花旗集团、巴克莱银行、瑞银投资银行及瑞穗银行为其首次公开募股的承销商。",
+      "title": "美国AI芯片公司CerebrasSystems申请美国IPO 寻求按代码“CBRS”在纳斯达克交易其股票",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604183709457470.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I020101",
+        "I020202"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "eff131136315fc1a",
+    "code": "202604183709457578",
+    "title": "知情人士称美伊下轮谈判最快可能于20日恢复",
+    "summary": "【知情人士称美伊下轮谈判最快可能于20日恢复】据美国方面17日消息，多名知情人士称，美国和伊朗下一轮面对面谈判最快可能于20日恢复。",
+    "content": "【知情人士称美伊下轮谈判最快可能于20日恢复】据美国方面17日消息，多名知情人士称，美国和伊朗下一轮面对面谈判最快可能于20日恢复。",
+    "full_content": "【知情人士称美伊下轮谈判最快可能于20日恢复】据美国方面17日消息，多名知情人士称，美国和伊朗下一轮面对面谈判最快可能于20日恢复。",
+    "sort_time": "1776457839057578",
+    "showTime": "2026-04-18 04:30:39",
+    "time": "2026-04-18 04:30:39",
+    "publish_time": "2026-04-18 04:30:39",
+    "raw_data": {
+      "code": "202604183709457578",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776457839057578",
+      "share": 0,
+      "showTime": "2026-04-18 04:30:39",
+      "stockList": [],
+      "summary": "【知情人士称美伊下轮谈判最快可能于20日恢复】据美国方面17日消息，多名知情人士称，美国和伊朗下一轮面对面谈判最快可能于20日恢复。",
+      "title": "知情人士称美伊下轮谈判最快可能于20日恢复",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604183709457578.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "e58df7d701a96389",
     "code": "202604183709456688",
     "title": "法英：条件允许时将牵头多国行动 保障霍尔木兹海峡航运",
@@ -13,7 +182,7 @@
     "raw_data": {
       "code": "202604183709456688",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 5,
       "realSort": "1776456775056688",
       "share": 0,
       "showTime": "2026-04-18 04:12:55",
@@ -35,7 +204,7 @@
       "90.BK0450"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -144,9 +313,9 @@
     "raw_data": {
       "code": "202604183709454646",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 7,
       "realSort": "1776456028054646",
-      "share": 4,
+      "share": 8,
       "showTime": "2026-04-18 04:00:28",
       "stockList": [
         "105.TSLA",
@@ -166,8 +335,8 @@
       "105.AAPL"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 4,
+    "comment_count": 7,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [
@@ -221,9 +390,9 @@
     "raw_data": {
       "code": "202604183709453144",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 8,
       "realSort": "1776455708053144",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-04-18 03:55:08",
       "stockList": [],
       "summary": "【伊朗议长：绝不放弃控制霍尔木兹海峡 特朗普妄言摧毁伊朗文明已失败】伊朗伊斯兰议会议长卡利巴夫17日在社交媒体发文称，霍尔木兹海峡的控制权属于伊朗，这一事实已为美方所接受。伊朗绝不会放弃对霍尔木兹海峡的管辖。",
@@ -237,8 +406,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 8,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -513,7 +682,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1776454533052433",
-      "share": 0,
+      "share": 3,
       "showTime": "2026-04-18 03:35:33",
       "stockList": [],
       "summary": "【特朗普：伊朗将中止核计划且无法获得被冻结资金】美国总统特朗普17日接受彭博社电话采访时称，伊朗已同意无限期中止其核计划，且不会从美国获得任何被冻结资金。",
@@ -528,7 +697,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 0,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -552,7 +721,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1776454516052332",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-18 03:35:16",
       "stockList": [],
       "summary": "【巴加埃：伊朗拒绝将浓缩铀运往国外】伊朗外交部发言人巴加埃17日告诉伊朗伊斯兰共和国广播电视台，伊朗拒绝将其浓缩铀运往国外的方案。",
@@ -567,7 +736,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 4,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -981,7 +1150,7 @@
     "raw_data": {
       "code": "202604183709447638",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1776450885047638",
       "share": 0,
       "showTime": "2026-04-18 02:34:45",
@@ -1003,7 +1172,7 @@
       "0.159945"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
+    "comment_count": 9,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1453,7 +1622,7 @@
     "raw_data": {
       "code": "202604183709446630",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 13,
       "realSort": "1776447375046630",
       "share": 2,
       "showTime": "2026-04-18 01:36:15",
@@ -1469,7 +1638,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
+    "comment_count": 13,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1578,7 +1747,7 @@
     "raw_data": {
       "code": "202604183709446393",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 23,
       "realSort": "1776445855046393",
       "share": 4,
       "showTime": "2026-04-18 01:10:55",
@@ -1594,7 +1763,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 22,
+    "comment_count": 23,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1674,9 +1843,9 @@
     "raw_data": {
       "code": "202604183709443828",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 24,
       "realSort": "1776445114043828",
-      "share": 9,
+      "share": 10,
       "showTime": "2026-04-18 00:58:34",
       "stockList": [],
       "summary": "【伊朗伊斯兰革命卫队：军用船只仍禁止通过霍尔木兹海峡】当地时间17日晚，伊朗伊斯兰革命卫队海军司令部公布了船舶通过霍尔木兹海峡新规。规定如下:1、民用船只只能通过伊朗指定的航线通行。2、军用船只仍禁止通过该海峡。3、所有船只的航行均须经伊朗伊斯兰革命卫队海军许可。4、此项新规符合美以伊临时停火协议以及黎巴嫩（和以色列）停火协议的实施。",
@@ -1690,8 +1859,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 9,
+    "comment_count": 24,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1842,7 +2011,7 @@
     "raw_data": {
       "code": "202604183709441532",
       "image": [],
-      "pinglun_Num": 44,
+      "pinglun_Num": 48,
       "realSort": "1776444102041532",
       "share": 10,
       "showTime": "2026-04-18 00:41:42",
@@ -1858,7 +2027,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 44,
+    "comment_count": 48,
     "share_count": 10,
     "tags": {
       "industries": [],
@@ -1983,7 +2152,7 @@
       "image": [],
       "pinglun_Num": 48,
       "realSort": "1776442809039250",
-      "share": 111,
+      "share": 117,
       "showTime": "2026-04-18 00:20:09",
       "stockList": [
         "90.BK0433",
@@ -2004,7 +2173,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 48,
-    "share_count": 111,
+    "share_count": 117,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2234,127 +2403,6 @@
       "concept_ids": [
         "C402"
       ]
-    }
-  },
-  {
-    "id": "df04b26ac77234b6",
-    "code": "202604183709426651",
-    "title": "英法拟牵头开展国际行动 保障霍尔木兹海峡航行自由",
-    "summary": "【英法拟牵头开展国际行动 保障霍尔木兹海峡航行自由】当地时间17日，英国首相斯塔默在法国巴黎表示，各国领导人欢迎伊朗开放霍尔木兹海峡的最新进展，但强调相关安排应具备长期性和可操作性。",
-    "content": "【英法拟牵头开展国际行动 保障霍尔木兹海峡航行自由】当地时间17日，英国首相斯塔默在法国巴黎表示，各国领导人欢迎伊朗开放霍尔木兹海峡的最新进展，但强调相关安排应具备长期性和可操作性。",
-    "full_content": "【英法拟牵头开展国际行动 保障霍尔木兹海峡航行自由】当地时间17日，英国首相斯塔默在法国巴黎表示，各国领导人欢迎伊朗开放霍尔木兹海峡的最新进展，但强调相关安排应具备长期性和可操作性。",
-    "sort_time": "1776441813026651",
-    "showTime": "2026-04-18 00:03:33",
-    "time": "2026-04-18 00:03:33",
-    "publish_time": "2026-04-18 00:03:33",
-    "raw_data": {
-      "code": "202604183709426651",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1776441813026651",
-      "share": 1,
-      "showTime": "2026-04-18 00:03:33",
-      "stockList": [],
-      "summary": "【英法拟牵头开展国际行动 保障霍尔木兹海峡航行自由】当地时间17日，英国首相斯塔默在法国巴黎表示，各国领导人欢迎伊朗开放霍尔木兹海峡的最新进展，但强调相关安排应具备长期性和可操作性。",
-      "title": "英法拟牵头开展国际行动 保障霍尔木兹海峡航行自由",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604183709426651.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a0550fbf8026bfd5",
-    "code": "202604173709412595",
-    "title": "埃尔多安说海湾国家通往公海的通行权不应受限",
-    "summary": "【埃尔多安说海湾国家通往公海的通行权不应受限】土耳其总统埃尔多安17日说，海湾国家通往公海的通行权不应受到限制。埃尔多安在第五届安塔利亚外交论坛开幕式上发表讲话说，霍尔木兹海峡一侧是伊朗，另一侧是阿曼，海湾国家通往公海的通行权利不应受到限制。他说，应有效利用美国、以色列与伊朗之间的停火窗口，实现持久和平。",
-    "content": "【埃尔多安说海湾国家通往公海的通行权不应受限】土耳其总统埃尔多安17日说，海湾国家通往公海的通行权不应受到限制。埃尔多安在第五届安塔利亚外交论坛开幕式上发表讲话说，霍尔木兹海峡一侧是伊朗，另一侧是阿曼，海湾国家通往公海的通行权利不应受到限制。他说，应有效利用美国、以色列与伊朗之间的停火窗口，实现持久和平。",
-    "full_content": "【埃尔多安说海湾国家通往公海的通行权不应受限】土耳其总统埃尔多安17日说，海湾国家通往公海的通行权不应受到限制。埃尔多安在第五届安塔利亚外交论坛开幕式上发表讲话说，霍尔木兹海峡一侧是伊朗，另一侧是阿曼，海湾国家通往公海的通行权利不应受到限制。他说，应有效利用美国、以色列与伊朗之间的停火窗口，实现持久和平。",
-    "sort_time": "1776440930012595",
-    "showTime": "2026-04-17 23:48:50",
-    "time": "2026-04-17 23:48:50",
-    "publish_time": "2026-04-17 23:48:50",
-    "raw_data": {
-      "code": "202604173709412595",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1776440930012595",
-      "share": 1,
-      "showTime": "2026-04-17 23:48:50",
-      "stockList": [],
-      "summary": "【埃尔多安说海湾国家通往公海的通行权不应受限】土耳其总统埃尔多安17日说，海湾国家通往公海的通行权不应受到限制。埃尔多安在第五届安塔利亚外交论坛开幕式上发表讲话说，霍尔木兹海峡一侧是伊朗，另一侧是阿曼，海湾国家通往公海的通行权利不应受到限制。他说，应有效利用美国、以色列与伊朗之间的停火窗口，实现持久和平。",
-      "title": "埃尔多安说海湾国家通往公海的通行权不应受限",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604173709412595.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b93b6d997dc9ec52",
-    "code": "202604173709416814",
-    "title": "金开新能：2025年净利润1.01亿元 同比减少87.39%",
-    "summary": "【金开新能：2025年净利润1.01亿元 同比减少87.39%】金开新能(600821.SH)发布2025年年度报告，实现营业收入34.52亿元，同比减少4.44%；归属于上市公司股东的净利润为1.01亿元，同比减少87.39%。鉴于公司2025年半年度派发现金红利已超过年度归属于上市公司股东的净利润，公司2025年度拟不派发现金红利，亦不进行资本公积金转增股本和其他形式的利润分配。小财注：公司Q4净利润-4.6亿，Q3净利润1.22亿，据此计算，Q4净利润由盈转亏。",
-    "content": "【金开新能：2025年净利润1.01亿元 同比减少87.39%】金开新能(600821.SH)发布2025年年度报告，实现营业收入34.52亿元，同比减少4.44%；归属于上市公司股东的净利润为1.01亿元，同比减少87.39%。鉴于公司2025年半年度派发现金红利已超过年度归属于上市公司股东的净利润，公司2025年度拟不派发现金红利，亦不进行资本公积金转增股本和其他形式的利润分配。小财注：公司Q4净利润-4.6亿，Q3净利润1.22亿，据此计算，Q4净利润由盈转亏。",
-    "full_content": "【金开新能：2025年净利润1.01亿元 同比减少87.39%】金开新能(600821.SH)发布2025年年度报告，实现营业收入34.52亿元，同比减少4.44%；归属于上市公司股东的净利润为1.01亿元，同比减少87.39%。鉴于公司2025年半年度派发现金红利已超过年度归属于上市公司股东的净利润，公司2025年度拟不派发现金红利，亦不进行资本公积金转增股本和其他形式的利润分配。小财注：公司Q4净利润-4.6亿，Q3净利润1.22亿，据此计算，Q4净利润由盈转亏。",
-    "sort_time": "1776440927016814",
-    "showTime": "2026-04-17 23:48:47",
-    "time": "2026-04-17 23:48:47",
-    "publish_time": "2026-04-17 23:48:47",
-    "raw_data": {
-      "code": "202604173709416814",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1776440927016814",
-      "share": 3,
-      "showTime": "2026-04-17 23:48:47",
-      "stockList": [
-        "1.600821"
-      ],
-      "summary": "【金开新能：2025年净利润1.01亿元 同比减少87.39%】金开新能(600821.SH)发布2025年年度报告，实现营业收入34.52亿元，同比减少4.44%；归属于上市公司股东的净利润为1.01亿元，同比减少87.39%。鉴于公司2025年半年度派发现金红利已超过年度归属于上市公司股东的净利润，公司2025年度拟不派发现金红利，亦不进行资本公积金转增股本和其他形式的利润分配。小财注：公司Q4净利润-4.6亿，Q3净利润1.22亿，据此计算，Q4净利润由盈转亏。",
-      "title": "金开新能：2025年净利润1.01亿元 同比减少87.39%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604173709416814.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.600821"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
