@@ -1,5 +1,135 @@
 [
   {
+    "id": "0bb7548b694b3bf2",
+    "code": "202604193709792548",
+    "title": "印尼尼亚斯岛发生5.6级地震 震源深度30千米",
+    "summary": "【印尼尼亚斯岛发生5.6级地震 震源深度30千米】中国地震台网正式测定：4月19日4时6分在印尼尼亚斯岛（北纬1.30度，东经97.20度）发生5.6级地震，震源深度30千米。",
+    "content": "【印尼尼亚斯岛发生5.6级地震 震源深度30千米】中国地震台网正式测定：4月19日4时6分在印尼尼亚斯岛（北纬1.30度，东经97.20度）发生5.6级地震，震源深度30千米。",
+    "full_content": "【印尼尼亚斯岛发生5.6级地震 震源深度30千米】中国地震台网正式测定：4月19日4时6分在印尼尼亚斯岛（北纬1.30度，东经97.20度）发生5.6级地震，震源深度30千米。",
+    "sort_time": "1776545799092548",
+    "showTime": "2026-04-19 04:56:39",
+    "time": "2026-04-19 04:56:39",
+    "publish_time": "2026-04-19 04:56:39",
+    "raw_data": {
+      "code": "202604193709792548",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776545799092548",
+      "share": 0,
+      "showTime": "2026-04-19 04:56:39",
+      "stockList": [],
+      "summary": "【印尼尼亚斯岛发生5.6级地震 震源深度30千米】中国地震台网正式测定：4月19日4时6分在印尼尼亚斯岛（北纬1.30度，东经97.20度）发生5.6级地震，震源深度30千米。",
+      "title": "印尼尼亚斯岛发生5.6级地震 震源深度30千米",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604193709792548.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "291593fe189e55ed",
+    "code": "202604193709792494",
+    "title": "一季度“新三样”出口强劲 广交会上绿色智能新品受青睐",
+    "summary": "【一季度“新三样”出口强劲 广交会上绿色智能新品受青睐】今年一季度，电动汽车、锂电池、太阳能电池等“新三样”产品出口保持强劲。在本届广交会上，记者发现，“新三样”产品持续受欢迎的同时，更多绿色智能新品受到广泛关注。",
+    "content": "【一季度“新三样”出口强劲 广交会上绿色智能新品受青睐】今年一季度，电动汽车、锂电池、太阳能电池等“新三样”产品出口保持强劲。在本届广交会上，记者发现，“新三样”产品持续受欢迎的同时，更多绿色智能新品受到广泛关注。",
+    "full_content": "【一季度“新三样”出口强劲 广交会上绿色智能新品受青睐】今年一季度，电动汽车、锂电池、太阳能电池等“新三样”产品出口保持强劲。在本届广交会上，记者发现，“新三样”产品持续受欢迎的同时，更多绿色智能新品受到广泛关注。",
+    "sort_time": "1776544837092494",
+    "showTime": "2026-04-19 04:40:37",
+    "time": "2026-04-19 04:40:37",
+    "publish_time": "2026-04-19 04:40:37",
+    "raw_data": {
+      "code": "202604193709792494",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776544837092494",
+      "share": 0,
+      "showTime": "2026-04-19 04:40:37",
+      "stockList": [
+        "90.BK0428",
+        "150.014238"
+      ],
+      "summary": "【一季度“新三样”出口强劲 广交会上绿色智能新品受青睐】今年一季度，电动汽车、锂电池、太阳能电池等“新三样”产品出口保持强劲。在本届广交会上，记者发现，“新三样”产品持续受欢迎的同时，更多绿色智能新品受到广泛关注。",
+      "title": "一季度“新三样”出口强劲 广交会上绿色智能新品受青睐",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604193709792494.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0428",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010201",
+          "name": "锂离子电池制造",
+          "level1": "制造业",
+          "level2": "电气机械和器材制造业",
+          "matched_keyword": "锂电"
+        },
+        {
+          "id": "I010202",
+          "name": "光伏设备",
+          "level1": "制造业",
+          "level2": "电气机械和器材制造业",
+          "matched_keyword": "太阳能"
+        },
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C101",
+          "name": "新能源车",
+          "matched_keyword": "电动汽车"
+        },
+        {
+          "id": "C102",
+          "name": "锂电池",
+          "matched_keyword": "锂电"
+        },
+        {
+          "id": "C103",
+          "name": "光伏",
+          "matched_keyword": "太阳能"
+        }
+      ],
+      "industry_ids": [
+        "I010201",
+        "I010202",
+        "I010301"
+      ],
+      "concept_ids": [
+        "C101",
+        "C102",
+        "C103"
+      ]
+    }
+  },
+  {
     "id": "d8fc3b3e8f1843b1",
     "code": "202604193709792396",
     "title": "为下轮美伊谈判做准备 巴基斯坦首都交通封控升级",
@@ -13,7 +143,7 @@
     "raw_data": {
       "code": "202604193709792396",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1776543631092396",
       "share": 0,
       "showTime": "2026-04-19 04:20:31",
@@ -29,7 +159,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -91,7 +221,7 @@
     "raw_data": {
       "code": "202604193709788198",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1776541200088198",
       "share": 0,
       "showTime": "2026-04-19 03:40:00",
@@ -113,7 +243,7 @@
       "90.BK0900"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -162,7 +292,7 @@
     "raw_data": {
       "code": "202604193709792172",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 11,
       "realSort": "1776540105092172",
       "share": 2,
       "showTime": "2026-04-19 03:21:45",
@@ -178,7 +308,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 11,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -279,9 +409,9 @@
     "raw_data": {
       "code": "202604193709791851",
       "image": [],
-      "pinglun_Num": 144,
+      "pinglun_Num": 186,
       "realSort": "1776536688091851",
-      "share": 111,
+      "share": 126,
       "showTime": "2026-04-19 02:24:48",
       "stockList": [],
       "summary": "【伊朗宣布关闭霍尔木兹海峡】伊朗伊斯兰革命卫队海军当地时间4月18日晚发布消息称，由于美国违反停火协议，并未解除对伊朗船只和港口的封锁，因此霍尔木兹海峡从当晚起关闭，直至美国的封锁解除。",
@@ -295,8 +425,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 144,
-    "share_count": 111,
+    "comment_count": 186,
+    "share_count": 126,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -441,7 +571,7 @@
       "image": [],
       "pinglun_Num": 10,
       "realSort": "1776532227091459",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-04-19 01:10:27",
       "stockList": [],
       "summary": "【以军打击黎巴嫩多个地区武装人员 称“不受停火限制”】耶路撒冷4月18日电（记者庞昕熠王卓伦）以色列国防军18日晚间说，以军在黎巴嫩南部“前沿防线”附近打击了一个武装人员小组，并称此类行动“不受停火限制”。",
@@ -456,7 +586,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 10,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -551,7 +681,7 @@
     "raw_data": {
       "code": "202604193709791241",
       "image": [],
-      "pinglun_Num": 34,
+      "pinglun_Num": 37,
       "realSort": "1776529806091241",
       "share": 4,
       "showTime": "2026-04-19 00:30:06",
@@ -567,7 +697,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 34,
+    "comment_count": 37,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -754,7 +884,7 @@
     "raw_data": {
       "code": "202604183709776866",
       "image": [],
-      "pinglun_Num": 66,
+      "pinglun_Num": 68,
       "realSort": "1776525807076866",
       "share": 16,
       "showTime": "2026-04-18 23:23:27",
@@ -770,7 +900,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 66,
+    "comment_count": 68,
     "share_count": 16,
     "tags": {
       "industries": [],
@@ -793,7 +923,7 @@
     "raw_data": {
       "code": "202604183709776087",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 22,
       "realSort": "1776525575076087",
       "share": 2,
       "showTime": "2026-04-18 23:19:35",
@@ -809,7 +939,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 21,
+    "comment_count": 22,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1010,9 +1140,9 @@
     "raw_data": {
       "code": "202604183709771293",
       "image": [],
-      "pinglun_Num": 235,
+      "pinglun_Num": 238,
       "realSort": "1776523904071293",
-      "share": 193,
+      "share": 199,
       "showTime": "2026-04-18 22:51:44",
       "stockList": [],
       "summary": "【国产光纤全球爆单 部分产品价格暴涨650%】今年以来，光纤行业呈现出“产品量价齐升”的景气态势。在江苏一家光纤生产企业，工作人员告诉记者，今年一季度，光纤产品产销量同比增长35%以上，其海外销量增速超55%。“出口主要是面向北美和东南亚等地区，现在的在手订单很充足，我们现在排产已经排到明年的一季度。”在江苏的另一家光纤生产企业，负责人告诉记者，今年一季度光纤产销量同比增长近5倍。与此同时，产品价格也出现大幅上涨。“价格是爆发性的增长，G.657.A2光纤去年是每芯公里32元，今年涨到了240元，涨幅达到了650%。”",
@@ -1026,8 +1156,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 235,
-    "share_count": 193,
+    "comment_count": 238,
+    "share_count": 199,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1129,7 +1259,7 @@
       "image": [],
       "pinglun_Num": 26,
       "realSort": "1776522844068386",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-04-18 22:34:04",
       "stockList": [
         "90.BK0704"
@@ -1148,7 +1278,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 26,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1311,7 +1441,7 @@
       "image": [],
       "pinglun_Num": 18,
       "realSort": "1776521530064260",
-      "share": 50,
+      "share": 51,
       "showTime": "2026-04-18 22:12:10",
       "stockList": [
         "0.300390",
@@ -1332,7 +1462,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 18,
-    "share_count": 50,
+    "share_count": 51,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1401,7 +1531,7 @@
     "raw_data": {
       "code": "202604183709760485",
       "image": [],
-      "pinglun_Num": 132,
+      "pinglun_Num": 133,
       "realSort": "1776520466060485",
       "share": 54,
       "showTime": "2026-04-18 21:54:26",
@@ -1417,7 +1547,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 132,
+    "comment_count": 133,
     "share_count": 54,
     "tags": {
       "industries": [],
@@ -1440,7 +1570,7 @@
     "raw_data": {
       "code": "202604183709759426",
       "image": [],
-      "pinglun_Num": 626,
+      "pinglun_Num": 627,
       "realSort": "1776520183059426",
       "share": 754,
       "showTime": "2026-04-18 21:49:43",
@@ -1456,7 +1586,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 626,
+    "comment_count": 627,
     "share_count": 754,
     "tags": {
       "industries": [],
@@ -2143,102 +2273,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "e8b38ac8c2c805dd",
-    "code": "202604183709746346",
-    "title": "法国总统说一名法士兵在黎巴嫩南部遇袭身亡",
-    "summary": "【法国总统说一名法士兵在黎巴嫩南部遇袭身亡】法国总统马克龙18日说，一名法国士兵当天在黎巴嫩南部一起针对联合国驻黎巴嫩临时部队（联黎部队）的袭击中身亡。",
-    "content": "【法国总统说一名法士兵在黎巴嫩南部遇袭身亡】法国总统马克龙18日说，一名法国士兵当天在黎巴嫩南部一起针对联合国驻黎巴嫩临时部队（联黎部队）的袭击中身亡。",
-    "full_content": "【法国总统说一名法士兵在黎巴嫩南部遇袭身亡】法国总统马克龙18日说，一名法国士兵当天在黎巴嫩南部一起针对联合国驻黎巴嫩临时部队（联黎部队）的袭击中身亡。",
-    "sort_time": "1776514965046346",
-    "showTime": "2026-04-18 20:22:45",
-    "time": "2026-04-18 20:22:45",
-    "publish_time": "2026-04-18 20:22:45",
-    "raw_data": {
-      "code": "202604183709746346",
-      "image": [],
-      "pinglun_Num": 21,
-      "realSort": "1776514965046346",
-      "share": 4,
-      "showTime": "2026-04-18 20:22:45",
-      "stockList": [],
-      "summary": "【法国总统说一名法士兵在黎巴嫩南部遇袭身亡】法国总统马克龙18日说，一名法国士兵当天在黎巴嫩南部一起针对联合国驻黎巴嫩临时部队（联黎部队）的袭击中身亡。",
-      "title": "法国总统说一名法士兵在黎巴嫩南部遇袭身亡",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604183709746346.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 21,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ccc6bb6a2ebd476e",
-    "code": "202604183709746279",
-    "title": "公安部等八部门：保持严打虚开骗税等涉税违法犯罪的高压态势",
-    "summary": "【公安部等八部门：保持严打虚开骗税等涉税违法犯罪的高压态势】税务总局、公安部、最高人民法院、最高人民检察院、中国人民银行、海关总署、市场监管总局、国家外汇局八部门16日在北京召开全国常态化联合打击涉税违法犯罪工作推进会议。会议研究部署下阶段重点工作任务，着力推动常态化联合打击涉税违法犯罪工作机制发挥更大作用，切实维护法治公平的经济税收秩序，更好服务高质量发展。",
-    "content": "【公安部等八部门：保持严打虚开骗税等涉税违法犯罪的高压态势】税务总局、公安部、最高人民法院、最高人民检察院、中国人民银行、海关总署、市场监管总局、国家外汇局八部门16日在北京召开全国常态化联合打击涉税违法犯罪工作推进会议。会议研究部署下阶段重点工作任务，着力推动常态化联合打击涉税违法犯罪工作机制发挥更大作用，切实维护法治公平的经济税收秩序，更好服务高质量发展。",
-    "full_content": "【公安部等八部门：保持严打虚开骗税等涉税违法犯罪的高压态势】税务总局、公安部、最高人民法院、最高人民检察院、中国人民银行、海关总署、市场监管总局、国家外汇局八部门16日在北京召开全国常态化联合打击涉税违法犯罪工作推进会议。会议研究部署下阶段重点工作任务，着力推动常态化联合打击涉税违法犯罪工作机制发挥更大作用，切实维护法治公平的经济税收秩序，更好服务高质量发展。",
-    "sort_time": "1776514481046279",
-    "showTime": "2026-04-18 20:14:41",
-    "time": "2026-04-18 20:14:41",
-    "publish_time": "2026-04-18 20:14:41",
-    "raw_data": {
-      "code": "202604183709746279",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1776514481046279",
-      "share": 17,
-      "showTime": "2026-04-18 20:14:41",
-      "stockList": [],
-      "summary": "【公安部等八部门：保持严打虚开骗税等涉税违法犯罪的高压态势】税务总局、公安部、最高人民法院、最高人民检察院、中国人民银行、海关总署、市场监管总局、国家外汇局八部门16日在北京召开全国常态化联合打击涉税违法犯罪工作推进会议。会议研究部署下阶段重点工作任务，着力推动常态化联合打击涉税违法犯罪工作机制发挥更大作用，切实维护法治公平的经济税收秩序，更好服务高质量发展。",
-      "title": "公安部等八部门：保持严打虚开骗税等涉税违法犯罪的高压态势",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604183709746279.html",
-    "category": "政策",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 17,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
     }
   }
 ]
