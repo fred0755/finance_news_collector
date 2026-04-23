@@ -1,5 +1,498 @@
 [
   {
+    "id": "34a0cd8169daba3f",
+    "code": "202604243716815859",
+    "title": "周五（4月24日）重点关注财经事件和经济数据",
+    "summary": "【周五（4月24日）重点关注财经事件和经济数据】①07:01英国4月Gfk消费者信心指数②07:30日本3月核心CPI年率",
+    "content": "【周五（4月24日）重点关注财经事件和经济数据】①07:01英国4月Gfk消费者信心指数②07:30日本3月核心CPI年率",
+    "full_content": "【周五（4月24日）重点关注财经事件和经济数据】①07:01英国4月Gfk消费者信心指数②07:30日本3月核心CPI年率",
+    "sort_time": "1776981024015859",
+    "showTime": "2026-04-24 05:50:24",
+    "time": "2026-04-24 05:50:24",
+    "publish_time": "2026-04-24 05:50:24",
+    "raw_data": {
+      "code": "202604243716815859",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776981024015859",
+      "share": 0,
+      "showTime": "2026-04-24 05:50:24",
+      "stockList": [],
+      "summary": "【周五（4月24日）重点关注财经事件和经济数据】①07:01英国4月Gfk消费者信心指数②07:30日本3月核心CPI年率",
+      "title": "周五（4月24日）重点关注财经事件和经济数据",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716815859.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "74b8e381d2db6d17",
+    "code": "202604243716813596",
+    "title": "英特尔电话会称 2026年芯片制造设备方面的开支将同比增长25%",
+    "summary": "英特尔电话会称，2026年芯片制造设备方面的开支将同比增长25%。",
+    "content": "英特尔电话会称，2026年芯片制造设备方面的开支将同比增长25%。",
+    "full_content": "英特尔电话会称，2026年芯片制造设备方面的开支将同比增长25%。",
+    "sort_time": "1776980776013596",
+    "showTime": "2026-04-24 05:46:16",
+    "time": "2026-04-24 05:46:16",
+    "publish_time": "2026-04-24 05:46:16",
+    "raw_data": {
+      "code": "202604243716813596",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776980776013596",
+      "share": 1,
+      "showTime": "2026-04-24 05:46:16",
+      "stockList": [
+        "150.013446",
+        "105.INTC"
+      ],
+      "summary": "英特尔电话会称，2026年芯片制造设备方面的开支将同比增长25%。",
+      "title": "英特尔电话会称 2026年芯片制造设备方面的开支将同比增长25%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716813596.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "150.013446",
+      "105.INTC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "aa31d4b3a1916b86",
+    "code": "202604243716813384",
+    "title": "纽蒙特矿业表示 卡迪亚地下矿山修复工作预计耗时约五周 预计产能将恢复至80%",
+    "summary": "纽蒙特矿业表示，卡迪亚地下矿山修复工作预计耗时约五周，预计产能将恢复至80%。",
+    "content": "纽蒙特矿业表示，卡迪亚地下矿山修复工作预计耗时约五周，预计产能将恢复至80%。",
+    "full_content": "纽蒙特矿业表示，卡迪亚地下矿山修复工作预计耗时约五周，预计产能将恢复至80%。",
+    "sort_time": "1776980712013384",
+    "showTime": "2026-04-24 05:45:12",
+    "time": "2026-04-24 05:45:12",
+    "publish_time": "2026-04-24 05:45:12",
+    "raw_data": {
+      "code": "202604243716813384",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776980712013384",
+      "share": 0,
+      "showTime": "2026-04-24 05:45:12",
+      "stockList": [
+        "106.NEM"
+      ],
+      "summary": "纽蒙特矿业表示，卡迪亚地下矿山修复工作预计耗时约五周，预计产能将恢复至80%。",
+      "title": "纽蒙特矿业表示 卡迪亚地下矿山修复工作预计耗时约五周 预计产能将恢复至80%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716813384.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.NEM"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6c37ff10da3396e8",
+    "code": "202604243716808914",
+    "title": "以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”",
+    "summary": "【以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”】据以色列媒体23日报道，以色列执法部门当天宣布，以色列两名空军技术人员涉嫌“为伊朗从事间谍活动”，已被提起诉讼。据《以色列时报》报道，这两人被指控犯有一系列“代表伊朗情报部门实施的安全方面罪行”。起诉书显示，两人“与伊朗情报部门保持数月联系”，并执行“各种以获取经济利益为目的的任务”。",
+    "content": "【以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”】据以色列媒体23日报道，以色列执法部门当天宣布，以色列两名空军技术人员涉嫌“为伊朗从事间谍活动”，已被提起诉讼。据《以色列时报》报道，这两人被指控犯有一系列“代表伊朗情报部门实施的安全方面罪行”。起诉书显示，两人“与伊朗情报部门保持数月联系”，并执行“各种以获取经济利益为目的的任务”。",
+    "full_content": "【以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”】据以色列媒体23日报道，以色列执法部门当天宣布，以色列两名空军技术人员涉嫌“为伊朗从事间谍活动”，已被提起诉讼。据《以色列时报》报道，这两人被指控犯有一系列“代表伊朗情报部门实施的安全方面罪行”。起诉书显示，两人“与伊朗情报部门保持数月联系”，并执行“各种以获取经济利益为目的的任务”。",
+    "sort_time": "1776980063008914",
+    "showTime": "2026-04-24 05:34:23",
+    "time": "2026-04-24 05:34:23",
+    "publish_time": "2026-04-24 05:34:23",
+    "raw_data": {
+      "code": "202604243716808914",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776980063008914",
+      "share": 0,
+      "showTime": "2026-04-24 05:34:23",
+      "stockList": [],
+      "summary": "【以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”】据以色列媒体23日报道，以色列执法部门当天宣布，以色列两名空军技术人员涉嫌“为伊朗从事间谍活动”，已被提起诉讼。据《以色列时报》报道，这两人被指控犯有一系列“代表伊朗情报部门实施的安全方面罪行”。起诉书显示，两人“与伊朗情报部门保持数月联系”，并执行“各种以获取经济利益为目的的任务”。",
+      "title": "以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716808914.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4870c99c8111b204",
+    "code": "202604243716806348",
+    "title": "特朗普称黎以停火将延长三周",
+    "summary": "【特朗普称黎以停火将延长三周】当地时间4月23日，美国总统唐纳德·特朗普在其社交媒体“真实社交”发文表示，以色列与黎巴嫩之间的停火协议将延长三周。",
+    "content": "【特朗普称黎以停火将延长三周】当地时间4月23日，美国总统唐纳德·特朗普在其社交媒体“真实社交”发文表示，以色列与黎巴嫩之间的停火协议将延长三周。",
+    "full_content": "【特朗普称黎以停火将延长三周】当地时间4月23日，美国总统唐纳德·特朗普在其社交媒体“真实社交”发文表示，以色列与黎巴嫩之间的停火协议将延长三周。",
+    "sort_time": "1776979712006348",
+    "showTime": "2026-04-24 05:28:32",
+    "time": "2026-04-24 05:28:32",
+    "publish_time": "2026-04-24 05:28:32",
+    "raw_data": {
+      "code": "202604243716806348",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1776979712006348",
+      "share": 3,
+      "showTime": "2026-04-24 05:28:32",
+      "stockList": [],
+      "summary": "【特朗普称黎以停火将延长三周】当地时间4月23日，美国总统唐纳德·特朗普在其社交媒体“真实社交”发文表示，以色列与黎巴嫩之间的停火协议将延长三周。",
+      "title": "特朗普称黎以停火将延长三周",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716806348.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fba396ebf056d2e3",
+    "code": "202604243716805664",
+    "title": "英特尔美股盘后涨幅扩大至18%",
+    "summary": "英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。此前英特尔发布一季度财报。",
+    "content": "英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。此前英特尔发布一季度财报。",
+    "full_content": "英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。此前英特尔发布一季度财报。",
+    "sort_time": "1776979391005664",
+    "showTime": "2026-04-24 05:23:11",
+    "time": "2026-04-24 05:23:11",
+    "publish_time": "2026-04-24 05:23:11",
+    "raw_data": {
+      "code": "202604243716805664",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1776979391005664",
+      "share": 6,
+      "showTime": "2026-04-24 05:23:11",
+      "stockList": [
+        "105.INTC",
+        "105.AMD"
+      ],
+      "summary": "英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。此前英特尔发布一季度财报。",
+      "title": "英特尔美股盘后涨幅扩大至18%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716805664.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.INTC",
+      "105.AMD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "91fc046f108b3183",
+    "code": "202604243716803998",
+    "title": "富时A50期指连续夜盘收跌0.06% 报15632点",
+    "summary": "富时A50期指连续夜盘收跌0.06%，报15632点。",
+    "content": "富时A50期指连续夜盘收跌0.06%，报15632点。",
+    "full_content": "富时A50期指连续夜盘收跌0.06%，报15632点。",
+    "sort_time": "1776979168003998",
+    "showTime": "2026-04-24 05:19:28",
+    "time": "2026-04-24 05:19:28",
+    "publish_time": "2026-04-24 05:19:28",
+    "raw_data": {
+      "code": "202604243716803998",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776979168003998",
+      "share": 0,
+      "showTime": "2026-04-24 05:19:28",
+      "stockList": [],
+      "summary": "富时A50期指连续夜盘收跌0.06%，报15632点。",
+      "title": "富时A50期指连续夜盘收跌0.06% 报15632点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716803998.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "64fe00286d83a2e8",
+    "code": "202604243716802630",
+    "title": "以军称在加沙地带打死多名哈马斯武装人员",
+    "summary": "【以军称在加沙地带打死多名哈马斯武装人员】以色列国防军23日称，过去一天在加沙地带北部和南部打死多名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员。以军称，相关武装人员的行动对以军构成了安全威胁。",
+    "content": "【以军称在加沙地带打死多名哈马斯武装人员】以色列国防军23日称，过去一天在加沙地带北部和南部打死多名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员。以军称，相关武装人员的行动对以军构成了安全威胁。",
+    "full_content": "【以军称在加沙地带打死多名哈马斯武装人员】以色列国防军23日称，过去一天在加沙地带北部和南部打死多名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员。以军称，相关武装人员的行动对以军构成了安全威胁。",
+    "sort_time": "1776978794002630",
+    "showTime": "2026-04-24 05:13:14",
+    "time": "2026-04-24 05:13:14",
+    "publish_time": "2026-04-24 05:13:14",
+    "raw_data": {
+      "code": "202604243716802630",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776978794002630",
+      "share": 0,
+      "showTime": "2026-04-24 05:13:14",
+      "stockList": [],
+      "summary": "【以军称在加沙地带打死多名哈马斯武装人员】以色列国防军23日称，过去一天在加沙地带北部和南部打死多名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员。以军称，相关武装人员的行动对以军构成了安全威胁。",
+      "title": "以军称在加沙地带打死多名哈马斯武装人员",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716802630.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "7a86f8f1f6b473a9",
+    "code": "202604243716800492",
+    "title": "COMEX黄金期货收跌0.93%",
+    "summary": "COMEX黄金期货收跌0.93%，报4708.6美元/盎司；COMEX白银期货收跌3.21%，报75.46美元/盎司。",
+    "content": "COMEX黄金期货收跌0.93%，报4708.6美元/盎司；COMEX白银期货收跌3.21%，报75.46美元/盎司。",
+    "full_content": "COMEX黄金期货收跌0.93%，报4708.6美元/盎司；COMEX白银期货收跌3.21%，报75.46美元/盎司。",
+    "sort_time": "1776978207000492",
+    "showTime": "2026-04-24 05:03:27",
+    "time": "2026-04-24 05:03:27",
+    "publish_time": "2026-04-24 05:03:27",
+    "raw_data": {
+      "code": "202604243716800492",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776978207000492",
+      "share": 0,
+      "showTime": "2026-04-24 05:03:27",
+      "stockList": [],
+      "summary": "COMEX黄金期货收跌0.93%，报4708.6美元/盎司；COMEX白银期货收跌3.21%，报75.46美元/盎司。",
+      "title": "COMEX黄金期货收跌0.93%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716800492.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "b1c8ff53ca3ccd7c",
+    "code": "202604243716800756",
+    "title": "以色列袭击已致黎巴嫩2483人死亡",
+    "summary": "【以色列袭击已致黎巴嫩2483人死亡】据黎巴嫩公共卫生部紧急行动中心23日消息，3月2日至4月23日，以色列在黎巴嫩发动的袭击和空袭已造成2483人死亡，7707人受伤。与此同时，以色列的袭击仍在黎巴嫩南部地区持续发生。",
+    "content": "【以色列袭击已致黎巴嫩2483人死亡】据黎巴嫩公共卫生部紧急行动中心23日消息，3月2日至4月23日，以色列在黎巴嫩发动的袭击和空袭已造成2483人死亡，7707人受伤。与此同时，以色列的袭击仍在黎巴嫩南部地区持续发生。",
+    "full_content": "【以色列袭击已致黎巴嫩2483人死亡】据黎巴嫩公共卫生部紧急行动中心23日消息，3月2日至4月23日，以色列在黎巴嫩发动的袭击和空袭已造成2483人死亡，7707人受伤。与此同时，以色列的袭击仍在黎巴嫩南部地区持续发生。",
+    "sort_time": "1776978141000756",
+    "showTime": "2026-04-24 05:02:21",
+    "time": "2026-04-24 05:02:21",
+    "publish_time": "2026-04-24 05:02:21",
+    "raw_data": {
+      "code": "202604243716800756",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776978141000756",
+      "share": 0,
+      "showTime": "2026-04-24 05:02:21",
+      "stockList": [],
+      "summary": "【以色列袭击已致黎巴嫩2483人死亡】据黎巴嫩公共卫生部紧急行动中心23日消息，3月2日至4月23日，以色列在黎巴嫩发动的袭击和空袭已造成2483人死亡，7707人受伤。与此同时，以色列的袭击仍在黎巴嫩南部地区持续发生。",
+      "title": "以色列袭击已致黎巴嫩2483人死亡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716800756.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6de2721e470e7363",
+    "code": "202604243716799944",
+    "title": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造",
+    "summary": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造，打造日本规模顶尖的大型电池生产线之一。",
+    "content": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造，打造日本规模顶尖的大型电池生产线之一。",
+    "full_content": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造，打造日本规模顶尖的大型电池生产线之一。",
+    "sort_time": "1776978110099944",
+    "showTime": "2026-04-24 05:01:50",
+    "time": "2026-04-24 05:01:50",
+    "publish_time": "2026-04-24 05:01:50",
+    "raw_data": {
+      "code": "202604243716799944",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776978110099944",
+      "share": 0,
+      "showTime": "2026-04-24 05:01:50",
+      "stockList": [
+        "90.BK0448",
+        "90.BK1215"
+      ],
+      "summary": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造，打造日本规模顶尖的大型电池生产线之一。",
+      "title": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716799944.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0448",
+      "90.BK1215"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
     "id": "6c6c1cfa4dd1abbd",
     "code": "202604243716799398",
     "title": "潘兴广场资本申请首次公开募股 拟发行股份上限为3312万股",
@@ -1205,6 +1698,69 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
+    }
+  },
+  {
+    "id": "32f00bb60eeb8219",
+    "code": "202604243716767677",
+    "title": "探问英维克：液冷“火热”之下的虚与实",
+    "summary": "【探问英维克：液冷“火热”之下的虚与实】因一季度净利润的大幅下挫和股价的大幅震荡，液冷人气股英维克被推上风口浪尖。火热的液冷概念炒作之下，英维克的虚实究竟如何？近日，上海证券报记者在深圳实地探访英维克，并采访了多位业内人士，试图拨开层层迷雾。",
+    "content": "【探问英维克：液冷“火热”之下的虚与实】因一季度净利润的大幅下挫和股价的大幅震荡，液冷人气股英维克被推上风口浪尖。火热的液冷概念炒作之下，英维克的虚实究竟如何？近日，上海证券报记者在深圳实地探访英维克，并采访了多位业内人士，试图拨开层层迷雾。",
+    "full_content": "【探问英维克：液冷“火热”之下的虚与实】因一季度净利润的大幅下挫和股价的大幅震荡，液冷人气股英维克被推上风口浪尖。火热的液冷概念炒作之下，英维克的虚实究竟如何？近日，上海证券报记者在深圳实地探访英维克，并采访了多位业内人士，试图拨开层层迷雾。",
+    "sort_time": "1776970842067677",
+    "showTime": "2026-04-24 03:00:42",
+    "time": "2026-04-24 03:00:42",
+    "publish_time": "2026-04-24 03:00:42",
+    "raw_data": {
+      "code": "202604243716767677",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776970842067677",
+      "share": 0,
+      "showTime": "2026-04-24 03:00:42",
+      "stockList": [
+        "90.BK1366",
+        "90.BK0473"
+      ],
+      "summary": "【探问英维克：液冷“火热”之下的虚与实】因一季度净利润的大幅下挫和股价的大幅震荡，液冷人气股英维克被推上风口浪尖。火热的液冷概念炒作之下，英维克的虚实究竟如何？近日，上海证券报记者在深圳实地探访英维克，并采访了多位业内人士，试图拨开层层迷雾。",
+      "title": "探问英维克：液冷“火热”之下的虚与实",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716767677.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1366",
+      "90.BK0473"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
     }
   },
   {

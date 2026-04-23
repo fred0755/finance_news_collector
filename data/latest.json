@@ -1,5 +1,498 @@
 [
   {
+    "id": "34a0cd8169daba3f",
+    "code": "202604243716815859",
+    "title": "周五（4月24日）重点关注财经事件和经济数据",
+    "summary": "【周五（4月24日）重点关注财经事件和经济数据】①07:01英国4月Gfk消费者信心指数②07:30日本3月核心CPI年率",
+    "content": "【周五（4月24日）重点关注财经事件和经济数据】①07:01英国4月Gfk消费者信心指数②07:30日本3月核心CPI年率",
+    "full_content": "【周五（4月24日）重点关注财经事件和经济数据】①07:01英国4月Gfk消费者信心指数②07:30日本3月核心CPI年率",
+    "sort_time": "1776981024015859",
+    "showTime": "2026-04-24 05:50:24",
+    "time": "2026-04-24 05:50:24",
+    "publish_time": "2026-04-24 05:50:24",
+    "raw_data": {
+      "code": "202604243716815859",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776981024015859",
+      "share": 0,
+      "showTime": "2026-04-24 05:50:24",
+      "stockList": [],
+      "summary": "【周五（4月24日）重点关注财经事件和经济数据】①07:01英国4月Gfk消费者信心指数②07:30日本3月核心CPI年率",
+      "title": "周五（4月24日）重点关注财经事件和经济数据",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716815859.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "74b8e381d2db6d17",
+    "code": "202604243716813596",
+    "title": "英特尔电话会称 2026年芯片制造设备方面的开支将同比增长25%",
+    "summary": "英特尔电话会称，2026年芯片制造设备方面的开支将同比增长25%。",
+    "content": "英特尔电话会称，2026年芯片制造设备方面的开支将同比增长25%。",
+    "full_content": "英特尔电话会称，2026年芯片制造设备方面的开支将同比增长25%。",
+    "sort_time": "1776980776013596",
+    "showTime": "2026-04-24 05:46:16",
+    "time": "2026-04-24 05:46:16",
+    "publish_time": "2026-04-24 05:46:16",
+    "raw_data": {
+      "code": "202604243716813596",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776980776013596",
+      "share": 1,
+      "showTime": "2026-04-24 05:46:16",
+      "stockList": [
+        "150.013446",
+        "105.INTC"
+      ],
+      "summary": "英特尔电话会称，2026年芯片制造设备方面的开支将同比增长25%。",
+      "title": "英特尔电话会称 2026年芯片制造设备方面的开支将同比增长25%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716813596.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "150.013446",
+      "105.INTC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "aa31d4b3a1916b86",
+    "code": "202604243716813384",
+    "title": "纽蒙特矿业表示 卡迪亚地下矿山修复工作预计耗时约五周 预计产能将恢复至80%",
+    "summary": "纽蒙特矿业表示，卡迪亚地下矿山修复工作预计耗时约五周，预计产能将恢复至80%。",
+    "content": "纽蒙特矿业表示，卡迪亚地下矿山修复工作预计耗时约五周，预计产能将恢复至80%。",
+    "full_content": "纽蒙特矿业表示，卡迪亚地下矿山修复工作预计耗时约五周，预计产能将恢复至80%。",
+    "sort_time": "1776980712013384",
+    "showTime": "2026-04-24 05:45:12",
+    "time": "2026-04-24 05:45:12",
+    "publish_time": "2026-04-24 05:45:12",
+    "raw_data": {
+      "code": "202604243716813384",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776980712013384",
+      "share": 0,
+      "showTime": "2026-04-24 05:45:12",
+      "stockList": [
+        "106.NEM"
+      ],
+      "summary": "纽蒙特矿业表示，卡迪亚地下矿山修复工作预计耗时约五周，预计产能将恢复至80%。",
+      "title": "纽蒙特矿业表示 卡迪亚地下矿山修复工作预计耗时约五周 预计产能将恢复至80%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716813384.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.NEM"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6c37ff10da3396e8",
+    "code": "202604243716808914",
+    "title": "以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”",
+    "summary": "【以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”】据以色列媒体23日报道，以色列执法部门当天宣布，以色列两名空军技术人员涉嫌“为伊朗从事间谍活动”，已被提起诉讼。据《以色列时报》报道，这两人被指控犯有一系列“代表伊朗情报部门实施的安全方面罪行”。起诉书显示，两人“与伊朗情报部门保持数月联系”，并执行“各种以获取经济利益为目的的任务”。",
+    "content": "【以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”】据以色列媒体23日报道，以色列执法部门当天宣布，以色列两名空军技术人员涉嫌“为伊朗从事间谍活动”，已被提起诉讼。据《以色列时报》报道，这两人被指控犯有一系列“代表伊朗情报部门实施的安全方面罪行”。起诉书显示，两人“与伊朗情报部门保持数月联系”，并执行“各种以获取经济利益为目的的任务”。",
+    "full_content": "【以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”】据以色列媒体23日报道，以色列执法部门当天宣布，以色列两名空军技术人员涉嫌“为伊朗从事间谍活动”，已被提起诉讼。据《以色列时报》报道，这两人被指控犯有一系列“代表伊朗情报部门实施的安全方面罪行”。起诉书显示，两人“与伊朗情报部门保持数月联系”，并执行“各种以获取经济利益为目的的任务”。",
+    "sort_time": "1776980063008914",
+    "showTime": "2026-04-24 05:34:23",
+    "time": "2026-04-24 05:34:23",
+    "publish_time": "2026-04-24 05:34:23",
+    "raw_data": {
+      "code": "202604243716808914",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776980063008914",
+      "share": 0,
+      "showTime": "2026-04-24 05:34:23",
+      "stockList": [],
+      "summary": "【以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”】据以色列媒体23日报道，以色列执法部门当天宣布，以色列两名空军技术人员涉嫌“为伊朗从事间谍活动”，已被提起诉讼。据《以色列时报》报道，这两人被指控犯有一系列“代表伊朗情报部门实施的安全方面罪行”。起诉书显示，两人“与伊朗情报部门保持数月联系”，并执行“各种以获取经济利益为目的的任务”。",
+      "title": "以媒：以空军两名技术人员涉嫌“为伊朗从事间谍活动”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716808914.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4870c99c8111b204",
+    "code": "202604243716806348",
+    "title": "特朗普称黎以停火将延长三周",
+    "summary": "【特朗普称黎以停火将延长三周】当地时间4月23日，美国总统唐纳德·特朗普在其社交媒体“真实社交”发文表示，以色列与黎巴嫩之间的停火协议将延长三周。",
+    "content": "【特朗普称黎以停火将延长三周】当地时间4月23日，美国总统唐纳德·特朗普在其社交媒体“真实社交”发文表示，以色列与黎巴嫩之间的停火协议将延长三周。",
+    "full_content": "【特朗普称黎以停火将延长三周】当地时间4月23日，美国总统唐纳德·特朗普在其社交媒体“真实社交”发文表示，以色列与黎巴嫩之间的停火协议将延长三周。",
+    "sort_time": "1776979712006348",
+    "showTime": "2026-04-24 05:28:32",
+    "time": "2026-04-24 05:28:32",
+    "publish_time": "2026-04-24 05:28:32",
+    "raw_data": {
+      "code": "202604243716806348",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1776979712006348",
+      "share": 3,
+      "showTime": "2026-04-24 05:28:32",
+      "stockList": [],
+      "summary": "【特朗普称黎以停火将延长三周】当地时间4月23日，美国总统唐纳德·特朗普在其社交媒体“真实社交”发文表示，以色列与黎巴嫩之间的停火协议将延长三周。",
+      "title": "特朗普称黎以停火将延长三周",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716806348.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fba396ebf056d2e3",
+    "code": "202604243716805664",
+    "title": "英特尔美股盘后涨幅扩大至18%",
+    "summary": "英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。此前英特尔发布一季度财报。",
+    "content": "英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。此前英特尔发布一季度财报。",
+    "full_content": "英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。此前英特尔发布一季度财报。",
+    "sort_time": "1776979391005664",
+    "showTime": "2026-04-24 05:23:11",
+    "time": "2026-04-24 05:23:11",
+    "publish_time": "2026-04-24 05:23:11",
+    "raw_data": {
+      "code": "202604243716805664",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1776979391005664",
+      "share": 6,
+      "showTime": "2026-04-24 05:23:11",
+      "stockList": [
+        "105.INTC",
+        "105.AMD"
+      ],
+      "summary": "英特尔美股盘后涨幅扩大至18%，Arm和AMD跟涨6%。此前英特尔发布一季度财报。",
+      "title": "英特尔美股盘后涨幅扩大至18%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716805664.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.INTC",
+      "105.AMD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "91fc046f108b3183",
+    "code": "202604243716803998",
+    "title": "富时A50期指连续夜盘收跌0.06% 报15632点",
+    "summary": "富时A50期指连续夜盘收跌0.06%，报15632点。",
+    "content": "富时A50期指连续夜盘收跌0.06%，报15632点。",
+    "full_content": "富时A50期指连续夜盘收跌0.06%，报15632点。",
+    "sort_time": "1776979168003998",
+    "showTime": "2026-04-24 05:19:28",
+    "time": "2026-04-24 05:19:28",
+    "publish_time": "2026-04-24 05:19:28",
+    "raw_data": {
+      "code": "202604243716803998",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776979168003998",
+      "share": 0,
+      "showTime": "2026-04-24 05:19:28",
+      "stockList": [],
+      "summary": "富时A50期指连续夜盘收跌0.06%，报15632点。",
+      "title": "富时A50期指连续夜盘收跌0.06% 报15632点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716803998.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "64fe00286d83a2e8",
+    "code": "202604243716802630",
+    "title": "以军称在加沙地带打死多名哈马斯武装人员",
+    "summary": "【以军称在加沙地带打死多名哈马斯武装人员】以色列国防军23日称，过去一天在加沙地带北部和南部打死多名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员。以军称，相关武装人员的行动对以军构成了安全威胁。",
+    "content": "【以军称在加沙地带打死多名哈马斯武装人员】以色列国防军23日称，过去一天在加沙地带北部和南部打死多名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员。以军称，相关武装人员的行动对以军构成了安全威胁。",
+    "full_content": "【以军称在加沙地带打死多名哈马斯武装人员】以色列国防军23日称，过去一天在加沙地带北部和南部打死多名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员。以军称，相关武装人员的行动对以军构成了安全威胁。",
+    "sort_time": "1776978794002630",
+    "showTime": "2026-04-24 05:13:14",
+    "time": "2026-04-24 05:13:14",
+    "publish_time": "2026-04-24 05:13:14",
+    "raw_data": {
+      "code": "202604243716802630",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776978794002630",
+      "share": 0,
+      "showTime": "2026-04-24 05:13:14",
+      "stockList": [],
+      "summary": "【以军称在加沙地带打死多名哈马斯武装人员】以色列国防军23日称，过去一天在加沙地带北部和南部打死多名巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员。以军称，相关武装人员的行动对以军构成了安全威胁。",
+      "title": "以军称在加沙地带打死多名哈马斯武装人员",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716802630.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "7a86f8f1f6b473a9",
+    "code": "202604243716800492",
+    "title": "COMEX黄金期货收跌0.93%",
+    "summary": "COMEX黄金期货收跌0.93%，报4708.6美元/盎司；COMEX白银期货收跌3.21%，报75.46美元/盎司。",
+    "content": "COMEX黄金期货收跌0.93%，报4708.6美元/盎司；COMEX白银期货收跌3.21%，报75.46美元/盎司。",
+    "full_content": "COMEX黄金期货收跌0.93%，报4708.6美元/盎司；COMEX白银期货收跌3.21%，报75.46美元/盎司。",
+    "sort_time": "1776978207000492",
+    "showTime": "2026-04-24 05:03:27",
+    "time": "2026-04-24 05:03:27",
+    "publish_time": "2026-04-24 05:03:27",
+    "raw_data": {
+      "code": "202604243716800492",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776978207000492",
+      "share": 0,
+      "showTime": "2026-04-24 05:03:27",
+      "stockList": [],
+      "summary": "COMEX黄金期货收跌0.93%，报4708.6美元/盎司；COMEX白银期货收跌3.21%，报75.46美元/盎司。",
+      "title": "COMEX黄金期货收跌0.93%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716800492.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "b1c8ff53ca3ccd7c",
+    "code": "202604243716800756",
+    "title": "以色列袭击已致黎巴嫩2483人死亡",
+    "summary": "【以色列袭击已致黎巴嫩2483人死亡】据黎巴嫩公共卫生部紧急行动中心23日消息，3月2日至4月23日，以色列在黎巴嫩发动的袭击和空袭已造成2483人死亡，7707人受伤。与此同时，以色列的袭击仍在黎巴嫩南部地区持续发生。",
+    "content": "【以色列袭击已致黎巴嫩2483人死亡】据黎巴嫩公共卫生部紧急行动中心23日消息，3月2日至4月23日，以色列在黎巴嫩发动的袭击和空袭已造成2483人死亡，7707人受伤。与此同时，以色列的袭击仍在黎巴嫩南部地区持续发生。",
+    "full_content": "【以色列袭击已致黎巴嫩2483人死亡】据黎巴嫩公共卫生部紧急行动中心23日消息，3月2日至4月23日，以色列在黎巴嫩发动的袭击和空袭已造成2483人死亡，7707人受伤。与此同时，以色列的袭击仍在黎巴嫩南部地区持续发生。",
+    "sort_time": "1776978141000756",
+    "showTime": "2026-04-24 05:02:21",
+    "time": "2026-04-24 05:02:21",
+    "publish_time": "2026-04-24 05:02:21",
+    "raw_data": {
+      "code": "202604243716800756",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776978141000756",
+      "share": 0,
+      "showTime": "2026-04-24 05:02:21",
+      "stockList": [],
+      "summary": "【以色列袭击已致黎巴嫩2483人死亡】据黎巴嫩公共卫生部紧急行动中心23日消息，3月2日至4月23日，以色列在黎巴嫩发动的袭击和空袭已造成2483人死亡，7707人受伤。与此同时，以色列的袭击仍在黎巴嫩南部地区持续发生。",
+      "title": "以色列袭击已致黎巴嫩2483人死亡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716800756.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6de2721e470e7363",
+    "code": "202604243716799944",
+    "title": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造",
+    "summary": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造，打造日本规模顶尖的大型电池生产线之一。",
+    "content": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造，打造日本规模顶尖的大型电池生产线之一。",
+    "full_content": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造，打造日本规模顶尖的大型电池生产线之一。",
+    "sort_time": "1776978110099944",
+    "showTime": "2026-04-24 05:01:50",
+    "time": "2026-04-24 05:01:50",
+    "publish_time": "2026-04-24 05:01:50",
+    "raw_data": {
+      "code": "202604243716799944",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1776978110099944",
+      "share": 0,
+      "showTime": "2026-04-24 05:01:50",
+      "stockList": [
+        "90.BK0448",
+        "90.BK1215"
+      ],
+      "summary": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造，打造日本规模顶尖的大型电池生产线之一。",
+      "title": "软银集团旗下移动通信子公司计划将其大阪境内一处工厂进行改造",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716799944.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0448",
+      "90.BK1215"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
     "id": "6c6c1cfa4dd1abbd",
     "code": "202604243716799398",
     "title": "潘兴广场资本申请首次公开募股 拟发行股份上限为3312万股",
@@ -91,9 +584,9 @@
     "raw_data": {
       "code": "202604243716796091",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 71,
       "realSort": "1776977251096091",
-      "share": 0,
+      "share": 29,
       "showTime": "2026-04-24 04:47:31",
       "stockList": [],
       "summary": "【特朗普称对伊“不想仓促行事” 仍保留军事选项】当地时间23日，美国总统特朗普表示，在与伊朗谈判持续推进之际，他“不想仓促行事”，强调伊朗领导层目前处于“动荡之中”。他在白宫接受采访时称，尽管冲突已超出此前设定的四至六周时间表，但美方已在前四周“通过军事手段取得决定性进展”，同时表示，目前正等待达成协议结果，“如果对方不愿达成协议，将通过军事方式完成行动”。",
@@ -107,8 +600,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
+    "comment_count": 71,
+    "share_count": 29,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -175,7 +668,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1776976551093930",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-24 04:35:51",
       "stockList": [],
       "summary": "美国至4月17日当周外国央行持有美国国债230.57亿美元，前值122.76亿美元。",
@@ -190,7 +683,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -230,7 +723,7 @@
     "raw_data": {
       "code": "202604243716792675",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1776976474092675",
       "share": 1,
       "showTime": "2026-04-24 04:34:34",
@@ -252,7 +745,7 @@
       "150.013446"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -299,7 +792,7 @@
     "raw_data": {
       "code": "202604243716789975",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1776975909089975",
       "share": 2,
       "showTime": "2026-04-24 04:25:09",
@@ -319,7 +812,7 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -432,7 +925,7 @@
     "raw_data": {
       "code": "202604243716787371",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1776975444087371",
       "share": 1,
       "showTime": "2026-04-24 04:17:24",
@@ -452,7 +945,7 @@
       "105.INTC"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -614,9 +1107,9 @@
     "raw_data": {
       "code": "202604243716777781",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 7,
       "realSort": "1776974491077781",
-      "share": 3,
+      "share": 6,
       "showTime": "2026-04-24 04:01:31",
       "stockList": [],
       "summary": "纳斯达克中国金龙指数收跌2.47% ，热门中概股普跌，好未来跌超9%，小鹏集团跌超6%，爱奇艺跌4%，阿里巴巴、网易、蔚来跌超3%，哔哩哔哩、名创优品、拼多多跌超2%，百度跌超1%。",
@@ -630,8 +1123,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 3,
+    "comment_count": 7,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [
@@ -661,7 +1154,7 @@
     "raw_data": {
       "code": "202604243716776787",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1776974442076787",
       "share": 1,
       "showTime": "2026-04-24 04:00:42",
@@ -677,7 +1170,7 @@
     "sentiment": "bearish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -861,7 +1354,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1776972775073278",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-24 03:32:55",
       "stockList": [
         "90.BK1283",
@@ -882,7 +1375,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -930,7 +1423,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1776972747075446",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-24 03:32:27",
       "stockList": [],
       "summary": "【黎以第二轮直接会谈举行在即 特朗普拟参加部分环节】央视记者当地时间23日获悉，美国总统唐纳德·特朗普预计将在白宫，参与以色列与黎巴嫩第二轮直接会谈的部分环节。",
@@ -945,7 +1438,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1008,7 +1501,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1776972165076131",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-24 03:22:45",
       "stockList": [],
       "summary": "【伊朗国防部：持续生产装备 抵御任何威胁】伊朗国防部一名发言人23日表示，伊朗国防装备生产从未停止，国防部全力满足伊朗武装力量在备战、作战和停火等不同状态下的各类需求。伊朗迈赫尔通讯社援引这名发言人的声明报道，美国总统特朗普的言论虚伪且反复无常，全世界都已看清。为应对任何新的威胁，伊朗国防装备和武器弹药的生产供应从未中断、也绝不会中断，“伊朗国防部拥有应对各种情况的战略储备”。",
@@ -1023,7 +1516,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1100,9 +1593,9 @@
     "raw_data": {
       "code": "202604243716769630",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 22,
       "realSort": "1776971793069630",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-04-24 03:16:33",
       "stockList": [],
       "summary": "【特朗普称不急于结束与伊朗的战争】美东时间4月23日下午，美国总统特朗普在社交媒体发文称，他“并不急于结束与伊朗的战争”，可是“伊朗没时间了”。",
@@ -1116,8 +1609,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 2,
+    "comment_count": 22,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1178,7 +1671,7 @@
     "raw_data": {
       "code": "202604243716767216",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1776970925067216",
       "share": 0,
       "showTime": "2026-04-24 03:02:05",
@@ -1198,13 +1691,76 @@
       "90.BK1361"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
+    }
+  },
+  {
+    "id": "32f00bb60eeb8219",
+    "code": "202604243716767677",
+    "title": "探问英维克：液冷“火热”之下的虚与实",
+    "summary": "【探问英维克：液冷“火热”之下的虚与实】因一季度净利润的大幅下挫和股价的大幅震荡，液冷人气股英维克被推上风口浪尖。火热的液冷概念炒作之下，英维克的虚实究竟如何？近日，上海证券报记者在深圳实地探访英维克，并采访了多位业内人士，试图拨开层层迷雾。",
+    "content": "【探问英维克：液冷“火热”之下的虚与实】因一季度净利润的大幅下挫和股价的大幅震荡，液冷人气股英维克被推上风口浪尖。火热的液冷概念炒作之下，英维克的虚实究竟如何？近日，上海证券报记者在深圳实地探访英维克，并采访了多位业内人士，试图拨开层层迷雾。",
+    "full_content": "【探问英维克：液冷“火热”之下的虚与实】因一季度净利润的大幅下挫和股价的大幅震荡，液冷人气股英维克被推上风口浪尖。火热的液冷概念炒作之下，英维克的虚实究竟如何？近日，上海证券报记者在深圳实地探访英维克，并采访了多位业内人士，试图拨开层层迷雾。",
+    "sort_time": "1776970842067677",
+    "showTime": "2026-04-24 03:00:42",
+    "time": "2026-04-24 03:00:42",
+    "publish_time": "2026-04-24 03:00:42",
+    "raw_data": {
+      "code": "202604243716767677",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1776970842067677",
+      "share": 0,
+      "showTime": "2026-04-24 03:00:42",
+      "stockList": [
+        "90.BK1366",
+        "90.BK0473"
+      ],
+      "summary": "【探问英维克：液冷“火热”之下的虚与实】因一季度净利润的大幅下挫和股价的大幅震荡，液冷人气股英维克被推上风口浪尖。火热的液冷概念炒作之下，英维克的虚实究竟如何？近日，上海证券报记者在深圳实地探访英维克，并采访了多位业内人士，试图拨开层层迷雾。",
+      "title": "探问英维克：液冷“火热”之下的虚与实",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202604243716767677.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1366",
+      "90.BK0473"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
     }
   },
   {
@@ -1262,7 +1818,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1776969612066074",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-04-24 02:40:12",
       "stockList": [],
       "summary": "【美军：“布什”号航母驶入中央司令部责任区】华盛顿4月23日电美军中央司令部23日在社交媒体发文说，“尼米兹”级航空母舰“布什”号当天在中央司令部责任区的印度洋海域航行。",
@@ -1277,7 +1833,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1393,9 +1949,9 @@
     "raw_data": {
       "code": "202604243716757229",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 19,
       "realSort": "1776969186057229",
-      "share": 5,
+      "share": 9,
       "showTime": "2026-04-24 02:33:06",
       "stockList": [],
       "summary": "【伊朗外交部：谈判重心已从核问题转为彻底停战】针对议长卡利巴夫出任伊斯兰堡谈判伊方代表团团长一事，伊朗外交部发言人23日作出正式回应。发言人强调，近期谈判性质已发生根本转变，核心议题不再是核问题，而是彻底终结战争。",
@@ -1409,8 +1965,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 5,
+    "comment_count": 19,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1540,9 +2096,9 @@
     "raw_data": {
       "code": "202604243716750749",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 104,
       "realSort": "1776967857050749",
-      "share": 1,
+      "share": 57,
       "showTime": "2026-04-24 02:10:57",
       "stockList": [
         "150.014238",
@@ -1562,8 +2118,8 @@
       "0.159945"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 104,
+    "share_count": 57,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1703,7 +2259,7 @@
     "raw_data": {
       "code": "202604243716746588",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1776967501046588",
       "share": 0,
       "showTime": "2026-04-24 02:05:01",
@@ -1723,7 +2279,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1801,510 +2357,6 @@
       "concept_ids": [
         "C402"
       ]
-    }
-  },
-  {
-    "id": "9a3028ab15690324",
-    "code": "202604243716745861",
-    "title": "伊朗外交部：所谓“核威胁”是持续二十年的政治陷阱",
-    "summary": "【伊朗外交部：所谓“核威胁”是持续二十年的政治陷阱】伊朗外交部发言人巴加埃23日表示，西方对伊朗核计划的担忧纯属政治操弄，目的是对伊施压。",
-    "content": "【伊朗外交部：所谓“核威胁”是持续二十年的政治陷阱】伊朗外交部发言人巴加埃23日表示，西方对伊朗核计划的担忧纯属政治操弄，目的是对伊施压。",
-    "full_content": "【伊朗外交部：所谓“核威胁”是持续二十年的政治陷阱】伊朗外交部发言人巴加埃23日表示，西方对伊朗核计划的担忧纯属政治操弄，目的是对伊施压。",
-    "sort_time": "1776966765045861",
-    "showTime": "2026-04-24 01:52:45",
-    "time": "2026-04-24 01:52:45",
-    "publish_time": "2026-04-24 01:52:45",
-    "raw_data": {
-      "code": "202604243716745861",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1776966765045861",
-      "share": 1,
-      "showTime": "2026-04-24 01:52:45",
-      "stockList": [],
-      "summary": "【伊朗外交部：所谓“核威胁”是持续二十年的政治陷阱】伊朗外交部发言人巴加埃23日表示，西方对伊朗核计划的担忧纯属政治操弄，目的是对伊施压。",
-      "title": "伊朗外交部：所谓“核威胁”是持续二十年的政治陷阱",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716745861.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "18d76f60eaa90da4",
-    "code": "202604243716745794",
-    "title": "美股三大指数走低 道琼斯指数向下跌破49000点",
-    "summary": "【美股三大指数走低 道琼斯指数向下跌破49000点】美股三大指数走低，道琼斯指数向下跌破49000点，最新报48989.52点，日内下跌1.01%。纳指现跌1.4%，标普500指数跌1.02%。",
-    "content": "【美股三大指数走低 道琼斯指数向下跌破49000点】美股三大指数走低，道琼斯指数向下跌破49000点，最新报48989.52点，日内下跌1.01%。纳指现跌1.4%，标普500指数跌1.02%。",
-    "full_content": "【美股三大指数走低 道琼斯指数向下跌破49000点】美股三大指数走低，道琼斯指数向下跌破49000点，最新报48989.52点，日内下跌1.01%。纳指现跌1.4%，标普500指数跌1.02%。",
-    "sort_time": "1776966326045794",
-    "showTime": "2026-04-24 01:45:26",
-    "time": "2026-04-24 01:45:26",
-    "publish_time": "2026-04-24 01:45:26",
-    "raw_data": {
-      "code": "202604243716745794",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1776966326045794",
-      "share": 1,
-      "showTime": "2026-04-24 01:45:26",
-      "stockList": [],
-      "summary": "【美股三大指数走低 道琼斯指数向下跌破49000点】美股三大指数走低，道琼斯指数向下跌破49000点，最新报48989.52点，日内下跌1.01%。纳指现跌1.4%，标普500指数跌1.02%。",
-      "title": "美股三大指数走低 道琼斯指数向下跌破49000点",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716745794.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c1e452f746684978",
-    "code": "202604243716745696",
-    "title": "伊朗德黑兰防空系统启动",
-    "summary": "【伊朗德黑兰防空系统启动】总台记者当地时间23日获悉，伊朗德黑兰部分地区防空系统已启动，原因尚不清楚。",
-    "content": "【伊朗德黑兰防空系统启动】总台记者当地时间23日获悉，伊朗德黑兰部分地区防空系统已启动，原因尚不清楚。",
-    "full_content": "【伊朗德黑兰防空系统启动】总台记者当地时间23日获悉，伊朗德黑兰部分地区防空系统已启动，原因尚不清楚。",
-    "sort_time": "1776965771045696",
-    "showTime": "2026-04-24 01:36:11",
-    "time": "2026-04-24 01:36:11",
-    "publish_time": "2026-04-24 01:36:11",
-    "raw_data": {
-      "code": "202604243716745696",
-      "image": [],
-      "pinglun_Num": 35,
-      "realSort": "1776965771045696",
-      "share": 19,
-      "showTime": "2026-04-24 01:36:11",
-      "stockList": [],
-      "summary": "【伊朗德黑兰防空系统启动】总台记者当地时间23日获悉，伊朗德黑兰部分地区防空系统已启动，原因尚不清楚。",
-      "title": "伊朗德黑兰防空系统启动",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716745696.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 35,
-    "share_count": 19,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5ce2198fa9595948",
-    "code": "202604243716745577",
-    "title": "纳斯达克中国金龙指数跌幅扩大",
-    "summary": "纳斯达克中国金龙指数跌幅扩大，现跌3%，最新报6806.02点。",
-    "content": "纳斯达克中国金龙指数跌幅扩大，现跌3%，最新报6806.02点。",
-    "full_content": "纳斯达克中国金龙指数跌幅扩大，现跌3%，最新报6806.02点。",
-    "sort_time": "1776965498045577",
-    "showTime": "2026-04-24 01:31:38",
-    "time": "2026-04-24 01:31:38",
-    "publish_time": "2026-04-24 01:31:38",
-    "raw_data": {
-      "code": "202604243716745577",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1776965498045577",
-      "share": 5,
-      "showTime": "2026-04-24 01:31:38",
-      "stockList": [],
-      "summary": "纳斯达克中国金龙指数跌幅扩大，现跌3%，最新报6806.02点。",
-      "title": "纳斯达克中国金龙指数跌幅扩大",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716745577.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "64431325a16d8541",
-    "code": "202604243716744775",
-    "title": "美联储周四隔夜逆回购协议（RRP）使用规模为1.14亿美元",
-    "summary": "美联储周四隔夜逆回购协议（RRP）使用规模为1.14亿美元。",
-    "content": "美联储周四隔夜逆回购协议（RRP）使用规模为1.14亿美元。",
-    "full_content": "美联储周四隔夜逆回购协议（RRP）使用规模为1.14亿美元。",
-    "sort_time": "1776965121044775",
-    "showTime": "2026-04-24 01:25:21",
-    "time": "2026-04-24 01:25:21",
-    "publish_time": "2026-04-24 01:25:21",
-    "raw_data": {
-      "code": "202604243716744775",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1776965121044775",
-      "share": 1,
-      "showTime": "2026-04-24 01:25:21",
-      "stockList": [],
-      "summary": "美联储周四隔夜逆回购协议（RRP）使用规模为1.14亿美元。",
-      "title": "美联储周四隔夜逆回购协议（RRP）使用规模为1.14亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716744775.html",
-    "category": "公司",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a65b1bf6b15a6708",
-    "code": "202604243716744669",
-    "title": "WTI原油期货拉升涨超4%",
-    "summary": "【WTI原油期货拉升涨超4%】WTI原油期货拉升涨超4%，现报96.68美元/桶。贵金属短线走低，现货白银现跌2.7%，报75.53美元/盎司。",
-    "content": "【WTI原油期货拉升涨超4%】WTI原油期货拉升涨超4%，现报96.68美元/桶。贵金属短线走低，现货白银现跌2.7%，报75.53美元/盎司。",
-    "full_content": "【WTI原油期货拉升涨超4%】WTI原油期货拉升涨超4%，现报96.68美元/桶。贵金属短线走低，现货白银现跌2.7%，报75.53美元/盎司。",
-    "sort_time": "1776964884044669",
-    "showTime": "2026-04-24 01:21:24",
-    "time": "2026-04-24 01:21:24",
-    "publish_time": "2026-04-24 01:21:24",
-    "raw_data": {
-      "code": "202604243716744669",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1776964884044669",
-      "share": 4,
-      "showTime": "2026-04-24 01:21:24",
-      "stockList": [
-        "90.BK1361",
-        "150.011631"
-      ],
-      "summary": "【WTI原油期货拉升涨超4%】WTI原油期货拉升涨超4%，现报96.68美元/桶。贵金属短线走低，现货白银现跌2.7%，报75.53美元/盎司。",
-      "title": "WTI原油期货拉升涨超4%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716744669.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361",
-      "150.011631"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "贵金属"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502",
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "33454732c790de2d",
-    "code": "202604243716743779",
-    "title": "俄方重申“北溪”一条支线技术上仍可对欧供气",
-    "summary": "【俄方重申“北溪”一条支线技术上仍可对欧供气】俄罗斯总统新闻秘书佩斯科夫23日回答关于通过“北溪”恢复对欧供气前景的提问时表示，其中一条管道已损坏，另一条在技术上仍可向欧洲供气。但他同时指出：“如果欧洲已经禁止了这一点，恢复供气的前景从何谈起？”2022年9月“北溪”管道遭爆炸破坏。",
-    "content": "【俄方重申“北溪”一条支线技术上仍可对欧供气】俄罗斯总统新闻秘书佩斯科夫23日回答关于通过“北溪”恢复对欧供气前景的提问时表示，其中一条管道已损坏，另一条在技术上仍可向欧洲供气。但他同时指出：“如果欧洲已经禁止了这一点，恢复供气的前景从何谈起？”2022年9月“北溪”管道遭爆炸破坏。",
-    "full_content": "【俄方重申“北溪”一条支线技术上仍可对欧供气】俄罗斯总统新闻秘书佩斯科夫23日回答关于通过“北溪”恢复对欧供气前景的提问时表示，其中一条管道已损坏，另一条在技术上仍可向欧洲供气。但他同时指出：“如果欧洲已经禁止了这一点，恢复供气的前景从何谈起？”2022年9月“北溪”管道遭爆炸破坏。",
-    "sort_time": "1776964443043779",
-    "showTime": "2026-04-24 01:14:03",
-    "time": "2026-04-24 01:14:03",
-    "publish_time": "2026-04-24 01:14:03",
-    "raw_data": {
-      "code": "202604243716743779",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1776964443043779",
-      "share": 1,
-      "showTime": "2026-04-24 01:14:03",
-      "stockList": [],
-      "summary": "【俄方重申“北溪”一条支线技术上仍可对欧供气】俄罗斯总统新闻秘书佩斯科夫23日回答关于通过“北溪”恢复对欧供气前景的提问时表示，其中一条管道已损坏，另一条在技术上仍可向欧洲供气。但他同时指出：“如果欧洲已经禁止了这一点，恢复供气的前景从何谈起？”2022年9月“北溪”管道遭爆炸破坏。",
-      "title": "俄方重申“北溪”一条支线技术上仍可对欧供气",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716743779.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "1da0fef379df0805",
-    "code": "202604243716741149",
-    "title": "据房地美 美国上周30年期按揭贷款/抵押贷款利率6.23%",
-    "summary": "据房地美，美国上周30年期按揭贷款/抵押贷款利率6.23%，2025年同期6.81%。",
-    "content": "据房地美，美国上周30年期按揭贷款/抵押贷款利率6.23%，2025年同期6.81%。",
-    "full_content": "据房地美，美国上周30年期按揭贷款/抵押贷款利率6.23%，2025年同期6.81%。",
-    "sort_time": "1776963994041149",
-    "showTime": "2026-04-24 01:06:34",
-    "time": "2026-04-24 01:06:34",
-    "publish_time": "2026-04-24 01:06:34",
-    "raw_data": {
-      "code": "202604243716741149",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1776963994041149",
-      "share": 0,
-      "showTime": "2026-04-24 01:06:34",
-      "stockList": [],
-      "summary": "据房地美，美国上周30年期按揭贷款/抵押贷款利率6.23%，2025年同期6.81%。",
-      "title": "据房地美 美国上周30年期按揭贷款/抵押贷款利率6.23%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716741149.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "aab397f6ce0a39dd",
-    "code": "202604243716740559",
-    "title": "LME金属期货收盘涨跌不一",
-    "summary": "【LME金属期货收盘涨跌不一】LME金属期货收盘涨跌不一，LME期铜收跌78美元，报13356美元/吨。LME期铝收涨6美元，报3620美元/吨。LME期锌收跌17美元，报3453美元/吨。LME期铅收跌10美元，报1954美元/吨。LME期镍收涨275美元，报18737美元/吨。LME期锡收跌207美元，报50215美元/吨。",
-    "content": "【LME金属期货收盘涨跌不一】LME金属期货收盘涨跌不一，LME期铜收跌78美元，报13356美元/吨。LME期铝收涨6美元，报3620美元/吨。LME期锌收跌17美元，报3453美元/吨。LME期铅收跌10美元，报1954美元/吨。LME期镍收涨275美元，报18737美元/吨。LME期锡收跌207美元，报50215美元/吨。",
-    "full_content": "【LME金属期货收盘涨跌不一】LME金属期货收盘涨跌不一，LME期铜收跌78美元，报13356美元/吨。LME期铝收涨6美元，报3620美元/吨。LME期锌收跌17美元，报3453美元/吨。LME期铅收跌10美元，报1954美元/吨。LME期镍收涨275美元，报18737美元/吨。LME期锡收跌207美元，报50215美元/吨。",
-    "sort_time": "1776963483040559",
-    "showTime": "2026-04-24 00:58:03",
-    "time": "2026-04-24 00:58:03",
-    "publish_time": "2026-04-24 00:58:03",
-    "raw_data": {
-      "code": "202604243716740559",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1776963483040559",
-      "share": 1,
-      "showTime": "2026-04-24 00:58:03",
-      "stockList": [],
-      "summary": "【LME金属期货收盘涨跌不一】LME金属期货收盘涨跌不一，LME期铜收跌78美元，报13356美元/吨。LME期铝收涨6美元，报3620美元/吨。LME期锌收跌17美元，报3453美元/吨。LME期铅收跌10美元，报1954美元/吨。LME期镍收涨275美元，报18737美元/吨。LME期锡收跌207美元，报50215美元/吨。",
-      "title": "LME金属期货收盘涨跌不一",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716740559.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C501",
-          "name": "有色金属",
-          "matched_keyword": "镍"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "03a3beb19d5cdc58",
-    "code": "202604243716740330",
-    "title": "欧盟委员会：欧盟在新一轮对俄制裁框架下加强对RT和卫星通讯社的制裁措施",
-    "summary": "【欧盟委员会：欧盟在新一轮对俄制裁框架下加强对RT和卫星通讯社的制裁措施】据欧盟委员会声明，欧盟在第20轮一揽子对俄制裁框架下加强对媒体及“镜像”网站的限制措施，制裁涉及卫星通讯社和RT电视台。欧盟委员会在声明中说：“新措施旨在打击那些通过网络传播与被制裁媒体（如RT、卫星通讯社等）相同内容来规避禁令的‘镜像’信息来源。”",
-    "content": "【欧盟委员会：欧盟在新一轮对俄制裁框架下加强对RT和卫星通讯社的制裁措施】据欧盟委员会声明，欧盟在第20轮一揽子对俄制裁框架下加强对媒体及“镜像”网站的限制措施，制裁涉及卫星通讯社和RT电视台。欧盟委员会在声明中说：“新措施旨在打击那些通过网络传播与被制裁媒体（如RT、卫星通讯社等）相同内容来规避禁令的‘镜像’信息来源。”",
-    "full_content": "【欧盟委员会：欧盟在新一轮对俄制裁框架下加强对RT和卫星通讯社的制裁措施】据欧盟委员会声明，欧盟在第20轮一揽子对俄制裁框架下加强对媒体及“镜像”网站的限制措施，制裁涉及卫星通讯社和RT电视台。欧盟委员会在声明中说：“新措施旨在打击那些通过网络传播与被制裁媒体（如RT、卫星通讯社等）相同内容来规避禁令的‘镜像’信息来源。”",
-    "sort_time": "1776963261040330",
-    "showTime": "2026-04-24 00:54:21",
-    "time": "2026-04-24 00:54:21",
-    "publish_time": "2026-04-24 00:54:21",
-    "raw_data": {
-      "code": "202604243716740330",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1776963261040330",
-      "share": 1,
-      "showTime": "2026-04-24 00:54:21",
-      "stockList": [],
-      "summary": "【欧盟委员会：欧盟在新一轮对俄制裁框架下加强对RT和卫星通讯社的制裁措施】据欧盟委员会声明，欧盟在第20轮一揽子对俄制裁框架下加强对媒体及“镜像”网站的限制措施，制裁涉及卫星通讯社和RT电视台。欧盟委员会在声明中说：“新措施旨在打击那些通过网络传播与被制裁媒体（如RT、卫星通讯社等）相同内容来规避禁令的‘镜像’信息来源。”",
-      "title": "欧盟委员会：欧盟在新一轮对俄制裁框架下加强对RT和卫星通讯社的制裁措施",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716740330.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C202",
-          "name": "航天",
-          "matched_keyword": "卫星"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C202"
-      ]
-    }
-  },
-  {
-    "id": "0f8cc8663636cae7",
-    "code": "202604243716739110",
-    "title": "伊朗媒体：伊方针对美方及其盟友潜在军事行动制定反击方案",
-    "summary": "【伊朗媒体：伊方针对美方及其盟友潜在军事行动制定反击方案】据伊朗法尔斯通讯社23日报道，鉴于外交解决受挫及对美方谈判诚意的“彻底不信任”，伊朗方面已根据“对等回应”和“进攻性威慑”原则，对美方及其盟友“可能的”军事行动制定反击方案。",
-    "content": "【伊朗媒体：伊方针对美方及其盟友潜在军事行动制定反击方案】据伊朗法尔斯通讯社23日报道，鉴于外交解决受挫及对美方谈判诚意的“彻底不信任”，伊朗方面已根据“对等回应”和“进攻性威慑”原则，对美方及其盟友“可能的”军事行动制定反击方案。",
-    "full_content": "【伊朗媒体：伊方针对美方及其盟友潜在军事行动制定反击方案】据伊朗法尔斯通讯社23日报道，鉴于外交解决受挫及对美方谈判诚意的“彻底不信任”，伊朗方面已根据“对等回应”和“进攻性威慑”原则，对美方及其盟友“可能的”军事行动制定反击方案。",
-    "sort_time": "1776962414039110",
-    "showTime": "2026-04-24 00:40:14",
-    "time": "2026-04-24 00:40:14",
-    "publish_time": "2026-04-24 00:40:14",
-    "raw_data": {
-      "code": "202604243716739110",
-      "image": [],
-      "pinglun_Num": 41,
-      "realSort": "1776962414039110",
-      "share": 39,
-      "showTime": "2026-04-24 00:40:14",
-      "stockList": [],
-      "summary": "【伊朗媒体：伊方针对美方及其盟友潜在军事行动制定反击方案】据伊朗法尔斯通讯社23日报道，鉴于外交解决受挫及对美方谈判诚意的“彻底不信任”，伊朗方面已根据“对等回应”和“进攻性威慑”原则，对美方及其盟友“可能的”军事行动制定反击方案。",
-      "title": "伊朗媒体：伊方针对美方及其盟友潜在军事行动制定反击方案",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716739110.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 41,
-    "share_count": 39,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "2f9b0fe145924581",
-    "code": "202604243716738813",
-    "title": "俄就波法联合军演发出警告：欧洲对俄“全面对抗正在回归”",
-    "summary": "【俄就波法联合军演发出警告：欧洲对俄“全面对抗正在回归”】据俄罗斯方面23日消息，俄总统新闻秘书佩斯科夫称，波兰和法国的联合军事演习是欧洲针对俄罗斯进行军事部署的直接体现。他称，欧洲对俄表现出相当的侵略性，“全面对抗正在回归”。",
-    "content": "【俄就波法联合军演发出警告：欧洲对俄“全面对抗正在回归”】据俄罗斯方面23日消息，俄总统新闻秘书佩斯科夫称，波兰和法国的联合军事演习是欧洲针对俄罗斯进行军事部署的直接体现。他称，欧洲对俄表现出相当的侵略性，“全面对抗正在回归”。",
-    "full_content": "【俄就波法联合军演发出警告：欧洲对俄“全面对抗正在回归”】据俄罗斯方面23日消息，俄总统新闻秘书佩斯科夫称，波兰和法国的联合军事演习是欧洲针对俄罗斯进行军事部署的直接体现。他称，欧洲对俄表现出相当的侵略性，“全面对抗正在回归”。",
-    "sort_time": "1776962385038813",
-    "showTime": "2026-04-24 00:39:45",
-    "time": "2026-04-24 00:39:45",
-    "publish_time": "2026-04-24 00:39:45",
-    "raw_data": {
-      "code": "202604243716738813",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1776962385038813",
-      "share": 1,
-      "showTime": "2026-04-24 00:39:45",
-      "stockList": [],
-      "summary": "【俄就波法联合军演发出警告：欧洲对俄“全面对抗正在回归”】据俄罗斯方面23日消息，俄总统新闻秘书佩斯科夫称，波兰和法国的联合军事演习是欧洲针对俄罗斯进行军事部署的直接体现。他称，欧洲对俄表现出相当的侵略性，“全面对抗正在回归”。",
-      "title": "俄就波法联合军演发出警告：欧洲对俄“全面对抗正在回归”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202604243716738813.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
