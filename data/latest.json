@@ -1,5 +1,677 @@
 [
   {
+    "id": "93824a89ef5ef4ae",
+    "code": "202605023727488476",
+    "title": "数据",
+    "summary": "【数据】美国至5月1日当周石油钻井总数报408口，前值407口。",
+    "content": "【数据】美国至5月1日当周石油钻井总数报408口，前值407口。",
+    "full_content": "【数据】美国至5月1日当周石油钻井总数报408口，前值407口。",
+    "sort_time": "1777654891088476",
+    "showTime": "2026-05-02 01:01:31",
+    "time": "2026-05-02 01:01:31",
+    "publish_time": "2026-05-02 01:01:31",
+    "raw_data": {
+      "code": "202605023727488476",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654891088476",
+      "share": 0,
+      "showTime": "2026-05-02 01:01:31",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【数据】美国至5月1日当周石油钻井总数报408口，前值407口。",
+      "title": "美国至5月1日当周石油钻井总数报408口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727488476.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "f11af533d3f5b42f",
+    "code": "202605023727487097",
+    "title": "Meta收购机器人人工智能公司Assured Robot Intelligence",
+    "summary": "Meta收购机器人人工智能公司AssuredRobotIntelligence，助力人形机器人技术研发。",
+    "content": "Meta收购机器人人工智能公司AssuredRobotIntelligence，助力人形机器人技术研发。",
+    "full_content": "Meta收购机器人人工智能公司AssuredRobotIntelligence，助力人形机器人技术研发。",
+    "sort_time": "1777654746087097",
+    "showTime": "2026-05-02 00:59:06",
+    "time": "2026-05-02 00:59:06",
+    "publish_time": "2026-05-02 00:59:06",
+    "raw_data": {
+      "code": "202605023727487097",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654746087097",
+      "share": 0,
+      "showTime": "2026-05-02 00:59:06",
+      "stockList": [
+        "90.BK1408",
+        "90.BK0800"
+      ],
+      "summary": "Meta收购机器人人工智能公司AssuredRobotIntelligence，助力人形机器人技术研发。",
+      "title": "Meta收购机器人人工智能公司Assured Robot Intelligence",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727487097.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1408",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C012",
+          "name": "机器人",
+          "matched_keyword": "人形机器人"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C012"
+      ]
+    }
+  },
+  {
+    "id": "c4f2e8b685f85c67",
+    "code": "202605023727486733",
+    "title": "美联航：若精神航空发生停运 将准备支持其客户和员工",
+    "summary": "【美联航：若精神航空发生停运 将准备支持其客户和员工】美联航表示，若精神航空发生停运，将准备支持其客户和员工，稍后将可能有更多信息分享。",
+    "content": "【美联航：若精神航空发生停运 将准备支持其客户和员工】美联航表示，若精神航空发生停运，将准备支持其客户和员工，稍后将可能有更多信息分享。",
+    "full_content": "【美联航：若精神航空发生停运 将准备支持其客户和员工】美联航表示，若精神航空发生停运，将准备支持其客户和员工，稍后将可能有更多信息分享。",
+    "sort_time": "1777654635086733",
+    "showTime": "2026-05-02 00:57:15",
+    "time": "2026-05-02 00:57:15",
+    "publish_time": "2026-05-02 00:57:15",
+    "raw_data": {
+      "code": "202605023727486733",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654635086733",
+      "share": 0,
+      "showTime": "2026-05-02 00:57:15",
+      "stockList": [
+        "105.UAL",
+        "153.FLYYQ"
+      ],
+      "summary": "【美联航：若精神航空发生停运 将准备支持其客户和员工】美联航表示，若精神航空发生停运，将准备支持其客户和员工，稍后将可能有更多信息分享。",
+      "title": "美联航：若精神航空发生停运 将准备支持其客户和员工",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727486733.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.UAL",
+      "153.FLYYQ"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "661dcabec0c59314",
+    "code": "202605023727485094",
+    "title": "LME金属期货收盘涨跌不一",
+    "summary": "【LME金属期货收盘涨跌不一】LME期铜收涨10美元，报12996美元/吨。LME期铝收涨48美元，报3522美元/吨。LME期锌收跌16美元，报3344美元/吨。LME期铅收跌6美元，报1949美元/吨。LME期镍收跌103美元，报19365美元/吨。LME期锡收涨209美元，报49423美元/吨。",
+    "content": "【LME金属期货收盘涨跌不一】LME期铜收涨10美元，报12996美元/吨。LME期铝收涨48美元，报3522美元/吨。LME期锌收跌16美元，报3344美元/吨。LME期铅收跌6美元，报1949美元/吨。LME期镍收跌103美元，报19365美元/吨。LME期锡收涨209美元，报49423美元/吨。",
+    "full_content": "【LME金属期货收盘涨跌不一】LME期铜收涨10美元，报12996美元/吨。LME期铝收涨48美元，报3522美元/吨。LME期锌收跌16美元，报3344美元/吨。LME期铅收跌6美元，报1949美元/吨。LME期镍收跌103美元，报19365美元/吨。LME期锡收涨209美元，报49423美元/吨。",
+    "sort_time": "1777654572085094",
+    "showTime": "2026-05-02 00:56:12",
+    "time": "2026-05-02 00:56:12",
+    "publish_time": "2026-05-02 00:56:12",
+    "raw_data": {
+      "code": "202605023727485094",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654572085094",
+      "share": 0,
+      "showTime": "2026-05-02 00:56:12",
+      "stockList": [],
+      "summary": "【LME金属期货收盘涨跌不一】LME期铜收涨10美元，报12996美元/吨。LME期铝收涨48美元，报3522美元/吨。LME期锌收跌16美元，报3344美元/吨。LME期铅收跌6美元，报1949美元/吨。LME期镍收跌103美元，报19365美元/吨。LME期锡收涨209美元，报49423美元/吨。",
+      "title": "LME金属期货收盘涨跌不一",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727485094.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "镍"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "b49bec59150fa49e",
+    "code": "202605023727483353",
+    "title": "卡塔尔宣布将全面恢复全天候海上航运活动",
+    "summary": "【卡塔尔宣布将全面恢复全天候海上航运活动】当地时间5月1日，卡塔尔交通部发布公告称，自5月2日零时起，全面恢复全天候海上航运活动。公告指出，所有类型船只均可全天候开展航运作业，同时敦促相关船只确保各类必要的安全与安保设备齐全、运行正常，以保障航行安全。",
+    "content": "【卡塔尔宣布将全面恢复全天候海上航运活动】当地时间5月1日，卡塔尔交通部发布公告称，自5月2日零时起，全面恢复全天候海上航运活动。公告指出，所有类型船只均可全天候开展航运作业，同时敦促相关船只确保各类必要的安全与安保设备齐全、运行正常，以保障航行安全。",
+    "full_content": "【卡塔尔宣布将全面恢复全天候海上航运活动】当地时间5月1日，卡塔尔交通部发布公告称，自5月2日零时起，全面恢复全天候海上航运活动。公告指出，所有类型船只均可全天候开展航运作业，同时敦促相关船只确保各类必要的安全与安保设备齐全、运行正常，以保障航行安全。",
+    "sort_time": "1777654055083353",
+    "showTime": "2026-05-02 00:47:35",
+    "time": "2026-05-02 00:47:35",
+    "publish_time": "2026-05-02 00:47:35",
+    "raw_data": {
+      "code": "202605023727483353",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654055083353",
+      "share": 0,
+      "showTime": "2026-05-02 00:47:35",
+      "stockList": [],
+      "summary": "【卡塔尔宣布将全面恢复全天候海上航运活动】当地时间5月1日，卡塔尔交通部发布公告称，自5月2日零时起，全面恢复全天候海上航运活动。公告指出，所有类型船只均可全天候开展航运作业，同时敦促相关船只确保各类必要的安全与安保设备齐全、运行正常，以保障航行安全。",
+      "title": "卡塔尔宣布将全面恢复全天候海上航运活动",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727483353.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "13acf8c33cbcc5c0",
+    "code": "202605023727482131",
+    "title": "美总统签署行政令 扩大对古巴制裁范围",
+    "summary": "【美总统签署行政令 扩大对古巴制裁范围】当地时间5月1日，总台记者获悉，美国总统特朗普签署行政令，扩大对古巴政府的制裁范围。美国官员表示，新制裁将针对支持古巴政府安全机构、涉及腐败等情况的个人与实体，同时覆盖相关代理人及支持者。此外，该行政令授权实施“次级制裁”，即对与被制裁对象进行交易或提供协助的第三方个人和机构同样施加制裁。据悉，目前尚未明确具体被列入制裁名单的对象。",
+    "content": "【美总统签署行政令 扩大对古巴制裁范围】当地时间5月1日，总台记者获悉，美国总统特朗普签署行政令，扩大对古巴政府的制裁范围。美国官员表示，新制裁将针对支持古巴政府安全机构、涉及腐败等情况的个人与实体，同时覆盖相关代理人及支持者。此外，该行政令授权实施“次级制裁”，即对与被制裁对象进行交易或提供协助的第三方个人和机构同样施加制裁。据悉，目前尚未明确具体被列入制裁名单的对象。",
+    "full_content": "【美总统签署行政令 扩大对古巴制裁范围】当地时间5月1日，总台记者获悉，美国总统特朗普签署行政令，扩大对古巴政府的制裁范围。美国官员表示，新制裁将针对支持古巴政府安全机构、涉及腐败等情况的个人与实体，同时覆盖相关代理人及支持者。此外，该行政令授权实施“次级制裁”，即对与被制裁对象进行交易或提供协助的第三方个人和机构同样施加制裁。据悉，目前尚未明确具体被列入制裁名单的对象。",
+    "sort_time": "1777653796082131",
+    "showTime": "2026-05-02 00:43:16",
+    "time": "2026-05-02 00:43:16",
+    "publish_time": "2026-05-02 00:43:16",
+    "raw_data": {
+      "code": "202605023727482131",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777653796082131",
+      "share": 4,
+      "showTime": "2026-05-02 00:43:16",
+      "stockList": [],
+      "summary": "【美总统签署行政令 扩大对古巴制裁范围】当地时间5月1日，总台记者获悉，美国总统特朗普签署行政令，扩大对古巴政府的制裁范围。美国官员表示，新制裁将针对支持古巴政府安全机构、涉及腐败等情况的个人与实体，同时覆盖相关代理人及支持者。此外，该行政令授权实施“次级制裁”，即对与被制裁对象进行交易或提供协助的第三方个人和机构同样施加制裁。据悉，目前尚未明确具体被列入制裁名单的对象。",
+      "title": "美总统签署行政令 扩大对古巴制裁范围",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727482131.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e1805b486260950c",
+    "code": "202605023727480994",
+    "title": "欧洲议会贸易委员会主席：特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的",
+    "summary": "欧洲议会贸易委员会主席朗格表示，美国总统特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的。",
+    "content": "欧洲议会贸易委员会主席朗格表示，美国总统特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的。",
+    "full_content": "欧洲议会贸易委员会主席朗格表示，美国总统特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的。",
+    "sort_time": "1777653516080994",
+    "showTime": "2026-05-02 00:38:36",
+    "time": "2026-05-02 00:38:36",
+    "publish_time": "2026-05-02 00:38:36",
+    "raw_data": {
+      "code": "202605023727480994",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777653516080994",
+      "share": 0,
+      "showTime": "2026-05-02 00:38:36",
+      "stockList": [
+        "90.BK1550",
+        "90.BK0484"
+      ],
+      "summary": "欧洲议会贸易委员会主席朗格表示，美国总统特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的。",
+      "title": "欧洲议会贸易委员会主席：特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727480994.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1550",
+      "90.BK0484"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0370ff95e98358de",
+    "code": "202605023727479882",
+    "title": "特朗普称对伊朗最新提交的谈判方案“不满意”",
+    "summary": "【特朗普称对伊朗最新提交的谈判方案“不满意”】当地时间5月1日，美国总统特朗普表示，对伊朗最新提交的谈判方案“不满意”。",
+    "content": "【特朗普称对伊朗最新提交的谈判方案“不满意”】当地时间5月1日，美国总统特朗普表示，对伊朗最新提交的谈判方案“不满意”。",
+    "full_content": "【特朗普称对伊朗最新提交的谈判方案“不满意”】当地时间5月1日，美国总统特朗普表示，对伊朗最新提交的谈判方案“不满意”。",
+    "sort_time": "1777653354079882",
+    "showTime": "2026-05-02 00:35:54",
+    "time": "2026-05-02 00:35:54",
+    "publish_time": "2026-05-02 00:35:54",
+    "raw_data": {
+      "code": "202605023727479882",
+      "image": [],
+      "pinglun_Num": 28,
+      "realSort": "1777653354079882",
+      "share": 4,
+      "showTime": "2026-05-02 00:35:54",
+      "stockList": [],
+      "summary": "【特朗普称对伊朗最新提交的谈判方案“不满意”】当地时间5月1日，美国总统特朗普表示，对伊朗最新提交的谈判方案“不满意”。",
+      "title": "特朗普称对伊朗最新提交的谈判方案“不满意”",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727479882.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 28,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f25de08420e4f66b",
+    "code": "202605023727480125",
+    "title": "行情",
+    "summary": "【行情】Spirit股价跌幅收窄至26%，特朗普称正在考虑对精神航空进行救助。",
+    "content": "【行情】Spirit股价跌幅收窄至26%，特朗普称正在考虑对精神航空进行救助。",
+    "full_content": "【行情】Spirit股价跌幅收窄至26%，特朗普称正在考虑对精神航空进行救助。",
+    "sort_time": "1777653279080125",
+    "showTime": "2026-05-02 00:34:39",
+    "time": "2026-05-02 00:34:39",
+    "publish_time": "2026-05-02 00:34:39",
+    "raw_data": {
+      "code": "202605023727480125",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777653279080125",
+      "share": 0,
+      "showTime": "2026-05-02 00:34:39",
+      "stockList": [
+        "153.FLYYQ"
+      ],
+      "summary": "【行情】Spirit股价跌幅收窄至26%，特朗普称正在考虑对精神航空进行救助。",
+      "title": "Spirit股价跌幅收窄至26%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727480125.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "153.FLYYQ"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "6849b49a8990e5c5",
+    "code": "202605023727479616",
+    "title": "美国总统特朗普：正在考虑对精神航空进行救助",
+    "summary": "美国总统特朗普表示，正在考虑对精神航空进行救助，将于周五晚些时候发布公告。",
+    "content": "美国总统特朗普表示，正在考虑对精神航空进行救助，将于周五晚些时候发布公告。",
+    "full_content": "美国总统特朗普表示，正在考虑对精神航空进行救助，将于周五晚些时候发布公告。",
+    "sort_time": "1777653086079616",
+    "showTime": "2026-05-02 00:31:26",
+    "time": "2026-05-02 00:31:26",
+    "publish_time": "2026-05-02 00:31:26",
+    "raw_data": {
+      "code": "202605023727479616",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777653086079616",
+      "share": 0,
+      "showTime": "2026-05-02 00:31:26",
+      "stockList": [
+        "153.FLYYQ"
+      ],
+      "summary": "美国总统特朗普表示，正在考虑对精神航空进行救助，将于周五晚些时候发布公告。",
+      "title": "美国总统特朗普：正在考虑对精神航空进行救助",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727479616.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "153.FLYYQ"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "ba6ef5d18814c9cf",
+    "code": "202605023727475145",
+    "title": "以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”",
+    "summary": "【以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”】据以色列方面5月1日消息，以色列国防军军官声称，如果不能移除伊朗的浓缩铀材料，伊朗战事将是一场“巨大的失败”。",
+    "content": "【以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”】据以色列方面5月1日消息，以色列国防军军官声称，如果不能移除伊朗的浓缩铀材料，伊朗战事将是一场“巨大的失败”。",
+    "full_content": "【以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”】据以色列方面5月1日消息，以色列国防军军官声称，如果不能移除伊朗的浓缩铀材料，伊朗战事将是一场“巨大的失败”。",
+    "sort_time": "1777652265075145",
+    "showTime": "2026-05-02 00:17:45",
+    "time": "2026-05-02 00:17:45",
+    "publish_time": "2026-05-02 00:17:45",
+    "raw_data": {
+      "code": "202605023727475145",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1777652265075145",
+      "share": 0,
+      "showTime": "2026-05-02 00:17:45",
+      "stockList": [],
+      "summary": "【以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”】据以色列方面5月1日消息，以色列国防军军官声称，如果不能移除伊朗的浓缩铀材料，伊朗战事将是一场“巨大的失败”。",
+      "title": "以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727475145.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "铀"
+        },
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109",
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "504b6b3ecdd14e41",
+    "code": "202605023727474981",
+    "title": "18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%",
+    "summary": "调查显示，18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%；6位分析师认为利率将维持在6.75%不变。",
+    "content": "调查显示，18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%；6位分析师认为利率将维持在6.75%不变。",
+    "full_content": "调查显示，18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%；6位分析师认为利率将维持在6.75%不变。",
+    "sort_time": "1777652255074981",
+    "showTime": "2026-05-02 00:17:35",
+    "time": "2026-05-02 00:17:35",
+    "publish_time": "2026-05-02 00:17:35",
+    "raw_data": {
+      "code": "202605023727474981",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777652255074981",
+      "share": 0,
+      "showTime": "2026-05-02 00:17:35",
+      "stockList": [],
+      "summary": "调查显示，18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%；6位分析师认为利率将维持在6.75%不变。",
+      "title": "18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727474981.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "4796ea66e3e60c16",
+    "code": "202605023727475053",
+    "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
+    "summary": "【伊朗议会议长：伊朗将迎来新的建设阶段】当地时间5月1日，伊朗议会议长卡利巴夫表示，伊朗即将迎来发展与建设的新阶段，而国家的繁荣离不开广大劳动者的辛勤付出。",
+    "content": "【伊朗议会议长：伊朗将迎来新的建设阶段】当地时间5月1日，伊朗议会议长卡利巴夫表示，伊朗即将迎来发展与建设的新阶段，而国家的繁荣离不开广大劳动者的辛勤付出。",
+    "full_content": "【伊朗议会议长：伊朗将迎来新的建设阶段】当地时间5月1日，伊朗议会议长卡利巴夫表示，伊朗即将迎来发展与建设的新阶段，而国家的繁荣离不开广大劳动者的辛勤付出。",
+    "sort_time": "1777652145075053",
+    "showTime": "2026-05-02 00:15:45",
+    "time": "2026-05-02 00:15:45",
+    "publish_time": "2026-05-02 00:15:45",
+    "raw_data": {
+      "code": "202605023727475053",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1777652145075053",
+      "share": 3,
+      "showTime": "2026-05-02 00:15:45",
+      "stockList": [],
+      "summary": "【伊朗议会议长：伊朗将迎来新的建设阶段】当地时间5月1日，伊朗议会议长卡利巴夫表示，伊朗即将迎来发展与建设的新阶段，而国家的繁荣离不开广大劳动者的辛勤付出。",
+      "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727475053.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "02ac283feba77198",
+    "code": "202605023727474759",
+    "title": "泽连斯基称将启动对乌军的改革",
+    "summary": "【泽连斯基称将启动对乌军的改革】乌克兰总统泽连斯基5月1日在社交媒体发文称，将于6月启动对乌军的改革，重点是大幅增加前线作战人员的薪酬，尤其是步兵的薪酬。此外，从今年开始，乌军有可能让军事人员分阶段退役。",
+    "content": "【泽连斯基称将启动对乌军的改革】乌克兰总统泽连斯基5月1日在社交媒体发文称，将于6月启动对乌军的改革，重点是大幅增加前线作战人员的薪酬，尤其是步兵的薪酬。此外，从今年开始，乌军有可能让军事人员分阶段退役。",
+    "full_content": "【泽连斯基称将启动对乌军的改革】乌克兰总统泽连斯基5月1日在社交媒体发文称，将于6月启动对乌军的改革，重点是大幅增加前线作战人员的薪酬，尤其是步兵的薪酬。此外，从今年开始，乌军有可能让军事人员分阶段退役。",
+    "sort_time": "1777651535074759",
+    "showTime": "2026-05-02 00:05:35",
+    "time": "2026-05-02 00:05:35",
+    "publish_time": "2026-05-02 00:05:35",
+    "raw_data": {
+      "code": "202605023727474759",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777651535074759",
+      "share": 0,
+      "showTime": "2026-05-02 00:05:35",
+      "stockList": [],
+      "summary": "【泽连斯基称将启动对乌军的改革】乌克兰总统泽连斯基5月1日在社交媒体发文称，将于6月启动对乌军的改革，重点是大幅增加前线作战人员的薪酬，尤其是步兵的薪酬。此外，从今年开始，乌军有可能让军事人员分阶段退役。",
+      "title": "泽连斯基称将启动对乌军的改革",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727474759.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "f005ef99d8ab2d4f",
     "code": "202605013727473491",
     "title": "美国国防部与7家人工智能公司达成合作协议",
@@ -13,9 +685,9 @@
     "raw_data": {
       "code": "202605013727473491",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 4,
       "realSort": "1777651106073491",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-05-01 23:58:26",
       "stockList": [
         "90.BK0800",
@@ -35,8 +707,8 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 4,
+    "comment_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -59,12 +731,12 @@
     }
   },
   {
-    "id": "49c0ecfff9a1bca9",
+    "id": "3dc76a366fb76de9",
     "code": "202605013727473320",
-    "title": "美国总统特朗普：将把欧盟汽车关税税率提高至25%",
-    "summary": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
-    "content": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
-    "full_content": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+    "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+    "summary": "【特朗普：将于下周对欧盟输美汽车和卡车加征25%关税】当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。",
+    "content": "【特朗普：将于下周对欧盟输美汽车和卡车加征25%关税】当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。",
+    "full_content": "【特朗普：将于下周对欧盟输美汽车和卡车加征25%关税】当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。",
     "sort_time": "1777650976073320",
     "showTime": "2026-05-01 23:56:16",
     "time": "2026-05-01 23:56:16",
@@ -72,15 +744,15 @@
     "raw_data": {
       "code": "202605013727473320",
       "image": [],
-      "pinglun_Num": 45,
+      "pinglun_Num": 81,
       "realSort": "1777650976073320",
-      "share": 54,
+      "share": 82,
       "showTime": "2026-05-01 23:56:16",
       "stockList": [
-        "90.BK0481"
+        "90.BK1211"
       ],
-      "summary": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
-      "title": "美国总统特朗普：将把欧盟汽车关税税率提高至25%",
+      "summary": "【特朗普：将于下周对欧盟输美汽车和卡车加征25%关税】当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。",
+      "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
       "titleColor": 3
     },
     "source": "东方财富快讯",
@@ -89,11 +761,11 @@
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK0481"
+      "90.BK1211"
     ],
     "has_stock_mention": true,
-    "comment_count": 45,
-    "share_count": 54,
+    "comment_count": 81,
+    "share_count": 82,
     "tags": {
       "industries": [
         {
@@ -221,7 +893,7 @@
     "raw_data": {
       "code": "202605013727469183",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1777649076069183",
       "share": 6,
       "showTime": "2026-05-01 23:24:36",
@@ -241,7 +913,7 @@
       "105.INTC"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -419,7 +1091,7 @@
     "raw_data": {
       "code": "202605013727440317",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1777647656040317",
       "share": 0,
       "showTime": "2026-05-01 23:00:56",
@@ -439,7 +1111,7 @@
       "90.BK0480"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -513,7 +1185,7 @@
     "raw_data": {
       "code": "202605013727432618",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 7,
       "realSort": "1777646857032618",
       "share": 0,
       "showTime": "2026-05-01 22:47:37",
@@ -535,7 +1207,7 @@
       "150.515290"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 7,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -582,7 +1254,7 @@
     "raw_data": {
       "code": "202605013727423438",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1777646562023438",
       "share": 0,
       "showTime": "2026-05-01 22:42:42",
@@ -604,7 +1276,7 @@
       "90.BK0450"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -629,7 +1301,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1777645878015342",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-05-01 22:31:18",
       "stockList": [
         "105.SNDK"
@@ -648,7 +1320,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [
         {
@@ -688,9 +1360,9 @@
     "raw_data": {
       "code": "202605013727411654",
       "image": [],
-      "pinglun_Num": 81,
+      "pinglun_Num": 89,
       "realSort": "1777645639011654",
-      "share": 292,
+      "share": 301,
       "showTime": "2026-05-01 22:27:19",
       "stockList": [
         "1007.BK000339"
@@ -708,8 +1380,8 @@
       "1007.BK000339"
     ],
     "has_stock_mention": true,
-    "comment_count": 81,
-    "share_count": 292,
+    "comment_count": 89,
+    "share_count": 301,
     "tags": {
       "industries": [],
       "concepts": [
@@ -739,7 +1411,7 @@
     "raw_data": {
       "code": "202605013727410632",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1777645482010632",
       "share": 11,
       "showTime": "2026-05-01 22:24:42",
@@ -755,7 +1427,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 11,
     "tags": {
       "industries": [],
@@ -1099,7 +1771,7 @@
       "image": [],
       "pinglun_Num": 13,
       "realSort": "1777644575008384",
-      "share": 17,
+      "share": 18,
       "showTime": "2026-05-01 22:09:35",
       "stockList": [],
       "summary": "【美股光通信股集体走高，lumentum涨逾7%，AAOI涨逾6%，双双创新高；Coherent涨约4%。】美股光通信股集体走高，lumentum涨逾7%，AAOI涨逾6%，双双创新高；Coherent涨约4%。",
@@ -1114,7 +1786,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 13,
-    "share_count": 17,
+    "share_count": 18,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1653,7 +2325,7 @@
     "raw_data": {
       "code": "202605013727399358",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 10,
       "realSort": "1777642912099358",
       "share": 22,
       "showTime": "2026-05-01 21:41:52",
@@ -1673,7 +2345,7 @@
       "105.SNDK"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
+    "comment_count": 10,
     "share_count": 22,
     "tags": {
       "industries": [],
@@ -1719,770 +2391,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "5ad2acffa95e9c8e",
-    "code": "202605013727398885",
-    "title": "礼来股价上涨4.3% 报974.548美元/股",
-    "summary": "【礼来股价上涨4.3% 报974.548美元/股】礼来股价上涨4.3%，报974.548美元/股，总市值报9178亿美元。",
-    "content": "【礼来股价上涨4.3% 报974.548美元/股】礼来股价上涨4.3%，报974.548美元/股，总市值报9178亿美元。",
-    "full_content": "【礼来股价上涨4.3% 报974.548美元/股】礼来股价上涨4.3%，报974.548美元/股，总市值报9178亿美元。",
-    "sort_time": "1777642698098885",
-    "showTime": "2026-05-01 21:38:18",
-    "time": "2026-05-01 21:38:18",
-    "publish_time": "2026-05-01 21:38:18",
-    "raw_data": {
-      "code": "202605013727398885",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777642698098885",
-      "share": 1,
-      "showTime": "2026-05-01 21:38:18",
-      "stockList": [
-        "106.LLY"
-      ],
-      "summary": "【礼来股价上涨4.3% 报974.548美元/股】礼来股价上涨4.3%，报974.548美元/股，总市值报9178亿美元。",
-      "title": "礼来股价上涨4.3% 报974.548美元/股",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727398885.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "106.LLY"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "375e5ff2cb39dedc",
-    "code": "202605013727398675",
-    "title": "甲骨文股价上涨5.1% 报169.640美元/股",
-    "summary": "【甲骨文股价上涨5.1% 报169.640美元/股】甲骨文股价上涨5.1%，报169.640美元/股，总市值报4879亿美元。",
-    "content": "【甲骨文股价上涨5.1% 报169.640美元/股】甲骨文股价上涨5.1%，报169.640美元/股，总市值报4879亿美元。",
-    "full_content": "【甲骨文股价上涨5.1% 报169.640美元/股】甲骨文股价上涨5.1%，报169.640美元/股，总市值报4879亿美元。",
-    "sort_time": "1777642672098675",
-    "showTime": "2026-05-01 21:37:52",
-    "time": "2026-05-01 21:37:52",
-    "publish_time": "2026-05-01 21:37:52",
-    "raw_data": {
-      "code": "202605013727398675",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777642672098675",
-      "share": 0,
-      "showTime": "2026-05-01 21:37:52",
-      "stockList": [
-        "106.ORCL"
-      ],
-      "summary": "【甲骨文股价上涨5.1% 报169.640美元/股】甲骨文股价上涨5.1%，报169.640美元/股，总市值报4879亿美元。",
-      "title": "甲骨文股价上涨5.1% 报169.640美元/股",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727398675.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "106.ORCL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6800d85367ceebd3",
-    "code": "202605013727398466",
-    "title": "美银全球研究将苹果公司股票目标价位从325美元上调至330美元",
-    "summary": "【美银全球研究将苹果公司股票目标价位从325美元上调至330美元】美银全球研究将苹果公司股票目标价位从325美元上调至330美元。",
-    "content": "【美银全球研究将苹果公司股票目标价位从325美元上调至330美元】美银全球研究将苹果公司股票目标价位从325美元上调至330美元。",
-    "full_content": "【美银全球研究将苹果公司股票目标价位从325美元上调至330美元】美银全球研究将苹果公司股票目标价位从325美元上调至330美元。",
-    "sort_time": "1777642622098466",
-    "showTime": "2026-05-01 21:37:02",
-    "time": "2026-05-01 21:37:02",
-    "publish_time": "2026-05-01 21:37:02",
-    "raw_data": {
-      "code": "202605013727398466",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777642622098466",
-      "share": 0,
-      "showTime": "2026-05-01 21:37:02",
-      "stockList": [
-        "105.AAPL"
-      ],
-      "summary": "【美银全球研究将苹果公司股票目标价位从325美元上调至330美元】美银全球研究将苹果公司股票目标价位从325美元上调至330美元。",
-      "title": "美银全球研究将苹果公司股票目标价位从325美元上调至330美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727398466.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.AAPL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "c1a166076012023b",
-    "code": "202605013727396633",
-    "title": "国际油价扩大跌幅",
-    "summary": "【国际油价扩大跌幅】国际油价扩大跌幅，WTI原油期货价格跌3%，报102.025美元/桶；布伦特原油期货价格跌1.43%，报108.824美元/桶。",
-    "content": "【国际油价扩大跌幅】国际油价扩大跌幅，WTI原油期货价格跌3%，报102.025美元/桶；布伦特原油期货价格跌1.43%，报108.824美元/桶。",
-    "full_content": "【国际油价扩大跌幅】国际油价扩大跌幅，WTI原油期货价格跌3%，报102.025美元/桶；布伦特原油期货价格跌1.43%，报108.824美元/桶。",
-    "sort_time": "1777642439096633",
-    "showTime": "2026-05-01 21:33:59",
-    "time": "2026-05-01 21:33:59",
-    "publish_time": "2026-05-01 21:33:59",
-    "raw_data": {
-      "code": "202605013727396633",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777642439096633",
-      "share": 1,
-      "showTime": "2026-05-01 21:33:59",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "【国际油价扩大跌幅】国际油价扩大跌幅，WTI原油期货价格跌3%，报102.025美元/桶；布伦特原油期货价格跌1.43%，报108.824美元/桶。",
-      "title": "国际油价扩大跌幅",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727396633.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "6c8a9e1b5ec26dbe",
-    "code": "202605013727396380",
-    "title": "费城半导体指数开盘走低",
-    "summary": "【费城半导体指数开盘走低】费城半导体指数开盘走低，最新下跌近1%。英伟达股价上涨1.67%，台积电股价下跌0.82%，博通股价下跌0.29%，美光科技股价下跌0.6%，超威半导体股价下跌0.36%，阿斯麦股价下跌1.23%。",
-    "content": "【费城半导体指数开盘走低】费城半导体指数开盘走低，最新下跌近1%。英伟达股价上涨1.67%，台积电股价下跌0.82%，博通股价下跌0.29%，美光科技股价下跌0.6%，超威半导体股价下跌0.36%，阿斯麦股价下跌1.23%。",
-    "full_content": "【费城半导体指数开盘走低】费城半导体指数开盘走低，最新下跌近1%。英伟达股价上涨1.67%，台积电股价下跌0.82%，博通股价下跌0.29%，美光科技股价下跌0.6%，超威半导体股价下跌0.36%，阿斯麦股价下跌1.23%。",
-    "sort_time": "1777642337096380",
-    "showTime": "2026-05-01 21:32:17",
-    "time": "2026-05-01 21:32:17",
-    "publish_time": "2026-05-01 21:32:17",
-    "raw_data": {
-      "code": "202605013727396380",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1777642337096380",
-      "share": 0,
-      "showTime": "2026-05-01 21:32:17",
-      "stockList": [
-        "90.BK1036",
-        "90.BK0459"
-      ],
-      "summary": "【费城半导体指数开盘走低】费城半导体指数开盘走低，最新下跌近1%。英伟达股价上涨1.67%，台积电股价下跌0.82%，博通股价下跌0.29%，美光科技股价下跌0.6%，超威半导体股价下跌0.36%，阿斯麦股价下跌1.23%。",
-      "title": "费城半导体指数开盘走低",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727396380.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1036",
-      "90.BK0459"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "94defa77edc4440f",
-    "code": "202605013727396840",
-    "title": "标普500指数、纳斯达克综合指数同创记录新高",
-    "summary": "【标普500指数、纳斯达克综合指数同创记录新高】标普500指数、纳斯达克综合指数盘初涨0.37%、0.54%，二者同创记录新高。",
-    "content": "【标普500指数、纳斯达克综合指数同创记录新高】标普500指数、纳斯达克综合指数盘初涨0.37%、0.54%，二者同创记录新高。",
-    "full_content": "【标普500指数、纳斯达克综合指数同创记录新高】标普500指数、纳斯达克综合指数盘初涨0.37%、0.54%，二者同创记录新高。",
-    "sort_time": "1777642331096840",
-    "showTime": "2026-05-01 21:32:11",
-    "time": "2026-05-01 21:32:11",
-    "publish_time": "2026-05-01 21:32:11",
-    "raw_data": {
-      "code": "202605013727396840",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1777642331096840",
-      "share": 6,
-      "showTime": "2026-05-01 21:32:11",
-      "stockList": [],
-      "summary": "【标普500指数、纳斯达克综合指数同创记录新高】标普500指数、纳斯达克综合指数盘初涨0.37%、0.54%，二者同创记录新高。",
-      "title": "标普500指数、纳斯达克综合指数同创记录新高",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727396840.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a5e0293a68845014",
-    "code": "202605013727397991",
-    "title": "美股开盘｜三大股指小幅高开",
-    "summary": "【美股开盘｜三大股指小幅高开】美股三大股指小幅高开，道琼斯指数涨0.37%，标普500指数涨0.36%，纳斯达克综合指数涨0.30%。存储芯片概念股走低，西部数据跌超6%，闪迪跌超3%。个股方面，苹果涨2.7%，第二财季营收超市场预期；雅诗兰黛涨12.6%，第三财季净销售额超市场预期；在线视频游戏平台Roblox跌23%，公司大幅下调年度预订量预期。",
-    "content": "【美股开盘｜三大股指小幅高开】美股三大股指小幅高开，道琼斯指数涨0.37%，标普500指数涨0.36%，纳斯达克综合指数涨0.30%。存储芯片概念股走低，西部数据跌超6%，闪迪跌超3%。个股方面，苹果涨2.7%，第二财季营收超市场预期；雅诗兰黛涨12.6%，第三财季净销售额超市场预期；在线视频游戏平台Roblox跌23%，公司大幅下调年度预订量预期。",
-    "full_content": "【美股开盘｜三大股指小幅高开】美股三大股指小幅高开，道琼斯指数涨0.37%，标普500指数涨0.36%，纳斯达克综合指数涨0.30%。存储芯片概念股走低，西部数据跌超6%，闪迪跌超3%。个股方面，苹果涨2.7%，第二财季营收超市场预期；雅诗兰黛涨12.6%，第三财季净销售额超市场预期；在线视频游戏平台Roblox跌23%，公司大幅下调年度预订量预期。",
-    "sort_time": "1777642237097991",
-    "showTime": "2026-05-01 21:30:37",
-    "time": "2026-05-01 21:30:37",
-    "publish_time": "2026-05-01 21:30:37",
-    "raw_data": {
-      "code": "202605013727397991",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1777642237097991",
-      "share": 1,
-      "showTime": "2026-05-01 21:30:37",
-      "stockList": [],
-      "summary": "【美股开盘｜三大股指小幅高开】美股三大股指小幅高开，道琼斯指数涨0.37%，标普500指数涨0.36%，纳斯达克综合指数涨0.30%。存储芯片概念股走低，西部数据跌超6%，闪迪跌超3%。个股方面，苹果涨2.7%，第二财季营收超市场预期；雅诗兰黛涨12.6%，第三财季净销售额超市场预期；在线视频游戏平台Roblox跌23%，公司大幅下调年度预订量预期。",
-      "title": "美股开盘｜三大股指小幅高开",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727397991.html",
-    "category": "公司",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "存储芯片"
-        },
-        {
-          "id": "C605",
-          "name": "零售",
-          "matched_keyword": "超市"
-        },
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002",
-        "C605",
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "73ad813a699cfc7f",
-    "code": "202605013727394951",
-    "title": "华林证券拟收购海航期货！",
-    "summary": "【华林证券拟收购海航期货！】4月30日晚间，新三板挂牌公司海航期货股份有限公司发布公告称，公司控股股东海航资本集团有限公司（持股91.09%）与股东陕西扬航云企业管理有限公司（持股2.91%）拟合计转让所持94%股权，受让方意向为A股上市券商华林证券（证券代码：002945），交易拟以现金方式进行。目前交易价格尚未定，将以评估结果为参考。",
-    "content": "【华林证券拟收购海航期货！】4月30日晚间，新三板挂牌公司海航期货股份有限公司发布公告称，公司控股股东海航资本集团有限公司（持股91.09%）与股东陕西扬航云企业管理有限公司（持股2.91%）拟合计转让所持94%股权，受让方意向为A股上市券商华林证券（证券代码：002945），交易拟以现金方式进行。目前交易价格尚未定，将以评估结果为参考。",
-    "full_content": "【华林证券拟收购海航期货！】4月30日晚间，新三板挂牌公司海航期货股份有限公司发布公告称，公司控股股东海航资本集团有限公司（持股91.09%）与股东陕西扬航云企业管理有限公司（持股2.91%）拟合计转让所持94%股权，受让方意向为A股上市券商华林证券（证券代码：002945），交易拟以现金方式进行。目前交易价格尚未定，将以评估结果为参考。",
-    "sort_time": "1777641660094951",
-    "showTime": "2026-05-01 21:21:00",
-    "time": "2026-05-01 21:21:00",
-    "publish_time": "2026-05-01 21:21:00",
-    "raw_data": {
-      "code": "202605013727394951",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1777641660094951",
-      "share": 9,
-      "showTime": "2026-05-01 21:21:00",
-      "stockList": [
-        "90.BK0803",
-        "0.002945"
-      ],
-      "summary": "【华林证券拟收购海航期货！】4月30日晚间，新三板挂牌公司海航期货股份有限公司发布公告称，公司控股股东海航资本集团有限公司（持股91.09%）与股东陕西扬航云企业管理有限公司（持股2.91%）拟合计转让所持94%股权，受让方意向为A股上市券商华林证券（证券代码：002945），交易拟以现金方式进行。目前交易价格尚未定，将以评估结果为参考。",
-      "title": "华林证券拟收购海航期货！",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727394951.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0803",
-      "0.002945"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 9,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401"
-      ]
-    }
-  },
-  {
-    "id": "7a96567a777581ce",
-    "code": "202605013727394516",
-    "title": "美国国际集团（AIG）：软件相关风险敞口约为1.3亿美元",
-    "summary": "美国国际集团（AIG）高管表示，软件相关风险敞口约为1.3亿美元，仅占综合保险投资组合的16个基点（0.16%）。",
-    "content": "美国国际集团（AIG）高管表示，软件相关风险敞口约为1.3亿美元，仅占综合保险投资组合的16个基点（0.16%）。",
-    "full_content": "美国国际集团（AIG）高管表示，软件相关风险敞口约为1.3亿美元，仅占综合保险投资组合的16个基点（0.16%）。",
-    "sort_time": "1777640988094516",
-    "showTime": "2026-05-01 21:09:48",
-    "time": "2026-05-01 21:09:48",
-    "publish_time": "2026-05-01 21:09:48",
-    "raw_data": {
-      "code": "202605013727394516",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777640988094516",
-      "share": 0,
-      "showTime": "2026-05-01 21:09:48",
-      "stockList": [
-        "150.012606"
-      ],
-      "summary": "美国国际集团（AIG）高管表示，软件相关风险敞口约为1.3亿美元，仅占综合保险投资组合的16个基点（0.16%）。",
-      "title": "美国国际集团（AIG）：软件相关风险敞口约为1.3亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727394516.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.012606"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C403",
-          "name": "保险",
-          "matched_keyword": "保险"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C403"
-      ]
-    }
-  },
-  {
-    "id": "d632137aba98adb6",
-    "code": "202605013727394466",
-    "title": "超7000亿美元AI豪赌：美股六巨头交卷 AI竞赛进入下半场",
-    "summary": "【超7000亿美元AI豪赌：美股六巨头交卷 AI竞赛进入下半场】2026年第一季度，美股科技巨头的AI军备竞赛迈入了一个新的量级。截至5月1日，“七姐妹”中除英伟达外，谷歌母公司Alphabet、微软、亚马逊、Meta、苹果、特斯拉已悉数交卷。六家巨头营收全面超预期，但更值得关注的是另一个数字：以区间高点计算，六家巨头2026年合计资本支出将突破7000亿美元。",
-    "content": "【超7000亿美元AI豪赌：美股六巨头交卷 AI竞赛进入下半场】2026年第一季度，美股科技巨头的AI军备竞赛迈入了一个新的量级。截至5月1日，“七姐妹”中除英伟达外，谷歌母公司Alphabet、微软、亚马逊、Meta、苹果、特斯拉已悉数交卷。六家巨头营收全面超预期，但更值得关注的是另一个数字：以区间高点计算，六家巨头2026年合计资本支出将突破7000亿美元。",
-    "full_content": "【超7000亿美元AI豪赌：美股六巨头交卷 AI竞赛进入下半场】2026年第一季度，美股科技巨头的AI军备竞赛迈入了一个新的量级。截至5月1日，“七姐妹”中除英伟达外，谷歌母公司Alphabet、微软、亚马逊、Meta、苹果、特斯拉已悉数交卷。六家巨头营收全面超预期，但更值得关注的是另一个数字：以区间高点计算，六家巨头2026年合计资本支出将突破7000亿美元。",
-    "sort_time": "1777640621094466",
-    "showTime": "2026-05-01 21:03:41",
-    "time": "2026-05-01 21:03:41",
-    "publish_time": "2026-05-01 21:03:41",
-    "raw_data": {
-      "code": "202605013727394466",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1777640621094466",
-      "share": 48,
-      "showTime": "2026-05-01 21:03:41",
-      "stockList": [
-        "90.BK0800",
-        "150.013446"
-      ],
-      "summary": "【超7000亿美元AI豪赌：美股六巨头交卷 AI竞赛进入下半场】2026年第一季度，美股科技巨头的AI军备竞赛迈入了一个新的量级。截至5月1日，“七姐妹”中除英伟达外，谷歌母公司Alphabet、微软、亚马逊、Meta、苹果、特斯拉已悉数交卷。六家巨头营收全面超预期，但更值得关注的是另一个数字：以区间高点计算，六家巨头2026年合计资本支出将突破7000亿美元。",
-      "title": "超7000亿美元AI豪赌：美股六巨头交卷 AI竞赛进入下半场",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727394466.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0800",
-      "150.013446"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 48,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C805",
-          "name": "特斯拉",
-          "matched_keyword": "特斯拉"
-        },
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C805",
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "9a44d7302fa42c1c",
-    "code": "202605013727394388",
-    "title": "比特币涨至78000美元 过去24小时涨2.26%",
-    "summary": "【比特币涨至78000美元 过去24小时涨2.26%】行情显示，比特币涨至78036美元，过去24小时内涨2.26%；以太坊涨至2305.51美元，过去24小时内涨1.72%。",
-    "content": "【比特币涨至78000美元 过去24小时涨2.26%】行情显示，比特币涨至78036美元，过去24小时内涨2.26%；以太坊涨至2305.51美元，过去24小时内涨1.72%。",
-    "full_content": "【比特币涨至78000美元 过去24小时涨2.26%】行情显示，比特币涨至78036美元，过去24小时内涨2.26%；以太坊涨至2305.51美元，过去24小时内涨1.72%。",
-    "sort_time": "1777639687094388",
-    "showTime": "2026-05-01 20:48:07",
-    "time": "2026-05-01 20:48:07",
-    "publish_time": "2026-05-01 20:48:07",
-    "raw_data": {
-      "code": "202605013727394388",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1777639687094388",
-      "share": 7,
-      "showTime": "2026-05-01 20:48:07",
-      "stockList": [
-        "90.BK0830"
-      ],
-      "summary": "【比特币涨至78000美元 过去24小时涨2.26%】行情显示，比特币涨至78036美元，过去24小时内涨2.26%；以太坊涨至2305.51美元，过去24小时内涨1.72%。",
-      "title": "比特币涨至78000美元 过去24小时涨2.26%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727394388.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0830"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C008",
-          "name": "区块链",
-          "matched_keyword": "以太坊"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C008"
-      ]
-    }
-  },
-  {
-    "id": "db3373b389945b09",
-    "code": "202605013727392996",
-    "title": "美国防部与7家AI公司达成协议 国际油价盘前下跌丨今夜看点",
-    "summary": "【美国防部与7家AI公司达成协议 国际油价盘前下跌丨今夜看点】美东时间周五盘前，美股三大期指周五总体波动不大。截至发稿，纳斯达克100指数期货涨0.13%，标普500指数期货涨0.41%，道指期货涨0.54%。道指期货主要受苹果公司盘前股价推动有所上涨。随着美股进入五月，美股交易市场也随之活跃起来。",
-    "content": "【美国防部与7家AI公司达成协议 国际油价盘前下跌丨今夜看点】美东时间周五盘前，美股三大期指周五总体波动不大。截至发稿，纳斯达克100指数期货涨0.13%，标普500指数期货涨0.41%，道指期货涨0.54%。道指期货主要受苹果公司盘前股价推动有所上涨。随着美股进入五月，美股交易市场也随之活跃起来。",
-    "full_content": "【美国防部与7家AI公司达成协议 国际油价盘前下跌丨今夜看点】美东时间周五盘前，美股三大期指周五总体波动不大。截至发稿，纳斯达克100指数期货涨0.13%，标普500指数期货涨0.41%，道指期货涨0.54%。道指期货主要受苹果公司盘前股价推动有所上涨。随着美股进入五月，美股交易市场也随之活跃起来。",
-    "sort_time": "1777639622092996",
-    "showTime": "2026-05-01 20:47:02",
-    "time": "2026-05-01 20:47:02",
-    "publish_time": "2026-05-01 20:47:02",
-    "raw_data": {
-      "code": "202605013727392996",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1777639622092996",
-      "share": 2,
-      "showTime": "2026-05-01 20:47:02",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "【美国防部与7家AI公司达成协议 国际油价盘前下跌丨今夜看点】美东时间周五盘前，美股三大期指周五总体波动不大。截至发稿，纳斯达克100指数期货涨0.13%，标普500指数期货涨0.41%，道指期货涨0.54%。道指期货主要受苹果公司盘前股价推动有所上涨。随着美股进入五月，美股交易市场也随之活跃起来。",
-      "title": "美国防部与7家AI公司达成协议 国际油价盘前下跌丨今夜看点",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727392996.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        },
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C201",
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "f04d6eade0ad60f9",
-    "code": "202605013727391563",
-    "title": "中东战事或致成本涨超60亿元 联合利华宣布将涨价",
-    "summary": "【中东战事或致成本涨超60亿元 联合利华宣布将涨价】全球快消品巨头联合利华公司4月30日表示，受中东战事持续影响，公司成本上涨，决定上调产品价格。联合利华公司表示，中东战事造成供应链不畅和大宗商品价格飙升，受此影响，包括物流和工厂成本在内的公司全年总成本将上涨约7.5亿至9亿欧元（约合人民币60亿元至72亿元）。",
-    "content": "【中东战事或致成本涨超60亿元 联合利华宣布将涨价】全球快消品巨头联合利华公司4月30日表示，受中东战事持续影响，公司成本上涨，决定上调产品价格。联合利华公司表示，中东战事造成供应链不畅和大宗商品价格飙升，受此影响，包括物流和工厂成本在内的公司全年总成本将上涨约7.5亿至9亿欧元（约合人民币60亿元至72亿元）。",
-    "full_content": "【中东战事或致成本涨超60亿元 联合利华宣布将涨价】全球快消品巨头联合利华公司4月30日表示，受中东战事持续影响，公司成本上涨，决定上调产品价格。联合利华公司表示，中东战事造成供应链不畅和大宗商品价格飙升，受此影响，包括物流和工厂成本在内的公司全年总成本将上涨约7.5亿至9亿欧元（约合人民币60亿元至72亿元）。",
-    "sort_time": "1777639472091563",
-    "showTime": "2026-05-01 20:44:32",
-    "time": "2026-05-01 20:44:32",
-    "publish_time": "2026-05-01 20:44:32",
-    "raw_data": {
-      "code": "202605013727391563",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777639472091563",
-      "share": 3,
-      "showTime": "2026-05-01 20:44:32",
-      "stockList": [],
-      "summary": "【中东战事或致成本涨超60亿元 联合利华宣布将涨价】全球快消品巨头联合利华公司4月30日表示，受中东战事持续影响，公司成本上涨，决定上调产品价格。联合利华公司表示，中东战事造成供应链不畅和大宗商品价格飙升，受此影响，包括物流和工厂成本在内的公司全年总成本将上涨约7.5亿至9亿欧元（约合人民币60亿元至72亿元）。",
-      "title": "中东战事或致成本涨超60亿元 联合利华宣布将涨价",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727391563.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "供应链"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "891d06563e5b48d5",
-    "code": "202605013727379047",
-    "title": "全国首支机器人交警中队 正式上岗",
-    "summary": "【全国首支机器人交警中队 正式上岗】“五一”假期第一天，杭州西湖景区及周边核心路段迎来一支“特殊警力”——全国首支成建制的交通管理机器人中队正式上岗执勤。这支名为“杭警智行”的机器人交警队伍，由15台智能交管机器人组成，主要承担非机动车和行人违法劝导、交通指挥、游客问路指引等任务，和路面警力协同作战，提升交通秩序管理效能。",
-    "content": "【全国首支机器人交警中队 正式上岗】“五一”假期第一天，杭州西湖景区及周边核心路段迎来一支“特殊警力”——全国首支成建制的交通管理机器人中队正式上岗执勤。这支名为“杭警智行”的机器人交警队伍，由15台智能交管机器人组成，主要承担非机动车和行人违法劝导、交通指挥、游客问路指引等任务，和路面警力协同作战，提升交通秩序管理效能。",
-    "full_content": "【全国首支机器人交警中队 正式上岗】“五一”假期第一天，杭州西湖景区及周边核心路段迎来一支“特殊警力”——全国首支成建制的交通管理机器人中队正式上岗执勤。这支名为“杭警智行”的机器人交警队伍，由15台智能交管机器人组成，主要承担非机动车和行人违法劝导、交通指挥、游客问路指引等任务，和路面警力协同作战，提升交通秩序管理效能。",
-    "sort_time": "1777638975079047",
-    "showTime": "2026-05-01 20:36:15",
-    "time": "2026-05-01 20:36:15",
-    "publish_time": "2026-05-01 20:36:15",
-    "raw_data": {
-      "code": "202605013727379047",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1777638975079047",
-      "share": 24,
-      "showTime": "2026-05-01 20:36:15",
-      "stockList": [
-        "90.BK1408",
-        "150.562500"
-      ],
-      "summary": "【全国首支机器人交警中队 正式上岗】“五一”假期第一天，杭州西湖景区及周边核心路段迎来一支“特殊警力”——全国首支成建制的交通管理机器人中队正式上岗执勤。这支名为“杭警智行”的机器人交警队伍，由15台智能交管机器人组成，主要承担非机动车和行人违法劝导、交通指挥、游客问路指引等任务，和路面警力协同作战，提升交通秩序管理效能。",
-      "title": "全国首支机器人交警中队 正式上岗",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727379047.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1408",
-      "150.562500"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 24,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C012",
-          "name": "机器人",
-          "matched_keyword": "机器人"
-        },
-        {
-          "id": "C604",
-          "name": "旅游",
-          "matched_keyword": "景区"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C012",
-        "C604"
-      ]
     }
   }
 ]

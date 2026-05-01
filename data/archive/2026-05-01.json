@@ -1,5 +1,677 @@
 [
   {
+    "id": "93824a89ef5ef4ae",
+    "code": "202605023727488476",
+    "title": "数据",
+    "summary": "【数据】美国至5月1日当周石油钻井总数报408口，前值407口。",
+    "content": "【数据】美国至5月1日当周石油钻井总数报408口，前值407口。",
+    "full_content": "【数据】美国至5月1日当周石油钻井总数报408口，前值407口。",
+    "sort_time": "1777654891088476",
+    "showTime": "2026-05-02 01:01:31",
+    "time": "2026-05-02 01:01:31",
+    "publish_time": "2026-05-02 01:01:31",
+    "raw_data": {
+      "code": "202605023727488476",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654891088476",
+      "share": 0,
+      "showTime": "2026-05-02 01:01:31",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【数据】美国至5月1日当周石油钻井总数报408口，前值407口。",
+      "title": "美国至5月1日当周石油钻井总数报408口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727488476.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "f11af533d3f5b42f",
+    "code": "202605023727487097",
+    "title": "Meta收购机器人人工智能公司Assured Robot Intelligence",
+    "summary": "Meta收购机器人人工智能公司AssuredRobotIntelligence，助力人形机器人技术研发。",
+    "content": "Meta收购机器人人工智能公司AssuredRobotIntelligence，助力人形机器人技术研发。",
+    "full_content": "Meta收购机器人人工智能公司AssuredRobotIntelligence，助力人形机器人技术研发。",
+    "sort_time": "1777654746087097",
+    "showTime": "2026-05-02 00:59:06",
+    "time": "2026-05-02 00:59:06",
+    "publish_time": "2026-05-02 00:59:06",
+    "raw_data": {
+      "code": "202605023727487097",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654746087097",
+      "share": 0,
+      "showTime": "2026-05-02 00:59:06",
+      "stockList": [
+        "90.BK1408",
+        "90.BK0800"
+      ],
+      "summary": "Meta收购机器人人工智能公司AssuredRobotIntelligence，助力人形机器人技术研发。",
+      "title": "Meta收购机器人人工智能公司Assured Robot Intelligence",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727487097.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1408",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C012",
+          "name": "机器人",
+          "matched_keyword": "人形机器人"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C012"
+      ]
+    }
+  },
+  {
+    "id": "c4f2e8b685f85c67",
+    "code": "202605023727486733",
+    "title": "美联航：若精神航空发生停运 将准备支持其客户和员工",
+    "summary": "【美联航：若精神航空发生停运 将准备支持其客户和员工】美联航表示，若精神航空发生停运，将准备支持其客户和员工，稍后将可能有更多信息分享。",
+    "content": "【美联航：若精神航空发生停运 将准备支持其客户和员工】美联航表示，若精神航空发生停运，将准备支持其客户和员工，稍后将可能有更多信息分享。",
+    "full_content": "【美联航：若精神航空发生停运 将准备支持其客户和员工】美联航表示，若精神航空发生停运，将准备支持其客户和员工，稍后将可能有更多信息分享。",
+    "sort_time": "1777654635086733",
+    "showTime": "2026-05-02 00:57:15",
+    "time": "2026-05-02 00:57:15",
+    "publish_time": "2026-05-02 00:57:15",
+    "raw_data": {
+      "code": "202605023727486733",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654635086733",
+      "share": 0,
+      "showTime": "2026-05-02 00:57:15",
+      "stockList": [
+        "105.UAL",
+        "153.FLYYQ"
+      ],
+      "summary": "【美联航：若精神航空发生停运 将准备支持其客户和员工】美联航表示，若精神航空发生停运，将准备支持其客户和员工，稍后将可能有更多信息分享。",
+      "title": "美联航：若精神航空发生停运 将准备支持其客户和员工",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727486733.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.UAL",
+      "153.FLYYQ"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "661dcabec0c59314",
+    "code": "202605023727485094",
+    "title": "LME金属期货收盘涨跌不一",
+    "summary": "【LME金属期货收盘涨跌不一】LME期铜收涨10美元，报12996美元/吨。LME期铝收涨48美元，报3522美元/吨。LME期锌收跌16美元，报3344美元/吨。LME期铅收跌6美元，报1949美元/吨。LME期镍收跌103美元，报19365美元/吨。LME期锡收涨209美元，报49423美元/吨。",
+    "content": "【LME金属期货收盘涨跌不一】LME期铜收涨10美元，报12996美元/吨。LME期铝收涨48美元，报3522美元/吨。LME期锌收跌16美元，报3344美元/吨。LME期铅收跌6美元，报1949美元/吨。LME期镍收跌103美元，报19365美元/吨。LME期锡收涨209美元，报49423美元/吨。",
+    "full_content": "【LME金属期货收盘涨跌不一】LME期铜收涨10美元，报12996美元/吨。LME期铝收涨48美元，报3522美元/吨。LME期锌收跌16美元，报3344美元/吨。LME期铅收跌6美元，报1949美元/吨。LME期镍收跌103美元，报19365美元/吨。LME期锡收涨209美元，报49423美元/吨。",
+    "sort_time": "1777654572085094",
+    "showTime": "2026-05-02 00:56:12",
+    "time": "2026-05-02 00:56:12",
+    "publish_time": "2026-05-02 00:56:12",
+    "raw_data": {
+      "code": "202605023727485094",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654572085094",
+      "share": 0,
+      "showTime": "2026-05-02 00:56:12",
+      "stockList": [],
+      "summary": "【LME金属期货收盘涨跌不一】LME期铜收涨10美元，报12996美元/吨。LME期铝收涨48美元，报3522美元/吨。LME期锌收跌16美元，报3344美元/吨。LME期铅收跌6美元，报1949美元/吨。LME期镍收跌103美元，报19365美元/吨。LME期锡收涨209美元，报49423美元/吨。",
+      "title": "LME金属期货收盘涨跌不一",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727485094.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "镍"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "b49bec59150fa49e",
+    "code": "202605023727483353",
+    "title": "卡塔尔宣布将全面恢复全天候海上航运活动",
+    "summary": "【卡塔尔宣布将全面恢复全天候海上航运活动】当地时间5月1日，卡塔尔交通部发布公告称，自5月2日零时起，全面恢复全天候海上航运活动。公告指出，所有类型船只均可全天候开展航运作业，同时敦促相关船只确保各类必要的安全与安保设备齐全、运行正常，以保障航行安全。",
+    "content": "【卡塔尔宣布将全面恢复全天候海上航运活动】当地时间5月1日，卡塔尔交通部发布公告称，自5月2日零时起，全面恢复全天候海上航运活动。公告指出，所有类型船只均可全天候开展航运作业，同时敦促相关船只确保各类必要的安全与安保设备齐全、运行正常，以保障航行安全。",
+    "full_content": "【卡塔尔宣布将全面恢复全天候海上航运活动】当地时间5月1日，卡塔尔交通部发布公告称，自5月2日零时起，全面恢复全天候海上航运活动。公告指出，所有类型船只均可全天候开展航运作业，同时敦促相关船只确保各类必要的安全与安保设备齐全、运行正常，以保障航行安全。",
+    "sort_time": "1777654055083353",
+    "showTime": "2026-05-02 00:47:35",
+    "time": "2026-05-02 00:47:35",
+    "publish_time": "2026-05-02 00:47:35",
+    "raw_data": {
+      "code": "202605023727483353",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777654055083353",
+      "share": 0,
+      "showTime": "2026-05-02 00:47:35",
+      "stockList": [],
+      "summary": "【卡塔尔宣布将全面恢复全天候海上航运活动】当地时间5月1日，卡塔尔交通部发布公告称，自5月2日零时起，全面恢复全天候海上航运活动。公告指出，所有类型船只均可全天候开展航运作业，同时敦促相关船只确保各类必要的安全与安保设备齐全、运行正常，以保障航行安全。",
+      "title": "卡塔尔宣布将全面恢复全天候海上航运活动",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727483353.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "13acf8c33cbcc5c0",
+    "code": "202605023727482131",
+    "title": "美总统签署行政令 扩大对古巴制裁范围",
+    "summary": "【美总统签署行政令 扩大对古巴制裁范围】当地时间5月1日，总台记者获悉，美国总统特朗普签署行政令，扩大对古巴政府的制裁范围。美国官员表示，新制裁将针对支持古巴政府安全机构、涉及腐败等情况的个人与实体，同时覆盖相关代理人及支持者。此外，该行政令授权实施“次级制裁”，即对与被制裁对象进行交易或提供协助的第三方个人和机构同样施加制裁。据悉，目前尚未明确具体被列入制裁名单的对象。",
+    "content": "【美总统签署行政令 扩大对古巴制裁范围】当地时间5月1日，总台记者获悉，美国总统特朗普签署行政令，扩大对古巴政府的制裁范围。美国官员表示，新制裁将针对支持古巴政府安全机构、涉及腐败等情况的个人与实体，同时覆盖相关代理人及支持者。此外，该行政令授权实施“次级制裁”，即对与被制裁对象进行交易或提供协助的第三方个人和机构同样施加制裁。据悉，目前尚未明确具体被列入制裁名单的对象。",
+    "full_content": "【美总统签署行政令 扩大对古巴制裁范围】当地时间5月1日，总台记者获悉，美国总统特朗普签署行政令，扩大对古巴政府的制裁范围。美国官员表示，新制裁将针对支持古巴政府安全机构、涉及腐败等情况的个人与实体，同时覆盖相关代理人及支持者。此外，该行政令授权实施“次级制裁”，即对与被制裁对象进行交易或提供协助的第三方个人和机构同样施加制裁。据悉，目前尚未明确具体被列入制裁名单的对象。",
+    "sort_time": "1777653796082131",
+    "showTime": "2026-05-02 00:43:16",
+    "time": "2026-05-02 00:43:16",
+    "publish_time": "2026-05-02 00:43:16",
+    "raw_data": {
+      "code": "202605023727482131",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777653796082131",
+      "share": 4,
+      "showTime": "2026-05-02 00:43:16",
+      "stockList": [],
+      "summary": "【美总统签署行政令 扩大对古巴制裁范围】当地时间5月1日，总台记者获悉，美国总统特朗普签署行政令，扩大对古巴政府的制裁范围。美国官员表示，新制裁将针对支持古巴政府安全机构、涉及腐败等情况的个人与实体，同时覆盖相关代理人及支持者。此外，该行政令授权实施“次级制裁”，即对与被制裁对象进行交易或提供协助的第三方个人和机构同样施加制裁。据悉，目前尚未明确具体被列入制裁名单的对象。",
+      "title": "美总统签署行政令 扩大对古巴制裁范围",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727482131.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e1805b486260950c",
+    "code": "202605023727480994",
+    "title": "欧洲议会贸易委员会主席：特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的",
+    "summary": "欧洲议会贸易委员会主席朗格表示，美国总统特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的。",
+    "content": "欧洲议会贸易委员会主席朗格表示，美国总统特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的。",
+    "full_content": "欧洲议会贸易委员会主席朗格表示，美国总统特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的。",
+    "sort_time": "1777653516080994",
+    "showTime": "2026-05-02 00:38:36",
+    "time": "2026-05-02 00:38:36",
+    "publish_time": "2026-05-02 00:38:36",
+    "raw_data": {
+      "code": "202605023727480994",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777653516080994",
+      "share": 0,
+      "showTime": "2026-05-02 00:38:36",
+      "stockList": [
+        "90.BK1550",
+        "90.BK0484"
+      ],
+      "summary": "欧洲议会贸易委员会主席朗格表示，美国总统特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的。",
+      "title": "欧洲议会贸易委员会主席：特朗普（对欧盟输美汽车和卡车加征25%关税）的行为是不可接受的",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727480994.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1550",
+      "90.BK0484"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0370ff95e98358de",
+    "code": "202605023727479882",
+    "title": "特朗普称对伊朗最新提交的谈判方案“不满意”",
+    "summary": "【特朗普称对伊朗最新提交的谈判方案“不满意”】当地时间5月1日，美国总统特朗普表示，对伊朗最新提交的谈判方案“不满意”。",
+    "content": "【特朗普称对伊朗最新提交的谈判方案“不满意”】当地时间5月1日，美国总统特朗普表示，对伊朗最新提交的谈判方案“不满意”。",
+    "full_content": "【特朗普称对伊朗最新提交的谈判方案“不满意”】当地时间5月1日，美国总统特朗普表示，对伊朗最新提交的谈判方案“不满意”。",
+    "sort_time": "1777653354079882",
+    "showTime": "2026-05-02 00:35:54",
+    "time": "2026-05-02 00:35:54",
+    "publish_time": "2026-05-02 00:35:54",
+    "raw_data": {
+      "code": "202605023727479882",
+      "image": [],
+      "pinglun_Num": 28,
+      "realSort": "1777653354079882",
+      "share": 4,
+      "showTime": "2026-05-02 00:35:54",
+      "stockList": [],
+      "summary": "【特朗普称对伊朗最新提交的谈判方案“不满意”】当地时间5月1日，美国总统特朗普表示，对伊朗最新提交的谈判方案“不满意”。",
+      "title": "特朗普称对伊朗最新提交的谈判方案“不满意”",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727479882.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 28,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f25de08420e4f66b",
+    "code": "202605023727480125",
+    "title": "行情",
+    "summary": "【行情】Spirit股价跌幅收窄至26%，特朗普称正在考虑对精神航空进行救助。",
+    "content": "【行情】Spirit股价跌幅收窄至26%，特朗普称正在考虑对精神航空进行救助。",
+    "full_content": "【行情】Spirit股价跌幅收窄至26%，特朗普称正在考虑对精神航空进行救助。",
+    "sort_time": "1777653279080125",
+    "showTime": "2026-05-02 00:34:39",
+    "time": "2026-05-02 00:34:39",
+    "publish_time": "2026-05-02 00:34:39",
+    "raw_data": {
+      "code": "202605023727480125",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777653279080125",
+      "share": 0,
+      "showTime": "2026-05-02 00:34:39",
+      "stockList": [
+        "153.FLYYQ"
+      ],
+      "summary": "【行情】Spirit股价跌幅收窄至26%，特朗普称正在考虑对精神航空进行救助。",
+      "title": "Spirit股价跌幅收窄至26%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727480125.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "153.FLYYQ"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "6849b49a8990e5c5",
+    "code": "202605023727479616",
+    "title": "美国总统特朗普：正在考虑对精神航空进行救助",
+    "summary": "美国总统特朗普表示，正在考虑对精神航空进行救助，将于周五晚些时候发布公告。",
+    "content": "美国总统特朗普表示，正在考虑对精神航空进行救助，将于周五晚些时候发布公告。",
+    "full_content": "美国总统特朗普表示，正在考虑对精神航空进行救助，将于周五晚些时候发布公告。",
+    "sort_time": "1777653086079616",
+    "showTime": "2026-05-02 00:31:26",
+    "time": "2026-05-02 00:31:26",
+    "publish_time": "2026-05-02 00:31:26",
+    "raw_data": {
+      "code": "202605023727479616",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777653086079616",
+      "share": 0,
+      "showTime": "2026-05-02 00:31:26",
+      "stockList": [
+        "153.FLYYQ"
+      ],
+      "summary": "美国总统特朗普表示，正在考虑对精神航空进行救助，将于周五晚些时候发布公告。",
+      "title": "美国总统特朗普：正在考虑对精神航空进行救助",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727479616.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "153.FLYYQ"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "ba6ef5d18814c9cf",
+    "code": "202605023727475145",
+    "title": "以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”",
+    "summary": "【以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”】据以色列方面5月1日消息，以色列国防军军官声称，如果不能移除伊朗的浓缩铀材料，伊朗战事将是一场“巨大的失败”。",
+    "content": "【以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”】据以色列方面5月1日消息，以色列国防军军官声称，如果不能移除伊朗的浓缩铀材料，伊朗战事将是一场“巨大的失败”。",
+    "full_content": "【以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”】据以色列方面5月1日消息，以色列国防军军官声称，如果不能移除伊朗的浓缩铀材料，伊朗战事将是一场“巨大的失败”。",
+    "sort_time": "1777652265075145",
+    "showTime": "2026-05-02 00:17:45",
+    "time": "2026-05-02 00:17:45",
+    "publish_time": "2026-05-02 00:17:45",
+    "raw_data": {
+      "code": "202605023727475145",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1777652265075145",
+      "share": 0,
+      "showTime": "2026-05-02 00:17:45",
+      "stockList": [],
+      "summary": "【以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”】据以色列方面5月1日消息，以色列国防军军官声称，如果不能移除伊朗的浓缩铀材料，伊朗战事将是一场“巨大的失败”。",
+      "title": "以官员：以军将能否移除伊朗浓缩铀视为战事“成败关键”",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727475145.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "铀"
+        },
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109",
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "504b6b3ecdd14e41",
+    "code": "202605023727474981",
+    "title": "18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%",
+    "summary": "调查显示，18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%；6位分析师认为利率将维持在6.75%不变。",
+    "content": "调查显示，18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%；6位分析师认为利率将维持在6.75%不变。",
+    "full_content": "调查显示，18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%；6位分析师认为利率将维持在6.75%不变。",
+    "sort_time": "1777652255074981",
+    "showTime": "2026-05-02 00:17:35",
+    "time": "2026-05-02 00:17:35",
+    "publish_time": "2026-05-02 00:17:35",
+    "raw_data": {
+      "code": "202605023727474981",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777652255074981",
+      "share": 0,
+      "showTime": "2026-05-02 00:17:35",
+      "stockList": [],
+      "summary": "调查显示，18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%；6位分析师认为利率将维持在6.75%不变。",
+      "title": "18位分析师预计墨西哥中央银行将在5月7日将利率下调25个基点至6.50%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727474981.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "4796ea66e3e60c16",
+    "code": "202605023727475053",
+    "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
+    "summary": "【伊朗议会议长：伊朗将迎来新的建设阶段】当地时间5月1日，伊朗议会议长卡利巴夫表示，伊朗即将迎来发展与建设的新阶段，而国家的繁荣离不开广大劳动者的辛勤付出。",
+    "content": "【伊朗议会议长：伊朗将迎来新的建设阶段】当地时间5月1日，伊朗议会议长卡利巴夫表示，伊朗即将迎来发展与建设的新阶段，而国家的繁荣离不开广大劳动者的辛勤付出。",
+    "full_content": "【伊朗议会议长：伊朗将迎来新的建设阶段】当地时间5月1日，伊朗议会议长卡利巴夫表示，伊朗即将迎来发展与建设的新阶段，而国家的繁荣离不开广大劳动者的辛勤付出。",
+    "sort_time": "1777652145075053",
+    "showTime": "2026-05-02 00:15:45",
+    "time": "2026-05-02 00:15:45",
+    "publish_time": "2026-05-02 00:15:45",
+    "raw_data": {
+      "code": "202605023727475053",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1777652145075053",
+      "share": 3,
+      "showTime": "2026-05-02 00:15:45",
+      "stockList": [],
+      "summary": "【伊朗议会议长：伊朗将迎来新的建设阶段】当地时间5月1日，伊朗议会议长卡利巴夫表示，伊朗即将迎来发展与建设的新阶段，而国家的繁荣离不开广大劳动者的辛勤付出。",
+      "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727475053.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "02ac283feba77198",
+    "code": "202605023727474759",
+    "title": "泽连斯基称将启动对乌军的改革",
+    "summary": "【泽连斯基称将启动对乌军的改革】乌克兰总统泽连斯基5月1日在社交媒体发文称，将于6月启动对乌军的改革，重点是大幅增加前线作战人员的薪酬，尤其是步兵的薪酬。此外，从今年开始，乌军有可能让军事人员分阶段退役。",
+    "content": "【泽连斯基称将启动对乌军的改革】乌克兰总统泽连斯基5月1日在社交媒体发文称，将于6月启动对乌军的改革，重点是大幅增加前线作战人员的薪酬，尤其是步兵的薪酬。此外，从今年开始，乌军有可能让军事人员分阶段退役。",
+    "full_content": "【泽连斯基称将启动对乌军的改革】乌克兰总统泽连斯基5月1日在社交媒体发文称，将于6月启动对乌军的改革，重点是大幅增加前线作战人员的薪酬，尤其是步兵的薪酬。此外，从今年开始，乌军有可能让军事人员分阶段退役。",
+    "sort_time": "1777651535074759",
+    "showTime": "2026-05-02 00:05:35",
+    "time": "2026-05-02 00:05:35",
+    "publish_time": "2026-05-02 00:05:35",
+    "raw_data": {
+      "code": "202605023727474759",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777651535074759",
+      "share": 0,
+      "showTime": "2026-05-02 00:05:35",
+      "stockList": [],
+      "summary": "【泽连斯基称将启动对乌军的改革】乌克兰总统泽连斯基5月1日在社交媒体发文称，将于6月启动对乌军的改革，重点是大幅增加前线作战人员的薪酬，尤其是步兵的薪酬。此外，从今年开始，乌军有可能让军事人员分阶段退役。",
+      "title": "泽连斯基称将启动对乌军的改革",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605023727474759.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "f005ef99d8ab2d4f",
     "code": "202605013727473491",
     "title": "美国国防部与7家人工智能公司达成合作协议",
@@ -94,6 +766,59 @@
     "has_stock_mention": true,
     "comment_count": 45,
     "share_count": 54,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3dc76a366fb76de9",
+    "code": "202605013727473320",
+    "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+    "summary": "【特朗普：将于下周对欧盟输美汽车和卡车加征25%关税】当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。",
+    "content": "【特朗普：将于下周对欧盟输美汽车和卡车加征25%关税】当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。",
+    "full_content": "【特朗普：将于下周对欧盟输美汽车和卡车加征25%关税】当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。",
+    "sort_time": "1777650976073320",
+    "showTime": "2026-05-01 23:56:16",
+    "time": "2026-05-01 23:56:16",
+    "publish_time": "2026-05-01 23:56:16",
+    "raw_data": {
+      "code": "202605013727473320",
+      "image": [],
+      "pinglun_Num": 81,
+      "realSort": "1777650976073320",
+      "share": 82,
+      "showTime": "2026-05-01 23:56:16",
+      "stockList": [
+        "90.BK1211"
+      ],
+      "summary": "【特朗普：将于下周对欧盟输美汽车和卡车加征25%关税】当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。",
+      "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727473320.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1211"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 81,
+    "share_count": 82,
     "tags": {
       "industries": [
         {
