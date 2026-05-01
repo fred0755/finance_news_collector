@@ -1,5 +1,313 @@
 [
   {
+    "id": "f005ef99d8ab2d4f",
+    "code": "202605013727473491",
+    "title": "美国国防部与7家人工智能公司达成合作协议",
+    "summary": "【美国国防部与7家人工智能公司达成合作协议】美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。",
+    "content": "【美国国防部与7家人工智能公司达成合作协议】美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。",
+    "full_content": "【美国国防部与7家人工智能公司达成合作协议】美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。",
+    "sort_time": "1777651106073491",
+    "showTime": "2026-05-01 23:58:26",
+    "time": "2026-05-01 23:58:26",
+    "publish_time": "2026-05-01 23:58:26",
+    "raw_data": {
+      "code": "202605013727473491",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777651106073491",
+      "share": 4,
+      "showTime": "2026-05-01 23:58:26",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "【美国国防部与7家人工智能公司达成合作协议】美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。",
+      "title": "美国国防部与7家人工智能公司达成合作协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727473491.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "49c0ecfff9a1bca9",
+    "code": "202605013727473320",
+    "title": "美国总统特朗普：将把欧盟汽车关税税率提高至25%",
+    "summary": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+    "content": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+    "full_content": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+    "sort_time": "1777650976073320",
+    "showTime": "2026-05-01 23:56:16",
+    "time": "2026-05-01 23:56:16",
+    "publish_time": "2026-05-01 23:56:16",
+    "raw_data": {
+      "code": "202605013727473320",
+      "image": [],
+      "pinglun_Num": 45,
+      "realSort": "1777650976073320",
+      "share": 54,
+      "showTime": "2026-05-01 23:56:16",
+      "stockList": [
+        "90.BK0481"
+      ],
+      "summary": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+      "title": "美国总统特朗普：将把欧盟汽车关税税率提高至25%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727473320.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0481"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 45,
+    "share_count": 54,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7157ea7def394de7",
+    "code": "202605013727471096",
+    "title": "雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务",
+    "summary": "【雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务】雪佛龙首席执行官表示，受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。CPC管道正在满负荷运转，TCO工厂在今年剩余时间内将“完全可用”。",
+    "content": "【雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务】雪佛龙首席执行官表示，受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。CPC管道正在满负荷运转，TCO工厂在今年剩余时间内将“完全可用”。",
+    "full_content": "【雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务】雪佛龙首席执行官表示，受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。CPC管道正在满负荷运转，TCO工厂在今年剩余时间内将“完全可用”。",
+    "sort_time": "1777650002071096",
+    "showTime": "2026-05-01 23:40:02",
+    "time": "2026-05-01 23:40:02",
+    "publish_time": "2026-05-01 23:40:02",
+    "raw_data": {
+      "code": "202605013727471096",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777650002071096",
+      "share": 0,
+      "showTime": "2026-05-01 23:40:02",
+      "stockList": [
+        "106.CVX"
+      ],
+      "summary": "【雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务】雪佛龙首席执行官表示，受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。CPC管道正在满负荷运转，TCO工厂在今年剩余时间内将“完全可用”。",
+      "title": "雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727471096.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "106.CVX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "31738e57e0b24332",
+    "code": "202605013727470845",
+    "title": "丰田汽车北美公司2026年4月美国销量达222,378辆",
+    "summary": "丰田汽车北美公司2026年4月美国销量达222,378辆。",
+    "content": "丰田汽车北美公司2026年4月美国销量达222,378辆。",
+    "full_content": "丰田汽车北美公司2026年4月美国销量达222,378辆。",
+    "sort_time": "1777649694070845",
+    "showTime": "2026-05-01 23:34:54",
+    "time": "2026-05-01 23:34:54",
+    "publish_time": "2026-05-01 23:34:54",
+    "raw_data": {
+      "code": "202605013727470845",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777649694070845",
+      "share": 0,
+      "showTime": "2026-05-01 23:34:54",
+      "stockList": [
+        "106.TM"
+      ],
+      "summary": "丰田汽车北美公司2026年4月美国销量达222,378辆。",
+      "title": "丰田汽车北美公司2026年4月美国销量达222,378辆",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727470845.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.TM"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "aafa2a5c4c4ed8cf",
+    "code": "202605013727469183",
+    "title": "美国反垄断监管机构批准英特尔收购Sambanova Systems交易",
+    "summary": "文件显示，美国反垄断监管机构批准英特尔收购SambanovaSystems交易。",
+    "content": "文件显示，美国反垄断监管机构批准英特尔收购SambanovaSystems交易。",
+    "full_content": "文件显示，美国反垄断监管机构批准英特尔收购SambanovaSystems交易。",
+    "sort_time": "1777649076069183",
+    "showTime": "2026-05-01 23:24:36",
+    "time": "2026-05-01 23:24:36",
+    "publish_time": "2026-05-01 23:24:36",
+    "raw_data": {
+      "code": "202605013727469183",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777649076069183",
+      "share": 6,
+      "showTime": "2026-05-01 23:24:36",
+      "stockList": [
+        "105.INTC"
+      ],
+      "summary": "文件显示，美国反垄断监管机构批准英特尔收购SambanovaSystems交易。",
+      "title": "美国反垄断监管机构批准英特尔收购Sambanova Systems交易",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727469183.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.INTC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d4e305120d56663b",
+    "code": "202605013727459761",
+    "title": "印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善",
+    "summary": "【印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善】印度央行行长表示，如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+    "content": "【印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善】印度央行行长表示，如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+    "full_content": "【印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善】印度央行行长表示，如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+    "sort_time": "1777648581059761",
+    "showTime": "2026-05-01 23:16:21",
+    "time": "2026-05-01 23:16:21",
+    "publish_time": "2026-05-01 23:16:21",
+    "raw_data": {
+      "code": "202605013727459761",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777648581059761",
+      "share": 0,
+      "showTime": "2026-05-01 23:16:21",
+      "stockList": [],
+      "summary": "【印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善】印度央行行长表示，如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+      "title": "印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727459761.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
     "id": "eebdc2df40860f9a",
     "code": "202605013727443927",
     "title": "英国石油公司表示将重新评估其在北海地区的资产 新任首席执行官正着眼于资产的处置事宜",
@@ -132,6 +440,57 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "ab4a796253857385",
+    "code": "202605013727440317",
+    "title": "美国精神航空准备停运",
+    "summary": "【美国精神航空准备停运】据报道，美国精神航空（SpiritAirlines）准备停运，精神航空债券持有人不赞成救援计划。",
+    "content": "【美国精神航空准备停运】据报道，美国精神航空（SpiritAirlines）准备停运，精神航空债券持有人不赞成救援计划。",
+    "full_content": "【美国精神航空准备停运】据报道，美国精神航空（SpiritAirlines）准备停运，精神航空债券持有人不赞成救援计划。",
+    "sort_time": "1777647656040317",
+    "showTime": "2026-05-01 23:00:56",
+    "time": "2026-05-01 23:00:56",
+    "publish_time": "2026-05-01 23:00:56",
+    "raw_data": {
+      "code": "202605013727440317",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777647656040317",
+      "share": 0,
+      "showTime": "2026-05-01 23:00:56",
+      "stockList": [
+        "90.BK0480"
+      ],
+      "summary": "【美国精神航空准备停运】据报道，美国精神航空（SpiritAirlines）准备停运，精神航空债券持有人不赞成救援计划。",
+      "title": "美国精神航空准备停运",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727440317.html",
+    "category": "债券",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0480"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],

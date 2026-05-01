@@ -1,5 +1,313 @@
 [
   {
+    "id": "f005ef99d8ab2d4f",
+    "code": "202605013727473491",
+    "title": "美国国防部与7家人工智能公司达成合作协议",
+    "summary": "【美国国防部与7家人工智能公司达成合作协议】美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。",
+    "content": "【美国国防部与7家人工智能公司达成合作协议】美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。",
+    "full_content": "【美国国防部与7家人工智能公司达成合作协议】美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。",
+    "sort_time": "1777651106073491",
+    "showTime": "2026-05-01 23:58:26",
+    "time": "2026-05-01 23:58:26",
+    "publish_time": "2026-05-01 23:58:26",
+    "raw_data": {
+      "code": "202605013727473491",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777651106073491",
+      "share": 4,
+      "showTime": "2026-05-01 23:58:26",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "【美国国防部与7家人工智能公司达成合作协议】美国国防部5月1日宣布与7家领先的人工智能公司达成协议，旨在将这些公司先进的人工智能技术部署至国防部的机密网络中，用于合法的作战行动。",
+      "title": "美国国防部与7家人工智能公司达成合作协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727473491.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "49c0ecfff9a1bca9",
+    "code": "202605013727473320",
+    "title": "美国总统特朗普：将把欧盟汽车关税税率提高至25%",
+    "summary": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+    "content": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+    "full_content": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+    "sort_time": "1777650976073320",
+    "showTime": "2026-05-01 23:56:16",
+    "time": "2026-05-01 23:56:16",
+    "publish_time": "2026-05-01 23:56:16",
+    "raw_data": {
+      "code": "202605013727473320",
+      "image": [],
+      "pinglun_Num": 45,
+      "realSort": "1777650976073320",
+      "share": 54,
+      "showTime": "2026-05-01 23:56:16",
+      "stockList": [
+        "90.BK0481"
+      ],
+      "summary": "【美国总统特朗普：将把欧盟汽车关税税率提高至25%】特朗普发文称：“下周起我将对欧盟出口到美国的轿车和卡车征收更高关税。”他表示，关税税率将提高至25%。特朗普还补充称：“如果它们在美国工厂生产汽车和卡车，将不会征收关税”。",
+      "title": "美国总统特朗普：将把欧盟汽车关税税率提高至25%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727473320.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0481"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 45,
+    "share_count": 54,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7157ea7def394de7",
+    "code": "202605013727471096",
+    "title": "雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务",
+    "summary": "【雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务】雪佛龙首席执行官表示，受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。CPC管道正在满负荷运转，TCO工厂在今年剩余时间内将“完全可用”。",
+    "content": "【雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务】雪佛龙首席执行官表示，受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。CPC管道正在满负荷运转，TCO工厂在今年剩余时间内将“完全可用”。",
+    "full_content": "【雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务】雪佛龙首席执行官表示，受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。CPC管道正在满负荷运转，TCO工厂在今年剩余时间内将“完全可用”。",
+    "sort_time": "1777650002071096",
+    "showTime": "2026-05-01 23:40:02",
+    "time": "2026-05-01 23:40:02",
+    "publish_time": "2026-05-01 23:40:02",
+    "raw_data": {
+      "code": "202605013727471096",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777650002071096",
+      "share": 0,
+      "showTime": "2026-05-01 23:40:02",
+      "stockList": [
+        "106.CVX"
+      ],
+      "summary": "【雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务】雪佛龙首席执行官表示，受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。CPC管道正在满负荷运转，TCO工厂在今年剩余时间内将“完全可用”。",
+      "title": "雪佛龙首席执行官：公司正以更快速度收回在委内瑞拉的债务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727471096.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "106.CVX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "31738e57e0b24332",
+    "code": "202605013727470845",
+    "title": "丰田汽车北美公司2026年4月美国销量达222,378辆",
+    "summary": "丰田汽车北美公司2026年4月美国销量达222,378辆。",
+    "content": "丰田汽车北美公司2026年4月美国销量达222,378辆。",
+    "full_content": "丰田汽车北美公司2026年4月美国销量达222,378辆。",
+    "sort_time": "1777649694070845",
+    "showTime": "2026-05-01 23:34:54",
+    "time": "2026-05-01 23:34:54",
+    "publish_time": "2026-05-01 23:34:54",
+    "raw_data": {
+      "code": "202605013727470845",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777649694070845",
+      "share": 0,
+      "showTime": "2026-05-01 23:34:54",
+      "stockList": [
+        "106.TM"
+      ],
+      "summary": "丰田汽车北美公司2026年4月美国销量达222,378辆。",
+      "title": "丰田汽车北美公司2026年4月美国销量达222,378辆",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727470845.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.TM"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "aafa2a5c4c4ed8cf",
+    "code": "202605013727469183",
+    "title": "美国反垄断监管机构批准英特尔收购Sambanova Systems交易",
+    "summary": "文件显示，美国反垄断监管机构批准英特尔收购SambanovaSystems交易。",
+    "content": "文件显示，美国反垄断监管机构批准英特尔收购SambanovaSystems交易。",
+    "full_content": "文件显示，美国反垄断监管机构批准英特尔收购SambanovaSystems交易。",
+    "sort_time": "1777649076069183",
+    "showTime": "2026-05-01 23:24:36",
+    "time": "2026-05-01 23:24:36",
+    "publish_time": "2026-05-01 23:24:36",
+    "raw_data": {
+      "code": "202605013727469183",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777649076069183",
+      "share": 6,
+      "showTime": "2026-05-01 23:24:36",
+      "stockList": [
+        "105.INTC"
+      ],
+      "summary": "文件显示，美国反垄断监管机构批准英特尔收购SambanovaSystems交易。",
+      "title": "美国反垄断监管机构批准英特尔收购Sambanova Systems交易",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727469183.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.INTC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d4e305120d56663b",
+    "code": "202605013727459761",
+    "title": "印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善",
+    "summary": "【印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善】印度央行行长表示，如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+    "content": "【印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善】印度央行行长表示，如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+    "full_content": "【印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善】印度央行行长表示，如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+    "sort_time": "1777648581059761",
+    "showTime": "2026-05-01 23:16:21",
+    "time": "2026-05-01 23:16:21",
+    "publish_time": "2026-05-01 23:16:21",
+    "raw_data": {
+      "code": "202605013727459761",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777648581059761",
+      "share": 0,
+      "showTime": "2026-05-01 23:16:21",
+      "stockList": [],
+      "summary": "【印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善】印度央行行长表示，如果要为利益相关者提供有效的利率对冲选择，场外衍生品市场需要改善。",
+      "title": "印度央行行长表示：如果要为利益相关者提供有效的利率对冲选择 场外衍生品市场需要改善",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605013727459761.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
     "id": "eebdc2df40860f9a",
     "code": "202605013727443927",
     "title": "英国石油公司表示将重新评估其在北海地区的资产 新任首席执行官正着眼于资产的处置事宜",
@@ -13,7 +321,7 @@
     "raw_data": {
       "code": "202605013727443927",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1777648015043927",
       "share": 0,
       "showTime": "2026-05-01 23:06:55",
@@ -33,7 +341,7 @@
       "106.BP"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -98,12 +406,12 @@
     }
   },
   {
-    "id": "d932838fc933d1ae",
+    "id": "ab4a796253857385",
     "code": "202605013727440317",
-    "title": "据报道，美国精神航空准备停运 精神航空债券持有人不赞成救援计划",
-    "summary": "【据报道，美国精神航空准备停运 精神航空债券持有人不赞成救援计划】据报道，美国精神航空（Spirit Airlines）准备停运，精神航空债券持有人不赞成救援计划。",
-    "content": "【据报道，美国精神航空准备停运 精神航空债券持有人不赞成救援计划】据报道，美国精神航空（Spirit Airlines）准备停运，精神航空债券持有人不赞成救援计划。",
-    "full_content": "【据报道，美国精神航空准备停运 精神航空债券持有人不赞成救援计划】据报道，美国精神航空（Spirit Airlines）准备停运，精神航空债券持有人不赞成救援计划。",
+    "title": "美国精神航空准备停运",
+    "summary": "【美国精神航空准备停运】据报道，美国精神航空（SpiritAirlines）准备停运，精神航空债券持有人不赞成救援计划。",
+    "content": "【美国精神航空准备停运】据报道，美国精神航空（SpiritAirlines）准备停运，精神航空债券持有人不赞成救援计划。",
+    "full_content": "【美国精神航空准备停运】据报道，美国精神航空（SpiritAirlines）准备停运，精神航空债券持有人不赞成救援计划。",
     "sort_time": "1777647656040317",
     "showTime": "2026-05-01 23:00:56",
     "time": "2026-05-01 23:00:56",
@@ -111,15 +419,15 @@
     "raw_data": {
       "code": "202605013727440317",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1777647656040317",
       "share": 0,
       "showTime": "2026-05-01 23:00:56",
       "stockList": [
         "90.BK0480"
       ],
-      "summary": "【据报道，美国精神航空准备停运 精神航空债券持有人不赞成救援计划】据报道，美国精神航空（Spirit Airlines）准备停运，精神航空债券持有人不赞成救援计划。",
-      "title": "据报道，美国精神航空准备停运 精神航空债券持有人不赞成救援计划",
+      "summary": "【美国精神航空准备停运】据报道，美国精神航空（SpiritAirlines）准备停运，精神航空债券持有人不赞成救援计划。",
+      "title": "美国精神航空准备停运",
       "titleColor": 0
     },
     "source": "东方财富快讯",
@@ -131,7 +439,7 @@
       "90.BK0480"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -162,9 +470,9 @@
     "raw_data": {
       "code": "202605013727439878",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1777647589039878",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-05-01 22:59:49",
       "stockList": [
         "105.INTC"
@@ -182,8 +490,8 @@
       "105.INTC"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 5,
+    "comment_count": 3,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -319,7 +627,7 @@
     "raw_data": {
       "code": "202605013727415342",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1777645878015342",
       "share": 2,
       "showTime": "2026-05-01 22:31:18",
@@ -339,7 +647,7 @@
       "105.SNDK"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 4,
     "share_count": 2,
     "tags": {
       "industries": [
@@ -380,9 +688,9 @@
     "raw_data": {
       "code": "202605013727411654",
       "image": [],
-      "pinglun_Num": 60,
+      "pinglun_Num": 81,
       "realSort": "1777645639011654",
-      "share": 233,
+      "share": 292,
       "showTime": "2026-05-01 22:27:19",
       "stockList": [
         "1007.BK000339"
@@ -400,8 +708,8 @@
       "1007.BK000339"
     ],
     "has_stock_mention": true,
-    "comment_count": 60,
-    "share_count": 233,
+    "comment_count": 81,
+    "share_count": 292,
     "tags": {
       "industries": [],
       "concepts": [
@@ -431,7 +739,7 @@
     "raw_data": {
       "code": "202605013727410632",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 10,
       "realSort": "1777645482010632",
       "share": 11,
       "showTime": "2026-05-01 22:24:42",
@@ -447,7 +755,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 10,
     "share_count": 11,
     "tags": {
       "industries": [],
@@ -566,7 +874,7 @@
     "raw_data": {
       "code": "202605013727408857",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1777645133008857",
       "share": 8,
       "showTime": "2026-05-01 22:18:53",
@@ -586,7 +894,7 @@
       "105.MU"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 8,
     "tags": {
       "industries": [],
@@ -701,7 +1009,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1777644709008541",
-      "share": 3,
+      "share": 6,
       "showTime": "2026-05-01 22:11:49",
       "stockList": [],
       "summary": "【报道称自二战结束以来 美国债首次超过经济总量】据美国福克斯商业频道援引美国预算相关文件报道，截至3月底，该国国债的总额超过了GDP总额，这是二战结束以来首次出现此类情况。据美国商务部经济分析局估计，截至3月31日，美国的债务总额约为31.27万亿美元。与此同时，当时美国GDP的规模估计为31.22万亿美元。据报道，上一次出现此类情况是在1946年，当时美国债占GDP的比例为106%。",
@@ -716,7 +1024,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 5,
-    "share_count": 3,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -789,9 +1097,9 @@
     "raw_data": {
       "code": "202605013727408384",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 13,
       "realSort": "1777644575008384",
-      "share": 14,
+      "share": 17,
       "showTime": "2026-05-01 22:09:35",
       "stockList": [],
       "summary": "【美股光通信股集体走高，lumentum涨逾7%，AAOI涨逾6%，双双创新高；Coherent涨约4%。】美股光通信股集体走高，lumentum涨逾7%，AAOI涨逾6%，双双创新高；Coherent涨约4%。",
@@ -805,8 +1113,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 14,
+    "comment_count": 13,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1347,7 +1655,7 @@
       "image": [],
       "pinglun_Num": 9,
       "realSort": "1777642912099358",
-      "share": 20,
+      "share": 22,
       "showTime": "2026-05-01 21:41:52",
       "stockList": [
         "105.SNDK"
@@ -1366,7 +1674,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 9,
-    "share_count": 20,
+    "share_count": 22,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1390,7 +1698,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1777642886099065",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-05-01 21:41:26",
       "stockList": [],
       "summary": "美股恐慌指数VIX最新报16.72点，为两个多月以来最低水平。",
@@ -1405,7 +1713,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 4,
-    "share_count": 7,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1788,7 +2096,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1777641660094951",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-05-01 21:21:00",
       "stockList": [
         "90.BK0803",
@@ -1809,7 +2117,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 8,
+    "share_count": 9,
     "tags": {
       "industries": [
         {
@@ -1908,7 +2216,7 @@
       "image": [],
       "pinglun_Num": 13,
       "realSort": "1777640621094466",
-      "share": 44,
+      "share": 48,
       "showTime": "2026-05-01 21:03:41",
       "stockList": [
         "90.BK0800",
@@ -1929,7 +2237,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 13,
-    "share_count": 44,
+    "share_count": 48,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1973,7 +2281,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1777639687094388",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-05-01 20:48:07",
       "stockList": [
         "90.BK0830"
@@ -1992,7 +2300,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 3,
-    "share_count": 6,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2134,7 +2442,7 @@
       "image": [],
       "pinglun_Num": 13,
       "realSort": "1777638975079047",
-      "share": 21,
+      "share": 24,
       "showTime": "2026-05-01 20:36:15",
       "stockList": [
         "90.BK1408",
@@ -2155,7 +2463,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 13,
-    "share_count": 21,
+    "share_count": 24,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2175,284 +2483,6 @@
         "C012",
         "C604"
       ]
-    }
-  },
-  {
-    "id": "537f4f48dcd8ea7a",
-    "code": "202605013727370653",
-    "title": "伊朗递交最新谈判方案",
-    "summary": "【伊朗递交最新谈判方案】据伊朗官方媒体今天(5月1日)报道，伊朗已于昨天(4月30日)向斡旋方巴基斯坦递交了与美国谈判的最新方案。",
-    "content": "【伊朗递交最新谈判方案】据伊朗官方媒体今天(5月1日)报道，伊朗已于昨天(4月30日)向斡旋方巴基斯坦递交了与美国谈判的最新方案。",
-    "full_content": "【伊朗递交最新谈判方案】据伊朗官方媒体今天(5月1日)报道，伊朗已于昨天(4月30日)向斡旋方巴基斯坦递交了与美国谈判的最新方案。",
-    "sort_time": "1777638311070653",
-    "showTime": "2026-05-01 20:25:11",
-    "time": "2026-05-01 20:25:11",
-    "publish_time": "2026-05-01 20:25:11",
-    "raw_data": {
-      "code": "202605013727370653",
-      "image": [],
-      "pinglun_Num": 115,
-      "realSort": "1777638311070653",
-      "share": 100,
-      "showTime": "2026-05-01 20:25:11",
-      "stockList": [],
-      "summary": "【伊朗递交最新谈判方案】据伊朗官方媒体今天(5月1日)报道，伊朗已于昨天(4月30日)向斡旋方巴基斯坦递交了与美国谈判的最新方案。",
-      "title": "伊朗递交最新谈判方案",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727370653.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 115,
-    "share_count": 100,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "da5d69b78c56744f",
-    "code": "202605013727365613",
-    "title": "纳斯达克100指数期货抹去早前跌幅 转为上涨",
-    "summary": "纳斯达克100指数期货抹去早前跌幅，转为上涨；标普500指数期货升0.4%，至盘中高点。",
-    "content": "纳斯达克100指数期货抹去早前跌幅，转为上涨；标普500指数期货升0.4%，至盘中高点。",
-    "full_content": "纳斯达克100指数期货抹去早前跌幅，转为上涨；标普500指数期货升0.4%，至盘中高点。",
-    "sort_time": "1777637904065613",
-    "showTime": "2026-05-01 20:18:24",
-    "time": "2026-05-01 20:18:24",
-    "publish_time": "2026-05-01 20:18:24",
-    "raw_data": {
-      "code": "202605013727365613",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1777637904065613",
-      "share": 2,
-      "showTime": "2026-05-01 20:18:24",
-      "stockList": [],
-      "summary": "纳斯达克100指数期货抹去早前跌幅，转为上涨；标普500指数期货升0.4%，至盘中高点。",
-      "title": "纳斯达克100指数期货抹去早前跌幅 转为上涨",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727365613.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "7ac8f8c25d819f96",
-    "code": "202605013727365561",
-    "title": "WTI原油期货跌幅扩大至2%",
-    "summary": "WTI原油期货跌幅扩大至2%，报102.847美元/桶。",
-    "content": "WTI原油期货跌幅扩大至2%，报102.847美元/桶。",
-    "full_content": "WTI原油期货跌幅扩大至2%，报102.847美元/桶。",
-    "sort_time": "1777637837065561",
-    "showTime": "2026-05-01 20:17:17",
-    "time": "2026-05-01 20:17:17",
-    "publish_time": "2026-05-01 20:17:17",
-    "raw_data": {
-      "code": "202605013727365561",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1777637837065561",
-      "share": 4,
-      "showTime": "2026-05-01 20:17:17",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "WTI原油期货跌幅扩大至2%，报102.847美元/桶。",
-      "title": "WTI原油期货跌幅扩大至2%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727365561.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "1a4b4e602baea0c7",
-    "code": "202605013727348164",
-    "title": "算力基建四大方向“圈定”！相关个股已涨超400%",
-    "summary": "【算力基建四大方向“圈定”！相关个股已涨超400%】国家数据局近日透露，下一步将聚焦“东数西算”工程、一体化算力网监测调度、算电协同、边缘算力建设四大方向，为人工智能高速发展筑牢底座。记者注意到，在人工智能高速发展的大背景下，今年以来，A股市场上算力基建相关概念股受到持续关注，利通电子、长光华芯、协创数据等个股自今年年初以来涨幅明显。其中，利通电子累计涨幅达441.88%。",
-    "content": "【算力基建四大方向“圈定”！相关个股已涨超400%】国家数据局近日透露，下一步将聚焦“东数西算”工程、一体化算力网监测调度、算电协同、边缘算力建设四大方向，为人工智能高速发展筑牢底座。记者注意到，在人工智能高速发展的大背景下，今年以来，A股市场上算力基建相关概念股受到持续关注，利通电子、长光华芯、协创数据等个股自今年年初以来涨幅明显。其中，利通电子累计涨幅达441.88%。",
-    "full_content": "【算力基建四大方向“圈定”！相关个股已涨超400%】国家数据局近日透露，下一步将聚焦“东数西算”工程、一体化算力网监测调度、算电协同、边缘算力建设四大方向，为人工智能高速发展筑牢底座。记者注意到，在人工智能高速发展的大背景下，今年以来，A股市场上算力基建相关概念股受到持续关注，利通电子、长光华芯、协创数据等个股自今年年初以来涨幅明显。其中，利通电子累计涨幅达441.88%。",
-    "sort_time": "1777637760048164",
-    "showTime": "2026-05-01 20:16:00",
-    "time": "2026-05-01 20:16:00",
-    "publish_time": "2026-05-01 20:16:00",
-    "raw_data": {
-      "code": "202605013727348164",
-      "image": [],
-      "pinglun_Num": 60,
-      "realSort": "1777637760048164",
-      "share": 41,
-      "showTime": "2026-05-01 20:16:00",
-      "stockList": [
-        "90.BK1134",
-        "90.BK0425"
-      ],
-      "summary": "【算力基建四大方向“圈定”！相关个股已涨超400%】国家数据局近日透露，下一步将聚焦“东数西算”工程、一体化算力网监测调度、算电协同、边缘算力建设四大方向，为人工智能高速发展筑牢底座。记者注意到，在人工智能高速发展的大背景下，今年以来，A股市场上算力基建相关概念股受到持续关注，利通电子、长光华芯、协创数据等个股自今年年初以来涨幅明显。其中，利通电子累计涨幅达441.88%。",
-      "title": "算力基建四大方向“圈定”！相关个股已涨超400%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727348164.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1134",
-      "90.BK0425"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 60,
-    "share_count": 41,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "069a848d6f16ce5d",
-    "code": "202605013727353466",
-    "title": "中信建投：霍尔木兹海峡封锁是核心矛盾 阿联酋退出OPEC对油价的压制短期效果有限",
-    "summary": "【中信建投：霍尔木兹海峡封锁是核心矛盾 阿联酋退出OPEC对油价的压制短期效果有限】对于阿联酋退出OPEC，中信建投分析师表示，此前，卡塔尔、安哥拉等国均退出OPEC，油价短期扰动，中期影响有限，核心在于是否影响市场对减产能力的判断。但其体量和逻辑与阿联酋差异较大，安哥拉产能较小，卡塔尔主因能源战略调整（转向天然气）。阿联酋退出有其特殊性：核心海湾产油国、较强增产能力（约占OPEC总产量12%）、对OPEC+配额框架的潜在突破意义。",
-    "content": "【中信建投：霍尔木兹海峡封锁是核心矛盾 阿联酋退出OPEC对油价的压制短期效果有限】对于阿联酋退出OPEC，中信建投分析师表示，此前，卡塔尔、安哥拉等国均退出OPEC，油价短期扰动，中期影响有限，核心在于是否影响市场对减产能力的判断。但其体量和逻辑与阿联酋差异较大，安哥拉产能较小，卡塔尔主因能源战略调整（转向天然气）。阿联酋退出有其特殊性：核心海湾产油国、较强增产能力（约占OPEC总产量12%）、对OPEC+配额框架的潜在突破意义。",
-    "full_content": "【中信建投：霍尔木兹海峡封锁是核心矛盾 阿联酋退出OPEC对油价的压制短期效果有限】对于阿联酋退出OPEC，中信建投分析师表示，此前，卡塔尔、安哥拉等国均退出OPEC，油价短期扰动，中期影响有限，核心在于是否影响市场对减产能力的判断。但其体量和逻辑与阿联酋差异较大，安哥拉产能较小，卡塔尔主因能源战略调整（转向天然气）。阿联酋退出有其特殊性：核心海湾产油国、较强增产能力（约占OPEC总产量12%）、对OPEC+配额框架的潜在突破意义。",
-    "sort_time": "1777637407053466",
-    "showTime": "2026-05-01 20:10:07",
-    "time": "2026-05-01 20:10:07",
-    "publish_time": "2026-05-01 20:10:07",
-    "raw_data": {
-      "code": "202605013727353466",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777637407053466",
-      "share": 1,
-      "showTime": "2026-05-01 20:10:07",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "【中信建投：霍尔木兹海峡封锁是核心矛盾 阿联酋退出OPEC对油价的压制短期效果有限】对于阿联酋退出OPEC，中信建投分析师表示，此前，卡塔尔、安哥拉等国均退出OPEC，油价短期扰动，中期影响有限，核心在于是否影响市场对减产能力的判断。但其体量和逻辑与阿联酋差异较大，安哥拉产能较小，卡塔尔主因能源战略调整（转向天然气）。阿联酋退出有其特殊性：核心海湾产油国、较强增产能力（约占OPEC总产量12%）、对OPEC+配额框架的潜在突破意义。",
-      "title": "中信建投：霍尔木兹海峡封锁是核心矛盾 阿联酋退出OPEC对油价的压制短期效果有限",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727353466.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
-    }
-  },
-  {
-    "id": "afe21519e610767d",
-    "code": "202605013727347450",
-    "title": "美联储哈马克：联邦公开市场委员会（FOMC）的宽松倾向已不再合适",
-    "summary": "美联储的哈马克表示，联邦公开市场委员会（FOMC）的宽松倾向已不再合适。",
-    "content": "美联储的哈马克表示，联邦公开市场委员会（FOMC）的宽松倾向已不再合适。",
-    "full_content": "美联储的哈马克表示，联邦公开市场委员会（FOMC）的宽松倾向已不再合适。",
-    "sort_time": "1777637393047450",
-    "showTime": "2026-05-01 20:09:53",
-    "time": "2026-05-01 20:09:53",
-    "publish_time": "2026-05-01 20:09:53",
-    "raw_data": {
-      "code": "202605013727347450",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1777637393047450",
-      "share": 6,
-      "showTime": "2026-05-01 20:09:53",
-      "stockList": [],
-      "summary": "美联储的哈马克表示，联邦公开市场委员会（FOMC）的宽松倾向已不再合适。",
-      "title": "美联储哈马克：联邦公开市场委员会（FOMC）的宽松倾向已不再合适",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605013727347450.html",
-    "category": "国际",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
