@@ -1,5 +1,563 @@
 [
   {
+    "id": "cbaba8792e599dca",
+    "code": "202605053727804290",
+    "title": "Anthropic与FIS正在开发一款人工智能代理 旨在帮助银行打击金融犯罪行为",
+    "summary": "Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
+    "content": "Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
+    "full_content": "Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
+    "sort_time": "1777928589004290",
+    "showTime": "2026-05-05 05:03:09",
+    "time": "2026-05-05 05:03:09",
+    "publish_time": "2026-05-05 05:03:09",
+    "raw_data": {
+      "code": "202605053727804290",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777928589004290",
+      "share": 0,
+      "showTime": "2026-05-05 05:03:09",
+      "stockList": [
+        "90.BK1283",
+        "90.BK0800"
+      ],
+      "summary": "Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
+      "title": "Anthropic与FIS正在开发一款人工智能代理 旨在帮助银行打击金融犯罪行为",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804290.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "6e54895ad1045ee0",
+    "code": "202605053727804524",
+    "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+    "summary": "【特朗普称美国与伊朗处于“迷你战争”状态】当地时间5月4日，央视记者获悉，美国总统特朗普在白宫小企业峰会活动上表示，美国当前与伊朗的冲突已构成一场“战争”，并称之为“迷你战争”。",
+    "content": "【特朗普称美国与伊朗处于“迷你战争”状态】当地时间5月4日，央视记者获悉，美国总统特朗普在白宫小企业峰会活动上表示，美国当前与伊朗的冲突已构成一场“战争”，并称之为“迷你战争”。",
+    "full_content": "【特朗普称美国与伊朗处于“迷你战争”状态】当地时间5月4日，央视记者获悉，美国总统特朗普在白宫小企业峰会活动上表示，美国当前与伊朗的冲突已构成一场“战争”，并称之为“迷你战争”。",
+    "sort_time": "1777928505004524",
+    "showTime": "2026-05-05 05:01:45",
+    "time": "2026-05-05 05:01:45",
+    "publish_time": "2026-05-05 05:01:45",
+    "raw_data": {
+      "code": "202605053727804524",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777928505004524",
+      "share": 0,
+      "showTime": "2026-05-05 05:01:45",
+      "stockList": [],
+      "summary": "【特朗普称美国与伊朗处于“迷你战争”状态】当地时间5月4日，央视记者获悉，美国总统特朗普在白宫小企业峰会活动上表示，美国当前与伊朗的冲突已构成一场“战争”，并称之为“迷你战争”。",
+      "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804524.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7cf5881d753ab03b",
+    "code": "202605053727804319",
+    "title": "COMEX黄金期货跌2.53%",
+    "summary": "COMEX黄金期货跌2.53%，报4526.7美元/盎司；COMEX白银期货跌4.23%，报73.2美元/盎司。",
+    "content": "COMEX黄金期货跌2.53%，报4526.7美元/盎司；COMEX白银期货跌4.23%，报73.2美元/盎司。",
+    "full_content": "COMEX黄金期货跌2.53%，报4526.7美元/盎司；COMEX白银期货跌4.23%，报73.2美元/盎司。",
+    "sort_time": "1777928501004319",
+    "showTime": "2026-05-05 05:01:41",
+    "time": "2026-05-05 05:01:41",
+    "publish_time": "2026-05-05 05:01:41",
+    "raw_data": {
+      "code": "202605053727804319",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777928501004319",
+      "share": 0,
+      "showTime": "2026-05-05 05:01:41",
+      "stockList": [],
+      "summary": "COMEX黄金期货跌2.53%，报4526.7美元/盎司；COMEX白银期货跌4.23%，报73.2美元/盎司。",
+      "title": "COMEX黄金期货跌2.53%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804319.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "67a0fac452e9afdb",
+    "code": "202605053727804493",
+    "title": "伊朗官员称霍尔木兹海峡目前完全处于该国管控之下",
+    "summary": "【伊朗官员称霍尔木兹海峡目前完全处于该国管控之下】当地时间4日，总台记者获悉，一名伊朗高级安全官员称，霍尔木兹海峡目前完全处于伊朗的管控之下。伊朗武装力量向美国方面传达的信息非常明确：只要推进，就会成为打击目标。",
+    "content": "【伊朗官员称霍尔木兹海峡目前完全处于该国管控之下】当地时间4日，总台记者获悉，一名伊朗高级安全官员称，霍尔木兹海峡目前完全处于伊朗的管控之下。伊朗武装力量向美国方面传达的信息非常明确：只要推进，就会成为打击目标。",
+    "full_content": "【伊朗官员称霍尔木兹海峡目前完全处于该国管控之下】当地时间4日，总台记者获悉，一名伊朗高级安全官员称，霍尔木兹海峡目前完全处于伊朗的管控之下。伊朗武装力量向美国方面传达的信息非常明确：只要推进，就会成为打击目标。",
+    "sort_time": "1777928397004493",
+    "showTime": "2026-05-05 04:59:57",
+    "time": "2026-05-05 04:59:57",
+    "publish_time": "2026-05-05 04:59:57",
+    "raw_data": {
+      "code": "202605053727804493",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777928397004493",
+      "share": 0,
+      "showTime": "2026-05-05 04:59:57",
+      "stockList": [],
+      "summary": "【伊朗官员称霍尔木兹海峡目前完全处于该国管控之下】当地时间4日，总台记者获悉，一名伊朗高级安全官员称，霍尔木兹海峡目前完全处于伊朗的管控之下。伊朗武装力量向美国方面传达的信息非常明确：只要推进，就会成为打击目标。",
+      "title": "伊朗官员称霍尔木兹海峡目前完全处于该国管控之下",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804493.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3797a11ab2abf589",
+    "code": "202605053727804154",
+    "title": "白宫因附近发生枪击短暂封锁",
+    "summary": "【白宫因附近发生枪击短暂封锁】美国白宫当地时间5月4日下午因附近发生枪击事件一度短暂实施封锁。美国特勤局发布声明称，“特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。一人被执法人员开枪击中，目前具体情况尚不清楚。”据了解，这一事发地点距离白宫仅有约一英里，邻近华盛顿纪念碑。据在白宫的美媒记者通过社交媒体称，美国总统特朗普当时在白宫内有一场会见活动，未受枪击事件影响。但就在特朗普抵达东厅参加活动的前几分钟，因枪声响起，特勤局紧急要求媒体人员离开白宫北草坪，进入新闻简报室。",
+    "content": "【白宫因附近发生枪击短暂封锁】美国白宫当地时间5月4日下午因附近发生枪击事件一度短暂实施封锁。美国特勤局发布声明称，“特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。一人被执法人员开枪击中，目前具体情况尚不清楚。”据了解，这一事发地点距离白宫仅有约一英里，邻近华盛顿纪念碑。据在白宫的美媒记者通过社交媒体称，美国总统特朗普当时在白宫内有一场会见活动，未受枪击事件影响。但就在特朗普抵达东厅参加活动的前几分钟，因枪声响起，特勤局紧急要求媒体人员离开白宫北草坪，进入新闻简报室。",
+    "full_content": "【白宫因附近发生枪击短暂封锁】美国白宫当地时间5月4日下午因附近发生枪击事件一度短暂实施封锁。美国特勤局发布声明称，“特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。一人被执法人员开枪击中，目前具体情况尚不清楚。”据了解，这一事发地点距离白宫仅有约一英里，邻近华盛顿纪念碑。据在白宫的美媒记者通过社交媒体称，美国总统特朗普当时在白宫内有一场会见活动，未受枪击事件影响。但就在特朗普抵达东厅参加活动的前几分钟，因枪声响起，特勤局紧急要求媒体人员离开白宫北草坪，进入新闻简报室。",
+    "sort_time": "1777927411004154",
+    "showTime": "2026-05-05 04:43:31",
+    "time": "2026-05-05 04:43:31",
+    "publish_time": "2026-05-05 04:43:31",
+    "raw_data": {
+      "code": "202605053727804154",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777927411004154",
+      "share": 0,
+      "showTime": "2026-05-05 04:43:31",
+      "stockList": [],
+      "summary": "【白宫因附近发生枪击短暂封锁】美国白宫当地时间5月4日下午因附近发生枪击事件一度短暂实施封锁。美国特勤局发布声明称，“特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。一人被执法人员开枪击中，目前具体情况尚不清楚。”据了解，这一事发地点距离白宫仅有约一英里，邻近华盛顿纪念碑。据在白宫的美媒记者通过社交媒体称，美国总统特朗普当时在白宫内有一场会见活动，未受枪击事件影响。但就在特朗普抵达东厅参加活动的前几分钟，因枪声响起，特勤局紧急要求媒体人员离开白宫北草坪，进入新闻简报室。",
+      "title": "白宫因附近发生枪击短暂封锁",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804154.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fd1d9170b1fbd744",
+    "code": "202605053727803859",
+    "title": "白宫附近传出枪声",
+    "summary": "【白宫附近传出枪声】美国白宫附近当地时间5月4日下午发生枪击事件。美国特勤局称，特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。据称一人被执法人员开枪击中，其状况尚不清楚。",
+    "content": "【白宫附近传出枪声】美国白宫附近当地时间5月4日下午发生枪击事件。美国特勤局称，特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。据称一人被执法人员开枪击中，其状况尚不清楚。",
+    "full_content": "【白宫附近传出枪声】美国白宫附近当地时间5月4日下午发生枪击事件。美国特勤局称，特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。据称一人被执法人员开枪击中，其状况尚不清楚。",
+    "sort_time": "1777926566003859",
+    "showTime": "2026-05-05 04:29:26",
+    "time": "2026-05-05 04:29:26",
+    "publish_time": "2026-05-05 04:29:26",
+    "raw_data": {
+      "code": "202605053727803859",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777926566003859",
+      "share": 0,
+      "showTime": "2026-05-05 04:29:26",
+      "stockList": [],
+      "summary": "【白宫附近传出枪声】美国白宫附近当地时间5月4日下午发生枪击事件。美国特勤局称，特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。据称一人被执法人员开枪击中，其状况尚不清楚。",
+      "title": "白宫附近传出枪声",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803859.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7b47af0c3136672f",
+    "code": "202605053727803374",
+    "title": "莱迪思半导体一季度营收1.709亿美元 高于市场预期",
+    "summary": "【莱迪思半导体一季度营收1.709亿美元 高于市场预期】莱迪思半导体一季度营收1.709亿美元，分析师预期1.649亿美元；预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+    "content": "【莱迪思半导体一季度营收1.709亿美元 高于市场预期】莱迪思半导体一季度营收1.709亿美元，分析师预期1.649亿美元；预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+    "full_content": "【莱迪思半导体一季度营收1.709亿美元 高于市场预期】莱迪思半导体一季度营收1.709亿美元，分析师预期1.649亿美元；预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+    "sort_time": "1777926158003374",
+    "showTime": "2026-05-05 04:22:38",
+    "time": "2026-05-05 04:22:38",
+    "publish_time": "2026-05-05 04:22:38",
+    "raw_data": {
+      "code": "202605053727803374",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777926158003374",
+      "share": 0,
+      "showTime": "2026-05-05 04:22:38",
+      "stockList": [
+        "105.LSCC"
+      ],
+      "summary": "【莱迪思半导体一季度营收1.709亿美元 高于市场预期】莱迪思半导体一季度营收1.709亿美元，分析师预期1.649亿美元；预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+      "title": "莱迪思半导体一季度营收1.709亿美元 高于市场预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803374.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.LSCC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "b2d57873cbb907ff",
+    "code": "202605053727803286",
+    "title": "美国华盛顿特区总检察长珍妮·皮罗（Jeanine Pirro）周一向当地法院提交动议 要求法院撤销美联储主席调查案的相关裁决",
+    "summary": "美国华盛顿特区总检察长珍妮·皮罗（JeaninePirro）周一向当地法院提交动议，要求法院撤销美联储主席调查案的相关裁决。",
+    "content": "美国华盛顿特区总检察长珍妮·皮罗（JeaninePirro）周一向当地法院提交动议，要求法院撤销美联储主席调查案的相关裁决。",
+    "full_content": "美国华盛顿特区总检察长珍妮·皮罗（JeaninePirro）周一向当地法院提交动议，要求法院撤销美联储主席调查案的相关裁决。",
+    "sort_time": "1777925811003286",
+    "showTime": "2026-05-05 04:16:51",
+    "time": "2026-05-05 04:16:51",
+    "publish_time": "2026-05-05 04:16:51",
+    "raw_data": {
+      "code": "202605053727803286",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925811003286",
+      "share": 0,
+      "showTime": "2026-05-05 04:16:51",
+      "stockList": [],
+      "summary": "美国华盛顿特区总检察长珍妮·皮罗（JeaninePirro）周一向当地法院提交动议，要求法院撤销美联储主席调查案的相关裁决。",
+      "title": "美国华盛顿特区总检察长珍妮·皮罗（Jeanine Pirro）周一向当地法院提交动议 要求法院撤销美联储主席调查案的相关裁决",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803286.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "22f0bbbea343feff",
+    "code": "202605053727803137",
+    "title": "马斯克与美国证券交易委员会（SEC）同意 就推特股票信披案件达成和解",
+    "summary": "马斯克与美国证券交易委员会（SEC）同意，就推特股票信披案件达成和解。",
+    "content": "马斯克与美国证券交易委员会（SEC）同意，就推特股票信披案件达成和解。",
+    "full_content": "马斯克与美国证券交易委员会（SEC）同意，就推特股票信披案件达成和解。",
+    "sort_time": "1777925550003137",
+    "showTime": "2026-05-05 04:12:30",
+    "time": "2026-05-05 04:12:30",
+    "publish_time": "2026-05-05 04:12:30",
+    "raw_data": {
+      "code": "202605053727803137",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925550003137",
+      "share": 0,
+      "showTime": "2026-05-05 04:12:30",
+      "stockList": [],
+      "summary": "马斯克与美国证券交易委员会（SEC）同意，就推特股票信披案件达成和解。",
+      "title": "马斯克与美国证券交易委员会（SEC）同意 就推特股票信披案件达成和解",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803137.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "0e464a5368ed3b18",
+    "code": "202605053727803081",
+    "title": "Pinterest Inc.一季度营收10.1亿美元 高于市场预期",
+    "summary": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。",
+    "content": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。",
+    "full_content": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。",
+    "sort_time": "1777925398003081",
+    "showTime": "2026-05-05 04:09:58",
+    "time": "2026-05-05 04:09:58",
+    "publish_time": "2026-05-05 04:09:58",
+    "raw_data": {
+      "code": "202605053727803081",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925398003081",
+      "share": 0,
+      "showTime": "2026-05-05 04:09:58",
+      "stockList": [
+        "106.PINS"
+      ],
+      "summary": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。",
+      "title": "Pinterest Inc.一季度营收10.1亿美元 高于市场预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803081.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.PINS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0dc78c7800e4cb5d",
+    "code": "202605053727802985",
+    "title": "Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期",
+    "summary": "【Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期】Diamondback Energy一季度调整后每股收益（EPS）为4.23美元，分析师预期3.75美元。",
+    "content": "【Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期】Diamondback Energy一季度调整后每股收益（EPS）为4.23美元，分析师预期3.75美元。",
+    "full_content": "【Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期】Diamondback Energy一季度调整后每股收益（EPS）为4.23美元，分析师预期3.75美元。",
+    "sort_time": "1777925376002985",
+    "showTime": "2026-05-05 04:09:36",
+    "time": "2026-05-05 04:09:36",
+    "publish_time": "2026-05-05 04:09:36",
+    "raw_data": {
+      "code": "202605053727802985",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925376002985",
+      "share": 0,
+      "showTime": "2026-05-05 04:09:36",
+      "stockList": [
+        "105.FANG"
+      ],
+      "summary": "【Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期】Diamondback Energy一季度调整后每股收益（EPS）为4.23美元，分析师预期3.75美元。",
+      "title": "Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727802985.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.FANG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3dc213e8dbf4e655",
+    "code": "202605053727802870",
+    "title": "Palantir一季度营收16.3亿美元 高于市场预期",
+    "summary": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元；一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元；一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。公司预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72亿美元。",
+    "content": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元；一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元；一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。公司预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72亿美元。",
+    "full_content": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元；一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元；一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。公司预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72亿美元。",
+    "sort_time": "1777925331002870",
+    "showTime": "2026-05-05 04:08:51",
+    "time": "2026-05-05 04:08:51",
+    "publish_time": "2026-05-05 04:08:51",
+    "raw_data": {
+      "code": "202605053727802870",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925331002870",
+      "share": 0,
+      "showTime": "2026-05-05 04:08:51",
+      "stockList": [
+        "105.PLTR"
+      ],
+      "summary": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元；一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元；一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。公司预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72亿美元。",
+      "title": "Palantir一季度营收16.3亿美元 高于市场预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727802870.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.PLTR"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "2d3eb6f2b6466df4",
     "code": "202605053727802576",
     "title": "纳斯达克中国金龙指数收跌0.09%",
@@ -75,6 +633,59 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
+    }
+  },
+  {
+    "id": "05355bbe4e6f2bb2",
+    "code": "202605053727802425",
+    "title": "美股三大指数集体收跌 道指跌超1%",
+    "summary": "【美股三大指数集体收跌 道指跌超1%】美股三大指数集体收跌，道指跌1.13%，标普500指数跌0.41%，纳指跌0.19%。美光科技涨超6%，闪迪涨近6%；均创历史新高。英伟达股价上涨0.02%，谷歌-A股价下跌0.63%，苹果股价下跌1.18%，微软股价下跌0.2%，亚马逊股价上涨1.41%，Meta Platforms Inc Class A股价上涨0.27%，特斯拉股价上涨0.43%，奈飞股价下跌1.13%。",
+    "content": "【美股三大指数集体收跌 道指跌超1%】美股三大指数集体收跌，道指跌1.13%，标普500指数跌0.41%，纳指跌0.19%。美光科技涨超6%，闪迪涨近6%；均创历史新高。英伟达股价上涨0.02%，谷歌-A股价下跌0.63%，苹果股价下跌1.18%，微软股价下跌0.2%，亚马逊股价上涨1.41%，Meta Platforms Inc Class A股价上涨0.27%，特斯拉股价上涨0.43%，奈飞股价下跌1.13%。",
+    "full_content": "【美股三大指数集体收跌 道指跌超1%】美股三大指数集体收跌，道指跌1.13%，标普500指数跌0.41%，纳指跌0.19%。美光科技涨超6%，闪迪涨近6%；均创历史新高。英伟达股价上涨0.02%，谷歌-A股价下跌0.63%，苹果股价下跌1.18%，微软股价下跌0.2%，亚马逊股价上涨1.41%，Meta Platforms Inc Class A股价上涨0.27%，特斯拉股价上涨0.43%，奈飞股价下跌1.13%。",
+    "sort_time": "1777924830002425",
+    "showTime": "2026-05-05 04:00:30",
+    "time": "2026-05-05 04:00:30",
+    "publish_time": "2026-05-05 04:00:30",
+    "raw_data": {
+      "code": "202605053727802425",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777924830002425",
+      "share": 0,
+      "showTime": "2026-05-05 04:00:30",
+      "stockList": [],
+      "summary": "【美股三大指数集体收跌 道指跌超1%】美股三大指数集体收跌，道指跌1.13%，标普500指数跌0.41%，纳指跌0.19%。美光科技涨超6%，闪迪涨近6%；均创历史新高。英伟达股价上涨0.02%，谷歌-A股价下跌0.63%，苹果股价下跌1.18%，微软股价下跌0.2%，亚马逊股价上涨1.41%，Meta Platforms Inc Class A股价上涨0.27%，特斯拉股价上涨0.43%，奈飞股价下跌1.13%。",
+      "title": "美股三大指数集体收跌 道指跌超1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727802425.html",
+    "category": "股市",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805",
+        "C807"
+      ]
     }
   },
   {

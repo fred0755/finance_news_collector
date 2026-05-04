@@ -1,5 +1,563 @@
 [
   {
+    "id": "cbaba8792e599dca",
+    "code": "202605053727804290",
+    "title": "Anthropic与FIS正在开发一款人工智能代理 旨在帮助银行打击金融犯罪行为",
+    "summary": "Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
+    "content": "Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
+    "full_content": "Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
+    "sort_time": "1777928589004290",
+    "showTime": "2026-05-05 05:03:09",
+    "time": "2026-05-05 05:03:09",
+    "publish_time": "2026-05-05 05:03:09",
+    "raw_data": {
+      "code": "202605053727804290",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777928589004290",
+      "share": 0,
+      "showTime": "2026-05-05 05:03:09",
+      "stockList": [
+        "90.BK1283",
+        "90.BK0800"
+      ],
+      "summary": "Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
+      "title": "Anthropic与FIS正在开发一款人工智能代理 旨在帮助银行打击金融犯罪行为",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804290.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "6e54895ad1045ee0",
+    "code": "202605053727804524",
+    "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+    "summary": "【特朗普称美国与伊朗处于“迷你战争”状态】当地时间5月4日，央视记者获悉，美国总统特朗普在白宫小企业峰会活动上表示，美国当前与伊朗的冲突已构成一场“战争”，并称之为“迷你战争”。",
+    "content": "【特朗普称美国与伊朗处于“迷你战争”状态】当地时间5月4日，央视记者获悉，美国总统特朗普在白宫小企业峰会活动上表示，美国当前与伊朗的冲突已构成一场“战争”，并称之为“迷你战争”。",
+    "full_content": "【特朗普称美国与伊朗处于“迷你战争”状态】当地时间5月4日，央视记者获悉，美国总统特朗普在白宫小企业峰会活动上表示，美国当前与伊朗的冲突已构成一场“战争”，并称之为“迷你战争”。",
+    "sort_time": "1777928505004524",
+    "showTime": "2026-05-05 05:01:45",
+    "time": "2026-05-05 05:01:45",
+    "publish_time": "2026-05-05 05:01:45",
+    "raw_data": {
+      "code": "202605053727804524",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777928505004524",
+      "share": 0,
+      "showTime": "2026-05-05 05:01:45",
+      "stockList": [],
+      "summary": "【特朗普称美国与伊朗处于“迷你战争”状态】当地时间5月4日，央视记者获悉，美国总统特朗普在白宫小企业峰会活动上表示，美国当前与伊朗的冲突已构成一场“战争”，并称之为“迷你战争”。",
+      "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804524.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7cf5881d753ab03b",
+    "code": "202605053727804319",
+    "title": "COMEX黄金期货跌2.53%",
+    "summary": "COMEX黄金期货跌2.53%，报4526.7美元/盎司；COMEX白银期货跌4.23%，报73.2美元/盎司。",
+    "content": "COMEX黄金期货跌2.53%，报4526.7美元/盎司；COMEX白银期货跌4.23%，报73.2美元/盎司。",
+    "full_content": "COMEX黄金期货跌2.53%，报4526.7美元/盎司；COMEX白银期货跌4.23%，报73.2美元/盎司。",
+    "sort_time": "1777928501004319",
+    "showTime": "2026-05-05 05:01:41",
+    "time": "2026-05-05 05:01:41",
+    "publish_time": "2026-05-05 05:01:41",
+    "raw_data": {
+      "code": "202605053727804319",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777928501004319",
+      "share": 0,
+      "showTime": "2026-05-05 05:01:41",
+      "stockList": [],
+      "summary": "COMEX黄金期货跌2.53%，报4526.7美元/盎司；COMEX白银期货跌4.23%，报73.2美元/盎司。",
+      "title": "COMEX黄金期货跌2.53%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804319.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "67a0fac452e9afdb",
+    "code": "202605053727804493",
+    "title": "伊朗官员称霍尔木兹海峡目前完全处于该国管控之下",
+    "summary": "【伊朗官员称霍尔木兹海峡目前完全处于该国管控之下】当地时间4日，总台记者获悉，一名伊朗高级安全官员称，霍尔木兹海峡目前完全处于伊朗的管控之下。伊朗武装力量向美国方面传达的信息非常明确：只要推进，就会成为打击目标。",
+    "content": "【伊朗官员称霍尔木兹海峡目前完全处于该国管控之下】当地时间4日，总台记者获悉，一名伊朗高级安全官员称，霍尔木兹海峡目前完全处于伊朗的管控之下。伊朗武装力量向美国方面传达的信息非常明确：只要推进，就会成为打击目标。",
+    "full_content": "【伊朗官员称霍尔木兹海峡目前完全处于该国管控之下】当地时间4日，总台记者获悉，一名伊朗高级安全官员称，霍尔木兹海峡目前完全处于伊朗的管控之下。伊朗武装力量向美国方面传达的信息非常明确：只要推进，就会成为打击目标。",
+    "sort_time": "1777928397004493",
+    "showTime": "2026-05-05 04:59:57",
+    "time": "2026-05-05 04:59:57",
+    "publish_time": "2026-05-05 04:59:57",
+    "raw_data": {
+      "code": "202605053727804493",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777928397004493",
+      "share": 0,
+      "showTime": "2026-05-05 04:59:57",
+      "stockList": [],
+      "summary": "【伊朗官员称霍尔木兹海峡目前完全处于该国管控之下】当地时间4日，总台记者获悉，一名伊朗高级安全官员称，霍尔木兹海峡目前完全处于伊朗的管控之下。伊朗武装力量向美国方面传达的信息非常明确：只要推进，就会成为打击目标。",
+      "title": "伊朗官员称霍尔木兹海峡目前完全处于该国管控之下",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804493.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3797a11ab2abf589",
+    "code": "202605053727804154",
+    "title": "白宫因附近发生枪击短暂封锁",
+    "summary": "【白宫因附近发生枪击短暂封锁】美国白宫当地时间5月4日下午因附近发生枪击事件一度短暂实施封锁。美国特勤局发布声明称，“特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。一人被执法人员开枪击中，目前具体情况尚不清楚。”据了解，这一事发地点距离白宫仅有约一英里，邻近华盛顿纪念碑。据在白宫的美媒记者通过社交媒体称，美国总统特朗普当时在白宫内有一场会见活动，未受枪击事件影响。但就在特朗普抵达东厅参加活动的前几分钟，因枪声响起，特勤局紧急要求媒体人员离开白宫北草坪，进入新闻简报室。",
+    "content": "【白宫因附近发生枪击短暂封锁】美国白宫当地时间5月4日下午因附近发生枪击事件一度短暂实施封锁。美国特勤局发布声明称，“特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。一人被执法人员开枪击中，目前具体情况尚不清楚。”据了解，这一事发地点距离白宫仅有约一英里，邻近华盛顿纪念碑。据在白宫的美媒记者通过社交媒体称，美国总统特朗普当时在白宫内有一场会见活动，未受枪击事件影响。但就在特朗普抵达东厅参加活动的前几分钟，因枪声响起，特勤局紧急要求媒体人员离开白宫北草坪，进入新闻简报室。",
+    "full_content": "【白宫因附近发生枪击短暂封锁】美国白宫当地时间5月4日下午因附近发生枪击事件一度短暂实施封锁。美国特勤局发布声明称，“特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。一人被执法人员开枪击中，目前具体情况尚不清楚。”据了解，这一事发地点距离白宫仅有约一英里，邻近华盛顿纪念碑。据在白宫的美媒记者通过社交媒体称，美国总统特朗普当时在白宫内有一场会见活动，未受枪击事件影响。但就在特朗普抵达东厅参加活动的前几分钟，因枪声响起，特勤局紧急要求媒体人员离开白宫北草坪，进入新闻简报室。",
+    "sort_time": "1777927411004154",
+    "showTime": "2026-05-05 04:43:31",
+    "time": "2026-05-05 04:43:31",
+    "publish_time": "2026-05-05 04:43:31",
+    "raw_data": {
+      "code": "202605053727804154",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777927411004154",
+      "share": 0,
+      "showTime": "2026-05-05 04:43:31",
+      "stockList": [],
+      "summary": "【白宫因附近发生枪击短暂封锁】美国白宫当地时间5月4日下午因附近发生枪击事件一度短暂实施封锁。美国特勤局发布声明称，“特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。一人被执法人员开枪击中，目前具体情况尚不清楚。”据了解，这一事发地点距离白宫仅有约一英里，邻近华盛顿纪念碑。据在白宫的美媒记者通过社交媒体称，美国总统特朗普当时在白宫内有一场会见活动，未受枪击事件影响。但就在特朗普抵达东厅参加活动的前几分钟，因枪声响起，特勤局紧急要求媒体人员离开白宫北草坪，进入新闻简报室。",
+      "title": "白宫因附近发生枪击短暂封锁",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727804154.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fd1d9170b1fbd744",
+    "code": "202605053727803859",
+    "title": "白宫附近传出枪声",
+    "summary": "【白宫附近传出枪声】美国白宫附近当地时间5月4日下午发生枪击事件。美国特勤局称，特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。据称一人被执法人员开枪击中，其状况尚不清楚。",
+    "content": "【白宫附近传出枪声】美国白宫附近当地时间5月4日下午发生枪击事件。美国特勤局称，特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。据称一人被执法人员开枪击中，其状况尚不清楚。",
+    "full_content": "【白宫附近传出枪声】美国白宫附近当地时间5月4日下午发生枪击事件。美国特勤局称，特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。据称一人被执法人员开枪击中，其状况尚不清楚。",
+    "sort_time": "1777926566003859",
+    "showTime": "2026-05-05 04:29:26",
+    "time": "2026-05-05 04:29:26",
+    "publish_time": "2026-05-05 04:29:26",
+    "raw_data": {
+      "code": "202605053727803859",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777926566003859",
+      "share": 0,
+      "showTime": "2026-05-05 04:29:26",
+      "stockList": [],
+      "summary": "【白宫附近传出枪声】美国白宫附近当地时间5月4日下午发生枪击事件。美国特勤局称，特勤局人员已抵达华盛顿特区第15街与独立大道交界处一起涉警枪击案现场。据称一人被执法人员开枪击中，其状况尚不清楚。",
+      "title": "白宫附近传出枪声",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803859.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7b47af0c3136672f",
+    "code": "202605053727803374",
+    "title": "莱迪思半导体一季度营收1.709亿美元 高于市场预期",
+    "summary": "【莱迪思半导体一季度营收1.709亿美元 高于市场预期】莱迪思半导体一季度营收1.709亿美元，分析师预期1.649亿美元；预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+    "content": "【莱迪思半导体一季度营收1.709亿美元 高于市场预期】莱迪思半导体一季度营收1.709亿美元，分析师预期1.649亿美元；预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+    "full_content": "【莱迪思半导体一季度营收1.709亿美元 高于市场预期】莱迪思半导体一季度营收1.709亿美元，分析师预期1.649亿美元；预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+    "sort_time": "1777926158003374",
+    "showTime": "2026-05-05 04:22:38",
+    "time": "2026-05-05 04:22:38",
+    "publish_time": "2026-05-05 04:22:38",
+    "raw_data": {
+      "code": "202605053727803374",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777926158003374",
+      "share": 0,
+      "showTime": "2026-05-05 04:22:38",
+      "stockList": [
+        "105.LSCC"
+      ],
+      "summary": "【莱迪思半导体一季度营收1.709亿美元 高于市场预期】莱迪思半导体一季度营收1.709亿美元，分析师预期1.649亿美元；预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+      "title": "莱迪思半导体一季度营收1.709亿美元 高于市场预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803374.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.LSCC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "b2d57873cbb907ff",
+    "code": "202605053727803286",
+    "title": "美国华盛顿特区总检察长珍妮·皮罗（Jeanine Pirro）周一向当地法院提交动议 要求法院撤销美联储主席调查案的相关裁决",
+    "summary": "美国华盛顿特区总检察长珍妮·皮罗（JeaninePirro）周一向当地法院提交动议，要求法院撤销美联储主席调查案的相关裁决。",
+    "content": "美国华盛顿特区总检察长珍妮·皮罗（JeaninePirro）周一向当地法院提交动议，要求法院撤销美联储主席调查案的相关裁决。",
+    "full_content": "美国华盛顿特区总检察长珍妮·皮罗（JeaninePirro）周一向当地法院提交动议，要求法院撤销美联储主席调查案的相关裁决。",
+    "sort_time": "1777925811003286",
+    "showTime": "2026-05-05 04:16:51",
+    "time": "2026-05-05 04:16:51",
+    "publish_time": "2026-05-05 04:16:51",
+    "raw_data": {
+      "code": "202605053727803286",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925811003286",
+      "share": 0,
+      "showTime": "2026-05-05 04:16:51",
+      "stockList": [],
+      "summary": "美国华盛顿特区总检察长珍妮·皮罗（JeaninePirro）周一向当地法院提交动议，要求法院撤销美联储主席调查案的相关裁决。",
+      "title": "美国华盛顿特区总检察长珍妮·皮罗（Jeanine Pirro）周一向当地法院提交动议 要求法院撤销美联储主席调查案的相关裁决",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803286.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "22f0bbbea343feff",
+    "code": "202605053727803137",
+    "title": "马斯克与美国证券交易委员会（SEC）同意 就推特股票信披案件达成和解",
+    "summary": "马斯克与美国证券交易委员会（SEC）同意，就推特股票信披案件达成和解。",
+    "content": "马斯克与美国证券交易委员会（SEC）同意，就推特股票信披案件达成和解。",
+    "full_content": "马斯克与美国证券交易委员会（SEC）同意，就推特股票信披案件达成和解。",
+    "sort_time": "1777925550003137",
+    "showTime": "2026-05-05 04:12:30",
+    "time": "2026-05-05 04:12:30",
+    "publish_time": "2026-05-05 04:12:30",
+    "raw_data": {
+      "code": "202605053727803137",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925550003137",
+      "share": 0,
+      "showTime": "2026-05-05 04:12:30",
+      "stockList": [],
+      "summary": "马斯克与美国证券交易委员会（SEC）同意，就推特股票信披案件达成和解。",
+      "title": "马斯克与美国证券交易委员会（SEC）同意 就推特股票信披案件达成和解",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803137.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "0e464a5368ed3b18",
+    "code": "202605053727803081",
+    "title": "Pinterest Inc.一季度营收10.1亿美元 高于市场预期",
+    "summary": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。",
+    "content": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。",
+    "full_content": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。",
+    "sort_time": "1777925398003081",
+    "showTime": "2026-05-05 04:09:58",
+    "time": "2026-05-05 04:09:58",
+    "publish_time": "2026-05-05 04:09:58",
+    "raw_data": {
+      "code": "202605053727803081",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925398003081",
+      "share": 0,
+      "showTime": "2026-05-05 04:09:58",
+      "stockList": [
+        "106.PINS"
+      ],
+      "summary": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。",
+      "title": "Pinterest Inc.一季度营收10.1亿美元 高于市场预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727803081.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.PINS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0dc78c7800e4cb5d",
+    "code": "202605053727802985",
+    "title": "Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期",
+    "summary": "【Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期】Diamondback Energy一季度调整后每股收益（EPS）为4.23美元，分析师预期3.75美元。",
+    "content": "【Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期】Diamondback Energy一季度调整后每股收益（EPS）为4.23美元，分析师预期3.75美元。",
+    "full_content": "【Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期】Diamondback Energy一季度调整后每股收益（EPS）为4.23美元，分析师预期3.75美元。",
+    "sort_time": "1777925376002985",
+    "showTime": "2026-05-05 04:09:36",
+    "time": "2026-05-05 04:09:36",
+    "publish_time": "2026-05-05 04:09:36",
+    "raw_data": {
+      "code": "202605053727802985",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925376002985",
+      "share": 0,
+      "showTime": "2026-05-05 04:09:36",
+      "stockList": [
+        "105.FANG"
+      ],
+      "summary": "【Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期】Diamondback Energy一季度调整后每股收益（EPS）为4.23美元，分析师预期3.75美元。",
+      "title": "Diamondback Energy一季度调整后EPS为4.23美元 高于市场预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727802985.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.FANG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3dc213e8dbf4e655",
+    "code": "202605053727802870",
+    "title": "Palantir一季度营收16.3亿美元 高于市场预期",
+    "summary": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元；一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元；一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。公司预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72亿美元。",
+    "content": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元；一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元；一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。公司预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72亿美元。",
+    "full_content": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元；一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元；一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。公司预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72亿美元。",
+    "sort_time": "1777925331002870",
+    "showTime": "2026-05-05 04:08:51",
+    "time": "2026-05-05 04:08:51",
+    "publish_time": "2026-05-05 04:08:51",
+    "raw_data": {
+      "code": "202605053727802870",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777925331002870",
+      "share": 0,
+      "showTime": "2026-05-05 04:08:51",
+      "stockList": [
+        "105.PLTR"
+      ],
+      "summary": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元；一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元；一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。公司预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72亿美元。",
+      "title": "Palantir一季度营收16.3亿美元 高于市场预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605053727802870.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.PLTR"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "2d3eb6f2b6466df4",
     "code": "202605053727802576",
     "title": "纳斯达克中国金龙指数收跌0.09%",
@@ -39,12 +597,12 @@
     }
   },
   {
-    "id": "6652d4f88c4f6a7b",
+    "id": "05355bbe4e6f2bb2",
     "code": "202605053727802425",
-    "title": "美股三大指数集体收跌",
-    "summary": "美股三大指数集体收跌，道指跌1.12%，标普500指数跌0.4%，纳指跌0.19%。",
-    "content": "美股三大指数集体收跌，道指跌1.12%，标普500指数跌0.4%，纳指跌0.19%。",
-    "full_content": "美股三大指数集体收跌，道指跌1.12%，标普500指数跌0.4%，纳指跌0.19%。",
+    "title": "美股三大指数集体收跌 道指跌超1%",
+    "summary": "【美股三大指数集体收跌 道指跌超1%】美股三大指数集体收跌，道指跌1.13%，标普500指数跌0.41%，纳指跌0.19%。美光科技涨超6%，闪迪涨近6%；均创历史新高。英伟达股价上涨0.02%，谷歌-A股价下跌0.63%，苹果股价下跌1.18%，微软股价下跌0.2%，亚马逊股价上涨1.41%，Meta Platforms Inc Class A股价上涨0.27%，特斯拉股价上涨0.43%，奈飞股价下跌1.13%。",
+    "content": "【美股三大指数集体收跌 道指跌超1%】美股三大指数集体收跌，道指跌1.13%，标普500指数跌0.41%，纳指跌0.19%。美光科技涨超6%，闪迪涨近6%；均创历史新高。英伟达股价上涨0.02%，谷歌-A股价下跌0.63%，苹果股价下跌1.18%，微软股价下跌0.2%，亚马逊股价上涨1.41%，Meta Platforms Inc Class A股价上涨0.27%，特斯拉股价上涨0.43%，奈飞股价下跌1.13%。",
+    "full_content": "【美股三大指数集体收跌 道指跌超1%】美股三大指数集体收跌，道指跌1.13%，标普500指数跌0.41%，纳指跌0.19%。美光科技涨超6%，闪迪涨近6%；均创历史新高。英伟达股价上涨0.02%，谷歌-A股价下跌0.63%，苹果股价下跌1.18%，微软股价下跌0.2%，亚马逊股价上涨1.41%，Meta Platforms Inc Class A股价上涨0.27%，特斯拉股价上涨0.43%，奈飞股价下跌1.13%。",
     "sort_time": "1777924830002425",
     "showTime": "2026-05-05 04:00:30",
     "time": "2026-05-05 04:00:30",
@@ -57,13 +615,13 @@
       "share": 0,
       "showTime": "2026-05-05 04:00:30",
       "stockList": [],
-      "summary": "美股三大指数集体收跌，道指跌1.12%，标普500指数跌0.4%，纳指跌0.19%。",
-      "title": "美股三大指数集体收跌",
+      "summary": "【美股三大指数集体收跌 道指跌超1%】美股三大指数集体收跌，道指跌1.13%，标普500指数跌0.41%，纳指跌0.19%。美光科技涨超6%，闪迪涨近6%；均创历史新高。英伟达股价上涨0.02%，谷歌-A股价下跌0.63%，苹果股价下跌1.18%，微软股价下跌0.2%，亚马逊股价上涨1.41%，Meta Platforms Inc Class A股价上涨0.27%，特斯拉股价上涨0.43%，奈飞股价下跌1.13%。",
+      "title": "美股三大指数集体收跌 道指跌超1%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202605053727802425.html",
-    "category": "其他",
+    "category": "股市",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
@@ -72,9 +630,23 @@
     "share_count": 0,
     "tags": {
       "industries": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
       "industry_ids": [],
-      "concept_ids": []
+      "concept_ids": [
+        "C805",
+        "C807"
+      ]
     }
   },
   {
@@ -91,9 +663,9 @@
     "raw_data": {
       "code": "202605053727802783",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1777923914002783",
-      "share": 0,
+      "share": 3,
       "showTime": "2026-05-05 03:45:14",
       "stockList": [
         "90.BK0704"
@@ -111,8 +683,8 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -148,9 +720,9 @@
     "raw_data": {
       "code": "202605053727802622",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1777923130002622",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-05-05 03:32:10",
       "stockList": [
         "90.BK0464"
@@ -168,8 +740,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -199,7 +771,7 @@
     "raw_data": {
       "code": "202605053727802325",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1777922549002325",
       "share": 1,
       "showTime": "2026-05-05 03:22:29",
@@ -215,7 +787,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -434,9 +1006,9 @@
     "raw_data": {
       "code": "202605053727801550",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1777921009001550",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-05-05 02:56:49",
       "stockList": [],
       "summary": "【伊朗：如果阿联酋“采取不理智的行动” 其所有利益“都将成为伊朗的目标”、任何设施“都不会安全”】伊朗塔斯尼姆通讯社当地时间5月4日晚援引一名伊朗军方消息人士的话报道说，“如果阿联酋成为以色列的‘棋子’，犯下错误，他们将得到永远不会忘记的教训。”这名消息人士强调，如果阿联酋“采取不理智的行动”，其所有利益“都将成为伊朗的目标”，任何阿联酋设施“都不会安全”。",
@@ -450,8 +1022,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
+    "comment_count": 1,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -475,7 +1047,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1777920783001434",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-05-05 02:53:03",
       "stockList": [],
       "summary": "【中国驻阿联酋使领馆提醒在阿中国公民加强安全防范】当地时间5月4日，中国驻阿联酋使领馆发文，提醒在阿中国公民加强安全防范。全文如下：",
@@ -490,7 +1062,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -737,7 +1309,7 @@
     "raw_data": {
       "code": "202605053727800898",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1777919329000898",
       "share": 1,
       "showTime": "2026-05-05 02:28:49",
@@ -753,7 +1325,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -817,7 +1389,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1777918395000681",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-05 02:13:15",
       "stockList": [],
       "summary": "【佛得角准备转运涉疫邮轮患者】普拉亚消息：佛得角卫生部门4日说，正准备通过空中救护方式转运停留在首都普拉亚港外海域的荷兰“洪迪厄斯”号邮轮相关患者。这艘邮轮因出现呼吸道疾病疫情，未获准靠港。",
@@ -832,7 +1404,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -856,7 +1428,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1777917889000149",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-05-05 02:04:49",
       "stockList": [
         "90.BK0464",
@@ -877,7 +1449,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 1,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1234,7 +1806,7 @@
     "raw_data": {
       "code": "202605053727799426",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1777914231099426",
       "share": 1,
       "showTime": "2026-05-05 01:03:51",
@@ -1250,7 +1822,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1578,7 +2150,7 @@
     "raw_data": {
       "code": "202605053727797822",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1777910635097822",
       "share": 4,
       "showTime": "2026-05-05 00:03:55",
@@ -1594,7 +2166,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1670,7 +2242,7 @@
     "raw_data": {
       "code": "202605043727797476",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 18,
       "realSort": "1777910301097476",
       "share": 7,
       "showTime": "2026-05-04 23:58:21",
@@ -1686,592 +2258,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
+    "comment_count": 18,
     "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "7412e1c67f67de18",
-    "code": "202605043727795614",
-    "title": "墨西哥南部发生6级地震 首都有震感",
-    "summary": "【墨西哥南部发生6级地震 首都有震感】墨西哥国家地震局4日发布初步报告说，该国南部瓦哈卡州当天发生6级地震，首都墨西哥城有震感。",
-    "content": "【墨西哥南部发生6级地震 首都有震感】墨西哥国家地震局4日发布初步报告说，该国南部瓦哈卡州当天发生6级地震，首都墨西哥城有震感。",
-    "full_content": "【墨西哥南部发生6级地震 首都有震感】墨西哥国家地震局4日发布初步报告说，该国南部瓦哈卡州当天发生6级地震，首都墨西哥城有震感。",
-    "sort_time": "1777908916095614",
-    "showTime": "2026-05-04 23:35:16",
-    "time": "2026-05-04 23:35:16",
-    "publish_time": "2026-05-04 23:35:16",
-    "raw_data": {
-      "code": "202605043727795614",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777908916095614",
-      "share": 0,
-      "showTime": "2026-05-04 23:35:16",
-      "stockList": [],
-      "summary": "【墨西哥南部发生6级地震 首都有震感】墨西哥国家地震局4日发布初步报告说，该国南部瓦哈卡州当天发生6级地震，首都墨西哥城有震感。",
-      "title": "墨西哥南部发生6级地震 首都有震感",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727795614.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8ffdf6f68e91f18f",
-    "code": "202605043727794485",
-    "title": "抖音集团李亮：网传所谓红果短剧收费的消息不实",
-    "summary": "【抖音集团李亮：网传所谓红果短剧收费的消息不实】据抖音集团李亮微博消息表示，网传所谓红果短剧收费的消息不实，实际情况是：为持续丰富平台视频内容生态，满足大家多样化的观看需求，红果短剧陆续引入了一些影视内容。依据相关影视版权方合规要求与行业惯例，该部分少数影视内容需开通VIP权限观看。而免广告会员服务，只是满足用户差异化体验的自愿选项，不会强制收费，也不会改变用户免费追剧的核心模式。不管是免广告的VIP服务，还是极少量需VIP才能观看的影视内容，都是2024年2月红果早期就有的功能，并不是近期的新动作。",
-    "content": "【抖音集团李亮：网传所谓红果短剧收费的消息不实】据抖音集团李亮微博消息表示，网传所谓红果短剧收费的消息不实，实际情况是：为持续丰富平台视频内容生态，满足大家多样化的观看需求，红果短剧陆续引入了一些影视内容。依据相关影视版权方合规要求与行业惯例，该部分少数影视内容需开通VIP权限观看。而免广告会员服务，只是满足用户差异化体验的自愿选项，不会强制收费，也不会改变用户免费追剧的核心模式。不管是免广告的VIP服务，还是极少量需VIP才能观看的影视内容，都是2024年2月红果早期就有的功能，并不是近期的新动作。",
-    "full_content": "【抖音集团李亮：网传所谓红果短剧收费的消息不实】据抖音集团李亮微博消息表示，网传所谓红果短剧收费的消息不实，实际情况是：为持续丰富平台视频内容生态，满足大家多样化的观看需求，红果短剧陆续引入了一些影视内容。依据相关影视版权方合规要求与行业惯例，该部分少数影视内容需开通VIP权限观看。而免广告会员服务，只是满足用户差异化体验的自愿选项，不会强制收费，也不会改变用户免费追剧的核心模式。不管是免广告的VIP服务，还是极少量需VIP才能观看的影视内容，都是2024年2月红果早期就有的功能，并不是近期的新动作。",
-    "sort_time": "1777908862094485",
-    "showTime": "2026-05-04 23:34:22",
-    "time": "2026-05-04 23:34:22",
-    "publish_time": "2026-05-04 23:34:22",
-    "raw_data": {
-      "code": "202605043727794485",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1777908862094485",
-      "share": 4,
-      "showTime": "2026-05-04 23:34:22",
-      "stockList": [
-        "90.BK1151",
-        "1007.BK000286"
-      ],
-      "summary": "【抖音集团李亮：网传所谓红果短剧收费的消息不实】据抖音集团李亮微博消息表示，网传所谓红果短剧收费的消息不实，实际情况是：为持续丰富平台视频内容生态，满足大家多样化的观看需求，红果短剧陆续引入了一些影视内容。依据相关影视版权方合规要求与行业惯例，该部分少数影视内容需开通VIP权限观看。而免广告会员服务，只是满足用户差异化体验的自愿选项，不会强制收费，也不会改变用户免费追剧的核心模式。不管是免广告的VIP服务，还是极少量需VIP才能观看的影视内容，都是2024年2月红果早期就有的功能，并不是近期的新动作。",
-      "title": "抖音集团李亮：网传所谓红果短剧收费的消息不实",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727794485.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1151",
-      "1007.BK000286"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C802",
-          "name": "抖音概念",
-          "matched_keyword": "抖音"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C802"
-      ]
-    }
-  },
-  {
-    "id": "011e8f2b755fc839",
-    "code": "202605043727792392",
-    "title": "阿联酋国防部称监测到4枚来自伊朗的巡航导弹",
-    "summary": "【阿联酋国防部称监测到4枚来自伊朗的巡航导弹】阿联酋国防部通报称，监测到4枚来自伊朗方向的巡航导弹，其中3枚在领海上空被成功拦截，另1枚坠入海中。",
-    "content": "【阿联酋国防部称监测到4枚来自伊朗的巡航导弹】阿联酋国防部通报称，监测到4枚来自伊朗方向的巡航导弹，其中3枚在领海上空被成功拦截，另1枚坠入海中。",
-    "full_content": "【阿联酋国防部称监测到4枚来自伊朗的巡航导弹】阿联酋国防部通报称，监测到4枚来自伊朗方向的巡航导弹，其中3枚在领海上空被成功拦截，另1枚坠入海中。",
-    "sort_time": "1777908290092392",
-    "showTime": "2026-05-04 23:24:50",
-    "time": "2026-05-04 23:24:50",
-    "publish_time": "2026-05-04 23:24:50",
-    "raw_data": {
-      "code": "202605043727792392",
-      "image": [],
-      "pinglun_Num": 252,
-      "realSort": "1777908290092392",
-      "share": 303,
-      "showTime": "2026-05-04 23:24:50",
-      "stockList": [],
-      "summary": "【阿联酋国防部称监测到4枚来自伊朗的巡航导弹】阿联酋国防部通报称，监测到4枚来自伊朗方向的巡航导弹，其中3枚在领海上空被成功拦截，另1枚坠入海中。",
-      "title": "阿联酋国防部称监测到4枚来自伊朗的巡航导弹",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727792392.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 252,
-    "share_count": 303,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "b767b539411d6eec",
-    "code": "202605043727792695",
-    "title": "现货黄金跌超2%",
-    "summary": "【现货黄金跌超2%】现货黄金跌2.02%，报4522.73美元/盎司；现货白银跌3.20%，报72.99美元/盎司。",
-    "content": "【现货黄金跌超2%】现货黄金跌2.02%，报4522.73美元/盎司；现货白银跌3.20%，报72.99美元/盎司。",
-    "full_content": "【现货黄金跌超2%】现货黄金跌2.02%，报4522.73美元/盎司；现货白银跌3.20%，报72.99美元/盎司。",
-    "sort_time": "1777908211092695",
-    "showTime": "2026-05-04 23:23:31",
-    "time": "2026-05-04 23:23:31",
-    "publish_time": "2026-05-04 23:23:31",
-    "raw_data": {
-      "code": "202605043727792695",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1777908211092695",
-      "share": 1,
-      "showTime": "2026-05-04 23:23:31",
-      "stockList": [
-        "90.BK0732",
-        "90.BK1617"
-      ],
-      "summary": "【现货黄金跌超2%】现货黄金跌2.02%，报4522.73美元/盎司；现货白银跌3.20%，报72.99美元/盎司。",
-      "title": "现货黄金跌超2%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727792695.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0732",
-      "90.BK1617"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "6b2b3df648847972",
-    "code": "202605043727792577",
-    "title": "国际原油短线快速拉升",
-    "summary": "【国际原油短线快速拉升】国际原油短线快速拉升，WTI原油期货价格涨3.66%，报105.676美元/桶；布伦特原油期货价格涨5.33%，报113.940美元/桶。消息面上，阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾。",
-    "content": "【国际原油短线快速拉升】国际原油短线快速拉升，WTI原油期货价格涨3.66%，报105.676美元/桶；布伦特原油期货价格涨5.33%，报113.940美元/桶。消息面上，阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾。",
-    "full_content": "【国际原油短线快速拉升】国际原油短线快速拉升，WTI原油期货价格涨3.66%，报105.676美元/桶；布伦特原油期货价格涨5.33%，报113.940美元/桶。消息面上，阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾。",
-    "sort_time": "1777908159092577",
-    "showTime": "2026-05-04 23:22:39",
-    "time": "2026-05-04 23:22:39",
-    "publish_time": "2026-05-04 23:22:39",
-    "raw_data": {
-      "code": "202605043727792577",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1777908159092577",
-      "share": 12,
-      "showTime": "2026-05-04 23:22:39",
-      "stockList": [],
-      "summary": "【国际原油短线快速拉升】国际原油短线快速拉升，WTI原油期货价格涨3.66%，报105.676美元/桶；布伦特原油期货价格涨5.33%，报113.940美元/桶。消息面上，阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾。",
-      "title": "国际原油短线快速拉升",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727792577.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 12,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205",
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "74ea5605c202fe89",
-    "code": "202605043727791632",
-    "title": "阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾",
-    "summary": "阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾。",
-    "content": "阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾。",
-    "full_content": "阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾。",
-    "sort_time": "1777908101091632",
-    "showTime": "2026-05-04 23:21:41",
-    "time": "2026-05-04 23:21:41",
-    "publish_time": "2026-05-04 23:21:41",
-    "raw_data": {
-      "code": "202605043727791632",
-      "image": [],
-      "pinglun_Num": 40,
-      "realSort": "1777908101091632",
-      "share": 25,
-      "showTime": "2026-05-04 23:21:41",
-      "stockList": [
-        "90.BK0464",
-        "90.BK0704"
-      ],
-      "summary": "阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾。",
-      "title": "阿联酋富贾伊拉石油工业区因伊朗无人机袭击发生火灾",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727791632.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464",
-      "90.BK0704"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 40,
-    "share_count": 25,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205",
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "662c51b80d55b631",
-    "code": "202605043727790215",
-    "title": "泽连斯基呼吁欧洲参与乌俄谈判",
-    "summary": "【泽连斯基呼吁欧洲参与乌俄谈判】乌克兰总统泽连斯基4日表示，欧洲应以“可行的外交形式”参与乌克兰与俄罗斯的和平谈判，在对俄立场上发出一致声音。",
-    "content": "【泽连斯基呼吁欧洲参与乌俄谈判】乌克兰总统泽连斯基4日表示，欧洲应以“可行的外交形式”参与乌克兰与俄罗斯的和平谈判，在对俄立场上发出一致声音。",
-    "full_content": "【泽连斯基呼吁欧洲参与乌俄谈判】乌克兰总统泽连斯基4日表示，欧洲应以“可行的外交形式”参与乌克兰与俄罗斯的和平谈判，在对俄立场上发出一致声音。",
-    "sort_time": "1777907293090215",
-    "showTime": "2026-05-04 23:08:13",
-    "time": "2026-05-04 23:08:13",
-    "publish_time": "2026-05-04 23:08:13",
-    "raw_data": {
-      "code": "202605043727790215",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1777907293090215",
-      "share": 1,
-      "showTime": "2026-05-04 23:08:13",
-      "stockList": [],
-      "summary": "【泽连斯基呼吁欧洲参与乌俄谈判】乌克兰总统泽连斯基4日表示，欧洲应以“可行的外交形式”参与乌克兰与俄罗斯的和平谈判，在对俄立场上发出一致声音。",
-      "title": "泽连斯基呼吁欧洲参与乌俄谈判",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727790215.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "867daeca7cfc3117",
-    "code": "202605043727789714",
-    "title": "欧元集团主席：欧洲已做好应对美关税威胁的准备",
-    "summary": "【欧元集团主席：欧洲已做好应对美关税威胁的准备】5月4日，就美国总统特朗普此前发出的关税威胁，欧元集团主席皮埃拉卡基斯表示，欧洲已做好应对准备。此前，特朗普称，将对欧盟输美汽车和卡车加征25%关税。",
-    "content": "【欧元集团主席：欧洲已做好应对美关税威胁的准备】5月4日，就美国总统特朗普此前发出的关税威胁，欧元集团主席皮埃拉卡基斯表示，欧洲已做好应对准备。此前，特朗普称，将对欧盟输美汽车和卡车加征25%关税。",
-    "full_content": "【欧元集团主席：欧洲已做好应对美关税威胁的准备】5月4日，就美国总统特朗普此前发出的关税威胁，欧元集团主席皮埃拉卡基斯表示，欧洲已做好应对准备。此前，特朗普称，将对欧盟输美汽车和卡车加征25%关税。",
-    "sort_time": "1777907077089714",
-    "showTime": "2026-05-04 23:04:37",
-    "time": "2026-05-04 23:04:37",
-    "publish_time": "2026-05-04 23:04:37",
-    "raw_data": {
-      "code": "202605043727789714",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777907077089714",
-      "share": 1,
-      "showTime": "2026-05-04 23:04:37",
-      "stockList": [],
-      "summary": "【欧元集团主席：欧洲已做好应对美关税威胁的准备】5月4日，就美国总统特朗普此前发出的关税威胁，欧元集团主席皮埃拉卡基斯表示，欧洲已做好应对准备。此前，特朗普称，将对欧盟输美汽车和卡车加征25%关税。",
-      "title": "欧元集团主席：欧洲已做好应对美关税威胁的准备",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727789714.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a6a2ee5b0296ec7e",
-    "code": "202605043727789687",
-    "title": "墨西哥中央银行调查显示 私营部门分析师预计2026年底整体通胀率为4.38%",
-    "summary": "墨西哥中央银行调查显示，私营部门分析师预计2026年底整体通胀率为4.38%，高于上次调查的4.21%。",
-    "content": "墨西哥中央银行调查显示，私营部门分析师预计2026年底整体通胀率为4.38%，高于上次调查的4.21%。",
-    "full_content": "墨西哥中央银行调查显示，私营部门分析师预计2026年底整体通胀率为4.38%，高于上次调查的4.21%。",
-    "sort_time": "1777906887089687",
-    "showTime": "2026-05-04 23:01:27",
-    "time": "2026-05-04 23:01:27",
-    "publish_time": "2026-05-04 23:01:27",
-    "raw_data": {
-      "code": "202605043727789687",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777906887089687",
-      "share": 0,
-      "showTime": "2026-05-04 23:01:27",
-      "stockList": [],
-      "summary": "墨西哥中央银行调查显示，私营部门分析师预计2026年底整体通胀率为4.38%，高于上次调查的4.21%。",
-      "title": "墨西哥中央银行调查显示 私营部门分析师预计2026年底整体通胀率为4.38%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727789687.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "303c4ab4d2b1f9c0",
-    "code": "202605043727788265",
-    "title": "江西生物制品研究所股份有限公司向港交所提交上市申请书",
-    "summary": "【江西生物制品研究所股份有限公司向港交所提交上市申请书】江西生物制品研究所股份有限公司向港交所提交上市申请书，联席保荐人为中金公司，招商证券国际。",
-    "content": "【江西生物制品研究所股份有限公司向港交所提交上市申请书】江西生物制品研究所股份有限公司向港交所提交上市申请书，联席保荐人为中金公司，招商证券国际。",
-    "full_content": "【江西生物制品研究所股份有限公司向港交所提交上市申请书】江西生物制品研究所股份有限公司向港交所提交上市申请书，联席保荐人为中金公司，招商证券国际。",
-    "sort_time": "1777906574088265",
-    "showTime": "2026-05-04 22:56:14",
-    "time": "2026-05-04 22:56:14",
-    "publish_time": "2026-05-04 22:56:14",
-    "raw_data": {
-      "code": "202605043727788265",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777906574088265",
-      "share": 1,
-      "showTime": "2026-05-04 22:56:14",
-      "stockList": [],
-      "summary": "【江西生物制品研究所股份有限公司向港交所提交上市申请书】江西生物制品研究所股份有限公司向港交所提交上市申请书，联席保荐人为中金公司，招商证券国际。",
-      "title": "江西生物制品研究所股份有限公司向港交所提交上市申请书",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727788265.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401"
-      ]
-    }
-  },
-  {
-    "id": "c3ed6cc07e4336c9",
-    "code": "202605043727787493",
-    "title": "礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书",
-    "summary": "【礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书】礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书，联席保荐人为Jefferies，BofASecurities，HTSC。",
-    "content": "【礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书】礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书，联席保荐人为Jefferies，BofASecurities，HTSC。",
-    "full_content": "【礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书】礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书，联席保荐人为Jefferies，BofASecurities，HTSC。",
-    "sort_time": "1777906256087493",
-    "showTime": "2026-05-04 22:50:56",
-    "time": "2026-05-04 22:50:56",
-    "publish_time": "2026-05-04 22:50:56",
-    "raw_data": {
-      "code": "202605043727787493",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777906256087493",
-      "share": 0,
-      "showTime": "2026-05-04 22:50:56",
-      "stockList": [],
-      "summary": "【礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书】礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书，联席保荐人为Jefferies，BofASecurities，HTSC。",
-      "title": "礼邦医药（江苏）股份有限公司-B向港交所提交上市申请书",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727787493.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "64a1465079d9eb77",
-    "code": "202605043727785693",
-    "title": "伊朗伊斯兰革命卫队：过去数小时无商船或油轮通过霍尔木兹海峡",
-    "summary": "【伊朗伊斯兰革命卫队：过去数小时无商船或油轮通过霍尔木兹海峡】据伊朗塔斯尼姆通讯社4日报道，伊朗伊斯兰革命卫队表示，过去数小时内没有任何商船或油轮通过霍尔木兹海峡。",
-    "content": "【伊朗伊斯兰革命卫队：过去数小时无商船或油轮通过霍尔木兹海峡】据伊朗塔斯尼姆通讯社4日报道，伊朗伊斯兰革命卫队表示，过去数小时内没有任何商船或油轮通过霍尔木兹海峡。",
-    "full_content": "【伊朗伊斯兰革命卫队：过去数小时无商船或油轮通过霍尔木兹海峡】据伊朗塔斯尼姆通讯社4日报道，伊朗伊斯兰革命卫队表示，过去数小时内没有任何商船或油轮通过霍尔木兹海峡。",
-    "sort_time": "1777905977085693",
-    "showTime": "2026-05-04 22:46:17",
-    "time": "2026-05-04 22:46:17",
-    "publish_time": "2026-05-04 22:46:17",
-    "raw_data": {
-      "code": "202605043727785693",
-      "image": [],
-      "pinglun_Num": 19,
-      "realSort": "1777905977085693",
-      "share": 3,
-      "showTime": "2026-05-04 22:46:17",
-      "stockList": [],
-      "summary": "【伊朗伊斯兰革命卫队：过去数小时无商船或油轮通过霍尔木兹海峡】据伊朗塔斯尼姆通讯社4日报道，伊朗伊斯兰革命卫队表示，过去数小时内没有任何商船或油轮通过霍尔木兹海峡。",
-      "title": "伊朗伊斯兰革命卫队：过去数小时无商船或油轮通过霍尔木兹海峡",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727785693.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 19,
-    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
