@@ -1,5 +1,845 @@
 [
   {
+    "id": "6bc87f84ddd1ec40",
+    "code": "202605043727763655",
+    "title": "袁记云饺欧洲首店正式开业",
+    "summary": "【袁记云饺欧洲首店正式开业】5月4日，袁记云饺欧洲首店于伦敦东区正式开业。",
+    "content": "【袁记云饺欧洲首店正式开业】5月4日，袁记云饺欧洲首店于伦敦东区正式开业。",
+    "full_content": "【袁记云饺欧洲首店正式开业】5月4日，袁记云饺欧洲首店于伦敦东区正式开业。",
+    "sort_time": "1777899238063655",
+    "showTime": "2026-05-04 20:53:58",
+    "time": "2026-05-04 20:53:58",
+    "publish_time": "2026-05-04 20:53:58",
+    "raw_data": {
+      "code": "202605043727763655",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777899238063655",
+      "share": 1,
+      "showTime": "2026-05-04 20:53:58",
+      "stockList": [],
+      "summary": "【袁记云饺欧洲首店正式开业】5月4日，袁记云饺欧洲首店于伦敦东区正式开业。",
+      "title": "袁记云饺欧洲首店正式开业",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727763655.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "59e019c4f9d0b9b3",
+    "code": "202605043727763457",
+    "title": "阿联酋称伊朗无人机袭击该国石油公司船只",
+    "summary": "【阿联酋称伊朗无人机袭击该国石油公司船只】阿联酋外交部4日发表声明称，伊朗使用2架无人机袭击了该国阿布扎比国家石油公司旗下一艘通过霍尔木兹海峡的船只，阿联酋方面对此表示谴责。声明称，该事件未造成人员受伤。声明没有提及袭击发生的具体时间。",
+    "content": "【阿联酋称伊朗无人机袭击该国石油公司船只】阿联酋外交部4日发表声明称，伊朗使用2架无人机袭击了该国阿布扎比国家石油公司旗下一艘通过霍尔木兹海峡的船只，阿联酋方面对此表示谴责。声明称，该事件未造成人员受伤。声明没有提及袭击发生的具体时间。",
+    "full_content": "【阿联酋称伊朗无人机袭击该国石油公司船只】阿联酋外交部4日发表声明称，伊朗使用2架无人机袭击了该国阿布扎比国家石油公司旗下一艘通过霍尔木兹海峡的船只，阿联酋方面对此表示谴责。声明称，该事件未造成人员受伤。声明没有提及袭击发生的具体时间。",
+    "sort_time": "1777899047063457",
+    "showTime": "2026-05-04 20:50:47",
+    "time": "2026-05-04 20:50:47",
+    "publish_time": "2026-05-04 20:50:47",
+    "raw_data": {
+      "code": "202605043727763457",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1777899047063457",
+      "share": 3,
+      "showTime": "2026-05-04 20:50:47",
+      "stockList": [
+        "90.BK0704"
+      ],
+      "summary": "【阿联酋称伊朗无人机袭击该国石油公司船只】阿联酋外交部4日发表声明称，伊朗使用2架无人机袭击了该国阿布扎比国家石油公司旗下一艘通过霍尔木兹海峡的船只，阿联酋方面对此表示谴责。声明称，该事件未造成人员受伤。声明没有提及袭击发生的具体时间。",
+      "title": "阿联酋称伊朗无人机袭击该国石油公司船只",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727763457.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0704"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C205",
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "0fcd4adf68aea4f9",
+    "code": "202605043727763547",
+    "title": "OpenAI据悉已为一家新合资企业筹集超过40亿美元",
+    "summary": "OpenAI据悉已为一家新合资企业筹集超过40亿美元，旨在促进其他公司使用OpenAI的人工智能软件。",
+    "content": "OpenAI据悉已为一家新合资企业筹集超过40亿美元，旨在促进其他公司使用OpenAI的人工智能软件。",
+    "full_content": "OpenAI据悉已为一家新合资企业筹集超过40亿美元，旨在促进其他公司使用OpenAI的人工智能软件。",
+    "sort_time": "1777898960063547",
+    "showTime": "2026-05-04 20:49:20",
+    "time": "2026-05-04 20:49:20",
+    "publish_time": "2026-05-04 20:49:20",
+    "raw_data": {
+      "code": "202605043727763547",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777898960063547",
+      "share": 0,
+      "showTime": "2026-05-04 20:49:20",
+      "stockList": [
+        "150.012322",
+        "150.515980"
+      ],
+      "summary": "OpenAI据悉已为一家新合资企业筹集超过40亿美元，旨在促进其他公司使用OpenAI的人工智能软件。",
+      "title": "OpenAI据悉已为一家新合资企业筹集超过40亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727763547.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.012322",
+      "150.515980"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "7ada12abf74e6e04",
+    "code": "202605043727763334",
+    "title": "卡塔尔能源公司将其液化天然气供应的不可抗力状态延长至6月中旬",
+    "summary": "卡塔尔能源公司将其液化天然气供应的不可抗力状态延长至6月中旬。",
+    "content": "卡塔尔能源公司将其液化天然气供应的不可抗力状态延长至6月中旬。",
+    "full_content": "卡塔尔能源公司将其液化天然气供应的不可抗力状态延长至6月中旬。",
+    "sort_time": "1777898761063334",
+    "showTime": "2026-05-04 20:46:01",
+    "time": "2026-05-04 20:46:01",
+    "publish_time": "2026-05-04 20:46:01",
+    "raw_data": {
+      "code": "202605043727763334",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777898761063334",
+      "share": 2,
+      "showTime": "2026-05-04 20:46:01",
+      "stockList": [],
+      "summary": "卡塔尔能源公司将其液化天然气供应的不可抗力状态延长至6月中旬。",
+      "title": "卡塔尔能源公司将其液化天然气供应的不可抗力状态延长至6月中旬",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727763334.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "2e97d4adeb5d143a",
+    "code": "202605043727763256",
+    "title": "伊朗伊斯兰革命卫队称将强制拦截“违规船只”",
+    "summary": "【伊朗伊斯兰革命卫队称将强制拦截“违规船只”】据伊朗伊斯兰共和国通讯社4日报道，伊朗伊斯兰革命卫队表示，霍尔木兹海峡的“违规船只”将被强制拦截，并提醒各航运公司及相关保险机构密切关注伊斯兰革命卫队发布的通告。伊斯兰革命卫队发言人表示，霍尔木兹海峡管理流程未发生任何变化，符合既定通行协议并按指定路线航行的民用船只将得到安全保障。任何不符合相关规定的海上活动将面临风险，违规船只将被强制拦截。",
+    "content": "【伊朗伊斯兰革命卫队称将强制拦截“违规船只”】据伊朗伊斯兰共和国通讯社4日报道，伊朗伊斯兰革命卫队表示，霍尔木兹海峡的“违规船只”将被强制拦截，并提醒各航运公司及相关保险机构密切关注伊斯兰革命卫队发布的通告。伊斯兰革命卫队发言人表示，霍尔木兹海峡管理流程未发生任何变化，符合既定通行协议并按指定路线航行的民用船只将得到安全保障。任何不符合相关规定的海上活动将面临风险，违规船只将被强制拦截。",
+    "full_content": "【伊朗伊斯兰革命卫队称将强制拦截“违规船只”】据伊朗伊斯兰共和国通讯社4日报道，伊朗伊斯兰革命卫队表示，霍尔木兹海峡的“违规船只”将被强制拦截，并提醒各航运公司及相关保险机构密切关注伊斯兰革命卫队发布的通告。伊斯兰革命卫队发言人表示，霍尔木兹海峡管理流程未发生任何变化，符合既定通行协议并按指定路线航行的民用船只将得到安全保障。任何不符合相关规定的海上活动将面临风险，违规船只将被强制拦截。",
+    "sort_time": "1777898380063256",
+    "showTime": "2026-05-04 20:39:40",
+    "time": "2026-05-04 20:39:40",
+    "publish_time": "2026-05-04 20:39:40",
+    "raw_data": {
+      "code": "202605043727763256",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1777898380063256",
+      "share": 5,
+      "showTime": "2026-05-04 20:39:40",
+      "stockList": [],
+      "summary": "【伊朗伊斯兰革命卫队称将强制拦截“违规船只”】据伊朗伊斯兰共和国通讯社4日报道，伊朗伊斯兰革命卫队表示，霍尔木兹海峡的“违规船只”将被强制拦截，并提醒各航运公司及相关保险机构密切关注伊斯兰革命卫队发布的通告。伊斯兰革命卫队发言人表示，霍尔木兹海峡管理流程未发生任何变化，符合既定通行协议并按指定路线航行的民用船只将得到安全保障。任何不符合相关规定的海上活动将面临风险，违规船只将被强制拦截。",
+      "title": "伊朗伊斯兰革命卫队称将强制拦截“违规船只”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727763256.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C403",
+          "name": "保险",
+          "matched_keyword": "保险"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C403"
+      ]
+    }
+  },
+  {
+    "id": "36e7d60eb8e6fa4a",
+    "code": "202605043727763152",
+    "title": "国际海事组织：霍尔木兹海峡附近船只仍应“保持最大程度谨慎”",
+    "summary": "【国际海事组织：霍尔木兹海峡附近船只仍应“保持最大程度谨慎”】国际海事组织发言人4日在给新华社记者的一份书面答复中说：“我们已注意到相关报道，但没有进一步细节。我们继续敦促船舶在该区域保持最大程度谨慎。”美国总统特朗普3日在社交媒体发文称，美国将于中东当地时间4日上午开始“引导”被困在霍尔木兹海峡的船只驶离该海峡。伊朗外交部发言人巴加埃4日回应说，“负责应对此类非法行动的人员已作好充分准备，也清楚如何捍卫伊朗的利益和安全”。",
+    "content": "【国际海事组织：霍尔木兹海峡附近船只仍应“保持最大程度谨慎”】国际海事组织发言人4日在给新华社记者的一份书面答复中说：“我们已注意到相关报道，但没有进一步细节。我们继续敦促船舶在该区域保持最大程度谨慎。”美国总统特朗普3日在社交媒体发文称，美国将于中东当地时间4日上午开始“引导”被困在霍尔木兹海峡的船只驶离该海峡。伊朗外交部发言人巴加埃4日回应说，“负责应对此类非法行动的人员已作好充分准备，也清楚如何捍卫伊朗的利益和安全”。",
+    "full_content": "【国际海事组织：霍尔木兹海峡附近船只仍应“保持最大程度谨慎”】国际海事组织发言人4日在给新华社记者的一份书面答复中说：“我们已注意到相关报道，但没有进一步细节。我们继续敦促船舶在该区域保持最大程度谨慎。”美国总统特朗普3日在社交媒体发文称，美国将于中东当地时间4日上午开始“引导”被困在霍尔木兹海峡的船只驶离该海峡。伊朗外交部发言人巴加埃4日回应说，“负责应对此类非法行动的人员已作好充分准备，也清楚如何捍卫伊朗的利益和安全”。",
+    "sort_time": "1777898129063152",
+    "showTime": "2026-05-04 20:35:29",
+    "time": "2026-05-04 20:35:29",
+    "publish_time": "2026-05-04 20:35:29",
+    "raw_data": {
+      "code": "202605043727763152",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1777898129063152",
+      "share": 1,
+      "showTime": "2026-05-04 20:35:29",
+      "stockList": [],
+      "summary": "【国际海事组织：霍尔木兹海峡附近船只仍应“保持最大程度谨慎”】国际海事组织发言人4日在给新华社记者的一份书面答复中说：“我们已注意到相关报道，但没有进一步细节。我们继续敦促船舶在该区域保持最大程度谨慎。”美国总统特朗普3日在社交媒体发文称，美国将于中东当地时间4日上午开始“引导”被困在霍尔木兹海峡的船只驶离该海峡。伊朗外交部发言人巴加埃4日回应说，“负责应对此类非法行动的人员已作好充分准备，也清楚如何捍卫伊朗的利益和安全”。",
+      "title": "国际海事组织：霍尔木兹海峡附近船只仍应“保持最大程度谨慎”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727763152.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "66dc2135de4fb5d7",
+    "code": "202605043727762726",
+    "title": "伊朗说阿联酋退出欧佩克不具建设性",
+    "summary": "【伊朗说阿联酋退出欧佩克不具建设性】据外媒4日报道，伊朗外交部发言人伊斯梅尔·巴加埃当天就阿联酋退出石油输出国组织（欧佩克）表态，认为此举是对地区事态发展的消极反应，不具建设性。路透社4日援引巴加埃的话报道说，“任何以消极或报复方式对待成员国的退出行为，都不具建设性。”巴加埃表示，伊朗将继续履行其在欧佩克的义务，阿联酋在针对伊朗的战争中协助以色列和美国，表现出“不当行为”。",
+    "content": "【伊朗说阿联酋退出欧佩克不具建设性】据外媒4日报道，伊朗外交部发言人伊斯梅尔·巴加埃当天就阿联酋退出石油输出国组织（欧佩克）表态，认为此举是对地区事态发展的消极反应，不具建设性。路透社4日援引巴加埃的话报道说，“任何以消极或报复方式对待成员国的退出行为，都不具建设性。”巴加埃表示，伊朗将继续履行其在欧佩克的义务，阿联酋在针对伊朗的战争中协助以色列和美国，表现出“不当行为”。",
+    "full_content": "【伊朗说阿联酋退出欧佩克不具建设性】据外媒4日报道，伊朗外交部发言人伊斯梅尔·巴加埃当天就阿联酋退出石油输出国组织（欧佩克）表态，认为此举是对地区事态发展的消极反应，不具建设性。路透社4日援引巴加埃的话报道说，“任何以消极或报复方式对待成员国的退出行为，都不具建设性。”巴加埃表示，伊朗将继续履行其在欧佩克的义务，阿联酋在针对伊朗的战争中协助以色列和美国，表现出“不当行为”。",
+    "sort_time": "1777897823062726",
+    "showTime": "2026-05-04 20:30:23",
+    "time": "2026-05-04 20:30:23",
+    "publish_time": "2026-05-04 20:30:23",
+    "raw_data": {
+      "code": "202605043727762726",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1777897823062726",
+      "share": 0,
+      "showTime": "2026-05-04 20:30:23",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【伊朗说阿联酋退出欧佩克不具建设性】据外媒4日报道，伊朗外交部发言人伊斯梅尔·巴加埃当天就阿联酋退出石油输出国组织（欧佩克）表态，认为此举是对地区事态发展的消极反应，不具建设性。路透社4日援引巴加埃的话报道说，“任何以消极或报复方式对待成员国的退出行为，都不具建设性。”巴加埃表示，伊朗将继续履行其在欧佩克的义务，阿联酋在针对伊朗的战争中协助以色列和美国，表现出“不当行为”。",
+      "title": "伊朗说阿联酋退出欧佩克不具建设性",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727762726.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 12,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "a28d24e776585fb1",
+    "code": "202605043727762646",
+    "title": "美军称两艘悬挂美国国旗的商船成功通过霍尔木兹海峡",
+    "summary": "【美军称两艘悬挂美国国旗的商船成功通过霍尔木兹海峡】美军中央司令部4日在社交媒体上发文称，两艘悬挂美国国旗的商船已成功通过霍尔木兹海峡。",
+    "content": "【美军称两艘悬挂美国国旗的商船成功通过霍尔木兹海峡】美军中央司令部4日在社交媒体上发文称，两艘悬挂美国国旗的商船已成功通过霍尔木兹海峡。",
+    "full_content": "【美军称两艘悬挂美国国旗的商船成功通过霍尔木兹海峡】美军中央司令部4日在社交媒体上发文称，两艘悬挂美国国旗的商船已成功通过霍尔木兹海峡。",
+    "sort_time": "1777897562062646",
+    "showTime": "2026-05-04 20:26:02",
+    "time": "2026-05-04 20:26:02",
+    "publish_time": "2026-05-04 20:26:02",
+    "raw_data": {
+      "code": "202605043727762646",
+      "image": [],
+      "pinglun_Num": 20,
+      "realSort": "1777897562062646",
+      "share": 11,
+      "showTime": "2026-05-04 20:26:02",
+      "stockList": [],
+      "summary": "【美军称两艘悬挂美国国旗的商船成功通过霍尔木兹海峡】美军中央司令部4日在社交媒体上发文称，两艘悬挂美国国旗的商船已成功通过霍尔木兹海峡。",
+      "title": "美军称两艘悬挂美国国旗的商船成功通过霍尔木兹海峡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727762646.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 20,
+    "share_count": 11,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cea5b81ba22e18b2",
+    "code": "202605043727762572",
+    "title": "WTI原油期货日内涨幅收窄至1% 回吐伊朗宣称“击中美军舰”以来的涨幅",
+    "summary": "【WTI原油期货日内涨幅收窄至1% 回吐伊朗宣称“击中美军舰”以来的涨幅】国际油价持续回落，几乎抹去有关伊朗向美军舰发射导弹的消息爆出以来的全部涨幅。截至目前，WTI原油期货价格涨1.1%，报103.03美元/桶；布伦特原油期货价格涨2.4%，报110.78美元/桶。此前，据伊朗法尔斯通讯社报道，2枚伊朗导弹“击中了一艘美军舰”。",
+    "content": "【WTI原油期货日内涨幅收窄至1% 回吐伊朗宣称“击中美军舰”以来的涨幅】国际油价持续回落，几乎抹去有关伊朗向美军舰发射导弹的消息爆出以来的全部涨幅。截至目前，WTI原油期货价格涨1.1%，报103.03美元/桶；布伦特原油期货价格涨2.4%，报110.78美元/桶。此前，据伊朗法尔斯通讯社报道，2枚伊朗导弹“击中了一艘美军舰”。",
+    "full_content": "【WTI原油期货日内涨幅收窄至1% 回吐伊朗宣称“击中美军舰”以来的涨幅】国际油价持续回落，几乎抹去有关伊朗向美军舰发射导弹的消息爆出以来的全部涨幅。截至目前，WTI原油期货价格涨1.1%，报103.03美元/桶；布伦特原油期货价格涨2.4%，报110.78美元/桶。此前，据伊朗法尔斯通讯社报道，2枚伊朗导弹“击中了一艘美军舰”。",
+    "sort_time": "1777897440062572",
+    "showTime": "2026-05-04 20:24:00",
+    "time": "2026-05-04 20:24:00",
+    "publish_time": "2026-05-04 20:24:00",
+    "raw_data": {
+      "code": "202605043727762572",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1777897440062572",
+      "share": 12,
+      "showTime": "2026-05-04 20:24:00",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "【WTI原油期货日内涨幅收窄至1% 回吐伊朗宣称“击中美军舰”以来的涨幅】国际油价持续回落，几乎抹去有关伊朗向美军舰发射导弹的消息爆出以来的全部涨幅。截至目前，WTI原油期货价格涨1.1%，报103.03美元/桶；布伦特原油期货价格涨2.4%，报110.78美元/桶。此前，据伊朗法尔斯通讯社报道，2枚伊朗导弹“击中了一艘美军舰”。",
+      "title": "WTI原油期货日内涨幅收窄至1% 回吐伊朗宣称“击中美军舰”以来的涨幅",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727762572.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 10,
+    "share_count": 12,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "658a0501e2d3825f",
+    "code": "202605043727762326",
+    "title": "伊朗官员称伊朗未在核问题上进行任何谈判",
+    "summary": "【伊朗官员称伊朗未在核问题上进行任何谈判】当地时间4日，伊朗议会国家安全委员会发言人雷扎伊宣布，在当天他和外长阿拉格齐的会谈中，阿拉格齐表示伊朗目前并未就核问题进行任何谈判，并已做好应对任何情况的充分准备。雷扎伊说，伊朗正在制定新的霍尔木兹海峡管控机制，敌对船只将被禁止通过霍尔木兹海峡。",
+    "content": "【伊朗官员称伊朗未在核问题上进行任何谈判】当地时间4日，伊朗议会国家安全委员会发言人雷扎伊宣布，在当天他和外长阿拉格齐的会谈中，阿拉格齐表示伊朗目前并未就核问题进行任何谈判，并已做好应对任何情况的充分准备。雷扎伊说，伊朗正在制定新的霍尔木兹海峡管控机制，敌对船只将被禁止通过霍尔木兹海峡。",
+    "full_content": "【伊朗官员称伊朗未在核问题上进行任何谈判】当地时间4日，伊朗议会国家安全委员会发言人雷扎伊宣布，在当天他和外长阿拉格齐的会谈中，阿拉格齐表示伊朗目前并未就核问题进行任何谈判，并已做好应对任何情况的充分准备。雷扎伊说，伊朗正在制定新的霍尔木兹海峡管控机制，敌对船只将被禁止通过霍尔木兹海峡。",
+    "sort_time": "1777897410062326",
+    "showTime": "2026-05-04 20:23:30",
+    "time": "2026-05-04 20:23:30",
+    "publish_time": "2026-05-04 20:23:30",
+    "raw_data": {
+      "code": "202605043727762326",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1777897410062326",
+      "share": 1,
+      "showTime": "2026-05-04 20:23:30",
+      "stockList": [],
+      "summary": "【伊朗官员称伊朗未在核问题上进行任何谈判】当地时间4日，伊朗议会国家安全委员会发言人雷扎伊宣布，在当天他和外长阿拉格齐的会谈中，阿拉格齐表示伊朗目前并未就核问题进行任何谈判，并已做好应对任何情况的充分准备。雷扎伊说，伊朗正在制定新的霍尔木兹海峡管控机制，敌对船只将被禁止通过霍尔木兹海峡。",
+      "title": "伊朗官员称伊朗未在核问题上进行任何谈判",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727762326.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a17493e55e1e5373",
+    "code": "202605043727761817",
+    "title": "据报道，eBay确认收到GameStop主动发起的收购要约",
+    "summary": "据报道，eBay确认收到GameStop主动发起的收购要约。",
+    "content": "据报道，eBay确认收到GameStop主动发起的收购要约。",
+    "full_content": "据报道，eBay确认收到GameStop主动发起的收购要约。",
+    "sort_time": "1777896494061817",
+    "showTime": "2026-05-04 20:08:14",
+    "time": "2026-05-04 20:08:14",
+    "publish_time": "2026-05-04 20:08:14",
+    "raw_data": {
+      "code": "202605043727761817",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777896494061817",
+      "share": 0,
+      "showTime": "2026-05-04 20:08:14",
+      "stockList": [
+        "105.EBAY"
+      ],
+      "summary": "据报道，eBay确认收到GameStop主动发起的收购要约。",
+      "title": "据报道，eBay确认收到GameStop主动发起的收购要约",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727761817.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.EBAY"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7430a8087c195516",
+    "code": "202605043727761766",
+    "title": "多特蒙德足球俱乐部第三季度收入1.249亿欧元，第三季度息税前利润为1240万欧元",
+    "summary": "多特蒙德足球俱乐部第三季度收入1.249亿欧元，第三季度息税前利润为1240万欧元。",
+    "content": "多特蒙德足球俱乐部第三季度收入1.249亿欧元，第三季度息税前利润为1240万欧元。",
+    "full_content": "多特蒙德足球俱乐部第三季度收入1.249亿欧元，第三季度息税前利润为1240万欧元。",
+    "sort_time": "1777895787061766",
+    "showTime": "2026-05-04 19:56:27",
+    "time": "2026-05-04 19:56:27",
+    "publish_time": "2026-05-04 19:56:27",
+    "raw_data": {
+      "code": "202605043727761766",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1777895787061766",
+      "share": 2,
+      "showTime": "2026-05-04 19:56:27",
+      "stockList": [],
+      "summary": "多特蒙德足球俱乐部第三季度收入1.249亿欧元，第三季度息税前利润为1240万欧元。",
+      "title": "多特蒙德足球俱乐部第三季度收入1.249亿欧元，第三季度息税前利润为1240万欧元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727761766.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "52b3608554a531bb",
+    "code": "202605043727761674",
+    "title": "伊朗称向一艘美军舰警告性开火 造成损失情况不明",
+    "summary": "【伊朗称向一艘美军舰警告性开火 造成损失情况不明】总台记者获悉，当地时间4日，一名伊朗官员表示，伊朗向一艘美国军舰进行警告性开火，以阻止其进入霍尔木兹海峡，目前尚不清楚是否造成损害。",
+    "content": "【伊朗称向一艘美军舰警告性开火 造成损失情况不明】总台记者获悉，当地时间4日，一名伊朗官员表示，伊朗向一艘美国军舰进行警告性开火，以阻止其进入霍尔木兹海峡，目前尚不清楚是否造成损害。",
+    "full_content": "【伊朗称向一艘美军舰警告性开火 造成损失情况不明】总台记者获悉，当地时间4日，一名伊朗官员表示，伊朗向一艘美国军舰进行警告性开火，以阻止其进入霍尔木兹海峡，目前尚不清楚是否造成损害。",
+    "sort_time": "1777895694061674",
+    "showTime": "2026-05-04 19:54:54",
+    "time": "2026-05-04 19:54:54",
+    "publish_time": "2026-05-04 19:54:54",
+    "raw_data": {
+      "code": "202605043727761674",
+      "image": [],
+      "pinglun_Num": 41,
+      "realSort": "1777895694061674",
+      "share": 8,
+      "showTime": "2026-05-04 19:54:54",
+      "stockList": [],
+      "summary": "【伊朗称向一艘美军舰警告性开火 造成损失情况不明】总台记者获悉，当地时间4日，一名伊朗官员表示，伊朗向一艘美国军舰进行警告性开火，以阻止其进入霍尔木兹海峡，目前尚不清楚是否造成损害。",
+      "title": "伊朗称向一艘美军舰警告性开火 造成损失情况不明",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727761674.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 41,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "89c5f2dd06432f94",
+    "code": "202605043727760784",
+    "title": "携程：五一国内展演赛事人次同比增长30.6%",
+    "summary": "【携程：五一国内展演赛事人次同比增长30.6%】5月4日，携程发布数据显示，今年五一假期，国内旅游市场总量稳健增长，出行结构深度优化。拼假与春假叠加，推动出行需求较去年同期增长趋势显著。中长线跨省出游占据主导，小众游、亲子游、赏花游等新趋势同步崛起，历史文化与展演赛事热度攀升，其中平台上，五一国内展演赛事人次同比增长30.6%，音乐与赛事等活动正在成为目的地引流新引擎。",
+    "content": "【携程：五一国内展演赛事人次同比增长30.6%】5月4日，携程发布数据显示，今年五一假期，国内旅游市场总量稳健增长，出行结构深度优化。拼假与春假叠加，推动出行需求较去年同期增长趋势显著。中长线跨省出游占据主导，小众游、亲子游、赏花游等新趋势同步崛起，历史文化与展演赛事热度攀升，其中平台上，五一国内展演赛事人次同比增长30.6%，音乐与赛事等活动正在成为目的地引流新引擎。",
+    "full_content": "【携程：五一国内展演赛事人次同比增长30.6%】5月4日，携程发布数据显示，今年五一假期，国内旅游市场总量稳健增长，出行结构深度优化。拼假与春假叠加，推动出行需求较去年同期增长趋势显著。中长线跨省出游占据主导，小众游、亲子游、赏花游等新趋势同步崛起，历史文化与展演赛事热度攀升，其中平台上，五一国内展演赛事人次同比增长30.6%，音乐与赛事等活动正在成为目的地引流新引擎。",
+    "sort_time": "1777895167060784",
+    "showTime": "2026-05-04 19:46:07",
+    "time": "2026-05-04 19:46:07",
+    "publish_time": "2026-05-04 19:46:07",
+    "raw_data": {
+      "code": "202605043727760784",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1777895167060784",
+      "share": 1,
+      "showTime": "2026-05-04 19:46:07",
+      "stockList": [],
+      "summary": "【携程：五一国内展演赛事人次同比增长30.6%】5月4日，携程发布数据显示，今年五一假期，国内旅游市场总量稳健增长，出行结构深度优化。拼假与春假叠加，推动出行需求较去年同期增长趋势显著。中长线跨省出游占据主导，小众游、亲子游、赏花游等新趋势同步崛起，历史文化与展演赛事热度攀升，其中平台上，五一国内展演赛事人次同比增长30.6%，音乐与赛事等活动正在成为目的地引流新引擎。",
+      "title": "携程：五一国内展演赛事人次同比增长30.6%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727760784.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C604",
+          "name": "旅游",
+          "matched_keyword": "旅游"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C604"
+      ]
+    }
+  },
+  {
+    "id": "7d4397556076b571",
+    "code": "202605043727760173",
+    "title": "阿联酋称油轮过霍尔木兹遭伊朗袭击",
+    "summary": "【阿联酋称油轮过霍尔木兹遭伊朗袭击】阿联酋外交部今天（5月4日）发表声明，称一艘隶属于阿布扎比国家石油公司的油轮在通过霍尔木兹海峡时“遭到伊朗袭击”，并对此予以“强烈谴责”。声明称，该油轮在穿越海峡时遭到2架无人机袭击，不过未有人员伤亡报告。",
+    "content": "【阿联酋称油轮过霍尔木兹遭伊朗袭击】阿联酋外交部今天（5月4日）发表声明，称一艘隶属于阿布扎比国家石油公司的油轮在通过霍尔木兹海峡时“遭到伊朗袭击”，并对此予以“强烈谴责”。声明称，该油轮在穿越海峡时遭到2架无人机袭击，不过未有人员伤亡报告。",
+    "full_content": "【阿联酋称油轮过霍尔木兹遭伊朗袭击】阿联酋外交部今天（5月4日）发表声明，称一艘隶属于阿布扎比国家石油公司的油轮在通过霍尔木兹海峡时“遭到伊朗袭击”，并对此予以“强烈谴责”。声明称，该油轮在穿越海峡时遭到2架无人机袭击，不过未有人员伤亡报告。",
+    "sort_time": "1777894536060173",
+    "showTime": "2026-05-04 19:35:36",
+    "time": "2026-05-04 19:35:36",
+    "publish_time": "2026-05-04 19:35:36",
+    "raw_data": {
+      "code": "202605043727760173",
+      "image": [],
+      "pinglun_Num": 54,
+      "realSort": "1777894536060173",
+      "share": 18,
+      "showTime": "2026-05-04 19:35:36",
+      "stockList": [],
+      "summary": "【阿联酋称油轮过霍尔木兹遭伊朗袭击】阿联酋外交部今天（5月4日）发表声明，称一艘隶属于阿布扎比国家石油公司的油轮在通过霍尔木兹海峡时“遭到伊朗袭击”，并对此予以“强烈谴责”。声明称，该油轮在穿越海峡时遭到2架无人机袭击，不过未有人员伤亡报告。",
+      "title": "阿联酋称油轮过霍尔木兹遭伊朗袭击",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727760173.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 54,
+    "share_count": 18,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C205",
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "9c2685fab7d52afb",
+    "code": "202605043727759916",
+    "title": "黑石数字基础设施据悉寻求通过IPO募资17.5亿美元",
+    "summary": "黑石数字基础设施据悉寻求通过IPO募资17.5亿美元。",
+    "content": "黑石数字基础设施据悉寻求通过IPO募资17.5亿美元。",
+    "full_content": "黑石数字基础设施据悉寻求通过IPO募资17.5亿美元。",
+    "sort_time": "1777894139059916",
+    "showTime": "2026-05-04 19:28:59",
+    "time": "2026-05-04 19:28:59",
+    "publish_time": "2026-05-04 19:28:59",
+    "raw_data": {
+      "code": "202605043727759916",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777894139059916",
+      "share": 1,
+      "showTime": "2026-05-04 19:28:59",
+      "stockList": [
+        "90.BK0697"
+      ],
+      "summary": "黑石数字基础设施据悉寻求通过IPO募资17.5亿美元。",
+      "title": "黑石数字基础设施据悉寻求通过IPO募资17.5亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727759916.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "bb493c9b535c9d58",
+    "code": "202605043727759861",
+    "title": "泰森食品第二季度调整后每股收益为0.87美元，市场预期为0.78美元",
+    "summary": "泰森食品第二季度调整后每股收益为0.87美元，市场预期为0.78美元。",
+    "content": "泰森食品第二季度调整后每股收益为0.87美元，市场预期为0.78美元。",
+    "full_content": "泰森食品第二季度调整后每股收益为0.87美元，市场预期为0.78美元。",
+    "sort_time": "1777894115059861",
+    "showTime": "2026-05-04 19:28:35",
+    "time": "2026-05-04 19:28:35",
+    "publish_time": "2026-05-04 19:28:35",
+    "raw_data": {
+      "code": "202605043727759861",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1777894115059861",
+      "share": 0,
+      "showTime": "2026-05-04 19:28:35",
+      "stockList": [
+        "106.TSN"
+      ],
+      "summary": "泰森食品第二季度调整后每股收益为0.87美元，市场预期为0.78美元。",
+      "title": "泰森食品第二季度调整后每股收益为0.87美元，市场预期为0.78美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727759861.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.TSN"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C602",
+          "name": "食品饮料",
+          "matched_keyword": "食品"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C602"
+      ]
+    }
+  },
+  {
+    "id": "89bb83d40931157c",
+    "code": "202605043727758928",
+    "title": "SAP据称拟收购Prior Labs",
+    "summary": "SAP据称拟收购PriorLabs，以在欧洲建立一家全球领先的尖端人工智能实验室。",
+    "content": "SAP据称拟收购PriorLabs，以在欧洲建立一家全球领先的尖端人工智能实验室。",
+    "full_content": "SAP据称拟收购PriorLabs，以在欧洲建立一家全球领先的尖端人工智能实验室。",
+    "sort_time": "1777893818058928",
+    "showTime": "2026-05-04 19:23:38",
+    "time": "2026-05-04 19:23:38",
+    "publish_time": "2026-05-04 19:23:38",
+    "raw_data": {
+      "code": "202605043727758928",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1777893818058928",
+      "share": 1,
+      "showTime": "2026-05-04 19:23:38",
+      "stockList": [
+        "150.012322",
+        "150.515980"
+      ],
+      "summary": "SAP据称拟收购PriorLabs，以在欧洲建立一家全球领先的尖端人工智能实验室。",
+      "title": "SAP据称拟收购Prior Labs",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727758928.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.012322",
+      "150.515980"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
     "id": "ff14317d8d7eb6c2",
     "code": "202605043727752193",
     "title": "美军中央司令部称没有海军舰艇被伊朗导弹击中",
@@ -13,9 +853,9 @@
     "raw_data": {
       "code": "202605043727752193",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 156,
       "realSort": "1777892971052193",
-      "share": 10,
+      "share": 106,
       "showTime": "2026-05-04 19:09:31",
       "stockList": [],
       "summary": "美军中央司令部4日在社交媒体上发表声明称，没有美国海军舰艇被伊朗导弹击中。",
@@ -29,8 +869,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 18,
-    "share_count": 10,
+    "comment_count": 156,
+    "share_count": 106,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -52,9 +892,9 @@
     "raw_data": {
       "code": "202605043727752484",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1777892769052484",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-04 19:06:09",
       "stockList": [
         "90.BK0644",
@@ -74,8 +914,8 @@
       "105.TSLA"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -105,7 +945,7 @@
     "raw_data": {
       "code": "202605043727749971",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 44,
       "realSort": "1777892733049971",
       "share": 2,
       "showTime": "2026-05-04 19:05:33",
@@ -121,7 +961,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 18,
+    "comment_count": 44,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -185,7 +1025,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1777892071048186",
-      "share": 7,
+      "share": 14,
       "showTime": "2026-05-04 18:54:31",
       "stockList": [
         "90.BK0158"
@@ -204,7 +1044,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 7,
+    "share_count": 14,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -226,9 +1066,9 @@
     "raw_data": {
       "code": "202605043727745856",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 46,
       "realSort": "1777891525045856",
-      "share": 10,
+      "share": 15,
       "showTime": "2026-05-04 18:45:25",
       "stockList": [],
       "summary": "【美媒：特朗普对伊朗问题僵局感到“厌倦”】美国阿克西奥斯新闻网站4日援引一名美国高级官员的话报道说，美国总统特朗普对伊朗问题“没有协议、没有战争”的僵局感到厌倦。这名高级官员说：“总统（特朗普）想要行动，他不愿坐等。他想要施压，他想要达成协议。”",
@@ -242,8 +1082,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 29,
-    "share_count": 10,
+    "comment_count": 46,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -265,7 +1105,7 @@
     "raw_data": {
       "code": "202605043727745742",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1777891317045742",
       "share": 1,
       "showTime": "2026-05-04 18:41:57",
@@ -287,7 +1127,7 @@
       "116.01609"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -310,9 +1150,9 @@
     "raw_data": {
       "code": "202605043727744591",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 5,
       "realSort": "1777891176044591",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-05-04 18:39:36",
       "stockList": [],
       "summary": "【15名遭美国扣押的伊朗货轮船员已回国】总台记者获悉，当地时间4日下午，此前被美国扣押的15名伊朗“图斯卡”号货轮船员已返回伊朗境内。4月19日，美国总统特朗普在社交媒体发文称，当天一艘悬挂伊朗国旗、名为“图斯卡”号的货船企图突破美方海上封锁，美军对该船实施拦截。因其船员拒绝服从美军的停船警告，美军舰击穿该货船轮机舱，迫使其停驶。",
@@ -326,8 +1166,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 3,
+    "comment_count": 5,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -349,9 +1189,9 @@
     "raw_data": {
       "code": "202605043727743977",
       "image": [],
-      "pinglun_Num": 181,
+      "pinglun_Num": 296,
       "realSort": "1777891011043977",
-      "share": 266,
+      "share": 334,
       "showTime": "2026-05-04 18:36:51",
       "stockList": [],
       "summary": "美国媒体4日报道，美国高级官员否认美国船只被伊朗导弹击中。",
@@ -365,8 +1205,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 181,
-    "share_count": 266,
+    "comment_count": 296,
+    "share_count": 334,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -427,7 +1267,7 @@
     "raw_data": {
       "code": "202605043727743416",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1777890661043416",
       "share": 2,
       "showTime": "2026-05-04 18:31:01",
@@ -443,7 +1283,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -511,7 +1351,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1777890199041826",
-      "share": 5,
+      "share": 6,
       "showTime": "2026-05-04 18:23:19",
       "stockList": [
         "90.BK1616"
@@ -530,7 +1370,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 5,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -603,7 +1443,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1777890112042019",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-05-04 18:21:52",
       "stockList": [
         "90.BK1361"
@@ -622,7 +1462,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 3,
-    "share_count": 5,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -652,9 +1492,9 @@
     "raw_data": {
       "code": "202605043727739476",
       "image": [],
-      "pinglun_Num": 82,
+      "pinglun_Num": 87,
       "realSort": "1777889598039476",
-      "share": 209,
+      "share": 232,
       "showTime": "2026-05-04 18:13:18",
       "stockList": [],
       "summary": "【伊朗向美军舰发射导弹 美油短线拉升涨超4%】国际油价涨幅扩大，WTI原油期货价格涨4.43%，报106.455美元/桶；布伦特原油期货价格涨5.05%，报113.637美元/桶。消息面上，一艘美军舰今天无视伊朗警告，试图接近并进入霍尔木兹海峡。伊朗向其发射两枚导弹。该舰调头返航。",
@@ -668,8 +1508,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 82,
-    "share_count": 209,
+    "comment_count": 87,
+    "share_count": 232,
     "tags": {
       "industries": [],
       "concepts": [
@@ -699,9 +1539,9 @@
     "raw_data": {
       "code": "202605043727738580",
       "image": [],
-      "pinglun_Num": 675,
+      "pinglun_Num": 1081,
       "realSort": "1777889434038580",
-      "share": 1735,
+      "share": 2381,
       "showTime": "2026-05-04 18:10:34",
       "stockList": [],
       "summary": "【伊朗军方向试图进入霍尔木兹海峡美军舰发射导弹迫使其返航】据伊朗方面4日消息，当天，两枚导弹击中了一艘美国海军舰船。消息称，这艘军舰于当天在贾斯克附近违反交通和航运安全规定，意图通过霍尔木兹海峡，在无视伊朗海军的警告后遭到导弹袭击。",
@@ -715,8 +1555,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 675,
-    "share_count": 1735,
+    "comment_count": 1081,
+    "share_count": 2381,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -789,7 +1629,7 @@
     "raw_data": {
       "code": "202605043727738461",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 3,
       "realSort": "1777889308038461",
       "share": 4,
       "showTime": "2026-05-04 18:08:28",
@@ -805,7 +1645,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 3,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -830,7 +1670,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1777889221038227",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-05-04 18:07:01",
       "stockList": [
         "90.BK0732",
@@ -851,7 +1691,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 8,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [
@@ -934,9 +1774,9 @@
     "raw_data": {
       "code": "202605043727739755",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 18,
       "realSort": "1777889040039755",
-      "share": 9,
+      "share": 35,
       "showTime": "2026-05-04 18:04:00",
       "stockList": [
         "90.BK0697"
@@ -954,8 +1794,8 @@
       "90.BK0697"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 9,
+    "comment_count": 18,
+    "share_count": 35,
     "tags": {
       "industries": [
         {
@@ -979,6 +1819,61 @@
       "concept_ids": [
         "C202"
       ]
+    }
+  },
+  {
+    "id": "1fa8129e3a0a9625",
+    "code": "202605043727737975",
+    "title": "港股5月开门红！科技股涨势亮眼 光模块龙头大涨超16%",
+    "summary": "【港股5月开门红！科技股涨势亮眼 光模块龙头大涨超16%】5月4日，港股市场迎来开门红，主要指数集体上涨。数据显示，下午收盘，恒生指数上涨1.24%，报26095.88点；恒生科技指数上涨2.16%，报4976.70点。其中，光模块概念板块大涨，香港光模块概念指数大涨9.02%。成分股中，光模块龙头剑桥科技涨超16%，长飞光纤光缆涨逾12%。",
+    "content": "【港股5月开门红！科技股涨势亮眼 光模块龙头大涨超16%】5月4日，港股市场迎来开门红，主要指数集体上涨。数据显示，下午收盘，恒生指数上涨1.24%，报26095.88点；恒生科技指数上涨2.16%，报4976.70点。其中，光模块概念板块大涨，香港光模块概念指数大涨9.02%。成分股中，光模块龙头剑桥科技涨超16%，长飞光纤光缆涨逾12%。",
+    "full_content": "【港股5月开门红！科技股涨势亮眼 光模块龙头大涨超16%】5月4日，港股市场迎来开门红，主要指数集体上涨。数据显示，下午收盘，恒生指数上涨1.24%，报26095.88点；恒生科技指数上涨2.16%，报4976.70点。其中，光模块概念板块大涨，香港光模块概念指数大涨9.02%。成分股中，光模块龙头剑桥科技涨超16%，长飞光纤光缆涨逾12%。",
+    "sort_time": "1777889022037975",
+    "showTime": "2026-05-04 18:03:42",
+    "time": "2026-05-04 18:03:42",
+    "publish_time": "2026-05-04 18:03:42",
+    "raw_data": {
+      "code": "202605043727737975",
+      "image": [],
+      "pinglun_Num": 200,
+      "realSort": "1777889022037975",
+      "share": 551,
+      "showTime": "2026-05-04 18:03:42",
+      "stockList": [
+        "90.BK0459",
+        "90.BK1136"
+      ],
+      "summary": "【港股5月开门红！科技股涨势亮眼 光模块龙头大涨超16%】5月4日，港股市场迎来开门红，主要指数集体上涨。数据显示，下午收盘，恒生指数上涨1.24%，报26095.88点；恒生科技指数上涨2.16%，报4976.70点。其中，光模块概念板块大涨，香港光模块概念指数大涨9.02%。成分股中，光模块龙头剑桥科技涨超16%，长飞光纤光缆涨逾12%。",
+      "title": "港股5月开门红！科技股涨势亮眼 光模块龙头大涨超16%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605043727737975.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0459",
+      "90.BK1136"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 200,
+    "share_count": 551,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "光模块"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010104"
+      ],
+      "concept_ids": []
     }
   },
   {
@@ -1048,7 +1943,7 @@
     "raw_data": {
       "code": "202605043727737840",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1777888507037840",
       "share": 0,
       "showTime": "2026-05-04 17:55:07",
@@ -1064,7 +1959,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1126,7 +2021,7 @@
     "raw_data": {
       "code": "202605043727737560",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 12,
       "realSort": "1777888160037560",
       "share": 0,
       "showTime": "2026-05-04 17:49:20",
@@ -1142,7 +2037,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
+    "comment_count": 12,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1365,7 +2260,7 @@
     "raw_data": {
       "code": "202605043727736376",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 17,
       "realSort": "1777886861036376",
       "share": 1,
       "showTime": "2026-05-04 17:27:41",
@@ -1381,909 +2276,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
+    "comment_count": 17,
     "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "717c1850bbd8b121",
-    "code": "202605043727735886",
-    "title": "岚图泰山X8车型累计订单达3.6万辆",
-    "summary": "【岚图泰山X8车型累计订单达3.6万辆】5月4日，岚图汽车宣布，岚图泰山X8五一假期三天订单超6000辆，累计订单达3.6万辆。",
-    "content": "【岚图泰山X8车型累计订单达3.6万辆】5月4日，岚图汽车宣布，岚图泰山X8五一假期三天订单超6000辆，累计订单达3.6万辆。",
-    "full_content": "【岚图泰山X8车型累计订单达3.6万辆】5月4日，岚图汽车宣布，岚图泰山X8五一假期三天订单超6000辆，累计订单达3.6万辆。",
-    "sort_time": "1777886147035886",
-    "showTime": "2026-05-04 17:15:47",
-    "time": "2026-05-04 17:15:47",
-    "publish_time": "2026-05-04 17:15:47",
-    "raw_data": {
-      "code": "202605043727735886",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1777886147035886",
-      "share": 0,
-      "showTime": "2026-05-04 17:15:47",
-      "stockList": [
-        "116.07489"
-      ],
-      "summary": "【岚图泰山X8车型累计订单达3.6万辆】5月4日，岚图汽车宣布，岚图泰山X8五一假期三天订单超6000辆，累计订单达3.6万辆。",
-      "title": "岚图泰山X8车型累计订单达3.6万辆",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727735886.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "116.07489"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c2b6f12b9e3ef0ad",
-    "code": "202605043727735760",
-    "title": "摩根大通将雪佛龙公司目标价从216美元上调至224美元",
-    "summary": "摩根大通将雪佛龙公司目标价从216美元上调至224美元，将埃克森美孚目标价从170美元上调至173美元。",
-    "content": "摩根大通将雪佛龙公司目标价从216美元上调至224美元，将埃克森美孚目标价从170美元上调至173美元。",
-    "full_content": "摩根大通将雪佛龙公司目标价从216美元上调至224美元，将埃克森美孚目标价从170美元上调至173美元。",
-    "sort_time": "1777885752035760",
-    "showTime": "2026-05-04 17:09:12",
-    "time": "2026-05-04 17:09:12",
-    "publish_time": "2026-05-04 17:09:12",
-    "raw_data": {
-      "code": "202605043727735760",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777885752035760",
-      "share": 0,
-      "showTime": "2026-05-04 17:09:12",
-      "stockList": [
-        "106.CVX",
-        "106.XOM"
-      ],
-      "summary": "摩根大通将雪佛龙公司目标价从216美元上调至224美元，将埃克森美孚目标价从170美元上调至173美元。",
-      "title": "摩根大通将雪佛龙公司目标价从216美元上调至224美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727735760.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.CVX",
-      "106.XOM"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "161e0091ec3dd227",
-    "code": "202605043727735678",
-    "title": "欧洲央行管委维勒鲁瓦：在收紧货币政策之前，需要积累“关键规模的数据”表明通胀压力正变得根深蒂固",
-    "summary": "欧洲央行管委维勒鲁瓦表示，在收紧货币政策之前，需要积累“关键规模的数据”表明通胀压力正变得根深蒂固。",
-    "content": "欧洲央行管委维勒鲁瓦表示，在收紧货币政策之前，需要积累“关键规模的数据”表明通胀压力正变得根深蒂固。",
-    "full_content": "欧洲央行管委维勒鲁瓦表示，在收紧货币政策之前，需要积累“关键规模的数据”表明通胀压力正变得根深蒂固。",
-    "sort_time": "1777885656035678",
-    "showTime": "2026-05-04 17:07:36",
-    "time": "2026-05-04 17:07:36",
-    "publish_time": "2026-05-04 17:07:36",
-    "raw_data": {
-      "code": "202605043727735678",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777885656035678",
-      "share": 0,
-      "showTime": "2026-05-04 17:07:36",
-      "stockList": [],
-      "summary": "欧洲央行管委维勒鲁瓦表示，在收紧货币政策之前，需要积累“关键规模的数据”表明通胀压力正变得根深蒂固。",
-      "title": "欧洲央行管委维勒鲁瓦：在收紧货币政策之前，需要积累“关键规模的数据”表明通胀压力正变得根深蒂固",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727735678.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "5219d2d51fdef61a",
-    "code": "202605043727735594",
-    "title": "天星医疗暗盘盘初涨逾230%",
-    "summary": "【天星医疗暗盘盘初涨逾230%】天星医疗（01609.HK）将于5月5日（周二）挂牌。截至发稿，暗盘交易显示其报价为325.20港元，较招股价98.50港元上涨230.15%。",
-    "content": "【天星医疗暗盘盘初涨逾230%】天星医疗（01609.HK）将于5月5日（周二）挂牌。截至发稿，暗盘交易显示其报价为325.20港元，较招股价98.50港元上涨230.15%。",
-    "full_content": "【天星医疗暗盘盘初涨逾230%】天星医疗（01609.HK）将于5月5日（周二）挂牌。截至发稿，暗盘交易显示其报价为325.20港元，较招股价98.50港元上涨230.15%。",
-    "sort_time": "1777885470035594",
-    "showTime": "2026-05-04 17:04:30",
-    "time": "2026-05-04 17:04:30",
-    "publish_time": "2026-05-04 17:04:30",
-    "raw_data": {
-      "code": "202605043727735594",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1777885470035594",
-      "share": 1,
-      "showTime": "2026-05-04 17:04:30",
-      "stockList": [
-        "999.609361"
-      ],
-      "summary": "【天星医疗暗盘盘初涨逾230%】天星医疗（01609.HK）将于5月5日（周二）挂牌。截至发稿，暗盘交易显示其报价为325.20港元，较招股价98.50港元上涨230.15%。",
-      "title": "天星医疗暗盘盘初涨逾230%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727735594.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "999.609361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "bca1ed30c38eb046",
-    "code": "202605043727735434",
-    "title": "欧洲央行管委卡日米尔：能源价格的上涨势必会波及其它经济领域",
-    "summary": "欧洲央行管委卡日米尔表示，能源价格的上涨势必会波及其它经济领域，6月收紧政策几乎不可避免。",
-    "content": "欧洲央行管委卡日米尔表示，能源价格的上涨势必会波及其它经济领域，6月收紧政策几乎不可避免。",
-    "full_content": "欧洲央行管委卡日米尔表示，能源价格的上涨势必会波及其它经济领域，6月收紧政策几乎不可避免。",
-    "sort_time": "1777885379035434",
-    "showTime": "2026-05-04 17:02:59",
-    "time": "2026-05-04 17:02:59",
-    "publish_time": "2026-05-04 17:02:59",
-    "raw_data": {
-      "code": "202605043727735434",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777885379035434",
-      "share": 0,
-      "showTime": "2026-05-04 17:02:59",
-      "stockList": [
-        "0.159945",
-        "150.014238"
-      ],
-      "summary": "欧洲央行管委卡日米尔表示，能源价格的上涨势必会波及其它经济领域，6月收紧政策几乎不可避免。",
-      "title": "欧洲央行管委卡日米尔：能源价格的上涨势必会波及其它经济领域",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727735434.html",
-    "category": "宏观",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "0.159945",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "2a8d7d008b1a1268",
-    "code": "202605043727735162",
-    "title": "伊朗革命卫队：违规海上活动将面临“强制拦截”",
-    "summary": "【伊朗革命卫队：违规海上活动将面临“强制拦截”】伊朗伊斯兰革命卫队公共关系部副主管兼发言人萨达尔·侯赛因·穆哈比4日发布消息称，霍尔木兹海峡的管理流程没有发生任何变化。所有符合革命卫队海军所发布运输通行协议，并在指定路线内、经协调进行的民用与商用船舶航行，均是安全且有保障的。",
-    "content": "【伊朗革命卫队：违规海上活动将面临“强制拦截”】伊朗伊斯兰革命卫队公共关系部副主管兼发言人萨达尔·侯赛因·穆哈比4日发布消息称，霍尔木兹海峡的管理流程没有发生任何变化。所有符合革命卫队海军所发布运输通行协议，并在指定路线内、经协调进行的民用与商用船舶航行，均是安全且有保障的。",
-    "full_content": "【伊朗革命卫队：违规海上活动将面临“强制拦截”】伊朗伊斯兰革命卫队公共关系部副主管兼发言人萨达尔·侯赛因·穆哈比4日发布消息称，霍尔木兹海峡的管理流程没有发生任何变化。所有符合革命卫队海军所发布运输通行协议，并在指定路线内、经协调进行的民用与商用船舶航行，均是安全且有保障的。",
-    "sort_time": "1777885090035162",
-    "showTime": "2026-05-04 16:58:10",
-    "time": "2026-05-04 16:58:10",
-    "publish_time": "2026-05-04 16:58:10",
-    "raw_data": {
-      "code": "202605043727735162",
-      "image": [],
-      "pinglun_Num": 20,
-      "realSort": "1777885090035162",
-      "share": 4,
-      "showTime": "2026-05-04 16:58:10",
-      "stockList": [],
-      "summary": "【伊朗革命卫队：违规海上活动将面临“强制拦截”】伊朗伊斯兰革命卫队公共关系部副主管兼发言人萨达尔·侯赛因·穆哈比4日发布消息称，霍尔木兹海峡的管理流程没有发生任何变化。所有符合革命卫队海军所发布运输通行协议，并在指定路线内、经协调进行的民用与商用船舶航行，均是安全且有保障的。",
-      "title": "伊朗革命卫队：违规海上活动将面临“强制拦截”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727735162.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4ace076b7209bc67",
-    "code": "202605043727735094",
-    "title": "南非汽油价格将于5月上涨3.27兰特/升",
-    "summary": "南非汽油价格将于5月上涨3.27兰特/升。",
-    "content": "南非汽油价格将于5月上涨3.27兰特/升。",
-    "full_content": "南非汽油价格将于5月上涨3.27兰特/升。",
-    "sort_time": "1777884821035094",
-    "showTime": "2026-05-04 16:53:41",
-    "time": "2026-05-04 16:53:41",
-    "publish_time": "2026-05-04 16:53:41",
-    "raw_data": {
-      "code": "202605043727735094",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1777884821035094",
-      "share": 0,
-      "showTime": "2026-05-04 16:53:41",
-      "stockList": [],
-      "summary": "南非汽油价格将于5月上涨3.27兰特/升。",
-      "title": "南非汽油价格将于5月上涨3.27兰特/升",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727735094.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4773a0013a035811",
-    "code": "202605043727734922",
-    "title": "泽连斯基：乌欧一致同意加快推进落实无人机合作协议",
-    "summary": "【泽连斯基：乌欧一致同意加快推进落实无人机合作协议】当地时间5月4日，乌克兰总统泽连斯基在社交媒体发文透露，当天与欧盟委员会主席冯德莱恩举行重要会晤，就欧盟对乌援助及无人机领域安全合作展开磋商。",
-    "content": "【泽连斯基：乌欧一致同意加快推进落实无人机合作协议】当地时间5月4日，乌克兰总统泽连斯基在社交媒体发文透露，当天与欧盟委员会主席冯德莱恩举行重要会晤，就欧盟对乌援助及无人机领域安全合作展开磋商。",
-    "full_content": "【泽连斯基：乌欧一致同意加快推进落实无人机合作协议】当地时间5月4日，乌克兰总统泽连斯基在社交媒体发文透露，当天与欧盟委员会主席冯德莱恩举行重要会晤，就欧盟对乌援助及无人机领域安全合作展开磋商。",
-    "sort_time": "1777884358034922",
-    "showTime": "2026-05-04 16:45:58",
-    "time": "2026-05-04 16:45:58",
-    "publish_time": "2026-05-04 16:45:58",
-    "raw_data": {
-      "code": "202605043727734922",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1777884358034922",
-      "share": 2,
-      "showTime": "2026-05-04 16:45:58",
-      "stockList": [
-        "90.BK0704"
-      ],
-      "summary": "【泽连斯基：乌欧一致同意加快推进落实无人机合作协议】当地时间5月4日，乌克兰总统泽连斯基在社交媒体发文透露，当天与欧盟委员会主席冯德莱恩举行重要会晤，就欧盟对乌援助及无人机领域安全合作展开磋商。",
-      "title": "泽连斯基：乌欧一致同意加快推进落实无人机合作协议",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727734922.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0704"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "80d1395dcd9fa413",
-    "code": "202605043727734833",
-    "title": "奥地利宣布驱逐3名俄罗斯外交官",
-    "summary": "【奥地利宣布驱逐3名俄罗斯外交官】当地时间4日，奥地利政府指控三名俄罗斯外交官从事间谍活动，宣布这三名俄罗斯外交官为“不受欢迎的人”。奥地利外长贝娅特·迈因尔-赖辛格在一份声明中表示：“利用外交豁免权从事间谍活动是不可接受的。”她同时证实，这三名外交官已离开奥地利。",
-    "content": "【奥地利宣布驱逐3名俄罗斯外交官】当地时间4日，奥地利政府指控三名俄罗斯外交官从事间谍活动，宣布这三名俄罗斯外交官为“不受欢迎的人”。奥地利外长贝娅特·迈因尔-赖辛格在一份声明中表示：“利用外交豁免权从事间谍活动是不可接受的。”她同时证实，这三名外交官已离开奥地利。",
-    "full_content": "【奥地利宣布驱逐3名俄罗斯外交官】当地时间4日，奥地利政府指控三名俄罗斯外交官从事间谍活动，宣布这三名俄罗斯外交官为“不受欢迎的人”。奥地利外长贝娅特·迈因尔-赖辛格在一份声明中表示：“利用外交豁免权从事间谍活动是不可接受的。”她同时证实，这三名外交官已离开奥地利。",
-    "sort_time": "1777884228034833",
-    "showTime": "2026-05-04 16:43:48",
-    "time": "2026-05-04 16:43:48",
-    "publish_time": "2026-05-04 16:43:48",
-    "raw_data": {
-      "code": "202605043727734833",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1777884228034833",
-      "share": 0,
-      "showTime": "2026-05-04 16:43:48",
-      "stockList": [],
-      "summary": "【奥地利宣布驱逐3名俄罗斯外交官】当地时间4日，奥地利政府指控三名俄罗斯外交官从事间谍活动，宣布这三名俄罗斯外交官为“不受欢迎的人”。奥地利外长贝娅特·迈因尔-赖辛格在一份声明中表示：“利用外交豁免权从事间谍活动是不可接受的。”她同时证实，这三名外交官已离开奥地利。",
-      "title": "奥地利宣布驱逐3名俄罗斯外交官",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727734833.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d45a1de595374fe3",
-    "code": "202605043727732778",
-    "title": "霍尔木兹海峡安全威胁等级被维持在“极高”",
-    "summary": "【霍尔木兹海峡安全威胁等级被维持在“极高”】据英国海上贸易行动办公室（UKMTO），联合海事情报中心发布编号004-26通告称，受地区军事行动持续影响，霍尔木兹海峡海上安全威胁等级维持在“极高”，航行风险持续加剧。通告指出，目前相关海域海军力量明显增加，防护级别持续提升，过往船舶可能频繁接到甚高频通信呼叫，同时锚地区域通航压力上升，拥堵情况加剧。",
-    "content": "【霍尔木兹海峡安全威胁等级被维持在“极高”】据英国海上贸易行动办公室（UKMTO），联合海事情报中心发布编号004-26通告称，受地区军事行动持续影响，霍尔木兹海峡海上安全威胁等级维持在“极高”，航行风险持续加剧。通告指出，目前相关海域海军力量明显增加，防护级别持续提升，过往船舶可能频繁接到甚高频通信呼叫，同时锚地区域通航压力上升，拥堵情况加剧。",
-    "full_content": "【霍尔木兹海峡安全威胁等级被维持在“极高”】据英国海上贸易行动办公室（UKMTO），联合海事情报中心发布编号004-26通告称，受地区军事行动持续影响，霍尔木兹海峡海上安全威胁等级维持在“极高”，航行风险持续加剧。通告指出，目前相关海域海军力量明显增加，防护级别持续提升，过往船舶可能频繁接到甚高频通信呼叫，同时锚地区域通航压力上升，拥堵情况加剧。",
-    "sort_time": "1777883626032778",
-    "showTime": "2026-05-04 16:33:46",
-    "time": "2026-05-04 16:33:46",
-    "publish_time": "2026-05-04 16:33:46",
-    "raw_data": {
-      "code": "202605043727732778",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1777883626032778",
-      "share": 0,
-      "showTime": "2026-05-04 16:33:46",
-      "stockList": [],
-      "summary": "【霍尔木兹海峡安全威胁等级被维持在“极高”】据英国海上贸易行动办公室（UKMTO），联合海事情报中心发布编号004-26通告称，受地区军事行动持续影响，霍尔木兹海峡海上安全威胁等级维持在“极高”，航行风险持续加剧。通告指出，目前相关海域海军力量明显增加，防护级别持续提升，过往船舶可能频繁接到甚高频通信呼叫，同时锚地区域通航压力上升，拥堵情况加剧。",
-      "title": "霍尔木兹海峡安全威胁等级被维持在“极高”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727732778.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "通信"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "efd168aaf64007dd",
-    "code": "202605043727732597",
-    "title": "港交所拟重启黄金期货交易",
-    "summary": "【港交所拟重启黄金期货交易】5月4日，据香港电台网站消息，港交所正准备未来数月内重启黄金期货交易。港交所市场主管余学勤出席立法会一个委员会会议时表示，会征询市场参与者及持份者的意见，优化合约设计和完善机制。",
-    "content": "【港交所拟重启黄金期货交易】5月4日，据香港电台网站消息，港交所正准备未来数月内重启黄金期货交易。港交所市场主管余学勤出席立法会一个委员会会议时表示，会征询市场参与者及持份者的意见，优化合约设计和完善机制。",
-    "full_content": "【港交所拟重启黄金期货交易】5月4日，据香港电台网站消息，港交所正准备未来数月内重启黄金期货交易。港交所市场主管余学勤出席立法会一个委员会会议时表示，会征询市场参与者及持份者的意见，优化合约设计和完善机制。",
-    "sort_time": "1777883573032597",
-    "showTime": "2026-05-04 16:32:53",
-    "time": "2026-05-04 16:32:53",
-    "publish_time": "2026-05-04 16:32:53",
-    "raw_data": {
-      "code": "202605043727732597",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1777883573032597",
-      "share": 1,
-      "showTime": "2026-05-04 16:32:53",
-      "stockList": [
-        "116.00388",
-        "116.80388"
-      ],
-      "summary": "【港交所拟重启黄金期货交易】5月4日，据香港电台网站消息，港交所正准备未来数月内重启黄金期货交易。港交所市场主管余学勤出席立法会一个委员会会议时表示，会征询市场参与者及持份者的意见，优化合约设计和完善机制。",
-      "title": "港交所拟重启黄金期货交易",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727732597.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "116.00388",
-      "116.80388"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "42811d7fb9c52203",
-    "code": "202605043727732450",
-    "title": "欧元区5月Sentix投资者信心指数为-16.4，预期-21，前值-19.2",
-    "summary": "欧元区5月Sentix投资者信心指数为-16.4，预期-21，前值-19.2。",
-    "content": "欧元区5月Sentix投资者信心指数为-16.4，预期-21，前值-19.2。",
-    "full_content": "欧元区5月Sentix投资者信心指数为-16.4，预期-21，前值-19.2。",
-    "sort_time": "1777883465032450",
-    "showTime": "2026-05-04 16:31:05",
-    "time": "2026-05-04 16:31:05",
-    "publish_time": "2026-05-04 16:31:05",
-    "raw_data": {
-      "code": "202605043727732450",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777883465032450",
-      "share": 1,
-      "showTime": "2026-05-04 16:31:05",
-      "stockList": [],
-      "summary": "欧元区5月Sentix投资者信心指数为-16.4，预期-21，前值-19.2。",
-      "title": "欧元区5月Sentix投资者信心指数为-16.4，预期-21，前值-19.2",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727732450.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "1f5689e3f6ef602e",
-    "code": "202605043727731981",
-    "title": "伊朗外交部强烈谴责美国针对古巴的威胁",
-    "summary": "【伊朗外交部强烈谴责美国针对古巴的威胁】伊朗外交部发言人巴加埃4日在回应“美国近期对古巴的威胁”问题时表示，在拉丁美洲地区正在发生的相关行动令人非常担忧，同时也反映出美国长期以来的一种行为模式。",
-    "content": "【伊朗外交部强烈谴责美国针对古巴的威胁】伊朗外交部发言人巴加埃4日在回应“美国近期对古巴的威胁”问题时表示，在拉丁美洲地区正在发生的相关行动令人非常担忧，同时也反映出美国长期以来的一种行为模式。",
-    "full_content": "【伊朗外交部强烈谴责美国针对古巴的威胁】伊朗外交部发言人巴加埃4日在回应“美国近期对古巴的威胁”问题时表示，在拉丁美洲地区正在发生的相关行动令人非常担忧，同时也反映出美国长期以来的一种行为模式。",
-    "sort_time": "1777883252031981",
-    "showTime": "2026-05-04 16:27:32",
-    "time": "2026-05-04 16:27:32",
-    "publish_time": "2026-05-04 16:27:32",
-    "raw_data": {
-      "code": "202605043727731981",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1777883252031981",
-      "share": 2,
-      "showTime": "2026-05-04 16:27:32",
-      "stockList": [],
-      "summary": "【伊朗外交部强烈谴责美国针对古巴的威胁】伊朗外交部发言人巴加埃4日在回应“美国近期对古巴的威胁”问题时表示，在拉丁美洲地区正在发生的相关行动令人非常担忧，同时也反映出美国长期以来的一种行为模式。",
-      "title": "伊朗外交部强烈谴责美国针对古巴的威胁",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727731981.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "eae1f902fbc90ba9",
-    "code": "202605043727731796",
-    "title": "法国政府批准拆除最老核电站",
-    "summary": "【法国政府批准拆除最老核电站】法国政府3日发布公告说，已授权法国电力公司拆除该国最早建成的核电站费斯内姆核电站。费斯内姆核电站位于法国东部阿尔萨斯地区，靠近德国边境，1977年投入运营，是法国使用时间最长的核电站。该核电站2020年关闭，乏燃料2022年移除。法国电力公司说，拆除核电站的前期准备工作已经完成，下一步将分四个阶段进行，头年工作重点是移除1号反应堆的3个蒸汽发生器和乏燃料储存仓。",
-    "content": "【法国政府批准拆除最老核电站】法国政府3日发布公告说，已授权法国电力公司拆除该国最早建成的核电站费斯内姆核电站。费斯内姆核电站位于法国东部阿尔萨斯地区，靠近德国边境，1977年投入运营，是法国使用时间最长的核电站。该核电站2020年关闭，乏燃料2022年移除。法国电力公司说，拆除核电站的前期准备工作已经完成，下一步将分四个阶段进行，头年工作重点是移除1号反应堆的3个蒸汽发生器和乏燃料储存仓。",
-    "full_content": "【法国政府批准拆除最老核电站】法国政府3日发布公告说，已授权法国电力公司拆除该国最早建成的核电站费斯内姆核电站。费斯内姆核电站位于法国东部阿尔萨斯地区，靠近德国边境，1977年投入运营，是法国使用时间最长的核电站。该核电站2020年关闭，乏燃料2022年移除。法国电力公司说，拆除核电站的前期准备工作已经完成，下一步将分四个阶段进行，头年工作重点是移除1号反应堆的3个蒸汽发生器和乏燃料储存仓。",
-    "sort_time": "1777883014031796",
-    "showTime": "2026-05-04 16:23:34",
-    "time": "2026-05-04 16:23:34",
-    "publish_time": "2026-05-04 16:23:34",
-    "raw_data": {
-      "code": "202605043727731796",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1777883014031796",
-      "share": 1,
-      "showTime": "2026-05-04 16:23:34",
-      "stockList": [
-        "90.BK0577"
-      ],
-      "summary": "【法国政府批准拆除最老核电站】法国政府3日发布公告说，已授权法国电力公司拆除该国最早建成的核电站费斯内姆核电站。费斯内姆核电站位于法国东部阿尔萨斯地区，靠近德国边境，1977年投入运营，是法国使用时间最长的核电站。该核电站2020年关闭，乏燃料2022年移除。法国电力公司说，拆除核电站的前期准备工作已经完成，下一步将分四个阶段进行，头年工作重点是移除1号反应堆的3个蒸汽发生器和乏燃料储存仓。",
-      "title": "法国政府批准拆除最老核电站",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727731796.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0577"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C109",
-          "name": "核能",
-          "matched_keyword": "核电站"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C109"
-      ]
-    }
-  },
-  {
-    "id": "e4867e4971edd742",
-    "code": "202605043727731321",
-    "title": "伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制",
-    "summary": "【伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制】当地时间5月4日，针对此前伊朗外长出访并与阿曼讨论霍尔木兹海峡新的通行机制一事，伊朗外交部发言人巴加埃表示，伊朗与阿曼同为霍尔木兹海峡沿岸国家，双方对维护这一战略水道的航运安全负有共同责任，会谈的重点在于制定明确的协议与机制，以确保船只安全通行，会谈期间既讨论了该问题的法律层面，也就未来推进路径交换意见，强调双边协调以及与相关国际机构的磋商。",
-    "content": "【伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制】当地时间5月4日，针对此前伊朗外长出访并与阿曼讨论霍尔木兹海峡新的通行机制一事，伊朗外交部发言人巴加埃表示，伊朗与阿曼同为霍尔木兹海峡沿岸国家，双方对维护这一战略水道的航运安全负有共同责任，会谈的重点在于制定明确的协议与机制，以确保船只安全通行，会谈期间既讨论了该问题的法律层面，也就未来推进路径交换意见，强调双边协调以及与相关国际机构的磋商。",
-    "full_content": "【伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制】当地时间5月4日，针对此前伊朗外长出访并与阿曼讨论霍尔木兹海峡新的通行机制一事，伊朗外交部发言人巴加埃表示，伊朗与阿曼同为霍尔木兹海峡沿岸国家，双方对维护这一战略水道的航运安全负有共同责任，会谈的重点在于制定明确的协议与机制，以确保船只安全通行，会谈期间既讨论了该问题的法律层面，也就未来推进路径交换意见，强调双边协调以及与相关国际机构的磋商。",
-    "sort_time": "1777882474031321",
-    "showTime": "2026-05-04 16:14:34",
-    "time": "2026-05-04 16:14:34",
-    "publish_time": "2026-05-04 16:14:34",
-    "raw_data": {
-      "code": "202605043727731321",
-      "image": [],
-      "pinglun_Num": 22,
-      "realSort": "1777882474031321",
-      "share": 2,
-      "showTime": "2026-05-04 16:14:34",
-      "stockList": [],
-      "summary": "【伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制】当地时间5月4日，针对此前伊朗外长出访并与阿曼讨论霍尔木兹海峡新的通行机制一事，伊朗外交部发言人巴加埃表示，伊朗与阿曼同为霍尔木兹海峡沿岸国家，双方对维护这一战略水道的航运安全负有共同责任，会谈的重点在于制定明确的协议与机制，以确保船只安全通行，会谈期间既讨论了该问题的法律层面，也就未来推进路径交换意见，强调双边协调以及与相关国际机构的磋商。",
-      "title": "伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727731321.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "43e3f0c9856b1b6d",
-    "code": "202605043727730993",
-    "title": "5月4日港股收盘：恒指涨1.24% 小米集团-W领涨成分股",
-    "summary": "【5月4日港股收盘：恒指涨1.24% 小米集团-W领涨成分股】港股5月4日收盘走高，恒生指数收报26095.88点，涨319.35点，涨幅1.24%；恒生科技指数收报4976.7点，涨105.38点，涨幅2.16%。恒生指数成分股中小米集团-W、信义光能、恒基地产涨幅居前，恒生科技指数成分股中小米集团-W、华虹半导体、阿里巴巴-W涨幅居前，蔚来-SW、美的集团、联想集团跌幅靠前。",
-    "content": "【5月4日港股收盘：恒指涨1.24% 小米集团-W领涨成分股】港股5月4日收盘走高，恒生指数收报26095.88点，涨319.35点，涨幅1.24%；恒生科技指数收报4976.7点，涨105.38点，涨幅2.16%。恒生指数成分股中小米集团-W、信义光能、恒基地产涨幅居前，恒生科技指数成分股中小米集团-W、华虹半导体、阿里巴巴-W涨幅居前，蔚来-SW、美的集团、联想集团跌幅靠前。",
-    "full_content": "【5月4日港股收盘：恒指涨1.24% 小米集团-W领涨成分股】港股5月4日收盘走高，恒生指数收报26095.88点，涨319.35点，涨幅1.24%；恒生科技指数收报4976.7点，涨105.38点，涨幅2.16%。恒生指数成分股中小米集团-W、信义光能、恒基地产涨幅居前，恒生科技指数成分股中小米集团-W、华虹半导体、阿里巴巴-W涨幅居前，蔚来-SW、美的集团、联想集团跌幅靠前。",
-    "sort_time": "1777882220030993",
-    "showTime": "2026-05-04 16:10:20",
-    "time": "2026-05-04 16:10:20",
-    "publish_time": "2026-05-04 16:10:20",
-    "raw_data": {
-      "code": "202605043727730993",
-      "image": [],
-      "pinglun_Num": 99,
-      "realSort": "1777882220030993",
-      "share": 180,
-      "showTime": "2026-05-04 16:10:20",
-      "stockList": [],
-      "summary": "【5月4日港股收盘：恒指涨1.24% 小米集团-W领涨成分股】港股5月4日收盘走高，恒生指数收报26095.88点，涨319.35点，涨幅1.24%；恒生科技指数收报4976.7点，涨105.38点，涨幅2.16%。恒生指数成分股中小米集团-W、信义光能、恒基地产涨幅居前，恒生科技指数成分股中小米集团-W、华虹半导体、阿里巴巴-W涨幅居前，蔚来-SW、美的集团、联想集团跌幅靠前。",
-      "title": "5月4日港股收盘：恒指涨1.24% 小米集团-W领涨成分股",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727730993.html",
-    "category": "科技",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 99,
-    "share_count": 180,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "C405",
-          "name": "房地产",
-          "matched_keyword": "地产"
-        },
-        {
-          "id": "C808",
-          "name": "小米概念",
-          "matched_keyword": "小米"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002",
-        "C405",
-        "C808"
-      ]
-    }
-  },
-  {
-    "id": "e2c7ac217ce26bfa",
-    "code": "202605043727730722",
-    "title": "俄远东煤矿山体滑坡遇难人数升至8人",
-    "summary": "【俄远东煤矿山体滑坡遇难人数升至8人】俄罗斯远东马加丹州州长谢尔盖·诺索夫4日说，该州一煤矿日前发生的山体滑坡共造成8人死亡。俄罗斯紧急情况部同日表示，该煤矿山体滑坡搜救行动已结束。",
-    "content": "【俄远东煤矿山体滑坡遇难人数升至8人】俄罗斯远东马加丹州州长谢尔盖·诺索夫4日说，该州一煤矿日前发生的山体滑坡共造成8人死亡。俄罗斯紧急情况部同日表示，该煤矿山体滑坡搜救行动已结束。",
-    "full_content": "【俄远东煤矿山体滑坡遇难人数升至8人】俄罗斯远东马加丹州州长谢尔盖·诺索夫4日说，该州一煤矿日前发生的山体滑坡共造成8人死亡。俄罗斯紧急情况部同日表示，该煤矿山体滑坡搜救行动已结束。",
-    "sort_time": "1777882180030722",
-    "showTime": "2026-05-04 16:09:40",
-    "time": "2026-05-04 16:09:40",
-    "publish_time": "2026-05-04 16:09:40",
-    "raw_data": {
-      "code": "202605043727730722",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1777882180030722",
-      "share": 0,
-      "showTime": "2026-05-04 16:09:40",
-      "stockList": [],
-      "summary": "【俄远东煤矿山体滑坡遇难人数升至8人】俄罗斯远东马加丹州州长谢尔盖·诺索夫4日说，该州一煤矿日前发生的山体滑坡共造成8人死亡。俄罗斯紧急情况部同日表示，该煤矿山体滑坡搜救行动已结束。",
-      "title": "俄远东煤矿山体滑坡遇难人数升至8人",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727730722.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f3a3ef87a0dd5b10",
-    "code": "202605043727730695",
-    "title": "WTI原油期货涨幅扩大至2%，报104.034美元/桶",
-    "summary": "WTI原油期货涨幅扩大至2%，报104.034美元/桶。",
-    "content": "WTI原油期货涨幅扩大至2%，报104.034美元/桶。",
-    "full_content": "WTI原油期货涨幅扩大至2%，报104.034美元/桶。",
-    "sort_time": "1777881944030695",
-    "showTime": "2026-05-04 16:05:44",
-    "time": "2026-05-04 16:05:44",
-    "publish_time": "2026-05-04 16:05:44",
-    "raw_data": {
-      "code": "202605043727730695",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1777881944030695",
-      "share": 2,
-      "showTime": "2026-05-04 16:05:44",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "WTI原油期货涨幅扩大至2%，报104.034美元/桶。",
-      "title": "WTI原油期货涨幅扩大至2%，报104.034美元/桶",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727730695.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "c26ff3184ee0f10c",
-    "code": "202605043727730358",
-    "title": "美股存储概念股盘前走高",
-    "summary": "【美股存储概念股盘前走高】美股存储概念股盘前走高，美光科技、闪迪、希捷科技涨超3%，西部数据涨1.5%。",
-    "content": "【美股存储概念股盘前走高】美股存储概念股盘前走高，美光科技、闪迪、希捷科技涨超3%，西部数据涨1.5%。",
-    "full_content": "【美股存储概念股盘前走高】美股存储概念股盘前走高，美光科技、闪迪、希捷科技涨超3%，西部数据涨1.5%。",
-    "sort_time": "1777881839030358",
-    "showTime": "2026-05-04 16:03:59",
-    "time": "2026-05-04 16:03:59",
-    "publish_time": "2026-05-04 16:03:59",
-    "raw_data": {
-      "code": "202605043727730358",
-      "image": [],
-      "pinglun_Num": 18,
-      "realSort": "1777881839030358",
-      "share": 11,
-      "showTime": "2026-05-04 16:03:59",
-      "stockList": [
-        "105.MU",
-        "105.SNDK"
-      ],
-      "summary": "【美股存储概念股盘前走高】美股存储概念股盘前走高，美光科技、闪迪、希捷科技涨超3%，西部数据涨1.5%。",
-      "title": "美股存储概念股盘前走高",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605043727730358.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.MU",
-      "105.SNDK"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 18,
-    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [],
