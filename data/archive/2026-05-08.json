@@ -1,5 +1,738 @@
 [
   {
+    "id": "3560b76b4030943a",
+    "code": "202605093731916419",
+    "title": "英特尔日内大涨超15% 续创新高",
+    "summary": "【英特尔日内大涨超15% 续创新高】英特尔股价短线直线拉升，盘中大涨超15%，报126.4美元/股，续创新高。消息面上，据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "content": "【英特尔日内大涨超15% 续创新高】英特尔股价短线直线拉升，盘中大涨超15%，报126.4美元/股，续创新高。消息面上，据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "full_content": "【英特尔日内大涨超15% 续创新高】英特尔股价短线直线拉升，盘中大涨超15%，报126.4美元/股，续创新高。消息面上，据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "sort_time": "1778259502016419",
+    "showTime": "2026-05-09 00:58:22",
+    "time": "2026-05-09 00:58:22",
+    "publish_time": "2026-05-09 00:58:22",
+    "raw_data": {
+      "code": "202605093731916419",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1778259502016419",
+      "share": 1,
+      "showTime": "2026-05-09 00:58:22",
+      "stockList": [
+        "150.159813",
+        "150.013446"
+      ],
+      "summary": "【英特尔日内大涨超15% 续创新高】英特尔股价短线直线拉升，盘中大涨超15%，报126.4美元/股，续创新高。消息面上，据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+      "title": "英特尔日内大涨超15% 续创新高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731916419.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.159813",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "efed61087977a8e9",
+    "code": "202605093731915632",
+    "title": "英特尔市值突破6000亿美元",
+    "summary": "【英特尔市值突破6000亿美元】英特尔股价短线直线拉升，盘中大涨11%，市值突破6000亿美元。消息面上，据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "content": "【英特尔市值突破6000亿美元】英特尔股价短线直线拉升，盘中大涨11%，市值突破6000亿美元。消息面上，据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "full_content": "【英特尔市值突破6000亿美元】英特尔股价短线直线拉升，盘中大涨11%，市值突破6000亿美元。消息面上，据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "sort_time": "1778259050015632",
+    "showTime": "2026-05-09 00:50:50",
+    "time": "2026-05-09 00:50:50",
+    "publish_time": "2026-05-09 00:50:50",
+    "raw_data": {
+      "code": "202605093731915632",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1778259050015632",
+      "share": 3,
+      "showTime": "2026-05-09 00:50:50",
+      "stockList": [
+        "150.159813",
+        "150.013446"
+      ],
+      "summary": "【英特尔市值突破6000亿美元】英特尔股价短线直线拉升，盘中大涨11%，市值突破6000亿美元。消息面上，据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+      "title": "英特尔市值突破6000亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731915632.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "150.159813",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "668d59dbee473d32",
+    "code": "202605093731914918",
+    "title": "苹果公司与英特尔达成协议 后者将为苹果设备生产芯片",
+    "summary": "【苹果公司与英特尔达成协议 后者将为苹果设备生产芯片】据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "content": "【苹果公司与英特尔达成协议 后者将为苹果设备生产芯片】据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "full_content": "【苹果公司与英特尔达成协议 后者将为苹果设备生产芯片】据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+    "sort_time": "1778259022014918",
+    "showTime": "2026-05-09 00:50:22",
+    "time": "2026-05-09 00:50:22",
+    "publish_time": "2026-05-09 00:50:22",
+    "raw_data": {
+      "code": "202605093731914918",
+      "image": [],
+      "pinglun_Num": 18,
+      "realSort": "1778259022014918",
+      "share": 187,
+      "showTime": "2026-05-09 00:50:22",
+      "stockList": [
+        "0.159813",
+        "150.159813"
+      ],
+      "summary": "【苹果公司与英特尔达成协议 后者将为苹果设备生产芯片】据报道，苹果公司与英特尔达成协议，后者将为苹果设备生产芯片。",
+      "title": "苹果公司与英特尔达成协议 后者将为苹果设备生产芯片",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731914918.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159813",
+      "150.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 18,
+    "share_count": 187,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "b892b8340b23aa6d",
+    "code": "202605093731914720",
+    "title": "伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃",
+    "summary": "【伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃】伊朗塔斯尼姆通讯社8日援引军方消息人士的话报道，在美国针对伊朗油轮采取武力行动后，伊朗武装力量已火力回击美方违反停火协议的“恐怖主义行为”。",
+    "content": "【伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃】伊朗塔斯尼姆通讯社8日援引军方消息人士的话报道，在美国针对伊朗油轮采取武力行动后，伊朗武装力量已火力回击美方违反停火协议的“恐怖主义行为”。",
+    "full_content": "【伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃】伊朗塔斯尼姆通讯社8日援引军方消息人士的话报道，在美国针对伊朗油轮采取武力行动后，伊朗武装力量已火力回击美方违反停火协议的“恐怖主义行为”。",
+    "sort_time": "1778258566014720",
+    "showTime": "2026-05-09 00:42:46",
+    "time": "2026-05-09 00:42:46",
+    "publish_time": "2026-05-09 00:42:46",
+    "raw_data": {
+      "code": "202605093731914720",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1778258566014720",
+      "share": 1,
+      "showTime": "2026-05-09 00:42:46",
+      "stockList": [],
+      "summary": "【伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃】伊朗塔斯尼姆通讯社8日援引军方消息人士的话报道，在美国针对伊朗油轮采取武力行动后，伊朗武装力量已火力回击美方违反停火协议的“恐怖主义行为”。",
+      "title": "伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731914720.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5241fe95ae76f5ef",
+    "code": "202605093731914126",
+    "title": "美股芯片概念股涨幅扩大 美光科技涨超13%",
+    "summary": "美股芯片概念股涨幅扩大，美光科技股价上涨13.53%。",
+    "content": "美股芯片概念股涨幅扩大，美光科技股价上涨13.53%。",
+    "full_content": "美股芯片概念股涨幅扩大，美光科技股价上涨13.53%。",
+    "sort_time": "1778257501014126",
+    "showTime": "2026-05-09 00:25:01",
+    "time": "2026-05-09 00:25:01",
+    "publish_time": "2026-05-09 00:25:01",
+    "raw_data": {
+      "code": "202605093731914126",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1778257501014126",
+      "share": 5,
+      "showTime": "2026-05-09 00:25:01",
+      "stockList": [
+        "0.159813",
+        "150.159813"
+      ],
+      "summary": "美股芯片概念股涨幅扩大，美光科技股价上涨13.53%。",
+      "title": "美股芯片概念股涨幅扩大 美光科技涨超13%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731914126.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.159813",
+      "150.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 5,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "59d98dd4058f0018",
+    "code": "202605093731914063",
+    "title": "欧洲央行管委内格尔：欧洲央行将采取必要措施控制能源价格上涨",
+    "summary": "【欧洲央行管委内格尔：欧洲央行将采取必要措施控制能源价格上涨】欧洲央行管委内格尔表示，欧洲央行将采取必要措施控制能源价格上涨。欧洲央行对通胀威胁保持高度警惕。",
+    "content": "【欧洲央行管委内格尔：欧洲央行将采取必要措施控制能源价格上涨】欧洲央行管委内格尔表示，欧洲央行将采取必要措施控制能源价格上涨。欧洲央行对通胀威胁保持高度警惕。",
+    "full_content": "【欧洲央行管委内格尔：欧洲央行将采取必要措施控制能源价格上涨】欧洲央行管委内格尔表示，欧洲央行将采取必要措施控制能源价格上涨。欧洲央行对通胀威胁保持高度警惕。",
+    "sort_time": "1778257248014063",
+    "showTime": "2026-05-09 00:20:48",
+    "time": "2026-05-09 00:20:48",
+    "publish_time": "2026-05-09 00:20:48",
+    "raw_data": {
+      "code": "202605093731914063",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1778257248014063",
+      "share": 0,
+      "showTime": "2026-05-09 00:20:48",
+      "stockList": [
+        "0.159945",
+        "150.014238"
+      ],
+      "summary": "【欧洲央行管委内格尔：欧洲央行将采取必要措施控制能源价格上涨】欧洲央行管委内格尔表示，欧洲央行将采取必要措施控制能源价格上涨。欧洲央行对通胀威胁保持高度警惕。",
+      "title": "欧洲央行管委内格尔：欧洲央行将采取必要措施控制能源价格上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731914063.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "fa8e979a30f4c3cd",
+    "code": "202605093731913876",
+    "title": "Jane Street季度交易收入达到创纪录的161亿美元",
+    "summary": "【Jane Street季度交易收入达到创纪录的161亿美元】JaneStreetGroup在今年第一季度创下161亿美元交易收入的纪录，较2025年第一季度的收入增长了一倍多。净利润同样较去年同期翻了一番，JaneStreet报告第一季度净利润为103亿美元。JaneStreet的业绩主要受中频策略推动，并受益于对人工智能和科技公司的私人投资。",
+    "content": "【Jane Street季度交易收入达到创纪录的161亿美元】JaneStreetGroup在今年第一季度创下161亿美元交易收入的纪录，较2025年第一季度的收入增长了一倍多。净利润同样较去年同期翻了一番，JaneStreet报告第一季度净利润为103亿美元。JaneStreet的业绩主要受中频策略推动，并受益于对人工智能和科技公司的私人投资。",
+    "full_content": "【Jane Street季度交易收入达到创纪录的161亿美元】JaneStreetGroup在今年第一季度创下161亿美元交易收入的纪录，较2025年第一季度的收入增长了一倍多。净利润同样较去年同期翻了一番，JaneStreet报告第一季度净利润为103亿美元。JaneStreet的业绩主要受中频策略推动，并受益于对人工智能和科技公司的私人投资。",
+    "sort_time": "1778257101013876",
+    "showTime": "2026-05-09 00:18:21",
+    "time": "2026-05-09 00:18:21",
+    "publish_time": "2026-05-09 00:18:21",
+    "raw_data": {
+      "code": "202605093731913876",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1778257101013876",
+      "share": 0,
+      "showTime": "2026-05-09 00:18:21",
+      "stockList": [
+        "0.161631",
+        "1.515980"
+      ],
+      "summary": "【Jane Street季度交易收入达到创纪录的161亿美元】JaneStreetGroup在今年第一季度创下161亿美元交易收入的纪录，较2025年第一季度的收入增长了一倍多。净利润同样较去年同期翻了一番，JaneStreet报告第一季度净利润为103亿美元。JaneStreet的业绩主要受中频策略推动，并受益于对人工智能和科技公司的私人投资。",
+      "title": "Jane Street季度交易收入达到创纪录的161亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731913876.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.161631",
+      "1.515980"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "7dcd9c43109d0d1c",
+    "code": "202605093731913741",
+    "title": "沙特配送APP Ninja为10亿美元IPO遴选银行",
+    "summary": "据知情人士透露，沙特配送APP Ninja为10亿美元IPO遴选银行。",
+    "content": "据知情人士透露，沙特配送APP Ninja为10亿美元IPO遴选银行。",
+    "full_content": "据知情人士透露，沙特配送APP Ninja为10亿美元IPO遴选银行。",
+    "sort_time": "1778257014013741",
+    "showTime": "2026-05-09 00:16:54",
+    "time": "2026-05-09 00:16:54",
+    "publish_time": "2026-05-09 00:16:54",
+    "raw_data": {
+      "code": "202605093731913741",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1778257014013741",
+      "share": 0,
+      "showTime": "2026-05-09 00:16:54",
+      "stockList": [
+        "90.BK1283",
+        "90.BK0697"
+      ],
+      "summary": "据知情人士透露，沙特配送APP Ninja为10亿美元IPO遴选银行。",
+      "title": "沙特配送APP Ninja为10亿美元IPO遴选银行",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731913741.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101",
+        "I020202"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "7b5d17108086565c",
+    "code": "202605093731913684",
+    "title": "高盛预计美国LNG供应可能会在夏季比之前预料的低5 MTPA",
+    "summary": "高盛预计美国LNG供应可能会在夏季比之前预料的低5 MTPA。",
+    "content": "高盛预计美国LNG供应可能会在夏季比之前预料的低5 MTPA。",
+    "full_content": "高盛预计美国LNG供应可能会在夏季比之前预料的低5 MTPA。",
+    "sort_time": "1778256962013684",
+    "showTime": "2026-05-09 00:16:02",
+    "time": "2026-05-09 00:16:02",
+    "publish_time": "2026-05-09 00:16:02",
+    "raw_data": {
+      "code": "202605093731913684",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1778256962013684",
+      "share": 1,
+      "showTime": "2026-05-09 00:16:02",
+      "stockList": [],
+      "summary": "高盛预计美国LNG供应可能会在夏季比之前预料的低5 MTPA。",
+      "title": "高盛预计美国LNG供应可能会在夏季比之前预料的低5 MTPA",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731913684.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "LNG"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "7bf3dcb5f0e6cd61",
+    "code": "202605093731911036",
+    "title": "消息人士称目前霍尔木兹海峡周边地区局势平静",
+    "summary": "【消息人士称目前霍尔木兹海峡周边地区局势平静】当地时间8日，总台记者获悉，伊朗军方消息人士称，目前霍尔木兹海峡周边地区局势平静，但如果美国方面再次进入相关区域并为伊朗船只“制造麻烦”，就可能发生冲突。",
+    "content": "【消息人士称目前霍尔木兹海峡周边地区局势平静】当地时间8日，总台记者获悉，伊朗军方消息人士称，目前霍尔木兹海峡周边地区局势平静，但如果美国方面再次进入相关区域并为伊朗船只“制造麻烦”，就可能发生冲突。",
+    "full_content": "【消息人士称目前霍尔木兹海峡周边地区局势平静】当地时间8日，总台记者获悉，伊朗军方消息人士称，目前霍尔木兹海峡周边地区局势平静，但如果美国方面再次进入相关区域并为伊朗船只“制造麻烦”，就可能发生冲突。",
+    "sort_time": "1778256739011036",
+    "showTime": "2026-05-09 00:12:19",
+    "time": "2026-05-09 00:12:19",
+    "publish_time": "2026-05-09 00:12:19",
+    "raw_data": {
+      "code": "202605093731911036",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1778256739011036",
+      "share": 2,
+      "showTime": "2026-05-09 00:12:19",
+      "stockList": [],
+      "summary": "【消息人士称目前霍尔木兹海峡周边地区局势平静】当地时间8日，总台记者获悉，伊朗军方消息人士称，目前霍尔木兹海峡周边地区局势平静，但如果美国方面再次进入相关区域并为伊朗船只“制造麻烦”，就可能发生冲突。",
+      "title": "消息人士称目前霍尔木兹海峡周边地区局势平静",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731911036.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b61b5e11afb65788",
+    "code": "202605093731905353",
+    "title": "伊朗议员称美对伊海上封锁行动将遭军事回应",
+    "summary": "【伊朗议员称美对伊海上封锁行动将遭军事回应】伊朗议会国家安全委员会成员哈兹里安当地时间8日在接受当地媒体采访时表示，“从现在起，美国对伊朗海上封锁的行动将遭到伊朗的军事回应。美国应该为其驱逐舰提供多艘护航舰艇，以便在驱逐舰沉没时能够营救其舰员”。",
+    "content": "【伊朗议员称美对伊海上封锁行动将遭军事回应】伊朗议会国家安全委员会成员哈兹里安当地时间8日在接受当地媒体采访时表示，“从现在起，美国对伊朗海上封锁的行动将遭到伊朗的军事回应。美国应该为其驱逐舰提供多艘护航舰艇，以便在驱逐舰沉没时能够营救其舰员”。",
+    "full_content": "【伊朗议员称美对伊海上封锁行动将遭军事回应】伊朗议会国家安全委员会成员哈兹里安当地时间8日在接受当地媒体采访时表示，“从现在起，美国对伊朗海上封锁的行动将遭到伊朗的军事回应。美国应该为其驱逐舰提供多艘护航舰艇，以便在驱逐舰沉没时能够营救其舰员”。",
+    "sort_time": "1778256142005353",
+    "showTime": "2026-05-09 00:02:22",
+    "time": "2026-05-09 00:02:22",
+    "publish_time": "2026-05-09 00:02:22",
+    "raw_data": {
+      "code": "202605093731905353",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1778256142005353",
+      "share": 3,
+      "showTime": "2026-05-09 00:02:22",
+      "stockList": [],
+      "summary": "【伊朗议员称美对伊海上封锁行动将遭军事回应】伊朗议会国家安全委员会成员哈兹里安当地时间8日在接受当地媒体采访时表示，“从现在起，美国对伊朗海上封锁的行动将遭到伊朗的军事回应。美国应该为其驱逐舰提供多艘护航舰艇，以便在驱逐舰沉没时能够营救其舰员”。",
+      "title": "伊朗议员称美对伊海上封锁行动将遭军事回应",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605093731905353.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "975ea7bddfd6aa01",
+    "code": "202605083731901414",
+    "title": "英特尔日内涨幅扩大至超8%",
+    "summary": "英特尔日内涨幅扩大至超8%。",
+    "content": "英特尔日内涨幅扩大至超8%。",
+    "full_content": "英特尔日内涨幅扩大至超8%。",
+    "sort_time": "1778255860001414",
+    "showTime": "2026-05-08 23:57:40",
+    "time": "2026-05-08 23:57:40",
+    "publish_time": "2026-05-08 23:57:40",
+    "raw_data": {
+      "code": "202605083731901414",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1778255860001414",
+      "share": 1,
+      "showTime": "2026-05-08 23:57:40",
+      "stockList": [
+        "105.INTC"
+      ],
+      "summary": "英特尔日内涨幅扩大至超8%。",
+      "title": "英特尔日内涨幅扩大至超8%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605083731901414.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.INTC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c91198cdc97bdadd",
+    "code": "202605083731899758",
+    "title": "圣阳股份：目前没有介入光通信业务及重组相关公司计划",
+    "summary": "【圣阳股份：目前没有介入光通信业务及重组相关公司计划】圣阳股份在互动平台表示，截至目前，公司没有介入光通信/光芯片/CPO等业务的规划，也无重组该类型公司的相关计划。",
+    "content": "【圣阳股份：目前没有介入光通信业务及重组相关公司计划】圣阳股份在互动平台表示，截至目前，公司没有介入光通信/光芯片/CPO等业务的规划，也无重组该类型公司的相关计划。",
+    "full_content": "【圣阳股份：目前没有介入光通信业务及重组相关公司计划】圣阳股份在互动平台表示，截至目前，公司没有介入光通信/光芯片/CPO等业务的规划，也无重组该类型公司的相关计划。",
+    "sort_time": "1778255268099758",
+    "showTime": "2026-05-08 23:47:48",
+    "time": "2026-05-08 23:47:48",
+    "publish_time": "2026-05-08 23:47:48",
+    "raw_data": {
+      "code": "202605083731899758",
+      "image": [],
+      "pinglun_Num": 25,
+      "realSort": "1778255268099758",
+      "share": 6,
+      "showTime": "2026-05-08 23:47:48",
+      "stockList": [
+        "150.012372",
+        "150.159813"
+      ],
+      "summary": "【圣阳股份：目前没有介入光通信业务及重组相关公司计划】圣阳股份在互动平台表示，截至目前，公司没有介入光通信/光芯片/CPO等业务的规划，也无重组该类型公司的相关计划。",
+      "title": "圣阳股份：目前没有介入光通信业务及重组相关公司计划",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605083731899758.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.012372",
+      "150.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 25,
+    "share_count": 6,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002",
+        "C004"
+      ]
+    }
+  },
+  {
     "id": "c388e496da3d647a",
     "code": "202605083731894761",
     "title": "美媒称万斯会见卡塔尔首相 讨论与伊朗谈判事宜",
