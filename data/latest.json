@@ -1,5 +1,505 @@
 [
   {
+    "id": "ae5655971d27a856",
+    "code": "202605193740910960",
+    "title": "权益类贡献过半 基金年内分红近630亿元",
+    "summary": "【权益类贡献过半 基金年内分红近630亿元】进入5月，近200只公募基金产品已实施或即将派发红利。年内基金“红包”总额已逼近630亿元，权益类基金贡献额较去年同期大幅增长。",
+    "content": "【权益类贡献过半 基金年内分红近630亿元】进入5月，近200只公募基金产品已实施或即将派发红利。年内基金“红包”总额已逼近630亿元，权益类基金贡献额较去年同期大幅增长。",
+    "full_content": "【权益类贡献过半 基金年内分红近630亿元】进入5月，近200只公募基金产品已实施或即将派发红利。年内基金“红包”总额已逼近630亿元，权益类基金贡献额较去年同期大幅增长。",
+    "sort_time": "1779142388010960",
+    "showTime": "2026-05-19 06:13:08",
+    "time": "2026-05-19 06:13:08",
+    "publish_time": "2026-05-19 06:13:08",
+    "raw_data": {
+      "code": "202605193740910960",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779142388010960",
+      "share": 0,
+      "showTime": "2026-05-19 06:13:08",
+      "stockList": [],
+      "summary": "【权益类贡献过半 基金年内分红近630亿元】进入5月，近200只公募基金产品已实施或即将派发红利。年内基金“红包”总额已逼近630亿元，权益类基金贡献额较去年同期大幅增长。",
+      "title": "权益类贡献过半 基金年内分红近630亿元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740910960.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "公募"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7bb213012ef0f795",
+    "code": "202605193740906844",
+    "title": "银行理财收益回暖 四月规模增长超预期",
+    "summary": "【银行理财收益回暖 四月规模增长超预期】在经历一季度规模大幅缩水后，银行理财市场于4月迎来强劲反弹，单月新增规模达2.6万亿元，超出市场预期。其中，“固收+”产品凭借收益回暖获得投资者青睐，成为助推本轮规模增长的主力军。",
+    "content": "【银行理财收益回暖 四月规模增长超预期】在经历一季度规模大幅缩水后，银行理财市场于4月迎来强劲反弹，单月新增规模达2.6万亿元，超出市场预期。其中，“固收+”产品凭借收益回暖获得投资者青睐，成为助推本轮规模增长的主力军。",
+    "full_content": "【银行理财收益回暖 四月规模增长超预期】在经历一季度规模大幅缩水后，银行理财市场于4月迎来强劲反弹，单月新增规模达2.6万亿元，超出市场预期。其中，“固收+”产品凭借收益回暖获得投资者青睐，成为助推本轮规模增长的主力军。",
+    "sort_time": "1779142371006844",
+    "showTime": "2026-05-19 06:12:51",
+    "time": "2026-05-19 06:12:51",
+    "publish_time": "2026-05-19 06:12:51",
+    "raw_data": {
+      "code": "202605193740906844",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779142371006844",
+      "share": 0,
+      "showTime": "2026-05-19 06:12:51",
+      "stockList": [
+        "90.BK0475",
+        "90.BK1283"
+      ],
+      "summary": "【银行理财收益回暖 四月规模增长超预期】在经历一季度规模大幅缩水后，银行理财市场于4月迎来强劲反弹，单月新增规模达2.6万亿元，超出市场预期。其中，“固收+”产品凭借收益回暖获得投资者青睐，成为助推本轮规模增长的主力军。",
+      "title": "银行理财收益回暖 四月规模增长超预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740906844.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0475",
+      "90.BK1283"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "C404",
+          "name": "信托",
+          "matched_keyword": "理财"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402",
+        "C404"
+      ]
+    }
+  },
+  {
+    "id": "a3897f90e87f340d",
+    "code": "202605193740940788",
+    "title": "智利央行将风险资产的资本金要求提高至1.0%",
+    "summary": "智利央行将风险资产的资本金要求提高至1.0%。",
+    "content": "智利央行将风险资产的资本金要求提高至1.0%。",
+    "full_content": "智利央行将风险资产的资本金要求提高至1.0%。",
+    "sort_time": "1779142190040788",
+    "showTime": "2026-05-19 06:09:50",
+    "time": "2026-05-19 06:09:50",
+    "publish_time": "2026-05-19 06:09:50",
+    "raw_data": {
+      "code": "202605193740940788",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779142190040788",
+      "share": 0,
+      "showTime": "2026-05-19 06:09:50",
+      "stockList": [],
+      "summary": "智利央行将风险资产的资本金要求提高至1.0%。",
+      "title": "智利央行将风险资产的资本金要求提高至1.0%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740940788.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "5662785c64b1cba1",
+    "code": "202605193740939779",
+    "title": "WTI原油期货跌幅扩大至2%",
+    "summary": "5月19日，WTI原油期货跌幅扩大至2%，报102.248美元/桶。",
+    "content": "5月19日，WTI原油期货跌幅扩大至2%，报102.248美元/桶。",
+    "full_content": "5月19日，WTI原油期货跌幅扩大至2%，报102.248美元/桶。",
+    "sort_time": "1779141727039779",
+    "showTime": "2026-05-19 06:02:07",
+    "time": "2026-05-19 06:02:07",
+    "publish_time": "2026-05-19 06:02:07",
+    "raw_data": {
+      "code": "202605193740939779",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1779141727039779",
+      "share": 1,
+      "showTime": "2026-05-19 06:02:07",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "5月19日，WTI原油期货跌幅扩大至2%，报102.248美元/桶。",
+      "title": "WTI原油期货跌幅扩大至2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740939779.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "4d4ad38342753e40",
+    "code": "202605193740938360",
+    "title": "英伟达称 Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室",
+    "summary": "英伟达称，VeraCPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+    "content": "英伟达称，VeraCPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+    "full_content": "英伟达称，VeraCPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+    "sort_time": "1779141677038360",
+    "showTime": "2026-05-19 06:01:17",
+    "time": "2026-05-19 06:01:17",
+    "publish_time": "2026-05-19 06:01:17",
+    "raw_data": {
+      "code": "202605193740938360",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1779141677038360",
+      "share": 3,
+      "showTime": "2026-05-19 06:01:17",
+      "stockList": [
+        "90.BK0800",
+        "90.BK1161"
+      ],
+      "summary": "英伟达称，VeraCPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+      "title": "英伟达称 Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740938360.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "90.BK1161"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "ecd96a1827b0d639",
+    "code": "202605193740938289",
+    "title": "周二（5月19日）重点关注财经事件和经济数据",
+    "summary": "【周二（5月19日）重点关注财经事件和经济数据】①待定俄罗斯总统普京访华；②待定美国总统特朗普讨论军事行动选项；③09:30澳洲联储公布5月货币政策会议纪要。",
+    "content": "【周二（5月19日）重点关注财经事件和经济数据】①待定俄罗斯总统普京访华；②待定美国总统特朗普讨论军事行动选项；③09:30澳洲联储公布5月货币政策会议纪要。",
+    "full_content": "【周二（5月19日）重点关注财经事件和经济数据】①待定俄罗斯总统普京访华；②待定美国总统特朗普讨论军事行动选项；③09:30澳洲联储公布5月货币政策会议纪要。",
+    "sort_time": "1779141604038289",
+    "showTime": "2026-05-19 06:00:04",
+    "time": "2026-05-19 06:00:04",
+    "publish_time": "2026-05-19 06:00:04",
+    "raw_data": {
+      "code": "202605193740938289",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779141604038289",
+      "share": 2,
+      "showTime": "2026-05-19 06:00:04",
+      "stockList": [],
+      "summary": "【周二（5月19日）重点关注财经事件和经济数据】①待定俄罗斯总统普京访华；②待定美国总统特朗普讨论军事行动选项；③09:30澳洲联储公布5月货币政策会议纪要。",
+      "title": "周二（5月19日）重点关注财经事件和经济数据",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740938289.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "051d685e74b9476d",
+    "code": "202605193740938045",
+    "title": "周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一",
+    "summary": "【周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一】1、消息称白宫认为伊朗最新提案无实质性改进，美总统特朗普正考虑重启军事行动。2、特朗普表示，他已下令“明天（19日）”不按原计划对伊朗发动军事打击。3、据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
+    "content": "【周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一】1、消息称白宫认为伊朗最新提案无实质性改进，美总统特朗普正考虑重启军事行动。2、特朗普表示，他已下令“明天（19日）”不按原计划对伊朗发动军事打击。3、据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
+    "full_content": "【周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一】1、消息称白宫认为伊朗最新提案无实质性改进，美总统特朗普正考虑重启军事行动。2、特朗普表示，他已下令“明天（19日）”不按原计划对伊朗发动军事打击。3、据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
+    "sort_time": "1779141600038045",
+    "showTime": "2026-05-19 06:00:00",
+    "time": "2026-05-19 06:00:00",
+    "publish_time": "2026-05-19 06:00:00",
+    "raw_data": {
+      "code": "202605193740938045",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779141600038045",
+      "share": 6,
+      "showTime": "2026-05-19 06:00:00",
+      "stockList": [
+        "150.013446",
+        "105.NVDA"
+      ],
+      "summary": "【周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一】1、消息称白宫认为伊朗最新提案无实质性改进，美总统特朗普正考虑重启军事行动。2、特朗普表示，他已下令“明天（19日）”不按原计划对伊朗发动军事打击。3、据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
+      "title": "周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740938045.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.013446",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9c3408b438708ce2",
+    "code": "202605193740935744",
+    "title": "日本官员表示 美国收益率上升可能导致日元贬值",
+    "summary": "日本官员表示，美国收益率上升可能导致日元贬值。",
+    "content": "日本官员表示，美国收益率上升可能导致日元贬值。",
+    "full_content": "日本官员表示，美国收益率上升可能导致日元贬值。",
+    "sort_time": "1779141302035744",
+    "showTime": "2026-05-19 05:55:02",
+    "time": "2026-05-19 05:55:02",
+    "publish_time": "2026-05-19 05:55:02",
+    "raw_data": {
+      "code": "202605193740935744",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779141302035744",
+      "share": 0,
+      "showTime": "2026-05-19 05:55:02",
+      "stockList": [],
+      "summary": "日本官员表示，美国收益率上升可能导致日元贬值。",
+      "title": "日本官员表示 美国收益率上升可能导致日元贬值",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740935744.html",
+    "category": "债券",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8d3687f6a48fcf6a",
+    "code": "202605193740909493",
+    "title": "前4月经济运行稳中有进 新动能亮点愈发凸显",
+    "summary": "【前4月经济运行稳中有进 新动能亮点愈发凸显】5月18日，国家统计局发布数据显示，1—4月份国民经济保持稳中有进发展态势，高质量发展扎实推进。一系列结构性指标展现出经济发展向新向优的特点。业内分析认为，尽管面对内外多重压力，我国经济“稳”的主基调没有变，后续扩消费、稳投资空间广阔。",
+    "content": "【前4月经济运行稳中有进 新动能亮点愈发凸显】5月18日，国家统计局发布数据显示，1—4月份国民经济保持稳中有进发展态势，高质量发展扎实推进。一系列结构性指标展现出经济发展向新向优的特点。业内分析认为，尽管面对内外多重压力，我国经济“稳”的主基调没有变，后续扩消费、稳投资空间广阔。",
+    "full_content": "【前4月经济运行稳中有进 新动能亮点愈发凸显】5月18日，国家统计局发布数据显示，1—4月份国民经济保持稳中有进发展态势，高质量发展扎实推进。一系列结构性指标展现出经济发展向新向优的特点。业内分析认为，尽管面对内外多重压力，我国经济“稳”的主基调没有变，后续扩消费、稳投资空间广阔。",
+    "sort_time": "1779140889009493",
+    "showTime": "2026-05-19 05:48:09",
+    "time": "2026-05-19 05:48:09",
+    "publish_time": "2026-05-19 05:48:09",
+    "raw_data": {
+      "code": "202605193740909493",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1779140889009493",
+      "share": 0,
+      "showTime": "2026-05-19 05:48:09",
+      "stockList": [
+        "90.BK0428",
+        "150.014238"
+      ],
+      "summary": "【前4月经济运行稳中有进 新动能亮点愈发凸显】5月18日，国家统计局发布数据显示，1—4月份国民经济保持稳中有进发展态势，高质量发展扎实推进。一系列结构性指标展现出经济发展向新向优的特点。业内分析认为，尽管面对内外多重压力，我国经济“稳”的主基调没有变，后续扩消费、稳投资空间广阔。",
+      "title": "前4月经济运行稳中有进 新动能亮点愈发凸显",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740909493.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0428",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "237b8210aaa4a65d",
+    "code": "202605193740926265",
+    "title": "花旗：铝库存将在未来6至12个月内降至历史新低",
+    "summary": "【花旗：铝库存将在未来6至12个月内降至历史新低】花旗预计，铝库存将在未来6至12个月内降至历史新低，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。在乐观情景下，2027年铝的平均价格将达到5350美元/吨。",
+    "content": "【花旗：铝库存将在未来6至12个月内降至历史新低】花旗预计，铝库存将在未来6至12个月内降至历史新低，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。在乐观情景下，2027年铝的平均价格将达到5350美元/吨。",
+    "full_content": "【花旗：铝库存将在未来6至12个月内降至历史新低】花旗预计，铝库存将在未来6至12个月内降至历史新低，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。在乐观情景下，2027年铝的平均价格将达到5350美元/吨。",
+    "sort_time": "1779139694026265",
+    "showTime": "2026-05-19 05:28:14",
+    "time": "2026-05-19 05:28:14",
+    "publish_time": "2026-05-19 05:28:14",
+    "raw_data": {
+      "code": "202605193740926265",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779139694026265",
+      "share": 8,
+      "showTime": "2026-05-19 05:28:14",
+      "stockList": [],
+      "summary": "【花旗：铝库存将在未来6至12个月内降至历史新低】花旗预计，铝库存将在未来6至12个月内降至历史新低，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。在乐观情景下，2027年铝的平均价格将达到5350美元/吨。",
+      "title": "花旗：铝库存将在未来6至12个月内降至历史新低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740926265.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "铝"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
     "id": "9bc8478a597e3f73",
     "code": "202605193740924666",
     "title": "富时A50期指连续夜盘收跌0.05%",
@@ -119,7 +619,7 @@
     "raw_data": {
       "code": "202605193740924454",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 8,
       "realSort": "1779139286024454",
       "share": 0,
       "showTime": "2026-05-19 05:21:26",
@@ -139,7 +639,7 @@
       "90.BK0465"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -461,9 +961,9 @@
     "raw_data": {
       "code": "202605193740917681",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 30,
       "realSort": "1779135829017681",
-      "share": 8,
+      "share": 17,
       "showTime": "2026-05-19 04:23:49",
       "stockList": [],
       "summary": "【伊朗最高领袖重申将考虑开辟新战线】伊朗最高领袖穆杰塔巴·哈梅内伊的社交媒体账号18日再次摘发其上任后首份声明，重申将考虑在敌人不擅长的领域开辟新战线。声明说，关于开辟其他战线的问题，相关研究已经完成，“敌人在这些领域经验极少且极度脆弱”。声明表示，如果“战争状态”持续，伊朗将开辟这些新战线。",
@@ -477,8 +977,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 8,
+    "comment_count": 30,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -502,7 +1002,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1779134452016112",
-      "share": 5,
+      "share": 8,
       "showTime": "2026-05-19 04:00:52",
       "stockList": [
         "90.BK1036",
@@ -523,7 +1023,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 5,
+    "share_count": 8,
     "tags": {
       "industries": [
         {
@@ -577,7 +1077,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1779134450016261",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-05-19 04:00:50",
       "stockList": [],
       "summary": "纳斯达克中国金龙指数收跌0.72%。成分股中，理想汽车跌近10%，再鼎医药跌超8%，慧荣科技跌超7%，日月光投控跌超6%，麦思智能跌超5%；腾讯音乐涨超6%，世纪互联涨超4%，霸王茶姬、大健云仓涨超3%。",
@@ -592,7 +1092,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 3,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -663,7 +1163,7 @@
     "raw_data": {
       "code": "202605193740915912",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1779133793015912",
       "share": 0,
       "showTime": "2026-05-19 03:49:53",
@@ -679,7 +1179,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -741,9 +1241,9 @@
     "raw_data": {
       "code": "202605193740915455",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1779132636015455",
-      "share": 3,
+      "share": 21,
       "showTime": "2026-05-19 03:30:36",
       "stockList": [],
       "summary": "【新增38种专业 本科专业调整折射哪些新趋势】教育部近日发布《普通高等学校本科专业目录（2026年）》，共新增38种普通高校本科专业。获批申办高校可纳入2026年高考招生。新增本科专业有哪些特点？开展专业调整工作有哪些考虑？如何通过专业设置调整提升人才培养质量？“新华视点”记者进行了采访。",
@@ -757,8 +1257,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
+    "comment_count": 1,
+    "share_count": 21,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -819,9 +1319,9 @@
     "raw_data": {
       "code": "202605193740911840",
       "image": [],
-      "pinglun_Num": 75,
+      "pinglun_Num": 193,
       "realSort": "1779131803011840",
-      "share": 55,
+      "share": 273,
       "showTime": "2026-05-19 03:16:43",
       "stockList": [],
       "summary": "【特朗普称将推迟对伊朗发动军事打击】当地时间5月18日，美国总统特朗普在社交平台“真实社交”发文表示，在卡塔尔、沙特阿拉伯、阿联酋领导人要求下，他已下令“19日”不按原计划对伊朗发动军事打击。",
@@ -835,8 +1335,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 75,
-    "share_count": 55,
+    "comment_count": 193,
+    "share_count": 273,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -936,9 +1436,9 @@
     "raw_data": {
       "code": "202605193740911386",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 6,
       "realSort": "1779131143011386",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-05-19 03:05:43",
       "stockList": [],
       "summary": "【美国针对埃博拉疫情发布旅行新规】美国疾病控制与预防中心当地时间5月18日表示，由于对刚果（金）埃博拉疫情的担忧日益加剧，美国将暂停部分旅客入境30天，以降低埃博拉疫情传播的风险。疾病控制与预防中心同时告知美国民众，目前的风险仍然较低。",
@@ -952,8 +1452,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 3,
+    "comment_count": 6,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -975,7 +1475,7 @@
     "raw_data": {
       "code": "202605193740911978",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1779130847011978",
       "share": 2,
       "showTime": "2026-05-19 03:00:47",
@@ -997,7 +1497,7 @@
       "1.515980"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1028,9 +1528,9 @@
     "raw_data": {
       "code": "202605193740907583",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 16,
       "realSort": "1779129886007583",
-      "share": 29,
+      "share": 71,
       "showTime": "2026-05-19 02:44:46",
       "stockList": [
         "90.BK0800",
@@ -1050,8 +1550,8 @@
       "90.BK0150"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 29,
+    "comment_count": 16,
+    "share_count": 71,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1128,7 +1628,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1779129455008682",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-05-19 02:37:35",
       "stockList": [
         "90.BK1137",
@@ -1149,7 +1649,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [
         {
@@ -1295,9 +1795,9 @@
     "raw_data": {
       "code": "202605193740906239",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 26,
       "realSort": "1779128985006239",
-      "share": 5,
+      "share": 8,
       "showTime": "2026-05-19 02:29:45",
       "stockList": [
         "90.BK1161",
@@ -1317,8 +1817,8 @@
       "105.NVDA"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 5,
+    "comment_count": 26,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1465,9 +1965,9 @@
     "raw_data": {
       "code": "202605193740905817",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 15,
       "realSort": "1779126727005817",
-      "share": 1,
+      "share": 5,
       "showTime": "2026-05-19 01:52:07",
       "stockList": [
         "90.BK0464"
@@ -1485,8 +1985,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 1,
+    "comment_count": 15,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1516,9 +2016,9 @@
     "raw_data": {
       "code": "202605193740905774",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1779126502005774",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-05-19 01:48:22",
       "stockList": [],
       "summary": "【美国一地发现汉坦病毒死亡病例 无关邮轮疫情】据美国媒体18日报道，科罗拉多州日前发现的一例本地感染汉坦病毒死亡病例与“洪迪厄斯”号邮轮疫情无关。科罗拉多州公共卫生与环境部此前发表声明称，该死亡病例为道格拉斯县一名成年居民。初步调查显示，感染可能与接触当地啮齿动物有关。目前公众感染风险仍然较低，相关调查仍在进行中。",
@@ -1532,8 +2032,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 2,
+    "comment_count": 6,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1555,7 +2055,7 @@
     "raw_data": {
       "code": "202605193740905591",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1779125648005591",
       "share": 0,
       "showTime": "2026-05-19 01:34:08",
@@ -1571,7 +2071,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1696,7 +2196,7 @@
     "raw_data": {
       "code": "202605193740903017",
       "image": [],
-      "pinglun_Num": 28,
+      "pinglun_Num": 29,
       "realSort": "1779125179003017",
       "share": 2,
       "showTime": "2026-05-19 01:26:19",
@@ -1712,7 +2212,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 28,
+    "comment_count": 29,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1797,502 +2297,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "33513e0bb4cd3704",
-    "code": "202605193740901411",
-    "title": "美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动",
-    "summary": "【美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动】据美国阿克西奥斯新闻网站18日援引美方高级官员的话报道，白宫认为伊朗最新提案没有实质性改进，不足以作为达成协议的基础，美总统特朗普正考虑重启军事行动。",
-    "content": "【美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动】据美国阿克西奥斯新闻网站18日援引美方高级官员的话报道，白宫认为伊朗最新提案没有实质性改进，不足以作为达成协议的基础，美总统特朗普正考虑重启军事行动。",
-    "full_content": "【美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动】据美国阿克西奥斯新闻网站18日援引美方高级官员的话报道，白宫认为伊朗最新提案没有实质性改进，不足以作为达成协议的基础，美总统特朗普正考虑重启军事行动。",
-    "sort_time": "1779124522001411",
-    "showTime": "2026-05-19 01:15:22",
-    "time": "2026-05-19 01:15:22",
-    "publish_time": "2026-05-19 01:15:22",
-    "raw_data": {
-      "code": "202605193740901411",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1779124522001411",
-      "share": 8,
-      "showTime": "2026-05-19 01:15:22",
-      "stockList": [],
-      "summary": "【美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动】据美国阿克西奥斯新闻网站18日援引美方高级官员的话报道，白宫认为伊朗最新提案没有实质性改进，不足以作为达成协议的基础，美总统特朗普正考虑重启军事行动。",
-      "title": "美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740901411.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "1ac35e0d5510fef8",
-    "code": "202605193740900213",
-    "title": "算电协同推动虚拟电厂迈入“黄金发展期”",
-    "summary": "【算电协同推动虚拟电厂迈入“黄金发展期”】随着算电协同技术加速落地，虚拟电厂迎来“黄金发展期”。近日，我国大型数据中心以虚拟电厂形式参与电力现货交易，实现“算随电动”。中国联通集团韶关数据中心、中国移动集团广州及湛江数据中心共3个大型数据中心集群，依托广东电网能源投资有限公司“粤能投虚拟电厂运营平台”，正式参与现货市场电能量交易与结算，实现“现货灵活购”。",
-    "content": "【算电协同推动虚拟电厂迈入“黄金发展期”】随着算电协同技术加速落地，虚拟电厂迎来“黄金发展期”。近日，我国大型数据中心以虚拟电厂形式参与电力现货交易，实现“算随电动”。中国联通集团韶关数据中心、中国移动集团广州及湛江数据中心共3个大型数据中心集群，依托广东电网能源投资有限公司“粤能投虚拟电厂运营平台”，正式参与现货市场电能量交易与结算，实现“现货灵活购”。",
-    "full_content": "【算电协同推动虚拟电厂迈入“黄金发展期”】随着算电协同技术加速落地，虚拟电厂迎来“黄金发展期”。近日，我国大型数据中心以虚拟电厂形式参与电力现货交易，实现“算随电动”。中国联通集团韶关数据中心、中国移动集团广州及湛江数据中心共3个大型数据中心集群，依托广东电网能源投资有限公司“粤能投虚拟电厂运营平台”，正式参与现货市场电能量交易与结算，实现“现货灵活购”。",
-    "sort_time": "1779124440000213",
-    "showTime": "2026-05-19 01:14:00",
-    "time": "2026-05-19 01:14:00",
-    "publish_time": "2026-05-19 01:14:00",
-    "raw_data": {
-      "code": "202605193740900213",
-      "image": [],
-      "pinglun_Num": 33,
-      "realSort": "1779124440000213",
-      "share": 14,
-      "showTime": "2026-05-19 01:14:00",
-      "stockList": [
-        "90.BK0457",
-        "90.BK0958"
-      ],
-      "summary": "【算电协同推动虚拟电厂迈入“黄金发展期”】随着算电协同技术加速落地，虚拟电厂迎来“黄金发展期”。近日，我国大型数据中心以虚拟电厂形式参与电力现货交易，实现“算随电动”。中国联通集团韶关数据中心、中国移动集团广州及湛江数据中心共3个大型数据中心集群，依托广东电网能源投资有限公司“粤能投虚拟电厂运营平台”，正式参与现货市场电能量交易与结算，实现“现货灵活购”。",
-      "title": "算电协同推动虚拟电厂迈入“黄金发展期”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740900213.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0457",
-      "90.BK0958"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 33,
-    "share_count": 14,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010203",
-          "name": "输配电设备",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "电网"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C006",
-          "name": "大数据",
-          "matched_keyword": "数据中心"
-        },
-        {
-          "id": "C108",
-          "name": "特高压",
-          "matched_keyword": "电网"
-        },
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [
-        "I010203"
-      ],
-      "concept_ids": [
-        "C006",
-        "C108",
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "f5be8db84af0aa61",
-    "code": "202605193740899986",
-    "title": "戴尔称：SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力 使其成为更安全、企业级的人工智能助手",
-    "summary": "戴尔称，SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力，使其成为更安全、企业级的人工智能助手。",
-    "content": "戴尔称，SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力，使其成为更安全、企业级的人工智能助手。",
-    "full_content": "戴尔称，SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力，使其成为更安全、企业级的人工智能助手。",
-    "sort_time": "1779124243099986",
-    "showTime": "2026-05-19 01:10:43",
-    "time": "2026-05-19 01:10:43",
-    "publish_time": "2026-05-19 01:10:43",
-    "raw_data": {
-      "code": "202605193740899986",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1779124243099986",
-      "share": 1,
-      "showTime": "2026-05-19 01:10:43",
-      "stockList": [
-        "90.BK0800",
-        "0.161631"
-      ],
-      "summary": "戴尔称，SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力，使其成为更安全、企业级的人工智能助手。",
-      "title": "戴尔称：SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力 使其成为更安全、企业级的人工智能助手",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740899986.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "0.161631"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "bebb97ef634092ef",
-    "code": "202605193740899175",
-    "title": "戴尔称：谷歌与戴尔合作 在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型",
-    "summary": "戴尔称，谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
-    "content": "戴尔称，谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
-    "full_content": "戴尔称，谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
-    "sort_time": "1779123828099175",
-    "showTime": "2026-05-19 01:03:48",
-    "time": "2026-05-19 01:03:48",
-    "publish_time": "2026-05-19 01:03:48",
-    "raw_data": {
-      "code": "202605193740899175",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1779123828099175",
-      "share": 1,
-      "showTime": "2026-05-19 01:03:48",
-      "stockList": [
-        "106.DELL"
-      ],
-      "summary": "戴尔称，谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
-      "title": "戴尔称：谷歌与戴尔合作 在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740899175.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.DELL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "服务器"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "6b0b211d1c640917",
-    "code": "202605193740898641",
-    "title": "戴尔宣布与英伟达合作 推出一系列戴尔人工智能工厂的重大进展",
-    "summary": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
-    "content": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
-    "full_content": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
-    "sort_time": "1779123733098641",
-    "showTime": "2026-05-19 01:02:13",
-    "time": "2026-05-19 01:02:13",
-    "publish_time": "2026-05-19 01:02:13",
-    "raw_data": {
-      "code": "202605193740898641",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1779123733098641",
-      "share": 4,
-      "showTime": "2026-05-19 01:02:13",
-      "stockList": [
-        "90.BK1161",
-        "90.BK0800"
-      ],
-      "summary": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
-      "title": "戴尔宣布与英伟达合作 推出一系列戴尔人工智能工厂的重大进展",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740898641.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1161",
-      "90.BK0800"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "fcae4f9f94be284a",
-    "code": "202605193740898112",
-    "title": "土耳其外长：美伊应通过谈判化解分歧",
-    "summary": "【土耳其外长：美伊应通过谈判化解分歧】当地时间18日，正在德国访问的土耳其外长费丹就当前伊朗局势及美伊关系发表讲话。费丹强调，当前各方的首要任务是全力维护来之不易的停火状态，避免爆发直接军事冲突。",
-    "content": "【土耳其外长：美伊应通过谈判化解分歧】当地时间18日，正在德国访问的土耳其外长费丹就当前伊朗局势及美伊关系发表讲话。费丹强调，当前各方的首要任务是全力维护来之不易的停火状态，避免爆发直接军事冲突。",
-    "full_content": "【土耳其外长：美伊应通过谈判化解分歧】当地时间18日，正在德国访问的土耳其外长费丹就当前伊朗局势及美伊关系发表讲话。费丹强调，当前各方的首要任务是全力维护来之不易的停火状态，避免爆发直接军事冲突。",
-    "sort_time": "1779123602098112",
-    "showTime": "2026-05-19 01:00:02",
-    "time": "2026-05-19 01:00:02",
-    "publish_time": "2026-05-19 01:00:02",
-    "raw_data": {
-      "code": "202605193740898112",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1779123602098112",
-      "share": 1,
-      "showTime": "2026-05-19 01:00:02",
-      "stockList": [],
-      "summary": "【土耳其外长：美伊应通过谈判化解分歧】当地时间18日，正在德国访问的土耳其外长费丹就当前伊朗局势及美伊关系发表讲话。费丹强调，当前各方的首要任务是全力维护来之不易的停火状态，避免爆发直接军事冲突。",
-      "title": "土耳其外长：美伊应通过谈判化解分歧",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740898112.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "432e84f385a024b5",
-    "code": "202605193740897912",
-    "title": "LME：将铅和锌直接合约单日涨跌幅限制从15%下调至12% 新规将于6月8日起生效",
-    "summary": "【LME：将铅和锌直接合约单日涨跌幅限制从15%下调至12% 新规将于6月8日起生效】伦敦金属交易所（LME）确认将把铅和锌直接合约（Outright Contract ）在所有交易平台上的单日价格涨跌幅限制，从15%下调至12%，新规将于6月8日起生效。",
-    "content": "【LME：将铅和锌直接合约单日涨跌幅限制从15%下调至12% 新规将于6月8日起生效】伦敦金属交易所（LME）确认将把铅和锌直接合约（Outright Contract ）在所有交易平台上的单日价格涨跌幅限制，从15%下调至12%，新规将于6月8日起生效。",
-    "full_content": "【LME：将铅和锌直接合约单日涨跌幅限制从15%下调至12% 新规将于6月8日起生效】伦敦金属交易所（LME）确认将把铅和锌直接合约（Outright Contract ）在所有交易平台上的单日价格涨跌幅限制，从15%下调至12%，新规将于6月8日起生效。",
-    "sort_time": "1779123250097912",
-    "showTime": "2026-05-19 00:54:10",
-    "time": "2026-05-19 00:54:10",
-    "publish_time": "2026-05-19 00:54:10",
-    "raw_data": {
-      "code": "202605193740897912",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1779123250097912",
-      "share": 2,
-      "showTime": "2026-05-19 00:54:10",
-      "stockList": [],
-      "summary": "【LME：将铅和锌直接合约单日涨跌幅限制从15%下调至12% 新规将于6月8日起生效】伦敦金属交易所（LME）确认将把铅和锌直接合约（Outright Contract ）在所有交易平台上的单日价格涨跌幅限制，从15%下调至12%，新规将于6月8日起生效。",
-      "title": "LME：将铅和锌直接合约单日涨跌幅限制从15%下调至12% 新规将于6月8日起生效",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740897912.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C501",
-          "name": "有色金属",
-          "matched_keyword": "铅"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "ac4bfa3e7043685f",
-    "code": "202605193740897774",
-    "title": "戴尔科技上个季度AI工厂产品线新增1000客户",
-    "summary": "【戴尔科技上个季度AI工厂产品线新增1000客户】戴尔科技在上一季度为其“AI工厂”（AI Factory）产品线新增1,000家客户，使其总客户数达到了5,000家。戴尔正在推出多款新产品以协助企业搭建AI应用，其中包括一款名为“Dell Deskside Agentic AI”（戴尔桌面智能体AI）的产品。此外，戴尔还与谷歌和SpaceX等公司展开合作，将AI模型与工具引入企业自身的内部网络中。",
-    "content": "【戴尔科技上个季度AI工厂产品线新增1000客户】戴尔科技在上一季度为其“AI工厂”（AI Factory）产品线新增1,000家客户，使其总客户数达到了5,000家。戴尔正在推出多款新产品以协助企业搭建AI应用，其中包括一款名为“Dell Deskside Agentic AI”（戴尔桌面智能体AI）的产品。此外，戴尔还与谷歌和SpaceX等公司展开合作，将AI模型与工具引入企业自身的内部网络中。",
-    "full_content": "【戴尔科技上个季度AI工厂产品线新增1000客户】戴尔科技在上一季度为其“AI工厂”（AI Factory）产品线新增1,000家客户，使其总客户数达到了5,000家。戴尔正在推出多款新产品以协助企业搭建AI应用，其中包括一款名为“Dell Deskside Agentic AI”（戴尔桌面智能体AI）的产品。此外，戴尔还与谷歌和SpaceX等公司展开合作，将AI模型与工具引入企业自身的内部网络中。",
-    "sort_time": "1779122983097774",
-    "showTime": "2026-05-19 00:49:43",
-    "time": "2026-05-19 00:49:43",
-    "publish_time": "2026-05-19 00:49:43",
-    "raw_data": {
-      "code": "202605193740897774",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1779122983097774",
-      "share": 1,
-      "showTime": "2026-05-19 00:49:43",
-      "stockList": [
-        "90.BK0800",
-        "106.DELL"
-      ],
-      "summary": "【戴尔科技上个季度AI工厂产品线新增1000客户】戴尔科技在上一季度为其“AI工厂”（AI Factory）产品线新增1,000家客户，使其总客户数达到了5,000家。戴尔正在推出多款新产品以协助企业搭建AI应用，其中包括一款名为“Dell Deskside Agentic AI”（戴尔桌面智能体AI）的产品。此外，戴尔还与谷歌和SpaceX等公司展开合作，将AI模型与工具引入企业自身的内部网络中。",
-      "title": "戴尔科技上个季度AI工厂产品线新增1000客户",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740897774.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "106.DELL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "b58ca1f6949c95c6",
-    "code": "202605193740897481",
-    "title": "据报道：特朗普将于周五主持沃什的美联储主席就职宣誓仪式",
-    "summary": "据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
-    "content": "据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
-    "full_content": "据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
-    "sort_time": "1779122655097481",
-    "showTime": "2026-05-19 00:44:15",
-    "time": "2026-05-19 00:44:15",
-    "publish_time": "2026-05-19 00:44:15",
-    "raw_data": {
-      "code": "202605193740897481",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1779122655097481",
-      "share": 3,
-      "showTime": "2026-05-19 00:44:15",
-      "stockList": [],
-      "summary": "据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
-      "title": "据报道：特朗普将于周五主持沃什的美联储主席就职宣誓仪式",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740897481.html",
-    "category": "国际",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "2ebccc07e87837b4",
-    "code": "202605193740897279",
-    "title": "沙特消息称伊朗提出有条件地将浓缩铀转移至俄罗斯",
-    "summary": "【沙特消息称伊朗提出有条件地将浓缩铀转移至俄罗斯】据沙特方面当地时间18日消息，伊朗旨在结束中东冲突的最新修订方案包括有条件地将浓缩铀转移到俄罗斯，而不是美国。据悉，沙特阿拉伯阿拉比亚电视台获得的方案显示，伊朗已同意长期冻结其核计划，但不是彻底拆除核设施。伊朗官方目前对此暂无回应。",
-    "content": "【沙特消息称伊朗提出有条件地将浓缩铀转移至俄罗斯】据沙特方面当地时间18日消息，伊朗旨在结束中东冲突的最新修订方案包括有条件地将浓缩铀转移到俄罗斯，而不是美国。据悉，沙特阿拉伯阿拉比亚电视台获得的方案显示，伊朗已同意长期冻结其核计划，但不是彻底拆除核设施。伊朗官方目前对此暂无回应。",
-    "full_content": "【沙特消息称伊朗提出有条件地将浓缩铀转移至俄罗斯】据沙特方面当地时间18日消息，伊朗旨在结束中东冲突的最新修订方案包括有条件地将浓缩铀转移到俄罗斯，而不是美国。据悉，沙特阿拉伯阿拉比亚电视台获得的方案显示，伊朗已同意长期冻结其核计划，但不是彻底拆除核设施。伊朗官方目前对此暂无回应。",
-    "sort_time": "1779122608097279",
-    "showTime": "2026-05-19 00:43:28",
-    "time": "2026-05-19 00:43:28",
-    "publish_time": "2026-05-19 00:43:28",
-    "raw_data": {
-      "code": "202605193740897279",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1779122608097279",
-      "share": 3,
-      "showTime": "2026-05-19 00:43:28",
-      "stockList": [],
-      "summary": "【沙特消息称伊朗提出有条件地将浓缩铀转移至俄罗斯】据沙特方面当地时间18日消息，伊朗旨在结束中东冲突的最新修订方案包括有条件地将浓缩铀转移到俄罗斯，而不是美国。据悉，沙特阿拉伯阿拉比亚电视台获得的方案显示，伊朗已同意长期冻结其核计划，但不是彻底拆除核设施。伊朗官方目前对此暂无回应。",
-      "title": "沙特消息称伊朗提出有条件地将浓缩铀转移至俄罗斯",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605193740897279.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C109",
-          "name": "核能",
-          "matched_keyword": "铀"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C109"
-      ]
     }
   }
 ]

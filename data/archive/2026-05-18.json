@@ -1,5 +1,505 @@
 [
   {
+    "id": "ae5655971d27a856",
+    "code": "202605193740910960",
+    "title": "权益类贡献过半 基金年内分红近630亿元",
+    "summary": "【权益类贡献过半 基金年内分红近630亿元】进入5月，近200只公募基金产品已实施或即将派发红利。年内基金“红包”总额已逼近630亿元，权益类基金贡献额较去年同期大幅增长。",
+    "content": "【权益类贡献过半 基金年内分红近630亿元】进入5月，近200只公募基金产品已实施或即将派发红利。年内基金“红包”总额已逼近630亿元，权益类基金贡献额较去年同期大幅增长。",
+    "full_content": "【权益类贡献过半 基金年内分红近630亿元】进入5月，近200只公募基金产品已实施或即将派发红利。年内基金“红包”总额已逼近630亿元，权益类基金贡献额较去年同期大幅增长。",
+    "sort_time": "1779142388010960",
+    "showTime": "2026-05-19 06:13:08",
+    "time": "2026-05-19 06:13:08",
+    "publish_time": "2026-05-19 06:13:08",
+    "raw_data": {
+      "code": "202605193740910960",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779142388010960",
+      "share": 0,
+      "showTime": "2026-05-19 06:13:08",
+      "stockList": [],
+      "summary": "【权益类贡献过半 基金年内分红近630亿元】进入5月，近200只公募基金产品已实施或即将派发红利。年内基金“红包”总额已逼近630亿元，权益类基金贡献额较去年同期大幅增长。",
+      "title": "权益类贡献过半 基金年内分红近630亿元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740910960.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "公募"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7bb213012ef0f795",
+    "code": "202605193740906844",
+    "title": "银行理财收益回暖 四月规模增长超预期",
+    "summary": "【银行理财收益回暖 四月规模增长超预期】在经历一季度规模大幅缩水后，银行理财市场于4月迎来强劲反弹，单月新增规模达2.6万亿元，超出市场预期。其中，“固收+”产品凭借收益回暖获得投资者青睐，成为助推本轮规模增长的主力军。",
+    "content": "【银行理财收益回暖 四月规模增长超预期】在经历一季度规模大幅缩水后，银行理财市场于4月迎来强劲反弹，单月新增规模达2.6万亿元，超出市场预期。其中，“固收+”产品凭借收益回暖获得投资者青睐，成为助推本轮规模增长的主力军。",
+    "full_content": "【银行理财收益回暖 四月规模增长超预期】在经历一季度规模大幅缩水后，银行理财市场于4月迎来强劲反弹，单月新增规模达2.6万亿元，超出市场预期。其中，“固收+”产品凭借收益回暖获得投资者青睐，成为助推本轮规模增长的主力军。",
+    "sort_time": "1779142371006844",
+    "showTime": "2026-05-19 06:12:51",
+    "time": "2026-05-19 06:12:51",
+    "publish_time": "2026-05-19 06:12:51",
+    "raw_data": {
+      "code": "202605193740906844",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779142371006844",
+      "share": 0,
+      "showTime": "2026-05-19 06:12:51",
+      "stockList": [
+        "90.BK0475",
+        "90.BK1283"
+      ],
+      "summary": "【银行理财收益回暖 四月规模增长超预期】在经历一季度规模大幅缩水后，银行理财市场于4月迎来强劲反弹，单月新增规模达2.6万亿元，超出市场预期。其中，“固收+”产品凭借收益回暖获得投资者青睐，成为助推本轮规模增长的主力军。",
+      "title": "银行理财收益回暖 四月规模增长超预期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740906844.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0475",
+      "90.BK1283"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "C404",
+          "name": "信托",
+          "matched_keyword": "理财"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402",
+        "C404"
+      ]
+    }
+  },
+  {
+    "id": "a3897f90e87f340d",
+    "code": "202605193740940788",
+    "title": "智利央行将风险资产的资本金要求提高至1.0%",
+    "summary": "智利央行将风险资产的资本金要求提高至1.0%。",
+    "content": "智利央行将风险资产的资本金要求提高至1.0%。",
+    "full_content": "智利央行将风险资产的资本金要求提高至1.0%。",
+    "sort_time": "1779142190040788",
+    "showTime": "2026-05-19 06:09:50",
+    "time": "2026-05-19 06:09:50",
+    "publish_time": "2026-05-19 06:09:50",
+    "raw_data": {
+      "code": "202605193740940788",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779142190040788",
+      "share": 0,
+      "showTime": "2026-05-19 06:09:50",
+      "stockList": [],
+      "summary": "智利央行将风险资产的资本金要求提高至1.0%。",
+      "title": "智利央行将风险资产的资本金要求提高至1.0%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740940788.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "5662785c64b1cba1",
+    "code": "202605193740939779",
+    "title": "WTI原油期货跌幅扩大至2%",
+    "summary": "5月19日，WTI原油期货跌幅扩大至2%，报102.248美元/桶。",
+    "content": "5月19日，WTI原油期货跌幅扩大至2%，报102.248美元/桶。",
+    "full_content": "5月19日，WTI原油期货跌幅扩大至2%，报102.248美元/桶。",
+    "sort_time": "1779141727039779",
+    "showTime": "2026-05-19 06:02:07",
+    "time": "2026-05-19 06:02:07",
+    "publish_time": "2026-05-19 06:02:07",
+    "raw_data": {
+      "code": "202605193740939779",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1779141727039779",
+      "share": 1,
+      "showTime": "2026-05-19 06:02:07",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "5月19日，WTI原油期货跌幅扩大至2%，报102.248美元/桶。",
+      "title": "WTI原油期货跌幅扩大至2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740939779.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "4d4ad38342753e40",
+    "code": "202605193740938360",
+    "title": "英伟达称 Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室",
+    "summary": "英伟达称，VeraCPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+    "content": "英伟达称，VeraCPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+    "full_content": "英伟达称，VeraCPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+    "sort_time": "1779141677038360",
+    "showTime": "2026-05-19 06:01:17",
+    "time": "2026-05-19 06:01:17",
+    "publish_time": "2026-05-19 06:01:17",
+    "raw_data": {
+      "code": "202605193740938360",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1779141677038360",
+      "share": 3,
+      "showTime": "2026-05-19 06:01:17",
+      "stockList": [
+        "90.BK0800",
+        "90.BK1161"
+      ],
+      "summary": "英伟达称，VeraCPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+      "title": "英伟达称 Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740938360.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "90.BK1161"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "ecd96a1827b0d639",
+    "code": "202605193740938289",
+    "title": "周二（5月19日）重点关注财经事件和经济数据",
+    "summary": "【周二（5月19日）重点关注财经事件和经济数据】①待定俄罗斯总统普京访华；②待定美国总统特朗普讨论军事行动选项；③09:30澳洲联储公布5月货币政策会议纪要。",
+    "content": "【周二（5月19日）重点关注财经事件和经济数据】①待定俄罗斯总统普京访华；②待定美国总统特朗普讨论军事行动选项；③09:30澳洲联储公布5月货币政策会议纪要。",
+    "full_content": "【周二（5月19日）重点关注财经事件和经济数据】①待定俄罗斯总统普京访华；②待定美国总统特朗普讨论军事行动选项；③09:30澳洲联储公布5月货币政策会议纪要。",
+    "sort_time": "1779141604038289",
+    "showTime": "2026-05-19 06:00:04",
+    "time": "2026-05-19 06:00:04",
+    "publish_time": "2026-05-19 06:00:04",
+    "raw_data": {
+      "code": "202605193740938289",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779141604038289",
+      "share": 2,
+      "showTime": "2026-05-19 06:00:04",
+      "stockList": [],
+      "summary": "【周二（5月19日）重点关注财经事件和经济数据】①待定俄罗斯总统普京访华；②待定美国总统特朗普讨论军事行动选项；③09:30澳洲联储公布5月货币政策会议纪要。",
+      "title": "周二（5月19日）重点关注财经事件和经济数据",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740938289.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "051d685e74b9476d",
+    "code": "202605193740938045",
+    "title": "周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一",
+    "summary": "【周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一】1、消息称白宫认为伊朗最新提案无实质性改进，美总统特朗普正考虑重启军事行动。2、特朗普表示，他已下令“明天（19日）”不按原计划对伊朗发动军事打击。3、据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
+    "content": "【周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一】1、消息称白宫认为伊朗最新提案无实质性改进，美总统特朗普正考虑重启军事行动。2、特朗普表示，他已下令“明天（19日）”不按原计划对伊朗发动军事打击。3、据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
+    "full_content": "【周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一】1、消息称白宫认为伊朗最新提案无实质性改进，美总统特朗普正考虑重启军事行动。2、特朗普表示，他已下令“明天（19日）”不按原计划对伊朗发动军事打击。3、据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
+    "sort_time": "1779141600038045",
+    "showTime": "2026-05-19 06:00:00",
+    "time": "2026-05-19 06:00:00",
+    "publish_time": "2026-05-19 06:00:00",
+    "raw_data": {
+      "code": "202605193740938045",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779141600038045",
+      "share": 6,
+      "showTime": "2026-05-19 06:00:00",
+      "stockList": [
+        "150.013446",
+        "105.NVDA"
+      ],
+      "summary": "【周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一】1、消息称白宫认为伊朗最新提案无实质性改进，美总统特朗普正考虑重启军事行动。2、特朗普表示，他已下令“明天（19日）”不按原计划对伊朗发动军事打击。3、据报道，特朗普将于周五主持沃什的美联储主席就职宣誓仪式。",
+      "title": "周二你需要知道的隔夜全球要闻：特朗普称将推迟攻击伊朗 沃什据悉将于周五就职美联储主席 欧美股市涨跌不一",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740938045.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.013446",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9c3408b438708ce2",
+    "code": "202605193740935744",
+    "title": "日本官员表示 美国收益率上升可能导致日元贬值",
+    "summary": "日本官员表示，美国收益率上升可能导致日元贬值。",
+    "content": "日本官员表示，美国收益率上升可能导致日元贬值。",
+    "full_content": "日本官员表示，美国收益率上升可能导致日元贬值。",
+    "sort_time": "1779141302035744",
+    "showTime": "2026-05-19 05:55:02",
+    "time": "2026-05-19 05:55:02",
+    "publish_time": "2026-05-19 05:55:02",
+    "raw_data": {
+      "code": "202605193740935744",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779141302035744",
+      "share": 0,
+      "showTime": "2026-05-19 05:55:02",
+      "stockList": [],
+      "summary": "日本官员表示，美国收益率上升可能导致日元贬值。",
+      "title": "日本官员表示 美国收益率上升可能导致日元贬值",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740935744.html",
+    "category": "债券",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8d3687f6a48fcf6a",
+    "code": "202605193740909493",
+    "title": "前4月经济运行稳中有进 新动能亮点愈发凸显",
+    "summary": "【前4月经济运行稳中有进 新动能亮点愈发凸显】5月18日，国家统计局发布数据显示，1—4月份国民经济保持稳中有进发展态势，高质量发展扎实推进。一系列结构性指标展现出经济发展向新向优的特点。业内分析认为，尽管面对内外多重压力，我国经济“稳”的主基调没有变，后续扩消费、稳投资空间广阔。",
+    "content": "【前4月经济运行稳中有进 新动能亮点愈发凸显】5月18日，国家统计局发布数据显示，1—4月份国民经济保持稳中有进发展态势，高质量发展扎实推进。一系列结构性指标展现出经济发展向新向优的特点。业内分析认为，尽管面对内外多重压力，我国经济“稳”的主基调没有变，后续扩消费、稳投资空间广阔。",
+    "full_content": "【前4月经济运行稳中有进 新动能亮点愈发凸显】5月18日，国家统计局发布数据显示，1—4月份国民经济保持稳中有进发展态势，高质量发展扎实推进。一系列结构性指标展现出经济发展向新向优的特点。业内分析认为，尽管面对内外多重压力，我国经济“稳”的主基调没有变，后续扩消费、稳投资空间广阔。",
+    "sort_time": "1779140889009493",
+    "showTime": "2026-05-19 05:48:09",
+    "time": "2026-05-19 05:48:09",
+    "publish_time": "2026-05-19 05:48:09",
+    "raw_data": {
+      "code": "202605193740909493",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1779140889009493",
+      "share": 0,
+      "showTime": "2026-05-19 05:48:09",
+      "stockList": [
+        "90.BK0428",
+        "150.014238"
+      ],
+      "summary": "【前4月经济运行稳中有进 新动能亮点愈发凸显】5月18日，国家统计局发布数据显示，1—4月份国民经济保持稳中有进发展态势，高质量发展扎实推进。一系列结构性指标展现出经济发展向新向优的特点。业内分析认为，尽管面对内外多重压力，我国经济“稳”的主基调没有变，后续扩消费、稳投资空间广阔。",
+      "title": "前4月经济运行稳中有进 新动能亮点愈发凸显",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740909493.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0428",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "237b8210aaa4a65d",
+    "code": "202605193740926265",
+    "title": "花旗：铝库存将在未来6至12个月内降至历史新低",
+    "summary": "【花旗：铝库存将在未来6至12个月内降至历史新低】花旗预计，铝库存将在未来6至12个月内降至历史新低，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。在乐观情景下，2027年铝的平均价格将达到5350美元/吨。",
+    "content": "【花旗：铝库存将在未来6至12个月内降至历史新低】花旗预计，铝库存将在未来6至12个月内降至历史新低，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。在乐观情景下，2027年铝的平均价格将达到5350美元/吨。",
+    "full_content": "【花旗：铝库存将在未来6至12个月内降至历史新低】花旗预计，铝库存将在未来6至12个月内降至历史新低，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。在乐观情景下，2027年铝的平均价格将达到5350美元/吨。",
+    "sort_time": "1779139694026265",
+    "showTime": "2026-05-19 05:28:14",
+    "time": "2026-05-19 05:28:14",
+    "publish_time": "2026-05-19 05:28:14",
+    "raw_data": {
+      "code": "202605193740926265",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779139694026265",
+      "share": 8,
+      "showTime": "2026-05-19 05:28:14",
+      "stockList": [],
+      "summary": "【花旗：铝库存将在未来6至12个月内降至历史新低】花旗预计，铝库存将在未来6至12个月内降至历史新低，即使在需求疲软的情况下，今年仍铝市场将出现近270万吨的供应短缺。如果需求下降不足以抵消供应紧张，未来3个月内铝价有望达到4000美元/吨。在乐观情景下，2027年铝的平均价格将达到5350美元/吨。",
+      "title": "花旗：铝库存将在未来6至12个月内降至历史新低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605193740926265.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "铝"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
     "id": "9bc8478a597e3f73",
     "code": "202605193740924666",
     "title": "富时A50期指连续夜盘收跌0.05%",
@@ -5060,57 +5560,6 @@
       "industry_ids": [],
       "concept_ids": [
         "C001"
-      ]
-    }
-  },
-  {
-    "id": "8d10d9133c811bd6",
-    "code": "202605183740736781",
-    "title": "WTI原油期货跌幅扩大至2%",
-    "summary": "WTI原油期货跌幅扩大至2%，报99.0美元/桶。",
-    "content": "WTI原油期货跌幅扩大至2%，报99.0美元/桶。",
-    "full_content": "WTI原油期货跌幅扩大至2%，报99.0美元/桶。",
-    "sort_time": "1779108555036781",
-    "showTime": "2026-05-18 20:49:15",
-    "time": "2026-05-18 20:49:15",
-    "publish_time": "2026-05-18 20:49:15",
-    "raw_data": {
-      "code": "202605183740736781",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1779108555036781",
-      "share": 1,
-      "showTime": "2026-05-18 20:49:15",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "WTI原油期货跌幅扩大至2%，报99.0美元/桶。",
-      "title": "WTI原油期货跌幅扩大至2%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605183740736781.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
       ]
     }
   },
