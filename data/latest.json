@@ -1,5 +1,889 @@
 [
   {
+    "id": "1e23ba4f1a4662ae",
+    "code": "202605233747098380",
+    "title": "据报道 美国国家情报总监图尔西·加巴德辞职",
+    "summary": "据报道，美国国家情报总监图尔西·加巴德辞职。",
+    "content": "据报道，美国国家情报总监图尔西·加巴德辞职。",
+    "full_content": "据报道，美国国家情报总监图尔西·加巴德辞职。",
+    "sort_time": "1779469755098380",
+    "showTime": "2026-05-23 01:09:15",
+    "time": "2026-05-23 01:09:15",
+    "publish_time": "2026-05-23 01:09:15",
+    "raw_data": {
+      "code": "202605233747098380",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779469755098380",
+      "share": 0,
+      "showTime": "2026-05-23 01:09:15",
+      "stockList": [],
+      "summary": "据报道，美国国家情报总监图尔西·加巴德辞职。",
+      "title": "据报道 美国国家情报总监图尔西·加巴德辞职",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747098380.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c3190cb399bae5a2",
+    "code": "202605233747096528",
+    "title": "美国至5月22日当周石油钻井总数425口 前值415口",
+    "summary": "美国至5月22日当周石油钻井总数425口，前值415口。",
+    "content": "美国至5月22日当周石油钻井总数425口，前值415口。",
+    "full_content": "美国至5月22日当周石油钻井总数425口，前值415口。",
+    "sort_time": "1779469343096528",
+    "showTime": "2026-05-23 01:02:23",
+    "time": "2026-05-23 01:02:23",
+    "publish_time": "2026-05-23 01:02:23",
+    "raw_data": {
+      "code": "202605233747096528",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779469343096528",
+      "share": 1,
+      "showTime": "2026-05-23 01:02:23",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "美国至5月22日当周石油钻井总数425口，前值415口。",
+      "title": "美国至5月22日当周石油钻井总数425口 前值415口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747096528.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "7433f2eeeb552ab2",
+    "code": "202605233747096410",
+    "title": "据报道 英国财政大臣Reeves料将对股票与股份个人储蓄账户中持有的现金征税",
+    "summary": "据报道，英国财政大臣Reeves料将对股票与股份个人储蓄账户（StocksandSharesISAs）中持有的现金征税。",
+    "content": "据报道，英国财政大臣Reeves料将对股票与股份个人储蓄账户（StocksandSharesISAs）中持有的现金征税。",
+    "full_content": "据报道，英国财政大臣Reeves料将对股票与股份个人储蓄账户（StocksandSharesISAs）中持有的现金征税。",
+    "sort_time": "1779469285096410",
+    "showTime": "2026-05-23 01:01:25",
+    "time": "2026-05-23 01:01:25",
+    "publish_time": "2026-05-23 01:01:25",
+    "raw_data": {
+      "code": "202605233747096410",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1779469285096410",
+      "share": 1,
+      "showTime": "2026-05-23 01:01:25",
+      "stockList": [],
+      "summary": "据报道，英国财政大臣Reeves料将对股票与股份个人储蓄账户（StocksandSharesISAs）中持有的现金征税。",
+      "title": "据报道 英国财政大臣Reeves料将对股票与股份个人储蓄账户中持有的现金征税",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747096410.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c8adae0026262d18",
+    "code": "202605233747095089",
+    "title": "王文涛会见美国副贸易代表斯威策",
+    "summary": "【王文涛会见美国副贸易代表斯威策】5月21日，商务部部长王文涛在苏州会见来华出席亚太经合组织贸易部长会的美国副贸易代表斯威策一行。双方就中美经贸关系交换意见。",
+    "content": "【王文涛会见美国副贸易代表斯威策】5月21日，商务部部长王文涛在苏州会见来华出席亚太经合组织贸易部长会的美国副贸易代表斯威策一行。双方就中美经贸关系交换意见。",
+    "full_content": "【王文涛会见美国副贸易代表斯威策】5月21日，商务部部长王文涛在苏州会见来华出席亚太经合组织贸易部长会的美国副贸易代表斯威策一行。双方就中美经贸关系交换意见。",
+    "sort_time": "1779468713095089",
+    "showTime": "2026-05-23 00:51:53",
+    "time": "2026-05-23 00:51:53",
+    "publish_time": "2026-05-23 00:51:53",
+    "raw_data": {
+      "code": "202605233747095089",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779468713095089",
+      "share": 1,
+      "showTime": "2026-05-23 00:51:53",
+      "stockList": [
+        "90.BK1550",
+        "90.BK0484"
+      ],
+      "summary": "【王文涛会见美国副贸易代表斯威策】5月21日，商务部部长王文涛在苏州会见来华出席亚太经合组织贸易部长会的美国副贸易代表斯威策一行。双方就中美经贸关系交换意见。",
+      "title": "王文涛会见美国副贸易代表斯威策",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747095089.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1550",
+      "90.BK0484"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ea789d3d56c3b4ca",
+    "code": "202605233747094931",
+    "title": "Trafigura在伦敦金属交易所（LME）执行2013年以来最大的铜订单",
+    "summary": "Trafigura在伦敦金属交易所（LME）执行2013年以来最大的铜订单。",
+    "content": "Trafigura在伦敦金属交易所（LME）执行2013年以来最大的铜订单。",
+    "full_content": "Trafigura在伦敦金属交易所（LME）执行2013年以来最大的铜订单。",
+    "sort_time": "1779468295094931",
+    "showTime": "2026-05-23 00:44:55",
+    "time": "2026-05-23 00:44:55",
+    "publish_time": "2026-05-23 00:44:55",
+    "raw_data": {
+      "code": "202605233747094931",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779468295094931",
+      "share": 2,
+      "showTime": "2026-05-23 00:44:55",
+      "stockList": [],
+      "summary": "Trafigura在伦敦金属交易所（LME）执行2013年以来最大的铜订单。",
+      "title": "Trafigura在伦敦金属交易所（LME）执行2013年以来最大的铜订单",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747094931.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "铜"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "20b7deff66291daa",
+    "code": "202605233747094879",
+    "title": "巴基斯坦陆军参谋长抵达伊朗",
+    "summary": "【巴基斯坦陆军参谋长抵达伊朗】巴基斯坦陆军参谋长穆尼尔当地时间5月22日抵达伊朗首都德黑兰。巴基斯坦在伊朗与美国之间持续开展斡旋，推动结束冲突并化解分歧，穆尼尔此访正是在这一背景下进行的。当地媒体报道称，有伊朗官员强调，穆尼尔此次到访“并不必然意味着各方已就协议的初步框架达成最终共识”。",
+    "content": "【巴基斯坦陆军参谋长抵达伊朗】巴基斯坦陆军参谋长穆尼尔当地时间5月22日抵达伊朗首都德黑兰。巴基斯坦在伊朗与美国之间持续开展斡旋，推动结束冲突并化解分歧，穆尼尔此访正是在这一背景下进行的。当地媒体报道称，有伊朗官员强调，穆尼尔此次到访“并不必然意味着各方已就协议的初步框架达成最终共识”。",
+    "full_content": "【巴基斯坦陆军参谋长抵达伊朗】巴基斯坦陆军参谋长穆尼尔当地时间5月22日抵达伊朗首都德黑兰。巴基斯坦在伊朗与美国之间持续开展斡旋，推动结束冲突并化解分歧，穆尼尔此访正是在这一背景下进行的。当地媒体报道称，有伊朗官员强调，穆尼尔此次到访“并不必然意味着各方已就协议的初步框架达成最终共识”。",
+    "sort_time": "1779467963094879",
+    "showTime": "2026-05-23 00:39:23",
+    "time": "2026-05-23 00:39:23",
+    "publish_time": "2026-05-23 00:39:23",
+    "raw_data": {
+      "code": "202605233747094879",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779467963094879",
+      "share": 3,
+      "showTime": "2026-05-23 00:39:23",
+      "stockList": [],
+      "summary": "【巴基斯坦陆军参谋长抵达伊朗】巴基斯坦陆军参谋长穆尼尔当地时间5月22日抵达伊朗首都德黑兰。巴基斯坦在伊朗与美国之间持续开展斡旋，推动结束冲突并化解分歧，穆尼尔此访正是在这一背景下进行的。当地媒体报道称，有伊朗官员强调，穆尼尔此次到访“并不必然意味着各方已就协议的初步框架达成最终共识”。",
+      "title": "巴基斯坦陆军参谋长抵达伊朗",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747094879.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "133e260163f6bc23",
+    "code": "202605233747094244",
+    "title": "美国财长贝森特谈沃什是否会降息称：他会做正确的事",
+    "summary": "美国财长贝森特被问及刚刚宣誓就任美联储主席的沃什是否会降息，称：他会做正确的事。",
+    "content": "美国财长贝森特被问及刚刚宣誓就任美联储主席的沃什是否会降息，称：他会做正确的事。",
+    "full_content": "美国财长贝森特被问及刚刚宣誓就任美联储主席的沃什是否会降息，称：他会做正确的事。",
+    "sort_time": "1779467554094244",
+    "showTime": "2026-05-23 00:32:34",
+    "time": "2026-05-23 00:32:34",
+    "publish_time": "2026-05-23 00:32:34",
+    "raw_data": {
+      "code": "202605233747094244",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1779467554094244",
+      "share": 2,
+      "showTime": "2026-05-23 00:32:34",
+      "stockList": [],
+      "summary": "美国财长贝森特被问及刚刚宣誓就任美联储主席的沃什是否会降息，称：他会做正确的事。",
+      "title": "美国财长贝森特谈沃什是否会降息称：他会做正确的事",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747094244.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "降息"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "降息"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "00e378df3f0f73d8",
+    "code": "202605233747093925",
+    "title": "据知情人士透露 优步（uber）与顾问们研究进一步持股欧洲配送竞争对手Delivery Hero的方式",
+    "summary": "据知情人士透露，优步（uber）与顾问们研究进一步持股欧洲配送竞争对手DeliveryHero的方式。",
+    "content": "据知情人士透露，优步（uber）与顾问们研究进一步持股欧洲配送竞争对手DeliveryHero的方式。",
+    "full_content": "据知情人士透露，优步（uber）与顾问们研究进一步持股欧洲配送竞争对手DeliveryHero的方式。",
+    "sort_time": "1779467150093925",
+    "showTime": "2026-05-23 00:25:50",
+    "time": "2026-05-23 00:25:50",
+    "publish_time": "2026-05-23 00:25:50",
+    "raw_data": {
+      "code": "202605233747093925",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779467150093925",
+      "share": 1,
+      "showTime": "2026-05-23 00:25:50",
+      "stockList": [],
+      "summary": "据知情人士透露，优步（uber）与顾问们研究进一步持股欧洲配送竞争对手DeliveryHero的方式。",
+      "title": "据知情人士透露 优步（uber）与顾问们研究进一步持股欧洲配送竞争对手Delivery Hero的方式",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747093925.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0aa3b4ae32762413",
+    "code": "202605233747093840",
+    "title": "黎南部遭以军空袭致11人死 以北部遭黎无人机袭击",
+    "summary": "【黎南部遭以军空袭致11人死 以北部遭黎无人机袭击】据黎巴嫩国家通讯社22日报道，以色列自21日深夜至22日对黎南部多地发动空袭，造成至少11人死亡，其中包括6名医护和救援人员，另有多人受伤。",
+    "content": "【黎南部遭以军空袭致11人死 以北部遭黎无人机袭击】据黎巴嫩国家通讯社22日报道，以色列自21日深夜至22日对黎南部多地发动空袭，造成至少11人死亡，其中包括6名医护和救援人员，另有多人受伤。",
+    "full_content": "【黎南部遭以军空袭致11人死 以北部遭黎无人机袭击】据黎巴嫩国家通讯社22日报道，以色列自21日深夜至22日对黎南部多地发动空袭，造成至少11人死亡，其中包括6名医护和救援人员，另有多人受伤。",
+    "sort_time": "1779466696093840",
+    "showTime": "2026-05-23 00:18:16",
+    "time": "2026-05-23 00:18:16",
+    "publish_time": "2026-05-23 00:18:16",
+    "raw_data": {
+      "code": "202605233747093840",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779466696093840",
+      "share": 0,
+      "showTime": "2026-05-23 00:18:16",
+      "stockList": [
+        "90.BK0704"
+      ],
+      "summary": "【黎南部遭以军空袭致11人死 以北部遭黎无人机袭击】据黎巴嫩国家通讯社22日报道，以色列自21日深夜至22日对黎南部多地发动空袭，造成至少11人死亡，其中包括6名医护和救援人员，另有多人受伤。",
+      "title": "黎南部遭以军空袭致11人死 以北部遭黎无人机袭击",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747093840.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0704"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "984700b5922687dd",
+    "code": "202605233747093725",
+    "title": "美联储主席沃什：将领导一个以改革为导向的美联储",
+    "summary": "美联储主席沃什称，将领导一个以改革为导向的美联储。",
+    "content": "美联储主席沃什称，将领导一个以改革为导向的美联储。",
+    "full_content": "美联储主席沃什称，将领导一个以改革为导向的美联储。",
+    "sort_time": "1779466652093725",
+    "showTime": "2026-05-23 00:17:32",
+    "time": "2026-05-23 00:17:32",
+    "publish_time": "2026-05-23 00:17:32",
+    "raw_data": {
+      "code": "202605233747093725",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1779466652093725",
+      "share": 3,
+      "showTime": "2026-05-23 00:17:32",
+      "stockList": [],
+      "summary": "美联储主席沃什称，将领导一个以改革为导向的美联储。",
+      "title": "美联储主席沃什：将领导一个以改革为导向的美联储",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747093725.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6a25043a7cb50ef5",
+    "code": "202605233747093595",
+    "title": "美联储主席沃什：通胀可以降低 经济将强劲增长",
+    "summary": "美联储主席沃什称，通胀可以降低，经济将强劲增长。",
+    "content": "美联储主席沃什称，通胀可以降低，经济将强劲增长。",
+    "full_content": "美联储主席沃什称，通胀可以降低，经济将强劲增长。",
+    "sort_time": "1779466600093595",
+    "showTime": "2026-05-23 00:16:40",
+    "time": "2026-05-23 00:16:40",
+    "publish_time": "2026-05-23 00:16:40",
+    "raw_data": {
+      "code": "202605233747093595",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1779466600093595",
+      "share": 15,
+      "showTime": "2026-05-23 00:16:40",
+      "stockList": [],
+      "summary": "美联储主席沃什称，通胀可以降低，经济将强劲增长。",
+      "title": "美联储主席沃什：通胀可以降低 经济将强劲增长",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747093595.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 15,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4cee4d489cbe13f0",
+    "code": "202605233747085872",
+    "title": "沃什宣誓就任美联储主席",
+    "summary": "【沃什宣誓就任美联储主席】当地时间22日，凯文·沃什在华盛顿宣誓就任新一任美国联邦储备委员会主席。",
+    "content": "【沃什宣誓就任美联储主席】当地时间22日，凯文·沃什在华盛顿宣誓就任新一任美国联邦储备委员会主席。",
+    "full_content": "【沃什宣誓就任美联储主席】当地时间22日，凯文·沃什在华盛顿宣誓就任新一任美国联邦储备委员会主席。",
+    "sort_time": "1779466220085872",
+    "showTime": "2026-05-23 00:10:20",
+    "time": "2026-05-23 00:10:20",
+    "publish_time": "2026-05-23 00:10:20",
+    "raw_data": {
+      "code": "202605233747085872",
+      "image": [],
+      "pinglun_Num": 49,
+      "realSort": "1779466220085872",
+      "share": 89,
+      "showTime": "2026-05-23 00:10:20",
+      "stockList": [],
+      "summary": "【沃什宣誓就任美联储主席】当地时间22日，凯文·沃什在华盛顿宣誓就任新一任美国联邦储备委员会主席。",
+      "title": "沃什宣誓就任美联储主席",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747085872.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 49,
+    "share_count": 89,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "14f307d5e3830e0b",
+    "code": "202605233747091782",
+    "title": "阿尔及利亚颁布法律认定法国殖民统治构成犯罪",
+    "summary": "【阿尔及利亚颁布法律认定法国殖民统治构成犯罪】据阿尔及利亚媒体22日报道，阿尔及利亚正式颁布法律，认定法国对阿尔及利亚长达132年的殖民统治构成犯罪。法律条文已生效。该法律规定，法国从1830年至1962年对阿尔及利亚的殖民统治及其“持续至今的直接和间接影响”构成“国家犯罪”，并列出了故意杀人、蓄意对平民发动军事袭击及使用非常规和国际禁用武器等31项“无追诉期限”的殖民罪行。法律还规定，阿尔及利亚将采取一切法律和司法手段，确保法国“正式承认”其殖民历史，并要求法国妥善处理涉核试验有关事宜并归还“被盗”的国库资产。根据该法律，以任何手段宣扬殖民主义、旨在为法国殖民行为辩护或否认其犯罪性质的人都将被处以监禁和罚款。",
+    "content": "【阿尔及利亚颁布法律认定法国殖民统治构成犯罪】据阿尔及利亚媒体22日报道，阿尔及利亚正式颁布法律，认定法国对阿尔及利亚长达132年的殖民统治构成犯罪。法律条文已生效。该法律规定，法国从1830年至1962年对阿尔及利亚的殖民统治及其“持续至今的直接和间接影响”构成“国家犯罪”，并列出了故意杀人、蓄意对平民发动军事袭击及使用非常规和国际禁用武器等31项“无追诉期限”的殖民罪行。法律还规定，阿尔及利亚将采取一切法律和司法手段，确保法国“正式承认”其殖民历史，并要求法国妥善处理涉核试验有关事宜并归还“被盗”的国库资产。根据该法律，以任何手段宣扬殖民主义、旨在为法国殖民行为辩护或否认其犯罪性质的人都将被处以监禁和罚款。",
+    "full_content": "【阿尔及利亚颁布法律认定法国殖民统治构成犯罪】据阿尔及利亚媒体22日报道，阿尔及利亚正式颁布法律，认定法国对阿尔及利亚长达132年的殖民统治构成犯罪。法律条文已生效。该法律规定，法国从1830年至1962年对阿尔及利亚的殖民统治及其“持续至今的直接和间接影响”构成“国家犯罪”，并列出了故意杀人、蓄意对平民发动军事袭击及使用非常规和国际禁用武器等31项“无追诉期限”的殖民罪行。法律还规定，阿尔及利亚将采取一切法律和司法手段，确保法国“正式承认”其殖民历史，并要求法国妥善处理涉核试验有关事宜并归还“被盗”的国库资产。根据该法律，以任何手段宣扬殖民主义、旨在为法国殖民行为辩护或否认其犯罪性质的人都将被处以监禁和罚款。",
+    "sort_time": "1779466170091782",
+    "showTime": "2026-05-23 00:09:30",
+    "time": "2026-05-23 00:09:30",
+    "publish_time": "2026-05-23 00:09:30",
+    "raw_data": {
+      "code": "202605233747091782",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779466170091782",
+      "share": 2,
+      "showTime": "2026-05-23 00:09:30",
+      "stockList": [],
+      "summary": "【阿尔及利亚颁布法律认定法国殖民统治构成犯罪】据阿尔及利亚媒体22日报道，阿尔及利亚正式颁布法律，认定法国对阿尔及利亚长达132年的殖民统治构成犯罪。法律条文已生效。该法律规定，法国从1830年至1962年对阿尔及利亚的殖民统治及其“持续至今的直接和间接影响”构成“国家犯罪”，并列出了故意杀人、蓄意对平民发动军事袭击及使用非常规和国际禁用武器等31项“无追诉期限”的殖民罪行。法律还规定，阿尔及利亚将采取一切法律和司法手段，确保法国“正式承认”其殖民历史，并要求法国妥善处理涉核试验有关事宜并归还“被盗”的国库资产。根据该法律，以任何手段宣扬殖民主义、旨在为法国殖民行为辩护或否认其犯罪性质的人都将被处以监禁和罚款。",
+      "title": "阿尔及利亚颁布法律认定法国殖民统治构成犯罪",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747091782.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9f7927e757db986b",
+    "code": "202605233747092567",
+    "title": "特朗普在白宫主持沃什就任美联储主席仪式",
+    "summary": "【特朗普在白宫主持沃什就任美联储主席仪式】美国总统特朗普5月22日在白宫主持凯文·沃什就任美国联邦储备委员会主席的宣誓仪式。据美媒报道，此次仪式并未按照惯例在美联储总部举行，而是改在白宫。",
+    "content": "【特朗普在白宫主持沃什就任美联储主席仪式】美国总统特朗普5月22日在白宫主持凯文·沃什就任美国联邦储备委员会主席的宣誓仪式。据美媒报道，此次仪式并未按照惯例在美联储总部举行，而是改在白宫。",
+    "full_content": "【特朗普在白宫主持沃什就任美联储主席仪式】美国总统特朗普5月22日在白宫主持凯文·沃什就任美国联邦储备委员会主席的宣誓仪式。据美媒报道，此次仪式并未按照惯例在美联储总部举行，而是改在白宫。",
+    "sort_time": "1779465843092567",
+    "showTime": "2026-05-23 00:04:03",
+    "time": "2026-05-23 00:04:03",
+    "publish_time": "2026-05-23 00:04:03",
+    "raw_data": {
+      "code": "202605233747092567",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1779465843092567",
+      "share": 4,
+      "showTime": "2026-05-23 00:04:03",
+      "stockList": [],
+      "summary": "【特朗普在白宫主持沃什就任美联储主席仪式】美国总统特朗普5月22日在白宫主持凯文·沃什就任美国联邦储备委员会主席的宣誓仪式。据美媒报道，此次仪式并未按照惯例在美联储总部举行，而是改在白宫。",
+      "title": "特朗普在白宫主持沃什就任美联储主席仪式",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747092567.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "014dc3fa72a75cb1",
+    "code": "202605233747085487",
+    "title": "特朗普：美联储将自主做出决策",
+    "summary": "美国总统特朗普称，美联储将自主做出决策。",
+    "content": "美国总统特朗普称，美联储将自主做出决策。",
+    "full_content": "美国总统特朗普称，美联储将自主做出决策。",
+    "sort_time": "1779465647085487",
+    "showTime": "2026-05-23 00:00:47",
+    "time": "2026-05-23 00:00:47",
+    "publish_time": "2026-05-23 00:00:47",
+    "raw_data": {
+      "code": "202605233747085487",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1779465647085487",
+      "share": 3,
+      "showTime": "2026-05-23 00:00:47",
+      "stockList": [],
+      "summary": "美国总统特朗普称，美联储将自主做出决策。",
+      "title": "特朗普：美联储将自主做出决策",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605233747085487.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7bd00c5a5f1bee3c",
+    "code": "202605223747085335",
+    "title": "特朗普表示没有人比沃什更适合领导美联储",
+    "summary": "特朗普表示，没有人比沃什更适合领导美联储。",
+    "content": "特朗普表示，没有人比沃什更适合领导美联储。",
+    "full_content": "特朗普表示，没有人比沃什更适合领导美联储。",
+    "sort_time": "1779465317085335",
+    "showTime": "2026-05-22 23:55:17",
+    "time": "2026-05-22 23:55:17",
+    "publish_time": "2026-05-22 23:55:17",
+    "raw_data": {
+      "code": "202605223747085335",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1779465317085335",
+      "share": 2,
+      "showTime": "2026-05-22 23:55:17",
+      "stockList": [],
+      "summary": "特朗普表示，没有人比沃什更适合领导美联储。",
+      "title": "特朗普表示没有人比沃什更适合领导美联储",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605223747085335.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9064a742e10a7d84",
+    "code": "202605223747084353",
+    "title": "京东考虑斥资20亿英镑竞购在线购物平台The Very Group",
+    "summary": "据报道，京东考虑斥资20亿英镑竞购在线购物平台TheVeryGroup。",
+    "content": "据报道，京东考虑斥资20亿英镑竞购在线购物平台TheVeryGroup。",
+    "full_content": "据报道，京东考虑斥资20亿英镑竞购在线购物平台TheVeryGroup。",
+    "sort_time": "1779465246084353",
+    "showTime": "2026-05-22 23:54:06",
+    "time": "2026-05-22 23:54:06",
+    "publish_time": "2026-05-22 23:54:06",
+    "raw_data": {
+      "code": "202605223747084353",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1779465246084353",
+      "share": 1,
+      "showTime": "2026-05-22 23:54:06",
+      "stockList": [
+        "105.JD",
+        "116.09618"
+      ],
+      "summary": "据报道，京东考虑斥资20亿英镑竞购在线购物平台TheVeryGroup。",
+      "title": "京东考虑斥资20亿英镑竞购在线购物平台The Very Group",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605223747084353.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.JD",
+      "116.09618"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d2b9a4cea1e018a1",
+    "code": "202605223747083147",
+    "title": "美股量子计算概念股延续强势 Infeqtion涨近20%",
+    "summary": "【美股量子计算概念股延续强势 Infeqtion涨近20%】美股量子计算概念股延续强势，Infeqtion涨近20%，RigettiComputing涨超19%，QuantumComputing、D-WaveQuantum涨超15%，IonQ涨超8%，IBM涨近3%。",
+    "content": "【美股量子计算概念股延续强势 Infeqtion涨近20%】美股量子计算概念股延续强势，Infeqtion涨近20%，RigettiComputing涨超19%，QuantumComputing、D-WaveQuantum涨超15%，IonQ涨超8%，IBM涨近3%。",
+    "full_content": "【美股量子计算概念股延续强势 Infeqtion涨近20%】美股量子计算概念股延续强势，Infeqtion涨近20%，RigettiComputing涨超19%，QuantumComputing、D-WaveQuantum涨超15%，IonQ涨超8%，IBM涨近3%。",
+    "sort_time": "1779464661083147",
+    "showTime": "2026-05-22 23:44:21",
+    "time": "2026-05-22 23:44:21",
+    "publish_time": "2026-05-22 23:44:21",
+    "raw_data": {
+      "code": "202605223747083147",
+      "image": [],
+      "pinglun_Num": 20,
+      "realSort": "1779464661083147",
+      "share": 20,
+      "showTime": "2026-05-22 23:44:21",
+      "stockList": [
+        "90.BK0710",
+        "105.RGTI"
+      ],
+      "summary": "【美股量子计算概念股延续强势 Infeqtion涨近20%】美股量子计算概念股延续强势，Infeqtion涨近20%，RigettiComputing涨超19%，QuantumComputing、D-WaveQuantum涨超15%，IonQ涨超8%，IBM涨近3%。",
+      "title": "美股量子计算概念股延续强势 Infeqtion涨近20%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605223747083147.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0710",
+      "105.RGTI"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 20,
+    "share_count": 20,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "51bb3b3c0f6dff12",
+    "code": "202605223747082545",
+    "title": "美银策略师就SpaceX等超大型IPO发出警告 称市场集中度将超过泡沫时期",
+    "summary": "【美银策略师就SpaceX等超大型IPO发出警告 称市场集中度将超过泡沫时期】美国银行策略师MichaelHartnett表示，SpaceX和OpenAI拟进行的超大型IPO可能推动科技股在股市基准指数中的权重超过市场泡沫时期的集中度水平。",
+    "content": "【美银策略师就SpaceX等超大型IPO发出警告 称市场集中度将超过泡沫时期】美国银行策略师MichaelHartnett表示，SpaceX和OpenAI拟进行的超大型IPO可能推动科技股在股市基准指数中的权重超过市场泡沫时期的集中度水平。",
+    "full_content": "【美银策略师就SpaceX等超大型IPO发出警告 称市场集中度将超过泡沫时期】美国银行策略师MichaelHartnett表示，SpaceX和OpenAI拟进行的超大型IPO可能推动科技股在股市基准指数中的权重超过市场泡沫时期的集中度水平。",
+    "sort_time": "1779464268082545",
+    "showTime": "2026-05-22 23:37:48",
+    "time": "2026-05-22 23:37:48",
+    "publish_time": "2026-05-22 23:37:48",
+    "raw_data": {
+      "code": "202605223747082545",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1779464268082545",
+      "share": 3,
+      "showTime": "2026-05-22 23:37:48",
+      "stockList": [
+        "90.BK0697"
+      ],
+      "summary": "【美银策略师就SpaceX等超大型IPO发出警告 称市场集中度将超过泡沫时期】美国银行策略师MichaelHartnett表示，SpaceX和OpenAI拟进行的超大型IPO可能推动科技股在股市基准指数中的权重超过市场泡沫时期的集中度水平。",
+      "title": "美银策略师就SpaceX等超大型IPO发出警告 称市场集中度将超过泡沫时期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605223747082545.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 6,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101",
+        "I020202"
+      ],
+      "concept_ids": [
+        "C001",
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "e8fbb91292ab94ce",
+    "code": "202605223747080345",
+    "title": "惠普股价涨幅扩大至15% 创近两年来最大涨幅",
+    "summary": "惠普股价涨幅扩大至15%，创近两年来最大涨幅。",
+    "content": "惠普股价涨幅扩大至15%，创近两年来最大涨幅。",
+    "full_content": "惠普股价涨幅扩大至15%，创近两年来最大涨幅。",
+    "sort_time": "1779463602080345",
+    "showTime": "2026-05-22 23:26:42",
+    "time": "2026-05-22 23:26:42",
+    "publish_time": "2026-05-22 23:26:42",
+    "raw_data": {
+      "code": "202605223747080345",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1779463602080345",
+      "share": 0,
+      "showTime": "2026-05-22 23:26:42",
+      "stockList": [],
+      "summary": "惠普股价涨幅扩大至15%，创近两年来最大涨幅。",
+      "title": "惠普股价涨幅扩大至15% 创近两年来最大涨幅",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202605223747080345.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "525042a6f6087cfc",
     "code": "202605223747078658",
     "title": "黎真主党称击中以色列一处“铁穹”防空系统",
@@ -13,9 +897,9 @@
     "raw_data": {
       "code": "202605223747078658",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1779463384078658",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-05-22 23:23:04",
       "stockList": [],
       "summary": "【黎真主党称击中以色列一处“铁穹”防空系统】据黎巴嫩真主党旗下灯塔电视台22日报道，真主党武装人员当天使用无人机袭击并确认命中位于以色列北部一军事基地的“铁穹”防空系统。",
@@ -29,8 +913,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -60,9 +944,9 @@
     "raw_data": {
       "code": "202605223747078316",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1779463173078316",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-22 23:19:33",
       "stockList": [
         "90.BK1361"
@@ -80,8 +964,8 @@
       "90.BK1361"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -111,7 +995,7 @@
     "raw_data": {
       "code": "202605223747076140",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1779463065076140",
       "share": 0,
       "showTime": "2026-05-22 23:17:45",
@@ -127,7 +1011,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -150,7 +1034,7 @@
     "raw_data": {
       "code": "202605223747073389",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1779462297073389",
       "share": 2,
       "showTime": "2026-05-22 23:04:57",
@@ -166,7 +1050,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 4,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -189,9 +1073,9 @@
     "raw_data": {
       "code": "202605223747073193",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 27,
       "realSort": "1779462213073193",
-      "share": 11,
+      "share": 15,
       "showTime": "2026-05-22 23:03:33",
       "stockList": [],
       "summary": "纳斯达克中国金龙指数跌幅扩大，现跌2.0%，最新报6502.08点。",
@@ -205,8 +1089,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 11,
+    "comment_count": 27,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -228,9 +1112,9 @@
     "raw_data": {
       "code": "202605223747072776",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1779462174072776",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-05-22 23:02:54",
       "stockList": [
         "105.ARM"
@@ -248,8 +1132,8 @@
       "105.ARM"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
+    "comment_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [
         {
@@ -291,7 +1175,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1779462152073269",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-22 23:02:32",
       "stockList": [],
       "summary": "豆一夜盘收涨约2.8%，PTA、焦炭、低硫燃油、燃油、焦煤、瓶片、LPG夜盘至多收跌约1.8%。",
@@ -306,7 +1190,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -336,9 +1220,9 @@
     "raw_data": {
       "code": "202605223747072413",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 22,
       "realSort": "1779461831072413",
-      "share": 3,
+      "share": 10,
       "showTime": "2026-05-22 22:57:11",
       "stockList": [
         "153.LNVGY",
@@ -358,8 +1242,8 @@
       "106.HPQ"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 3,
+    "comment_count": 22,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -381,7 +1265,7 @@
     "raw_data": {
       "code": "202605223747071894",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1779461439071894",
       "share": 1,
       "showTime": "2026-05-22 22:50:39",
@@ -401,7 +1285,7 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -438,9 +1322,9 @@
     "raw_data": {
       "code": "202605223747069779",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 15,
       "realSort": "1779461235069779",
-      "share": 10,
+      "share": 13,
       "showTime": "2026-05-22 22:47:15",
       "stockList": [],
       "summary": "美联储官员沃勒表示，美联储资产负债表规模可能缩减3000亿至5000亿美元。",
@@ -454,8 +1338,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 10,
+    "comment_count": 15,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -516,9 +1400,9 @@
     "raw_data": {
       "code": "202605223747068724",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1779461087068724",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-22 22:44:47",
       "stockList": [],
       "summary": "【巴基斯坦军方消息人士：巴三军情报局局长已前往伊朗】巴基斯坦军方消息人士22日告诉新华社记者，巴三军情报局局长马利克当天已前往伊朗。此前，伊朗媒体报道称，巴陆军参谋长穆尼尔已前往伊朗，将与伊朗高级官员会面，推动伊美谈判。",
@@ -532,8 +1416,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -667,7 +1551,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1779460816068377",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-22 22:40:16",
       "stockList": [],
       "summary": "【普京：卢甘斯克地区学校遭袭已致6名学生死亡】据俄新社22日报道，俄罗斯总统普京说，乌军当日使用无人机袭击卢甘斯克地区一所学校，已造成6名学生遇难、15人失踪。",
@@ -682,7 +1566,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 3,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -712,7 +1596,7 @@
     "raw_data": {
       "code": "202605223747068481",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 15,
       "realSort": "1779460789068481",
       "share": 2,
       "showTime": "2026-05-22 22:39:49",
@@ -728,7 +1612,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
+    "comment_count": 15,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -753,7 +1637,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1779460410067562",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-22 22:33:30",
       "stockList": [
         "106.F"
@@ -772,7 +1656,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -845,7 +1729,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1779460019065611",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-05-22 22:26:59",
       "stockList": [],
       "summary": "【伊朗战争推高通胀担忧 美国消费者信心指数跌至纪录低点】受伊朗战争影响，美国5月消费者信心指数跌至纪录低点，长期通胀预期显著恶化。密歇根大学周五公布的5月终值显示，消费者信心指数从4月的49.8降至44.8。该数据不仅低于所有市场预期，也低于初值48.2。",
@@ -860,7 +1744,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 5,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -882,9 +1766,9 @@
     "raw_data": {
       "code": "202605223747065053",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 26,
       "realSort": "1779459857065053",
-      "share": 40,
+      "share": 50,
       "showTime": "2026-05-22 22:24:17",
       "stockList": [
         "0.161631",
@@ -904,8 +1788,8 @@
       "1.515980"
     ],
     "has_stock_mention": true,
-    "comment_count": 19,
-    "share_count": 40,
+    "comment_count": 26,
+    "share_count": 50,
     "tags": {
       "industries": [],
       "concepts": [
@@ -943,7 +1827,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1779459670063639",
-      "share": 6,
+      "share": 8,
       "showTime": "2026-05-22 22:21:10",
       "stockList": [
         "1.600421"
@@ -962,7 +1846,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 6,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [
@@ -992,9 +1876,9 @@
     "raw_data": {
       "code": "202605223747063298",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1779459660063298",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-22 22:21:00",
       "stockList": [],
       "summary": "【印度：成功试射“烈火-1”弹道导弹】印度表示，成功试射“烈火-1”弹道导弹。",
@@ -1008,8 +1892,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
+    "comment_count": 5,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1031,7 +1915,7 @@
     "raw_data": {
       "code": "202605223747060715",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1779459560060715",
       "share": 4,
       "showTime": "2026-05-22 22:19:20",
@@ -1053,7 +1937,7 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1084,9 +1968,9 @@
     "raw_data": {
       "code": "202605223747060063",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 13,
       "realSort": "1779459322060063",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-05-22 22:15:22",
       "stockList": [],
       "summary": "美联储官员沃勒表示，如果通胀预期脱锚，尤其有必要加息。",
@@ -1100,8 +1984,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 11,
+    "comment_count": 13,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1123,9 +2007,9 @@
     "raw_data": {
       "code": "202605223747059575",
       "image": [],
-      "pinglun_Num": 55,
+      "pinglun_Num": 77,
       "realSort": "1779459261059575",
-      "share": 100,
+      "share": 118,
       "showTime": "2026-05-22 22:14:21",
       "stockList": [],
       "summary": "市场定价显示，交易员已完全预期到2026年底美联储将加息25个基点。",
@@ -1139,8 +2023,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 55,
-    "share_count": 100,
+    "comment_count": 77,
+    "share_count": 118,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1162,9 +2046,9 @@
     "raw_data": {
       "code": "202605223747058915",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1779459137058915",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-05-22 22:12:17",
       "stockList": [],
       "summary": "【美联储官员沃勒：不认为美联储近期应考虑加息】美联储官员沃勒表示，4月份消费者价格上涨的范围令人担忧，目前的立场是短期内维持利率稳定；不认为美联储近期应考虑加息。",
@@ -1178,8 +2062,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 2,
+    "comment_count": 5,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1203,7 +2087,7 @@
       "image": [],
       "pinglun_Num": 10,
       "realSort": "1779458747055814",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-05-22 22:05:47",
       "stockList": [],
       "summary": "【伊朗称正在争取合法权利 而非索取额外权利】据伊朗媒体22日报道，伊朗外交部发言人巴加埃表示，伊朗是在争取恢复自身合法权利，而非向美国索取额外权利。",
@@ -1218,7 +2102,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 10,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1240,9 +2124,9 @@
     "raw_data": {
       "code": "202605223747055229",
       "image": [],
-      "pinglun_Num": 47,
+      "pinglun_Num": 59,
       "realSort": "1779458604055229",
-      "share": 39,
+      "share": 44,
       "showTime": "2026-05-22 22:03:24",
       "stockList": [
         "150.161027",
@@ -1262,8 +2146,8 @@
       "105.TIGR"
     ],
     "has_stock_mention": true,
-    "comment_count": 47,
-    "share_count": 39,
+    "comment_count": 59,
+    "share_count": 44,
     "tags": {
       "industries": [
         {
@@ -1311,7 +2195,7 @@
       "image": [],
       "pinglun_Num": 12,
       "realSort": "1779458603055460",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-05-22 22:03:23",
       "stockList": [],
       "summary": "美联储官员沃勒表示支持删除FOMC声明中的宽松倾向。",
@@ -1326,7 +2210,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 12,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1350,7 +2234,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1779458494054587",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-22 22:01:34",
       "stockList": [],
       "summary": "密西根大学5月美国消费者一年通胀预期终值为4.8%。",
@@ -1365,919 +2249,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "38e259ca23209bcb",
-    "code": "202605223747054983",
-    "title": "美国5月密歇根大学消费者预期指数终值44.1 预期48.5",
-    "summary": "【美国5月密歇根大学消费者预期指数终值44.1 预期48.5】美国5月密歇根大学消费者预期指数终值44.1，预期48.5，初值48.5。",
-    "content": "【美国5月密歇根大学消费者预期指数终值44.1 预期48.5】美国5月密歇根大学消费者预期指数终值44.1，预期48.5，初值48.5。",
-    "full_content": "【美国5月密歇根大学消费者预期指数终值44.1 预期48.5】美国5月密歇根大学消费者预期指数终值44.1，预期48.5，初值48.5。",
-    "sort_time": "1779458450054983",
-    "showTime": "2026-05-22 22:00:50",
-    "time": "2026-05-22 22:00:50",
-    "publish_time": "2026-05-22 22:00:50",
-    "raw_data": {
-      "code": "202605223747054983",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1779458450054983",
-      "share": 0,
-      "showTime": "2026-05-22 22:00:50",
-      "stockList": [],
-      "summary": "【美国5月密歇根大学消费者预期指数终值44.1 预期48.5】美国5月密歇根大学消费者预期指数终值44.1，预期48.5，初值48.5。",
-      "title": "美国5月密歇根大学消费者预期指数终值44.1 预期48.5",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747054983.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e98a93060dca9f55",
-    "code": "202605223747054748",
-    "title": "美国5月密歇根大学消费者现况指数终值45.8 预期48",
-    "summary": "【美国5月密歇根大学消费者现况指数终值45.8 预期48】美国5月密歇根大学消费者现况指数终值45.8，预期48，初值47.8。",
-    "content": "【美国5月密歇根大学消费者现况指数终值45.8 预期48】美国5月密歇根大学消费者现况指数终值45.8，预期48，初值47.8。",
-    "full_content": "【美国5月密歇根大学消费者现况指数终值45.8 预期48】美国5月密歇根大学消费者现况指数终值45.8，预期48，初值47.8。",
-    "sort_time": "1779458428054748",
-    "showTime": "2026-05-22 22:00:28",
-    "time": "2026-05-22 22:00:28",
-    "publish_time": "2026-05-22 22:00:28",
-    "raw_data": {
-      "code": "202605223747054748",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1779458428054748",
-      "share": 0,
-      "showTime": "2026-05-22 22:00:28",
-      "stockList": [],
-      "summary": "【美国5月密歇根大学消费者现况指数终值45.8 预期48】美国5月密歇根大学消费者现况指数终值45.8，预期48，初值47.8。",
-      "title": "美国5月密歇根大学消费者现况指数终值45.8 预期48",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747054748.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "19b57ddd3a3ec88e",
-    "code": "202605223747053698",
-    "title": "2026年5月票房破20亿",
-    "summary": "【2026年5月票房破20亿】据灯塔专业版，截至5月22日，2026年5月票房（含预售）突破20亿，《给阿嬷的情书》领跑5月票房榜。",
-    "content": "【2026年5月票房破20亿】据灯塔专业版，截至5月22日，2026年5月票房（含预售）突破20亿，《给阿嬷的情书》领跑5月票房榜。",
-    "full_content": "【2026年5月票房破20亿】据灯塔专业版，截至5月22日，2026年5月票房（含预售）突破20亿，《给阿嬷的情书》领跑5月票房榜。",
-    "sort_time": "1779458244053698",
-    "showTime": "2026-05-22 21:57:24",
-    "time": "2026-05-22 21:57:24",
-    "publish_time": "2026-05-22 21:57:24",
-    "raw_data": {
-      "code": "202605223747053698",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1779458244053698",
-      "share": 1,
-      "showTime": "2026-05-22 21:57:24",
-      "stockList": [
-        "90.BK0486"
-      ],
-      "summary": "【2026年5月票房破20亿】据灯塔专业版，截至5月22日，2026年5月票房（含预售）突破20亿，《给阿嬷的情书》领跑5月票房榜。",
-      "title": "2026年5月票房破20亿",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747053698.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0486"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
     "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d1d4ee244a36d742",
-    "code": "202605223747053520",
-    "title": "机构：标普500指数有望创下自2021年以来最强劲的盈利增长",
-    "summary": "【机构：标普500指数有望创下自2021年以来最强劲的盈利增长】随着增长动能从人工智能驱动的涨幅扩展至美国大多数企业，标普500指数有望实现五年来最强劲的盈利增长。据机构统计的数据，该基准指数中约93%的企业已公布财报，其中83%的公司业绩超出分析师预期。",
-    "content": "【机构：标普500指数有望创下自2021年以来最强劲的盈利增长】随着增长动能从人工智能驱动的涨幅扩展至美国大多数企业，标普500指数有望实现五年来最强劲的盈利增长。据机构统计的数据，该基准指数中约93%的企业已公布财报，其中83%的公司业绩超出分析师预期。",
-    "full_content": "【机构：标普500指数有望创下自2021年以来最强劲的盈利增长】随着增长动能从人工智能驱动的涨幅扩展至美国大多数企业，标普500指数有望实现五年来最强劲的盈利增长。据机构统计的数据，该基准指数中约93%的企业已公布财报，其中83%的公司业绩超出分析师预期。",
-    "sort_time": "1779458210053520",
-    "showTime": "2026-05-22 21:56:50",
-    "time": "2026-05-22 21:56:50",
-    "publish_time": "2026-05-22 21:56:50",
-    "raw_data": {
-      "code": "202605223747053520",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1779458210053520",
-      "share": 3,
-      "showTime": "2026-05-22 21:56:50",
-      "stockList": [],
-      "summary": "【机构：标普500指数有望创下自2021年以来最强劲的盈利增长】随着增长动能从人工智能驱动的涨幅扩展至美国大多数企业，标普500指数有望实现五年来最强劲的盈利增长。据机构统计的数据，该基准指数中约93%的企业已公布财报，其中83%的公司业绩超出分析师预期。",
-      "title": "机构：标普500指数有望创下自2021年以来最强劲的盈利增长",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747053520.html",
-    "category": "公司",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "2145e675f9a89700",
-    "code": "202605223747050657",
-    "title": "美股量子计算概念股延续强势 Infleqtion涨近20%",
-    "summary": "【美股量子计算概念股延续强势 Infleqtion涨近20%】美股量子计算概念股延续昨日强势，Infleqtion涨近20%，RGTI涨超15%，QUBT、QBTS涨超11%，IONQ涨超6%，IBM涨近3%。",
-    "content": "【美股量子计算概念股延续强势 Infleqtion涨近20%】美股量子计算概念股延续昨日强势，Infleqtion涨近20%，RGTI涨超15%，QUBT、QBTS涨超11%，IONQ涨超6%，IBM涨近3%。",
-    "full_content": "【美股量子计算概念股延续强势 Infleqtion涨近20%】美股量子计算概念股延续昨日强势，Infleqtion涨近20%，RGTI涨超15%，QUBT、QBTS涨超11%，IONQ涨超6%，IBM涨近3%。",
-    "sort_time": "1779458095050657",
-    "showTime": "2026-05-22 21:54:55",
-    "time": "2026-05-22 21:54:55",
-    "publish_time": "2026-05-22 21:54:55",
-    "raw_data": {
-      "code": "202605223747050657",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1779458095050657",
-      "share": 17,
-      "showTime": "2026-05-22 21:54:55",
-      "stockList": [],
-      "summary": "【美股量子计算概念股延续强势 Infleqtion涨近20%】美股量子计算概念股延续昨日强势，Infleqtion涨近20%，RGTI涨超15%，QUBT、QBTS涨超11%，IONQ涨超6%，IBM涨近3%。",
-      "title": "美股量子计算概念股延续强势 Infleqtion涨近20%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747050657.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 17,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4f3e03141a423c2d",
-    "code": "202605223747049896",
-    "title": "美股AI应用软件股盘初走强",
-    "summary": "【美股AI应用软件股盘初走强】美股AI应用软件股盘初走强，Zoom通讯涨近15%，Workday涨超9%，Braze、Spotify涨超7%，Figma Inc涨近6%，The Trade Desk涨超4%。",
-    "content": "【美股AI应用软件股盘初走强】美股AI应用软件股盘初走强，Zoom通讯涨近15%，Workday涨超9%，Braze、Spotify涨超7%，Figma Inc涨近6%，The Trade Desk涨超4%。",
-    "full_content": "【美股AI应用软件股盘初走强】美股AI应用软件股盘初走强，Zoom通讯涨近15%，Workday涨超9%，Braze、Spotify涨超7%，Figma Inc涨近6%，The Trade Desk涨超4%。",
-    "sort_time": "1779458029049896",
-    "showTime": "2026-05-22 21:53:49",
-    "time": "2026-05-22 21:53:49",
-    "publish_time": "2026-05-22 21:53:49",
-    "raw_data": {
-      "code": "202605223747049896",
-      "image": [],
-      "pinglun_Num": 60,
-      "realSort": "1779458029049896",
-      "share": 25,
-      "showTime": "2026-05-22 21:53:49",
-      "stockList": [
-        "105.ZM"
-      ],
-      "summary": "【美股AI应用软件股盘初走强】美股AI应用软件股盘初走强，Zoom通讯涨近15%，Workday涨超9%，Braze、Spotify涨超7%，Figma Inc涨近6%，The Trade Desk涨超4%。",
-      "title": "美股AI应用软件股盘初走强",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747049896.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ZM"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 60,
-    "share_count": 25,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "957a1bf170252768",
-    "code": "202605223747047971",
-    "title": "川崎重工在硅谷成立物理AI中心，联手英伟达和微软等巨头",
-    "summary": "【川崎重工在硅谷成立物理AI中心，联手英伟达和微软等巨头】川崎重工5月22日宣布，在美国硅谷设立“川崎物理AI中心”，联手英伟达、微软、亚德诺和富士通等巨头，该中心将首先瞄准老龄化和劳动力短缺问题，聚焦医疗和护理领域，通过AI与机器人结合，推出覆盖到院、手术、术后护理的“医院一站式服务”。",
-    "content": "【川崎重工在硅谷成立物理AI中心，联手英伟达和微软等巨头】川崎重工5月22日宣布，在美国硅谷设立“川崎物理AI中心”，联手英伟达、微软、亚德诺和富士通等巨头，该中心将首先瞄准老龄化和劳动力短缺问题，聚焦医疗和护理领域，通过AI与机器人结合，推出覆盖到院、手术、术后护理的“医院一站式服务”。",
-    "full_content": "【川崎重工在硅谷成立物理AI中心，联手英伟达和微软等巨头】川崎重工5月22日宣布，在美国硅谷设立“川崎物理AI中心”，联手英伟达、微软、亚德诺和富士通等巨头，该中心将首先瞄准老龄化和劳动力短缺问题，聚焦医疗和护理领域，通过AI与机器人结合，推出覆盖到院、手术、术后护理的“医院一站式服务”。",
-    "sort_time": "1779457764047971",
-    "showTime": "2026-05-22 21:49:24",
-    "time": "2026-05-22 21:49:24",
-    "publish_time": "2026-05-22 21:49:24",
-    "raw_data": {
-      "code": "202605223747047971",
-      "image": [],
-      "pinglun_Num": 20,
-      "realSort": "1779457764047971",
-      "share": 16,
-      "showTime": "2026-05-22 21:49:24",
-      "stockList": [
-        "90.BK0800",
-        "90.BK1161"
-      ],
-      "summary": "【川崎重工在硅谷成立物理AI中心，联手英伟达和微软等巨头】川崎重工5月22日宣布，在美国硅谷设立“川崎物理AI中心”，联手英伟达、微软、亚德诺和富士通等巨头，该中心将首先瞄准老龄化和劳动力短缺问题，聚焦医疗和护理领域，通过AI与机器人结合，推出覆盖到院、手术、术后护理的“医院一站式服务”。",
-      "title": "川崎重工在硅谷成立物理AI中心，联手英伟达和微软等巨头",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747047971.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "90.BK1161"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 16,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C012",
-          "name": "机器人",
-          "matched_keyword": "机器人"
-        },
-        {
-          "id": "C304",
-          "name": "医疗服务",
-          "matched_keyword": "医院"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C012",
-        "C304"
-      ]
-    }
-  },
-  {
-    "id": "89e2c7808ab46272",
-    "code": "202605223747043026",
-    "title": "伊朗任命伊美谈判代表团发言人",
-    "summary": "【伊朗任命伊美谈判代表团发言人】据伊朗伊斯兰共和国广播电视台22日报道，伊朗伊斯兰议会议长卡利巴夫任命伊朗外交部发言人巴加埃担任伊美谈判伊朗代表团发言人。",
-    "content": "【伊朗任命伊美谈判代表团发言人】据伊朗伊斯兰共和国广播电视台22日报道，伊朗伊斯兰议会议长卡利巴夫任命伊朗外交部发言人巴加埃担任伊美谈判伊朗代表团发言人。",
-    "full_content": "【伊朗任命伊美谈判代表团发言人】据伊朗伊斯兰共和国广播电视台22日报道，伊朗伊斯兰议会议长卡利巴夫任命伊朗外交部发言人巴加埃担任伊美谈判伊朗代表团发言人。",
-    "sort_time": "1779457666043026",
-    "showTime": "2026-05-22 21:47:46",
-    "time": "2026-05-22 21:47:46",
-    "publish_time": "2026-05-22 21:47:46",
-    "raw_data": {
-      "code": "202605223747043026",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1779457666043026",
-      "share": 2,
-      "showTime": "2026-05-22 21:47:46",
-      "stockList": [],
-      "summary": "【伊朗任命伊美谈判代表团发言人】据伊朗伊斯兰共和国广播电视台22日报道，伊朗伊斯兰议会议长卡利巴夫任命伊朗外交部发言人巴加埃担任伊美谈判伊朗代表团发言人。",
-      "title": "伊朗任命伊美谈判代表团发言人",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747043026.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e5e7ccdb5c5d1761",
-    "code": "202605223747042634",
-    "title": "欧洲斯托克50蓝筹股指数上涨0.9%",
-    "summary": "欧洲斯托克50蓝筹股指数创下自3月2日以来最高点位，现上涨0.9%。",
-    "content": "欧洲斯托克50蓝筹股指数创下自3月2日以来最高点位，现上涨0.9%。",
-    "full_content": "欧洲斯托克50蓝筹股指数创下自3月2日以来最高点位，现上涨0.9%。",
-    "sort_time": "1779457641042634",
-    "showTime": "2026-05-22 21:47:21",
-    "time": "2026-05-22 21:47:21",
-    "publish_time": "2026-05-22 21:47:21",
-    "raw_data": {
-      "code": "202605223747042634",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1779457641042634",
-      "share": 1,
-      "showTime": "2026-05-22 21:47:21",
-      "stockList": [],
-      "summary": "欧洲斯托克50蓝筹股指数创下自3月2日以来最高点位，现上涨0.9%。",
-      "title": "欧洲斯托克50蓝筹股指数上涨0.9%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747042634.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "59e481dbd9005082",
-    "code": "202605223747042122",
-    "title": "礼来股价上涨2.18% 市值时隔3个月重回1万亿美元",
-    "summary": "【礼来股价上涨2.18% 市值时隔3个月重回1万亿美元】礼来股价上涨2.18%，报1064.38美元/股，创2月中旬以来新高，总市值报1.00万亿美元。",
-    "content": "【礼来股价上涨2.18% 市值时隔3个月重回1万亿美元】礼来股价上涨2.18%，报1064.38美元/股，创2月中旬以来新高，总市值报1.00万亿美元。",
-    "full_content": "【礼来股价上涨2.18% 市值时隔3个月重回1万亿美元】礼来股价上涨2.18%，报1064.38美元/股，创2月中旬以来新高，总市值报1.00万亿美元。",
-    "sort_time": "1779457523042122",
-    "showTime": "2026-05-22 21:45:23",
-    "time": "2026-05-22 21:45:23",
-    "publish_time": "2026-05-22 21:45:23",
-    "raw_data": {
-      "code": "202605223747042122",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1779457523042122",
-      "share": 2,
-      "showTime": "2026-05-22 21:45:23",
-      "stockList": [
-        "106.LLY"
-      ],
-      "summary": "【礼来股价上涨2.18% 市值时隔3个月重回1万亿美元】礼来股价上涨2.18%，报1064.38美元/股，创2月中旬以来新高，总市值报1.00万亿美元。",
-      "title": "礼来股价上涨2.18% 市值时隔3个月重回1万亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747042122.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "106.LLY"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "97328d3f416bb237",
-    "code": "202605223747040348",
-    "title": "道琼斯指数涨0.64% 创下历史新高",
-    "summary": "【道琼斯指数涨0.64% 创下历史新高】道琼斯指数涨0.64%，报50608.77点，升破2月高点创下历史新高。",
-    "content": "【道琼斯指数涨0.64% 创下历史新高】道琼斯指数涨0.64%，报50608.77点，升破2月高点创下历史新高。",
-    "full_content": "【道琼斯指数涨0.64% 创下历史新高】道琼斯指数涨0.64%，报50608.77点，升破2月高点创下历史新高。",
-    "sort_time": "1779457391040348",
-    "showTime": "2026-05-22 21:43:11",
-    "time": "2026-05-22 21:43:11",
-    "publish_time": "2026-05-22 21:43:11",
-    "raw_data": {
-      "code": "202605223747040348",
-      "image": [],
-      "pinglun_Num": 14,
-      "realSort": "1779457391040348",
-      "share": 22,
-      "showTime": "2026-05-22 21:43:11",
-      "stockList": [],
-      "summary": "【道琼斯指数涨0.64% 创下历史新高】道琼斯指数涨0.64%，报50608.77点，升破2月高点创下历史新高。",
-      "title": "道琼斯指数涨0.64% 创下历史新高",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747040348.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 22,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "477107ca34943917",
-    "code": "202605223747039767",
-    "title": "Wolfspeed开盘涨超15%",
-    "summary": "【Wolfspeed开盘涨超15%】Wolfspeed开盘涨超15%。据财联社，公司新推出两款3.3kV碳化硅功率模块系列，助力应对能源需求的激增。",
-    "content": "【Wolfspeed开盘涨超15%】Wolfspeed开盘涨超15%。据财联社，公司新推出两款3.3kV碳化硅功率模块系列，助力应对能源需求的激增。",
-    "full_content": "【Wolfspeed开盘涨超15%】Wolfspeed开盘涨超15%。据财联社，公司新推出两款3.3kV碳化硅功率模块系列，助力应对能源需求的激增。",
-    "sort_time": "1779457360039767",
-    "showTime": "2026-05-22 21:42:40",
-    "time": "2026-05-22 21:42:40",
-    "publish_time": "2026-05-22 21:42:40",
-    "raw_data": {
-      "code": "202605223747039767",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1779457360039767",
-      "share": 6,
-      "showTime": "2026-05-22 21:42:40",
-      "stockList": [
-        "0.159945",
-        "150.014238"
-      ],
-      "summary": "【Wolfspeed开盘涨超15%】Wolfspeed开盘涨超15%。据财联社，公司新推出两款3.3kV碳化硅功率模块系列，助力应对能源需求的激增。",
-      "title": "Wolfspeed开盘涨超15%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747039767.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159945",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "02af35225c8cd83e",
-    "code": "202605223747039252",
-    "title": "美股费城半导体指数盘初涨1.6%",
-    "summary": "【美股费城半导体指数盘初涨1.6%】美股费城半导体指数盘初涨1.6%，AMD涨超6%再创新高，Astera Labs、高通涨超5%，德州仪器、恩智浦、阿斯麦涨近3%，迈威尔科技涨超2%。",
-    "content": "【美股费城半导体指数盘初涨1.6%】美股费城半导体指数盘初涨1.6%，AMD涨超6%再创新高，Astera Labs、高通涨超5%，德州仪器、恩智浦、阿斯麦涨近3%，迈威尔科技涨超2%。",
-    "full_content": "【美股费城半导体指数盘初涨1.6%】美股费城半导体指数盘初涨1.6%，AMD涨超6%再创新高，Astera Labs、高通涨超5%，德州仪器、恩智浦、阿斯麦涨近3%，迈威尔科技涨超2%。",
-    "sort_time": "1779457309039252",
-    "showTime": "2026-05-22 21:41:49",
-    "time": "2026-05-22 21:41:49",
-    "publish_time": "2026-05-22 21:41:49",
-    "raw_data": {
-      "code": "202605223747039252",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1779457309039252",
-      "share": 3,
-      "showTime": "2026-05-22 21:41:49",
-      "stockList": [],
-      "summary": "【美股费城半导体指数盘初涨1.6%】美股费城半导体指数盘初涨1.6%，AMD涨超6%再创新高，Astera Labs、高通涨超5%，德州仪器、恩智浦、阿斯麦涨近3%，迈威尔科技涨超2%。",
-      "title": "美股费城半导体指数盘初涨1.6%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747039252.html",
-    "category": "科技",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "5d657363ec76304f",
-    "code": "202605223747037884",
-    "title": "美股稀土概念股普涨 American Resources涨超7%",
-    "summary": "【美股稀土概念股普涨 American Resources涨超7%】美股稀土概念股普涨，American Resources涨超7%，USA Rare Earth涨近6%，Perpetua Resources、MP Materials涨超4%。",
-    "content": "【美股稀土概念股普涨 American Resources涨超7%】美股稀土概念股普涨，American Resources涨超7%，USA Rare Earth涨近6%，Perpetua Resources、MP Materials涨超4%。",
-    "full_content": "【美股稀土概念股普涨 American Resources涨超7%】美股稀土概念股普涨，American Resources涨超7%，USA Rare Earth涨近6%，Perpetua Resources、MP Materials涨超4%。",
-    "sort_time": "1779457188037884",
-    "showTime": "2026-05-22 21:39:48",
-    "time": "2026-05-22 21:39:48",
-    "publish_time": "2026-05-22 21:39:48",
-    "raw_data": {
-      "code": "202605223747037884",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1779457188037884",
-      "share": 6,
-      "showTime": "2026-05-22 21:39:48",
-      "stockList": [
-        "105.AREC"
-      ],
-      "summary": "【美股稀土概念股普涨 American Resources涨超7%】美股稀土概念股普涨，American Resources涨超7%，USA Rare Earth涨近6%，Perpetua Resources、MP Materials涨超4%。",
-      "title": "美股稀土概念股普涨 American Resources涨超7%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747037884.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.AREC"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C503",
-          "name": "稀土",
-          "matched_keyword": "稀土"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C503"
-      ]
-    }
-  },
-  {
-    "id": "6f07df14373a2fae",
-    "code": "202605223747037310",
-    "title": "美股电脑硬件股盘初走高",
-    "summary": "美股电脑硬件股盘初走高，戴尔科技大涨超10%再创历史新高，惠普涨超7%。",
-    "content": "美股电脑硬件股盘初走高，戴尔科技大涨超10%再创历史新高，惠普涨超7%。",
-    "full_content": "美股电脑硬件股盘初走高，戴尔科技大涨超10%再创历史新高，惠普涨超7%。",
-    "sort_time": "1779457172037310",
-    "showTime": "2026-05-22 21:39:32",
-    "time": "2026-05-22 21:39:32",
-    "publish_time": "2026-05-22 21:39:32",
-    "raw_data": {
-      "code": "202605223747037310",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1779457172037310",
-      "share": 12,
-      "showTime": "2026-05-22 21:39:32",
-      "stockList": [],
-      "summary": "美股电脑硬件股盘初走高，戴尔科技大涨超10%再创历史新高，惠普涨超7%。",
-      "title": "美股电脑硬件股盘初走高",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747037310.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 12,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5391198eb96c3b39",
-    "code": "202605223747037294",
-    "title": "苹果股价续刷记录新高 总市值站上4.5万亿美元",
-    "summary": "【苹果股价续刷记录新高 总市值站上4.5万亿美元】苹果股价上涨1.13%，报308.45美元/股，续刷记录新高，总市值报4.53万亿美元。",
-    "content": "【苹果股价续刷记录新高 总市值站上4.5万亿美元】苹果股价上涨1.13%，报308.45美元/股，续刷记录新高，总市值报4.53万亿美元。",
-    "full_content": "【苹果股价续刷记录新高 总市值站上4.5万亿美元】苹果股价上涨1.13%，报308.45美元/股，续刷记录新高，总市值报4.53万亿美元。",
-    "sort_time": "1779457150037294",
-    "showTime": "2026-05-22 21:39:10",
-    "time": "2026-05-22 21:39:10",
-    "publish_time": "2026-05-22 21:39:10",
-    "raw_data": {
-      "code": "202605223747037294",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1779457150037294",
-      "share": 6,
-      "showTime": "2026-05-22 21:39:10",
-      "stockList": [],
-      "summary": "【苹果股价续刷记录新高 总市值站上4.5万亿美元】苹果股价上涨1.13%，报308.45美元/股，续刷记录新高，总市值报4.53万亿美元。",
-      "title": "苹果股价续刷记录新高 总市值站上4.5万亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747037294.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "ccbf62801f5423d5",
-    "code": "202605223747036967",
-    "title": "美股太空概念股盘初表现活跃",
-    "summary": "【美股太空概念股盘初表现活跃】美股太空概念股盘初表现活跃，Rocket Labs、Redwire涨超7%，Destiny Tech100涨超6%，Intuitive Machines、AST SpaceMobile涨超4%。",
-    "content": "【美股太空概念股盘初表现活跃】美股太空概念股盘初表现活跃，Rocket Labs、Redwire涨超7%，Destiny Tech100涨超6%，Intuitive Machines、AST SpaceMobile涨超4%。",
-    "full_content": "【美股太空概念股盘初表现活跃】美股太空概念股盘初表现活跃，Rocket Labs、Redwire涨超7%，Destiny Tech100涨超6%，Intuitive Machines、AST SpaceMobile涨超4%。",
-    "sort_time": "1779457080036967",
-    "showTime": "2026-05-22 21:38:00",
-    "time": "2026-05-22 21:38:00",
-    "publish_time": "2026-05-22 21:38:00",
-    "raw_data": {
-      "code": "202605223747036967",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1779457080036967",
-      "share": 6,
-      "showTime": "2026-05-22 21:38:00",
-      "stockList": [],
-      "summary": "【美股太空概念股盘初表现活跃】美股太空概念股盘初表现活跃，Rocket Labs、Redwire涨超7%，Destiny Tech100涨超6%，Intuitive Machines、AST SpaceMobile涨超4%。",
-      "title": "美股太空概念股盘初表现活跃",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747036967.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "ST"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C814"
-      ]
-    }
-  },
-  {
-    "id": "5d90e00959d77e78",
-    "code": "202605223747034741",
-    "title": "美国国务卿鲁比奥：如果伊朗拒绝重新开放霍尔木兹海峡 就需要有一个“B计划”",
-    "summary": "【美国国务卿鲁比奥：如果伊朗拒绝重新开放霍尔木兹海峡 就需要有一个“B计划”】美国国务卿鲁比奥表示，如果伊朗拒绝重新开放霍尔木兹海峡，就需要有一个“B计划”。",
-    "content": "【美国国务卿鲁比奥：如果伊朗拒绝重新开放霍尔木兹海峡 就需要有一个“B计划”】美国国务卿鲁比奥表示，如果伊朗拒绝重新开放霍尔木兹海峡，就需要有一个“B计划”。",
-    "full_content": "【美国国务卿鲁比奥：如果伊朗拒绝重新开放霍尔木兹海峡 就需要有一个“B计划”】美国国务卿鲁比奥表示，如果伊朗拒绝重新开放霍尔木兹海峡，就需要有一个“B计划”。",
-    "sort_time": "1779456962034741",
-    "showTime": "2026-05-22 21:36:02",
-    "time": "2026-05-22 21:36:02",
-    "publish_time": "2026-05-22 21:36:02",
-    "raw_data": {
-      "code": "202605223747034741",
-      "image": [],
-      "pinglun_Num": 14,
-      "realSort": "1779456962034741",
-      "share": 4,
-      "showTime": "2026-05-22 21:36:02",
-      "stockList": [],
-      "summary": "【美国国务卿鲁比奥：如果伊朗拒绝重新开放霍尔木兹海峡 就需要有一个“B计划”】美国国务卿鲁比奥表示，如果伊朗拒绝重新开放霍尔木兹海峡，就需要有一个“B计划”。",
-      "title": "美国国务卿鲁比奥：如果伊朗拒绝重新开放霍尔木兹海峡 就需要有一个“B计划”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747034741.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f8ea6a5388d9cae7",
-    "code": "202605223747034473",
-    "title": "超威半导体股价上涨5.57% 刷新记录新高",
-    "summary": "【超威半导体股价上涨5.57% 刷新记录新高】超威半导体股价上涨5.57%，报474.6美元/股，刷新记录新高，总市值报7740亿美元。",
-    "content": "【超威半导体股价上涨5.57% 刷新记录新高】超威半导体股价上涨5.57%，报474.6美元/股，刷新记录新高，总市值报7740亿美元。",
-    "full_content": "【超威半导体股价上涨5.57% 刷新记录新高】超威半导体股价上涨5.57%，报474.6美元/股，刷新记录新高，总市值报7740亿美元。",
-    "sort_time": "1779456961034473",
-    "showTime": "2026-05-22 21:36:01",
-    "time": "2026-05-22 21:36:01",
-    "publish_time": "2026-05-22 21:36:01",
-    "raw_data": {
-      "code": "202605223747034473",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1779456961034473",
-      "share": 5,
-      "showTime": "2026-05-22 21:36:01",
-      "stockList": [
-        "105.AMD"
-      ],
-      "summary": "【超威半导体股价上涨5.57% 刷新记录新高】超威半导体股价上涨5.57%，报474.6美元/股，刷新记录新高，总市值报7740亿美元。",
-      "title": "超威半导体股价上涨5.57% 刷新记录新高",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747034473.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "105.AMD"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 5,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "4541b8d87609c189",
-    "code": "202605223747032871",
-    "title": "雅诗兰黛股价上涨13%",
-    "summary": "雅诗兰黛股价上涨13%，创2025年4月以来最大盘中涨幅。",
-    "content": "雅诗兰黛股价上涨13%，创2025年4月以来最大盘中涨幅。",
-    "full_content": "雅诗兰黛股价上涨13%，创2025年4月以来最大盘中涨幅。",
-    "sort_time": "1779456924032871",
-    "showTime": "2026-05-22 21:35:24",
-    "time": "2026-05-22 21:35:24",
-    "publish_time": "2026-05-22 21:35:24",
-    "raw_data": {
-      "code": "202605223747032871",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1779456924032871",
-      "share": 0,
-      "showTime": "2026-05-22 21:35:24",
-      "stockList": [
-        "106.EL"
-      ],
-      "summary": "雅诗兰黛股价上涨13%，创2025年4月以来最大盘中涨幅。",
-      "title": "雅诗兰黛股价上涨13%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605223747032871.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "106.EL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
