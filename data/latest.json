@@ -1,5 +1,86 @@
 [
   {
+    "id": "ff9d9255a7d861a2",
+    "code": "202606013755248352",
+    "title": "A股6月将延续高位震荡 科技主线或内部聚焦",
+    "summary": "【A股6月将延续高位震荡 科技主线或内部聚焦】上周A股市场高位震荡，盘面呈现显著的高低切换格局：前期领涨的AI主线出现资金获利了结，而年初以来持续调整的白酒、地产等板块修复回升。对此，券商策略展望报告认为，近期的市场分化是对前期极致结构化行情的消化，而非基本面趋势逆转。总的来看，高风险偏好资金的情绪演绎与仓位博弈已趋于充分，6月指数或延续高位盘整。风格演绎上，科技赛道的中期产业趋势并未改变，后续科技主线或进一步向具备盈利兑现的方向聚焦，但不会出现成长向价值的全面切换。",
+    "content": "【A股6月将延续高位震荡 科技主线或内部聚焦】上周A股市场高位震荡，盘面呈现显著的高低切换格局：前期领涨的AI主线出现资金获利了结，而年初以来持续调整的白酒、地产等板块修复回升。对此，券商策略展望报告认为，近期的市场分化是对前期极致结构化行情的消化，而非基本面趋势逆转。总的来看，高风险偏好资金的情绪演绎与仓位博弈已趋于充分，6月指数或延续高位盘整。风格演绎上，科技赛道的中期产业趋势并未改变，后续科技主线或进一步向具备盈利兑现的方向聚焦，但不会出现成长向价值的全面切换。",
+    "full_content": "【A股6月将延续高位震荡 科技主线或内部聚焦】上周A股市场高位震荡，盘面呈现显著的高低切换格局：前期领涨的AI主线出现资金获利了结，而年初以来持续调整的白酒、地产等板块修复回升。对此，券商策略展望报告认为，近期的市场分化是对前期极致结构化行情的消化，而非基本面趋势逆转。总的来看，高风险偏好资金的情绪演绎与仓位博弈已趋于充分，6月指数或延续高位盘整。风格演绎上，科技赛道的中期产业趋势并未改变，后续科技主线或进一步向具备盈利兑现的方向聚焦，但不会出现成长向价值的全面切换。",
+    "sort_time": "1780251204048352",
+    "showTime": "2026-06-01 02:13:24",
+    "time": "2026-06-01 02:13:24",
+    "publish_time": "2026-06-01 02:13:24",
+    "raw_data": {
+      "code": "202606013755248352",
+      "image": [],
+      "pinglun_Num": 9,
+      "realSort": "1780251204048352",
+      "share": 2,
+      "showTime": "2026-06-01 02:13:24",
+      "stockList": [
+        "90.BK0800",
+        "1007.BK000391"
+      ],
+      "summary": "【A股6月将延续高位震荡 科技主线或内部聚焦】上周A股市场高位震荡，盘面呈现显著的高低切换格局：前期领涨的AI主线出现资金获利了结，而年初以来持续调整的白酒、地产等板块修复回升。对此，券商策略展望报告认为，近期的市场分化是对前期极致结构化行情的消化，而非基本面趋势逆转。总的来看，高风险偏好资金的情绪演绎与仓位博弈已趋于充分，6月指数或延续高位盘整。风格演绎上，科技赛道的中期产业趋势并未改变，后续科技主线或进一步向具备盈利兑现的方向聚焦，但不会出现成长向价值的全面切换。",
+      "title": "A股6月将延续高位震荡 科技主线或内部聚焦",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606013755248352.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "1007.BK000391"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 9,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "券商"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "券商"
+        },
+        {
+          "id": "C405",
+          "name": "房地产",
+          "matched_keyword": "地产"
+        },
+        {
+          "id": "C601",
+          "name": "白酒",
+          "matched_keyword": "酒"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C001",
+        "C401",
+        "C405",
+        "C601"
+      ]
+    }
+  },
+  {
     "id": "651b70e9681b0b71",
     "code": "202606013755246834",
     "title": "伊朗外长：伊美谈判和信息交换仍在进行中",
@@ -13,9 +94,9 @@
     "raw_data": {
       "code": "202606013755246834",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1780250298046834",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-06-01 01:58:18",
       "stockList": [],
       "summary": "【伊朗外长：伊美谈判和信息交换仍在进行中】当地时间5月31日，总台记者获悉，伊朗外交部长阿拉格齐在接受媒体采访时表示，目前谈判和信息交换仍在进行中，在尚未取得明确结果之前，无法对此作出判断。",
@@ -29,8 +110,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -54,7 +135,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1780250115046736",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-06-01 01:55:15",
       "stockList": [],
       "summary": "【伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤】当地时间5月31日，一名美国官员透露，上周伊朗针对美军位于科威特的一处空军基地发动弹道导弹袭击，造成4名美国军人和3名承包商受轻伤。该官员表示，7名伤者均在24小时内恢复执勤。",
@@ -69,7 +150,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -132,7 +213,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1780248009045893",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-06-01 01:20:09",
       "stockList": [],
       "summary": "【伊朗军官：将与敌人的过分要求和霸权行径战斗到最后一刻】当地时间5月31日，伊朗伊斯兰革命卫队海军副司令发布消息称，面对任何形式的过分要求和霸权行径，伊朗都将战斗到最后一刻，与敌人针锋相对。伊朗武装部队中的战士正“全副武装，随时准备战斗，捍卫着这片土地和祖国的安全和荣誉”。",
@@ -147,7 +228,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -169,9 +250,9 @@
     "raw_data": {
       "code": "202605313755240896",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 6,
       "realSort": "1780246801040896",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-06-01 01:00:01",
       "stockList": [
         "1.600569"
@@ -189,8 +270,8 @@
       "1.600569"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 1,
+    "comment_count": 6,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -338,7 +419,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1780243200042974",
-      "share": 11,
+      "share": 13,
       "showTime": "2026-06-01 00:00:00",
       "stockList": [],
       "summary": "【海外资金加速布局中国硬科技资产】5月29日，全球知名指数编制机构明晟最新季度调整正式生效。作为指引全球万亿级资产配置的核心风向标，此次调整新纳入了多家中国科技公司。与此同时，多家国际投行也在加速布局中国优质资产，外资金融机构对中国市场的投资热情持续高涨。根据明晟的公告，19只中国股票被纳入明晟中国指数，这一调整意味着国际主流资金将加速涌入这些中国企业。",
@@ -353,7 +434,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 11,
+    "share_count": 13,
     "tags": {
       "industries": [
         {
@@ -395,7 +476,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1780242116042615",
-      "share": 8,
+      "share": 10,
       "showTime": "2026-05-31 23:41:56",
       "stockList": [],
       "summary": "【资源存量趋紧 锡产业链加速向循环化发展】业内预计，按当前开采速率，全球锡矿仅够开采15年，国内锡矿仅够开采12年左右。由于原生资源存量不足、海外供给不确定性增强，这使得很多生产企业开始转向金属锡回收。目前，我国头部锡企已全面布局循环产业链，打造 “矿山开采、冶炼加工、废料回收、再生利用”的闭环，通过技术攻关提升废旧电路板、锡渣、尾矿的回收利用率，持续提高再生锡供给占比。",
@@ -410,7 +491,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 8,
+    "share_count": 10,
     "tags": {
       "industries": [
         {
@@ -442,9 +523,9 @@
     "raw_data": {
       "code": "202605313755242192",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1780241574042192",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-05-31 23:32:54",
       "stockList": [
         "90.BK0474",
@@ -464,8 +545,8 @@
       "90.BK1358"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 2,
+    "comment_count": 4,
+    "share_count": 3,
     "tags": {
       "industries": [
         {
@@ -529,7 +610,7 @@
       "image": [],
       "pinglun_Num": 8,
       "realSort": "1780241037040992",
-      "share": 14,
+      "share": 17,
       "showTime": "2026-05-31 23:23:57",
       "stockList": [
         "90.BK1134",
@@ -550,7 +631,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 8,
-    "share_count": 14,
+    "share_count": 17,
     "tags": {
       "industries": [
         {
@@ -604,7 +685,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1780240559040796",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-05-31 23:15:59",
       "stockList": [],
       "summary": "【中国驻美大使：中美两国人民渴望友好的初心没有变】中国驻美国大使馆5月30日举办“匹克球之夜”活动。中国驻美大使谢锋在致辞中说，从乒乓球到匹克球，变的是球拍，不变的是两国人民渴望友好的初心。",
@@ -619,7 +700,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -643,7 +724,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1780239308039850",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-05-31 22:55:08",
       "stockList": [
         "90.BK0800",
@@ -664,7 +745,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 3,
-    "share_count": 5,
+    "share_count": 7,
     "tags": {
       "industries": [
         {
@@ -724,7 +805,7 @@
       "image": [],
       "pinglun_Num": 31,
       "realSort": "1780238251037675",
-      "share": 9,
+      "share": 10,
       "showTime": "2026-05-31 22:37:31",
       "stockList": [
         "90.BK0921"
@@ -743,7 +824,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 31,
-    "share_count": 9,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [
@@ -775,7 +856,7 @@
       "image": [],
       "pinglun_Num": 22,
       "realSort": "1780237136035967",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-05-31 22:18:56",
       "stockList": [],
       "summary": "【刚果（金）埃博拉疫情累计确诊病例超260例】刚果（金）政府当地时间5月30日通报本轮埃博拉疫情防控最新进展，目前该国累计确诊病例超260例，疫情波及伊图里省、北基伍省及南基伍省多地。",
@@ -790,7 +871,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 22,
-    "share_count": 11,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -853,7 +934,7 @@
       "image": [],
       "pinglun_Num": 32,
       "realSort": "1780236714034297",
-      "share": 33,
+      "share": 34,
       "showTime": "2026-05-31 22:11:54",
       "stockList": [
         "150.013446"
@@ -872,7 +953,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 32,
-    "share_count": 33,
+    "share_count": 34,
     "tags": {
       "industries": [
         {
@@ -987,7 +1068,7 @@
       "image": [],
       "pinglun_Num": 8,
       "realSort": "1780235530027855",
-      "share": 24,
+      "share": 25,
       "showTime": "2026-05-31 21:52:10",
       "stockList": [
         "90.BK0697",
@@ -1008,7 +1089,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 8,
-    "share_count": 24,
+    "share_count": 25,
     "tags": {
       "industries": [
         {
@@ -1223,7 +1304,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1780234259015994",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-05-31 21:30:59",
       "stockList": [],
       "summary": "【德媒称美计划加快从欧洲撤军步伐】据德国《星期日世界报》5月30日援引一位匿名五角大楼消息人士的话报道称，美国计划加快从欧洲撤军的步伐，并将于下月向北约盟友提交相关方案。美国在德驻军是二战后同盟国军事占领德国以及美国构建军力全球部署的产物。目前，美军欧洲司令部和非洲司令部均设在德国斯图加特市。德国拉姆施泰因空军基地则是美国在中东、北非和南亚军事行动的主要后勤基地。据美国国防部数据，2025年底，美军共有超过3.6万人驻扎在德国。",
@@ -1238,7 +1319,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 5,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1573,9 +1654,9 @@
     "raw_data": {
       "code": "202605313755195770",
       "image": [],
-      "pinglun_Num": 304,
+      "pinglun_Num": 308,
       "realSort": "1780226155095770",
-      "share": 615,
+      "share": 617,
       "showTime": "2026-05-31 19:15:55",
       "stockList": [
         "90.BK0868",
@@ -1595,8 +1676,8 @@
       "116.00100"
     ],
     "has_stock_mention": true,
-    "comment_count": 304,
-    "share_count": 615,
+    "comment_count": 308,
+    "share_count": 617,
     "tags": {
       "industries": [
         {
@@ -1760,7 +1841,7 @@
       "image": [],
       "pinglun_Num": 169,
       "realSort": "1780225215094555",
-      "share": 214,
+      "share": 219,
       "showTime": "2026-05-31 19:00:15",
       "stockList": [
         "90.BK0437",
@@ -1781,7 +1862,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 169,
-    "share_count": 214,
+    "share_count": 219,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2101,7 +2182,7 @@
       "image": [],
       "pinglun_Num": 1666,
       "realSort": "1780222840091923",
-      "share": 1702,
+      "share": 1723,
       "showTime": "2026-05-31 18:20:40",
       "stockList": [
         "0.161026",
@@ -2122,7 +2203,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1666,
-    "share_count": 1702,
+    "share_count": 1723,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2232,7 +2313,7 @@
       "image": [],
       "pinglun_Num": 9,
       "realSort": "1780222247090388",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-05-31 18:10:47",
       "stockList": [],
       "summary": "【中央气象台5月31日18时继续发布强对流天气黄色预警】中央气象台5月31日18时继续发布强对流天气黄色预警：预计5月31日20时至6月1日20时，内蒙古东北部、东北地区中西部、华北北部、西南地区东部等地的部分地区将有8级以上雷暴大风或冰雹天气。",
@@ -2247,7 +2328,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 9,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2503,45 +2584,6 @@
     "has_stock_mention": false,
     "comment_count": 0,
     "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a062b7146d607f7f",
-    "code": "202605313755185750",
-    "title": "电影《给阿嬷的情书》总票房破14亿",
-    "summary": "【电影《给阿嬷的情书》总票房破14亿】据猫眼专业版数据，电影《给阿嬷的情书》上映32天，总票房破14亿。",
-    "content": "【电影《给阿嬷的情书》总票房破14亿】据猫眼专业版数据，电影《给阿嬷的情书》上映32天，总票房破14亿。",
-    "full_content": "【电影《给阿嬷的情书》总票房破14亿】据猫眼专业版数据，电影《给阿嬷的情书》上映32天，总票房破14亿。",
-    "sort_time": "1780220302085750",
-    "showTime": "2026-05-31 17:38:22",
-    "time": "2026-05-31 17:38:22",
-    "publish_time": "2026-05-31 17:38:22",
-    "raw_data": {
-      "code": "202605313755185750",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1780220302085750",
-      "share": 17,
-      "showTime": "2026-05-31 17:38:22",
-      "stockList": [],
-      "summary": "【电影《给阿嬷的情书》总票房破14亿】据猫眼专业版数据，电影《给阿嬷的情书》上映32天，总票房破14亿。",
-      "title": "电影《给阿嬷的情书》总票房破14亿",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202605313755185750.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
