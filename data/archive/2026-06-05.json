@@ -1,5 +1,822 @@
 [
   {
+    "id": "4edb545e65496724",
+    "code": "202606063762326641",
+    "title": "Meta据悉考虑对消费者AI Agent收取每月200美元的费用",
+    "summary": "Meta据悉考虑对消费者AIAgent收取每月200美元的费用。",
+    "content": "Meta据悉考虑对消费者AIAgent收取每月200美元的费用。",
+    "full_content": "Meta据悉考虑对消费者AIAgent收取每月200美元的费用。",
+    "sort_time": "1780682681026641",
+    "showTime": "2026-06-06 02:04:41",
+    "time": "2026-06-06 02:04:41",
+    "publish_time": "2026-06-06 02:04:41",
+    "raw_data": {
+      "code": "202606063762326641",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780682681026641",
+      "share": 1,
+      "showTime": "2026-06-06 02:04:41",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "Meta据悉考虑对消费者AIAgent收取每月200美元的费用。",
+      "title": "Meta据悉考虑对消费者AI Agent收取每月200美元的费用",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762326641.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "ab3d5d50a7a5892b",
+    "code": "202606063762326593",
+    "title": "特朗普表示 房利美和房地美IPO并非不可能 但并不急",
+    "summary": "特朗普表示，房利美和房地美IPO并非不可能，但并不急。",
+    "content": "特朗普表示，房利美和房地美IPO并非不可能，但并不急。",
+    "full_content": "特朗普表示，房利美和房地美IPO并非不可能，但并不急。",
+    "sort_time": "1780682425026593",
+    "showTime": "2026-06-06 02:00:25",
+    "time": "2026-06-06 02:00:25",
+    "publish_time": "2026-06-06 02:00:25",
+    "raw_data": {
+      "code": "202606063762326593",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780682425026593",
+      "share": 0,
+      "showTime": "2026-06-06 02:00:25",
+      "stockList": [
+        "90.BK0697",
+        "153.FNMA"
+      ],
+      "summary": "特朗普表示，房利美和房地美IPO并非不可能，但并不急。",
+      "title": "特朗普表示 房利美和房地美IPO并非不可能 但并不急",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762326593.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697",
+      "153.FNMA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "01b54563be969aa4",
+    "code": "202606063762326414",
+    "title": "特朗普：所有大型人工智能公司都将来到白宫",
+    "summary": "特朗普称，所有大型人工智能公司都将来到白宫，也许就在下周。",
+    "content": "特朗普称，所有大型人工智能公司都将来到白宫，也许就在下周。",
+    "full_content": "特朗普称，所有大型人工智能公司都将来到白宫，也许就在下周。",
+    "sort_time": "1780682108026414",
+    "showTime": "2026-06-06 01:55:08",
+    "time": "2026-06-06 01:55:08",
+    "publish_time": "2026-06-06 01:55:08",
+    "raw_data": {
+      "code": "202606063762326414",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1780682108026414",
+      "share": 0,
+      "showTime": "2026-06-06 01:55:08",
+      "stockList": [],
+      "summary": "特朗普称，所有大型人工智能公司都将来到白宫，也许就在下周。",
+      "title": "特朗普：所有大型人工智能公司都将来到白宫",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762326414.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "5eee471630d235ff",
+    "code": "202606063762326356",
+    "title": "特朗普谈及汽油价格时表示有很多替代方案",
+    "summary": "特朗普谈及汽油价格时表示，有很多替代方案。",
+    "content": "特朗普谈及汽油价格时表示，有很多替代方案。",
+    "full_content": "特朗普谈及汽油价格时表示，有很多替代方案。",
+    "sort_time": "1780682003026356",
+    "showTime": "2026-06-06 01:53:23",
+    "time": "2026-06-06 01:53:23",
+    "publish_time": "2026-06-06 01:53:23",
+    "raw_data": {
+      "code": "202606063762326356",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780682003026356",
+      "share": 0,
+      "showTime": "2026-06-06 01:53:23",
+      "stockList": [],
+      "summary": "特朗普谈及汽油价格时表示，有很多替代方案。",
+      "title": "特朗普谈及汽油价格时表示有很多替代方案",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762326356.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "031d9f2fa2c88f8a",
+    "code": "202606063762326211",
+    "title": "特朗普：利率决策将交由沃什决定",
+    "summary": "【特朗普：利率决策将交由沃什决定】特朗普称，他希望看到利率降低，但利率决策将交由美联储主席沃什来决定。",
+    "content": "【特朗普：利率决策将交由沃什决定】特朗普称，他希望看到利率降低，但利率决策将交由美联储主席沃什来决定。",
+    "full_content": "【特朗普：利率决策将交由沃什决定】特朗普称，他希望看到利率降低，但利率决策将交由美联储主席沃什来决定。",
+    "sort_time": "1780681665026211",
+    "showTime": "2026-06-06 01:47:45",
+    "time": "2026-06-06 01:47:45",
+    "publish_time": "2026-06-06 01:47:45",
+    "raw_data": {
+      "code": "202606063762326211",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1780681665026211",
+      "share": 0,
+      "showTime": "2026-06-06 01:47:45",
+      "stockList": [],
+      "summary": "【特朗普：利率决策将交由沃什决定】特朗普称，他希望看到利率降低，但利率决策将交由美联储主席沃什来决定。",
+      "title": "特朗普：利率决策将交由沃什决定",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762326211.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8d21f8215ab2de76",
+    "code": "202606063762326190",
+    "title": "以军空袭黎巴嫩南部致至少13人死亡",
+    "summary": "【以军空袭黎巴嫩南部致至少13人死亡】据黎巴嫩国家通讯社5日报道，以色列军队当天对黎巴嫩南部多地发动空袭，造成至少13人死亡、15人受伤。",
+    "content": "【以军空袭黎巴嫩南部致至少13人死亡】据黎巴嫩国家通讯社5日报道，以色列军队当天对黎巴嫩南部多地发动空袭，造成至少13人死亡、15人受伤。",
+    "full_content": "【以军空袭黎巴嫩南部致至少13人死亡】据黎巴嫩国家通讯社5日报道，以色列军队当天对黎巴嫩南部多地发动空袭，造成至少13人死亡、15人受伤。",
+    "sort_time": "1780681509026190",
+    "showTime": "2026-06-06 01:45:09",
+    "time": "2026-06-06 01:45:09",
+    "publish_time": "2026-06-06 01:45:09",
+    "raw_data": {
+      "code": "202606063762326190",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1780681509026190",
+      "share": 0,
+      "showTime": "2026-06-06 01:45:09",
+      "stockList": [],
+      "summary": "【以军空袭黎巴嫩南部致至少13人死亡】据黎巴嫩国家通讯社5日报道，以色列军队当天对黎巴嫩南部多地发动空袭，造成至少13人死亡、15人受伤。",
+      "title": "以军空袭黎巴嫩南部致至少13人死亡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762326190.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6465aa7ab17857ca",
+    "code": "202606063762325859",
+    "title": "住房公积金拟扩大使用范围 支持物业费和住房装修等",
+    "summary": "【住房公积金拟扩大使用范围 支持物业费和住房装修等】住房城乡建设部5日就《住房公积金管理条例（修订征求意见稿）》向社会公开征求意见，条例的制定旨在加强对住房公积金的管理，维护住房公积金缴存人的合法权益，更好满足缴存人多元化住房消费需求。",
+    "content": "【住房公积金拟扩大使用范围 支持物业费和住房装修等】住房城乡建设部5日就《住房公积金管理条例（修订征求意见稿）》向社会公开征求意见，条例的制定旨在加强对住房公积金的管理，维护住房公积金缴存人的合法权益，更好满足缴存人多元化住房消费需求。",
+    "full_content": "【住房公积金拟扩大使用范围 支持物业费和住房装修等】住房城乡建设部5日就《住房公积金管理条例（修订征求意见稿）》向社会公开征求意见，条例的制定旨在加强对住房公积金的管理，维护住房公积金缴存人的合法权益，更好满足缴存人多元化住房消费需求。",
+    "sort_time": "1780680327025859",
+    "showTime": "2026-06-06 01:25:27",
+    "time": "2026-06-06 01:25:27",
+    "publish_time": "2026-06-06 01:25:27",
+    "raw_data": {
+      "code": "202606063762325859",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780680327025859",
+      "share": 4,
+      "showTime": "2026-06-06 01:25:27",
+      "stockList": [
+        "90.BK0451"
+      ],
+      "summary": "【住房公积金拟扩大使用范围 支持物业费和住房装修等】住房城乡建设部5日就《住房公积金管理条例（修订征求意见稿）》向社会公开征求意见，条例的制定旨在加强对住房公积金的管理，维护住房公积金缴存人的合法权益，更好满足缴存人多元化住房消费需求。",
+      "title": "住房公积金拟扩大使用范围 支持物业费和住房装修等",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762325859.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0451"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C405",
+          "name": "房地产",
+          "matched_keyword": "物业"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C405"
+      ]
+    }
+  },
+  {
+    "id": "770a2633e5da97b6",
+    "code": "202606063762325727",
+    "title": "美股恐慌指数VIX跃升至逾两周高点 报18.72点",
+    "summary": "【美股恐慌指数VIX跃升至逾两周高点 报18.72点】美股恐慌指数VIX跃升至逾两周高点，最新上涨3.32点，报18.72点。",
+    "content": "【美股恐慌指数VIX跃升至逾两周高点 报18.72点】美股恐慌指数VIX跃升至逾两周高点，最新上涨3.32点，报18.72点。",
+    "full_content": "【美股恐慌指数VIX跃升至逾两周高点 报18.72点】美股恐慌指数VIX跃升至逾两周高点，最新上涨3.32点，报18.72点。",
+    "sort_time": "1780679250025727",
+    "showTime": "2026-06-06 01:07:30",
+    "time": "2026-06-06 01:07:30",
+    "publish_time": "2026-06-06 01:07:30",
+    "raw_data": {
+      "code": "202606063762325727",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1780679250025727",
+      "share": 5,
+      "showTime": "2026-06-06 01:07:30",
+      "stockList": [],
+      "summary": "【美股恐慌指数VIX跃升至逾两周高点 报18.72点】美股恐慌指数VIX跃升至逾两周高点，最新上涨3.32点，报18.72点。",
+      "title": "美股恐慌指数VIX跃升至逾两周高点 报18.72点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762325727.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "336c04e31105330a",
+    "code": "202606063762325683",
+    "title": "LME期铜收跌412美元 报13520美元/吨",
+    "summary": "【LME期铜收跌412美元 报13520美元/吨】LME期铜收跌412美元，报13520美元/吨；LME期铝收跌74美元，报3592美元/吨；LME期锌收跌58美元，报3530美元/吨。",
+    "content": "【LME期铜收跌412美元 报13520美元/吨】LME期铜收跌412美元，报13520美元/吨；LME期铝收跌74美元，报3592美元/吨；LME期锌收跌58美元，报3530美元/吨。",
+    "full_content": "【LME期铜收跌412美元 报13520美元/吨】LME期铜收跌412美元，报13520美元/吨；LME期铝收跌74美元，报3592美元/吨；LME期锌收跌58美元，报3530美元/吨。",
+    "sort_time": "1780678469025683",
+    "showTime": "2026-06-06 00:54:29",
+    "time": "2026-06-06 00:54:29",
+    "publish_time": "2026-06-06 00:54:29",
+    "raw_data": {
+      "code": "202606063762325683",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780678469025683",
+      "share": 0,
+      "showTime": "2026-06-06 00:54:29",
+      "stockList": [],
+      "summary": "【LME期铜收跌412美元 报13520美元/吨】LME期铜收跌412美元，报13520美元/吨；LME期铝收跌74美元，报3592美元/吨；LME期锌收跌58美元，报3530美元/吨。",
+      "title": "LME期铜收跌412美元 报13520美元/吨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762325683.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "锌"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "7413d14968d5c024",
+    "code": "202606063762324914",
+    "title": "纳斯达克100指数延续跌势 最新跌至3.5%",
+    "summary": "纳斯达克100指数延续跌势，最新跌至3.5%；费城半导体指数跌幅扩大至8%。",
+    "content": "纳斯达克100指数延续跌势，最新跌至3.5%；费城半导体指数跌幅扩大至8%。",
+    "full_content": "纳斯达克100指数延续跌势，最新跌至3.5%；费城半导体指数跌幅扩大至8%。",
+    "sort_time": "1780678251024914",
+    "showTime": "2026-06-06 00:50:51",
+    "time": "2026-06-06 00:50:51",
+    "publish_time": "2026-06-06 00:50:51",
+    "raw_data": {
+      "code": "202606063762324914",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780678251024914",
+      "share": 7,
+      "showTime": "2026-06-06 00:50:51",
+      "stockList": [
+        "150.512480",
+        "150.013446"
+      ],
+      "summary": "纳斯达克100指数延续跌势，最新跌至3.5%；费城半导体指数跌幅扩大至8%。",
+      "title": "纳斯达克100指数延续跌势 最新跌至3.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762324914.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.512480",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 7,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "df8ef6e02b138c11",
+    "code": "202606063762316745",
+    "title": "据报道 马斯克计划向阿斯麦（ASML）的员工推介SpaceX的Terafab芯片“登月”计划",
+    "summary": "据报道，马斯克计划向阿斯麦（ASML）的员工推介SpaceX的Terafab芯片“登月”计划。",
+    "content": "据报道，马斯克计划向阿斯麦（ASML）的员工推介SpaceX的Terafab芯片“登月”计划。",
+    "full_content": "据报道，马斯克计划向阿斯麦（ASML）的员工推介SpaceX的Terafab芯片“登月”计划。",
+    "sort_time": "1780677159016745",
+    "showTime": "2026-06-06 00:32:39",
+    "time": "2026-06-06 00:32:39",
+    "publish_time": "2026-06-06 00:32:39",
+    "raw_data": {
+      "code": "202606063762316745",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1780677159016745",
+      "share": 1,
+      "showTime": "2026-06-06 00:32:39",
+      "stockList": [
+        "150.159813",
+        "150.013446"
+      ],
+      "summary": "据报道，马斯克计划向阿斯麦（ASML）的员工推介SpaceX的Terafab芯片“登月”计划。",
+      "title": "据报道 马斯克计划向阿斯麦（ASML）的员工推介SpaceX的Terafab芯片“登月”计划",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762316745.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.159813",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "b8f9cfb27dd7998c",
+    "code": "202606063762315195",
+    "title": "美国两年期国债收益率持续攀升上涨13个基点至4.17%",
+    "summary": "美国两年期国债收益率持续攀升，上涨13个基点至4.17%。",
+    "content": "美国两年期国债收益率持续攀升，上涨13个基点至4.17%。",
+    "full_content": "美国两年期国债收益率持续攀升，上涨13个基点至4.17%。",
+    "sort_time": "1780676738015195",
+    "showTime": "2026-06-06 00:25:38",
+    "time": "2026-06-06 00:25:38",
+    "publish_time": "2026-06-06 00:25:38",
+    "raw_data": {
+      "code": "202606063762315195",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1780676738015195",
+      "share": 0,
+      "showTime": "2026-06-06 00:25:38",
+      "stockList": [],
+      "summary": "美国两年期国债收益率持续攀升，上涨13个基点至4.17%。",
+      "title": "美国两年期国债收益率持续攀升上涨13个基点至4.17%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762315195.html",
+    "category": "债券",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b3112e7f6cef4eb3",
+    "code": "202606063762315296",
+    "title": "据报道 特斯拉将Roadster跑车演示推迟至八月",
+    "summary": "【据报道 特斯拉将Roadster跑车演示推迟至八月】据报道，特斯拉将Roadster跑车演示推迟至八月。该演示旨在展示特斯拉与SpaceX在冷气体推进器系统上的合作。",
+    "content": "【据报道 特斯拉将Roadster跑车演示推迟至八月】据报道，特斯拉将Roadster跑车演示推迟至八月。该演示旨在展示特斯拉与SpaceX在冷气体推进器系统上的合作。",
+    "full_content": "【据报道 特斯拉将Roadster跑车演示推迟至八月】据报道，特斯拉将Roadster跑车演示推迟至八月。该演示旨在展示特斯拉与SpaceX在冷气体推进器系统上的合作。",
+    "sort_time": "1780676683015296",
+    "showTime": "2026-06-06 00:24:43",
+    "time": "2026-06-06 00:24:43",
+    "publish_time": "2026-06-06 00:24:43",
+    "raw_data": {
+      "code": "202606063762315296",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1780676683015296",
+      "share": 2,
+      "showTime": "2026-06-06 00:24:43",
+      "stockList": [
+        "90.BK0644",
+        "1007.BK000300"
+      ],
+      "summary": "【据报道 特斯拉将Roadster跑车演示推迟至八月】据报道，特斯拉将Roadster跑车演示推迟至八月。该演示旨在展示特斯拉与SpaceX在冷气体推进器系统上的合作。",
+      "title": "据报道 特斯拉将Roadster跑车演示推迟至八月",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762315296.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0644",
+      "1007.BK000300"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "c907eb2b2f961069",
+    "code": "202606063762314948",
+    "title": "费城半导体指数跌幅扩大至7%",
+    "summary": "费城半导体指数跌幅扩大至7%。",
+    "content": "费城半导体指数跌幅扩大至7%。",
+    "full_content": "费城半导体指数跌幅扩大至7%。",
+    "sort_time": "1780676458014948",
+    "showTime": "2026-06-06 00:20:58",
+    "time": "2026-06-06 00:20:58",
+    "publish_time": "2026-06-06 00:20:58",
+    "raw_data": {
+      "code": "202606063762314948",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1780676458014948",
+      "share": 10,
+      "showTime": "2026-06-06 00:20:58",
+      "stockList": [
+        "90.BK1036",
+        "90.BK0459"
+      ],
+      "summary": "费城半导体指数跌幅扩大至7%。",
+      "title": "费城半导体指数跌幅扩大至7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762314948.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1036",
+      "90.BK0459"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 10,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "c34ddb7a730e0187",
+    "code": "202606063762315020",
+    "title": "纳斯达克100指数跌幅扩大至3% 标普500指数下跌1.7%",
+    "summary": "纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.7%。",
+    "content": "纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.7%。",
+    "full_content": "纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.7%。",
+    "sort_time": "1780676384015020",
+    "showTime": "2026-06-06 00:19:44",
+    "time": "2026-06-06 00:19:44",
+    "publish_time": "2026-06-06 00:19:44",
+    "raw_data": {
+      "code": "202606063762315020",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780676384015020",
+      "share": 2,
+      "showTime": "2026-06-06 00:19:44",
+      "stockList": [],
+      "summary": "纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.7%。",
+      "title": "纳斯达克100指数跌幅扩大至3% 标普500指数下跌1.7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762315020.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8287626d499b673a",
+    "code": "202606063762314732",
+    "title": "比特币失守6万美元关口",
+    "summary": "【比特币失守6万美元关口】加密货币抛势加剧，比特币失守60000美元关口，创2024年10月以来新低。行情显示，比特币最新跌至59886.5美元。",
+    "content": "【比特币失守6万美元关口】加密货币抛势加剧，比特币失守60000美元关口，创2024年10月以来新低。行情显示，比特币最新跌至59886.5美元。",
+    "full_content": "【比特币失守6万美元关口】加密货币抛势加剧，比特币失守60000美元关口，创2024年10月以来新低。行情显示，比特币最新跌至59886.5美元。",
+    "sort_time": "1780676031014732",
+    "showTime": "2026-06-06 00:13:51",
+    "time": "2026-06-06 00:13:51",
+    "publish_time": "2026-06-06 00:13:51",
+    "raw_data": {
+      "code": "202606063762314732",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1780676031014732",
+      "share": 11,
+      "showTime": "2026-06-06 00:13:51",
+      "stockList": [
+        "90.BK0830"
+      ],
+      "summary": "【比特币失守6万美元关口】加密货币抛势加剧，比特币失守60000美元关口，创2024年10月以来新低。行情显示，比特币最新跌至59886.5美元。",
+      "title": "比特币失守6万美元关口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762314732.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0830"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 11,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C008",
+          "name": "区块链",
+          "matched_keyword": "比特币"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C008"
+      ]
+    }
+  },
+  {
+    "id": "4298986a468b153b",
+    "code": "202606063762314869",
+    "title": "罗素2000指数跌至两周低点",
+    "summary": "罗素2000指数跌至两周低点，最新跌幅为2.4%。",
+    "content": "罗素2000指数跌至两周低点，最新跌幅为2.4%。",
+    "full_content": "罗素2000指数跌至两周低点，最新跌幅为2.4%。",
+    "sort_time": "1780675934014869",
+    "showTime": "2026-06-06 00:12:14",
+    "time": "2026-06-06 00:12:14",
+    "publish_time": "2026-06-06 00:12:14",
+    "raw_data": {
+      "code": "202606063762314869",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780675934014869",
+      "share": 0,
+      "showTime": "2026-06-06 00:12:14",
+      "stockList": [],
+      "summary": "罗素2000指数跌至两周低点，最新跌幅为2.4%。",
+      "title": "罗素2000指数跌至两周低点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606063762314869.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "be7f0f16b6bdba19",
     "code": "202606063762314629",
     "title": "普京：与泽连斯基会晤的前提是必须找到解决冲突方案",
