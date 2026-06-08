@@ -1,5 +1,739 @@
 [
   {
+    "id": "0c6f6e2aab39bc4d",
+    "code": "202606093764018092",
+    "title": "道指小幅收跌 芯片股引领纳指反弹收涨0.86%",
+    "summary": "【道指小幅收跌 芯片股引领纳指反弹收涨0.86%】美股周一冲高回落，三大指数截至收盘涨跌不一，道指跌0.16%，纳指涨0.86%，标普500指数涨0.30%。芯片股反弹，费城半导体指数涨5.6%，英特尔涨超11%，美光科技涨超9%，应用材料涨超8%，阿斯麦涨超6%，闪迪、AMD涨超5%。光通信概念股走强，迈威尔科技涨超9%，AAOI涨超11%，AsteraLabs涨超9%。苹果收跌1.9%，投资者对苹果新一代AI平台及升级版Siri反应平平。",
+    "content": "【道指小幅收跌 芯片股引领纳指反弹收涨0.86%】美股周一冲高回落，三大指数截至收盘涨跌不一，道指跌0.16%，纳指涨0.86%，标普500指数涨0.30%。芯片股反弹，费城半导体指数涨5.6%，英特尔涨超11%，美光科技涨超9%，应用材料涨超8%，阿斯麦涨超6%，闪迪、AMD涨超5%。光通信概念股走强，迈威尔科技涨超9%，AAOI涨超11%，AsteraLabs涨超9%。苹果收跌1.9%，投资者对苹果新一代AI平台及升级版Siri反应平平。",
+    "full_content": "【道指小幅收跌 芯片股引领纳指反弹收涨0.86%】美股周一冲高回落，三大指数截至收盘涨跌不一，道指跌0.16%，纳指涨0.86%，标普500指数涨0.30%。芯片股反弹，费城半导体指数涨5.6%，英特尔涨超11%，美光科技涨超9%，应用材料涨超8%，阿斯麦涨超6%，闪迪、AMD涨超5%。光通信概念股走强，迈威尔科技涨超9%，AAOI涨超11%，AsteraLabs涨超9%。苹果收跌1.9%，投资者对苹果新一代AI平台及升级版Siri反应平平。",
+    "sort_time": "1780948872018092",
+    "showTime": "2026-06-09 04:01:12",
+    "time": "2026-06-09 04:01:12",
+    "publish_time": "2026-06-09 04:01:12",
+    "raw_data": {
+      "code": "202606093764018092",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1780948872018092",
+      "share": 4,
+      "showTime": "2026-06-09 04:01:12",
+      "stockList": [
+        "150.012372",
+        "0.159813"
+      ],
+      "summary": "【道指小幅收跌 芯片股引领纳指反弹收涨0.86%】美股周一冲高回落，三大指数截至收盘涨跌不一，道指跌0.16%，纳指涨0.86%，标普500指数涨0.30%。芯片股反弹，费城半导体指数涨5.6%，英特尔涨超11%，美光科技涨超9%，应用材料涨超8%，阿斯麦涨超6%，闪迪、AMD涨超5%。光通信概念股走强，迈威尔科技涨超9%，AAOI涨超11%，AsteraLabs涨超9%。苹果收跌1.9%，投资者对苹果新一代AI平台及升级版Siri反应平平。",
+      "title": "道指小幅收跌 芯片股引领纳指反弹收涨0.86%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764018092.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.012372",
+      "0.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 4,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C004",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "158b0b69286fc9c2",
+    "code": "202606093764017591",
+    "title": "苹果发布新一代AI平台及升级版Siri 投资者反应平平",
+    "summary": "【苹果发布新一代AI平台及升级版Siri 投资者反应平平】苹果公司周一发布新一代AI平台，包括升级版数字助手Siri，但投资者对此反应平淡。苹果软件业务负责人Craig Federighi在全球开发者大会主题演讲中介绍了由谷歌提供技术支持的全新Apple Intelligence系统，将这项升级描述为对现有软件体系的重大改进，其中包括全新改版的Siri。Federighi表示，Siri现在变得“更智能、知识更丰富且能力更强”。他说，这款名为Siri AI的全新助手最初将支持英文，随后将扩展至其他语言。此次升级还增强了苹果的视觉智能功能，可为用户看到的事物提供相关信息，同时还改进了写作工具。尽管如此，许多新功能与苹果此前发布过但随后推迟上线的功能颇为相似。全新Siri将于今年秋季以测试版形式向消费者开放，这表明相关技术尚未完全准备好供普通用户日常使用。",
+    "content": "【苹果发布新一代AI平台及升级版Siri 投资者反应平平】苹果公司周一发布新一代AI平台，包括升级版数字助手Siri，但投资者对此反应平淡。苹果软件业务负责人Craig Federighi在全球开发者大会主题演讲中介绍了由谷歌提供技术支持的全新Apple Intelligence系统，将这项升级描述为对现有软件体系的重大改进，其中包括全新改版的Siri。Federighi表示，Siri现在变得“更智能、知识更丰富且能力更强”。他说，这款名为Siri AI的全新助手最初将支持英文，随后将扩展至其他语言。此次升级还增强了苹果的视觉智能功能，可为用户看到的事物提供相关信息，同时还改进了写作工具。尽管如此，许多新功能与苹果此前发布过但随后推迟上线的功能颇为相似。全新Siri将于今年秋季以测试版形式向消费者开放，这表明相关技术尚未完全准备好供普通用户日常使用。",
+    "full_content": "【苹果发布新一代AI平台及升级版Siri 投资者反应平平】苹果公司周一发布新一代AI平台，包括升级版数字助手Siri，但投资者对此反应平淡。苹果软件业务负责人Craig Federighi在全球开发者大会主题演讲中介绍了由谷歌提供技术支持的全新Apple Intelligence系统，将这项升级描述为对现有软件体系的重大改进，其中包括全新改版的Siri。Federighi表示，Siri现在变得“更智能、知识更丰富且能力更强”。他说，这款名为Siri AI的全新助手最初将支持英文，随后将扩展至其他语言。此次升级还增强了苹果的视觉智能功能，可为用户看到的事物提供相关信息，同时还改进了写作工具。尽管如此，许多新功能与苹果此前发布过但随后推迟上线的功能颇为相似。全新Siri将于今年秋季以测试版形式向消费者开放，这表明相关技术尚未完全准备好供普通用户日常使用。",
+    "sort_time": "1780948394017591",
+    "showTime": "2026-06-09 03:53:14",
+    "time": "2026-06-09 03:53:14",
+    "publish_time": "2026-06-09 03:53:14",
+    "raw_data": {
+      "code": "202606093764017591",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780948394017591",
+      "share": 0,
+      "showTime": "2026-06-09 03:53:14",
+      "stockList": [
+        "90.BK0800",
+        "105.AAPL"
+      ],
+      "summary": "【苹果发布新一代AI平台及升级版Siri 投资者反应平平】苹果公司周一发布新一代AI平台，包括升级版数字助手Siri，但投资者对此反应平淡。苹果软件业务负责人Craig Federighi在全球开发者大会主题演讲中介绍了由谷歌提供技术支持的全新Apple Intelligence系统，将这项升级描述为对现有软件体系的重大改进，其中包括全新改版的Siri。Federighi表示，Siri现在变得“更智能、知识更丰富且能力更强”。他说，这款名为Siri AI的全新助手最初将支持英文，随后将扩展至其他语言。此次升级还增强了苹果的视觉智能功能，可为用户看到的事物提供相关信息，同时还改进了写作工具。尽管如此，许多新功能与苹果此前发布过但随后推迟上线的功能颇为相似。全新Siri将于今年秋季以测试版形式向消费者开放，这表明相关技术尚未完全准备好供普通用户日常使用。",
+      "title": "苹果发布新一代AI平台及升级版Siri 投资者反应平平",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764017591.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "eb8b1e38680f3a84",
+    "code": "202606093764017366",
+    "title": "城堡证券认为通胀压力或迫使美联储很快加息",
+    "summary": "【城堡证券认为通胀压力或迫使美联储很快加息】城堡证券认为，投资者面临的下一个重大风险是美国金融环境的收紧，因为美联储可能“很快”需要加息，以遏制日益加剧的通胀压力。该机构的欧洲、中东和非洲(EMEA)固定收益销售主管Nohshad Shah在客户报告中写道，大规模人工智能投资周期、能源市场趋紧以及劳动力市场走强共同推高了经济增长和通胀的上行风险。“美联储的下一步行动很可能是加息……也许很快，”Shah表示。",
+    "content": "【城堡证券认为通胀压力或迫使美联储很快加息】城堡证券认为，投资者面临的下一个重大风险是美国金融环境的收紧，因为美联储可能“很快”需要加息，以遏制日益加剧的通胀压力。该机构的欧洲、中东和非洲(EMEA)固定收益销售主管Nohshad Shah在客户报告中写道，大规模人工智能投资周期、能源市场趋紧以及劳动力市场走强共同推高了经济增长和通胀的上行风险。“美联储的下一步行动很可能是加息……也许很快，”Shah表示。",
+    "full_content": "【城堡证券认为通胀压力或迫使美联储很快加息】城堡证券认为，投资者面临的下一个重大风险是美国金融环境的收紧，因为美联储可能“很快”需要加息，以遏制日益加剧的通胀压力。该机构的欧洲、中东和非洲(EMEA)固定收益销售主管Nohshad Shah在客户报告中写道，大规模人工智能投资周期、能源市场趋紧以及劳动力市场走强共同推高了经济增长和通胀的上行风险。“美联储的下一步行动很可能是加息……也许很快，”Shah表示。",
+    "sort_time": "1780948136017366",
+    "showTime": "2026-06-09 03:48:56",
+    "time": "2026-06-09 03:48:56",
+    "publish_time": "2026-06-09 03:48:56",
+    "raw_data": {
+      "code": "202606093764017366",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780948136017366",
+      "share": 1,
+      "showTime": "2026-06-09 03:48:56",
+      "stockList": [
+        "90.BK1366",
+        "90.BK0473"
+      ],
+      "summary": "【城堡证券认为通胀压力或迫使美联储很快加息】城堡证券认为，投资者面临的下一个重大风险是美国金融环境的收紧，因为美联储可能“很快”需要加息，以遏制日益加剧的通胀压力。该机构的欧洲、中东和非洲(EMEA)固定收益销售主管Nohshad Shah在客户报告中写道，大规模人工智能投资周期、能源市场趋紧以及劳动力市场走强共同推高了经济增长和通胀的上行风险。“美联储的下一步行动很可能是加息……也许很快，”Shah表示。",
+      "title": "城堡证券认为通胀压力或迫使美联储很快加息",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764017366.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK1366",
+      "90.BK0473"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C001",
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "1217f069bb792a77",
+    "code": "202606093764017051",
+    "title": "英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请",
+    "summary": "【英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请】英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请。",
+    "content": "【英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请】英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请。",
+    "full_content": "【英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请】英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请。",
+    "sort_time": "1780947474017051",
+    "showTime": "2026-06-09 03:37:54",
+    "time": "2026-06-09 03:37:54",
+    "publish_time": "2026-06-09 03:37:54",
+    "raw_data": {
+      "code": "202606093764017051",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780947474017051",
+      "share": 2,
+      "showTime": "2026-06-09 03:37:54",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "【英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请】英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请。",
+      "title": "英伟达CEO黄仁勋拒绝了沃伦本周出席听证会作证的邀请",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764017051.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "85743a8740496adb",
+    "code": "202606093764016685",
+    "title": "国际油价8日微涨",
+    "summary": "【国际油价8日微涨】国际油价8日微涨。截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格上涨76美分，收于每桶91.30美元，涨幅为0.84%；8月交货的伦敦布伦特原油期货价格上涨1.16美元，收于每桶94.25美元，涨幅为1.25%。",
+    "content": "【国际油价8日微涨】国际油价8日微涨。截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格上涨76美分，收于每桶91.30美元，涨幅为0.84%；8月交货的伦敦布伦特原油期货价格上涨1.16美元，收于每桶94.25美元，涨幅为1.25%。",
+    "full_content": "【国际油价8日微涨】国际油价8日微涨。截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格上涨76美分，收于每桶91.30美元，涨幅为0.84%；8月交货的伦敦布伦特原油期货价格上涨1.16美元，收于每桶94.25美元，涨幅为1.25%。",
+    "sort_time": "1780947151016685",
+    "showTime": "2026-06-09 03:32:31",
+    "time": "2026-06-09 03:32:31",
+    "publish_time": "2026-06-09 03:32:31",
+    "raw_data": {
+      "code": "202606093764016685",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780947151016685",
+      "share": 0,
+      "showTime": "2026-06-09 03:32:31",
+      "stockList": [],
+      "summary": "【国际油价8日微涨】国际油价8日微涨。截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格上涨76美分，收于每桶91.30美元，涨幅为0.84%；8月交货的伦敦布伦特原油期货价格上涨1.16美元，收于每桶94.25美元，涨幅为1.25%。",
+      "title": "国际油价8日微涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764016685.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "c42aff63c5a8521d",
+    "code": "202606093764015959",
+    "title": "苹果发布macOS新版本“Golden Gate”",
+    "summary": "【苹果发布macOS新版本“Golden Gate”】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。会上，苹果公布了全新macOS版本——macOS Golden Gate。苹果表示，该版本系统动画更流畅，很多功能运行速度也更快。iPhone 和 iPad 应用的启动速度提升高达30%，系统内容加载速度更快，照片在图库中的显示速度提升了70%，隔空投送速度提升了80%，云端硬盘传输速度提升了 5 倍，所有能运行iOS26的iPhone也都适配。",
+    "content": "【苹果发布macOS新版本“Golden Gate”】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。会上，苹果公布了全新macOS版本——macOS Golden Gate。苹果表示，该版本系统动画更流畅，很多功能运行速度也更快。iPhone 和 iPad 应用的启动速度提升高达30%，系统内容加载速度更快，照片在图库中的显示速度提升了70%，隔空投送速度提升了80%，云端硬盘传输速度提升了 5 倍，所有能运行iOS26的iPhone也都适配。",
+    "full_content": "【苹果发布macOS新版本“Golden Gate”】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。会上，苹果公布了全新macOS版本——macOS Golden Gate。苹果表示，该版本系统动画更流畅，很多功能运行速度也更快。iPhone 和 iPad 应用的启动速度提升高达30%，系统内容加载速度更快，照片在图库中的显示速度提升了70%，隔空投送速度提升了80%，云端硬盘传输速度提升了 5 倍，所有能运行iOS26的iPhone也都适配。",
+    "sort_time": "1780946412015959",
+    "showTime": "2026-06-09 03:20:12",
+    "time": "2026-06-09 03:20:12",
+    "publish_time": "2026-06-09 03:20:12",
+    "raw_data": {
+      "code": "202606093764015959",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1780946412015959",
+      "share": 1,
+      "showTime": "2026-06-09 03:20:12",
+      "stockList": [
+        "105.AAPL"
+      ],
+      "summary": "【苹果发布macOS新版本“Golden Gate”】6月9日凌晨，苹果召开 WWDC26 全球开发者大会。会上，苹果公布了全新macOS版本——macOS Golden Gate。苹果表示，该版本系统动画更流畅，很多功能运行速度也更快。iPhone 和 iPad 应用的启动速度提升高达30%，系统内容加载速度更快，照片在图库中的显示速度提升了70%，隔空投送速度提升了80%，云端硬盘传输速度提升了 5 倍，所有能运行iOS26的iPhone也都适配。",
+      "title": "苹果发布macOS新版本“Golden Gate”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764015959.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "iPhone"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "2b3d5dc2fe3ebc13",
+    "code": "202606093764016484",
+    "title": "苹果公司表示，它不会使用谷歌向用户部署的模型",
+    "summary": "【苹果公司表示，它不会使用谷歌向用户部署的模型】苹果公司表示，它不会使用谷歌向用户部署的模型。",
+    "content": "【苹果公司表示，它不会使用谷歌向用户部署的模型】苹果公司表示，它不会使用谷歌向用户部署的模型。",
+    "full_content": "【苹果公司表示，它不会使用谷歌向用户部署的模型】苹果公司表示，它不会使用谷歌向用户部署的模型。",
+    "sort_time": "1780946025016484",
+    "showTime": "2026-06-09 03:13:45",
+    "time": "2026-06-09 03:13:45",
+    "publish_time": "2026-06-09 03:13:45",
+    "raw_data": {
+      "code": "202606093764016484",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780946025016484",
+      "share": 1,
+      "showTime": "2026-06-09 03:13:45",
+      "stockList": [
+        "105.AAPL",
+        "105.GOOG"
+      ],
+      "summary": "【苹果公司表示，它不会使用谷歌向用户部署的模型】苹果公司表示，它不会使用谷歌向用户部署的模型。",
+      "title": "苹果公司表示，它不会使用谷歌向用户部署的模型",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764016484.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL",
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "13e4a6efd322ec91",
+    "code": "202606093764015729",
+    "title": "恒生指数主连夜盘收跌0.04% 报24555点",
+    "summary": "恒生指数主连夜盘收跌0.04%，报24555点。恒生科技指数主连夜盘收跌0.06%，报4748点。",
+    "content": "恒生指数主连夜盘收跌0.04%，报24555点。恒生科技指数主连夜盘收跌0.06%，报4748点。",
+    "full_content": "恒生指数主连夜盘收跌0.04%，报24555点。恒生科技指数主连夜盘收跌0.06%，报4748点。",
+    "sort_time": "1780945435015729",
+    "showTime": "2026-06-09 03:03:55",
+    "time": "2026-06-09 03:03:55",
+    "publish_time": "2026-06-09 03:03:55",
+    "raw_data": {
+      "code": "202606093764015729",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780945435015729",
+      "share": 0,
+      "showTime": "2026-06-09 03:03:55",
+      "stockList": [],
+      "summary": "恒生指数主连夜盘收跌0.04%，报24555点。恒生科技指数主连夜盘收跌0.06%，报4748点。",
+      "title": "恒生指数主连夜盘收跌0.04% 报24555点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764015729.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2fd0dfb8f359a18d",
+    "code": "202606093764012493",
+    "title": "财政、金融政策协同发力 城市更新投资加码",
+    "summary": "【财政、金融政策协同发力 城市更新投资加码】未来5年城市更新的时间表、任务书和路线图已敲定，释放出财政、金融、土地等政策协同发力，推动城市从“增量扩张”向“存量提质”转变的强烈信号。",
+    "content": "【财政、金融政策协同发力 城市更新投资加码】未来5年城市更新的时间表、任务书和路线图已敲定，释放出财政、金融、土地等政策协同发力，推动城市从“增量扩张”向“存量提质”转变的强烈信号。",
+    "full_content": "【财政、金融政策协同发力 城市更新投资加码】未来5年城市更新的时间表、任务书和路线图已敲定，释放出财政、金融、土地等政策协同发力，推动城市从“增量扩张”向“存量提质”转变的强烈信号。",
+    "sort_time": "1780944866012493",
+    "showTime": "2026-06-09 02:54:26",
+    "time": "2026-06-09 02:54:26",
+    "publish_time": "2026-06-09 02:54:26",
+    "raw_data": {
+      "code": "202606093764012493",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780944866012493",
+      "share": 1,
+      "showTime": "2026-06-09 02:54:26",
+      "stockList": [
+        "0.159940",
+        "1007.BK000199"
+      ],
+      "summary": "【财政、金融政策协同发力 城市更新投资加码】未来5年城市更新的时间表、任务书和路线图已敲定，释放出财政、金融、土地等政策协同发力，推动城市从“增量扩张”向“存量提质”转变的强烈信号。",
+      "title": "财政、金融政策协同发力 城市更新投资加码",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764012493.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159940",
+      "1007.BK000199"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "09b2075abe6f1010",
+    "code": "202606093764013768",
+    "title": "刚果（金）表示：已确认的埃博拉病例数量已上升至550例 其中包括101例死亡病例",
+    "summary": "刚果（金）表示，已确认的埃博拉病例数量已上升至550例，其中包括101例死亡病例。",
+    "content": "刚果（金）表示，已确认的埃博拉病例数量已上升至550例，其中包括101例死亡病例。",
+    "full_content": "刚果（金）表示，已确认的埃博拉病例数量已上升至550例，其中包括101例死亡病例。",
+    "sort_time": "1780944459013768",
+    "showTime": "2026-06-09 02:47:39",
+    "time": "2026-06-09 02:47:39",
+    "publish_time": "2026-06-09 02:47:39",
+    "raw_data": {
+      "code": "202606093764013768",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780944459013768",
+      "share": 2,
+      "showTime": "2026-06-09 02:47:39",
+      "stockList": [],
+      "summary": "刚果（金）表示，已确认的埃博拉病例数量已上升至550例，其中包括101例死亡病例。",
+      "title": "刚果（金）表示：已确认的埃博拉病例数量已上升至550例 其中包括101例死亡病例",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764013768.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "64dbea335169e587",
+    "code": "202606093764013590",
+    "title": "上期所原油期货2607合约夜盘收跌1.12% 报590元人民币/桶",
+    "summary": "【上期所原油期货2607合约夜盘收跌1.12% 报590元人民币/桶】上期所原油期货2607合约夜盘收跌1.12%，报590元人民币/桶。沪金夜盘收涨0.06%，沪银收跌0.65%。",
+    "content": "【上期所原油期货2607合约夜盘收跌1.12% 报590元人民币/桶】上期所原油期货2607合约夜盘收跌1.12%，报590元人民币/桶。沪金夜盘收涨0.06%，沪银收跌0.65%。",
+    "full_content": "【上期所原油期货2607合约夜盘收跌1.12% 报590元人民币/桶】上期所原油期货2607合约夜盘收跌1.12%，报590元人民币/桶。沪金夜盘收涨0.06%，沪银收跌0.65%。",
+    "sort_time": "1780943494013590",
+    "showTime": "2026-06-09 02:31:34",
+    "time": "2026-06-09 02:31:34",
+    "publish_time": "2026-06-09 02:31:34",
+    "raw_data": {
+      "code": "202606093764013590",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780943494013590",
+      "share": 0,
+      "showTime": "2026-06-09 02:31:34",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "【上期所原油期货2607合约夜盘收跌1.12% 报590元人民币/桶】上期所原油期货2607合约夜盘收跌1.12%，报590元人民币/桶。沪金夜盘收涨0.06%，沪银收跌0.65%。",
+      "title": "上期所原油期货2607合约夜盘收跌1.12% 报590元人民币/桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764013590.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "356c9c405ec19331",
+    "code": "202606093764013498",
+    "title": "淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番",
+    "summary": "【淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番】淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番。",
+    "content": "【淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番】淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番。",
+    "full_content": "【淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番】淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番。",
+    "sort_time": "1780943297013498",
+    "showTime": "2026-06-09 02:28:17",
+    "time": "2026-06-09 02:28:17",
+    "publish_time": "2026-06-09 02:28:17",
+    "raw_data": {
+      "code": "202606093764013498",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780943297013498",
+      "share": 0,
+      "showTime": "2026-06-09 02:28:17",
+      "stockList": [
+        "90.BK0479",
+        "106.VALE"
+      ],
+      "summary": "【淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番】淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番。",
+      "title": "淡水河谷公司首席执行官预计印度钢铁产量将在10年内实现翻番",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764013498.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0479",
+      "106.VALE"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C504",
+          "name": "钢铁",
+          "matched_keyword": "钢铁"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C504"
+      ]
+    }
+  },
+  {
+    "id": "5c5eb7c2e67abd2f",
+    "code": "202606093764012936",
+    "title": "苹果跌幅扩大至1.2%",
+    "summary": "苹果跌幅扩大至1.2%，此前一度涨超3%。",
+    "content": "苹果跌幅扩大至1.2%，此前一度涨超3%。",
+    "full_content": "苹果跌幅扩大至1.2%，此前一度涨超3%。",
+    "sort_time": "1780942209012936",
+    "showTime": "2026-06-09 02:10:09",
+    "time": "2026-06-09 02:10:09",
+    "publish_time": "2026-06-09 02:10:09",
+    "raw_data": {
+      "code": "202606093764012936",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780942209012936",
+      "share": 1,
+      "showTime": "2026-06-09 02:10:09",
+      "stockList": [
+        "105.AAPL"
+      ],
+      "summary": "苹果跌幅扩大至1.2%，此前一度涨超3%。",
+      "title": "苹果跌幅扩大至1.2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764012936.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "ae3683988b239916",
+    "code": "202606093764013030",
+    "title": "苹果表示 包括图像生成在内的部分Apple Intelligence功能设有每日使用限额",
+    "summary": "苹果表示，包括图像生成在内的部分AppleIntelligence功能设有每日使用限额。",
+    "content": "苹果表示，包括图像生成在内的部分AppleIntelligence功能设有每日使用限额。",
+    "full_content": "苹果表示，包括图像生成在内的部分AppleIntelligence功能设有每日使用限额。",
+    "sort_time": "1780942111013030",
+    "showTime": "2026-06-09 02:08:31",
+    "time": "2026-06-09 02:08:31",
+    "publish_time": "2026-06-09 02:08:31",
+    "raw_data": {
+      "code": "202606093764013030",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780942111013030",
+      "share": 0,
+      "showTime": "2026-06-09 02:08:31",
+      "stockList": [
+        "105.AAPL"
+      ],
+      "summary": "苹果表示，包括图像生成在内的部分AppleIntelligence功能设有每日使用限额。",
+      "title": "苹果表示 包括图像生成在内的部分Apple Intelligence功能设有每日使用限额",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764013030.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
     "id": "a70cea57d3ac0911",
     "code": "202606093764010455",
     "title": "苹果公司表示 Siri AI将于iPadOS上投入使用",
@@ -517,6 +1251,57 @@
     "has_stock_mention": true,
     "comment_count": 0,
     "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "17422e7bd6fc66db",
+    "code": "202606093764005863",
+    "title": "苹果公司库克表示 WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri",
+    "summary": "苹果公司库克表示，WWDC开发者大会将侧重于苹果智能（AppleIntelligence）与Siri。",
+    "content": "苹果公司库克表示，WWDC开发者大会将侧重于苹果智能（AppleIntelligence）与Siri。",
+    "full_content": "苹果公司库克表示，WWDC开发者大会将侧重于苹果智能（AppleIntelligence）与Siri。",
+    "sort_time": "1780938343005863",
+    "showTime": "2026-06-09 01:05:43",
+    "time": "2026-06-09 01:05:43",
+    "publish_time": "2026-06-09 01:05:43",
+    "raw_data": {
+      "code": "202606093764005863",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780938343005863",
+      "share": 0,
+      "showTime": "2026-06-09 01:05:43",
+      "stockList": [
+        "105.AAPL"
+      ],
+      "summary": "苹果公司库克表示，WWDC开发者大会将侧重于苹果智能（AppleIntelligence）与Siri。",
+      "title": "苹果公司库克表示 WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764005863.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [
