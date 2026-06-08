@@ -1,5 +1,1539 @@
 [
   {
+    "id": "a70cea57d3ac0911",
+    "code": "202606093764010455",
+    "title": "苹果公司表示 Siri AI将于iPadOS上投入使用",
+    "summary": "苹果公司表示，SiriAI将于iPadOS上投入使用。",
+    "content": "苹果公司表示，SiriAI将于iPadOS上投入使用。",
+    "full_content": "苹果公司表示，SiriAI将于iPadOS上投入使用。",
+    "sort_time": "1780940920010455",
+    "showTime": "2026-06-09 01:48:40",
+    "time": "2026-06-09 01:48:40",
+    "publish_time": "2026-06-09 01:48:40",
+    "raw_data": {
+      "code": "202606093764010455",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780940920010455",
+      "share": 0,
+      "showTime": "2026-06-09 01:48:40",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "苹果公司表示，SiriAI将于iPadOS上投入使用。",
+      "title": "苹果公司表示 Siri AI将于iPadOS上投入使用",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764010455.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "f07dc96dd0a4f438",
+    "code": "202606093764010335",
+    "title": "苹果短线下挫 涨幅由3%收窄至0.6%",
+    "summary": "苹果短线下挫，涨幅由3%收窄至0.6%。",
+    "content": "苹果短线下挫，涨幅由3%收窄至0.6%。",
+    "full_content": "苹果短线下挫，涨幅由3%收窄至0.6%。",
+    "sort_time": "1780940864010335",
+    "showTime": "2026-06-09 01:47:44",
+    "time": "2026-06-09 01:47:44",
+    "publish_time": "2026-06-09 01:47:44",
+    "raw_data": {
+      "code": "202606093764010335",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780940864010335",
+      "share": 0,
+      "showTime": "2026-06-09 01:47:44",
+      "stockList": [
+        "105.AAPL"
+      ],
+      "summary": "苹果短线下挫，涨幅由3%收窄至0.6%。",
+      "title": "苹果短线下挫 涨幅由3%收窄至0.6%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764010335.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "c52b1cc064888f19",
+    "code": "202606093764010018",
+    "title": "苹果涨幅扩大至2.7% 谷歌跌幅扩大至1%",
+    "summary": "苹果涨幅扩大至2.7%，谷歌跌幅扩大至1%。",
+    "content": "苹果涨幅扩大至2.7%，谷歌跌幅扩大至1%。",
+    "full_content": "苹果涨幅扩大至2.7%，谷歌跌幅扩大至1%。",
+    "sort_time": "1780940149010018",
+    "showTime": "2026-06-09 01:35:49",
+    "time": "2026-06-09 01:35:49",
+    "publish_time": "2026-06-09 01:35:49",
+    "raw_data": {
+      "code": "202606093764010018",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780940149010018",
+      "share": 0,
+      "showTime": "2026-06-09 01:35:49",
+      "stockList": [
+        "105.AAPL",
+        "105.GOOGL"
+      ],
+      "summary": "苹果涨幅扩大至2.7%，谷歌跌幅扩大至1%。",
+      "title": "苹果涨幅扩大至2.7% 谷歌跌幅扩大至1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764010018.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL",
+      "105.GOOGL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "ae30ea2f7dff2610",
+    "code": "202606093764010171",
+    "title": "苹果表示 推出由苹果智能技术驱动的全新Siri AI",
+    "summary": "苹果表示，推出由苹果智能技术驱动的全新SiriAI。",
+    "content": "苹果表示，推出由苹果智能技术驱动的全新SiriAI。",
+    "full_content": "苹果表示，推出由苹果智能技术驱动的全新SiriAI。",
+    "sort_time": "1780940093010171",
+    "showTime": "2026-06-09 01:34:53",
+    "time": "2026-06-09 01:34:53",
+    "publish_time": "2026-06-09 01:34:53",
+    "raw_data": {
+      "code": "202606093764010171",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780940093010171",
+      "share": 0,
+      "showTime": "2026-06-09 01:34:53",
+      "stockList": [
+        "90.BK0800",
+        "105.AAPL"
+      ],
+      "summary": "苹果表示，推出由苹果智能技术驱动的全新SiriAI。",
+      "title": "苹果表示 推出由苹果智能技术驱动的全新Siri AI",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764010171.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "2ffa2cf11d2b8165",
+    "code": "202606093764009683",
+    "title": "美国法官驳回特朗普政府的10万美元H-1B签证费用",
+    "summary": "美国法官驳回特朗普政府的10万美元H-1B签证费用。",
+    "content": "美国法官驳回特朗普政府的10万美元H-1B签证费用。",
+    "full_content": "美国法官驳回特朗普政府的10万美元H-1B签证费用。",
+    "sort_time": "1780939692009683",
+    "showTime": "2026-06-09 01:28:12",
+    "time": "2026-06-09 01:28:12",
+    "publish_time": "2026-06-09 01:28:12",
+    "raw_data": {
+      "code": "202606093764009683",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780939692009683",
+      "share": 0,
+      "showTime": "2026-06-09 01:28:12",
+      "stockList": [],
+      "summary": "美国法官驳回特朗普政府的10万美元H-1B签证费用。",
+      "title": "美国法官驳回特朗普政府的10万美元H-1B签证费用",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764009683.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "dcefea46b80131d9",
+    "code": "202606093764009079",
+    "title": "特斯拉涨幅扩大至近5%",
+    "summary": "特斯拉涨幅扩大至近5%，现报409.17美元。特斯拉高管确认新一代Roadster将在数周内发布。",
+    "content": "特斯拉涨幅扩大至近5%，现报409.17美元。特斯拉高管确认新一代Roadster将在数周内发布。",
+    "full_content": "特斯拉涨幅扩大至近5%，现报409.17美元。特斯拉高管确认新一代Roadster将在数周内发布。",
+    "sort_time": "1780939634009079",
+    "showTime": "2026-06-09 01:27:14",
+    "time": "2026-06-09 01:27:14",
+    "publish_time": "2026-06-09 01:27:14",
+    "raw_data": {
+      "code": "202606093764009079",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780939634009079",
+      "share": 0,
+      "showTime": "2026-06-09 01:27:14",
+      "stockList": [
+        "90.BK0644",
+        "1007.BK000300"
+      ],
+      "summary": "特斯拉涨幅扩大至近5%，现报409.17美元。特斯拉高管确认新一代Roadster将在数周内发布。",
+      "title": "特斯拉涨幅扩大至近5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764009079.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0644",
+      "1007.BK000300"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "e00ca5b7b253fa95",
+    "code": "202606093764007281",
+    "title": "美联储隔夜逆回购协议（RRP）周一使用规模为18.32亿美元（交易对手16家）",
+    "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为18.32亿美元（交易对手16家），上个交易日报7.61亿美元。",
+    "content": "美联储隔夜逆回购协议（RRP）周一使用规模为18.32亿美元（交易对手16家），上个交易日报7.61亿美元。",
+    "full_content": "美联储隔夜逆回购协议（RRP）周一使用规模为18.32亿美元（交易对手16家），上个交易日报7.61亿美元。",
+    "sort_time": "1780939079007281",
+    "showTime": "2026-06-09 01:17:59",
+    "time": "2026-06-09 01:17:59",
+    "publish_time": "2026-06-09 01:17:59",
+    "raw_data": {
+      "code": "202606093764007281",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780939079007281",
+      "share": 0,
+      "showTime": "2026-06-09 01:17:59",
+      "stockList": [],
+      "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为18.32亿美元（交易对手16家），上个交易日报7.61亿美元。",
+      "title": "美联储隔夜逆回购协议（RRP）周一使用规模为18.32亿美元（交易对手16家）",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764007281.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e60b3238ddaa83e6",
+    "code": "202606093764007184",
+    "title": "惠誉表示 因伊朗战争的影响 将全球主权信用评级领域的展望调整为“恶化（Deteriorating）”",
+    "summary": "惠誉表示，因伊朗战争的影响，将全球主权信用评级领域的展望调整为“恶化（Deteriorating）”。",
+    "content": "惠誉表示，因伊朗战争的影响，将全球主权信用评级领域的展望调整为“恶化（Deteriorating）”。",
+    "full_content": "惠誉表示，因伊朗战争的影响，将全球主权信用评级领域的展望调整为“恶化（Deteriorating）”。",
+    "sort_time": "1780939048007184",
+    "showTime": "2026-06-09 01:17:28",
+    "time": "2026-06-09 01:17:28",
+    "publish_time": "2026-06-09 01:17:28",
+    "raw_data": {
+      "code": "202606093764007184",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780939048007184",
+      "share": 0,
+      "showTime": "2026-06-09 01:17:28",
+      "stockList": [],
+      "summary": "惠誉表示，因伊朗战争的影响，将全球主权信用评级领域的展望调整为“恶化（Deteriorating）”。",
+      "title": "惠誉表示 因伊朗战争的影响 将全球主权信用评级领域的展望调整为“恶化（Deteriorating）”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764007184.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "82ff2ad8fbbc12fb",
+    "code": "202606093764007436",
+    "title": "摩根士丹利：美元涨势能否持续取决于美联储利率路径",
+    "summary": "【摩根士丹利：美元涨势能否持续取决于美联储利率路径】摩根士丹利策略师DavidAdams、AndrewWatrous和MollyNickolin等人在周一报告中写道，美联储前景将决定美元下一阶段走势。如果美联储不加息，美元涨势很可能已经过头。",
+    "content": "【摩根士丹利：美元涨势能否持续取决于美联储利率路径】摩根士丹利策略师DavidAdams、AndrewWatrous和MollyNickolin等人在周一报告中写道，美联储前景将决定美元下一阶段走势。如果美联储不加息，美元涨势很可能已经过头。",
+    "full_content": "【摩根士丹利：美元涨势能否持续取决于美联储利率路径】摩根士丹利策略师DavidAdams、AndrewWatrous和MollyNickolin等人在周一报告中写道，美联储前景将决定美元下一阶段走势。如果美联储不加息，美元涨势很可能已经过头。",
+    "sort_time": "1780939004007436",
+    "showTime": "2026-06-09 01:16:44",
+    "time": "2026-06-09 01:16:44",
+    "publish_time": "2026-06-09 01:16:44",
+    "raw_data": {
+      "code": "202606093764007436",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780939004007436",
+      "share": 1,
+      "showTime": "2026-06-09 01:16:44",
+      "stockList": [],
+      "summary": "【摩根士丹利：美元涨势能否持续取决于美联储利率路径】摩根士丹利策略师DavidAdams、AndrewWatrous和MollyNickolin等人在周一报告中写道，美联储前景将决定美元下一阶段走势。如果美联储不加息，美元涨势很可能已经过头。",
+      "title": "摩根士丹利：美元涨势能否持续取决于美联储利率路径",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764007436.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3ea5458f949cd6ab",
+    "code": "202606093764007352",
+    "title": "苹果公司表示 iOS 27系统将扩展至支持iPhone 11机型",
+    "summary": "苹果公司表示，iOS27系统将扩展至支持iPhone11机型。",
+    "content": "苹果公司表示，iOS27系统将扩展至支持iPhone11机型。",
+    "full_content": "苹果公司表示，iOS27系统将扩展至支持iPhone11机型。",
+    "sort_time": "1780938839007352",
+    "showTime": "2026-06-09 01:13:59",
+    "time": "2026-06-09 01:13:59",
+    "publish_time": "2026-06-09 01:13:59",
+    "raw_data": {
+      "code": "202606093764007352",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780938839007352",
+      "share": 1,
+      "showTime": "2026-06-09 01:13:59",
+      "stockList": [
+        "90.BK0666",
+        "105.AAPL"
+      ],
+      "summary": "苹果公司表示，iOS27系统将扩展至支持iPhone11机型。",
+      "title": "苹果公司表示 iOS 27系统将扩展至支持iPhone 11机型",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764007352.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0666",
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "iPhone"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "1d04e066dd26eec7",
+    "code": "202606093764006191",
+    "title": "苹果下一个版本的macOS名为Golden Gate",
+    "summary": "苹果下一个版本的macOS名为GoldenGate。",
+    "content": "苹果下一个版本的macOS名为GoldenGate。",
+    "full_content": "苹果下一个版本的macOS名为GoldenGate。",
+    "sort_time": "1780938405006191",
+    "showTime": "2026-06-09 01:06:45",
+    "time": "2026-06-09 01:06:45",
+    "publish_time": "2026-06-09 01:06:45",
+    "raw_data": {
+      "code": "202606093764006191",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780938405006191",
+      "share": 1,
+      "showTime": "2026-06-09 01:06:45",
+      "stockList": [
+        "105.AAPL"
+      ],
+      "summary": "苹果下一个版本的macOS名为GoldenGate。",
+      "title": "苹果下一个版本的macOS名为Golden Gate",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764006191.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "100a0e8fbefed7e4",
+    "code": "202606093764006024",
+    "title": "不锈钢夜盘收跌1.16%",
+    "summary": "【不锈钢夜盘收跌1.16%】国际铜夜盘收涨0.27%，沪铜收涨0.31%，沪铝收涨0.15%，沪锌收涨0.30%，沪铅收跌1.19%，沪镍收跌0.77%，沪锡收跌0.79%。氧化铝夜盘收涨0.22%，铝合金收涨0.15%。不锈钢夜盘收跌1.16%。",
+    "content": "【不锈钢夜盘收跌1.16%】国际铜夜盘收涨0.27%，沪铜收涨0.31%，沪铝收涨0.15%，沪锌收涨0.30%，沪铅收跌1.19%，沪镍收跌0.77%，沪锡收跌0.79%。氧化铝夜盘收涨0.22%，铝合金收涨0.15%。不锈钢夜盘收跌1.16%。",
+    "full_content": "【不锈钢夜盘收跌1.16%】国际铜夜盘收涨0.27%，沪铜收涨0.31%，沪铝收涨0.15%，沪锌收涨0.30%，沪铅收跌1.19%，沪镍收跌0.77%，沪锡收跌0.79%。氧化铝夜盘收涨0.22%，铝合金收涨0.15%。不锈钢夜盘收跌1.16%。",
+    "sort_time": "1780938183006024",
+    "showTime": "2026-06-09 01:03:03",
+    "time": "2026-06-09 01:03:03",
+    "publish_time": "2026-06-09 01:03:03",
+    "raw_data": {
+      "code": "202606093764006024",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780938183006024",
+      "share": 0,
+      "showTime": "2026-06-09 01:03:03",
+      "stockList": [
+        "90.BK0479"
+      ],
+      "summary": "【不锈钢夜盘收跌1.16%】国际铜夜盘收涨0.27%，沪铜收涨0.31%，沪铝收涨0.15%，沪锌收涨0.30%，沪铅收跌1.19%，沪镍收跌0.77%，沪锡收跌0.79%。氧化铝夜盘收涨0.22%，铝合金收涨0.15%。不锈钢夜盘收跌1.16%。",
+      "title": "不锈钢夜盘收跌1.16%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764006024.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0479"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "镍"
+        },
+        {
+          "id": "C504",
+          "name": "钢铁",
+          "matched_keyword": "不锈钢"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501",
+        "C504"
+      ]
+    }
+  },
+  {
+    "id": "1c1513f8c2f03676",
+    "code": "202606093764004745",
+    "title": "受大宗商品市场震荡推动 摩科瑞（Mercuria）上半年利润增长88%",
+    "summary": "受大宗商品市场震荡推动，摩科瑞（Mercuria）上半年利润增长88%。",
+    "content": "受大宗商品市场震荡推动，摩科瑞（Mercuria）上半年利润增长88%。",
+    "full_content": "受大宗商品市场震荡推动，摩科瑞（Mercuria）上半年利润增长88%。",
+    "sort_time": "1780937968004745",
+    "showTime": "2026-06-09 00:59:28",
+    "time": "2026-06-09 00:59:28",
+    "publish_time": "2026-06-09 00:59:28",
+    "raw_data": {
+      "code": "202606093764004745",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780937968004745",
+      "share": 0,
+      "showTime": "2026-06-09 00:59:28",
+      "stockList": [],
+      "summary": "受大宗商品市场震荡推动，摩科瑞（Mercuria）上半年利润增长88%。",
+      "title": "受大宗商品市场震荡推动 摩科瑞（Mercuria）上半年利润增长88%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764004745.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3ec6fde48fe80da2",
+    "code": "202606093764004211",
+    "title": "Blue Owl旗下遭赎回冲击的私募信贷基金拟发债融资5亿美元",
+    "summary": "【Blue Owl旗下遭赎回冲击的私募信贷基金拟发债融资5亿美元】BlueOwlCapitalInc.旗下一只今年早些时候对赎回设置上限的私募信贷基金，将通过发行投资级债券融资5亿美元。知情人士透露，BlueOwlCreditIncomeCorp.已启动一笔五年期票据发行，发行利差为较美国国债高2.55个百分点。这比初步价格指引收窄约25个基点。该人士称，所得资金将用于偿还债务。",
+    "content": "【Blue Owl旗下遭赎回冲击的私募信贷基金拟发债融资5亿美元】BlueOwlCapitalInc.旗下一只今年早些时候对赎回设置上限的私募信贷基金，将通过发行投资级债券融资5亿美元。知情人士透露，BlueOwlCreditIncomeCorp.已启动一笔五年期票据发行，发行利差为较美国国债高2.55个百分点。这比初步价格指引收窄约25个基点。该人士称，所得资金将用于偿还债务。",
+    "full_content": "【Blue Owl旗下遭赎回冲击的私募信贷基金拟发债融资5亿美元】BlueOwlCapitalInc.旗下一只今年早些时候对赎回设置上限的私募信贷基金，将通过发行投资级债券融资5亿美元。知情人士透露，BlueOwlCreditIncomeCorp.已启动一笔五年期票据发行，发行利差为较美国国债高2.55个百分点。这比初步价格指引收窄约25个基点。该人士称，所得资金将用于偿还债务。",
+    "sort_time": "1780937524004211",
+    "showTime": "2026-06-09 00:52:04",
+    "time": "2026-06-09 00:52:04",
+    "publish_time": "2026-06-09 00:52:04",
+    "raw_data": {
+      "code": "202606093764004211",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780937524004211",
+      "share": 1,
+      "showTime": "2026-06-09 00:52:04",
+      "stockList": [
+        "106.OWL"
+      ],
+      "summary": "【Blue Owl旗下遭赎回冲击的私募信贷基金拟发债融资5亿美元】BlueOwlCapitalInc.旗下一只今年早些时候对赎回设置上限的私募信贷基金，将通过发行投资级债券融资5亿美元。知情人士透露，BlueOwlCreditIncomeCorp.已启动一笔五年期票据发行，发行利差为较美国国债高2.55个百分点。这比初步价格指引收窄约25个基点。该人士称，所得资金将用于偿还债务。",
+      "title": "Blue Owl旗下遭赎回冲击的私募信贷基金拟发债融资5亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764004211.html",
+    "category": "债券",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.OWL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "私募"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fe9b80046208f78e",
+    "code": "202606093764003387",
+    "title": "亚马逊将通过发行加拿大元高级债券筹集创纪录的140亿加元",
+    "summary": "亚马逊将通过发行加拿大元高级债券筹集创纪录的140亿加元。",
+    "content": "亚马逊将通过发行加拿大元高级债券筹集创纪录的140亿加元。",
+    "full_content": "亚马逊将通过发行加拿大元高级债券筹集创纪录的140亿加元。",
+    "sort_time": "1780937021003387",
+    "showTime": "2026-06-09 00:43:41",
+    "time": "2026-06-09 00:43:41",
+    "publish_time": "2026-06-09 00:43:41",
+    "raw_data": {
+      "code": "202606093764003387",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780937021003387",
+      "share": 0,
+      "showTime": "2026-06-09 00:43:41",
+      "stockList": [
+        "105.AMZN"
+      ],
+      "summary": "亚马逊将通过发行加拿大元高级债券筹集创纪录的140亿加元。",
+      "title": "亚马逊将通过发行加拿大元高级债券筹集创纪录的140亿加元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764003387.html",
+    "category": "债券",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AMZN"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "833a5fecd39249c9",
+    "code": "202606093764003188",
+    "title": "阿里巴巴和百度短线走低",
+    "summary": "【阿里巴巴和百度短线走低】阿里巴巴和百度短线走低，现分别下跌0.3%和1.9%。",
+    "content": "【阿里巴巴和百度短线走低】阿里巴巴和百度短线走低，现分别下跌0.3%和1.9%。",
+    "full_content": "【阿里巴巴和百度短线走低】阿里巴巴和百度短线走低，现分别下跌0.3%和1.9%。",
+    "sort_time": "1780936653003188",
+    "showTime": "2026-06-09 00:37:33",
+    "time": "2026-06-09 00:37:33",
+    "publish_time": "2026-06-09 00:37:33",
+    "raw_data": {
+      "code": "202606093764003188",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780936653003188",
+      "share": 0,
+      "showTime": "2026-06-09 00:37:33",
+      "stockList": [
+        "106.BABA",
+        "105.BIDU"
+      ],
+      "summary": "【阿里巴巴和百度短线走低】阿里巴巴和百度短线走低，现分别下跌0.3%和1.9%。",
+      "title": "阿里巴巴和百度短线走低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764003188.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "106.BABA",
+      "105.BIDU"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "eeca352c6bab06e3",
+    "code": "202606093764000739",
+    "title": "埃及与阿尔卡扎能源（Alcazar Energy）就红海加巴尔扎伊特风电场签署投资、运营及购电协议",
+    "summary": "埃及与阿尔卡扎能源（AlcazarEnergy）就红海加巴尔扎伊特风电场签署投资、运营及购电协议，交易总额为4.2亿美元。",
+    "content": "埃及与阿尔卡扎能源（AlcazarEnergy）就红海加巴尔扎伊特风电场签署投资、运营及购电协议，交易总额为4.2亿美元。",
+    "full_content": "埃及与阿尔卡扎能源（AlcazarEnergy）就红海加巴尔扎伊特风电场签署投资、运营及购电协议，交易总额为4.2亿美元。",
+    "sort_time": "1780936294000739",
+    "showTime": "2026-06-09 00:31:34",
+    "time": "2026-06-09 00:31:34",
+    "publish_time": "2026-06-09 00:31:34",
+    "raw_data": {
+      "code": "202606093764000739",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1780936294000739",
+      "share": 0,
+      "showTime": "2026-06-09 00:31:34",
+      "stockList": [
+        "90.BK0428",
+        "90.BK1024"
+      ],
+      "summary": "埃及与阿尔卡扎能源（AlcazarEnergy）就红海加巴尔扎伊特风电场签署投资、运营及购电协议，交易总额为4.2亿美元。",
+      "title": "埃及与阿尔卡扎能源（Alcazar Energy）就红海加巴尔扎伊特风电场签署投资、运营及购电协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764000739.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0428",
+      "90.BK1024"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C104",
+          "name": "风电",
+          "matched_keyword": "风电"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C104"
+      ]
+    }
+  },
+  {
+    "id": "fd9e4667a9fc6671",
+    "code": "202606093764000333",
+    "title": "西班牙能源巨头伊比德罗拉(Iberdrola)将向巴西巴伊亚州投资约45亿欧元",
+    "summary": "西班牙能源巨头伊比德罗拉(Iberdrola)将向巴西巴伊亚州投资约45亿欧元。",
+    "content": "西班牙能源巨头伊比德罗拉(Iberdrola)将向巴西巴伊亚州投资约45亿欧元。",
+    "full_content": "西班牙能源巨头伊比德罗拉(Iberdrola)将向巴西巴伊亚州投资约45亿欧元。",
+    "sort_time": "1780936223000333",
+    "showTime": "2026-06-09 00:30:23",
+    "time": "2026-06-09 00:30:23",
+    "publish_time": "2026-06-09 00:30:23",
+    "raw_data": {
+      "code": "202606093764000333",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780936223000333",
+      "share": 3,
+      "showTime": "2026-06-09 00:30:23",
+      "stockList": [
+        "0.159945",
+        "150.014238"
+      ],
+      "summary": "西班牙能源巨头伊比德罗拉(Iberdrola)将向巴西巴伊亚州投资约45亿欧元。",
+      "title": "西班牙能源巨头伊比德罗拉(Iberdrola)将向巴西巴伊亚州投资约45亿欧元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093764000333.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c40adcda122e7219",
+    "code": "202606093763999678",
+    "title": "在美上市新兴市场ETF连续第三周遭撤资",
+    "summary": "【在美上市新兴市场ETF连续第三周遭撤资】上周，投资者连续第三周从美国上市的投资新兴市场股票和债券的交易所交易基金（ETF）撤资，但撤资步伐放缓。分市场看，巴西流出规模最大，而韩国则转为流入。截至6月5日当周，在美国上市、投资于多个发展中国家以及特定国家的新兴市场ETF资金流出总额为4.604亿美元，前一周为流出14.5亿美元。今年迄今为止，资金流入总额为408亿美元。分市场看，巴西资金流出规模最大，为3.03亿美元。韩国资金流入规模最大，为8560万美元。",
+    "content": "【在美上市新兴市场ETF连续第三周遭撤资】上周，投资者连续第三周从美国上市的投资新兴市场股票和债券的交易所交易基金（ETF）撤资，但撤资步伐放缓。分市场看，巴西流出规模最大，而韩国则转为流入。截至6月5日当周，在美国上市、投资于多个发展中国家以及特定国家的新兴市场ETF资金流出总额为4.604亿美元，前一周为流出14.5亿美元。今年迄今为止，资金流入总额为408亿美元。分市场看，巴西资金流出规模最大，为3.03亿美元。韩国资金流入规模最大，为8560万美元。",
+    "full_content": "【在美上市新兴市场ETF连续第三周遭撤资】上周，投资者连续第三周从美国上市的投资新兴市场股票和债券的交易所交易基金（ETF）撤资，但撤资步伐放缓。分市场看，巴西流出规模最大，而韩国则转为流入。截至6月5日当周，在美国上市、投资于多个发展中国家以及特定国家的新兴市场ETF资金流出总额为4.604亿美元，前一周为流出14.5亿美元。今年迄今为止，资金流入总额为408亿美元。分市场看，巴西资金流出规模最大，为3.03亿美元。韩国资金流入规模最大，为8560万美元。",
+    "sort_time": "1780935881099678",
+    "showTime": "2026-06-09 00:24:41",
+    "time": "2026-06-09 00:24:41",
+    "publish_time": "2026-06-09 00:24:41",
+    "raw_data": {
+      "code": "202606093763999678",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780935881099678",
+      "share": 1,
+      "showTime": "2026-06-09 00:24:41",
+      "stockList": [],
+      "summary": "【在美上市新兴市场ETF连续第三周遭撤资】上周，投资者连续第三周从美国上市的投资新兴市场股票和债券的交易所交易基金（ETF）撤资，但撤资步伐放缓。分市场看，巴西流出规模最大，而韩国则转为流入。截至6月5日当周，在美国上市、投资于多个发展中国家以及特定国家的新兴市场ETF资金流出总额为4.604亿美元，前一周为流出14.5亿美元。今年迄今为止，资金流入总额为408亿美元。分市场看，巴西资金流出规模最大，为3.03亿美元。韩国资金流入规模最大，为8560万美元。",
+      "title": "在美上市新兴市场ETF连续第三周遭撤资",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093763999678.html",
+    "category": "债券",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "ETF"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C701",
+          "name": "国企改革",
+          "matched_keyword": "国资"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C701"
+      ]
+    }
+  },
+  {
+    "id": "068d7cda06f6c967",
+    "code": "202606093763995419",
+    "title": "谷歌表示 将NotebookLM升级至运行在Gemini 3.5和Antigravity上",
+    "summary": "谷歌表示，将NotebookLM升级至运行在Gemini3.5和Antigravity上。",
+    "content": "谷歌表示，将NotebookLM升级至运行在Gemini3.5和Antigravity上。",
+    "full_content": "谷歌表示，将NotebookLM升级至运行在Gemini3.5和Antigravity上。",
+    "sort_time": "1780935000095419",
+    "showTime": "2026-06-09 00:10:00",
+    "time": "2026-06-09 00:10:00",
+    "publish_time": "2026-06-09 00:10:00",
+    "raw_data": {
+      "code": "202606093763995419",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780935000095419",
+      "share": 0,
+      "showTime": "2026-06-09 00:10:00",
+      "stockList": [
+        "105.GOOGL",
+        "105.GOOG"
+      ],
+      "summary": "谷歌表示，将NotebookLM升级至运行在Gemini3.5和Antigravity上。",
+      "title": "谷歌表示 将NotebookLM升级至运行在Gemini 3.5和Antigravity上",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093763995419.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOGL",
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1304a48bc182f7ad",
+    "code": "202606093763992556",
+    "title": "意大利竞争管理局结束了对Meta Platforms关于WhatsApp人工智能聊天机器人的调查",
+    "summary": "意大利竞争管理局结束了对MetaPlatforms关于WhatsApp人工智能聊天机器人的调查。",
+    "content": "意大利竞争管理局结束了对MetaPlatforms关于WhatsApp人工智能聊天机器人的调查。",
+    "full_content": "意大利竞争管理局结束了对MetaPlatforms关于WhatsApp人工智能聊天机器人的调查。",
+    "sort_time": "1780934867092556",
+    "showTime": "2026-06-09 00:07:47",
+    "time": "2026-06-09 00:07:47",
+    "publish_time": "2026-06-09 00:07:47",
+    "raw_data": {
+      "code": "202606093763992556",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780934867092556",
+      "share": 0,
+      "showTime": "2026-06-09 00:07:47",
+      "stockList": [
+        "90.BK1408",
+        "90.BK0800"
+      ],
+      "summary": "意大利竞争管理局结束了对MetaPlatforms关于WhatsApp人工智能聊天机器人的调查。",
+      "title": "意大利竞争管理局结束了对Meta Platforms关于WhatsApp人工智能聊天机器人的调查",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606093763992556.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1408",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C012",
+          "name": "机器人",
+          "matched_keyword": "机器人"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C012"
+      ]
+    }
+  },
+  {
+    "id": "112f38729c8a0ba5",
+    "code": "202606083764001485",
+    "title": "半导体材料六氟化钨量价齐升 国产特气龙头企业产能持续释放",
+    "summary": "【半导体材料六氟化钨量价齐升 国产特气龙头企业产能持续释放】6月8日，中船（邯郸）派瑞特种气体股份有限公司（以下简称“中船特气”）股价再创新高，收报252.18元/股。当日晚间，该公司发布股票交易异常波动暨严重异常波动公告。内容显示，公司股票交易连续十个交易日内（2026年5月26日至2026年6月8日）日收盘价格涨幅偏离值累计达到100%。根据上海证券交易所的有关规定，属于股票交易严重异常波动情形。",
+    "content": "【半导体材料六氟化钨量价齐升 国产特气龙头企业产能持续释放】6月8日，中船（邯郸）派瑞特种气体股份有限公司（以下简称“中船特气”）股价再创新高，收报252.18元/股。当日晚间，该公司发布股票交易异常波动暨严重异常波动公告。内容显示，公司股票交易连续十个交易日内（2026年5月26日至2026年6月8日）日收盘价格涨幅偏离值累计达到100%。根据上海证券交易所的有关规定，属于股票交易严重异常波动情形。",
+    "full_content": "【半导体材料六氟化钨量价齐升 国产特气龙头企业产能持续释放】6月8日，中船（邯郸）派瑞特种气体股份有限公司（以下简称“中船特气”）股价再创新高，收报252.18元/股。当日晚间，该公司发布股票交易异常波动暨严重异常波动公告。内容显示，公司股票交易连续十个交易日内（2026年5月26日至2026年6月8日）日收盘价格涨幅偏离值累计达到100%。根据上海证券交易所的有关规定，属于股票交易严重异常波动情形。",
+    "sort_time": "1780934340001485",
+    "showTime": "2026-06-08 23:59:00",
+    "time": "2026-06-08 23:59:00",
+    "publish_time": "2026-06-08 23:59:00",
+    "raw_data": {
+      "code": "202606083764001485",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1780934340001485",
+      "share": 6,
+      "showTime": "2026-06-08 23:59:00",
+      "stockList": [
+        "90.BK1325",
+        "150.013446"
+      ],
+      "summary": "【半导体材料六氟化钨量价齐升 国产特气龙头企业产能持续释放】6月8日，中船（邯郸）派瑞特种气体股份有限公司（以下简称“中船特气”）股价再创新高，收报252.18元/股。当日晚间，该公司发布股票交易异常波动暨严重异常波动公告。内容显示，公司股票交易连续十个交易日内（2026年5月26日至2026年6月8日）日收盘价格涨幅偏离值累计达到100%。根据上海证券交易所的有关规定，属于股票交易严重异常波动情形。",
+      "title": "半导体材料六氟化钨量价齐升 国产特气龙头企业产能持续释放",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083764001485.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1325",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 6,
+    "share_count": 6,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I020102"
+      ],
+      "concept_ids": [
+        "C002",
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "28482fe5bbd6267d",
+    "code": "202606083763982925",
+    "title": "穆迪：美国寿险公司持有8070亿美元流动性最差信贷资产",
+    "summary": "【穆迪：美国寿险公司持有8070亿美元流动性最差信贷资产】穆迪公司一项最新研究显示，去年美国寿险公司持有的流动性最差的固定收益工具规模约为8070亿美元，引发市场对该行业整体流动性以及资产集中度的担忧。根据周一发布的报告，截至2025年底，此类资产占寿险行业4万亿美元固定收益投资组合的20%，高于前一年的18%。在进行数据测算时，所涉及的证券具有私募信用评级(PLR)，但未获第三方机构的正式评级或无法通过可观察到的市场价格进行估值。",
+    "content": "【穆迪：美国寿险公司持有8070亿美元流动性最差信贷资产】穆迪公司一项最新研究显示，去年美国寿险公司持有的流动性最差的固定收益工具规模约为8070亿美元，引发市场对该行业整体流动性以及资产集中度的担忧。根据周一发布的报告，截至2025年底，此类资产占寿险行业4万亿美元固定收益投资组合的20%，高于前一年的18%。在进行数据测算时，所涉及的证券具有私募信用评级(PLR)，但未获第三方机构的正式评级或无法通过可观察到的市场价格进行估值。",
+    "full_content": "【穆迪：美国寿险公司持有8070亿美元流动性最差信贷资产】穆迪公司一项最新研究显示，去年美国寿险公司持有的流动性最差的固定收益工具规模约为8070亿美元，引发市场对该行业整体流动性以及资产集中度的担忧。根据周一发布的报告，截至2025年底，此类资产占寿险行业4万亿美元固定收益投资组合的20%，高于前一年的18%。在进行数据测算时，所涉及的证券具有私募信用评级(PLR)，但未获第三方机构的正式评级或无法通过可观察到的市场价格进行估值。",
+    "sort_time": "1780933983082925",
+    "showTime": "2026-06-08 23:53:03",
+    "time": "2026-06-08 23:53:03",
+    "publish_time": "2026-06-08 23:53:03",
+    "raw_data": {
+      "code": "202606083763982925",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1780933983082925",
+      "share": 0,
+      "showTime": "2026-06-08 23:53:03",
+      "stockList": [],
+      "summary": "【穆迪：美国寿险公司持有8070亿美元流动性最差信贷资产】穆迪公司一项最新研究显示，去年美国寿险公司持有的流动性最差的固定收益工具规模约为8070亿美元，引发市场对该行业整体流动性以及资产集中度的担忧。根据周一发布的报告，截至2025年底，此类资产占寿险行业4万亿美元固定收益投资组合的20%，高于前一年的18%。在进行数据测算时，所涉及的证券具有私募信用评级(PLR)，但未获第三方机构的正式评级或无法通过可观察到的市场价格进行估值。",
+      "title": "穆迪：美国寿险公司持有8070亿美元流动性最差信贷资产",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083763982925.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        },
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "私募"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        },
+        {
+          "id": "C403",
+          "name": "保险",
+          "matched_keyword": "寿险"
+        }
+      ],
+      "industry_ids": [
+        "I020102",
+        "I020201"
+      ],
+      "concept_ids": [
+        "C401",
+        "C403"
+      ]
+    }
+  },
+  {
+    "id": "25f1919aba3a31c7",
+    "code": "202606083763981597",
+    "title": "伊朗全境航班暂停运行",
+    "summary": "【伊朗全境航班暂停运行】据伊朗伊斯兰共和国通讯社8日报道，伊朗民航组织发布航行通告说，伊朗全国各机场所有航班暂停运行，恢复时间另行通知。通告提醒旅客在主管部门发布恢复正常运行通知前不要前往机场，避免出现拥堵和不必要的混乱。有关航班恢复及后续调整的信息，将通过官方媒体和相关信息平台对外发布。",
+    "content": "【伊朗全境航班暂停运行】据伊朗伊斯兰共和国通讯社8日报道，伊朗民航组织发布航行通告说，伊朗全国各机场所有航班暂停运行，恢复时间另行通知。通告提醒旅客在主管部门发布恢复正常运行通知前不要前往机场，避免出现拥堵和不必要的混乱。有关航班恢复及后续调整的信息，将通过官方媒体和相关信息平台对外发布。",
+    "full_content": "【伊朗全境航班暂停运行】据伊朗伊斯兰共和国通讯社8日报道，伊朗民航组织发布航行通告说，伊朗全国各机场所有航班暂停运行，恢复时间另行通知。通告提醒旅客在主管部门发布恢复正常运行通知前不要前往机场，避免出现拥堵和不必要的混乱。有关航班恢复及后续调整的信息，将通过官方媒体和相关信息平台对外发布。",
+    "sort_time": "1780933909081597",
+    "showTime": "2026-06-08 23:51:49",
+    "time": "2026-06-08 23:51:49",
+    "publish_time": "2026-06-08 23:51:49",
+    "raw_data": {
+      "code": "202606083763981597",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1780933909081597",
+      "share": 1,
+      "showTime": "2026-06-08 23:51:49",
+      "stockList": [],
+      "summary": "【伊朗全境航班暂停运行】据伊朗伊斯兰共和国通讯社8日报道，伊朗民航组织发布航行通告说，伊朗全国各机场所有航班暂停运行，恢复时间另行通知。通告提醒旅客在主管部门发布恢复正常运行通知前不要前往机场，避免出现拥堵和不必要的混乱。有关航班恢复及后续调整的信息，将通过官方媒体和相关信息平台对外发布。",
+      "title": "伊朗全境航班暂停运行",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083763981597.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cbd2489f6c80a92b",
+    "code": "202606083763982249",
+    "title": "SpaceX据悉计划在周三收盘后完成IPO的认购工作",
+    "summary": "SpaceX据悉计划在周三收盘后完成IPO的认购工作，该公司IPO据称获得大幅超额认购。",
+    "content": "SpaceX据悉计划在周三收盘后完成IPO的认购工作，该公司IPO据称获得大幅超额认购。",
+    "full_content": "SpaceX据悉计划在周三收盘后完成IPO的认购工作，该公司IPO据称获得大幅超额认购。",
+    "sort_time": "1780933746082249",
+    "showTime": "2026-06-08 23:49:06",
+    "time": "2026-06-08 23:49:06",
+    "publish_time": "2026-06-08 23:49:06",
+    "raw_data": {
+      "code": "202606083763982249",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1780933746082249",
+      "share": 5,
+      "showTime": "2026-06-08 23:49:06",
+      "stockList": [
+        "90.BK0697"
+      ],
+      "summary": "SpaceX据悉计划在周三收盘后完成IPO的认购工作，该公司IPO据称获得大幅超额认购。",
+      "title": "SpaceX据悉计划在周三收盘后完成IPO的认购工作",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083763982249.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 5,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "baf99ae9a4c143ad",
+    "code": "202606083763982051",
+    "title": "迈威尔科技涨幅扩大至15%",
+    "summary": "迈威尔科技涨幅扩大至15%，至盘中新高。",
+    "content": "迈威尔科技涨幅扩大至15%，至盘中新高。",
+    "full_content": "迈威尔科技涨幅扩大至15%，至盘中新高。",
+    "sort_time": "1780933623082051",
+    "showTime": "2026-06-08 23:47:03",
+    "time": "2026-06-08 23:47:03",
+    "publish_time": "2026-06-08 23:47:03",
+    "raw_data": {
+      "code": "202606083763982051",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1780933623082051",
+      "share": 6,
+      "showTime": "2026-06-08 23:47:03",
+      "stockList": [
+        "105.MRVL"
+      ],
+      "summary": "迈威尔科技涨幅扩大至15%，至盘中新高。",
+      "title": "迈威尔科技涨幅扩大至15%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083763982051.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MRVL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f0755a1a80846096",
+    "code": "202606083763974665",
+    "title": "纽约联储调查：对家庭财务状况的预期降至2022年以来最低",
+    "summary": "【纽约联储调查：对家庭财务状况的预期降至2022年以来最低】根据纽约联储的消费者预期调查，5月份一年期通胀预期从上月的3.64%降至3.46%。根据5月份的调查：1、房价上涨预期升至2022年7月以来的最高水平，食品和租金价格预期也有所上升，而汽油、医疗保健和大学学费的预期有所回落。2、劳动力市场预期喜忧参半，尽管失业率预期小幅下降且收入增长预期保持稳定，但对失业的担忧加剧，主动离职的可能性也升至三年高点。3、家庭财务状况预期降至2022年10月以来的最低水平。由于信贷获取难度增加及贷款拖欠情况恶化，家庭支出增长预期趋于温和。4、消费者预计未来一年汽油价格将上涨5%，食品价格上涨5.8%，医疗费用上涨8.9%，大学教育费用上涨8%，租金上涨7.4%。",
+    "content": "【纽约联储调查：对家庭财务状况的预期降至2022年以来最低】根据纽约联储的消费者预期调查，5月份一年期通胀预期从上月的3.64%降至3.46%。根据5月份的调查：1、房价上涨预期升至2022年7月以来的最高水平，食品和租金价格预期也有所上升，而汽油、医疗保健和大学学费的预期有所回落。2、劳动力市场预期喜忧参半，尽管失业率预期小幅下降且收入增长预期保持稳定，但对失业的担忧加剧，主动离职的可能性也升至三年高点。3、家庭财务状况预期降至2022年10月以来的最低水平。由于信贷获取难度增加及贷款拖欠情况恶化，家庭支出增长预期趋于温和。4、消费者预计未来一年汽油价格将上涨5%，食品价格上涨5.8%，医疗费用上涨8.9%，大学教育费用上涨8%，租金上涨7.4%。",
+    "full_content": "【纽约联储调查：对家庭财务状况的预期降至2022年以来最低】根据纽约联储的消费者预期调查，5月份一年期通胀预期从上月的3.64%降至3.46%。根据5月份的调查：1、房价上涨预期升至2022年7月以来的最高水平，食品和租金价格预期也有所上升，而汽油、医疗保健和大学学费的预期有所回落。2、劳动力市场预期喜忧参半，尽管失业率预期小幅下降且收入增长预期保持稳定，但对失业的担忧加剧，主动离职的可能性也升至三年高点。3、家庭财务状况预期降至2022年10月以来的最低水平。由于信贷获取难度增加及贷款拖欠情况恶化，家庭支出增长预期趋于温和。4、消费者预计未来一年汽油价格将上涨5%，食品价格上涨5.8%，医疗费用上涨8.9%，大学教育费用上涨8%，租金上涨7.4%。",
+    "sort_time": "1780932786074665",
+    "showTime": "2026-06-08 23:33:06",
+    "time": "2026-06-08 23:33:06",
+    "publish_time": "2026-06-08 23:33:06",
+    "raw_data": {
+      "code": "202606083763974665",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1780932786074665",
+      "share": 3,
+      "showTime": "2026-06-08 23:33:06",
+      "stockList": [
+        "150.012341"
+      ],
+      "summary": "【纽约联储调查：对家庭财务状况的预期降至2022年以来最低】根据纽约联储的消费者预期调查，5月份一年期通胀预期从上月的3.64%降至3.46%。根据5月份的调查：1、房价上涨预期升至2022年7月以来的最高水平，食品和租金价格预期也有所上升，而汽油、医疗保健和大学学费的预期有所回落。2、劳动力市场预期喜忧参半，尽管失业率预期小幅下降且收入增长预期保持稳定，但对失业的担忧加剧，主动离职的可能性也升至三年高点。3、家庭财务状况预期降至2022年10月以来的最低水平。由于信贷获取难度增加及贷款拖欠情况恶化，家庭支出增长预期趋于温和。4、消费者预计未来一年汽油价格将上涨5%，食品价格上涨5.8%，医疗费用上涨8.9%，大学教育费用上涨8%，租金上涨7.4%。",
+      "title": "纽约联储调查：对家庭财务状况的预期降至2022年以来最低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083763974665.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "150.012341"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 6,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C602",
+          "name": "食品饮料",
+          "matched_keyword": "食品"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C602"
+      ]
+    }
+  },
+  {
+    "id": "f2ed80502ed7eb19",
+    "code": "202606083763972327",
+    "title": "意大利科技与软件并购巨头Bending Spoons赴美申请IPO 传目标估值最高达220亿美元",
+    "summary": "【意大利科技与软件并购巨头Bending Spoons赴美申请IPO 传目标估值最高达220亿美元】以擅长收购并改造困境软件企业而闻名的意大利科技公司BendingSpoons已正式向美国纽约提交首次公开募股(IPO)申请。根据周一向美国证券交易委员会(SEC)提交的招股书，这家总部位于米兰的公司在2026年第一季度实现了强劲的业绩反转。报告期内，公司营收达到6.01亿美元，实现净利润2750万美元；而在去年同期，其营收为2.59亿美元，净亏损高达1.12亿美元。据知情人士透露，BendingSpoons此次寻求的IPO估值在200亿至220亿美元之间。",
+    "content": "【意大利科技与软件并购巨头Bending Spoons赴美申请IPO 传目标估值最高达220亿美元】以擅长收购并改造困境软件企业而闻名的意大利科技公司BendingSpoons已正式向美国纽约提交首次公开募股(IPO)申请。根据周一向美国证券交易委员会(SEC)提交的招股书，这家总部位于米兰的公司在2026年第一季度实现了强劲的业绩反转。报告期内，公司营收达到6.01亿美元，实现净利润2750万美元；而在去年同期，其营收为2.59亿美元，净亏损高达1.12亿美元。据知情人士透露，BendingSpoons此次寻求的IPO估值在200亿至220亿美元之间。",
+    "full_content": "【意大利科技与软件并购巨头Bending Spoons赴美申请IPO 传目标估值最高达220亿美元】以擅长收购并改造困境软件企业而闻名的意大利科技公司BendingSpoons已正式向美国纽约提交首次公开募股(IPO)申请。根据周一向美国证券交易委员会(SEC)提交的招股书，这家总部位于米兰的公司在2026年第一季度实现了强劲的业绩反转。报告期内，公司营收达到6.01亿美元，实现净利润2750万美元；而在去年同期，其营收为2.59亿美元，净亏损高达1.12亿美元。据知情人士透露，BendingSpoons此次寻求的IPO估值在200亿至220亿美元之间。",
+    "sort_time": "1780932447072327",
+    "showTime": "2026-06-08 23:27:27",
+    "time": "2026-06-08 23:27:27",
+    "publish_time": "2026-06-08 23:27:27",
+    "raw_data": {
+      "code": "202606083763972327",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1780932447072327",
+      "share": 0,
+      "showTime": "2026-06-08 23:27:27",
+      "stockList": [
+        "90.BK0697"
+      ],
+      "summary": "【意大利科技与软件并购巨头Bending Spoons赴美申请IPO 传目标估值最高达220亿美元】以擅长收购并改造困境软件企业而闻名的意大利科技公司BendingSpoons已正式向美国纽约提交首次公开募股(IPO)申请。根据周一向美国证券交易委员会(SEC)提交的招股书，这家总部位于米兰的公司在2026年第一季度实现了强劲的业绩反转。报告期内，公司营收达到6.01亿美元，实现净利润2750万美元；而在去年同期，其营收为2.59亿美元，净亏损高达1.12亿美元。据知情人士透露，BendingSpoons此次寻求的IPO估值在200亿至220亿美元之间。",
+      "title": "意大利科技与软件并购巨头Bending Spoons赴美申请IPO 传目标估值最高达220亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083763972327.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        },
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "并购"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102",
+        "I020202"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "91934114733dfa8d",
+    "code": "202606083763967548",
+    "title": "SK海力士的存托凭证在德国法兰克福证券交易所上涨14%",
+    "summary": "【SK海力士的存托凭证在德国法兰克福证券交易所上涨14%】6月8日，数据显示，SK海力士的存托凭证在德国法兰克福证券交易所上涨14%。",
+    "content": "【SK海力士的存托凭证在德国法兰克福证券交易所上涨14%】6月8日，数据显示，SK海力士的存托凭证在德国法兰克福证券交易所上涨14%。",
+    "full_content": "【SK海力士的存托凭证在德国法兰克福证券交易所上涨14%】6月8日，数据显示，SK海力士的存托凭证在德国法兰克福证券交易所上涨14%。",
+    "sort_time": "1780932074067548",
+    "showTime": "2026-06-08 23:21:14",
+    "time": "2026-06-08 23:21:14",
+    "publish_time": "2026-06-08 23:21:14",
+    "raw_data": {
+      "code": "202606083763967548",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1780932074067548",
+      "share": 19,
+      "showTime": "2026-06-08 23:21:14",
+      "stockList": [
+        "90.BK1366",
+        "90.BK0473"
+      ],
+      "summary": "【SK海力士的存托凭证在德国法兰克福证券交易所上涨14%】6月8日，数据显示，SK海力士的存托凭证在德国法兰克福证券交易所上涨14%。",
+      "title": "SK海力士的存托凭证在德国法兰克福证券交易所上涨14%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083763967548.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK1366",
+      "90.BK0473"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 19,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "bc8d49d01afe2cde",
+    "code": "202606083763966263",
+    "title": "以色列总理内塔尼亚胡称 以色列暂缓对伊朗开火",
+    "summary": "以色列总理内塔尼亚胡称，以色列暂缓对伊朗开火。",
+    "content": "以色列总理内塔尼亚胡称，以色列暂缓对伊朗开火。",
+    "full_content": "以色列总理内塔尼亚胡称，以色列暂缓对伊朗开火。",
+    "sort_time": "1780932061066263",
+    "showTime": "2026-06-08 23:21:01",
+    "time": "2026-06-08 23:21:01",
+    "publish_time": "2026-06-08 23:21:01",
+    "raw_data": {
+      "code": "202606083763966263",
+      "image": [],
+      "pinglun_Num": 15,
+      "realSort": "1780932061066263",
+      "share": 9,
+      "showTime": "2026-06-08 23:21:01",
+      "stockList": [],
+      "summary": "以色列总理内塔尼亚胡称，以色列暂缓对伊朗开火。",
+      "title": "以色列总理内塔尼亚胡称 以色列暂缓对伊朗开火",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606083763966263.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 15,
+    "share_count": 9,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "cc1d07ce8fd539d9",
     "code": "202606083763960556",
     "title": "比特币升破6.4万美元 以太坊站上1700美元",
