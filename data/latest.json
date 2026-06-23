@@ -1,5 +1,633 @@
 [
   {
+    "id": "07c2d577ce6dfc5d",
+    "code": "202606243780152333",
+    "title": "特朗普据悉计划周三在国会签署住房法案",
+    "summary": "特朗普据悉计划周三在国会签署住房法案。",
+    "content": "特朗普据悉计划周三在国会签署住房法案。",
+    "full_content": "特朗普据悉计划周三在国会签署住房法案。",
+    "sort_time": "1782251220052333",
+    "showTime": "2026-06-24 05:47:00",
+    "time": "2026-06-24 05:47:00",
+    "publish_time": "2026-06-24 05:47:00",
+    "raw_data": {
+      "code": "202606243780152333",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782251220052333",
+      "share": 0,
+      "showTime": "2026-06-24 05:47:00",
+      "stockList": [],
+      "summary": "特朗普据悉计划周三在国会签署住房法案。",
+      "title": "特朗普据悉计划周三在国会签署住房法案",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780152333.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0984d2c8fc0093ee",
+    "code": "202606243780137940",
+    "title": "抖音商城618数据彰显消费市场活力",
+    "summary": "【抖音商城618数据彰显消费市场活力】6月19日，《2026年抖音商城618数据报告》（以下简称“报告”）正式发布。数据显示，在5月15日至6月18日的大促周期内，超过12万家商家直播成交额同比增长翻倍。抖音电商通过投入消费券补贴、亿级流量资源等，推动内容场景与货架场景深度协同等方式，升级商家扶持政策、助力商家经营活力进一步释放。中小商家、中小达人以及各类产业带主体展现出强劲的发展韧性，直播电商的普惠价值持续释放，为数字经济与实体经济融合发展注入动能。",
+    "content": "【抖音商城618数据彰显消费市场活力】6月19日，《2026年抖音商城618数据报告》（以下简称“报告”）正式发布。数据显示，在5月15日至6月18日的大促周期内，超过12万家商家直播成交额同比增长翻倍。抖音电商通过投入消费券补贴、亿级流量资源等，推动内容场景与货架场景深度协同等方式，升级商家扶持政策、助力商家经营活力进一步释放。中小商家、中小达人以及各类产业带主体展现出强劲的发展韧性，直播电商的普惠价值持续释放，为数字经济与实体经济融合发展注入动能。",
+    "full_content": "【抖音商城618数据彰显消费市场活力】6月19日，《2026年抖音商城618数据报告》（以下简称“报告”）正式发布。数据显示，在5月15日至6月18日的大促周期内，超过12万家商家直播成交额同比增长翻倍。抖音电商通过投入消费券补贴、亿级流量资源等，推动内容场景与货架场景深度协同等方式，升级商家扶持政策、助力商家经营活力进一步释放。中小商家、中小达人以及各类产业带主体展现出强劲的发展韧性，直播电商的普惠价值持续释放，为数字经济与实体经济融合发展注入动能。",
+    "sort_time": "1782250458037940",
+    "showTime": "2026-06-24 05:34:18",
+    "time": "2026-06-24 05:34:18",
+    "publish_time": "2026-06-24 05:34:18",
+    "raw_data": {
+      "code": "202606243780137940",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1782250458037940",
+      "share": 1,
+      "showTime": "2026-06-24 05:34:18",
+      "stockList": [
+        "90.BK0940",
+        "150.012341"
+      ],
+      "summary": "【抖音商城618数据彰显消费市场活力】6月19日，《2026年抖音商城618数据报告》（以下简称“报告”）正式发布。数据显示，在5月15日至6月18日的大促周期内，超过12万家商家直播成交额同比增长翻倍。抖音电商通过投入消费券补贴、亿级流量资源等，推动内容场景与货架场景深度协同等方式，升级商家扶持政策、助力商家经营活力进一步释放。中小商家、中小达人以及各类产业带主体展现出强劲的发展韧性，直播电商的普惠价值持续释放，为数字经济与实体经济融合发展注入动能。",
+      "title": "抖音商城618数据彰显消费市场活力",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780137940.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0940",
+      "150.012341"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C804",
+          "name": "拼多多概念",
+          "matched_keyword": "电商"
+        },
+        {
+          "id": "C802",
+          "name": "抖音概念",
+          "matched_keyword": "抖音"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C804",
+        "C802"
+      ]
+    }
+  },
+  {
+    "id": "eceebf0b7549c8b2",
+    "code": "202606243780148626",
+    "title": "谷歌将取代威瑞森通信进入道琼斯工业平均指数 谷歌盘后涨近1%",
+    "summary": "谷歌将取代威瑞森通信进入道琼斯工业平均指数，谷歌盘后涨近1%。",
+    "content": "谷歌将取代威瑞森通信进入道琼斯工业平均指数，谷歌盘后涨近1%。",
+    "full_content": "谷歌将取代威瑞森通信进入道琼斯工业平均指数，谷歌盘后涨近1%。",
+    "sort_time": "1782249909048626",
+    "showTime": "2026-06-24 05:25:09",
+    "time": "2026-06-24 05:25:09",
+    "publish_time": "2026-06-24 05:25:09",
+    "raw_data": {
+      "code": "202606243780148626",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1782249909048626",
+      "share": 1,
+      "showTime": "2026-06-24 05:25:09",
+      "stockList": [
+        "90.BK0448",
+        "90.BK1215"
+      ],
+      "summary": "谷歌将取代威瑞森通信进入道琼斯工业平均指数，谷歌盘后涨近1%。",
+      "title": "谷歌将取代威瑞森通信进入道琼斯工业平均指数 谷歌盘后涨近1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780148626.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0448",
+      "90.BK1215"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "78e1e1f20f79c550",
+    "code": "202606243780147993",
+    "title": "Honeywell Aerospace将被纳入标普500指数和标普100指数",
+    "summary": "Honeywell Aerospace将被纳入标普500指数和标普100指数。",
+    "content": "Honeywell Aerospace将被纳入标普500指数和标普100指数。",
+    "full_content": "Honeywell Aerospace将被纳入标普500指数和标普100指数。",
+    "sort_time": "1782249443047993",
+    "showTime": "2026-06-24 05:17:23",
+    "time": "2026-06-24 05:17:23",
+    "publish_time": "2026-06-24 05:17:23",
+    "raw_data": {
+      "code": "202606243780147993",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782249443047993",
+      "share": 1,
+      "showTime": "2026-06-24 05:17:23",
+      "stockList": [],
+      "summary": "Honeywell Aerospace将被纳入标普500指数和标普100指数。",
+      "title": "Honeywell Aerospace将被纳入标普500指数和标普100指数",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780147993.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "574be0773db74d50",
+    "code": "202606243780147469",
+    "title": "富时中国A50指数期货夜盘收涨0.45%",
+    "summary": "富时中国A50指数期货夜盘收涨0.45%。",
+    "content": "富时中国A50指数期货夜盘收涨0.45%。",
+    "full_content": "富时中国A50指数期货夜盘收涨0.45%。",
+    "sort_time": "1782249339047469",
+    "showTime": "2026-06-24 05:15:39",
+    "time": "2026-06-24 05:15:39",
+    "publish_time": "2026-06-24 05:15:39",
+    "raw_data": {
+      "code": "202606243780147469",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782249339047469",
+      "share": 2,
+      "showTime": "2026-06-24 05:15:39",
+      "stockList": [],
+      "summary": "富时中国A50指数期货夜盘收涨0.45%。",
+      "title": "富时中国A50指数期货夜盘收涨0.45%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780147469.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fa3da88f3743a1b6",
+    "code": "202606243780146253",
+    "title": "SpaceX250亿美元分五期发行 最长期限达30年",
+    "summary": "【SpaceX250亿美元分五期发行 最长期限达30年】美国SEC文件显示，SpaceX将发行70亿美元2031年到期的5.35%优先票据，60亿美元2033年到期的5.65%优先票据、60亿美元2036年到期的5.875%优先票据、25亿美元2046年到期的6.6%优先票据和35亿美元2056年到期的6.65%优先票据。债权发行预计将于2026年6月26日完成。",
+    "content": "【SpaceX250亿美元分五期发行 最长期限达30年】美国SEC文件显示，SpaceX将发行70亿美元2031年到期的5.35%优先票据，60亿美元2033年到期的5.65%优先票据、60亿美元2036年到期的5.875%优先票据、25亿美元2046年到期的6.6%优先票据和35亿美元2056年到期的6.65%优先票据。债权发行预计将于2026年6月26日完成。",
+    "full_content": "【SpaceX250亿美元分五期发行 最长期限达30年】美国SEC文件显示，SpaceX将发行70亿美元2031年到期的5.35%优先票据，60亿美元2033年到期的5.65%优先票据、60亿美元2036年到期的5.875%优先票据、25亿美元2046年到期的6.6%优先票据和35亿美元2056年到期的6.65%优先票据。债权发行预计将于2026年6月26日完成。",
+    "sort_time": "1782248818046253",
+    "showTime": "2026-06-24 05:06:58",
+    "time": "2026-06-24 05:06:58",
+    "publish_time": "2026-06-24 05:06:58",
+    "raw_data": {
+      "code": "202606243780146253",
+      "image": [],
+      "pinglun_Num": 9,
+      "realSort": "1782248818046253",
+      "share": 3,
+      "showTime": "2026-06-24 05:06:58",
+      "stockList": [],
+      "summary": "【SpaceX250亿美元分五期发行 最长期限达30年】美国SEC文件显示，SpaceX将发行70亿美元2031年到期的5.35%优先票据，60亿美元2033年到期的5.65%优先票据、60亿美元2036年到期的5.875%优先票据、25亿美元2046年到期的6.6%优先票据和35亿美元2056年到期的6.65%优先票据。债权发行预计将于2026年6月26日完成。",
+      "title": "SpaceX250亿美元分五期发行 最长期限达30年",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780146253.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 9,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "49d15731aa1935fb",
+    "code": "202606243780146128",
+    "title": "德国全境铁路暂停运营",
+    "summary": "【德国全境铁路暂停运营】据德国方面消息，德国23日晚出现大规模列车无线通信系统故障，导致全境铁路暂停运营。",
+    "content": "【德国全境铁路暂停运营】据德国方面消息，德国23日晚出现大规模列车无线通信系统故障，导致全境铁路暂停运营。",
+    "full_content": "【德国全境铁路暂停运营】据德国方面消息，德国23日晚出现大规模列车无线通信系统故障，导致全境铁路暂停运营。",
+    "sort_time": "1782248717046128",
+    "showTime": "2026-06-24 05:05:17",
+    "time": "2026-06-24 05:05:17",
+    "publish_time": "2026-06-24 05:05:17",
+    "raw_data": {
+      "code": "202606243780146128",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1782248717046128",
+      "share": 0,
+      "showTime": "2026-06-24 05:05:17",
+      "stockList": [],
+      "summary": "【德国全境铁路暂停运营】据德国方面消息，德国23日晚出现大规模列车无线通信系统故障，导致全境铁路暂停运营。",
+      "title": "德国全境铁路暂停运营",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780146128.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "1c9e687446c5c3c7",
+    "code": "202606243780141715",
+    "title": "MSCI考虑在11月对下调对印尼评级",
+    "summary": "MSCI考虑在11月对下调对印尼评级。",
+    "content": "MSCI考虑在11月对下调对印尼评级。",
+    "full_content": "MSCI考虑在11月对下调对印尼评级。",
+    "sort_time": "1782247812041715",
+    "showTime": "2026-06-24 04:50:12",
+    "time": "2026-06-24 04:50:12",
+    "publish_time": "2026-06-24 04:50:12",
+    "raw_data": {
+      "code": "202606243780141715",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1782247812041715",
+      "share": 0,
+      "showTime": "2026-06-24 04:50:12",
+      "stockList": [
+        "90.BK0821"
+      ],
+      "summary": "MSCI考虑在11月对下调对印尼评级。",
+      "title": "MSCI考虑在11月对下调对印尼评级",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780141715.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0821"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2afc414af4c8cb64",
+    "code": "202606243780141657",
+    "title": "Cerebras Systems第一财季营收为1.934亿美元 市场预估为1.814亿美元",
+    "summary": "Cerebras Systems第一财季营收为1.934亿美元，市场预估为1.814亿美元；公司预计第二财季营收约为1.94亿美元，市场预估为1.733亿美元。",
+    "content": "Cerebras Systems第一财季营收为1.934亿美元，市场预估为1.814亿美元；公司预计第二财季营收约为1.94亿美元，市场预估为1.733亿美元。",
+    "full_content": "Cerebras Systems第一财季营收为1.934亿美元，市场预估为1.814亿美元；公司预计第二财季营收约为1.94亿美元，市场预估为1.733亿美元。",
+    "sort_time": "1782247748041657",
+    "showTime": "2026-06-24 04:49:08",
+    "time": "2026-06-24 04:49:08",
+    "publish_time": "2026-06-24 04:49:08",
+    "raw_data": {
+      "code": "202606243780141657",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782247748041657",
+      "share": 0,
+      "showTime": "2026-06-24 04:49:08",
+      "stockList": [
+        "105.CBRS"
+      ],
+      "summary": "Cerebras Systems第一财季营收为1.934亿美元，市场预估为1.814亿美元；公司预计第二财季营收约为1.94亿美元，市场预估为1.733亿美元。",
+      "title": "Cerebras Systems第一财季营收为1.934亿美元 市场预估为1.814亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780141657.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.CBRS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "448931ab1f2d16d7",
+    "code": "202606243780141148",
+    "title": "美国API原油库存上周减少76.5万桶 之前一周减少833万桶",
+    "summary": "美国API原油库存上周减少76.5万桶，之前一周减少833万桶。",
+    "content": "美国API原油库存上周减少76.5万桶，之前一周减少833万桶。",
+    "full_content": "美国API原油库存上周减少76.5万桶，之前一周减少833万桶。",
+    "sort_time": "1782247495041148",
+    "showTime": "2026-06-24 04:44:55",
+    "time": "2026-06-24 04:44:55",
+    "publish_time": "2026-06-24 04:44:55",
+    "raw_data": {
+      "code": "202606243780141148",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782247495041148",
+      "share": 0,
+      "showTime": "2026-06-24 04:44:55",
+      "stockList": [],
+      "summary": "美国API原油库存上周减少76.5万桶，之前一周减少833万桶。",
+      "title": "美国API原油库存上周减少76.5万桶 之前一周减少833万桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780141148.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "6320ea534266f0fb",
+    "code": "202606243780140970",
+    "title": "阿曼表示已与国际海事组织（IMO）协调 旨在为霍尔木兹海峡提供临时海上通道",
+    "summary": "阿曼表示已与国际海事组织（IMO）协调，旨在为霍尔木兹海峡提供临时海上通道。",
+    "content": "阿曼表示已与国际海事组织（IMO）协调，旨在为霍尔木兹海峡提供临时海上通道。",
+    "full_content": "阿曼表示已与国际海事组织（IMO）协调，旨在为霍尔木兹海峡提供临时海上通道。",
+    "sort_time": "1782246951040970",
+    "showTime": "2026-06-24 04:35:51",
+    "time": "2026-06-24 04:35:51",
+    "publish_time": "2026-06-24 04:35:51",
+    "raw_data": {
+      "code": "202606243780140970",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782246951040970",
+      "share": 0,
+      "showTime": "2026-06-24 04:35:51",
+      "stockList": [],
+      "summary": "阿曼表示已与国际海事组织（IMO）协调，旨在为霍尔木兹海峡提供临时海上通道。",
+      "title": "阿曼表示已与国际海事组织（IMO）协调 旨在为霍尔木兹海峡提供临时海上通道",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780140970.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e7deb23eede74c8a",
+    "code": "202606243780141041",
+    "title": "摩根士丹利私募信贷基金将赎回比例上限设为5% 摩根士丹利股价盘后下跌4%",
+    "summary": "摩根士丹利私募信贷基金将赎回比例上限设为5%。摩根士丹利股价盘后下跌4%。",
+    "content": "摩根士丹利私募信贷基金将赎回比例上限设为5%。摩根士丹利股价盘后下跌4%。",
+    "full_content": "摩根士丹利私募信贷基金将赎回比例上限设为5%。摩根士丹利股价盘后下跌4%。",
+    "sort_time": "1782246396041041",
+    "showTime": "2026-06-24 04:26:36",
+    "time": "2026-06-24 04:26:36",
+    "publish_time": "2026-06-24 04:26:36",
+    "raw_data": {
+      "code": "202606243780141041",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782246396041041",
+      "share": 0,
+      "showTime": "2026-06-24 04:26:36",
+      "stockList": [
+        "106.MS"
+      ],
+      "summary": "摩根士丹利私募信贷基金将赎回比例上限设为5%。摩根士丹利股价盘后下跌4%。",
+      "title": "摩根士丹利私募信贷基金将赎回比例上限设为5% 摩根士丹利股价盘后下跌4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780141041.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "106.MS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "私募"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "72a9a7fd7aee68d7",
+    "code": "202606243780140462",
+    "title": "游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划",
+    "summary": "【游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划】游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划。",
+    "content": "【游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划】游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划。",
+    "full_content": "【游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划】游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划。",
+    "sort_time": "1782246257040462",
+    "showTime": "2026-06-24 04:24:17",
+    "time": "2026-06-24 04:24:17",
+    "publish_time": "2026-06-24 04:24:17",
+    "raw_data": {
+      "code": "202606243780140462",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1782246257040462",
+      "share": 0,
+      "showTime": "2026-06-24 04:24:17",
+      "stockList": [
+        "106.GME",
+        "105.EBAY"
+      ],
+      "summary": "【游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划】游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划。",
+      "title": "游戏驿站表示，将于本周公布拟议收购eBay的战略依据与规划",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780140462.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.GME",
+      "105.EBAY"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6a8ed36284271ea2",
+    "code": "202606243780140375",
+    "title": "耐克宣布，David M. Denton将加入公司担任执行副总裁兼首席财务官",
+    "summary": "耐克宣布，David M. Denton将加入公司担任执行副总裁兼首席财务官，Matthew Friend将辞去执行副总裁兼首席财务官职务。耐克还表示，第四季度业绩预计基本符合先前指引。",
+    "content": "耐克宣布，David M. Denton将加入公司担任执行副总裁兼首席财务官，Matthew Friend将辞去执行副总裁兼首席财务官职务。耐克还表示，第四季度业绩预计基本符合先前指引。",
+    "full_content": "耐克宣布，David M. Denton将加入公司担任执行副总裁兼首席财务官，Matthew Friend将辞去执行副总裁兼首席财务官职务。耐克还表示，第四季度业绩预计基本符合先前指引。",
+    "sort_time": "1782246043040375",
+    "showTime": "2026-06-24 04:20:43",
+    "time": "2026-06-24 04:20:43",
+    "publish_time": "2026-06-24 04:20:43",
+    "raw_data": {
+      "code": "202606243780140375",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782246043040375",
+      "share": 0,
+      "showTime": "2026-06-24 04:20:43",
+      "stockList": [
+        "106.NKE"
+      ],
+      "summary": "耐克宣布，David M. Denton将加入公司担任执行副总裁兼首席财务官，Matthew Friend将辞去执行副总裁兼首席财务官职务。耐克还表示，第四季度业绩预计基本符合先前指引。",
+      "title": "耐克宣布，David M. Denton将加入公司担任执行副总裁兼首席财务官",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780140375.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.NKE"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "19d2488053b9d2cd",
     "code": "202606243780140092",
     "title": "美参议院通过决议 旨在限制特朗普对伊战争权力",
@@ -13,9 +641,9 @@
     "raw_data": {
       "code": "202606243780140092",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 5,
       "realSort": "1782245893040092",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-06-24 04:18:13",
       "stockList": [],
       "summary": "【美参议院通过决议 旨在限制特朗普对伊战争权力】当地时间6月23日，美国国会参议院以50票赞成、48票反对通过众议院此前已通过的关于伊朗的战争权力决议。这是相关决议首次获得国会两院通过。该决议要求总统在未经国会宣战或授权使用武力的情况下，结束美国对伊朗的军事行动。不过，由于该决议属于国会共同决议，不具有法律约束力，也无需总统签署，因此主要具有象征意义。",
@@ -29,8 +657,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 5,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -54,7 +682,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1782245113039616",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-06-24 04:05:13",
       "stockList": [
         "106.FDX"
@@ -73,7 +701,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -95,9 +723,9 @@
     "raw_data": {
       "code": "202606243780139529",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 34,
       "realSort": "1782244808039529",
-      "share": 3,
+      "share": 16,
       "showTime": "2026-06-24 04:00:08",
       "stockList": [],
       "summary": "【纳斯达克100指数收跌3.29% 美光科技跌超13%】美股三大指数集体收跌，道指跌0.09%，纳指跌2.21%，标普500指数跌1.43%，科技股集中度更高的纳斯达克100指数跌3.29%。芯片股下挫，费城半导体指数跌7.87%，闪迪、美光科技跌超13%，ARM跌超10%，高通、西部数据、应用材料跌超8%，阿斯麦、恩智浦跌超7%，台积电、英特尔跌超6%，AMD跌超5%，英伟达跌4.15%，博通跌超3%。SpaceX涨3%，终结三连跌。",
@@ -111,8 +739,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 3,
+    "comment_count": 34,
+    "share_count": 16,
     "tags": {
       "industries": [
         {
@@ -166,9 +794,9 @@
     "raw_data": {
       "code": "202606243780139229",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 8,
       "realSort": "1782244019039229",
-      "share": 4,
+      "share": 9,
       "showTime": "2026-06-24 03:46:59",
       "stockList": [],
       "summary": "【美国参议院投票决定暂停对伊朗的战争行动，除非特朗普获得国会的批准】美国参议院投票决定暂停对伊朗的战争行动，除非特朗普获得国会的批准。",
@@ -182,8 +810,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 4,
+    "comment_count": 8,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -344,7 +972,7 @@
     "raw_data": {
       "code": "202606243780138320",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1782242063038320",
       "share": 0,
       "showTime": "2026-06-24 03:14:23",
@@ -360,7 +988,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -422,7 +1050,7 @@
     "raw_data": {
       "code": "202606243780138136",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 5,
       "realSort": "1782241855038136",
       "share": 2,
       "showTime": "2026-06-24 03:10:55",
@@ -442,7 +1070,7 @@
       "106.LLY"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 5,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -465,7 +1093,7 @@
     "raw_data": {
       "code": "202606243780137764",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1782241500037764",
       "share": 1,
       "showTime": "2026-06-24 03:05:00",
@@ -481,7 +1109,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -582,7 +1210,7 @@
     "raw_data": {
       "code": "202606243780135187",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1782241085035187",
       "share": 0,
       "showTime": "2026-06-24 02:58:05",
@@ -598,7 +1226,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -839,6 +1467,45 @@
     }
   },
   {
+    "id": "3bbc2eeb207b8b8c",
+    "code": "202606243780134457",
+    "title": "聚焦提升上市公司五方面质效 上交所“提质增效重回报”专项行动升级",
+    "summary": "【聚焦提升上市公司五方面质效 上交所“提质增效重回报”专项行动升级】6月23日，上交所向全体沪市公司发出开展“提质增效重回报”2.0专项行动的公开倡议，标志着专项行动进入新阶段。本次倡议旨在巩固深化“提质增效重回报”专项行动成果，推动上市公司主动拥抱新一轮科技革命和产业变革，大力培育优质上市公司群体，切实增强投资者获得感，更好服务新质生产力和经济高质量发展。",
+    "content": "【聚焦提升上市公司五方面质效 上交所“提质增效重回报”专项行动升级】6月23日，上交所向全体沪市公司发出开展“提质增效重回报”2.0专项行动的公开倡议，标志着专项行动进入新阶段。本次倡议旨在巩固深化“提质增效重回报”专项行动成果，推动上市公司主动拥抱新一轮科技革命和产业变革，大力培育优质上市公司群体，切实增强投资者获得感，更好服务新质生产力和经济高质量发展。",
+    "full_content": "【聚焦提升上市公司五方面质效 上交所“提质增效重回报”专项行动升级】6月23日，上交所向全体沪市公司发出开展“提质增效重回报”2.0专项行动的公开倡议，标志着专项行动进入新阶段。本次倡议旨在巩固深化“提质增效重回报”专项行动成果，推动上市公司主动拥抱新一轮科技革命和产业变革，大力培育优质上市公司群体，切实增强投资者获得感，更好服务新质生产力和经济高质量发展。",
+    "sort_time": "1782238812034457",
+    "showTime": "2026-06-24 02:20:12",
+    "time": "2026-06-24 02:20:12",
+    "publish_time": "2026-06-24 02:20:12",
+    "raw_data": {
+      "code": "202606243780134457",
+      "image": [],
+      "pinglun_Num": 53,
+      "realSort": "1782238812034457",
+      "share": 39,
+      "showTime": "2026-06-24 02:20:12",
+      "stockList": [],
+      "summary": "【聚焦提升上市公司五方面质效 上交所“提质增效重回报”专项行动升级】6月23日，上交所向全体沪市公司发出开展“提质增效重回报”2.0专项行动的公开倡议，标志着专项行动进入新阶段。本次倡议旨在巩固深化“提质增效重回报”专项行动成果，推动上市公司主动拥抱新一轮科技革命和产业变革，大力培育优质上市公司群体，切实增强投资者获得感，更好服务新质生产力和经济高质量发展。",
+      "title": "聚焦提升上市公司五方面质效 上交所“提质增效重回报”专项行动升级",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780134457.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 53,
+    "share_count": 39,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "bcc285a2a8189602",
     "code": "202606243780132312",
     "title": "甲骨文公司股价跌至逾一个月以来的低点",
@@ -1011,6 +1678,69 @@
     }
   },
   {
+    "id": "cdf3053259d0b8cc",
+    "code": "202606243780131172",
+    "title": "“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”",
+    "summary": "【“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”】2026年游戏产业广受关注的新硬件SteamMachine，最终还是在“内存浩劫”的背景下交出了令生产商和消费者都不满意的定价。全球最大PC游戏发行平台Steam的母公司Valve本周宣布，这款6英寸方块主机的512GB基础款定价1049美元。若把存储提高至2TB，价格将来到1349美元（约合人民币9139元）。尽管在当下消费电子新品动辄上万的状况下，1000美元的定价本身并不高，问题在于这笔花销能买到什么样的配置。",
+    "content": "【“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”】2026年游戏产业广受关注的新硬件SteamMachine，最终还是在“内存浩劫”的背景下交出了令生产商和消费者都不满意的定价。全球最大PC游戏发行平台Steam的母公司Valve本周宣布，这款6英寸方块主机的512GB基础款定价1049美元。若把存储提高至2TB，价格将来到1349美元（约合人民币9139元）。尽管在当下消费电子新品动辄上万的状况下，1000美元的定价本身并不高，问题在于这笔花销能买到什么样的配置。",
+    "full_content": "【“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”】2026年游戏产业广受关注的新硬件SteamMachine，最终还是在“内存浩劫”的背景下交出了令生产商和消费者都不满意的定价。全球最大PC游戏发行平台Steam的母公司Valve本周宣布，这款6英寸方块主机的512GB基础款定价1049美元。若把存储提高至2TB，价格将来到1349美元（约合人民币9139元）。尽管在当下消费电子新品动辄上万的状况下，1000美元的定价本身并不高，问题在于这笔花销能买到什么样的配置。",
+    "sort_time": "1782237122031172",
+    "showTime": "2026-06-24 01:52:02",
+    "time": "2026-06-24 01:52:02",
+    "publish_time": "2026-06-24 01:52:02",
+    "raw_data": {
+      "code": "202606243780131172",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782237122031172",
+      "share": 0,
+      "showTime": "2026-06-24 01:52:02",
+      "stockList": [
+        "90.BK1301",
+        "90.BK1046"
+      ],
+      "summary": "【“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”】2026年游戏产业广受关注的新硬件SteamMachine，最终还是在“内存浩劫”的背景下交出了令生产商和消费者都不满意的定价。全球最大PC游戏发行平台Steam的母公司Valve本周宣布，这款6英寸方块主机的512GB基础款定价1049美元。若把存储提高至2TB，价格将来到1349美元（约合人民币9139元）。尽管在当下消费电子新品动辄上万的状况下，1000美元的定价本身并不高，问题在于这笔花销能买到什么样的配置。",
+      "title": "“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780131172.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1301",
+      "90.BK1046"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "消费电子"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C013",
+          "name": "消费电子",
+          "matched_keyword": "消费电子"
+        }
+      ],
+      "industry_ids": [
+        "I010103"
+      ],
+      "concept_ids": [
+        "C013"
+      ]
+    }
+  },
+  {
     "id": "5e10a5c6dc780a57",
     "code": "202606243780129046",
     "title": "法国巴黎卢浮宫博物馆宣布 受持续高温天气影响 自6月24日至27日 该馆每日闭馆时间由原定的18时提前至16时",
@@ -1147,7 +1877,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1782234967027028",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-06-24 01:16:07",
       "stockList": [],
       "summary": "美联储隔夜逆回购协议（RRP）周二使用规模为64.84亿美元（交易对手10家），上个交易日报39.25亿美元。",
@@ -1162,7 +1892,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1184,7 +1914,7 @@
     "raw_data": {
       "code": "202606243780126858",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1782234744026858",
       "share": 2,
       "showTime": "2026-06-24 01:12:24",
@@ -1200,7 +1930,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1348,7 +2078,7 @@
     "raw_data": {
       "code": "202606243780123164",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1782233348023164",
       "share": 1,
       "showTime": "2026-06-24 00:49:08",
@@ -1370,7 +2100,7 @@
       "1007.BK000300"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -1410,895 +2140,101 @@
     }
   },
   {
-    "id": "ceb4831735975e14",
-    "code": "202606243780121817",
-    "title": "加拿大央行行长发出警告 称过度投资美国构成全球金融风险",
-    "summary": "【加拿大央行行长发出警告 称过度投资美国构成全球金融风险】加拿大央行行长麦克莱姆发出警告称，对美国的过度投资正给全球金融体系带来更广泛的回调风险。他在巴黎发表讲话时指出，“大量流入美国的资本可能再次被错误配置，导致股票和信贷市场估值被推高，为痛苦的市场调整埋下隐患，\"麦克莱姆（Macklem）周二表示，\"这些资本流动可能突然逆转。无论出现哪种情况，由此产生的压力都可能波及到美国以外。\"麦克莱姆明确表示，全球失衡并非由单一国家造成，而是多种因素共同作用的结果：欧洲投资不足、美国储蓄率偏低等，这些因素促使全球资本不成比例地涌入美国。加拿大央行行长蒂夫·麦克莱姆”当资本流动过度时，可能会扩大贸易逆差、助长保护主义并扭曲资产价格。资本被错误配置，压力累积，金融稳定风险增加，他说。",
-    "content": "【加拿大央行行长发出警告 称过度投资美国构成全球金融风险】加拿大央行行长麦克莱姆发出警告称，对美国的过度投资正给全球金融体系带来更广泛的回调风险。他在巴黎发表讲话时指出，“大量流入美国的资本可能再次被错误配置，导致股票和信贷市场估值被推高，为痛苦的市场调整埋下隐患，\"麦克莱姆（Macklem）周二表示，\"这些资本流动可能突然逆转。无论出现哪种情况，由此产生的压力都可能波及到美国以外。\"麦克莱姆明确表示，全球失衡并非由单一国家造成，而是多种因素共同作用的结果：欧洲投资不足、美国储蓄率偏低等，这些因素促使全球资本不成比例地涌入美国。加拿大央行行长蒂夫·麦克莱姆”当资本流动过度时，可能会扩大贸易逆差、助长保护主义并扭曲资产价格。资本被错误配置，压力累积，金融稳定风险增加，他说。",
-    "full_content": "【加拿大央行行长发出警告 称过度投资美国构成全球金融风险】加拿大央行行长麦克莱姆发出警告称，对美国的过度投资正给全球金融体系带来更广泛的回调风险。他在巴黎发表讲话时指出，“大量流入美国的资本可能再次被错误配置，导致股票和信贷市场估值被推高，为痛苦的市场调整埋下隐患，\"麦克莱姆（Macklem）周二表示，\"这些资本流动可能突然逆转。无论出现哪种情况，由此产生的压力都可能波及到美国以外。\"麦克莱姆明确表示，全球失衡并非由单一国家造成，而是多种因素共同作用的结果：欧洲投资不足、美国储蓄率偏低等，这些因素促使全球资本不成比例地涌入美国。加拿大央行行长蒂夫·麦克莱姆”当资本流动过度时，可能会扩大贸易逆差、助长保护主义并扭曲资产价格。资本被错误配置，压力累积，金融稳定风险增加，他说。",
-    "sort_time": "1782232822021817",
-    "showTime": "2026-06-24 00:40:22",
-    "time": "2026-06-24 00:40:22",
-    "publish_time": "2026-06-24 00:40:22",
+    "id": "e6a5c756dbb6c7fa",
+    "code": "202606243780123354",
+    "title": "宁德时代看中的公司又有资本动作 富临精工子公司这次为何拉上资源企业？",
+    "summary": "【宁德时代看中的公司又有资本动作 富临精工子公司这次为何拉上资源企业？】6月23日晚间，富临精工发布公告，公司控股子公司江西升华新材料有限公司（以下简称“江西升华”）拟与德阳磷泰新材料集团有限公司（以下简称“磷泰集团”）、四川佰瑞德矿业有限责任公司（以下简称“佰瑞德矿业”）共同出资设立合资目标公司。",
+    "content": "【宁德时代看中的公司又有资本动作 富临精工子公司这次为何拉上资源企业？】6月23日晚间，富临精工发布公告，公司控股子公司江西升华新材料有限公司（以下简称“江西升华”）拟与德阳磷泰新材料集团有限公司（以下简称“磷泰集团”）、四川佰瑞德矿业有限责任公司（以下简称“佰瑞德矿业”）共同出资设立合资目标公司。",
+    "full_content": "【宁德时代看中的公司又有资本动作 富临精工子公司这次为何拉上资源企业？】6月23日晚间，富临精工发布公告，公司控股子公司江西升华新材料有限公司（以下简称“江西升华”）拟与德阳磷泰新材料集团有限公司（以下简称“磷泰集团”）、四川佰瑞德矿业有限责任公司（以下简称“佰瑞德矿业”）共同出资设立合资目标公司。",
+    "sort_time": "1782233212023354",
+    "showTime": "2026-06-24 00:46:52",
+    "time": "2026-06-24 00:46:52",
+    "publish_time": "2026-06-24 00:46:52",
     "raw_data": {
-      "code": "202606243780121817",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1782232822021817",
-      "share": 3,
-      "showTime": "2026-06-24 00:40:22",
-      "stockList": [],
-      "summary": "【加拿大央行行长发出警告 称过度投资美国构成全球金融风险】加拿大央行行长麦克莱姆发出警告称，对美国的过度投资正给全球金融体系带来更广泛的回调风险。他在巴黎发表讲话时指出，“大量流入美国的资本可能再次被错误配置，导致股票和信贷市场估值被推高，为痛苦的市场调整埋下隐患，\"麦克莱姆（Macklem）周二表示，\"这些资本流动可能突然逆转。无论出现哪种情况，由此产生的压力都可能波及到美国以外。\"麦克莱姆明确表示，全球失衡并非由单一国家造成，而是多种因素共同作用的结果：欧洲投资不足、美国储蓄率偏低等，这些因素促使全球资本不成比例地涌入美国。加拿大央行行长蒂夫·麦克莱姆”当资本流动过度时，可能会扩大贸易逆差、助长保护主义并扭曲资产价格。资本被错误配置，压力累积，金融稳定风险增加，他说。",
-      "title": "加拿大央行行长发出警告 称过度投资美国构成全球金融风险",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606243780121817.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "6dd342da7e917206",
-    "code": "202606243780121184",
-    "title": "伊朗总统佩泽希齐扬表示 在导弹能力问题上将“绝不妥协”",
-    "summary": "伊朗总统佩泽希齐扬表示，在导弹能力问题上将“绝不妥协”。",
-    "content": "伊朗总统佩泽希齐扬表示，在导弹能力问题上将“绝不妥协”。",
-    "full_content": "伊朗总统佩泽希齐扬表示，在导弹能力问题上将“绝不妥协”。",
-    "sort_time": "1782232704021184",
-    "showTime": "2026-06-24 00:38:24",
-    "time": "2026-06-24 00:38:24",
-    "publish_time": "2026-06-24 00:38:24",
-    "raw_data": {
-      "code": "202606243780121184",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1782232704021184",
-      "share": 1,
-      "showTime": "2026-06-24 00:38:24",
-      "stockList": [],
-      "summary": "伊朗总统佩泽希齐扬表示，在导弹能力问题上将“绝不妥协”。",
-      "title": "伊朗总统佩泽希齐扬表示 在导弹能力问题上将“绝不妥协”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606243780121184.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f76fe836e556c4ff",
-    "code": "202606243780120724",
-    "title": "德意志银行上调对短期美债收益率的预测",
-    "summary": "【德意志银行上调对短期美债收益率的预测】德意志银行经济学家MatthewRaskin、StevenZang和AndrewFu在周二的研报中写道，经过上周的联邦公开市场委员会会议后，该行如今预计美联储今年将分别在9月和12月加息，每次加息25个基点，使联邦基金利率达到4.1%。报告指出，此次修正上调了该行对短期美债收益率的预测——预计年底2年期美债收益率将达到4.3%（较此前的预测上调35个基点）。鉴于该行假设到2028年年中加息将逐步撤回，因此对长债收益率的影响较为有限。德意志银行目前预计年底10年期美债收益率为4.8%（较此前的预测上调10个基点）。与市场远期相比，该行对短端收益率的预测大体一致，但对收益率曲线的预测更为陡峭。",
-    "content": "【德意志银行上调对短期美债收益率的预测】德意志银行经济学家MatthewRaskin、StevenZang和AndrewFu在周二的研报中写道，经过上周的联邦公开市场委员会会议后，该行如今预计美联储今年将分别在9月和12月加息，每次加息25个基点，使联邦基金利率达到4.1%。报告指出，此次修正上调了该行对短期美债收益率的预测——预计年底2年期美债收益率将达到4.3%（较此前的预测上调35个基点）。鉴于该行假设到2028年年中加息将逐步撤回，因此对长债收益率的影响较为有限。德意志银行目前预计年底10年期美债收益率为4.8%（较此前的预测上调10个基点）。与市场远期相比，该行对短端收益率的预测大体一致，但对收益率曲线的预测更为陡峭。",
-    "full_content": "【德意志银行上调对短期美债收益率的预测】德意志银行经济学家MatthewRaskin、StevenZang和AndrewFu在周二的研报中写道，经过上周的联邦公开市场委员会会议后，该行如今预计美联储今年将分别在9月和12月加息，每次加息25个基点，使联邦基金利率达到4.1%。报告指出，此次修正上调了该行对短期美债收益率的预测——预计年底2年期美债收益率将达到4.3%（较此前的预测上调35个基点）。鉴于该行假设到2028年年中加息将逐步撤回，因此对长债收益率的影响较为有限。德意志银行目前预计年底10年期美债收益率为4.8%（较此前的预测上调10个基点）。与市场远期相比，该行对短端收益率的预测大体一致，但对收益率曲线的预测更为陡峭。",
-    "sort_time": "1782232343020724",
-    "showTime": "2026-06-24 00:32:23",
-    "time": "2026-06-24 00:32:23",
-    "publish_time": "2026-06-24 00:32:23",
-    "raw_data": {
-      "code": "202606243780120724",
+      "code": "202606243780123354",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1782232343020724",
+      "realSort": "1782233212023354",
       "share": 0,
-      "showTime": "2026-06-24 00:32:23",
-      "stockList": [],
-      "summary": "【德意志银行上调对短期美债收益率的预测】德意志银行经济学家MatthewRaskin、StevenZang和AndrewFu在周二的研报中写道，经过上周的联邦公开市场委员会会议后，该行如今预计美联储今年将分别在9月和12月加息，每次加息25个基点，使联邦基金利率达到4.1%。报告指出，此次修正上调了该行对短期美债收益率的预测——预计年底2年期美债收益率将达到4.3%（较此前的预测上调35个基点）。鉴于该行假设到2028年年中加息将逐步撤回，因此对长债收益率的影响较为有限。德意志银行目前预计年底10年期美债收益率为4.8%（较此前的预测上调10个基点）。与市场远期相比，该行对短端收益率的预测大体一致，但对收益率曲线的预测更为陡峭。",
-      "title": "德意志银行上调对短期美债收益率的预测",
-      "titleColor": 0
+      "showTime": "2026-06-24 00:46:52",
+      "stockList": [
+        "90.BK0574",
+        "1007.BK000386"
+      ],
+      "summary": "【宁德时代看中的公司又有资本动作 富临精工子公司这次为何拉上资源企业？】6月23日晚间，富临精工发布公告，公司控股子公司江西升华新材料有限公司（以下简称“江西升华”）拟与德阳磷泰新材料集团有限公司（以下简称“磷泰集团”）、四川佰瑞德矿业有限责任公司（以下简称“佰瑞德矿业”）共同出资设立合资目标公司。",
+      "title": "宁德时代看中的公司又有资本动作 富临精工子公司这次为何拉上资源企业？",
+      "titleColor": 3
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606243780120724.html",
-    "category": "宏观",
-    "importance": 5,
+    "url": "https://kuaixun.eastmoney.com/news/202606243780123354.html",
+    "category": "其他",
+    "importance": 6,
     "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
+    "related_stocks": [
+      "90.BK0574",
+      "1007.BK000386"
+    ],
+    "has_stock_mention": true,
     "comment_count": 0,
     "share_count": 0,
     "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        },
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "基金"
-        }
-      ],
+      "industries": [],
       "concepts": [
         {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
+          "id": "C810",
+          "name": "宁德时代概念",
+          "matched_keyword": "宁德时代"
         }
       ],
-      "industry_ids": [
-        "I020101",
-        "I020201"
-      ],
+      "industry_ids": [],
       "concept_ids": [
-        "C402"
+        "C810"
       ]
     }
   },
   {
-    "id": "f2a2144f778989c6",
-    "code": "202606243780119591",
-    "title": "SpaceX发行的高等级债券据悉获得了890亿美元认购需求",
-    "summary": "SpaceX发行的高等级债券据悉获得了890亿美元认购需求。",
-    "content": "SpaceX发行的高等级债券据悉获得了890亿美元认购需求。",
-    "full_content": "SpaceX发行的高等级债券据悉获得了890亿美元认购需求。",
-    "sort_time": "1782231977019591",
-    "showTime": "2026-06-24 00:26:17",
-    "time": "2026-06-24 00:26:17",
-    "publish_time": "2026-06-24 00:26:17",
+    "id": "aa471374d05618ba",
+    "code": "202606243780123288",
+    "title": "特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署",
+    "summary": "【特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署】美国能源部当地时间周二宣布，将向公用事业公司和能源企业提供总额175亿美元的贷款支持，以加快全美10座大型核反应堆的建设和部署。",
+    "content": "【特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署】美国能源部当地时间周二宣布，将向公用事业公司和能源企业提供总额175亿美元的贷款支持，以加快全美10座大型核反应堆的建设和部署。",
+    "full_content": "【特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署】美国能源部当地时间周二宣布，将向公用事业公司和能源企业提供总额175亿美元的贷款支持，以加快全美10座大型核反应堆的建设和部署。",
+    "sort_time": "1782233087023288",
+    "showTime": "2026-06-24 00:44:47",
+    "time": "2026-06-24 00:44:47",
+    "publish_time": "2026-06-24 00:44:47",
     "raw_data": {
-      "code": "202606243780119591",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1782231977019591",
-      "share": 4,
-      "showTime": "2026-06-24 00:26:17",
-      "stockList": [
-        "105.SPCX"
-      ],
-      "summary": "SpaceX发行的高等级债券据悉获得了890亿美元认购需求。",
-      "title": "SpaceX发行的高等级债券据悉获得了890亿美元认购需求",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606243780119591.html",
-    "category": "债券",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.SPCX"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c43e1c77053b1d3a",
-    "code": "202606243780117932",
-    "title": "欧洲央行副行长Vujcic预计通胀将在更长时间内维持高位",
-    "summary": "【欧洲央行副行长Vujcic预计通胀将在更长时间内维持高位】欧洲央行副行长BorisVujcic表示，考虑到通胀将在更长时间内维持高位，欧洲央行加息的决定是“稳健的”。他周二在伦敦表示，与此同时，大多数长期通胀预期仍与欧洲央行2%的目标水平保持一致，并且目前的薪资增长并未显示出任何连锁反应。“整体通胀和核心通胀都将在更长时间内维持高位——至2027年，”本月初接替LuisdeGuindos出任欧洲央行副行长的Vujcic表示。“这基本上也是你们在上次会议上看到利率行动的理由。”欧洲央行于6月11日将利率上调25个基点，目前正在评估未来几个月是否需要进一步收紧政策。",
-    "content": "【欧洲央行副行长Vujcic预计通胀将在更长时间内维持高位】欧洲央行副行长BorisVujcic表示，考虑到通胀将在更长时间内维持高位，欧洲央行加息的决定是“稳健的”。他周二在伦敦表示，与此同时，大多数长期通胀预期仍与欧洲央行2%的目标水平保持一致，并且目前的薪资增长并未显示出任何连锁反应。“整体通胀和核心通胀都将在更长时间内维持高位——至2027年，”本月初接替LuisdeGuindos出任欧洲央行副行长的Vujcic表示。“这基本上也是你们在上次会议上看到利率行动的理由。”欧洲央行于6月11日将利率上调25个基点，目前正在评估未来几个月是否需要进一步收紧政策。",
-    "full_content": "【欧洲央行副行长Vujcic预计通胀将在更长时间内维持高位】欧洲央行副行长BorisVujcic表示，考虑到通胀将在更长时间内维持高位，欧洲央行加息的决定是“稳健的”。他周二在伦敦表示，与此同时，大多数长期通胀预期仍与欧洲央行2%的目标水平保持一致，并且目前的薪资增长并未显示出任何连锁反应。“整体通胀和核心通胀都将在更长时间内维持高位——至2027年，”本月初接替LuisdeGuindos出任欧洲央行副行长的Vujcic表示。“这基本上也是你们在上次会议上看到利率行动的理由。”欧洲央行于6月11日将利率上调25个基点，目前正在评估未来几个月是否需要进一步收紧政策。",
-    "sort_time": "1782231485017932",
-    "showTime": "2026-06-24 00:18:05",
-    "time": "2026-06-24 00:18:05",
-    "publish_time": "2026-06-24 00:18:05",
-    "raw_data": {
-      "code": "202606243780117932",
+      "code": "202606243780123288",
       "image": [],
       "pinglun_Num": 1,
-      "realSort": "1782231485017932",
-      "share": 0,
-      "showTime": "2026-06-24 00:18:05",
-      "stockList": [],
-      "summary": "【欧洲央行副行长Vujcic预计通胀将在更长时间内维持高位】欧洲央行副行长BorisVujcic表示，考虑到通胀将在更长时间内维持高位，欧洲央行加息的决定是“稳健的”。他周二在伦敦表示，与此同时，大多数长期通胀预期仍与欧洲央行2%的目标水平保持一致，并且目前的薪资增长并未显示出任何连锁反应。“整体通胀和核心通胀都将在更长时间内维持高位——至2027年，”本月初接替LuisdeGuindos出任欧洲央行副行长的Vujcic表示。“这基本上也是你们在上次会议上看到利率行动的理由。”欧洲央行于6月11日将利率上调25个基点，目前正在评估未来几个月是否需要进一步收紧政策。",
-      "title": "欧洲央行副行长Vujcic预计通胀将在更长时间内维持高位",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606243780117932.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "12f55d93f51a167b",
-    "code": "202606243780114710",
-    "title": "可靠股份：股东临时提案不予提交股东会审议",
-    "summary": "【可靠股份：股东临时提案不予提交股东会审议】可靠股份(301009.SZ)公告称，公司收到股东鲍佳提交的临时提案，包括选举独立董事及罢免金利伟非独立董事职务的议案。董事会审查后认为罢免议案违反法律规定，决定不予提交2026年第二次临时股东会审议。",
-    "content": "【可靠股份：股东临时提案不予提交股东会审议】可靠股份(301009.SZ)公告称，公司收到股东鲍佳提交的临时提案，包括选举独立董事及罢免金利伟非独立董事职务的议案。董事会审查后认为罢免议案违反法律规定，决定不予提交2026年第二次临时股东会审议。",
-    "full_content": "【可靠股份：股东临时提案不予提交股东会审议】可靠股份(301009.SZ)公告称，公司收到股东鲍佳提交的临时提案，包括选举独立董事及罢免金利伟非独立董事职务的议案。董事会审查后认为罢免议案违反法律规定，决定不予提交2026年第二次临时股东会审议。",
-    "sort_time": "1782230404014710",
-    "showTime": "2026-06-24 00:00:04",
-    "time": "2026-06-24 00:00:04",
-    "publish_time": "2026-06-24 00:00:04",
-    "raw_data": {
-      "code": "202606243780114710",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1782230404014710",
-      "share": 0,
-      "showTime": "2026-06-24 00:00:04",
-      "stockList": [
-        "0.301009"
-      ],
-      "summary": "【可靠股份：股东临时提案不予提交股东会审议】可靠股份(301009.SZ)公告称，公司收到股东鲍佳提交的临时提案，包括选举独立董事及罢免金利伟非独立董事职务的议案。董事会审查后认为罢免议案违反法律规定，决定不予提交2026年第二次临时股东会审议。",
-      "title": "可靠股份：股东临时提案不予提交股东会审议",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606243780114710.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.301009"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a8a93bc95b950f5d",
-    "code": "202606233780114832",
-    "title": "SpaceX股价拉升",
-    "summary": "【SpaceX股价拉升】SpaceX股价拉升，现涨4.4%，逆转了一度高达5%的跌幅。",
-    "content": "【SpaceX股价拉升】SpaceX股价拉升，现涨4.4%，逆转了一度高达5%的跌幅。",
-    "full_content": "【SpaceX股价拉升】SpaceX股价拉升，现涨4.4%，逆转了一度高达5%的跌幅。",
-    "sort_time": "1782230323014832",
-    "showTime": "2026-06-23 23:58:43",
-    "time": "2026-06-23 23:58:43",
-    "publish_time": "2026-06-23 23:58:43",
-    "raw_data": {
-      "code": "202606233780114832",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1782230323014832",
-      "share": 4,
-      "showTime": "2026-06-23 23:58:43",
-      "stockList": [
-        "105.SPCX"
-      ],
-      "summary": "【SpaceX股价拉升】SpaceX股价拉升，现涨4.4%，逆转了一度高达5%的跌幅。",
-      "title": "SpaceX股价拉升",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780114832.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.SPCX"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "19255b519e545845",
-    "code": "202606233780115010",
-    "title": "特朗普政府将提供175亿美元贷款 推动美国大型核电站建设",
-    "summary": "【特朗普政府将提供175亿美元贷款 推动美国大型核电站建设】特朗普政府将提供175亿美元贷款，用于支持公用事业公司订购西屋电气公司(WestinghouseElectricCo.)设计的反应堆设备，此举旨在重振美国大型核电站建设。美国能源部周二宣布的这笔资金将以有条件的形式提供，最多包含五笔贷款，面向将各建造两座反应堆的公用事业公司及其他能源企业。美国能源部表示，西屋电气已与七家潜在合作方签署意向书，相关项目均已确定建设地点。该部门表示，在最终确定名单前不会披露相关公用事业公司的名称。美国总统唐纳德·特朗普将核反应堆视为数据中心和经济增长的核心电力来源。",
-    "content": "【特朗普政府将提供175亿美元贷款 推动美国大型核电站建设】特朗普政府将提供175亿美元贷款，用于支持公用事业公司订购西屋电气公司(WestinghouseElectricCo.)设计的反应堆设备，此举旨在重振美国大型核电站建设。美国能源部周二宣布的这笔资金将以有条件的形式提供，最多包含五笔贷款，面向将各建造两座反应堆的公用事业公司及其他能源企业。美国能源部表示，西屋电气已与七家潜在合作方签署意向书，相关项目均已确定建设地点。该部门表示，在最终确定名单前不会披露相关公用事业公司的名称。美国总统唐纳德·特朗普将核反应堆视为数据中心和经济增长的核心电力来源。",
-    "full_content": "【特朗普政府将提供175亿美元贷款 推动美国大型核电站建设】特朗普政府将提供175亿美元贷款，用于支持公用事业公司订购西屋电气公司(WestinghouseElectricCo.)设计的反应堆设备，此举旨在重振美国大型核电站建设。美国能源部周二宣布的这笔资金将以有条件的形式提供，最多包含五笔贷款，面向将各建造两座反应堆的公用事业公司及其他能源企业。美国能源部表示，西屋电气已与七家潜在合作方签署意向书，相关项目均已确定建设地点。该部门表示，在最终确定名单前不会披露相关公用事业公司的名称。美国总统唐纳德·特朗普将核反应堆视为数据中心和经济增长的核心电力来源。",
-    "sort_time": "1782230265015010",
-    "showTime": "2026-06-23 23:57:45",
-    "time": "2026-06-23 23:57:45",
-    "publish_time": "2026-06-23 23:57:45",
-    "raw_data": {
-      "code": "202606233780115010",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1782230265015010",
-      "share": 12,
-      "showTime": "2026-06-23 23:57:45",
+      "realSort": "1782233087023288",
+      "share": 8,
+      "showTime": "2026-06-24 00:44:47",
       "stockList": [
         "90.BK0577",
         "150.014238"
       ],
-      "summary": "【特朗普政府将提供175亿美元贷款 推动美国大型核电站建设】特朗普政府将提供175亿美元贷款，用于支持公用事业公司订购西屋电气公司(WestinghouseElectricCo.)设计的反应堆设备，此举旨在重振美国大型核电站建设。美国能源部周二宣布的这笔资金将以有条件的形式提供，最多包含五笔贷款，面向将各建造两座反应堆的公用事业公司及其他能源企业。美国能源部表示，西屋电气已与七家潜在合作方签署意向书，相关项目均已确定建设地点。该部门表示，在最终确定名单前不会披露相关公用事业公司的名称。美国总统唐纳德·特朗普将核反应堆视为数据中心和经济增长的核心电力来源。",
-      "title": "特朗普政府将提供175亿美元贷款 推动美国大型核电站建设",
-      "titleColor": 0
+      "summary": "【特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署】美国能源部当地时间周二宣布，将向公用事业公司和能源企业提供总额175亿美元的贷款支持，以加快全美10座大型核反应堆的建设和部署。",
+      "title": "特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署",
+      "titleColor": 3
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780115010.html",
+    "url": "https://kuaixun.eastmoney.com/news/202606243780123288.html",
     "category": "其他",
     "importance": 6,
-    "sentiment": "bullish",
+    "sentiment": "neutral",
     "related_stocks": [
       "90.BK0577",
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 12,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C006",
-          "name": "大数据",
-          "matched_keyword": "数据中心"
-        },
-        {
-          "id": "C109",
-          "name": "核能",
-          "matched_keyword": "核电站"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C006",
-        "C109"
-      ]
-    }
-  },
-  {
-    "id": "7e49ed5694ca7286",
-    "code": "202606233780113412",
-    "title": "交大铁发：1718.44万股限售股6月26日解禁",
-    "summary": "【交大铁发：1718.44万股限售股6月26日解禁】交大铁发公告，本次解除限售股份合计1718.44万股，占公司总股本16.69%，可交易时间为2026年6月26日。",
-    "content": "【交大铁发：1718.44万股限售股6月26日解禁】交大铁发公告，本次解除限售股份合计1718.44万股，占公司总股本16.69%，可交易时间为2026年6月26日。",
-    "full_content": "【交大铁发：1718.44万股限售股6月26日解禁】交大铁发公告，本次解除限售股份合计1718.44万股，占公司总股本16.69%，可交易时间为2026年6月26日。",
-    "sort_time": "1782229595013412",
-    "showTime": "2026-06-23 23:46:35",
-    "time": "2026-06-23 23:46:35",
-    "publish_time": "2026-06-23 23:46:35",
-    "raw_data": {
-      "code": "202606233780113412",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1782229595013412",
-      "share": 0,
-      "showTime": "2026-06-23 23:46:35",
-      "stockList": [
-        "0.920027"
-      ],
-      "summary": "【交大铁发：1718.44万股限售股6月26日解禁】交大铁发公告，本次解除限售股份合计1718.44万股，占公司总股本16.69%，可交易时间为2026年6月26日。",
-      "title": "交大铁发：1718.44万股限售股6月26日解禁",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780113412.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920027"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e03f83b8a8c255c3",
-    "code": "202606233780112865",
-    "title": "锦波生物：聘任高嵩为总经理",
-    "summary": "【锦波生物：聘任高嵩为总经理】锦波生物公告，公司聘任高嵩为总经理，原总经理杨霞因公司战略调整离任该职，仍担任董事长等职务。",
-    "content": "【锦波生物：聘任高嵩为总经理】锦波生物公告，公司聘任高嵩为总经理，原总经理杨霞因公司战略调整离任该职，仍担任董事长等职务。",
-    "full_content": "【锦波生物：聘任高嵩为总经理】锦波生物公告，公司聘任高嵩为总经理，原总经理杨霞因公司战略调整离任该职，仍担任董事长等职务。",
-    "sort_time": "1782229587012865",
-    "showTime": "2026-06-23 23:46:27",
-    "time": "2026-06-23 23:46:27",
-    "publish_time": "2026-06-23 23:46:27",
-    "raw_data": {
-      "code": "202606233780112865",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1782229587012865",
-      "share": 0,
-      "showTime": "2026-06-23 23:46:27",
-      "stockList": [
-        "0.920982"
-      ],
-      "summary": "【锦波生物：聘任高嵩为总经理】锦波生物公告，公司聘任高嵩为总经理，原总经理杨霞因公司战略调整离任该职，仍担任董事长等职务。",
-      "title": "锦波生物：聘任高嵩为总经理",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780112865.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920982"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "14627620a515853a",
-    "code": "202606233780112314",
-    "title": "纳科诺尔：签订6.09亿元辊压分切一体机采购合同",
-    "summary": "【纳科诺尔：签订6.09亿元辊压分切一体机采购合同】纳科诺尔公告，近日与国内某头部客户签订《采购合同》，标的为辊压分切一体机，总金额6.09亿元。",
-    "content": "【纳科诺尔：签订6.09亿元辊压分切一体机采购合同】纳科诺尔公告，近日与国内某头部客户签订《采购合同》，标的为辊压分切一体机，总金额6.09亿元。",
-    "full_content": "【纳科诺尔：签订6.09亿元辊压分切一体机采购合同】纳科诺尔公告，近日与国内某头部客户签订《采购合同》，标的为辊压分切一体机，总金额6.09亿元。",
-    "sort_time": "1782229578012314",
-    "showTime": "2026-06-23 23:46:18",
-    "time": "2026-06-23 23:46:18",
-    "publish_time": "2026-06-23 23:46:18",
-    "raw_data": {
-      "code": "202606233780112314",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1782229578012314",
-      "share": 2,
-      "showTime": "2026-06-23 23:46:18",
-      "stockList": [
-        "0.920522"
-      ],
-      "summary": "【纳科诺尔：签订6.09亿元辊压分切一体机采购合同】纳科诺尔公告，近日与国内某头部客户签订《采购合同》，标的为辊压分切一体机，总金额6.09亿元。",
-      "title": "纳科诺尔：签订6.09亿元辊压分切一体机采购合同",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780112314.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920522"
-    ],
-    "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 2,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "b66d0d85b8a6dd7c",
-    "code": "202606233780113022",
-    "title": "创远信科：取得1项发明专利证书",
-    "summary": "【创远信科：取得1项发明专利证书】创远信科公告，2026年6月19日公司收到国家知识产权局下发的1项发明专利证书，专利名称为基于AOA与最小二乘法实现5GNR基站位置定位的方法。",
-    "content": "【创远信科：取得1项发明专利证书】创远信科公告，2026年6月19日公司收到国家知识产权局下发的1项发明专利证书，专利名称为基于AOA与最小二乘法实现5GNR基站位置定位的方法。",
-    "full_content": "【创远信科：取得1项发明专利证书】创远信科公告，2026年6月19日公司收到国家知识产权局下发的1项发明专利证书，专利名称为基于AOA与最小二乘法实现5GNR基站位置定位的方法。",
-    "sort_time": "1782229571013022",
-    "showTime": "2026-06-23 23:46:11",
-    "time": "2026-06-23 23:46:11",
-    "publish_time": "2026-06-23 23:46:11",
-    "raw_data": {
-      "code": "202606233780113022",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1782229571013022",
-      "share": 0,
-      "showTime": "2026-06-23 23:46:11",
-      "stockList": [
-        "150.012372",
-        "0.920961"
-      ],
-      "summary": "【创远信科：取得1项发明专利证书】创远信科公告，2026年6月19日公司收到国家知识产权局下发的1项发明专利证书，专利名称为基于AOA与最小二乘法实现5GNR基站位置定位的方法。",
-      "title": "创远信科：取得1项发明专利证书",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780113022.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.012372",
-      "0.920961"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010104",
-          "name": "通信设备",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "基站"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "基站"
-        }
-      ],
-      "industry_ids": [
-        "I010104"
-      ],
-      "concept_ids": [
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "8ffa201e0f2a6db3",
-    "code": "202606233780112777",
-    "title": "联迪信息：近期公司经营情况及内外部经营环境未发生重大变化",
-    "summary": "【联迪信息：近期公司经营情况及内外部经营环境未发生重大变化】联迪信息发布异动公告，前期公告的事项不存在需要更正、补充之处；未发现可能或已经对本公司股票交易价格产生较大影响的媒体报道或市场传闻，不涉及热点概念事项；近期公司经营情况及内外部经营环境未发生重大变化；公司、控股股东和实际控制人不存在关于本公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项；不存在其他可能对股价产生较大影响的重大事件。",
-    "content": "【联迪信息：近期公司经营情况及内外部经营环境未发生重大变化】联迪信息发布异动公告，前期公告的事项不存在需要更正、补充之处；未发现可能或已经对本公司股票交易价格产生较大影响的媒体报道或市场传闻，不涉及热点概念事项；近期公司经营情况及内外部经营环境未发生重大变化；公司、控股股东和实际控制人不存在关于本公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项；不存在其他可能对股价产生较大影响的重大事件。",
-    "full_content": "【联迪信息：近期公司经营情况及内外部经营环境未发生重大变化】联迪信息发布异动公告，前期公告的事项不存在需要更正、补充之处；未发现可能或已经对本公司股票交易价格产生较大影响的媒体报道或市场传闻，不涉及热点概念事项；近期公司经营情况及内外部经营环境未发生重大变化；公司、控股股东和实际控制人不存在关于本公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项；不存在其他可能对股价产生较大影响的重大事件。",
-    "sort_time": "1782229561012777",
-    "showTime": "2026-06-23 23:46:01",
-    "time": "2026-06-23 23:46:01",
-    "publish_time": "2026-06-23 23:46:01",
-    "raw_data": {
-      "code": "202606233780112777",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1782229561012777",
-      "share": 1,
-      "showTime": "2026-06-23 23:46:01",
-      "stockList": [
-        "0.920790"
-      ],
-      "summary": "【联迪信息：近期公司经营情况及内外部经营环境未发生重大变化】联迪信息发布异动公告，前期公告的事项不存在需要更正、补充之处；未发现可能或已经对本公司股票交易价格产生较大影响的媒体报道或市场传闻，不涉及热点概念事项；近期公司经营情况及内外部经营环境未发生重大变化；公司、控股股东和实际控制人不存在关于本公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项；不存在其他可能对股价产生较大影响的重大事件。",
-      "title": "联迪信息：近期公司经营情况及内外部经营环境未发生重大变化",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780112777.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920790"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e6ed09eda1676421",
-    "code": "202606233780112686",
-    "title": "德瑞锂电：实控人一致行动人拟增持70万-140万股",
-    "summary": "【德瑞锂电：实控人一致行动人拟增持70万-140万股】德瑞锂电公告，公司实控人之一致行动人张健通过大宗交易首次增持公司股份77.78万股，耗资1011.11万元，当前持股比例升至4.24%；后续3个月内拟择机以集中竞价或大宗交易方式增持70万-140万股。",
-    "content": "【德瑞锂电：实控人一致行动人拟增持70万-140万股】德瑞锂电公告，公司实控人之一致行动人张健通过大宗交易首次增持公司股份77.78万股，耗资1011.11万元，当前持股比例升至4.24%；后续3个月内拟择机以集中竞价或大宗交易方式增持70万-140万股。",
-    "full_content": "【德瑞锂电：实控人一致行动人拟增持70万-140万股】德瑞锂电公告，公司实控人之一致行动人张健通过大宗交易首次增持公司股份77.78万股，耗资1011.11万元，当前持股比例升至4.24%；后续3个月内拟择机以集中竞价或大宗交易方式增持70万-140万股。",
-    "sort_time": "1782229555012686",
-    "showTime": "2026-06-23 23:45:55",
-    "time": "2026-06-23 23:45:55",
-    "publish_time": "2026-06-23 23:45:55",
-    "raw_data": {
-      "code": "202606233780112686",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1782229555012686",
-      "share": 0,
-      "showTime": "2026-06-23 23:45:55",
-      "stockList": [
-        "0.920523"
-      ],
-      "summary": "【德瑞锂电：实控人一致行动人拟增持70万-140万股】德瑞锂电公告，公司实控人之一致行动人张健通过大宗交易首次增持公司股份77.78万股，耗资1011.11万元，当前持股比例升至4.24%；后续3个月内拟择机以集中竞价或大宗交易方式增持70万-140万股。",
-      "title": "德瑞锂电：实控人一致行动人拟增持70万-140万股",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780112686.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920523"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010201",
-          "name": "锂离子电池制造",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "锂电"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C102",
-          "name": "锂电池",
-          "matched_keyword": "锂电"
-        }
-      ],
-      "industry_ids": [
-        "I010201"
-      ],
-      "concept_ids": [
-        "C102"
-      ]
-    }
-  },
-  {
-    "id": "5d2942a05870a0ca",
-    "code": "202606233780112492",
-    "title": "同力股份：拟回购500万-1000万股",
-    "summary": "【同力股份：拟回购500万-1000万股】同力股份公告，公司拟以集中竞价方式回购A股500万至1000万股，占当前总股本1.08%-2.16%，用于实施员工持股计划或者股权激励。预计回购资金总额1亿至2亿元，回购价格上限20元/股。",
-    "content": "【同力股份：拟回购500万-1000万股】同力股份公告，公司拟以集中竞价方式回购A股500万至1000万股，占当前总股本1.08%-2.16%，用于实施员工持股计划或者股权激励。预计回购资金总额1亿至2亿元，回购价格上限20元/股。",
-    "full_content": "【同力股份：拟回购500万-1000万股】同力股份公告，公司拟以集中竞价方式回购A股500万至1000万股，占当前总股本1.08%-2.16%，用于实施员工持股计划或者股权激励。预计回购资金总额1亿至2亿元，回购价格上限20元/股。",
-    "sort_time": "1782229547012492",
-    "showTime": "2026-06-23 23:45:47",
-    "time": "2026-06-23 23:45:47",
-    "publish_time": "2026-06-23 23:45:47",
-    "raw_data": {
-      "code": "202606233780112492",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1782229547012492",
-      "share": 1,
-      "showTime": "2026-06-23 23:45:47",
-      "stockList": [
-        "0.920599"
-      ],
-      "summary": "【同力股份：拟回购500万-1000万股】同力股份公告，公司拟以集中竞价方式回购A股500万至1000万股，占当前总股本1.08%-2.16%，用于实施员工持股计划或者股权激励。预计回购资金总额1亿至2亿元，回购价格上限20元/股。",
-      "title": "同力股份：拟回购500万-1000万股",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780112492.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920599"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f6aa759d0f63ad46",
-    "code": "202606233780113129",
-    "title": "骑士乳业：股东拟减持不超402.7万股",
-    "summary": "【骑士乳业：股东拟减持不超402.7万股】骑士乳业公告，持股5%以上股东田胜利、董事高智利及实控人一致行动人黄立刚、杜旭林拟合计减持不超402.7万股。",
-    "content": "【骑士乳业：股东拟减持不超402.7万股】骑士乳业公告，持股5%以上股东田胜利、董事高智利及实控人一致行动人黄立刚、杜旭林拟合计减持不超402.7万股。",
-    "full_content": "【骑士乳业：股东拟减持不超402.7万股】骑士乳业公告，持股5%以上股东田胜利、董事高智利及实控人一致行动人黄立刚、杜旭林拟合计减持不超402.7万股。",
-    "sort_time": "1782229535013129",
-    "showTime": "2026-06-23 23:45:35",
-    "time": "2026-06-23 23:45:35",
-    "publish_time": "2026-06-23 23:45:35",
-    "raw_data": {
-      "code": "202606233780113129",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1782229535013129",
-      "share": 0,
-      "showTime": "2026-06-23 23:45:35",
-      "stockList": [
-        "0.920786"
-      ],
-      "summary": "【骑士乳业：股东拟减持不超402.7万股】骑士乳业公告，持股5%以上股东田胜利、董事高智利及实控人一致行动人黄立刚、杜旭林拟合计减持不超402.7万股。",
-      "title": "骑士乳业：股东拟减持不超402.7万股",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780113129.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920786"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C602",
-          "name": "食品饮料",
-          "matched_keyword": "乳业"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C602"
-      ]
-    }
-  },
-  {
-    "id": "99d5ee86c1d28197",
-    "code": "202606233780113290",
-    "title": "巴基斯坦总理谢里夫表示 谅解备忘录并未提及弹道导弹  伊朗方面无意展开相关磋商",
-    "summary": "巴基斯坦总理谢里夫表示，谅解备忘录并未提及弹道导弹，伊朗方面无意展开相关磋商。",
-    "content": "巴基斯坦总理谢里夫表示，谅解备忘录并未提及弹道导弹，伊朗方面无意展开相关磋商。",
-    "full_content": "巴基斯坦总理谢里夫表示，谅解备忘录并未提及弹道导弹，伊朗方面无意展开相关磋商。",
-    "sort_time": "1782229512013290",
-    "showTime": "2026-06-23 23:45:12",
-    "time": "2026-06-23 23:45:12",
-    "publish_time": "2026-06-23 23:45:12",
-    "raw_data": {
-      "code": "202606233780113290",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1782229512013290",
-      "share": 0,
-      "showTime": "2026-06-23 23:45:12",
-      "stockList": [],
-      "summary": "巴基斯坦总理谢里夫表示，谅解备忘录并未提及弹道导弹，伊朗方面无意展开相关磋商。",
-      "title": "巴基斯坦总理谢里夫表示 谅解备忘录并未提及弹道导弹  伊朗方面无意展开相关磋商",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780113290.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "202e4fc9da2df55c",
-    "code": "202606233780104910",
-    "title": "Evercore策略师：科技股会摆脱抛售潮 亮眼盈利将成救兵",
-    "summary": "【Evercore策略师：科技股会摆脱抛售潮 亮眼盈利将成救兵】EvercoreISI的JulianEmanuel表示，在经历了近几周的抛售潮后，超大盘科技股将重新获得投资者青睐。抛售潮拖累该板块一些最大的公司近来股价下跌超过10%。“你会看到不错的盈利，”Evercore首席股票和量化策略师Emanuel表示。他周二在节目中表示，盈利在4月和5月推动了“一波强劲上涨”，如今将再次成为“检验真理的唯一标准”。“芯片股已经发挥了很大作用，”Emanuel表示，“你需要对‘科技七巨头’抱有全新的认识。我们认为这会逐渐形成。”“回顾这轮如今持续近三年的牛市，你会发现，在某些时期，盈利和股价基本上已经趋于一致，”他说道。“我们认为，目前这些大盘股就正处于这样的时期。”",
-    "content": "【Evercore策略师：科技股会摆脱抛售潮 亮眼盈利将成救兵】EvercoreISI的JulianEmanuel表示，在经历了近几周的抛售潮后，超大盘科技股将重新获得投资者青睐。抛售潮拖累该板块一些最大的公司近来股价下跌超过10%。“你会看到不错的盈利，”Evercore首席股票和量化策略师Emanuel表示。他周二在节目中表示，盈利在4月和5月推动了“一波强劲上涨”，如今将再次成为“检验真理的唯一标准”。“芯片股已经发挥了很大作用，”Emanuel表示，“你需要对‘科技七巨头’抱有全新的认识。我们认为这会逐渐形成。”“回顾这轮如今持续近三年的牛市，你会发现，在某些时期，盈利和股价基本上已经趋于一致，”他说道。“我们认为，目前这些大盘股就正处于这样的时期。”",
-    "full_content": "【Evercore策略师：科技股会摆脱抛售潮 亮眼盈利将成救兵】EvercoreISI的JulianEmanuel表示，在经历了近几周的抛售潮后，超大盘科技股将重新获得投资者青睐。抛售潮拖累该板块一些最大的公司近来股价下跌超过10%。“你会看到不错的盈利，”Evercore首席股票和量化策略师Emanuel表示。他周二在节目中表示，盈利在4月和5月推动了“一波强劲上涨”，如今将再次成为“检验真理的唯一标准”。“芯片股已经发挥了很大作用，”Emanuel表示，“你需要对‘科技七巨头’抱有全新的认识。我们认为这会逐渐形成。”“回顾这轮如今持续近三年的牛市，你会发现，在某些时期，盈利和股价基本上已经趋于一致，”他说道。“我们认为，目前这些大盘股就正处于这样的时期。”",
-    "sort_time": "1782228655004910",
-    "showTime": "2026-06-23 23:30:55",
-    "time": "2026-06-23 23:30:55",
-    "publish_time": "2026-06-23 23:30:55",
-    "raw_data": {
-      "code": "202606233780104910",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1782228655004910",
-      "share": 2,
-      "showTime": "2026-06-23 23:30:55",
-      "stockList": [],
-      "summary": "【Evercore策略师：科技股会摆脱抛售潮 亮眼盈利将成救兵】EvercoreISI的JulianEmanuel表示，在经历了近几周的抛售潮后，超大盘科技股将重新获得投资者青睐。抛售潮拖累该板块一些最大的公司近来股价下跌超过10%。“你会看到不错的盈利，”Evercore首席股票和量化策略师Emanuel表示。他周二在节目中表示，盈利在4月和5月推动了“一波强劲上涨”，如今将再次成为“检验真理的唯一标准”。“芯片股已经发挥了很大作用，”Emanuel表示，“你需要对‘科技七巨头’抱有全新的认识。我们认为这会逐渐形成。”“回顾这轮如今持续近三年的牛市，你会发现，在某些时期，盈利和股价基本上已经趋于一致，”他说道。“我们认为，目前这些大盘股就正处于这样的时期。”",
-      "title": "Evercore策略师：科技股会摆脱抛售潮 亮眼盈利将成救兵",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606233780104910.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 2,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
     }
   }
 ]
