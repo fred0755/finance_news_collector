@@ -1,5 +1,609 @@
 [
   {
+    "id": "d4bbdd1ffe087f63",
+    "code": "202606273785472564",
+    "title": "Marvell发布CXL压缩加速器：内存太贵、1GB变3.64GB救场",
+    "summary": "【Marvell发布CXL压缩加速器：内存太贵、1GB变3.64GB救场】6月27日消息，Marvell近日发布Structera CXL控制器系列更新，推出Structera X和Structera A两款产品，主打硬件内联内存压缩，缓解AI场景下的内存容量和带宽压力。",
+    "content": "【Marvell发布CXL压缩加速器：内存太贵、1GB变3.64GB救场】6月27日消息，Marvell近日发布Structera CXL控制器系列更新，推出Structera X和Structera A两款产品，主打硬件内联内存压缩，缓解AI场景下的内存容量和带宽压力。",
+    "full_content": "【Marvell发布CXL压缩加速器：内存太贵、1GB变3.64GB救场】6月27日消息，Marvell近日发布Structera CXL控制器系列更新，推出Structera X和Structera A两款产品，主打硬件内联内存压缩，缓解AI场景下的内存容量和带宽压力。",
+    "sort_time": "1782564786072564",
+    "showTime": "2026-06-27 20:53:06",
+    "time": "2026-06-27 20:53:06",
+    "publish_time": "2026-06-27 20:53:06",
+    "raw_data": {
+      "code": "202606273785472564",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1782564786072564",
+      "share": 9,
+      "showTime": "2026-06-27 20:53:06",
+      "stockList": [
+        "105.MRVL"
+      ],
+      "summary": "【Marvell发布CXL压缩加速器：内存太贵、1GB变3.64GB救场】6月27日消息，Marvell近日发布Structera CXL控制器系列更新，推出Structera X和Structera A两款产品，主打硬件内联内存压缩，缓解AI场景下的内存容量和带宽压力。",
+      "title": "Marvell发布CXL压缩加速器：内存太贵、1GB变3.64GB救场",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785472564.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MRVL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 9,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "deb87201a4032b6c",
+    "code": "202606273785472335",
+    "title": "云深处人形机器人完成核心技术验证",
+    "summary": "【云深处人形机器人完成核心技术验证】记者获悉，云深处行业级全天候人形机器人DR02完成核心技术验证，2026已正式启动商用投放进入行业应用，未来将会在各类场景中复制，实现规模化交付。",
+    "content": "【云深处人形机器人完成核心技术验证】记者获悉，云深处行业级全天候人形机器人DR02完成核心技术验证，2026已正式启动商用投放进入行业应用，未来将会在各类场景中复制，实现规模化交付。",
+    "full_content": "【云深处人形机器人完成核心技术验证】记者获悉，云深处行业级全天候人形机器人DR02完成核心技术验证，2026已正式启动商用投放进入行业应用，未来将会在各类场景中复制，实现规模化交付。",
+    "sort_time": "1782564289072335",
+    "showTime": "2026-06-27 20:44:49",
+    "time": "2026-06-27 20:44:49",
+    "publish_time": "2026-06-27 20:44:49",
+    "raw_data": {
+      "code": "202606273785472335",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1782564289072335",
+      "share": 4,
+      "showTime": "2026-06-27 20:44:49",
+      "stockList": [
+        "90.BK1184"
+      ],
+      "summary": "【云深处人形机器人完成核心技术验证】记者获悉，云深处行业级全天候人形机器人DR02完成核心技术验证，2026已正式启动商用投放进入行业应用，未来将会在各类场景中复制，实现规模化交付。",
+      "title": "云深处人形机器人完成核心技术验证",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785472335.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1184"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C012",
+          "name": "机器人",
+          "matched_keyword": "人形机器人"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C012"
+      ]
+    }
+  },
+  {
+    "id": "a18e7497487df883",
+    "code": "202606273785470231",
+    "title": "《黑龙江省推进“人工智能+教育”行动方案》出台",
+    "summary": "【《黑龙江省推进“人工智能+教育”行动方案》出台】近日，黑龙江省教育厅等八部门出台《黑龙江省推进“人工智能+教育”行动方案》，方案提出，到2027年，基本形成纵向贯通、横向联通的人工智能通识教育体系，人工智能在教育领域常态化应用，适配各类教学场景的数字教育资源持续丰富，师生人工智能素养与创新能力显著提升。",
+    "content": "【《黑龙江省推进“人工智能+教育”行动方案》出台】近日，黑龙江省教育厅等八部门出台《黑龙江省推进“人工智能+教育”行动方案》，方案提出，到2027年，基本形成纵向贯通、横向联通的人工智能通识教育体系，人工智能在教育领域常态化应用，适配各类教学场景的数字教育资源持续丰富，师生人工智能素养与创新能力显著提升。",
+    "full_content": "【《黑龙江省推进“人工智能+教育”行动方案》出台】近日，黑龙江省教育厅等八部门出台《黑龙江省推进“人工智能+教育”行动方案》，方案提出，到2027年，基本形成纵向贯通、横向联通的人工智能通识教育体系，人工智能在教育领域常态化应用，适配各类教学场景的数字教育资源持续丰富，师生人工智能素养与创新能力显著提升。",
+    "sort_time": "1782563959070231",
+    "showTime": "2026-06-27 20:39:19",
+    "time": "2026-06-27 20:39:19",
+    "publish_time": "2026-06-27 20:39:19",
+    "raw_data": {
+      "code": "202606273785470231",
+      "image": [],
+      "pinglun_Num": 16,
+      "realSort": "1782563959070231",
+      "share": 1,
+      "showTime": "2026-06-27 20:39:19",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "【《黑龙江省推进“人工智能+教育”行动方案》出台】近日，黑龙江省教育厅等八部门出台《黑龙江省推进“人工智能+教育”行动方案》，方案提出，到2027年，基本形成纵向贯通、横向联通的人工智能通识教育体系，人工智能在教育领域常态化应用，适配各类教学场景的数字教育资源持续丰富，师生人工智能素养与创新能力显著提升。",
+      "title": "《黑龙江省推进“人工智能+教育”行动方案》出台",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785470231.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 16,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "1b7c2fa4ee0889ee",
+    "code": "202606273785470183",
+    "title": "下周财经日历",
+    "summary": "【下周财经日历】6月29日-7月5日。",
+    "content": "【下周财经日历】6月29日-7月5日。",
+    "full_content": "【下周财经日历】6月29日-7月5日。",
+    "sort_time": "1782563693070183",
+    "showTime": "2026-06-27 20:34:53",
+    "time": "2026-06-27 20:34:53",
+    "publish_time": "2026-06-27 20:34:53",
+    "raw_data": {
+      "code": "202606273785470183",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1782563693070183",
+      "share": 4,
+      "showTime": "2026-06-27 20:34:53",
+      "stockList": [],
+      "summary": "【下周财经日历】6月29日-7月5日。",
+      "title": "下周财经日历",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785470183.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "778f8d05693d98f9",
+    "code": "202606273785470072",
+    "title": "澳大利亚表示将加强对儿童使用社交媒体的禁令",
+    "summary": "澳大利亚表示将加强对儿童使用社交媒体的禁令。",
+    "content": "澳大利亚表示将加强对儿童使用社交媒体的禁令。",
+    "full_content": "澳大利亚表示将加强对儿童使用社交媒体的禁令。",
+    "sort_time": "1782563646070072",
+    "showTime": "2026-06-27 20:34:06",
+    "time": "2026-06-27 20:34:06",
+    "publish_time": "2026-06-27 20:34:06",
+    "raw_data": {
+      "code": "202606273785470072",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1782563646070072",
+      "share": 1,
+      "showTime": "2026-06-27 20:34:06",
+      "stockList": [],
+      "summary": "澳大利亚表示将加强对儿童使用社交媒体的禁令。",
+      "title": "澳大利亚表示将加强对儿童使用社交媒体的禁令",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785470072.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ec12ecf843b8ed33",
+    "code": "202606273785468651",
+    "title": "立昂技术：公司为中科闻歌提供AIDC算力基础设施配套",
+    "summary": "【立昂技术：公司为中科闻歌提供AIDC算力基础设施配套】立昂技术(300603)在最新披露的投资者关系活动记录表中透露，公司为中科闻歌提供AIDC算力基础设施配套，是其算力供应合作方，双方同步协同开展大模型相关业务落地与行业应用拓展。",
+    "content": "【立昂技术：公司为中科闻歌提供AIDC算力基础设施配套】立昂技术(300603)在最新披露的投资者关系活动记录表中透露，公司为中科闻歌提供AIDC算力基础设施配套，是其算力供应合作方，双方同步协同开展大模型相关业务落地与行业应用拓展。",
+    "full_content": "【立昂技术：公司为中科闻歌提供AIDC算力基础设施配套】立昂技术(300603)在最新披露的投资者关系活动记录表中透露，公司为中科闻歌提供AIDC算力基础设施配套，是其算力供应合作方，双方同步协同开展大模型相关业务落地与行业应用拓展。",
+    "sort_time": "1782563459068651",
+    "showTime": "2026-06-27 20:30:59",
+    "time": "2026-06-27 20:30:59",
+    "publish_time": "2026-06-27 20:30:59",
+    "raw_data": {
+      "code": "202606273785468651",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782563459068651",
+      "share": 2,
+      "showTime": "2026-06-27 20:30:59",
+      "stockList": [],
+      "summary": "【立昂技术：公司为中科闻歌提供AIDC算力基础设施配套】立昂技术(300603)在最新披露的投资者关系活动记录表中透露，公司为中科闻歌提供AIDC算力基础设施配套，是其算力供应合作方，双方同步协同开展大模型相关业务落地与行业应用拓展。",
+      "title": "立昂技术：公司为中科闻歌提供AIDC算力基础设施配套",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785468651.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "大模型"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "算力"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "3d7e4f3f3c07cdf3",
+    "code": "202606273785462719",
+    "title": "Rokid祝铭明回应“AI眼镜偷拍”：头部厂商无法回避 永远不会蒸馏员工",
+    "summary": "【Rokid祝铭明回应“AI眼镜偷拍”：头部厂商无法回避 永远不会蒸馏员工】“我绝对不会蒸馏我们的员工，蒸馏ta干什么呢？”AI眼镜厂商Rokid（乐奇）全球开发者大会现场。CEO祝铭明（Misa）穿着标志性的黑色T恤站在聚光灯下，在接受澎湃新闻等媒体群访时，他聊起AI时代人与技术的关系，顺手玩了个AI圈流行的“蒸馏梗”——永远不会“蒸馏自己的员工”。",
+    "content": "【Rokid祝铭明回应“AI眼镜偷拍”：头部厂商无法回避 永远不会蒸馏员工】“我绝对不会蒸馏我们的员工，蒸馏ta干什么呢？”AI眼镜厂商Rokid（乐奇）全球开发者大会现场。CEO祝铭明（Misa）穿着标志性的黑色T恤站在聚光灯下，在接受澎湃新闻等媒体群访时，他聊起AI时代人与技术的关系，顺手玩了个AI圈流行的“蒸馏梗”——永远不会“蒸馏自己的员工”。",
+    "full_content": "【Rokid祝铭明回应“AI眼镜偷拍”：头部厂商无法回避 永远不会蒸馏员工】“我绝对不会蒸馏我们的员工，蒸馏ta干什么呢？”AI眼镜厂商Rokid（乐奇）全球开发者大会现场。CEO祝铭明（Misa）穿着标志性的黑色T恤站在聚光灯下，在接受澎湃新闻等媒体群访时，他聊起AI时代人与技术的关系，顺手玩了个AI圈流行的“蒸馏梗”——永远不会“蒸馏自己的员工”。",
+    "sort_time": "1782562920062719",
+    "showTime": "2026-06-27 20:22:00",
+    "time": "2026-06-27 20:22:00",
+    "publish_time": "2026-06-27 20:22:00",
+    "raw_data": {
+      "code": "202606273785462719",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1782562920062719",
+      "share": 3,
+      "showTime": "2026-06-27 20:22:00",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "【Rokid祝铭明回应“AI眼镜偷拍”：头部厂商无法回避 永远不会蒸馏员工】“我绝对不会蒸馏我们的员工，蒸馏ta干什么呢？”AI眼镜厂商Rokid（乐奇）全球开发者大会现场。CEO祝铭明（Misa）穿着标志性的黑色T恤站在聚光灯下，在接受澎湃新闻等媒体群访时，他聊起AI时代人与技术的关系，顺手玩了个AI圈流行的“蒸馏梗”——永远不会“蒸馏自己的员工”。",
+      "title": "Rokid祝铭明回应“AI眼镜偷拍”：头部厂商无法回避 永远不会蒸馏员工",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785462719.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "fd227d43056a0b4f",
+    "code": "202606273785467852",
+    "title": "又一半导体气体或陷入紧缺 存储巨头全力加紧采购",
+    "summary": "【又一半导体气体或陷入紧缺 存储巨头全力加紧采购】半导体先进制程生产所需的高纯度二氧化碳（CO2）供应趋紧，产业拉响短缺警报。据The Elec消息，由于炼油及石化工厂开工率下降，导致二氧化碳产量大幅减少。通常情况下，半导体制造商与相关供应商各自都会储备两周二氧化碳用量，合计能维持一个月的库存量，但近期库存已经跌破一个月水平。",
+    "content": "【又一半导体气体或陷入紧缺 存储巨头全力加紧采购】半导体先进制程生产所需的高纯度二氧化碳（CO2）供应趋紧，产业拉响短缺警报。据The Elec消息，由于炼油及石化工厂开工率下降，导致二氧化碳产量大幅减少。通常情况下，半导体制造商与相关供应商各自都会储备两周二氧化碳用量，合计能维持一个月的库存量，但近期库存已经跌破一个月水平。",
+    "full_content": "【又一半导体气体或陷入紧缺 存储巨头全力加紧采购】半导体先进制程生产所需的高纯度二氧化碳（CO2）供应趋紧，产业拉响短缺警报。据The Elec消息，由于炼油及石化工厂开工率下降，导致二氧化碳产量大幅减少。通常情况下，半导体制造商与相关供应商各自都会储备两周二氧化碳用量，合计能维持一个月的库存量，但近期库存已经跌破一个月水平。",
+    "sort_time": "1782562398067852",
+    "showTime": "2026-06-27 20:13:18",
+    "time": "2026-06-27 20:13:18",
+    "publish_time": "2026-06-27 20:13:18",
+    "raw_data": {
+      "code": "202606273785467852",
+      "image": [],
+      "pinglun_Num": 149,
+      "realSort": "1782562398067852",
+      "share": 114,
+      "showTime": "2026-06-27 20:13:18",
+      "stockList": [
+        "90.BK0459",
+        "90.BK0464"
+      ],
+      "summary": "【又一半导体气体或陷入紧缺 存储巨头全力加紧采购】半导体先进制程生产所需的高纯度二氧化碳（CO2）供应趋紧，产业拉响短缺警报。据The Elec消息，由于炼油及石化工厂开工率下降，导致二氧化碳产量大幅减少。通常情况下，半导体制造商与相关供应商各自都会储备两周二氧化碳用量，合计能维持一个月的库存量，但近期库存已经跌破一个月水平。",
+      "title": "又一半导体气体或陷入紧缺 存储巨头全力加紧采购",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785467852.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0459",
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 149,
+    "share_count": 114,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "C508",
+          "name": "化工",
+          "matched_keyword": "化工"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002",
+        "C508"
+      ]
+    }
+  },
+  {
+    "id": "68371559ef189bfa",
+    "code": "202606273785467784",
+    "title": "DeepSeek联合北大发布DSpark框架：大模型推理速度提升60%–85%",
+    "summary": "【DeepSeek联合北大发布DSpark框架：大模型推理速度提升60%–85%】6月27日，DeepSeek团队联合北京大学发布名为《DSpark》的研究论文（基于speculativedecoding方向），提出一种用于加速大模型推理的新方法。",
+    "content": "【DeepSeek联合北大发布DSpark框架：大模型推理速度提升60%–85%】6月27日，DeepSeek团队联合北京大学发布名为《DSpark》的研究论文（基于speculativedecoding方向），提出一种用于加速大模型推理的新方法。",
+    "full_content": "【DeepSeek联合北大发布DSpark框架：大模型推理速度提升60%–85%】6月27日，DeepSeek团队联合北京大学发布名为《DSpark》的研究论文（基于speculativedecoding方向），提出一种用于加速大模型推理的新方法。",
+    "sort_time": "1782561696067784",
+    "showTime": "2026-06-27 20:01:36",
+    "time": "2026-06-27 20:01:36",
+    "publish_time": "2026-06-27 20:01:36",
+    "raw_data": {
+      "code": "202606273785467784",
+      "image": [],
+      "pinglun_Num": 22,
+      "realSort": "1782561696067784",
+      "share": 10,
+      "showTime": "2026-06-27 20:01:36",
+      "stockList": [],
+      "summary": "【DeepSeek联合北大发布DSpark框架：大模型推理速度提升60%–85%】6月27日，DeepSeek团队联合北京大学发布名为《DSpark》的研究论文（基于speculativedecoding方向），提出一种用于加速大模型推理的新方法。",
+      "title": "DeepSeek联合北大发布DSpark框架：大模型推理速度提升60%–85%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785467784.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 22,
+    "share_count": 10,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "大模型"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "aea2e43f511c0493",
+    "code": "202606273785465845",
+    "title": "蒿慧杰与出席首届西部商业航天大会的院士专家和部分金融机构、企业负责人座谈",
+    "summary": "【蒿慧杰与出席首届西部商业航天大会的院士专家和部分金融机构、企业负责人座谈】6月27日，首届西部商业航天大会在西安举行。会前，陕西省委常委、西安市委书记蒿慧杰与出席大会的院士专家和部分金融机构、企业负责人座谈。",
+    "content": "【蒿慧杰与出席首届西部商业航天大会的院士专家和部分金融机构、企业负责人座谈】6月27日，首届西部商业航天大会在西安举行。会前，陕西省委常委、西安市委书记蒿慧杰与出席大会的院士专家和部分金融机构、企业负责人座谈。",
+    "full_content": "【蒿慧杰与出席首届西部商业航天大会的院士专家和部分金融机构、企业负责人座谈】6月27日，首届西部商业航天大会在西安举行。会前，陕西省委常委、西安市委书记蒿慧杰与出席大会的院士专家和部分金融机构、企业负责人座谈。",
+    "sort_time": "1782561322065845",
+    "showTime": "2026-06-27 19:55:22",
+    "time": "2026-06-27 19:55:22",
+    "publish_time": "2026-06-27 19:55:22",
+    "raw_data": {
+      "code": "202606273785465845",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1782561322065845",
+      "share": 0,
+      "showTime": "2026-06-27 19:55:22",
+      "stockList": [
+        "90.BK0963",
+        "0.159940"
+      ],
+      "summary": "【蒿慧杰与出席首届西部商业航天大会的院士专家和部分金融机构、企业负责人座谈】6月27日，首届西部商业航天大会在西安举行。会前，陕西省委常委、西安市委书记蒿慧杰与出席大会的院士专家和部分金融机构、企业负责人座谈。",
+      "title": "蒿慧杰与出席首届西部商业航天大会的院士专家和部分金融机构、企业负责人座谈",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785465845.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0963",
+      "0.159940"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 6,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "航天"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C202"
+      ]
+    }
+  },
+  {
+    "id": "2aa5dd3f2c72cec7",
+    "code": "202606273785465748",
+    "title": "翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证",
+    "summary": "【翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证】据翔宇医疗消息，翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证。",
+    "content": "【翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证】据翔宇医疗消息，翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证。",
+    "full_content": "【翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证】据翔宇医疗消息，翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证。",
+    "sort_time": "1782561278065748",
+    "showTime": "2026-06-27 19:54:38",
+    "time": "2026-06-27 19:54:38",
+    "publish_time": "2026-06-27 19:54:38",
+    "raw_data": {
+      "code": "202606273785465748",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782561278065748",
+      "share": 2,
+      "showTime": "2026-06-27 19:54:38",
+      "stockList": [
+        "0.159883"
+      ],
+      "summary": "【翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证】据翔宇医疗消息，翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证。",
+      "title": "翔宇医疗多角度颈腰椎牵引治疗机获国家医疗器械注册证",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785465748.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159883"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C303",
+          "name": "医疗器械",
+          "matched_keyword": "医疗器械"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C303"
+      ]
+    }
+  },
+  {
+    "id": "a39012a7c7beaa80",
+    "code": "202606273785466065",
+    "title": "伊朗方面称有更多船只申请通过霍尔木兹海峡",
+    "summary": "【伊朗方面称有更多船只申请通过霍尔木兹海峡】据伊朗方面27日消息，从当地时间当日早上开始，有更多船只提交通过霍尔木兹海峡的申请，“这是伊朗伊斯兰革命卫队海军实力的体现”。美军中央司令部美国东部时间26日发表声明称，美军当天空袭伊朗的导弹与无人机储存设施以及沿海雷达阵地。声明说，此前一天，伊朗用单向攻击无人机袭击一艘悬挂新加坡国旗、沿阿曼海岸驶离霍尔木兹海峡的货轮，美军的打击行动是对货轮遇袭事件的回应。",
+    "content": "【伊朗方面称有更多船只申请通过霍尔木兹海峡】据伊朗方面27日消息，从当地时间当日早上开始，有更多船只提交通过霍尔木兹海峡的申请，“这是伊朗伊斯兰革命卫队海军实力的体现”。美军中央司令部美国东部时间26日发表声明称，美军当天空袭伊朗的导弹与无人机储存设施以及沿海雷达阵地。声明说，此前一天，伊朗用单向攻击无人机袭击一艘悬挂新加坡国旗、沿阿曼海岸驶离霍尔木兹海峡的货轮，美军的打击行动是对货轮遇袭事件的回应。",
+    "full_content": "【伊朗方面称有更多船只申请通过霍尔木兹海峡】据伊朗方面27日消息，从当地时间当日早上开始，有更多船只提交通过霍尔木兹海峡的申请，“这是伊朗伊斯兰革命卫队海军实力的体现”。美军中央司令部美国东部时间26日发表声明称，美军当天空袭伊朗的导弹与无人机储存设施以及沿海雷达阵地。声明说，此前一天，伊朗用单向攻击无人机袭击一艘悬挂新加坡国旗、沿阿曼海岸驶离霍尔木兹海峡的货轮，美军的打击行动是对货轮遇袭事件的回应。",
+    "sort_time": "1782561192066065",
+    "showTime": "2026-06-27 19:53:12",
+    "time": "2026-06-27 19:53:12",
+    "publish_time": "2026-06-27 19:53:12",
+    "raw_data": {
+      "code": "202606273785466065",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1782561192066065",
+      "share": 1,
+      "showTime": "2026-06-27 19:53:12",
+      "stockList": [],
+      "summary": "【伊朗方面称有更多船只申请通过霍尔木兹海峡】据伊朗方面27日消息，从当地时间当日早上开始，有更多船只提交通过霍尔木兹海峡的申请，“这是伊朗伊斯兰革命卫队海军实力的体现”。美军中央司令部美国东部时间26日发表声明称，美军当天空袭伊朗的导弹与无人机储存设施以及沿海雷达阵地。声明说，此前一天，伊朗用单向攻击无人机袭击一艘悬挂新加坡国旗、沿阿曼海岸驶离霍尔木兹海峡的货轮，美军的打击行动是对货轮遇袭事件的回应。",
+      "title": "伊朗方面称有更多船只申请通过霍尔木兹海峡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202606273785466065.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 11,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C205"
+      ]
+    }
+  },
+  {
     "id": "a6dc36ce13935c11",
     "code": "202606273785463885",
     "title": "“陇电入浙”配套项目换流站750千伏接入工程进入架线阶段",
@@ -13,9 +617,9 @@
     "raw_data": {
       "code": "202606273785463885",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1782560497063885",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-06-27 19:41:37",
       "stockList": [],
       "summary": "【“陇电入浙”配套项目换流站750千伏接入工程进入架线阶段】今天（6月27日），作为“陇电入浙”配套项目的换流站750千伏接入工程进入架线施工阶段。",
@@ -29,8 +633,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -52,7 +656,7 @@
     "raw_data": {
       "code": "202606273785463739",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 26,
       "realSort": "1782560043063739",
       "share": 2,
       "showTime": "2026-06-27 19:34:03",
@@ -72,7 +676,7 @@
       "150.011668"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
+    "comment_count": 26,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -95,9 +699,9 @@
     "raw_data": {
       "code": "202606273785463637",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 24,
       "realSort": "1782559546063637",
-      "share": 17,
+      "share": 38,
       "showTime": "2026-06-27 19:25:46",
       "stockList": [
         "0.159792",
@@ -117,8 +721,8 @@
       "0.161025"
     ],
     "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 17,
+    "comment_count": 24,
+    "share_count": 38,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -140,7 +744,7 @@
     "raw_data": {
       "code": "202606273785463566",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1782559230063566",
       "share": 0,
       "showTime": "2026-06-27 19:20:30",
@@ -162,7 +766,7 @@
       "105.AAPL"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -199,7 +803,7 @@
     "raw_data": {
       "code": "202606273785463437",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 24,
       "realSort": "1782558796063437",
       "share": 2,
       "showTime": "2026-06-27 19:13:16",
@@ -215,7 +819,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
+    "comment_count": 24,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -238,9 +842,9 @@
     "raw_data": {
       "code": "202606273785463180",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 15,
       "realSort": "1782558439063180",
-      "share": 3,
+      "share": 6,
       "showTime": "2026-06-27 19:07:19",
       "stockList": [
         "90.BK0465",
@@ -260,8 +864,8 @@
       "201.HK1032"
     ],
     "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 3,
+    "comment_count": 15,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [
@@ -291,7 +895,7 @@
     "raw_data": {
       "code": "202606273785463313",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1782558335063313",
       "share": 2,
       "showTime": "2026-06-27 19:05:35",
@@ -307,7 +911,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 3,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -330,9 +934,9 @@
     "raw_data": {
       "code": "202606273785462954",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 21,
       "realSort": "1782557580062954",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-06-27 18:53:00",
       "stockList": [
         "1.605499",
@@ -352,8 +956,8 @@
       "116.09980"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 1,
+    "comment_count": 21,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -428,9 +1032,9 @@
     "raw_data": {
       "code": "202606273785462534",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 10,
       "realSort": "1782556925062534",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-06-27 18:42:05",
       "stockList": [
         "90.BK0800",
@@ -450,8 +1054,8 @@
       "0.001330"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 5,
+    "comment_count": 10,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -481,9 +1085,9 @@
     "raw_data": {
       "code": "202606273785462451",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 16,
       "realSort": "1782556680062451",
-      "share": 6,
+      "share": 10,
       "showTime": "2026-06-27 18:38:00",
       "stockList": [],
       "summary": "【特朗普：谁敢对美企征收数字税 就加征100%关税】美欧或在数字经济治理领域再次对抗。当地时间6月26日，美国总统特朗普发出警告称，若欧洲国家继续推进针对美国科技企业的数字服务税（Digital Services Tax），美国将对相关国家输美商品征收100%关税作为反制措施。",
@@ -497,8 +1101,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 6,
+    "comment_count": 16,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -520,9 +1124,9 @@
     "raw_data": {
       "code": "202606273785462244",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 39,
       "realSort": "1782556252062244",
-      "share": 8,
+      "share": 12,
       "showTime": "2026-06-27 18:30:52",
       "stockList": [],
       "summary": "【DeepSeek最新论文：如何让大模型跑得更快？梁文锋署名】6月27日，DeepSeek官方在Github低调更新了一篇最新论文，介绍其推理加速框架DSpark，试图解决大语言模型在高并发场景下的推理效率瓶颈。从作者署名来看，这篇论文由DeepSeek与北京大学联合发布，DeepSeek创始人梁文锋也位列作者名单。在论文中，团队开源了DSpark模型权重，并同步发布了面向推测解码、由算法驱动的训练代码仓库DeepSpec。",
@@ -536,8 +1140,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 29,
-    "share_count": 8,
+    "comment_count": 39,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -655,7 +1259,7 @@
     "raw_data": {
       "code": "202606273785461943",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1782555521061943",
       "share": 1,
       "showTime": "2026-06-27 18:18:41",
@@ -671,7 +1275,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -802,7 +1406,7 @@
     "raw_data": {
       "code": "202606273785460750",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1782554552060750",
       "share": 4,
       "showTime": "2026-06-27 18:02:32",
@@ -818,7 +1422,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 7,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -884,7 +1488,7 @@
     "raw_data": {
       "code": "202606273785459676",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1782553767059676",
       "share": 0,
       "showTime": "2026-06-27 17:49:27",
@@ -904,7 +1508,7 @@
       "1.600418"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -939,7 +1543,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1782553737058945",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-06-27 17:48:57",
       "stockList": [],
       "summary": "【中俄两军组织实施第11次联合空中战略巡航】6月27日，中俄两国空军在日本海、东海、太平洋西部空域组织实施第11次联合空中战略巡航，展示共同维护地区和平稳定决心能力。",
@@ -954,7 +1558,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 4,
-    "share_count": 6,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -978,7 +1582,7 @@
       "image": [],
       "pinglun_Num": 7,
       "realSort": "1782553562058812",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-06-27 17:46:02",
       "stockList": [],
       "summary": "【招商证券：铜价短期关注流动性收紧与地缘风险变化 中长期仍看供需格局演变】招商证券发布研报称，随着AI驱动的数字基础设施建设与全球能源电气化进程加速，铜的角色正在从周期性工业金属逐步转向具有战略属性的关键矿产资源。当前铜价仍处于历史高位，两大交易所年初至今均上涨近10%。展望后续，该行认为全球流动性、美伊局势以及供需基本面将成为影响铜价走势的三条核心主线：短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变。",
@@ -993,7 +1597,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 7,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -1090,7 +1694,7 @@
     "raw_data": {
       "code": "202606273785458314",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1782553332058314",
       "share": 3,
       "showTime": "2026-06-27 17:42:12",
@@ -1106,7 +1710,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1137,9 +1741,9 @@
     "raw_data": {
       "code": "202606273785458254",
       "image": [],
-      "pinglun_Num": 51,
+      "pinglun_Num": 57,
       "realSort": "1782553140058254",
-      "share": 19,
+      "share": 22,
       "showTime": "2026-06-27 17:39:00",
       "stockList": [
         "90.BK0459",
@@ -1159,8 +1763,8 @@
       "90.BK1137"
     ],
     "has_stock_mention": true,
-    "comment_count": 51,
-    "share_count": 19,
+    "comment_count": 57,
+    "share_count": 22,
     "tags": {
       "industries": [
         {
@@ -1206,7 +1810,7 @@
     "raw_data": {
       "code": "202606273785457362",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 17,
       "realSort": "1782552691057362",
       "share": 1,
       "showTime": "2026-06-27 17:31:31",
@@ -1222,7 +1826,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
+    "comment_count": 17,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1247,7 +1851,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1782552137056856",
-      "share": 15,
+      "share": 16,
       "showTime": "2026-06-27 17:22:17",
       "stockList": [
         "90.BK0474",
@@ -1268,7 +1872,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 15,
+    "share_count": 16,
     "tags": {
       "industries": [
         {
@@ -1300,7 +1904,7 @@
     "raw_data": {
       "code": "202606273785456983",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1782551989056983",
       "share": 0,
       "showTime": "2026-06-27 17:19:49",
@@ -1320,7 +1924,7 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1351,9 +1955,9 @@
     "raw_data": {
       "code": "202606273785455960",
       "image": [],
-      "pinglun_Num": 38,
+      "pinglun_Num": 42,
       "realSort": "1782551528055960",
-      "share": 17,
+      "share": 19,
       "showTime": "2026-06-27 17:12:08",
       "stockList": [],
       "summary": "【余承东：全新一代问界M9系列大定破42000台】华为常务董事、产品投资评审委员会主任、终端BG董事长余承东在微博发文称，全新一代问界M9系列，上市1个月大定破42000台。全国交付已开启。",
@@ -1367,8 +1971,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 38,
-    "share_count": 17,
+    "comment_count": 42,
+    "share_count": 19,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1447,7 +2051,7 @@
       "image": [],
       "pinglun_Num": 33,
       "realSort": "1782550729055027",
-      "share": 14,
+      "share": 15,
       "showTime": "2026-06-27 16:58:49",
       "stockList": [
         "90.BK0428",
@@ -1468,7 +2072,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 33,
-    "share_count": 14,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1616,7 +2220,7 @@
     "raw_data": {
       "code": "202606273785454552",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 10,
       "realSort": "1782550039054552",
       "share": 5,
       "showTime": "2026-06-27 16:47:19",
@@ -1632,7 +2236,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 10,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -1669,7 +2273,7 @@
     "raw_data": {
       "code": "202606273785454869",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 12,
       "realSort": "1782549918054869",
       "share": 7,
       "showTime": "2026-06-27 16:45:18",
@@ -1685,7 +2289,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 12,
     "share_count": 7,
     "tags": {
       "industries": [
@@ -1720,7 +2324,7 @@
       "image": [],
       "pinglun_Num": 11,
       "realSort": "1782549591053352",
-      "share": 13,
+      "share": 14,
       "showTime": "2026-06-27 16:39:51",
       "stockList": [
         "90.BK1408",
@@ -1741,7 +2345,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 11,
-    "share_count": 13,
+    "share_count": 14,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1771,9 +2375,9 @@
     "raw_data": {
       "code": "202606273785453140",
       "image": [],
-      "pinglun_Num": 28,
+      "pinglun_Num": 29,
       "realSort": "1782549394053140",
-      "share": 15,
+      "share": 16,
       "showTime": "2026-06-27 16:36:34",
       "stockList": [
         "90.BK0800",
@@ -1793,8 +2397,8 @@
       "1007.BK000386"
     ],
     "has_stock_mention": true,
-    "comment_count": 28,
-    "share_count": 15,
+    "comment_count": 29,
+    "share_count": 16,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1824,9 +2428,9 @@
     "raw_data": {
       "code": "202606273785452186",
       "image": [],
-      "pinglun_Num": 104,
+      "pinglun_Num": 121,
       "realSort": "1782549112052186",
-      "share": 87,
+      "share": 101,
       "showTime": "2026-06-27 16:31:52",
       "stockList": [],
       "summary": "【饭局泄密！千万资金突击买入重组股 内幕交易被罚近200万】2024年10月8日，杨某某与相关内幕信息知情人聚餐。次日，他便安排杨某利通过“杨某利”证券账户买入某公司股票212万股，累计成交金额高达1096万元。仅仅一个月后——2024年11月7日，这些股票被全部卖出，盈利44.44万元。这笔精准的短线操作背后，是一条尚未公开的重大内幕信息。",
@@ -1840,8 +2444,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 104,
-    "share_count": 87,
+    "comment_count": 121,
+    "share_count": 101,
     "tags": {
       "industries": [
         {
@@ -1864,660 +2468,6 @@
       ],
       "concept_ids": [
         "C401"
-      ]
-    }
-  },
-  {
-    "id": "0f12ac570d8a1361",
-    "code": "202606273785451940",
-    "title": "伊朗外交部：美军空袭违反伊美谅解备忘录",
-    "summary": "【伊朗外交部：美军空袭违反伊美谅解备忘录】伊朗外交部27日发表声明，谴责美军对伊朗南部沿海多地发动空袭，称其违反双方此前达成的谅解备忘录，表示伊朗将依据国际法维护国家主权和安全。",
-    "content": "【伊朗外交部：美军空袭违反伊美谅解备忘录】伊朗外交部27日发表声明，谴责美军对伊朗南部沿海多地发动空袭，称其违反双方此前达成的谅解备忘录，表示伊朗将依据国际法维护国家主权和安全。",
-    "full_content": "【伊朗外交部：美军空袭违反伊美谅解备忘录】伊朗外交部27日发表声明，谴责美军对伊朗南部沿海多地发动空袭，称其违反双方此前达成的谅解备忘录，表示伊朗将依据国际法维护国家主权和安全。",
-    "sort_time": "1782548840051940",
-    "showTime": "2026-06-27 16:27:20",
-    "time": "2026-06-27 16:27:20",
-    "publish_time": "2026-06-27 16:27:20",
-    "raw_data": {
-      "code": "202606273785451940",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1782548840051940",
-      "share": 3,
-      "showTime": "2026-06-27 16:27:20",
-      "stockList": [],
-      "summary": "【伊朗外交部：美军空袭违反伊美谅解备忘录】伊朗外交部27日发表声明，谴责美军对伊朗南部沿海多地发动空袭，称其违反双方此前达成的谅解备忘录，表示伊朗将依据国际法维护国家主权和安全。",
-      "title": "伊朗外交部：美军空袭违反伊美谅解备忘录",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785451940.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 15,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "80218cc6b79a6ab0",
-    "code": "202606273785451321",
-    "title": "车主与保险公司双赢？九部门出新规：汽车、电池将分开投保",
-    "summary": "【车主与保险公司双赢？九部门出新规：汽车、电池将分开投保】6月23日，商务部等9部门联合印发《关于培育壮大汽车后市场消费若干措施的通知》，正式将建立保险车型综合分级制度与探索车电分离保险模式提上日程。这套组合拳不再只是停留在纸面上的指导意见，而是直接指向了当前新能源车险市场中车主与险企两头难的定价死穴，试图通过精细化拆解风险，让保费回归到更合理的刻度上。",
-    "content": "【车主与保险公司双赢？九部门出新规：汽车、电池将分开投保】6月23日，商务部等9部门联合印发《关于培育壮大汽车后市场消费若干措施的通知》，正式将建立保险车型综合分级制度与探索车电分离保险模式提上日程。这套组合拳不再只是停留在纸面上的指导意见，而是直接指向了当前新能源车险市场中车主与险企两头难的定价死穴，试图通过精细化拆解风险，让保费回归到更合理的刻度上。",
-    "full_content": "【车主与保险公司双赢？九部门出新规：汽车、电池将分开投保】6月23日，商务部等9部门联合印发《关于培育壮大汽车后市场消费若干措施的通知》，正式将建立保险车型综合分级制度与探索车电分离保险模式提上日程。这套组合拳不再只是停留在纸面上的指导意见，而是直接指向了当前新能源车险市场中车主与险企两头难的定价死穴，试图通过精细化拆解风险，让保费回归到更合理的刻度上。",
-    "sort_time": "1782548794051321",
-    "showTime": "2026-06-27 16:26:34",
-    "time": "2026-06-27 16:26:34",
-    "publish_time": "2026-06-27 16:26:34",
-    "raw_data": {
-      "code": "202606273785451321",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1782548794051321",
-      "share": 8,
-      "showTime": "2026-06-27 16:26:34",
-      "stockList": [
-        "90.BK1033",
-        "90.BK1211"
-      ],
-      "summary": "【车主与保险公司双赢？九部门出新规：汽车、电池将分开投保】6月23日，商务部等9部门联合印发《关于培育壮大汽车后市场消费若干措施的通知》，正式将建立保险车型综合分级制度与探索车电分离保险模式提上日程。这套组合拳不再只是停留在纸面上的指导意见，而是直接指向了当前新能源车险市场中车主与险企两头难的定价死穴，试图通过精细化拆解风险，让保费回归到更合理的刻度上。",
-      "title": "车主与保险公司双赢？九部门出新规：汽车、电池将分开投保",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785451321.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1033",
-      "90.BK1211"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 8,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C101",
-          "name": "新能源车",
-          "matched_keyword": "新能源车"
-        },
-        {
-          "id": "C403",
-          "name": "保险",
-          "matched_keyword": "保险"
-        }
-      ],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": [
-        "C101",
-        "C403"
-      ]
-    }
-  },
-  {
-    "id": "bcd85b11cb5aef18",
-    "code": "202606273785452045",
-    "title": "美国国务卿鲁比奥：达成与印度的贸易协议“近在咫尺”",
-    "summary": "美国国务卿鲁比奥表示，达成与印度的贸易协议“近在咫尺”。",
-    "content": "美国国务卿鲁比奥表示，达成与印度的贸易协议“近在咫尺”。",
-    "full_content": "美国国务卿鲁比奥表示，达成与印度的贸易协议“近在咫尺”。",
-    "sort_time": "1782548770052045",
-    "showTime": "2026-06-27 16:26:10",
-    "time": "2026-06-27 16:26:10",
-    "publish_time": "2026-06-27 16:26:10",
-    "raw_data": {
-      "code": "202606273785452045",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1782548770052045",
-      "share": 0,
-      "showTime": "2026-06-27 16:26:10",
-      "stockList": [
-        "90.BK1550",
-        "90.BK0484"
-      ],
-      "summary": "美国国务卿鲁比奥表示，达成与印度的贸易协议“近在咫尺”。",
-      "title": "美国国务卿鲁比奥：达成与印度的贸易协议“近在咫尺”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785452045.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1550",
-      "90.BK0484"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "dc6e479072c4de6e",
-    "code": "202606273785450077",
-    "title": "韩国政府下调成品油最高限价",
-    "summary": "【韩国政府下调成品油最高限价】据韩联社27日消息，韩国产业通商部表示，韩国政府自27日0时起实施的第七轮成品油最高限价每升下调150韩元(约合人民币0.66元)。报道称，这是韩国政府自3月13日正式实施该制度以来，首次下调成品油价格上限。",
-    "content": "【韩国政府下调成品油最高限价】据韩联社27日消息，韩国产业通商部表示，韩国政府自27日0时起实施的第七轮成品油最高限价每升下调150韩元(约合人民币0.66元)。报道称，这是韩国政府自3月13日正式实施该制度以来，首次下调成品油价格上限。",
-    "full_content": "【韩国政府下调成品油最高限价】据韩联社27日消息，韩国产业通商部表示，韩国政府自27日0时起实施的第七轮成品油最高限价每升下调150韩元(约合人民币0.66元)。报道称，这是韩国政府自3月13日正式实施该制度以来，首次下调成品油价格上限。",
-    "sort_time": "1782548473050077",
-    "showTime": "2026-06-27 16:21:13",
-    "time": "2026-06-27 16:21:13",
-    "publish_time": "2026-06-27 16:21:13",
-    "raw_data": {
-      "code": "202606273785450077",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1782548473050077",
-      "share": 0,
-      "showTime": "2026-06-27 16:21:13",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "【韩国政府下调成品油最高限价】据韩联社27日消息，韩国产业通商部表示，韩国政府自27日0时起实施的第七轮成品油最高限价每升下调150韩元(约合人民币0.66元)。报道称，这是韩国政府自3月13日正式实施该制度以来，首次下调成品油价格上限。",
-      "title": "韩国政府下调成品油最高限价",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785450077.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "eeef0a9154c5a349",
-    "code": "202606273785450128",
-    "title": "靳磊会见南方电网公司董事长钱朝阳",
-    "summary": "【靳磊会见南方电网公司董事长钱朝阳】6月26日，深圳市委书记靳磊会见中国南方电网有限责任公司党组书记、董事长钱朝阳一行。靳磊表示，期待与南方电网公司共同抢抓“六张网”规划建设等机遇，在打造新型电网、探索算电协同新模式等领域深化务实合作，实现互利共赢发展。",
-    "content": "【靳磊会见南方电网公司董事长钱朝阳】6月26日，深圳市委书记靳磊会见中国南方电网有限责任公司党组书记、董事长钱朝阳一行。靳磊表示，期待与南方电网公司共同抢抓“六张网”规划建设等机遇，在打造新型电网、探索算电协同新模式等领域深化务实合作，实现互利共赢发展。",
-    "full_content": "【靳磊会见南方电网公司董事长钱朝阳】6月26日，深圳市委书记靳磊会见中国南方电网有限责任公司党组书记、董事长钱朝阳一行。靳磊表示，期待与南方电网公司共同抢抓“六张网”规划建设等机遇，在打造新型电网、探索算电协同新模式等领域深化务实合作，实现互利共赢发展。",
-    "sort_time": "1782548220050128",
-    "showTime": "2026-06-27 16:17:00",
-    "time": "2026-06-27 16:17:00",
-    "publish_time": "2026-06-27 16:17:00",
-    "raw_data": {
-      "code": "202606273785450128",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1782548220050128",
-      "share": 0,
-      "showTime": "2026-06-27 16:17:00",
-      "stockList": [],
-      "summary": "【靳磊会见南方电网公司董事长钱朝阳】6月26日，深圳市委书记靳磊会见中国南方电网有限责任公司党组书记、董事长钱朝阳一行。靳磊表示，期待与南方电网公司共同抢抓“六张网”规划建设等机遇，在打造新型电网、探索算电协同新模式等领域深化务实合作，实现互利共赢发展。",
-      "title": "靳磊会见南方电网公司董事长钱朝阳",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785450128.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010203",
-          "name": "输配电设备",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "电网"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C108",
-          "name": "特高压",
-          "matched_keyword": "电网"
-        }
-      ],
-      "industry_ids": [
-        "I010203"
-      ],
-      "concept_ids": [
-        "C108"
-      ]
-    }
-  },
-  {
-    "id": "7c8338551219a512",
-    "code": "202606273785449369",
-    "title": "从“算力”到“印钞机”：黄仁勋谈“AI工厂”新叙事 每个Token都是利润",
-    "summary": "【从“算力”到“印钞机”：黄仁勋谈“AI工厂”新叙事 每个Token都是利润】在近期召开的英伟达2026年度股东大会上，黄仁勋释放明确信号：AI走出实验室验证阶段，迈向真实产业落地的生产周期。他指出：“AI基础设施不再是实验性的，它已经进入生产阶段。AI不仅仅是一个模型，它是一个新的产业。”换言之，行业已经从过去反复讨论AI的训练和使用问题，到现在开始讨论“如何让AI被纳入企业的收入核算框架，并持续创造收入”。",
-    "content": "【从“算力”到“印钞机”：黄仁勋谈“AI工厂”新叙事 每个Token都是利润】在近期召开的英伟达2026年度股东大会上，黄仁勋释放明确信号：AI走出实验室验证阶段，迈向真实产业落地的生产周期。他指出：“AI基础设施不再是实验性的，它已经进入生产阶段。AI不仅仅是一个模型，它是一个新的产业。”换言之，行业已经从过去反复讨论AI的训练和使用问题，到现在开始讨论“如何让AI被纳入企业的收入核算框架，并持续创造收入”。",
-    "full_content": "【从“算力”到“印钞机”：黄仁勋谈“AI工厂”新叙事 每个Token都是利润】在近期召开的英伟达2026年度股东大会上，黄仁勋释放明确信号：AI走出实验室验证阶段，迈向真实产业落地的生产周期。他指出：“AI基础设施不再是实验性的，它已经进入生产阶段。AI不仅仅是一个模型，它是一个新的产业。”换言之，行业已经从过去反复讨论AI的训练和使用问题，到现在开始讨论“如何让AI被纳入企业的收入核算框架，并持续创造收入”。",
-    "sort_time": "1782548040049369",
-    "showTime": "2026-06-27 16:14:00",
-    "time": "2026-06-27 16:14:00",
-    "publish_time": "2026-06-27 16:14:00",
-    "raw_data": {
-      "code": "202606273785449369",
-      "image": [],
-      "pinglun_Num": 32,
-      "realSort": "1782548040049369",
-      "share": 20,
-      "showTime": "2026-06-27 16:14:00",
-      "stockList": [
-        "90.BK1134",
-        "150.011668"
-      ],
-      "summary": "【从“算力”到“印钞机”：黄仁勋谈“AI工厂”新叙事 每个Token都是利润】在近期召开的英伟达2026年度股东大会上，黄仁勋释放明确信号：AI走出实验室验证阶段，迈向真实产业落地的生产周期。他指出：“AI基础设施不再是实验性的，它已经进入生产阶段。AI不仅仅是一个模型，它是一个新的产业。”换言之，行业已经从过去反复讨论AI的训练和使用问题，到现在开始讨论“如何让AI被纳入企业的收入核算框架，并持续创造收入”。",
-      "title": "从“算力”到“印钞机”：黄仁勋谈“AI工厂”新叙事 每个Token都是利润",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785449369.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1134",
-      "150.011668"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 32,
-    "share_count": 20,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "55009e62d7e59dea",
-    "code": "202606273785449296",
-    "title": "美光高管吐槽苹果涨价：芯片成本涨45美元 终端加价250美元",
-    "summary": "【美光高管吐槽苹果涨价：芯片成本涨45美元 终端加价250美元】6月27日消息，海外财经投资类网红账号爆出美光科技高管公开吐槽苹果定价模式：十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美元，把成本压力成倍转嫁给用户。",
-    "content": "【美光高管吐槽苹果涨价：芯片成本涨45美元 终端加价250美元】6月27日消息，海外财经投资类网红账号爆出美光科技高管公开吐槽苹果定价模式：十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美元，把成本压力成倍转嫁给用户。",
-    "full_content": "【美光高管吐槽苹果涨价：芯片成本涨45美元 终端加价250美元】6月27日消息，海外财经投资类网红账号爆出美光科技高管公开吐槽苹果定价模式：十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美元，把成本压力成倍转嫁给用户。",
-    "sort_time": "1782547930049296",
-    "showTime": "2026-06-27 16:12:10",
-    "time": "2026-06-27 16:12:10",
-    "publish_time": "2026-06-27 16:12:10",
-    "raw_data": {
-      "code": "202606273785449296",
-      "image": [],
-      "pinglun_Num": 247,
-      "realSort": "1782547930049296",
-      "share": 251,
-      "showTime": "2026-06-27 16:12:10",
-      "stockList": [
-        "0.159813",
-        "150.159813"
-      ],
-      "summary": "【美光高管吐槽苹果涨价：芯片成本涨45美元 终端加价250美元】6月27日消息，海外财经投资类网红账号爆出美光科技高管公开吐槽苹果定价模式：十多年来，苹果长期以5美元采购存储芯片，简单封装后，以99美元的存储升级价卖给消费者，还嘲笑美光想把单价涨到7美元。如今芯片采购价涨到50美元，苹果直接向消费者加价250美元，把成本压力成倍转嫁给用户。",
-      "title": "美光高管吐槽苹果涨价：芯片成本涨45美元 终端加价250美元",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785449296.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159813",
-      "150.159813"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 247,
-    "share_count": 251,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "存储芯片"
-        },
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002",
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "c59b372bcafffa8d",
-    "code": "202606273785448829",
-    "title": "山西省长治市委原常委、市政府原副市长王玉圣被查",
-    "summary": "【山西省长治市委原常委、市政府原副市长王玉圣被查】中央纪委国家监委网站通报，据山西省纪委监委消息：山西省长治市委原常委、市政府原副市长王玉圣涉嫌严重违纪违法，目前正接受山西省纪委监委纪律审查和监察调查。",
-    "content": "【山西省长治市委原常委、市政府原副市长王玉圣被查】中央纪委国家监委网站通报，据山西省纪委监委消息：山西省长治市委原常委、市政府原副市长王玉圣涉嫌严重违纪违法，目前正接受山西省纪委监委纪律审查和监察调查。",
-    "full_content": "【山西省长治市委原常委、市政府原副市长王玉圣被查】中央纪委国家监委网站通报，据山西省纪委监委消息：山西省长治市委原常委、市政府原副市长王玉圣涉嫌严重违纪违法，目前正接受山西省纪委监委纪律审查和监察调查。",
-    "sort_time": "1782547556048829",
-    "showTime": "2026-06-27 16:05:56",
-    "time": "2026-06-27 16:05:56",
-    "publish_time": "2026-06-27 16:05:56",
-    "raw_data": {
-      "code": "202606273785448829",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1782547556048829",
-      "share": 4,
-      "showTime": "2026-06-27 16:05:56",
-      "stockList": [
-        "90.BK0167"
-      ],
-      "summary": "【山西省长治市委原常委、市政府原副市长王玉圣被查】中央纪委国家监委网站通报，据山西省纪委监委消息：山西省长治市委原常委、市政府原副市长王玉圣涉嫌严重违纪违法，目前正接受山西省纪委监委纪律审查和监察调查。",
-      "title": "山西省长治市委原常委、市政府原副市长王玉圣被查",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785448829.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0167"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8008b9379d6f5ad1",
-    "code": "202606273785448661",
-    "title": "“我们AI相关的电源功率订单爆满 根本做不过来”！功率半导体再启阶梯式调价",
-    "summary": "【“我们AI相关的电源功率订单爆满 根本做不过来”！功率半导体再启阶梯式调价】“我们AI相关的电源功率订单‘爆满’，现在根本做不过来”。近日一家芯片厂商人士称。由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。",
-    "content": "【“我们AI相关的电源功率订单爆满 根本做不过来”！功率半导体再启阶梯式调价】“我们AI相关的电源功率订单‘爆满’，现在根本做不过来”。近日一家芯片厂商人士称。由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。",
-    "full_content": "【“我们AI相关的电源功率订单爆满 根本做不过来”！功率半导体再启阶梯式调价】“我们AI相关的电源功率订单‘爆满’，现在根本做不过来”。近日一家芯片厂商人士称。由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。",
-    "sort_time": "1782547556048661",
-    "showTime": "2026-06-27 16:05:56",
-    "time": "2026-06-27 16:05:56",
-    "publish_time": "2026-06-27 16:05:56",
-    "raw_data": {
-      "code": "202606273785448661",
-      "image": [],
-      "pinglun_Num": 329,
-      "realSort": "1782547556048661",
-      "share": 375,
-      "showTime": "2026-06-27 16:05:56",
-      "stockList": [
-        "90.BK0459",
-        "90.BK0481"
-      ],
-      "summary": "【“我们AI相关的电源功率订单爆满 根本做不过来”！功率半导体再启阶梯式调价】“我们AI相关的电源功率订单‘爆满’，现在根本做不过来”。近日一家芯片厂商人士称。由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。",
-      "title": "“我们AI相关的电源功率订单爆满 根本做不过来”！功率半导体再启阶梯式调价",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785448661.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0459",
-      "90.BK0481"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 329,
-    "share_count": 375,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C001",
-        "C002",
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "4686974e60f5c84a",
-    "code": "202606273785448758",
-    "title": "台风来袭 日本气象厅敦促民众保持警惕",
-    "summary": "【台风来袭 日本气象厅敦促民众保持警惕】据日本方面6月27日消息，受台风影响，日本气象厅敦促民众对山体滑坡、河流水位上涨、低洼地区洪水以及巨浪保持高度警惕。",
-    "content": "【台风来袭 日本气象厅敦促民众保持警惕】据日本方面6月27日消息，受台风影响，日本气象厅敦促民众对山体滑坡、河流水位上涨、低洼地区洪水以及巨浪保持高度警惕。",
-    "full_content": "【台风来袭 日本气象厅敦促民众保持警惕】据日本方面6月27日消息，受台风影响，日本气象厅敦促民众对山体滑坡、河流水位上涨、低洼地区洪水以及巨浪保持高度警惕。",
-    "sort_time": "1782547316048758",
-    "showTime": "2026-06-27 16:01:56",
-    "time": "2026-06-27 16:01:56",
-    "publish_time": "2026-06-27 16:01:56",
-    "raw_data": {
-      "code": "202606273785448758",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1782547316048758",
-      "share": 3,
-      "showTime": "2026-06-27 16:01:56",
-      "stockList": [],
-      "summary": "【台风来袭 日本气象厅敦促民众保持警惕】据日本方面6月27日消息，受台风影响，日本气象厅敦促民众对山体滑坡、河流水位上涨、低洼地区洪水以及巨浪保持高度警惕。",
-      "title": "台风来袭 日本气象厅敦促民众保持警惕",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785448758.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f2474a638c274ac6",
-    "code": "202606273785448591",
-    "title": "乌克兰国家天然气公司：俄罗斯袭击了该公司在波尔塔瓦和哈尔科夫地区的生产设施",
-    "summary": "乌克兰国家天然气公司称，俄罗斯袭击了该公司在波尔塔瓦和哈尔科夫地区的生产设施，造成损失。",
-    "content": "乌克兰国家天然气公司称，俄罗斯袭击了该公司在波尔塔瓦和哈尔科夫地区的生产设施，造成损失。",
-    "full_content": "乌克兰国家天然气公司称，俄罗斯袭击了该公司在波尔塔瓦和哈尔科夫地区的生产设施，造成损失。",
-    "sort_time": "1782547095048591",
-    "showTime": "2026-06-27 15:58:15",
-    "time": "2026-06-27 15:58:15",
-    "publish_time": "2026-06-27 15:58:15",
-    "raw_data": {
-      "code": "202606273785448591",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1782547095048591",
-      "share": 0,
-      "showTime": "2026-06-27 15:58:15",
-      "stockList": [],
-      "summary": "乌克兰国家天然气公司称，俄罗斯袭击了该公司在波尔塔瓦和哈尔科夫地区的生产设施，造成损失。",
-      "title": "乌克兰国家天然气公司：俄罗斯袭击了该公司在波尔塔瓦和哈尔科夫地区的生产设施",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785448591.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
-    }
-  },
-  {
-    "id": "99ffc0fe71e2bf92",
-    "code": "202606273785448481",
-    "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布 苹果计划跳过M6 Pro及M6 Max",
-    "summary": "【马克·古尔曼：触屏MacBook将搭载M5芯片发布 苹果计划跳过M6 Pro及M6 Max】当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBookPro将在今年晚些时候或2027年初发布，首发搭载现役M5Pro及M5Max芯片。苹果此后计划推出配备M7芯片的升级版本，这与此前报道苹果将跳过M6Pro及M6Max直接推出M7系列的计划相吻合。",
-    "content": "【马克·古尔曼：触屏MacBook将搭载M5芯片发布 苹果计划跳过M6 Pro及M6 Max】当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBookPro将在今年晚些时候或2027年初发布，首发搭载现役M5Pro及M5Max芯片。苹果此后计划推出配备M7芯片的升级版本，这与此前报道苹果将跳过M6Pro及M6Max直接推出M7系列的计划相吻合。",
-    "full_content": "【马克·古尔曼：触屏MacBook将搭载M5芯片发布 苹果计划跳过M6 Pro及M6 Max】当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBookPro将在今年晚些时候或2027年初发布，首发搭载现役M5Pro及M5Max芯片。苹果此后计划推出配备M7芯片的升级版本，这与此前报道苹果将跳过M6Pro及M6Max直接推出M7系列的计划相吻合。",
-    "sort_time": "1782546962048481",
-    "showTime": "2026-06-27 15:56:02",
-    "time": "2026-06-27 15:56:02",
-    "publish_time": "2026-06-27 15:56:02",
-    "raw_data": {
-      "code": "202606273785448481",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1782546962048481",
-      "share": 0,
-      "showTime": "2026-06-27 15:56:02",
-      "stockList": [
-        "150.159813",
-        "150.013446"
-      ],
-      "summary": "【马克·古尔曼：触屏MacBook将搭载M5芯片发布 苹果计划跳过M6 Pro及M6 Max】当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBookPro将在今年晚些时候或2027年初发布，首发搭载现役M5Pro及M5Max芯片。苹果此后计划推出配备M7芯片的升级版本，这与此前报道苹果将跳过M6Pro及M6Max直接推出M7系列的计划相吻合。",
-      "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布 苹果计划跳过M6 Pro及M6 Max",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202606273785448481.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.159813",
-      "150.013446"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        },
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002",
-        "C807"
       ]
     }
   }
