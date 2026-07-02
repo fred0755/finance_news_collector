@@ -1,5 +1,2397 @@
 [
   {
+    "id": "7a6157ef94676a37",
+    "code": "202607023792264530",
+    "title": "苹果股价上涨4% 报306.190美元/股",
+    "summary": "苹果股价上涨4%，报306.190美元/股，总市值报4.50万亿美元。",
+    "content": "苹果股价上涨4%，报306.190美元/股，总市值报4.50万亿美元。",
+    "full_content": "苹果股价上涨4%，报306.190美元/股，总市值报4.50万亿美元。",
+    "sort_time": "1783002883064530",
+    "showTime": "2026-07-02 22:34:43",
+    "time": "2026-07-02 22:34:43",
+    "publish_time": "2026-07-02 22:34:43",
+    "raw_data": {
+      "code": "202607023792264530",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1783002883064530",
+      "share": 0,
+      "showTime": "2026-07-02 22:34:43",
+      "stockList": [
+        "105.AAPL"
+      ],
+      "summary": "苹果股价上涨4%，报306.190美元/股，总市值报4.50万亿美元。",
+      "title": "苹果股价上涨4% 报306.190美元/股",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792264530.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "e2eef0ff9d3294f3",
+    "code": "202607023792262174",
+    "title": "纳斯达克100指数跌幅扩大至0.5%",
+    "summary": "纳斯达克100指数跌幅扩大至0.5%。",
+    "content": "纳斯达克100指数跌幅扩大至0.5%。",
+    "full_content": "纳斯达克100指数跌幅扩大至0.5%。",
+    "sort_time": "1783002722062174",
+    "showTime": "2026-07-02 22:32:02",
+    "time": "2026-07-02 22:32:02",
+    "publish_time": "2026-07-02 22:32:02",
+    "raw_data": {
+      "code": "202607023792262174",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1783002722062174",
+      "share": 0,
+      "showTime": "2026-07-02 22:32:02",
+      "stockList": [],
+      "summary": "纳斯达克100指数跌幅扩大至0.5%。",
+      "title": "纳斯达克100指数跌幅扩大至0.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792262174.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "41b96101653034c6",
+    "code": "202607023792261426",
+    "title": "美国上周EIA天然气库存增加870亿立方英尺 预期增加840亿立方英尺",
+    "summary": "美国上周EIA天然气库存增加870亿立方英尺，预期增加840亿立方英尺，前值增加760亿立方英尺。",
+    "content": "美国上周EIA天然气库存增加870亿立方英尺，预期增加840亿立方英尺，前值增加760亿立方英尺。",
+    "full_content": "美国上周EIA天然气库存增加870亿立方英尺，预期增加840亿立方英尺，前值增加760亿立方英尺。",
+    "sort_time": "1783002686061426",
+    "showTime": "2026-07-02 22:31:26",
+    "time": "2026-07-02 22:31:26",
+    "publish_time": "2026-07-02 22:31:26",
+    "raw_data": {
+      "code": "202607023792261426",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1783002686061426",
+      "share": 0,
+      "showTime": "2026-07-02 22:31:26",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "美国上周EIA天然气库存增加870亿立方英尺，预期增加840亿立方英尺，前值增加760亿立方英尺。",
+      "title": "美国上周EIA天然气库存增加870亿立方英尺 预期增加840亿立方英尺",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792261426.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "9aa2a676d1bb8650",
+    "code": "202607023792260335",
+    "title": "美光科技跌幅扩大 现跌2%",
+    "summary": "美光科技跌幅扩大至2%。",
+    "content": "美光科技跌幅扩大至2%。",
+    "full_content": "美光科技跌幅扩大至2%。",
+    "sort_time": "1783002478060335",
+    "showTime": "2026-07-02 22:27:58",
+    "time": "2026-07-02 22:27:58",
+    "publish_time": "2026-07-02 22:27:58",
+    "raw_data": {
+      "code": "202607023792260335",
+      "image": [],
+      "pinglun_Num": 9,
+      "realSort": "1783002478060335",
+      "share": 2,
+      "showTime": "2026-07-02 22:27:58",
+      "stockList": [
+        "105.MU"
+      ],
+      "summary": "美光科技跌幅扩大至2%。",
+      "title": "美光科技跌幅扩大 现跌2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792260335.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MU"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 9,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "76d358888f46e463",
+    "code": "202607023792259516",
+    "title": "纳斯达克100指数抹去涨幅",
+    "summary": "纳斯达克100指数抹去涨幅，转为下跌。",
+    "content": "纳斯达克100指数抹去涨幅，转为下跌。",
+    "full_content": "纳斯达克100指数抹去涨幅，转为下跌。",
+    "sort_time": "1783002460059516",
+    "showTime": "2026-07-02 22:27:40",
+    "time": "2026-07-02 22:27:40",
+    "publish_time": "2026-07-02 22:27:40",
+    "raw_data": {
+      "code": "202607023792259516",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1783002460059516",
+      "share": 1,
+      "showTime": "2026-07-02 22:27:40",
+      "stockList": [],
+      "summary": "纳斯达克100指数抹去涨幅，转为下跌。",
+      "title": "纳斯达克100指数抹去涨幅",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792259516.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0ded4607478ed3cd",
+    "code": "202607023792257051",
+    "title": "特斯拉跌幅扩大至5%",
+    "summary": "特斯拉跌幅扩大至5%，总市值报1.52万亿美元。",
+    "content": "特斯拉跌幅扩大至5%，总市值报1.52万亿美元。",
+    "full_content": "特斯拉跌幅扩大至5%，总市值报1.52万亿美元。",
+    "sort_time": "1783002292057051",
+    "showTime": "2026-07-02 22:24:52",
+    "time": "2026-07-02 22:24:52",
+    "publish_time": "2026-07-02 22:24:52",
+    "raw_data": {
+      "code": "202607023792257051",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1783002292057051",
+      "share": 1,
+      "showTime": "2026-07-02 22:24:52",
+      "stockList": [
+        "90.BK0644",
+        "105.TSLA"
+      ],
+      "summary": "特斯拉跌幅扩大至5%，总市值报1.52万亿美元。",
+      "title": "特斯拉跌幅扩大至5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792257051.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0644",
+      "105.TSLA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "b1a7e12c2a6d1530",
+    "code": "202607023792256691",
+    "title": "世卫组织：乌干达出现马尔堡病毒感染病例",
+    "summary": "【世卫组织：乌干达出现马尔堡病毒感染病例】世界卫生组织7月2日公布，在乌干达发现感染马尔堡病毒感染病例。",
+    "content": "【世卫组织：乌干达出现马尔堡病毒感染病例】世界卫生组织7月2日公布，在乌干达发现感染马尔堡病毒感染病例。",
+    "full_content": "【世卫组织：乌干达出现马尔堡病毒感染病例】世界卫生组织7月2日公布，在乌干达发现感染马尔堡病毒感染病例。",
+    "sort_time": "1783002168056691",
+    "showTime": "2026-07-02 22:22:48",
+    "time": "2026-07-02 22:22:48",
+    "publish_time": "2026-07-02 22:22:48",
+    "raw_data": {
+      "code": "202607023792256691",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1783002168056691",
+      "share": 2,
+      "showTime": "2026-07-02 22:22:48",
+      "stockList": [],
+      "summary": "【世卫组织：乌干达出现马尔堡病毒感染病例】世界卫生组织7月2日公布，在乌干达发现感染马尔堡病毒感染病例。",
+      "title": "世卫组织：乌干达出现马尔堡病毒感染病例",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792256691.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "20899d99a559ca2b",
+    "code": "202607023792254640",
+    "title": "美股存储概念股走低 闪迪跌幅扩大至4%",
+    "summary": "【美股存储概念股走低 闪迪跌幅扩大至4%】美股存储概念股走低，闪迪跌幅扩大至4%，希捷科技跌超2%，西部数据跌1.8%，美光科技涨幅收窄至0.2%。",
+    "content": "【美股存储概念股走低 闪迪跌幅扩大至4%】美股存储概念股走低，闪迪跌幅扩大至4%，希捷科技跌超2%，西部数据跌1.8%，美光科技涨幅收窄至0.2%。",
+    "full_content": "【美股存储概念股走低 闪迪跌幅扩大至4%】美股存储概念股走低，闪迪跌幅扩大至4%，希捷科技跌超2%，西部数据跌1.8%，美光科技涨幅收窄至0.2%。",
+    "sort_time": "1783001973054640",
+    "showTime": "2026-07-02 22:19:33",
+    "time": "2026-07-02 22:19:33",
+    "publish_time": "2026-07-02 22:19:33",
+    "raw_data": {
+      "code": "202607023792254640",
+      "image": [],
+      "pinglun_Num": 18,
+      "realSort": "1783001973054640",
+      "share": 32,
+      "showTime": "2026-07-02 22:19:33",
+      "stockList": [],
+      "summary": "【美股存储概念股走低 闪迪跌幅扩大至4%】美股存储概念股走低，闪迪跌幅扩大至4%，希捷科技跌超2%，西部数据跌1.8%，美光科技涨幅收窄至0.2%。",
+      "title": "美股存储概念股走低 闪迪跌幅扩大至4%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792254640.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 18,
+    "share_count": 32,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5081411d7a6bb4ec",
+    "code": "202607023792252159",
+    "title": "机构：AI应用驱动下 8英寸晶圆将进入新一轮缺货涨价周期",
+    "summary": "【机构：AI应用驱动下 8英寸晶圆将进入新一轮缺货涨价周期】群智咨询发文称，随着AI数据中心拉动8英寸需求持续增长，叠加头部代工厂商主动减产、IDM委外订单增加等因素，预计2027年起全球8英寸代工供需持续收紧，尽管8英寸转12英寸趋势能够起一定缓解作用，但并不能扭转8英寸晶圆供应长期紧张的趋势。由于产能利用率与上游材料价格双涨趋势明确，8英寸晶圆代工2027-2030年大概率走入涨价行情。",
+    "content": "【机构：AI应用驱动下 8英寸晶圆将进入新一轮缺货涨价周期】群智咨询发文称，随着AI数据中心拉动8英寸需求持续增长，叠加头部代工厂商主动减产、IDM委外订单增加等因素，预计2027年起全球8英寸代工供需持续收紧，尽管8英寸转12英寸趋势能够起一定缓解作用，但并不能扭转8英寸晶圆供应长期紧张的趋势。由于产能利用率与上游材料价格双涨趋势明确，8英寸晶圆代工2027-2030年大概率走入涨价行情。",
+    "full_content": "【机构：AI应用驱动下 8英寸晶圆将进入新一轮缺货涨价周期】群智咨询发文称，随着AI数据中心拉动8英寸需求持续增长，叠加头部代工厂商主动减产、IDM委外订单增加等因素，预计2027年起全球8英寸代工供需持续收紧，尽管8英寸转12英寸趋势能够起一定缓解作用，但并不能扭转8英寸晶圆供应长期紧张的趋势。由于产能利用率与上游材料价格双涨趋势明确，8英寸晶圆代工2027-2030年大概率走入涨价行情。",
+    "sort_time": "1783001833052159",
+    "showTime": "2026-07-02 22:17:13",
+    "time": "2026-07-02 22:17:13",
+    "publish_time": "2026-07-02 22:17:13",
+    "raw_data": {
+      "code": "202607023792252159",
+      "image": [],
+      "pinglun_Num": 32,
+      "realSort": "1783001833052159",
+      "share": 10,
+      "showTime": "2026-07-02 22:17:13",
+      "stockList": [
+        "90.BK1629"
+      ],
+      "summary": "【机构：AI应用驱动下 8英寸晶圆将进入新一轮缺货涨价周期】群智咨询发文称，随着AI数据中心拉动8英寸需求持续增长，叠加头部代工厂商主动减产、IDM委外订单增加等因素，预计2027年起全球8英寸代工供需持续收紧，尽管8英寸转12英寸趋势能够起一定缓解作用，但并不能扭转8英寸晶圆供应长期紧张的趋势。由于产能利用率与上游材料价格双涨趋势明确，8英寸晶圆代工2027-2030年大概率走入涨价行情。",
+      "title": "机构：AI应用驱动下 8英寸晶圆将进入新一轮缺货涨价周期",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792252159.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK1629"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 32,
+    "share_count": 10,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "晶圆"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "晶圆"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "a851b2a19c525339",
+    "code": "202607023792252038",
+    "title": "苹果股价上涨3.25%",
+    "summary": "苹果股价上涨3.25%，报303.9美元/股，总市值报4.46万亿美元。",
+    "content": "苹果股价上涨3.25%，报303.9美元/股，总市值报4.46万亿美元。",
+    "full_content": "苹果股价上涨3.25%，报303.9美元/股，总市值报4.46万亿美元。",
+    "sort_time": "1783001814052038",
+    "showTime": "2026-07-02 22:16:54",
+    "time": "2026-07-02 22:16:54",
+    "publish_time": "2026-07-02 22:16:54",
+    "raw_data": {
+      "code": "202607023792252038",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1783001814052038",
+      "share": 2,
+      "showTime": "2026-07-02 22:16:54",
+      "stockList": [],
+      "summary": "苹果股价上涨3.25%，报303.9美元/股，总市值报4.46万亿美元。",
+      "title": "苹果股价上涨3.25%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792252038.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "94dfc38947239e0e",
+    "code": "202607023792251182",
+    "title": "ST龙元：筹划重大事项 明起停牌",
+    "summary": "【ST龙元：筹划重大事项 明起停牌】ST龙元(600491.SH)公告称，公司接相关方通知，正在筹划涉及公司的重大事项。为保证公平信息披露，维护投资者利益，避免股价异常波动，公司股票将于2026年7月3日开市起停牌，预计停牌时间不超过2个交易日。",
+    "content": "【ST龙元：筹划重大事项 明起停牌】ST龙元(600491.SH)公告称，公司接相关方通知，正在筹划涉及公司的重大事项。为保证公平信息披露，维护投资者利益，避免股价异常波动，公司股票将于2026年7月3日开市起停牌，预计停牌时间不超过2个交易日。",
+    "full_content": "【ST龙元：筹划重大事项 明起停牌】ST龙元(600491.SH)公告称，公司接相关方通知，正在筹划涉及公司的重大事项。为保证公平信息披露，维护投资者利益，避免股价异常波动，公司股票将于2026年7月3日开市起停牌，预计停牌时间不超过2个交易日。",
+    "sort_time": "1783001764051182",
+    "showTime": "2026-07-02 22:16:04",
+    "time": "2026-07-02 22:16:04",
+    "publish_time": "2026-07-02 22:16:04",
+    "raw_data": {
+      "code": "202607023792251182",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1783001764051182",
+      "share": 11,
+      "showTime": "2026-07-02 22:16:04",
+      "stockList": [
+        "1.600491"
+      ],
+      "summary": "【ST龙元：筹划重大事项 明起停牌】ST龙元(600491.SH)公告称，公司接相关方通知，正在筹划涉及公司的重大事项。为保证公平信息披露，维护投资者利益，避免股价异常波动，公司股票将于2026年7月3日开市起停牌，预计停牌时间不超过2个交易日。",
+      "title": "ST龙元：筹划重大事项 明起停牌",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792251182.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.600491"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 11,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C814",
+          "name": "ST板块",
+          "matched_keyword": "ST"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C814"
+      ]
+    }
+  },
+  {
+    "id": "e28e0075ad5ff782",
+    "code": "202607023792250951",
+    "title": "Meta股价下跌3.52%",
+    "summary": "Meta股价下跌3.52%，报591美元/股，总市值报1.50万亿美元。",
+    "content": "Meta股价下跌3.52%，报591美元/股，总市值报1.50万亿美元。",
+    "full_content": "Meta股价下跌3.52%，报591美元/股，总市值报1.50万亿美元。",
+    "sort_time": "1783001714050951",
+    "showTime": "2026-07-02 22:15:14",
+    "time": "2026-07-02 22:15:14",
+    "publish_time": "2026-07-02 22:15:14",
+    "raw_data": {
+      "code": "202607023792250951",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1783001714050951",
+      "share": 1,
+      "showTime": "2026-07-02 22:15:14",
+      "stockList": [],
+      "summary": "Meta股价下跌3.52%，报591美元/股，总市值报1.50万亿美元。",
+      "title": "Meta股价下跌3.52%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792250951.html",
+    "category": "股市",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 10,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "749d7d5b75084712",
+    "code": "202607023792246782",
+    "title": "欧洲主要国家均已承认霍尔木兹海峡通行费是不可避免的",
+    "summary": "【欧洲主要国家均已承认霍尔木兹海峡通行费是不可避免的】据报道，欧洲主要国家均已承认，霍尔木兹海峡通行费是不可避免的。",
+    "content": "【欧洲主要国家均已承认霍尔木兹海峡通行费是不可避免的】据报道，欧洲主要国家均已承认，霍尔木兹海峡通行费是不可避免的。",
+    "full_content": "【欧洲主要国家均已承认霍尔木兹海峡通行费是不可避免的】据报道，欧洲主要国家均已承认，霍尔木兹海峡通行费是不可避免的。",
+    "sort_time": "1783001599046782",
+    "showTime": "2026-07-02 22:13:19",
+    "time": "2026-07-02 22:13:19",
+    "publish_time": "2026-07-02 22:13:19",
+    "raw_data": {
+      "code": "202607023792246782",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1783001599046782",
+      "share": 4,
+      "showTime": "2026-07-02 22:13:19",
+      "stockList": [],
+      "summary": "【欧洲主要国家均已承认霍尔木兹海峡通行费是不可避免的】据报道，欧洲主要国家均已承认，霍尔木兹海峡通行费是不可避免的。",
+      "title": "欧洲主要国家均已承认霍尔木兹海峡通行费是不可避免的",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792246782.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 11,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "856132522602a017",
+    "code": "202607023792246579",
+    "title": "盘后A股上市公司重点业绩公告精选",
+    "summary": "【盘后A股上市公司重点业绩公告精选】据不完全统计，截至发稿，盘后包括盐湖股份、锐捷网络、广钢气体、华峰化学、奥飞娱乐、永和股份、星网锐捷、福蓉科技、*ST天箭在内的多家A股上市公司发布2026年中报业绩预告。",
+    "content": "【盘后A股上市公司重点业绩公告精选】据不完全统计，截至发稿，盘后包括盐湖股份、锐捷网络、广钢气体、华峰化学、奥飞娱乐、永和股份、星网锐捷、福蓉科技、*ST天箭在内的多家A股上市公司发布2026年中报业绩预告。",
+    "full_content": "【盘后A股上市公司重点业绩公告精选】据不完全统计，截至发稿，盘后包括盐湖股份、锐捷网络、广钢气体、华峰化学、奥飞娱乐、永和股份、星网锐捷、福蓉科技、*ST天箭在内的多家A股上市公司发布2026年中报业绩预告。",
+    "sort_time": "1783001525046579",
+    "showTime": "2026-07-02 22:12:05",
+    "time": "2026-07-02 22:12:05",
+    "publish_time": "2026-07-02 22:12:05",
+    "raw_data": {
+      "code": "202607023792246579",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1783001525046579",
+      "share": 6,
+      "showTime": "2026-07-02 22:12:05",
+      "stockList": [
+        "0.000792",
+        "0.301165"
+      ],
+      "summary": "【盘后A股上市公司重点业绩公告精选】据不完全统计，截至发稿，盘后包括盐湖股份、锐捷网络、广钢气体、华峰化学、奥飞娱乐、永和股份、星网锐捷、福蓉科技、*ST天箭在内的多家A股上市公司发布2026年中报业绩预告。",
+      "title": "盘后A股上市公司重点业绩公告精选",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792246579.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.000792",
+      "0.301165"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C814",
+          "name": "ST板块",
+          "matched_keyword": "*ST"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C814"
+      ]
+    }
+  },
+  {
+    "id": "331e4be524ab7ad0",
+    "code": "202607023792245234",
+    "title": "消息人士：俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日",
+    "summary": "【消息人士：俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日】消息人士称，俄罗斯计划7月通过其西部港口装运最多300万桶/日原油；俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日。",
+    "content": "【消息人士：俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日】消息人士称，俄罗斯计划7月通过其西部港口装运最多300万桶/日原油；俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日。",
+    "full_content": "【消息人士：俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日】消息人士称，俄罗斯计划7月通过其西部港口装运最多300万桶/日原油；俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日。",
+    "sort_time": "1783001407045234",
+    "showTime": "2026-07-02 22:10:07",
+    "time": "2026-07-02 22:10:07",
+    "publish_time": "2026-07-02 22:10:07",
+    "raw_data": {
+      "code": "202607023792245234",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1783001407045234",
+      "share": 0,
+      "showTime": "2026-07-02 22:10:07",
+      "stockList": [
+        "90.BK1481"
+      ],
+      "summary": "【消息人士：俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日】消息人士称，俄罗斯计划7月通过其西部港口装运最多300万桶/日原油；俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日。",
+      "title": "消息人士：俄罗斯6月通过西部港口出口的原油增至创纪录的300万桶/日",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792245234.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1481"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "b6a557a841aec8f2",
+    "code": "202607023792248585",
+    "title": "优必选99万元“机器人伴侣”来了 “与机器人谈恋爱”是情感刚需还是概念故事？",
+    "summary": "【优必选99万元“机器人伴侣”来了 “与机器人谈恋爱”是情感刚需还是概念故事？】6月30日，优必选科技在年度全球发布会上，正式将“机器人伴侣”从科幻概念推向现实货架。全尺寸超仿生人形机器人U1系列亮相，其中顶配版U1 Ultra男版售价高达99万元，女版88万元。尽管价格不菲，发布会现场优必选宣布该系列订单已突破1万台。",
+    "content": "【优必选99万元“机器人伴侣”来了 “与机器人谈恋爱”是情感刚需还是概念故事？】6月30日，优必选科技在年度全球发布会上，正式将“机器人伴侣”从科幻概念推向现实货架。全尺寸超仿生人形机器人U1系列亮相，其中顶配版U1 Ultra男版售价高达99万元，女版88万元。尽管价格不菲，发布会现场优必选宣布该系列订单已突破1万台。",
+    "full_content": "【优必选99万元“机器人伴侣”来了 “与机器人谈恋爱”是情感刚需还是概念故事？】6月30日，优必选科技在年度全球发布会上，正式将“机器人伴侣”从科幻概念推向现实货架。全尺寸超仿生人形机器人U1系列亮相，其中顶配版U1 Ultra男版售价高达99万元，女版88万元。尽管价格不菲，发布会现场优必选宣布该系列订单已突破1万台。",
+    "sort_time": "1783001040048585",
+    "showTime": "2026-07-02 22:04:00",
+    "time": "2026-07-02 22:04:00",
+    "publish_time": "2026-07-02 22:04:00",
+    "raw_data": {
+      "code": "202607023792248585",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1783001040048585",
+      "share": 8,
+      "showTime": "2026-07-02 22:04:00",
+      "stockList": [
+        "150.011668",
+        "150.562500"
+      ],
+      "summary": "【优必选99万元“机器人伴侣”来了 “与机器人谈恋爱”是情感刚需还是概念故事？】6月30日，优必选科技在年度全球发布会上，正式将“机器人伴侣”从科幻概念推向现实货架。全尺寸超仿生人形机器人U1系列亮相，其中顶配版U1 Ultra男版售价高达99万元，女版88万元。尽管价格不菲，发布会现场优必选宣布该系列订单已突破1万台。",
+      "title": "优必选99万元“机器人伴侣”来了 “与机器人谈恋爱”是情感刚需还是概念故事？",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792248585.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "150.011668",
+      "150.562500"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 13,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C012",
+          "name": "机器人",
+          "matched_keyword": "人形机器人"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C012"
+      ]
+    }
+  },
+  {
+    "id": "c6b3fbb16a5a0957",
+    "code": "202607023792230092",
+    "title": "纳斯达克100指数上涨0.7%",
+    "summary": "纳斯达克100指数升至盘中高点，现上涨0.7%。",
+    "content": "纳斯达克100指数升至盘中高点，现上涨0.7%。",
+    "full_content": "纳斯达克100指数升至盘中高点，现上涨0.7%。",
+    "sort_time": "1783001036030092",
+    "showTime": "2026-07-02 22:03:56",
+    "time": "2026-07-02 22:03:56",
+    "publish_time": "2026-07-02 22:03:56",
+    "raw_data": {
+      "code": "202607023792230092",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1783001036030092",
+      "share": 2,
+      "showTime": "2026-07-02 22:03:56",
+      "stockList": [],
+      "summary": "纳斯达克100指数升至盘中高点，现上涨0.7%。",
+      "title": "纳斯达克100指数上涨0.7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792230092.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "198b40b4c1c42a2c",
+    "code": "202607023792229052",
+    "title": "美国5月耐用品订单终值环比下降4.5%",
+    "summary": "美国5月耐用品订单终值环比下降4.5%，符合市场预期。",
+    "content": "美国5月耐用品订单终值环比下降4.5%，符合市场预期。",
+    "full_content": "美国5月耐用品订单终值环比下降4.5%，符合市场预期。",
+    "sort_time": "1783000851029052",
+    "showTime": "2026-07-02 22:00:51",
+    "time": "2026-07-02 22:00:51",
+    "publish_time": "2026-07-02 22:00:51",
+    "raw_data": {
+      "code": "202607023792229052",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1783000851029052",
+      "share": 1,
+      "showTime": "2026-07-02 22:00:51",
+      "stockList": [],
+      "summary": "美国5月耐用品订单终值环比下降4.5%，符合市场预期。",
+      "title": "美国5月耐用品订单终值环比下降4.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792229052.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f34b1fdce4e00e6d",
+    "code": "202607023792228542",
+    "title": "华策影视：拟出资4亿元设立AI视频领域投资基金",
+    "summary": "【华策影视：拟出资4亿元设立AI视频领域投资基金】华策影视(300133.SZ)公告称，公司拟以自有资金出资4亿元，与杭州亨石资产管理有限公司共同设立青岛华歆策达股权投资合伙企业(有限合伙)，公司作为有限合伙人占比78.584%。",
+    "content": "【华策影视：拟出资4亿元设立AI视频领域投资基金】华策影视(300133.SZ)公告称，公司拟以自有资金出资4亿元，与杭州亨石资产管理有限公司共同设立青岛华歆策达股权投资合伙企业(有限合伙)，公司作为有限合伙人占比78.584%。",
+    "full_content": "【华策影视：拟出资4亿元设立AI视频领域投资基金】华策影视(300133.SZ)公告称，公司拟以自有资金出资4亿元，与杭州亨石资产管理有限公司共同设立青岛华歆策达股权投资合伙企业(有限合伙)，公司作为有限合伙人占比78.584%。",
+    "sort_time": "1783000716028542",
+    "showTime": "2026-07-02 21:58:36",
+    "time": "2026-07-02 21:58:36",
+    "publish_time": "2026-07-02 21:58:36",
+    "raw_data": {
+      "code": "202607023792228542",
+      "image": [],
+      "pinglun_Num": 19,
+      "realSort": "1783000716028542",
+      "share": 4,
+      "showTime": "2026-07-02 21:58:36",
+      "stockList": [
+        "90.BK0800",
+        "0.300133"
+      ],
+      "summary": "【华策影视：拟出资4亿元设立AI视频领域投资基金】华策影视(300133.SZ)公告称，公司拟以自有资金出资4亿元，与杭州亨石资产管理有限公司共同设立青岛华歆策达股权投资合伙企业(有限合伙)，公司作为有限合伙人占比78.584%。",
+      "title": "华策影视：拟出资4亿元设立AI视频领域投资基金",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792228542.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.300133"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 19,
+    "share_count": 4,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "84dbf4ae44c2ccc8",
+    "code": "202607023792228166",
+    "title": "美股太空概念股上扬 Rocket Lab涨近7%",
+    "summary": "【美股太空概念股上扬 Rocket Lab涨近7%】美股太空概念股上扬，Rocket Lab涨近7%，AST SpaceMobile涨5%，波音涨近4%，SpaceX涨近2%。",
+    "content": "【美股太空概念股上扬 Rocket Lab涨近7%】美股太空概念股上扬，Rocket Lab涨近7%，AST SpaceMobile涨5%，波音涨近4%，SpaceX涨近2%。",
+    "full_content": "【美股太空概念股上扬 Rocket Lab涨近7%】美股太空概念股上扬，Rocket Lab涨近7%，AST SpaceMobile涨5%，波音涨近4%，SpaceX涨近2%。",
+    "sort_time": "1783000669028166",
+    "showTime": "2026-07-02 21:57:49",
+    "time": "2026-07-02 21:57:49",
+    "publish_time": "2026-07-02 21:57:49",
+    "raw_data": {
+      "code": "202607023792228166",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1783000669028166",
+      "share": 8,
+      "showTime": "2026-07-02 21:57:49",
+      "stockList": [],
+      "summary": "【美股太空概念股上扬 Rocket Lab涨近7%】美股太空概念股上扬，Rocket Lab涨近7%，AST SpaceMobile涨5%，波音涨近4%，SpaceX涨近2%。",
+      "title": "美股太空概念股上扬 Rocket Lab涨近7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792228166.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C814",
+          "name": "ST板块",
+          "matched_keyword": "ST"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C814"
+      ]
+    }
+  },
+  {
+    "id": "bbfdd9c456a259cc",
+    "code": "202607023792226223",
+    "title": "特斯拉跌超3% 此前一度涨超2%",
+    "summary": "【特斯拉跌超3% 此前一度涨超2%】特斯拉跌超3%，此前在盘前交易时段一度涨超2%。",
+    "content": "【特斯拉跌超3% 此前一度涨超2%】特斯拉跌超3%，此前在盘前交易时段一度涨超2%。",
+    "full_content": "【特斯拉跌超3% 此前一度涨超2%】特斯拉跌超3%，此前在盘前交易时段一度涨超2%。",
+    "sort_time": "1783000410026223",
+    "showTime": "2026-07-02 21:53:30",
+    "time": "2026-07-02 21:53:30",
+    "publish_time": "2026-07-02 21:53:30",
+    "raw_data": {
+      "code": "202607023792226223",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1783000410026223",
+      "share": 2,
+      "showTime": "2026-07-02 21:53:30",
+      "stockList": [
+        "90.BK0644",
+        "105.TSLA"
+      ],
+      "summary": "【特斯拉跌超3% 此前一度涨超2%】特斯拉跌超3%，此前在盘前交易时段一度涨超2%。",
+      "title": "特斯拉跌超3% 此前一度涨超2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792226223.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0644",
+      "105.TSLA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "19d3be40758b7cd5",
+    "code": "202607023792224361",
+    "title": "Anthropic据悉正与三星洽谈定制人工智能芯片",
+    "summary": "【Anthropic据悉正与三星洽谈定制人工智能芯片】据三位直接了解该项目的人士透露，Anthropic已开始开发自有的AI芯片，并与三星电子进行了谈判，作为潜在的制造合作伙伴，效仿竞争对手OpenAI试图获得对其模型背后昂贵计算系统的更多控制权。如果Claude制造商继续推进该芯片，与其他公司相比，它在开发自有AI服务器芯片方面将是相对较新的。",
+    "content": "【Anthropic据悉正与三星洽谈定制人工智能芯片】据三位直接了解该项目的人士透露，Anthropic已开始开发自有的AI芯片，并与三星电子进行了谈判，作为潜在的制造合作伙伴，效仿竞争对手OpenAI试图获得对其模型背后昂贵计算系统的更多控制权。如果Claude制造商继续推进该芯片，与其他公司相比，它在开发自有AI服务器芯片方面将是相对较新的。",
+    "full_content": "【Anthropic据悉正与三星洽谈定制人工智能芯片】据三位直接了解该项目的人士透露，Anthropic已开始开发自有的AI芯片，并与三星电子进行了谈判，作为潜在的制造合作伙伴，效仿竞争对手OpenAI试图获得对其模型背后昂贵计算系统的更多控制权。如果Claude制造商继续推进该芯片，与其他公司相比，它在开发自有AI服务器芯片方面将是相对较新的。",
+    "sort_time": "1783000371024361",
+    "showTime": "2026-07-02 21:52:51",
+    "time": "2026-07-02 21:52:51",
+    "publish_time": "2026-07-02 21:52:51",
+    "raw_data": {
+      "code": "202607023792224361",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1783000371024361",
+      "share": 21,
+      "showTime": "2026-07-02 21:52:51",
+      "stockList": [
+        "150.159813",
+        "150.013446"
+      ],
+      "summary": "【Anthropic据悉正与三星洽谈定制人工智能芯片】据三位直接了解该项目的人士透露，Anthropic已开始开发自有的AI芯片，并与三星电子进行了谈判，作为潜在的制造合作伙伴，效仿竞争对手OpenAI试图获得对其模型背后昂贵计算系统的更多控制权。如果Claude制造商继续推进该芯片，与其他公司相比，它在开发自有AI服务器芯片方面将是相对较新的。",
+      "title": "Anthropic据悉正与三星洽谈定制人工智能芯片",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792224361.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.159813",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 13,
+    "share_count": 21,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "服务器"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "1a07dbb6f36c314a",
+    "code": "202607023792223938",
+    "title": "道琼斯指数涨0.9% 再创历史新高",
+    "summary": "【道琼斯指数涨0.9% 再创历史新高】道琼斯指数涨0.9%，再创历史新高，成分股耐克、波音、苹果，高盛领涨。",
+    "content": "【道琼斯指数涨0.9% 再创历史新高】道琼斯指数涨0.9%，再创历史新高，成分股耐克、波音、苹果，高盛领涨。",
+    "full_content": "【道琼斯指数涨0.9% 再创历史新高】道琼斯指数涨0.9%，再创历史新高，成分股耐克、波音、苹果，高盛领涨。",
+    "sort_time": "1783000363023938",
+    "showTime": "2026-07-02 21:52:43",
+    "time": "2026-07-02 21:52:43",
+    "publish_time": "2026-07-02 21:52:43",
+    "raw_data": {
+      "code": "202607023792223938",
+      "image": [],
+      "pinglun_Num": 28,
+      "realSort": "1783000363023938",
+      "share": 31,
+      "showTime": "2026-07-02 21:52:43",
+      "stockList": [],
+      "summary": "【道琼斯指数涨0.9% 再创历史新高】道琼斯指数涨0.9%，再创历史新高，成分股耐克、波音、苹果，高盛领涨。",
+      "title": "道琼斯指数涨0.9% 再创历史新高",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792223938.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 28,
+    "share_count": 31,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "d6daef2d2d3547bb",
+    "code": "202607023792226396",
+    "title": "恐慌指数VIX跌至逾两周低点",
+    "summary": "【恐慌指数VIX跌至逾两周低点】恐慌指数VIX跌至逾两周低点，最新下跌0.72点，报15.87。",
+    "content": "【恐慌指数VIX跌至逾两周低点】恐慌指数VIX跌至逾两周低点，最新下跌0.72点，报15.87。",
+    "full_content": "【恐慌指数VIX跌至逾两周低点】恐慌指数VIX跌至逾两周低点，最新下跌0.72点，报15.87。",
+    "sort_time": "1783000338026396",
+    "showTime": "2026-07-02 21:52:18",
+    "time": "2026-07-02 21:52:18",
+    "publish_time": "2026-07-02 21:52:18",
+    "raw_data": {
+      "code": "202607023792226396",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1783000338026396",
+      "share": 3,
+      "showTime": "2026-07-02 21:52:18",
+      "stockList": [],
+      "summary": "【恐慌指数VIX跌至逾两周低点】恐慌指数VIX跌至逾两周低点，最新下跌0.72点，报15.87。",
+      "title": "恐慌指数VIX跌至逾两周低点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792226396.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f7e76d0fff88fe9b",
+    "code": "202607023792224613",
+    "title": "比特币涨至62000美元 过去24小时内涨4.3%",
+    "summary": "【比特币涨至62000美元 过去24小时内涨4.3%】行情显示，比特币涨至62000美元，过去24小时内涨4.31%；以太坊涨至1709.77美元，过去24小时内涨7.36%。",
+    "content": "【比特币涨至62000美元 过去24小时内涨4.3%】行情显示，比特币涨至62000美元，过去24小时内涨4.31%；以太坊涨至1709.77美元，过去24小时内涨7.36%。",
+    "full_content": "【比特币涨至62000美元 过去24小时内涨4.3%】行情显示，比特币涨至62000美元，过去24小时内涨4.31%；以太坊涨至1709.77美元，过去24小时内涨7.36%。",
+    "sort_time": "1783000275024613",
+    "showTime": "2026-07-02 21:51:15",
+    "time": "2026-07-02 21:51:15",
+    "publish_time": "2026-07-02 21:51:15",
+    "raw_data": {
+      "code": "202607023792224613",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1783000275024613",
+      "share": 3,
+      "showTime": "2026-07-02 21:51:15",
+      "stockList": [
+        "90.BK0830"
+      ],
+      "summary": "【比特币涨至62000美元 过去24小时内涨4.3%】行情显示，比特币涨至62000美元，过去24小时内涨4.31%；以太坊涨至1709.77美元，过去24小时内涨7.36%。",
+      "title": "比特币涨至62000美元 过去24小时内涨4.3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792224613.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0830"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C008",
+          "name": "区块链",
+          "matched_keyword": "以太坊"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C008"
+      ]
+    }
+  },
+  {
+    "id": "13de7ce92f624d70",
+    "code": "202607023792219210",
+    "title": "美国贵金属矿业公司股票上涨",
+    "summary": "【美国贵金属矿业公司股票上涨】美国上市贵金属矿业公司股票上涨，Gold Fields上涨5.6%，纽蒙特矿业上涨3.8%，巴里克黄金上涨4.1%，SPDR黄金ETF上涨2.3%。",
+    "content": "【美国贵金属矿业公司股票上涨】美国上市贵金属矿业公司股票上涨，Gold Fields上涨5.6%，纽蒙特矿业上涨3.8%，巴里克黄金上涨4.1%，SPDR黄金ETF上涨2.3%。",
+    "full_content": "【美国贵金属矿业公司股票上涨】美国上市贵金属矿业公司股票上涨，Gold Fields上涨5.6%，纽蒙特矿业上涨3.8%，巴里克黄金上涨4.1%，SPDR黄金ETF上涨2.3%。",
+    "sort_time": "1783000007019210",
+    "showTime": "2026-07-02 21:46:47",
+    "time": "2026-07-02 21:46:47",
+    "publish_time": "2026-07-02 21:46:47",
+    "raw_data": {
+      "code": "202607023792219210",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1783000007019210",
+      "share": 1,
+      "showTime": "2026-07-02 21:46:47",
+      "stockList": [
+        "0.159934",
+        "1.518880"
+      ],
+      "summary": "【美国贵金属矿业公司股票上涨】美国上市贵金属矿业公司股票上涨，Gold Fields上涨5.6%，纽蒙特矿业上涨3.8%，巴里克黄金上涨4.1%，SPDR黄金ETF上涨2.3%。",
+      "title": "美国贵金属矿业公司股票上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792219210.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.159934",
+      "1.518880"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "ETF"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "b249719e177f6deb",
+    "code": "202607023792216163",
+    "title": "AI应用股Palantir涨超5%",
+    "summary": "【AI应用股Palantir涨超5%】AI应用股Palantir盘初走高，最新涨超5%。",
+    "content": "【AI应用股Palantir涨超5%】AI应用股Palantir盘初走高，最新涨超5%。",
+    "full_content": "【AI应用股Palantir涨超5%】AI应用股Palantir盘初走高，最新涨超5%。",
+    "sort_time": "1782999740016163",
+    "showTime": "2026-07-02 21:42:20",
+    "time": "2026-07-02 21:42:20",
+    "publish_time": "2026-07-02 21:42:20",
+    "raw_data": {
+      "code": "202607023792216163",
+      "image": [],
+      "pinglun_Num": 17,
+      "realSort": "1782999740016163",
+      "share": 10,
+      "showTime": "2026-07-02 21:42:20",
+      "stockList": [
+        "90.BK1629",
+        "105.PLTR"
+      ],
+      "summary": "【AI应用股Palantir涨超5%】AI应用股Palantir盘初走高，最新涨超5%。",
+      "title": "AI应用股Palantir涨超5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792216163.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1629",
+      "105.PLTR"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 17,
+    "share_count": 10,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "53cfea6ef078725c",
+    "code": "202607023792211785",
+    "title": "世卫启动针对本迪布焦型埃博拉病毒的临床试验",
+    "summary": "【世卫启动针对本迪布焦型埃博拉病毒的临床试验】当地时间7月2日，世卫组织总干事谭德塞表示，已在刚果（金）启动一项评估本迪布焦型埃博拉病毒潜在治疗方法的大型国际临床试验。",
+    "content": "【世卫启动针对本迪布焦型埃博拉病毒的临床试验】当地时间7月2日，世卫组织总干事谭德塞表示，已在刚果（金）启动一项评估本迪布焦型埃博拉病毒潜在治疗方法的大型国际临床试验。",
+    "full_content": "【世卫启动针对本迪布焦型埃博拉病毒的临床试验】当地时间7月2日，世卫组织总干事谭德塞表示，已在刚果（金）启动一项评估本迪布焦型埃博拉病毒潜在治疗方法的大型国际临床试验。",
+    "sort_time": "1782999701011785",
+    "showTime": "2026-07-02 21:41:41",
+    "time": "2026-07-02 21:41:41",
+    "publish_time": "2026-07-02 21:41:41",
+    "raw_data": {
+      "code": "202607023792211785",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1782999701011785",
+      "share": 2,
+      "showTime": "2026-07-02 21:41:41",
+      "stockList": [],
+      "summary": "【世卫启动针对本迪布焦型埃博拉病毒的临床试验】当地时间7月2日，世卫组织总干事谭德塞表示，已在刚果（金）启动一项评估本迪布焦型埃博拉病毒潜在治疗方法的大型国际临床试验。",
+      "title": "世卫启动针对本迪布焦型埃博拉病毒的临床试验",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792211785.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9dbb94846311e935",
+    "code": "202607023792215273",
+    "title": "苹果美股盘初涨2%",
+    "summary": "【苹果美股盘初涨2%】苹果美股盘初涨2%。据财联社，苹果上调首款折叠屏iPhone备货预期，目标从700万—800万部增至约1000万部。",
+    "content": "【苹果美股盘初涨2%】苹果美股盘初涨2%。据财联社，苹果上调首款折叠屏iPhone备货预期，目标从700万—800万部增至约1000万部。",
+    "full_content": "【苹果美股盘初涨2%】苹果美股盘初涨2%。据财联社，苹果上调首款折叠屏iPhone备货预期，目标从700万—800万部增至约1000万部。",
+    "sort_time": "1782999641015273",
+    "showTime": "2026-07-02 21:40:41",
+    "time": "2026-07-02 21:40:41",
+    "publish_time": "2026-07-02 21:40:41",
+    "raw_data": {
+      "code": "202607023792215273",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1782999641015273",
+      "share": 1,
+      "showTime": "2026-07-02 21:40:41",
+      "stockList": [],
+      "summary": "【苹果美股盘初涨2%】苹果美股盘初涨2%。据财联社，苹果上调首款折叠屏iPhone备货预期，目标从700万—800万部增至约1000万部。",
+      "title": "苹果美股盘初涨2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792215273.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "iPhone"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "6d9575fd0af7c8fb",
+    "code": "202607023792213183",
+    "title": "稳定币USDC发行商Circle涨超9%",
+    "summary": "稳定币USDC发行商Circle盘初走高，最新涨超9%。",
+    "content": "稳定币USDC发行商Circle盘初走高，最新涨超9%。",
+    "full_content": "稳定币USDC发行商Circle盘初走高，最新涨超9%。",
+    "sort_time": "1782999598013183",
+    "showTime": "2026-07-02 21:39:58",
+    "time": "2026-07-02 21:39:58",
+    "publish_time": "2026-07-02 21:39:58",
+    "raw_data": {
+      "code": "202607023792213183",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1782999598013183",
+      "share": 2,
+      "showTime": "2026-07-02 21:39:58",
+      "stockList": [],
+      "summary": "稳定币USDC发行商Circle盘初走高，最新涨超9%。",
+      "title": "稳定币USDC发行商Circle涨超9%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792213183.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d278815a72fa64a5",
+    "code": "202607023792213475",
+    "title": "汇丰上调英特尔目标价",
+    "summary": "【汇丰上调英特尔目标价】汇丰将英特尔目标股价从100美元上调至200美元。",
+    "content": "【汇丰上调英特尔目标价】汇丰将英特尔目标股价从100美元上调至200美元。",
+    "full_content": "【汇丰上调英特尔目标价】汇丰将英特尔目标股价从100美元上调至200美元。",
+    "sort_time": "1782999575013475",
+    "showTime": "2026-07-02 21:39:35",
+    "time": "2026-07-02 21:39:35",
+    "publish_time": "2026-07-02 21:39:35",
+    "raw_data": {
+      "code": "202607023792213475",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1782999575013475",
+      "share": 5,
+      "showTime": "2026-07-02 21:39:35",
+      "stockList": [
+        "105.INTC"
+      ],
+      "summary": "【汇丰上调英特尔目标价】汇丰将英特尔目标股价从100美元上调至200美元。",
+      "title": "汇丰上调英特尔目标价",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792213475.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.INTC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "67dced2efeec23b9",
+    "code": "202607023792213634",
+    "title": "美国白宫经济顾问：对鲍威尔留任美联储的动机表示担忧",
+    "summary": "【美国白宫经济顾问：对鲍威尔留任美联储的动机表示担忧】美国白宫经济顾问哈塞特表示，非常不寻常的是鲍威尔仍未离开美联储，对鲍威尔留任美联储的动机表示担忧。",
+    "content": "【美国白宫经济顾问：对鲍威尔留任美联储的动机表示担忧】美国白宫经济顾问哈塞特表示，非常不寻常的是鲍威尔仍未离开美联储，对鲍威尔留任美联储的动机表示担忧。",
+    "full_content": "【美国白宫经济顾问：对鲍威尔留任美联储的动机表示担忧】美国白宫经济顾问哈塞特表示，非常不寻常的是鲍威尔仍未离开美联储，对鲍威尔留任美联储的动机表示担忧。",
+    "sort_time": "1782999551013634",
+    "showTime": "2026-07-02 21:39:11",
+    "time": "2026-07-02 21:39:11",
+    "publish_time": "2026-07-02 21:39:11",
+    "raw_data": {
+      "code": "202607023792213634",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1782999551013634",
+      "share": 0,
+      "showTime": "2026-07-02 21:39:11",
+      "stockList": [],
+      "summary": "【美国白宫经济顾问：对鲍威尔留任美联储的动机表示担忧】美国白宫经济顾问哈塞特表示，非常不寻常的是鲍威尔仍未离开美联储，对鲍威尔留任美联储的动机表示担忧。",
+      "title": "美国白宫经济顾问：对鲍威尔留任美联储的动机表示担忧",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792213634.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "39cf82fde3bc3e7b",
+    "code": "202607023792193657",
+    "title": "特斯拉抹去早盘涨幅",
+    "summary": "【特斯拉抹去早盘涨幅】特斯拉股价抹去了早盘涨幅，目前下跌1.2%。",
+    "content": "【特斯拉抹去早盘涨幅】特斯拉股价抹去了早盘涨幅，目前下跌1.2%。",
+    "full_content": "【特斯拉抹去早盘涨幅】特斯拉股价抹去了早盘涨幅，目前下跌1.2%。",
+    "sort_time": "1782999488093657",
+    "showTime": "2026-07-02 21:38:08",
+    "time": "2026-07-02 21:38:08",
+    "publish_time": "2026-07-02 21:38:08",
+    "raw_data": {
+      "code": "202607023792193657",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1782999488093657",
+      "share": 0,
+      "showTime": "2026-07-02 21:38:08",
+      "stockList": [
+        "90.BK0644",
+        "105.TSLA"
+      ],
+      "summary": "【特斯拉抹去早盘涨幅】特斯拉股价抹去了早盘涨幅，目前下跌1.2%。",
+      "title": "特斯拉抹去早盘涨幅",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792193657.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0644",
+      "105.TSLA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "4235162dde8953be",
+    "code": "202607023792181293",
+    "title": "Meta盘初走低 下跌2%",
+    "summary": "Meta盘初走低，最新下跌2%。",
+    "content": "Meta盘初走低，最新下跌2%。",
+    "full_content": "Meta盘初走低，最新下跌2%。",
+    "sort_time": "1782999346081293",
+    "showTime": "2026-07-02 21:35:46",
+    "time": "2026-07-02 21:35:46",
+    "publish_time": "2026-07-02 21:35:46",
+    "raw_data": {
+      "code": "202607023792181293",
+      "image": [],
+      "pinglun_Num": 32,
+      "realSort": "1782999346081293",
+      "share": 5,
+      "showTime": "2026-07-02 21:35:46",
+      "stockList": [
+        "105.META"
+      ],
+      "summary": "Meta盘初走低，最新下跌2%。",
+      "title": "Meta盘初走低 下跌2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792181293.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "105.META"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 32,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "86601f79159c2d0e",
+    "code": "202607023792179967",
+    "title": "纳斯达克中国金龙指数跌超0.5%",
+    "summary": "纳斯达克中国金龙指数跌超0.5%。",
+    "content": "纳斯达克中国金龙指数跌超0.5%。",
+    "full_content": "纳斯达克中国金龙指数跌超0.5%。",
+    "sort_time": "1782999273079967",
+    "showTime": "2026-07-02 21:34:33",
+    "time": "2026-07-02 21:34:33",
+    "publish_time": "2026-07-02 21:34:33",
+    "raw_data": {
+      "code": "202607023792179967",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1782999273079967",
+      "share": 1,
+      "showTime": "2026-07-02 21:34:33",
+      "stockList": [],
+      "summary": "纳斯达克中国金龙指数跌超0.5%。",
+      "title": "纳斯达克中国金龙指数跌超0.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792179967.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ce13bf25f78eb412",
+    "code": "202607023792177476",
+    "title": "美股集体高开 黄金板块领涨",
+    "summary": "【美股集体高开 黄金板块领涨】道指涨0.55%，纳指涨0.05%，标普500指数涨0.31%。6月非农数据远低于市场预期，削减了加息押注，现货黄金、加密货币等上涨。黄金板块领涨，哈莫尼黄金涨超5%，金田涨超4%，金罗斯黄金涨超3%。加密货币概念股上涨，Strategy涨超5%，Coinbase涨超3%，Circle涨超2%。",
+    "content": "【美股集体高开 黄金板块领涨】道指涨0.55%，纳指涨0.05%，标普500指数涨0.31%。6月非农数据远低于市场预期，削减了加息押注，现货黄金、加密货币等上涨。黄金板块领涨，哈莫尼黄金涨超5%，金田涨超4%，金罗斯黄金涨超3%。加密货币概念股上涨，Strategy涨超5%，Coinbase涨超3%，Circle涨超2%。",
+    "full_content": "【美股集体高开 黄金板块领涨】道指涨0.55%，纳指涨0.05%，标普500指数涨0.31%。6月非农数据远低于市场预期，削减了加息押注，现货黄金、加密货币等上涨。黄金板块领涨，哈莫尼黄金涨超5%，金田涨超4%，金罗斯黄金涨超3%。加密货币概念股上涨，Strategy涨超5%，Coinbase涨超3%，Circle涨超2%。",
+    "sort_time": "1782999056077476",
+    "showTime": "2026-07-02 21:30:56",
+    "time": "2026-07-02 21:30:56",
+    "publish_time": "2026-07-02 21:30:56",
+    "raw_data": {
+      "code": "202607023792177476",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1782999056077476",
+      "share": 15,
+      "showTime": "2026-07-02 21:30:56",
+      "stockList": [],
+      "summary": "【美股集体高开 黄金板块领涨】道指涨0.55%，纳指涨0.05%，标普500指数涨0.31%。6月非农数据远低于市场预期，削减了加息押注，现货黄金、加密货币等上涨。黄金板块领涨，哈莫尼黄金涨超5%，金田涨超4%，金罗斯黄金涨超3%。加密货币概念股上涨，Strategy涨超5%，Coinbase涨超3%，Circle涨超2%。",
+      "title": "美股集体高开 黄金板块领涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792177476.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 15,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "97acbe907fee24ae",
+    "code": "202607023792176984",
+    "title": "世卫组织宣布与邮轮相关的汉坦病毒疫情结束",
+    "summary": "【世卫组织宣布与邮轮相关的汉坦病毒疫情结束】当地时间2日，世卫组织总干事谭德塞宣布，与游轮有关的汉坦病毒疫情已结束，最后一名接触者完成了隔离且病毒检测结果呈阴性。此次疫情共导致13人感染、3人死亡。",
+    "content": "【世卫组织宣布与邮轮相关的汉坦病毒疫情结束】当地时间2日，世卫组织总干事谭德塞宣布，与游轮有关的汉坦病毒疫情已结束，最后一名接触者完成了隔离且病毒检测结果呈阴性。此次疫情共导致13人感染、3人死亡。",
+    "full_content": "【世卫组织宣布与邮轮相关的汉坦病毒疫情结束】当地时间2日，世卫组织总干事谭德塞宣布，与游轮有关的汉坦病毒疫情已结束，最后一名接触者完成了隔离且病毒检测结果呈阴性。此次疫情共导致13人感染、3人死亡。",
+    "sort_time": "1782999049076984",
+    "showTime": "2026-07-02 21:30:49",
+    "time": "2026-07-02 21:30:49",
+    "publish_time": "2026-07-02 21:30:49",
+    "raw_data": {
+      "code": "202607023792176984",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1782999049076984",
+      "share": 0,
+      "showTime": "2026-07-02 21:30:49",
+      "stockList": [],
+      "summary": "【世卫组织宣布与邮轮相关的汉坦病毒疫情结束】当地时间2日，世卫组织总干事谭德塞宣布，与游轮有关的汉坦病毒疫情已结束，最后一名接触者完成了隔离且病毒检测结果呈阴性。此次疫情共导致13人感染、3人死亡。",
+      "title": "世卫组织宣布与邮轮相关的汉坦病毒疫情结束",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792176984.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "22c45bd93fb05e2c",
+    "code": "202607023792176768",
+    "title": "中国贸促会会长任鸿斌会见瑞士贸易与投资署署长安雅·菲德勒",
+    "summary": "【中国贸促会会长任鸿斌会见瑞士贸易与投资署署长安雅·菲德勒】中国贸促会会长任鸿斌7月2日在京会见瑞士贸易与投资署署长安雅·菲德勒一行。双方就深化两机构机制性合作关系、支持两国企业拓展贸易投资合作、推动创新链与产供链深度融合等议题进行交流。",
+    "content": "【中国贸促会会长任鸿斌会见瑞士贸易与投资署署长安雅·菲德勒】中国贸促会会长任鸿斌7月2日在京会见瑞士贸易与投资署署长安雅·菲德勒一行。双方就深化两机构机制性合作关系、支持两国企业拓展贸易投资合作、推动创新链与产供链深度融合等议题进行交流。",
+    "full_content": "【中国贸促会会长任鸿斌会见瑞士贸易与投资署署长安雅·菲德勒】中国贸促会会长任鸿斌7月2日在京会见瑞士贸易与投资署署长安雅·菲德勒一行。双方就深化两机构机制性合作关系、支持两国企业拓展贸易投资合作、推动创新链与产供链深度融合等议题进行交流。",
+    "sort_time": "1782998938076768",
+    "showTime": "2026-07-02 21:28:58",
+    "time": "2026-07-02 21:28:58",
+    "publish_time": "2026-07-02 21:28:58",
+    "raw_data": {
+      "code": "202607023792176768",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782998938076768",
+      "share": 0,
+      "showTime": "2026-07-02 21:28:58",
+      "stockList": [
+        "90.BK1550",
+        "90.BK0484"
+      ],
+      "summary": "【中国贸促会会长任鸿斌会见瑞士贸易与投资署署长安雅·菲德勒】中国贸促会会长任鸿斌7月2日在京会见瑞士贸易与投资署署长安雅·菲德勒一行。双方就深化两机构机制性合作关系、支持两国企业拓展贸易投资合作、推动创新链与产供链深度融合等议题进行交流。",
+      "title": "中国贸促会会长任鸿斌会见瑞士贸易与投资署署长安雅·菲德勒",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792176768.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1550",
+      "90.BK0484"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "24acfc558880a9de",
+    "code": "202607023792176453",
+    "title": "葡萄牙宣布将进入警戒状态应对极端高温",
+    "summary": "【葡萄牙宣布将进入警戒状态应对极端高温】据新华社，葡萄牙政府2日宣布，全国将从3日开始进入警戒状态，以应对预计将持续至6日的极端高温天气。与此同时，针对农业活动中使用机械设备的紧急限制措施正式生效，以降低野火风险。",
+    "content": "【葡萄牙宣布将进入警戒状态应对极端高温】据新华社，葡萄牙政府2日宣布，全国将从3日开始进入警戒状态，以应对预计将持续至6日的极端高温天气。与此同时，针对农业活动中使用机械设备的紧急限制措施正式生效，以降低野火风险。",
+    "full_content": "【葡萄牙宣布将进入警戒状态应对极端高温】据新华社，葡萄牙政府2日宣布，全国将从3日开始进入警戒状态，以应对预计将持续至6日的极端高温天气。与此同时，针对农业活动中使用机械设备的紧急限制措施正式生效，以降低野火风险。",
+    "sort_time": "1782998805076453",
+    "showTime": "2026-07-02 21:26:45",
+    "time": "2026-07-02 21:26:45",
+    "publish_time": "2026-07-02 21:26:45",
+    "raw_data": {
+      "code": "202607023792176453",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1782998805076453",
+      "share": 0,
+      "showTime": "2026-07-02 21:26:45",
+      "stockList": [],
+      "summary": "【葡萄牙宣布将进入警戒状态应对极端高温】据新华社，葡萄牙政府2日宣布，全国将从3日开始进入警戒状态，以应对预计将持续至6日的极端高温天气。与此同时，针对农业活动中使用机械设备的紧急限制措施正式生效，以降低野火风险。",
+      "title": "葡萄牙宣布将进入警戒状态应对极端高温",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792176453.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0d75dbd8487a14f6",
+    "code": "202607023792175326",
+    "title": "特朗普在社媒发文感谢美光科技投资“特朗普账户”",
+    "summary": "特朗普在社媒发文感谢美光科技投资“特朗普账户”。",
+    "content": "特朗普在社媒发文感谢美光科技投资“特朗普账户”。",
+    "full_content": "特朗普在社媒发文感谢美光科技投资“特朗普账户”。",
+    "sort_time": "1782998726075326",
+    "showTime": "2026-07-02 21:25:26",
+    "time": "2026-07-02 21:25:26",
+    "publish_time": "2026-07-02 21:25:26",
+    "raw_data": {
+      "code": "202607023792175326",
+      "image": [],
+      "pinglun_Num": 32,
+      "realSort": "1782998726075326",
+      "share": 101,
+      "showTime": "2026-07-02 21:25:26",
+      "stockList": [
+        "105.MU"
+      ],
+      "summary": "特朗普在社媒发文感谢美光科技投资“特朗普账户”。",
+      "title": "特朗普在社媒发文感谢美光科技投资“特朗普账户”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792175326.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MU"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 32,
+    "share_count": 101,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4e390fea91737d19",
+    "code": "202607023792176585",
+    "title": "海螺水泥：拟收购皖维高新及蒙维科技水泥资产 交易总价最高不超过6.91亿元",
+    "summary": "【海螺水泥：拟收购皖维高新及蒙维科技水泥资产 交易总价最高不超过6.91亿元】海螺水泥(600585.SH)公告称，公司全资子公司合肥海螺与皖维高新、乌兰察布海螺与蒙维科技分别签订资产转让协议，拟以现金方式收购其水泥产品生产销售业务相关资产，交易总价款为6.19亿元(最高不超过6.91亿元)。本次收购构成关联交易，旨在解决潜在同业竞争问题，完善公司主业市场布局。",
+    "content": "【海螺水泥：拟收购皖维高新及蒙维科技水泥资产 交易总价最高不超过6.91亿元】海螺水泥(600585.SH)公告称，公司全资子公司合肥海螺与皖维高新、乌兰察布海螺与蒙维科技分别签订资产转让协议，拟以现金方式收购其水泥产品生产销售业务相关资产，交易总价款为6.19亿元(最高不超过6.91亿元)。本次收购构成关联交易，旨在解决潜在同业竞争问题，完善公司主业市场布局。",
+    "full_content": "【海螺水泥：拟收购皖维高新及蒙维科技水泥资产 交易总价最高不超过6.91亿元】海螺水泥(600585.SH)公告称，公司全资子公司合肥海螺与皖维高新、乌兰察布海螺与蒙维科技分别签订资产转让协议，拟以现金方式收购其水泥产品生产销售业务相关资产，交易总价款为6.19亿元(最高不超过6.91亿元)。本次收购构成关联交易，旨在解决潜在同业竞争问题，完善公司主业市场布局。",
+    "sort_time": "1782998706076585",
+    "showTime": "2026-07-02 21:25:06",
+    "time": "2026-07-02 21:25:06",
+    "publish_time": "2026-07-02 21:25:06",
+    "raw_data": {
+      "code": "202607023792176585",
+      "image": [],
+      "pinglun_Num": 9,
+      "realSort": "1782998706076585",
+      "share": 5,
+      "showTime": "2026-07-02 21:25:06",
+      "stockList": [
+        "90.BK0424",
+        "116.00914"
+      ],
+      "summary": "【海螺水泥：拟收购皖维高新及蒙维科技水泥资产 交易总价最高不超过6.91亿元】海螺水泥(600585.SH)公告称，公司全资子公司合肥海螺与皖维高新、乌兰察布海螺与蒙维科技分别签订资产转让协议，拟以现金方式收购其水泥产品生产销售业务相关资产，交易总价款为6.19亿元(最高不超过6.91亿元)。本次收购构成关联交易，旨在解决潜在同业竞争问题，完善公司主业市场布局。",
+      "title": "海螺水泥：拟收购皖维高新及蒙维科技水泥资产 交易总价最高不超过6.91亿元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792176585.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0424",
+      "116.00914"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 9,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "79c7789f604944dd",
+    "code": "202607023792174483",
+    "title": "本周国内多晶硅成交价格继续低位下探",
+    "summary": "【本周国内多晶硅成交价格继续低位下探】中国有色金属工业协会硅业分会发布最新周度多晶硅市场价格数据。据安泰科统计，本周国内多晶硅成交价格继续低位下探，N型复投料（棒状硅）与N 型颗粒硅均价双双环比下滑，本轮多晶硅价格已实现周度五连跌。",
+    "content": "【本周国内多晶硅成交价格继续低位下探】中国有色金属工业协会硅业分会发布最新周度多晶硅市场价格数据。据安泰科统计，本周国内多晶硅成交价格继续低位下探，N型复投料（棒状硅）与N 型颗粒硅均价双双环比下滑，本轮多晶硅价格已实现周度五连跌。",
+    "full_content": "【本周国内多晶硅成交价格继续低位下探】中国有色金属工业协会硅业分会发布最新周度多晶硅市场价格数据。据安泰科统计，本周国内多晶硅成交价格继续低位下探，N型复投料（棒状硅）与N 型颗粒硅均价双双环比下滑，本轮多晶硅价格已实现周度五连跌。",
+    "sort_time": "1782998575074483",
+    "showTime": "2026-07-02 21:22:55",
+    "time": "2026-07-02 21:22:55",
+    "publish_time": "2026-07-02 21:22:55",
+    "raw_data": {
+      "code": "202607023792174483",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1782998575074483",
+      "share": 0,
+      "showTime": "2026-07-02 21:22:55",
+      "stockList": [
+        "90.BK1031"
+      ],
+      "summary": "【本周国内多晶硅成交价格继续低位下探】中国有色金属工业协会硅业分会发布最新周度多晶硅市场价格数据。据安泰科统计，本周国内多晶硅成交价格继续低位下探，N型复投料（棒状硅）与N 型颗粒硅均价双双环比下滑，本轮多晶硅价格已实现周度五连跌。",
+      "title": "本周国内多晶硅成交价格继续低位下探",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792174483.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK1031"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "有色金属"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "17666b01be445228",
+    "code": "202607023792174096",
+    "title": "业内人士：本月算力租赁价格续涨 训练卡与推理卡需求或现分化",
+    "summary": "【业内人士：本月算力租赁价格续涨 训练卡与推理卡需求或现分化】针对Meta正计划推出名为“Meta Compute”的云基础设施服务，计划向外部客户出售AI算力，一名算力租赁行业的人士表示，Meta此前在AI领域投入巨大但成果落地缓慢，出租算力既能回笼现金流，也意味着其正与上一代的旧硬件及盲目扩张策略做切割。他还透露，其租赁算力服务器的供应商提到本月初会继续涨价。他判断，推理卡和训练卡需求有可能在分化。",
+    "content": "【业内人士：本月算力租赁价格续涨 训练卡与推理卡需求或现分化】针对Meta正计划推出名为“Meta Compute”的云基础设施服务，计划向外部客户出售AI算力，一名算力租赁行业的人士表示，Meta此前在AI领域投入巨大但成果落地缓慢，出租算力既能回笼现金流，也意味着其正与上一代的旧硬件及盲目扩张策略做切割。他还透露，其租赁算力服务器的供应商提到本月初会继续涨价。他判断，推理卡和训练卡需求有可能在分化。",
+    "full_content": "【业内人士：本月算力租赁价格续涨 训练卡与推理卡需求或现分化】针对Meta正计划推出名为“Meta Compute”的云基础设施服务，计划向外部客户出售AI算力，一名算力租赁行业的人士表示，Meta此前在AI领域投入巨大但成果落地缓慢，出租算力既能回笼现金流，也意味着其正与上一代的旧硬件及盲目扩张策略做切割。他还透露，其租赁算力服务器的供应商提到本月初会继续涨价。他判断，推理卡和训练卡需求有可能在分化。",
+    "sort_time": "1782998493074096",
+    "showTime": "2026-07-02 21:21:33",
+    "time": "2026-07-02 21:21:33",
+    "publish_time": "2026-07-02 21:21:33",
+    "raw_data": {
+      "code": "202607023792174096",
+      "image": [],
+      "pinglun_Num": 14,
+      "realSort": "1782998493074096",
+      "share": 5,
+      "showTime": "2026-07-02 21:21:33",
+      "stockList": [
+        "90.BK1365",
+        "90.BK1134"
+      ],
+      "summary": "【业内人士：本月算力租赁价格续涨 训练卡与推理卡需求或现分化】针对Meta正计划推出名为“Meta Compute”的云基础设施服务，计划向外部客户出售AI算力，一名算力租赁行业的人士表示，Meta此前在AI领域投入巨大但成果落地缓慢，出租算力既能回笼现金流，也意味着其正与上一代的旧硬件及盲目扩张策略做切割。他还透露，其租赁算力服务器的供应商提到本月初会继续涨价。他判断，推理卡和训练卡需求有可能在分化。",
+      "title": "业内人士：本月算力租赁价格续涨 训练卡与推理卡需求或现分化",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792174096.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1365",
+      "90.BK1134"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 14,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "算力租赁"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "e1603501ccff874a",
+    "code": "202607023792170251",
+    "title": "美国白宫经济顾问：英特尔的情况特殊 正在与所有人工智能公司探讨分享收益",
+    "summary": "【美国白宫经济顾问：英特尔的情况特殊 正在与所有人工智能公司探讨分享收益】美国白宫经济顾问哈塞特谈持股问题时表示，英特尔的情况特殊。正在与所有人工智能公司探讨分享收益。",
+    "content": "【美国白宫经济顾问：英特尔的情况特殊 正在与所有人工智能公司探讨分享收益】美国白宫经济顾问哈塞特谈持股问题时表示，英特尔的情况特殊。正在与所有人工智能公司探讨分享收益。",
+    "full_content": "【美国白宫经济顾问：英特尔的情况特殊 正在与所有人工智能公司探讨分享收益】美国白宫经济顾问哈塞特谈持股问题时表示，英特尔的情况特殊。正在与所有人工智能公司探讨分享收益。",
+    "sort_time": "1782998421070251",
+    "showTime": "2026-07-02 21:20:21",
+    "time": "2026-07-02 21:20:21",
+    "publish_time": "2026-07-02 21:20:21",
+    "raw_data": {
+      "code": "202607023792170251",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782998421070251",
+      "share": 3,
+      "showTime": "2026-07-02 21:20:21",
+      "stockList": [
+        "105.INTC"
+      ],
+      "summary": "【美国白宫经济顾问：英特尔的情况特殊 正在与所有人工智能公司探讨分享收益】美国白宫经济顾问哈塞特谈持股问题时表示，英特尔的情况特殊。正在与所有人工智能公司探讨分享收益。",
+      "title": "美国白宫经济顾问：英特尔的情况特殊 正在与所有人工智能公司探讨分享收益",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792170251.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.INTC"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "7f26001fc9940e68",
+    "code": "202607023792170388",
+    "title": "比亚迪第二季度纯电车型销量再度超越特斯拉",
+    "summary": "【比亚迪第二季度纯电车型销量再度超越特斯拉】特斯拉今日晚间披露二季度总交付48.01万辆，同比增长25%，环比增长34%，全系均为纯电。就在昨天，比亚迪公布了其2026年二季度纯电车型交付557090辆。比亚迪纯电单季销量高出特斯拉7.7万辆。",
+    "content": "【比亚迪第二季度纯电车型销量再度超越特斯拉】特斯拉今日晚间披露二季度总交付48.01万辆，同比增长25%，环比增长34%，全系均为纯电。就在昨天，比亚迪公布了其2026年二季度纯电车型交付557090辆。比亚迪纯电单季销量高出特斯拉7.7万辆。",
+    "full_content": "【比亚迪第二季度纯电车型销量再度超越特斯拉】特斯拉今日晚间披露二季度总交付48.01万辆，同比增长25%，环比增长34%，全系均为纯电。就在昨天，比亚迪公布了其2026年二季度纯电车型交付557090辆。比亚迪纯电单季销量高出特斯拉7.7万辆。",
+    "sort_time": "1782998415070388",
+    "showTime": "2026-07-02 21:20:15",
+    "time": "2026-07-02 21:20:15",
+    "publish_time": "2026-07-02 21:20:15",
+    "raw_data": {
+      "code": "202607023792170388",
+      "image": [],
+      "pinglun_Num": 24,
+      "realSort": "1782998415070388",
+      "share": 9,
+      "showTime": "2026-07-02 21:20:15",
+      "stockList": [
+        "90.BK0644",
+        "1007.BK000300"
+      ],
+      "summary": "【比亚迪第二季度纯电车型销量再度超越特斯拉】特斯拉今日晚间披露二季度总交付48.01万辆，同比增长25%，环比增长34%，全系均为纯电。就在昨天，比亚迪公布了其2026年二季度纯电车型交付557090辆。比亚迪纯电单季销量高出特斯拉7.7万辆。",
+      "title": "比亚迪第二季度纯电车型销量再度超越特斯拉",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792170388.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0644",
+      "1007.BK000300"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 24,
+    "share_count": 9,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        },
+        {
+          "id": "C809",
+          "name": "比亚迪概念",
+          "matched_keyword": "比亚迪"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805",
+        "C809"
+      ]
+    }
+  },
+  {
+    "id": "cde8f16710bb655c",
+    "code": "202607023792169379",
+    "title": "美国白宫经济顾问：美国的就业数据与经济形势相符",
+    "summary": "【美国白宫经济顾问：美国的就业数据与经济形势相符】美国白宫经济顾问哈塞特表示，美国的就业数据与经济形势相符，经济增长没有理由必然导致通货膨胀。尊重美联储的独立性。",
+    "content": "【美国白宫经济顾问：美国的就业数据与经济形势相符】美国白宫经济顾问哈塞特表示，美国的就业数据与经济形势相符，经济增长没有理由必然导致通货膨胀。尊重美联储的独立性。",
+    "full_content": "【美国白宫经济顾问：美国的就业数据与经济形势相符】美国白宫经济顾问哈塞特表示，美国的就业数据与经济形势相符，经济增长没有理由必然导致通货膨胀。尊重美联储的独立性。",
+    "sort_time": "1782998152069379",
+    "showTime": "2026-07-02 21:15:52",
+    "time": "2026-07-02 21:15:52",
+    "publish_time": "2026-07-02 21:15:52",
+    "raw_data": {
+      "code": "202607023792169379",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1782998152069379",
+      "share": 2,
+      "showTime": "2026-07-02 21:15:52",
+      "stockList": [],
+      "summary": "【美国白宫经济顾问：美国的就业数据与经济形势相符】美国白宫经济顾问哈塞特表示，美国的就业数据与经济形势相符，经济增长没有理由必然导致通货膨胀。尊重美联储的独立性。",
+      "title": "美国白宫经济顾问：美国的就业数据与经济形势相符",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792169379.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1239666deeb4bea1",
+    "code": "202607023792168132",
+    "title": "侃股：特殊股价不代表特殊含义",
+    "summary": "【侃股：特殊股价不代表特殊含义】近日，部分高位科技股盘中出现“对子顶”等特殊股价，引发投资者热议。但是，特殊股价与股票后续上涨或下跌没有任何关系，投资者不宜过分解读，影响上市公司股价中长期走势的核心因素依然是估值是否合理。",
+    "content": "【侃股：特殊股价不代表特殊含义】近日，部分高位科技股盘中出现“对子顶”等特殊股价，引发投资者热议。但是，特殊股价与股票后续上涨或下跌没有任何关系，投资者不宜过分解读，影响上市公司股价中长期走势的核心因素依然是估值是否合理。",
+    "full_content": "【侃股：特殊股价不代表特殊含义】近日，部分高位科技股盘中出现“对子顶”等特殊股价，引发投资者热议。但是，特殊股价与股票后续上涨或下跌没有任何关系，投资者不宜过分解读，影响上市公司股价中长期走势的核心因素依然是估值是否合理。",
+    "sort_time": "1782998020068132",
+    "showTime": "2026-07-02 21:13:40",
+    "time": "2026-07-02 21:13:40",
+    "publish_time": "2026-07-02 21:13:40",
+    "raw_data": {
+      "code": "202607023792168132",
+      "image": [],
+      "pinglun_Num": 44,
+      "realSort": "1782998020068132",
+      "share": 29,
+      "showTime": "2026-07-02 21:13:40",
+      "stockList": [],
+      "summary": "【侃股：特殊股价不代表特殊含义】近日，部分高位科技股盘中出现“对子顶”等特殊股价，引发投资者热议。但是，特殊股价与股票后续上涨或下跌没有任何关系，投资者不宜过分解读，影响上市公司股价中长期走势的核心因素依然是估值是否合理。",
+      "title": "侃股：特殊股价不代表特殊含义",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792168132.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 44,
+    "share_count": 29,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ebd3757724a52723",
+    "code": "202607023792142627",
+    "title": "特斯拉：第二季度部署了13.5吉瓦时的储能产品",
+    "summary": "特斯拉称，第二季度部署了13.5吉瓦时的储能产品。",
+    "content": "特斯拉称，第二季度部署了13.5吉瓦时的储能产品。",
+    "full_content": "特斯拉称，第二季度部署了13.5吉瓦时的储能产品。",
+    "sort_time": "1782997531042627",
+    "showTime": "2026-07-02 21:05:31",
+    "time": "2026-07-02 21:05:31",
+    "publish_time": "2026-07-02 21:05:31",
+    "raw_data": {
+      "code": "202607023792142627",
+      "image": [],
+      "pinglun_Num": 25,
+      "realSort": "1782997531042627",
+      "share": 10,
+      "showTime": "2026-07-02 21:05:31",
+      "stockList": [
+        "90.BK0644",
+        "105.TSLA"
+      ],
+      "summary": "特斯拉称，第二季度部署了13.5吉瓦时的储能产品。",
+      "title": "特斯拉：第二季度部署了13.5吉瓦时的储能产品",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792142627.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0644",
+      "105.TSLA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 25,
+    "share_count": 10,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C105",
+          "name": "储能",
+          "matched_keyword": "储能"
+        },
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C105",
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "038278668157c157",
+    "code": "202607023792142756",
+    "title": "国务院国资委：加快推进产业结构跃迁升级 打造一批具有全球竞争力的世界级产业集群",
+    "summary": "【国务院国资委：加快推进产业结构跃迁升级 打造一批具有全球竞争力的世界级产业集群】国务院国资委党委召开专题会议。会议强调，要牢牢把握建设现代化产业体系的核心特质与本质要求，以更实举措因地制宜发展新质生产力，推动国有资本“三个集中”，提升国有资本配置和运行效率；加快推进产业结构跃迁升级，打造一批具有全球竞争力的世界级产业集群。",
+    "content": "【国务院国资委：加快推进产业结构跃迁升级 打造一批具有全球竞争力的世界级产业集群】国务院国资委党委召开专题会议。会议强调，要牢牢把握建设现代化产业体系的核心特质与本质要求，以更实举措因地制宜发展新质生产力，推动国有资本“三个集中”，提升国有资本配置和运行效率；加快推进产业结构跃迁升级，打造一批具有全球竞争力的世界级产业集群。",
+    "full_content": "【国务院国资委：加快推进产业结构跃迁升级 打造一批具有全球竞争力的世界级产业集群】国务院国资委党委召开专题会议。会议强调，要牢牢把握建设现代化产业体系的核心特质与本质要求，以更实举措因地制宜发展新质生产力，推动国有资本“三个集中”，提升国有资本配置和运行效率；加快推进产业结构跃迁升级，打造一批具有全球竞争力的世界级产业集群。",
+    "sort_time": "1782997427042756",
+    "showTime": "2026-07-02 21:03:47",
+    "time": "2026-07-02 21:03:47",
+    "publish_time": "2026-07-02 21:03:47",
+    "raw_data": {
+      "code": "202607023792142756",
+      "image": [],
+      "pinglun_Num": 61,
+      "realSort": "1782997427042756",
+      "share": 31,
+      "showTime": "2026-07-02 21:03:47",
+      "stockList": [
+        "1007.BK000391"
+      ],
+      "summary": "【国务院国资委：加快推进产业结构跃迁升级 打造一批具有全球竞争力的世界级产业集群】国务院国资委党委召开专题会议。会议强调，要牢牢把握建设现代化产业体系的核心特质与本质要求，以更实举措因地制宜发展新质生产力，推动国有资本“三个集中”，提升国有资本配置和运行效率；加快推进产业结构跃迁升级，打造一批具有全球竞争力的世界级产业集群。",
+      "title": "国务院国资委：加快推进产业结构跃迁升级 打造一批具有全球竞争力的世界级产业集群",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792142756.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1007.BK000391"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 61,
+    "share_count": 31,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C701",
+          "name": "国企改革",
+          "matched_keyword": "国资"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C701"
+      ]
+    }
+  },
+  {
+    "id": "756faeb19095593c",
+    "code": "202607023792143223",
+    "title": "第二季度交付量超预期 特斯拉美股盘前上涨",
+    "summary": "【第二季度交付量超预期 特斯拉美股盘前上涨】特斯拉美股盘前涨超2%。特斯拉第二季度交付量48.01万辆，预估39.65万辆。特斯拉第二季度MODEL 3/Y交付量46.77万辆，预估38.07万辆。",
+    "content": "【第二季度交付量超预期 特斯拉美股盘前上涨】特斯拉美股盘前涨超2%。特斯拉第二季度交付量48.01万辆，预估39.65万辆。特斯拉第二季度MODEL 3/Y交付量46.77万辆，预估38.07万辆。",
+    "full_content": "【第二季度交付量超预期 特斯拉美股盘前上涨】特斯拉美股盘前涨超2%。特斯拉第二季度交付量48.01万辆，预估39.65万辆。特斯拉第二季度MODEL 3/Y交付量46.77万辆，预估38.07万辆。",
+    "sort_time": "1782997368043223",
+    "showTime": "2026-07-02 21:02:48",
+    "time": "2026-07-02 21:02:48",
+    "publish_time": "2026-07-02 21:02:48",
+    "raw_data": {
+      "code": "202607023792143223",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1782997368043223",
+      "share": 8,
+      "showTime": "2026-07-02 21:02:48",
+      "stockList": [
+        "90.BK0644",
+        "1007.BK000300"
+      ],
+      "summary": "【第二季度交付量超预期 特斯拉美股盘前上涨】特斯拉美股盘前涨超2%。特斯拉第二季度交付量48.01万辆，预估39.65万辆。特斯拉第二季度MODEL 3/Y交付量46.77万辆，预估38.07万辆。",
+      "title": "第二季度交付量超预期 特斯拉美股盘前上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607023792143223.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0644",
+      "1007.BK000300"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805"
+      ]
+    }
+  },
+  {
     "id": "184ed362430a584a",
     "code": "202607023792106536",
     "title": "康宁股价盘前转涨 此前一度跌超3%",
