@@ -1,5 +1,440 @@
 [
   {
+    "id": "40b4bbae34b19ceb",
+    "code": "202607183811453877",
+    "title": "香港天文台发布黄色暴雨警告",
+    "summary": "香港天文台发布黄色暴雨警告。",
+    "content": "香港天文台发布黄色暴雨警告。",
+    "full_content": "香港天文台发布黄色暴雨警告。",
+    "sort_time": "1784319722053877",
+    "showTime": "2026-07-18 04:22:02",
+    "time": "2026-07-18 04:22:02",
+    "publish_time": "2026-07-18 04:22:02",
+    "raw_data": {
+      "code": "202607183811453877",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784319722053877",
+      "share": 0,
+      "showTime": "2026-07-18 04:22:02",
+      "stockList": [],
+      "summary": "香港天文台发布黄色暴雨警告。",
+      "title": "香港天文台发布黄色暴雨警告",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811453877.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "70e1b0827d89dea4",
+    "code": "202607183811453769",
+    "title": "美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元",
+    "summary": "美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元。",
+    "content": "美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元。",
+    "full_content": "美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元。",
+    "sort_time": "1784319590053769",
+    "showTime": "2026-07-18 04:19:50",
+    "time": "2026-07-18 04:19:50",
+    "publish_time": "2026-07-18 04:19:50",
+    "raw_data": {
+      "code": "202607183811453769",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784319590053769",
+      "share": 0,
+      "showTime": "2026-07-18 04:19:50",
+      "stockList": [],
+      "summary": "美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元。",
+      "title": "美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811453769.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "b60320b5cf75b1c3",
+    "code": "202607183811453652",
+    "title": "西班牙东北部山火过火面积已达1.4万公顷",
+    "summary": "【西班牙东北部山火过火面积已达1.4万公顷】当地时间17日，西班牙东北部阿拉贡自治区五镇地区山火仍在持续蔓延，过火面积已达1.4万公顷。受风向多变、地形复杂等因素影响，火场形势依然严峻。",
+    "content": "【西班牙东北部山火过火面积已达1.4万公顷】当地时间17日，西班牙东北部阿拉贡自治区五镇地区山火仍在持续蔓延，过火面积已达1.4万公顷。受风向多变、地形复杂等因素影响，火场形势依然严峻。",
+    "full_content": "【西班牙东北部山火过火面积已达1.4万公顷】当地时间17日，西班牙东北部阿拉贡自治区五镇地区山火仍在持续蔓延，过火面积已达1.4万公顷。受风向多变、地形复杂等因素影响，火场形势依然严峻。",
+    "sort_time": "1784319255053652",
+    "showTime": "2026-07-18 04:14:15",
+    "time": "2026-07-18 04:14:15",
+    "publish_time": "2026-07-18 04:14:15",
+    "raw_data": {
+      "code": "202607183811453652",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784319255053652",
+      "share": 0,
+      "showTime": "2026-07-18 04:14:15",
+      "stockList": [],
+      "summary": "【西班牙东北部山火过火面积已达1.4万公顷】当地时间17日，西班牙东北部阿拉贡自治区五镇地区山火仍在持续蔓延，过火面积已达1.4万公顷。受风向多变、地形复杂等因素影响，火场形势依然严峻。",
+      "title": "西班牙东北部山火过火面积已达1.4万公顷",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811453652.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b5a6aa73070aa185",
+    "code": "202607183811452857",
+    "title": "美军称对伊朗发动新一轮打击",
+    "summary": "【美军称对伊朗发动新一轮打击】当地时间7月17日，美国中央司令部表示，美军于美东时间当天下午3时对伊朗启动新一轮打击，这是美军连续第七晚发动空袭。",
+    "content": "【美军称对伊朗发动新一轮打击】当地时间7月17日，美国中央司令部表示，美军于美东时间当天下午3时对伊朗启动新一轮打击，这是美军连续第七晚发动空袭。",
+    "full_content": "【美军称对伊朗发动新一轮打击】当地时间7月17日，美国中央司令部表示，美军于美东时间当天下午3时对伊朗启动新一轮打击，这是美军连续第七晚发动空袭。",
+    "sort_time": "1784318705052857",
+    "showTime": "2026-07-18 04:05:05",
+    "time": "2026-07-18 04:05:05",
+    "publish_time": "2026-07-18 04:05:05",
+    "raw_data": {
+      "code": "202607183811452857",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1784318705052857",
+      "share": 2,
+      "showTime": "2026-07-18 04:05:05",
+      "stockList": [],
+      "summary": "【美军称对伊朗发动新一轮打击】当地时间7月17日，美国中央司令部表示，美军于美东时间当天下午3时对伊朗启动新一轮打击，这是美军连续第七晚发动空袭。",
+      "title": "美军称对伊朗发动新一轮打击",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811452857.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "596214e0900ad07c",
+    "code": "202607183811452759",
+    "title": "纳斯达克中国金龙指数收跌1.81%",
+    "summary": "纳斯达克中国金龙指数收跌1.81%，热门中概股多数下跌，哔哩哔哩跌超5%，百度跌近5%，爱奇艺跌超4%，理想汽车、小鹏集团跌超3%，蔚来、阿里巴巴跌超2%，网易涨近1%。",
+    "content": "纳斯达克中国金龙指数收跌1.81%，热门中概股多数下跌，哔哩哔哩跌超5%，百度跌近5%，爱奇艺跌超4%，理想汽车、小鹏集团跌超3%，蔚来、阿里巴巴跌超2%，网易涨近1%。",
+    "full_content": "纳斯达克中国金龙指数收跌1.81%，热门中概股多数下跌，哔哩哔哩跌超5%，百度跌近5%，爱奇艺跌超4%，理想汽车、小鹏集团跌超3%，蔚来、阿里巴巴跌超2%，网易涨近1%。",
+    "sort_time": "1784318564052759",
+    "showTime": "2026-07-18 04:02:44",
+    "time": "2026-07-18 04:02:44",
+    "publish_time": "2026-07-18 04:02:44",
+    "raw_data": {
+      "code": "202607183811452759",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784318564052759",
+      "share": 0,
+      "showTime": "2026-07-18 04:02:44",
+      "stockList": [],
+      "summary": "纳斯达克中国金龙指数收跌1.81%，热门中概股多数下跌，哔哩哔哩跌超5%，百度跌近5%，爱奇艺跌超4%，理想汽车、小鹏集团跌超3%，蔚来、阿里巴巴跌超2%，网易涨近1%。",
+      "title": "纳斯达克中国金龙指数收跌1.81%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811452759.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "05a4836c25a55e68",
+    "code": "202607183811452627",
+    "title": "美股三大指数集体收跌 大型科技股普跌",
+    "summary": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，道指跌0.77%，本周累跌0.93%；纳指跌1.4%，本周累跌2.9%；标普500指数跌1.01%，本周累跌1.55%。大型科技股普跌，SpaceX跌超5%，英伟达、Meta、特斯拉、谷歌跌超2%。费城半导体指数收跌1.63%，较6月22日创下的历史高点下跌20.2%，进入技术性熊市。",
+    "content": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，道指跌0.77%，本周累跌0.93%；纳指跌1.4%，本周累跌2.9%；标普500指数跌1.01%，本周累跌1.55%。大型科技股普跌，SpaceX跌超5%，英伟达、Meta、特斯拉、谷歌跌超2%。费城半导体指数收跌1.63%，较6月22日创下的历史高点下跌20.2%，进入技术性熊市。",
+    "full_content": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，道指跌0.77%，本周累跌0.93%；纳指跌1.4%，本周累跌2.9%；标普500指数跌1.01%，本周累跌1.55%。大型科技股普跌，SpaceX跌超5%，英伟达、Meta、特斯拉、谷歌跌超2%。费城半导体指数收跌1.63%，较6月22日创下的历史高点下跌20.2%，进入技术性熊市。",
+    "sort_time": "1784318451052627",
+    "showTime": "2026-07-18 04:00:51",
+    "time": "2026-07-18 04:00:51",
+    "publish_time": "2026-07-18 04:00:51",
+    "raw_data": {
+      "code": "202607183811452627",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1784318451052627",
+      "share": 1,
+      "showTime": "2026-07-18 04:00:51",
+      "stockList": [
+        "105.META",
+        "105.GOOG"
+      ],
+      "summary": "【美股三大指数集体收跌 大型科技股普跌】美股三大指数集体收跌，道指跌0.77%，本周累跌0.93%；纳指跌1.4%，本周累跌2.9%；标普500指数跌1.01%，本周累跌1.55%。大型科技股普跌，SpaceX跌超5%，英伟达、Meta、特斯拉、谷歌跌超2%。费城半导体指数收跌1.63%，较6月22日创下的历史高点下跌20.2%，进入技术性熊市。",
+      "title": "美股三大指数集体收跌 大型科技股普跌",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811452627.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "105.META",
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002",
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "1c8818d29e185a14",
+    "code": "202607183811452543",
+    "title": "据美国商品期货交易委员会 截至7月14日当周 原油投机者将WTI原油净多头头寸增加4379手至70059手",
+    "summary": "据美国商品期货交易委员会，截至7月14日当周，原油投机者将WTI原油净多头头寸增加4379手至70059手。",
+    "content": "据美国商品期货交易委员会，截至7月14日当周，原油投机者将WTI原油净多头头寸增加4379手至70059手。",
+    "full_content": "据美国商品期货交易委员会，截至7月14日当周，原油投机者将WTI原油净多头头寸增加4379手至70059手。",
+    "sort_time": "1784317894052543",
+    "showTime": "2026-07-18 03:51:34",
+    "time": "2026-07-18 03:51:34",
+    "publish_time": "2026-07-18 03:51:34",
+    "raw_data": {
+      "code": "202607183811452543",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784317894052543",
+      "share": 0,
+      "showTime": "2026-07-18 03:51:34",
+      "stockList": [],
+      "summary": "据美国商品期货交易委员会，截至7月14日当周，原油投机者将WTI原油净多头头寸增加4379手至70059手。",
+      "title": "据美国商品期货交易委员会 截至7月14日当周 原油投机者将WTI原油净多头头寸增加4379手至70059手",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811452543.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "595e350c205da107",
+    "code": "202607183811452356",
+    "title": "截至7月14日当周 COMEX黄金投机者将净多头持仓增加4,294手至119,147手",
+    "summary": "据美国商品期货交易委员会（CFTC），截至7月14日当周，COMEX黄金投机者将净多头持仓增加4,294手至119,147手；COMEX白银投机者将净多头持仓减少1,755手至10,377手；COMEX铜投机者将净多头持仓增加1,536手至61,932手。",
+    "content": "据美国商品期货交易委员会（CFTC），截至7月14日当周，COMEX黄金投机者将净多头持仓增加4,294手至119,147手；COMEX白银投机者将净多头持仓减少1,755手至10,377手；COMEX铜投机者将净多头持仓增加1,536手至61,932手。",
+    "full_content": "据美国商品期货交易委员会（CFTC），截至7月14日当周，COMEX黄金投机者将净多头持仓增加4,294手至119,147手；COMEX白银投机者将净多头持仓减少1,755手至10,377手；COMEX铜投机者将净多头持仓增加1,536手至61,932手。",
+    "sort_time": "1784317558052356",
+    "showTime": "2026-07-18 03:45:58",
+    "time": "2026-07-18 03:45:58",
+    "publish_time": "2026-07-18 03:45:58",
+    "raw_data": {
+      "code": "202607183811452356",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784317558052356",
+      "share": 0,
+      "showTime": "2026-07-18 03:45:58",
+      "stockList": [],
+      "summary": "据美国商品期货交易委员会（CFTC），截至7月14日当周，COMEX黄金投机者将净多头持仓增加4,294手至119,147手；COMEX白银投机者将净多头持仓减少1,755手至10,377手；COMEX铜投机者将净多头持仓增加1,536手至61,932手。",
+      "title": "截至7月14日当周 COMEX黄金投机者将净多头持仓增加4,294手至119,147手",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811452356.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "铜"
+        },
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501",
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "f635d32ce7091155",
+    "code": "202607183811451254",
+    "title": "E&成功完成沃达丰股份出售 实现59.5亿美元现金收益",
+    "summary": "E&成功完成沃达丰股份出售，实现59.5亿美元现金收益。",
+    "content": "E&成功完成沃达丰股份出售，实现59.5亿美元现金收益。",
+    "full_content": "E&成功完成沃达丰股份出售，实现59.5亿美元现金收益。",
+    "sort_time": "1784316338051254",
+    "showTime": "2026-07-18 03:25:38",
+    "time": "2026-07-18 03:25:38",
+    "publish_time": "2026-07-18 03:25:38",
+    "raw_data": {
+      "code": "202607183811451254",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784316338051254",
+      "share": 0,
+      "showTime": "2026-07-18 03:25:38",
+      "stockList": [
+        "105.VOD"
+      ],
+      "summary": "E&成功完成沃达丰股份出售，实现59.5亿美元现金收益。",
+      "title": "E&成功完成沃达丰股份出售 实现59.5亿美元现金收益",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607183811451254.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.VOD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "4e3f80f0cf3ae0e1",
     "code": "202607183811451126",
     "title": "美国防部：美军在对伊作战中新增13人受伤",
