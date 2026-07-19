@@ -1,5 +1,477 @@
 [
   {
+    "id": "385b2d831ee52c31",
+    "code": "202607193811757971",
+    "title": "科威特称电力与海水淡化厂再次遭伊朗袭击",
+    "summary": "科威特称电力与海水淡化厂再次遭伊朗袭击，大量发电机组受影响。",
+    "content": "科威特称电力与海水淡化厂再次遭伊朗袭击，大量发电机组受影响。",
+    "full_content": "科威特称电力与海水淡化厂再次遭伊朗袭击，大量发电机组受影响。",
+    "sort_time": "1784460185057971",
+    "showTime": "2026-07-19 19:23:05",
+    "time": "2026-07-19 19:23:05",
+    "publish_time": "2026-07-19 19:23:05",
+    "raw_data": {
+      "code": "202607193811757971",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784460185057971",
+      "share": 0,
+      "showTime": "2026-07-19 19:23:05",
+      "stockList": [
+        "90.BK0428",
+        "150.014238"
+      ],
+      "summary": "科威特称电力与海水淡化厂再次遭伊朗袭击，大量发电机组受影响。",
+      "title": "科威特称电力与海水淡化厂再次遭伊朗袭击",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811757971.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0428",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ffd39be75bc882f8",
+    "code": "202607193811757246",
+    "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+    "summary": "【陈茂波：香港将出台政策支持中小企业采用AI】香港特区政府财政司司长陈茂波7月19日发表网志表示，特区政府今年内将推出优化版“数码转型支援先导计划”，支持中小企业采用现成的人工智能方案。香港的AI布局已由逐项推进，进入系统布局阶段，力求让AI赋能千行百业。",
+    "content": "【陈茂波：香港将出台政策支持中小企业采用AI】香港特区政府财政司司长陈茂波7月19日发表网志表示，特区政府今年内将推出优化版“数码转型支援先导计划”，支持中小企业采用现成的人工智能方案。香港的AI布局已由逐项推进，进入系统布局阶段，力求让AI赋能千行百业。",
+    "full_content": "【陈茂波：香港将出台政策支持中小企业采用AI】香港特区政府财政司司长陈茂波7月19日发表网志表示，特区政府今年内将推出优化版“数码转型支援先导计划”，支持中小企业采用现成的人工智能方案。香港的AI布局已由逐项推进，进入系统布局阶段，力求让AI赋能千行百业。",
+    "sort_time": "1784459638057246",
+    "showTime": "2026-07-19 19:13:58",
+    "time": "2026-07-19 19:13:58",
+    "publish_time": "2026-07-19 19:13:58",
+    "raw_data": {
+      "code": "202607193811757246",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784459638057246",
+      "share": 4,
+      "showTime": "2026-07-19 19:13:58",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "【陈茂波：香港将出台政策支持中小企业采用AI】香港特区政府财政司司长陈茂波7月19日发表网志表示，特区政府今年内将推出优化版“数码转型支援先导计划”，支持中小企业采用现成的人工智能方案。香港的AI布局已由逐项推进，进入系统布局阶段，力求让AI赋能千行百业。",
+      "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811757246.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "0dc0435fcdbfe2be",
+    "code": "202607193811756571",
+    "title": "阿里Token Plan个人版发布 Qwen3.8-Max预览版同步上线",
+    "summary": "【阿里Token Plan个人版发布 Qwen3.8-Max预览版同步上线】阿里Token Plan个人版正式发布，用户可在其中抢先体验Qwen3.8-Max-Preview。Qwen3.8-Max参数量达2.4T，在代码工程和专业办公等场景中表现出色，可能是除了Fable 5外最强大的模型，正式版将于近期发布并开源。",
+    "content": "【阿里Token Plan个人版发布 Qwen3.8-Max预览版同步上线】阿里Token Plan个人版正式发布，用户可在其中抢先体验Qwen3.8-Max-Preview。Qwen3.8-Max参数量达2.4T，在代码工程和专业办公等场景中表现出色，可能是除了Fable 5外最强大的模型，正式版将于近期发布并开源。",
+    "full_content": "【阿里Token Plan个人版发布 Qwen3.8-Max预览版同步上线】阿里Token Plan个人版正式发布，用户可在其中抢先体验Qwen3.8-Max-Preview。Qwen3.8-Max参数量达2.4T，在代码工程和专业办公等场景中表现出色，可能是除了Fable 5外最强大的模型，正式版将于近期发布并开源。",
+    "sort_time": "1784458716056571",
+    "showTime": "2026-07-19 18:58:36",
+    "time": "2026-07-19 18:58:36",
+    "publish_time": "2026-07-19 18:58:36",
+    "raw_data": {
+      "code": "202607193811756571",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1784458716056571",
+      "share": 1,
+      "showTime": "2026-07-19 18:58:36",
+      "stockList": [
+        "90.BK0689",
+        "116.09988"
+      ],
+      "summary": "【阿里Token Plan个人版发布 Qwen3.8-Max预览版同步上线】阿里Token Plan个人版正式发布，用户可在其中抢先体验Qwen3.8-Max-Preview。Qwen3.8-Max参数量达2.4T，在代码工程和专业办公等场景中表现出色，可能是除了Fable 5外最强大的模型，正式版将于近期发布并开源。",
+      "title": "阿里Token Plan个人版发布 Qwen3.8-Max预览版同步上线",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811756571.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0689",
+      "116.09988"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e2c4e146df389f1c",
+    "code": "202607193811756479",
+    "title": "约旦官方称美驻约旦使馆发布假消息",
+    "summary": "【约旦官方称美驻约旦使馆发布假消息】据报道，约旦政府发言人今天（7月19日）表示，美国驻约旦大使馆稍早前发布的关于“约旦基于‘具体且可信的安全威胁’疏散约旦南部城市亚喀巴的国际机场和港口区域”的说法并不属实。约旦在过去数小时内没有检测到任何安全威胁。",
+    "content": "【约旦官方称美驻约旦使馆发布假消息】据报道，约旦政府发言人今天（7月19日）表示，美国驻约旦大使馆稍早前发布的关于“约旦基于‘具体且可信的安全威胁’疏散约旦南部城市亚喀巴的国际机场和港口区域”的说法并不属实。约旦在过去数小时内没有检测到任何安全威胁。",
+    "full_content": "【约旦官方称美驻约旦使馆发布假消息】据报道，约旦政府发言人今天（7月19日）表示，美国驻约旦大使馆稍早前发布的关于“约旦基于‘具体且可信的安全威胁’疏散约旦南部城市亚喀巴的国际机场和港口区域”的说法并不属实。约旦在过去数小时内没有检测到任何安全威胁。",
+    "sort_time": "1784458435056479",
+    "showTime": "2026-07-19 18:53:55",
+    "time": "2026-07-19 18:53:55",
+    "publish_time": "2026-07-19 18:53:55",
+    "raw_data": {
+      "code": "202607193811756479",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1784458435056479",
+      "share": 0,
+      "showTime": "2026-07-19 18:53:55",
+      "stockList": [],
+      "summary": "【约旦官方称美驻约旦使馆发布假消息】据报道，约旦政府发言人今天（7月19日）表示，美国驻约旦大使馆稍早前发布的关于“约旦基于‘具体且可信的安全威胁’疏散约旦南部城市亚喀巴的国际机场和港口区域”的说法并不属实。约旦在过去数小时内没有检测到任何安全威胁。",
+      "title": "约旦官方称美驻约旦使馆发布假消息",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811756479.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ec663296ae4af885",
+    "code": "202607193811756333",
+    "title": "伊朗谴责美国袭击伊朗在建核电站",
+    "summary": "【伊朗谴责美国袭击伊朗在建核电站】伊朗原子能组织7月19日发表声明称，当地时间今天凌晨3时39分左右，美国使用多枚发射物袭击了伊朗在建的达尔霍温核电站项目现场。声明谴责此次袭击违反国际法，并称达尔霍温核电站是伊朗实现科技自主的重要项目。",
+    "content": "【伊朗谴责美国袭击伊朗在建核电站】伊朗原子能组织7月19日发表声明称，当地时间今天凌晨3时39分左右，美国使用多枚发射物袭击了伊朗在建的达尔霍温核电站项目现场。声明谴责此次袭击违反国际法，并称达尔霍温核电站是伊朗实现科技自主的重要项目。",
+    "full_content": "【伊朗谴责美国袭击伊朗在建核电站】伊朗原子能组织7月19日发表声明称，当地时间今天凌晨3时39分左右，美国使用多枚发射物袭击了伊朗在建的达尔霍温核电站项目现场。声明谴责此次袭击违反国际法，并称达尔霍温核电站是伊朗实现科技自主的重要项目。",
+    "sort_time": "1784458408056333",
+    "showTime": "2026-07-19 18:53:28",
+    "time": "2026-07-19 18:53:28",
+    "publish_time": "2026-07-19 18:53:28",
+    "raw_data": {
+      "code": "202607193811756333",
+      "image": [],
+      "pinglun_Num": 34,
+      "realSort": "1784458408056333",
+      "share": 5,
+      "showTime": "2026-07-19 18:53:28",
+      "stockList": [
+        "90.BK0577"
+      ],
+      "summary": "【伊朗谴责美国袭击伊朗在建核电站】伊朗原子能组织7月19日发表声明称，当地时间今天凌晨3时39分左右，美国使用多枚发射物袭击了伊朗在建的达尔霍温核电站项目现场。声明谴责此次袭击违反国际法，并称达尔霍温核电站是伊朗实现科技自主的重要项目。",
+      "title": "伊朗谴责美国袭击伊朗在建核电站",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811756333.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0577"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 34,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "核电站"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109"
+      ]
+    }
+  },
+  {
+    "id": "f2dae56cf3a8bb5f",
+    "code": "202607193811755911",
+    "title": "同花顺：预计2026年半年度净利润同比增长75%-95%",
+    "summary": "【同花顺：预计2026年半年度净利润同比增长75%-95%】同花顺(300033.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为8.78亿元-9.79亿元，同比增长75%-95%。业绩变动主要系受资本市场交投活跃等因素影响，金融信息服务需求快速增长，公司持续推进人工智能技术与金融信息服务业务深度融合。",
+    "content": "【同花顺：预计2026年半年度净利润同比增长75%-95%】同花顺(300033.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为8.78亿元-9.79亿元，同比增长75%-95%。业绩变动主要系受资本市场交投活跃等因素影响，金融信息服务需求快速增长，公司持续推进人工智能技术与金融信息服务业务深度融合。",
+    "full_content": "【同花顺：预计2026年半年度净利润同比增长75%-95%】同花顺(300033.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为8.78亿元-9.79亿元，同比增长75%-95%。业绩变动主要系受资本市场交投活跃等因素影响，金融信息服务需求快速增长，公司持续推进人工智能技术与金融信息服务业务深度融合。",
+    "sort_time": "1784457991055911",
+    "showTime": "2026-07-19 18:46:31",
+    "time": "2026-07-19 18:46:31",
+    "publish_time": "2026-07-19 18:46:31",
+    "raw_data": {
+      "code": "202607193811755911",
+      "image": [],
+      "pinglun_Num": 25,
+      "realSort": "1784457991055911",
+      "share": 29,
+      "showTime": "2026-07-19 18:46:31",
+      "stockList": [
+        "0.300033"
+      ],
+      "summary": "【同花顺：预计2026年半年度净利润同比增长75%-95%】同花顺(300033.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为8.78亿元-9.79亿元，同比增长75%-95%。业绩变动主要系受资本市场交投活跃等因素影响，金融信息服务需求快速增长，公司持续推进人工智能技术与金融信息服务业务深度融合。",
+      "title": "同花顺：预计2026年半年度净利润同比增长75%-95%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811755911.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.300033"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 25,
+    "share_count": 29,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "6ba640b9cadcbc0a",
+    "code": "202607193811755842",
+    "title": "港股IPO：奥动新能源公司递表港交所",
+    "summary": "【港股IPO：奥动新能源公司递表港交所】利弗莫尔证券显示，奥动新能源股份有限公司向港交所提交上市申请书，独家保荐人为招银国际。",
+    "content": "【港股IPO：奥动新能源公司递表港交所】利弗莫尔证券显示，奥动新能源股份有限公司向港交所提交上市申请书，独家保荐人为招银国际。",
+    "full_content": "【港股IPO：奥动新能源公司递表港交所】利弗莫尔证券显示，奥动新能源股份有限公司向港交所提交上市申请书，独家保荐人为招银国际。",
+    "sort_time": "1784457950055842",
+    "showTime": "2026-07-19 18:45:50",
+    "time": "2026-07-19 18:45:50",
+    "publish_time": "2026-07-19 18:45:50",
+    "raw_data": {
+      "code": "202607193811755842",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784457950055842",
+      "share": 0,
+      "showTime": "2026-07-19 18:45:50",
+      "stockList": [
+        "90.BK0697",
+        "150.161027"
+      ],
+      "summary": "【港股IPO：奥动新能源公司递表港交所】利弗莫尔证券显示，奥动新能源股份有限公司向港交所提交上市申请书，独家保荐人为招银国际。",
+      "title": "港股IPO：奥动新能源公司递表港交所",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811755842.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697",
+      "150.161027"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        },
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102",
+        "I020202"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "1e94f8250e494b53",
+    "code": "202607193811755353",
+    "title": "美驻约旦使馆发布安全警示",
+    "summary": "【美驻约旦使馆发布安全警示】美国驻约旦大使馆7月19日表示，约旦官方基于“具体且可信的威胁”对位于约旦南部城市亚喀巴的国际机场和港口区域进行了疏散。美国驻约旦大使馆建议所有美国公民避免前往上述区域，并遵守约旦政府发布的安全指示。",
+    "content": "【美驻约旦使馆发布安全警示】美国驻约旦大使馆7月19日表示，约旦官方基于“具体且可信的威胁”对位于约旦南部城市亚喀巴的国际机场和港口区域进行了疏散。美国驻约旦大使馆建议所有美国公民避免前往上述区域，并遵守约旦政府发布的安全指示。",
+    "full_content": "【美驻约旦使馆发布安全警示】美国驻约旦大使馆7月19日表示，约旦官方基于“具体且可信的威胁”对位于约旦南部城市亚喀巴的国际机场和港口区域进行了疏散。美国驻约旦大使馆建议所有美国公民避免前往上述区域，并遵守约旦政府发布的安全指示。",
+    "sort_time": "1784456198055353",
+    "showTime": "2026-07-19 18:16:38",
+    "time": "2026-07-19 18:16:38",
+    "publish_time": "2026-07-19 18:16:38",
+    "raw_data": {
+      "code": "202607193811755353",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1784456198055353",
+      "share": 1,
+      "showTime": "2026-07-19 18:16:38",
+      "stockList": [],
+      "summary": "【美驻约旦使馆发布安全警示】美国驻约旦大使馆7月19日表示，约旦官方基于“具体且可信的威胁”对位于约旦南部城市亚喀巴的国际机场和港口区域进行了疏散。美国驻约旦大使馆建议所有美国公民避免前往上述区域，并遵守约旦政府发布的安全指示。",
+      "title": "美驻约旦使馆发布安全警示",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811755353.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cb261be7b4344dae",
+    "code": "202607193811755295",
+    "title": "数千名用户报告Facebook和Instagram出现故障",
+    "summary": "据网络状况监测网站DownDetector的数据，大约在美国时间周日凌晨3:25开始，数千名用户报告Facebook和Instagram出现故障。",
+    "content": "据网络状况监测网站DownDetector的数据，大约在美国时间周日凌晨3:25开始，数千名用户报告Facebook和Instagram出现故障。",
+    "full_content": "据网络状况监测网站DownDetector的数据，大约在美国时间周日凌晨3:25开始，数千名用户报告Facebook和Instagram出现故障。",
+    "sort_time": "1784456153055295",
+    "showTime": "2026-07-19 18:15:53",
+    "time": "2026-07-19 18:15:53",
+    "publish_time": "2026-07-19 18:15:53",
+    "raw_data": {
+      "code": "202607193811755295",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1784456153055295",
+      "share": 0,
+      "showTime": "2026-07-19 18:15:53",
+      "stockList": [],
+      "summary": "据网络状况监测网站DownDetector的数据，大约在美国时间周日凌晨3:25开始，数千名用户报告Facebook和Instagram出现故障。",
+      "title": "数千名用户报告Facebook和Instagram出现故障",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811755295.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b36d10b8169dece2",
+    "code": "202607193811755019",
+    "title": "报道称FIFA因举办2026年世界杯将创纪录获利150亿美元",
+    "summary": "【报道称FIFA因举办2026年世界杯将创纪录获利150亿美元】据报道，国际足联（FIFA）通过在美国、加拿大和墨西哥举办的2026年世界杯获得的收入将超过150亿美元。国际足联的最初预测的营收为110亿美元，但由于门票销售（包括二级市场）带来的收入显著增加，指标被大幅上调。",
+    "content": "【报道称FIFA因举办2026年世界杯将创纪录获利150亿美元】据报道，国际足联（FIFA）通过在美国、加拿大和墨西哥举办的2026年世界杯获得的收入将超过150亿美元。国际足联的最初预测的营收为110亿美元，但由于门票销售（包括二级市场）带来的收入显著增加，指标被大幅上调。",
+    "full_content": "【报道称FIFA因举办2026年世界杯将创纪录获利150亿美元】据报道，国际足联（FIFA）通过在美国、加拿大和墨西哥举办的2026年世界杯获得的收入将超过150亿美元。国际足联的最初预测的营收为110亿美元，但由于门票销售（包括二级市场）带来的收入显著增加，指标被大幅上调。",
+    "sort_time": "1784456101055019",
+    "showTime": "2026-07-19 18:15:01",
+    "time": "2026-07-19 18:15:01",
+    "publish_time": "2026-07-19 18:15:01",
+    "raw_data": {
+      "code": "202607193811755019",
+      "image": [],
+      "pinglun_Num": 15,
+      "realSort": "1784456101055019",
+      "share": 9,
+      "showTime": "2026-07-19 18:15:01",
+      "stockList": [],
+      "summary": "【报道称FIFA因举办2026年世界杯将创纪录获利150亿美元】据报道，国际足联（FIFA）通过在美国、加拿大和墨西哥举办的2026年世界杯获得的收入将超过150亿美元。国际足联的最初预测的营收为110亿美元，但由于门票销售（包括二级市场）带来的收入显著增加，指标被大幅上调。",
+      "title": "报道称FIFA因举办2026年世界杯将创纪录获利150亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607193811755019.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 15,
+    "share_count": 9,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "d9840c47bc8cac29",
     "code": "202607193811754649",
     "title": "帝尔激光：公司董事会秘书拟不低于50万元增持公司股份",
@@ -13,9 +485,9 @@
     "raw_data": {
       "code": "202607193811754649",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 67,
       "realSort": "1784454701054649",
-      "share": 8,
+      "share": 13,
       "showTime": "2026-07-19 17:51:41",
       "stockList": [
         "150.161027",
@@ -35,8 +507,8 @@
       "999.718119"
     ],
     "has_stock_mention": true,
-    "comment_count": 21,
-    "share_count": 8,
+    "comment_count": 67,
+    "share_count": 13,
     "tags": {
       "industries": [
         {
@@ -76,7 +548,7 @@
     "raw_data": {
       "code": "202607193811753919",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 47,
       "realSort": "1784454191053919",
       "share": 0,
       "showTime": "2026-07-19 17:43:11",
@@ -92,7 +564,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
+    "comment_count": 47,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -117,7 +589,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1784453981053483",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-07-19 17:39:41",
       "stockList": [
         "90.BK0154"
@@ -136,7 +608,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -158,9 +630,9 @@
     "raw_data": {
       "code": "202607193811753344",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 29,
       "realSort": "1784453862053344",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-07-19 17:37:42",
       "stockList": [
         "150.014238"
@@ -178,8 +650,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 3,
+    "comment_count": 29,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -201,9 +673,9 @@
     "raw_data": {
       "code": "202607193811752663",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 15,
       "realSort": "1784452443052663",
-      "share": 13,
+      "share": 16,
       "showTime": "2026-07-19 17:14:03",
       "stockList": [
         "0.300001"
@@ -221,8 +693,8 @@
       "0.300001"
     ],
     "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 13,
+    "comment_count": 15,
+    "share_count": 16,
     "tags": {
       "industries": [
         {
@@ -274,9 +746,9 @@
     "raw_data": {
       "code": "202607193811752584",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 35,
       "realSort": "1784452396052584",
-      "share": 34,
+      "share": 40,
       "showTime": "2026-07-19 17:13:16",
       "stockList": [
         "0.301526"
@@ -294,8 +766,8 @@
       "0.301526"
     ],
     "has_stock_mention": true,
-    "comment_count": 18,
-    "share_count": 34,
+    "comment_count": 35,
+    "share_count": 40,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -317,9 +789,9 @@
     "raw_data": {
       "code": "202607193811752478",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 18,
       "realSort": "1784452349052478",
-      "share": 15,
+      "share": 17,
       "showTime": "2026-07-19 17:12:29",
       "stockList": [
         "0.300184"
@@ -337,8 +809,8 @@
       "0.300184"
     ],
     "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 15,
+    "comment_count": 18,
+    "share_count": 17,
     "tags": {
       "industries": [
         {
@@ -384,9 +856,9 @@
     "raw_data": {
       "code": "202607193811752357",
       "image": [],
-      "pinglun_Num": 112,
+      "pinglun_Num": 159,
       "realSort": "1784452303052357",
-      "share": 80,
+      "share": 121,
       "showTime": "2026-07-19 17:11:43",
       "stockList": [
         "0.301217"
@@ -404,8 +876,8 @@
       "0.301217"
     ],
     "has_stock_mention": true,
-    "comment_count": 112,
-    "share_count": 80,
+    "comment_count": 159,
+    "share_count": 121,
     "tags": {
       "industries": [],
       "concepts": [
@@ -437,7 +909,7 @@
       "image": [],
       "pinglun_Num": 6,
       "realSort": "1784451817052259",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-07-19 17:03:37",
       "stockList": [],
       "summary": "【巴林境内拉响防空警报】当地时间19日11时20分左右，巴林境内拉响防空警报。巴林国家电视台随后发布消息称，巴军方防空系统“挫败了”伊朗的袭击行动。",
@@ -452,7 +924,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 6,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -482,7 +954,7 @@
     "raw_data": {
       "code": "202607193811752160",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 18,
       "realSort": "1784451275052160",
       "share": 0,
       "showTime": "2026-07-19 16:54:35",
@@ -498,7 +970,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
+    "comment_count": 18,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -523,12 +995,9 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1784450976052087",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-07-19 16:49:36",
-      "stockList": [
-        "1.688331",
-        "116.09995"
-      ],
+      "stockList": [],
       "summary": "【荣昌生物：拟以2500万元—5000万元回购公司股份】荣昌生物(688331.SH)公告称，公司拟以2500万元—5000万元回购公司股份，用于员工持股计划或股权激励，回购价格不超过149元/股。",
       "title": "荣昌生物：拟以2500万元—5000万元回购公司股份",
       "titleColor": 0
@@ -536,15 +1005,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202607193811752087.html",
     "category": "公司",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "1.688331",
-      "116.09995"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 5,
-    "share_count": 7,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -566,9 +1032,9 @@
     "raw_data": {
       "code": "202607193811751985",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1784450939051985",
-      "share": 8,
+      "share": 12,
       "showTime": "2026-07-19 16:48:59",
       "stockList": [
         "90.BK0689",
@@ -588,8 +1054,8 @@
       "116.09988"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 8,
+    "comment_count": 11,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -619,7 +1085,7 @@
     "raw_data": {
       "code": "202607193811751884",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1784450854051884",
       "share": 2,
       "showTime": "2026-07-19 16:47:34",
@@ -639,7 +1105,7 @@
       "0.301190"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -662,9 +1128,9 @@
     "raw_data": {
       "code": "202607193811751735",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 15,
       "realSort": "1784450808051735",
-      "share": 16,
+      "share": 21,
       "showTime": "2026-07-19 16:46:48",
       "stockList": [
         "150.012372",
@@ -684,8 +1150,8 @@
       "0.301183"
     ],
     "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 16,
+    "comment_count": 15,
+    "share_count": 21,
     "tags": {
       "industries": [
         {
@@ -763,9 +1229,9 @@
     "raw_data": {
       "code": "202607193811751616",
       "image": [],
-      "pinglun_Num": 34,
+      "pinglun_Num": 41,
       "realSort": "1784450761051616",
-      "share": 81,
+      "share": 104,
       "showTime": "2026-07-19 16:46:01",
       "stockList": [
         "90.BK1134",
@@ -785,8 +1251,8 @@
       "999.430178"
     ],
     "has_stock_mention": true,
-    "comment_count": 34,
-    "share_count": 81,
+    "comment_count": 41,
+    "share_count": 104,
     "tags": {
       "industries": [],
       "concepts": [
@@ -822,9 +1288,9 @@
     "raw_data": {
       "code": "202607193811751570",
       "image": [],
-      "pinglun_Num": 152,
+      "pinglun_Num": 178,
       "realSort": "1784450189051570",
-      "share": 165,
+      "share": 175,
       "showTime": "2026-07-19 16:36:29",
       "stockList": [
         "90.BK0800",
@@ -844,8 +1310,8 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 152,
-    "share_count": 165,
+    "comment_count": 178,
+    "share_count": 175,
     "tags": {
       "industries": [],
       "concepts": [
@@ -875,9 +1341,9 @@
     "raw_data": {
       "code": "202607193811751341",
       "image": [],
-      "pinglun_Num": 350,
+      "pinglun_Num": 414,
       "realSort": "1784449923051341",
-      "share": 516,
+      "share": 618,
       "showTime": "2026-07-19 16:32:03",
       "stockList": [
         "150.012322",
@@ -897,8 +1363,8 @@
       "150.515980"
     ],
     "has_stock_mention": true,
-    "comment_count": 350,
-    "share_count": 516,
+    "comment_count": 414,
+    "share_count": 618,
     "tags": {
       "industries": [],
       "concepts": [
@@ -934,9 +1400,9 @@
     "raw_data": {
       "code": "202607193811751215",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 28,
       "realSort": "1784449869051215",
-      "share": 12,
+      "share": 17,
       "showTime": "2026-07-19 16:31:09",
       "stockList": [
         "90.BK1169",
@@ -956,8 +1422,8 @@
       "90.BK0697"
     ],
     "has_stock_mention": true,
-    "comment_count": 19,
-    "share_count": 12,
+    "comment_count": 28,
+    "share_count": 17,
     "tags": {
       "industries": [
         {
@@ -1011,7 +1477,7 @@
     "raw_data": {
       "code": "202607193811750730",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 6,
       "realSort": "1784449485050730",
       "share": 1,
       "showTime": "2026-07-19 16:24:45",
@@ -1033,7 +1499,7 @@
       "0.300571"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 6,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1056,7 +1522,7 @@
     "raw_data": {
       "code": "202607193811750590",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1784449433050590",
       "share": 0,
       "showTime": "2026-07-19 16:23:53",
@@ -1078,7 +1544,7 @@
       "116.01088"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1109,9 +1575,9 @@
     "raw_data": {
       "code": "202607193811750432",
       "image": [],
-      "pinglun_Num": 17,
+      "pinglun_Num": 18,
       "realSort": "1784449393050432",
-      "share": 18,
+      "share": 21,
       "showTime": "2026-07-19 16:23:13",
       "stockList": [
         "90.BK1036",
@@ -1131,8 +1597,8 @@
       "90.BK0459"
     ],
     "has_stock_mention": true,
-    "comment_count": 17,
-    "share_count": 18,
+    "comment_count": 18,
+    "share_count": 21,
     "tags": {
       "industries": [
         {
@@ -1178,9 +1644,9 @@
     "raw_data": {
       "code": "202607193811750260",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 7,
       "realSort": "1784449333050260",
-      "share": 14,
+      "share": 17,
       "showTime": "2026-07-19 16:22:13",
       "stockList": [
         "0.300179"
@@ -1198,8 +1664,8 @@
       "0.300179"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 14,
+    "comment_count": 7,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1264,9 +1730,9 @@
     "raw_data": {
       "code": "202607193811749910",
       "image": [],
-      "pinglun_Num": 27,
+      "pinglun_Num": 31,
       "realSort": "1784449158049910",
-      "share": 31,
+      "share": 37,
       "showTime": "2026-07-19 16:19:18",
       "stockList": [
         "150.013446",
@@ -1286,8 +1752,8 @@
       "0.300373"
     ],
     "has_stock_mention": true,
-    "comment_count": 27,
-    "share_count": 31,
+    "comment_count": 31,
+    "share_count": 37,
     "tags": {
       "industries": [
         {
@@ -1335,9 +1801,9 @@
     "raw_data": {
       "code": "202607193811749753",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 22,
       "realSort": "1784449056049753",
-      "share": 29,
+      "share": 34,
       "showTime": "2026-07-19 16:17:36",
       "stockList": [
         "150.512480",
@@ -1357,8 +1823,8 @@
       "150.013446"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 29,
+    "comment_count": 22,
+    "share_count": 34,
     "tags": {
       "industries": [
         {
@@ -1404,9 +1870,9 @@
     "raw_data": {
       "code": "202607193811749451",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1784449003049451",
-      "share": 6,
+      "share": 11,
       "showTime": "2026-07-19 16:16:43",
       "stockList": [
         "90.BK0567",
@@ -1426,8 +1892,8 @@
       "1.603920"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 6,
+    "comment_count": 9,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1449,7 +1915,7 @@
     "raw_data": {
       "code": "202607193811749296",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 14,
       "realSort": "1784448949049296",
       "share": 4,
       "showTime": "2026-07-19 16:15:49",
@@ -1465,7 +1931,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
+    "comment_count": 14,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1541,7 +2007,7 @@
     "raw_data": {
       "code": "202607193811748391",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1784448502048391",
       "share": 0,
       "showTime": "2026-07-19 16:08:22",
@@ -1561,7 +2027,7 @@
       "90.BK0486"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1584,9 +2050,9 @@
     "raw_data": {
       "code": "202607193811746513",
       "image": [],
-      "pinglun_Num": 465,
+      "pinglun_Num": 686,
       "realSort": "1784448037046513",
-      "share": 166,
+      "share": 263,
       "showTime": "2026-07-19 16:00:37",
       "stockList": [
         "90.BK0800",
@@ -1606,8 +2072,8 @@
       "90.BK0493"
     ],
     "has_stock_mention": true,
-    "comment_count": 465,
-    "share_count": 166,
+    "comment_count": 686,
+    "share_count": 263,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1631,7 +2097,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1784447464041125",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-07-19 15:51:04",
       "stockList": [
         "1.688357",
@@ -1652,7 +2118,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1674,9 +2140,9 @@
     "raw_data": {
       "code": "202607193811741084",
       "image": [],
-      "pinglun_Num": 27,
+      "pinglun_Num": 30,
       "realSort": "1784447340041084",
-      "share": 12,
+      "share": 15,
       "showTime": "2026-07-19 15:49:00",
       "stockList": [
         "1.600909"
@@ -1694,8 +2160,8 @@
       "1.600909"
     ],
     "has_stock_mention": true,
-    "comment_count": 27,
-    "share_count": 12,
+    "comment_count": 30,
+    "share_count": 15,
     "tags": {
       "industries": [
         {
@@ -1859,9 +2325,9 @@
     "raw_data": {
       "code": "202607193811740656",
       "image": [],
-      "pinglun_Num": 1802,
+      "pinglun_Num": 2082,
       "realSort": "1784446610040656",
-      "share": 2203,
+      "share": 2424,
       "showTime": "2026-07-19 15:36:50",
       "stockList": [],
       "summary": "【长鑫科技中签号出炉：共约770.22万个】长鑫科技(688825.SH)披露首次公开发行股票网上中签结果，中签号码共有7702207个，每个中签号码只能认购500股长鑫科技A股股票。",
@@ -1875,8 +2341,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1802,
-    "share_count": 2203,
+    "comment_count": 2082,
+    "share_count": 2424,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1949,7 +2415,7 @@
     "raw_data": {
       "code": "202607193811740382",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 17,
       "realSort": "1784445574040382",
       "share": 3,
       "showTime": "2026-07-19 15:19:34",
@@ -1969,7 +2435,7 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 16,
+    "comment_count": 17,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -2110,530 +2576,6 @@
       "industries": [],
       "concepts": [],
       "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "655ff14565563b20",
-    "code": "202607193811739422",
-    "title": "俄对乌首都等地实施大规模打击",
-    "summary": "【俄对乌首都等地实施大规模打击】俄罗斯国防部通报，当日凌晨，俄联邦武装力量使用空基、陆基高精度武器及攻击型无人机，对乌克兰基辅市及基辅州的军事工业企业和物流中心，以及敖德萨州南方港的基础设施目标发动了大规模打击。",
-    "content": "【俄对乌首都等地实施大规模打击】俄罗斯国防部通报，当日凌晨，俄联邦武装力量使用空基、陆基高精度武器及攻击型无人机，对乌克兰基辅市及基辅州的军事工业企业和物流中心，以及敖德萨州南方港的基础设施目标发动了大规模打击。",
-    "full_content": "【俄对乌首都等地实施大规模打击】俄罗斯国防部通报，当日凌晨，俄联邦武装力量使用空基、陆基高精度武器及攻击型无人机，对乌克兰基辅市及基辅州的军事工业企业和物流中心，以及敖德萨州南方港的基础设施目标发动了大规模打击。",
-    "sort_time": "1784443570039422",
-    "showTime": "2026-07-19 14:46:10",
-    "time": "2026-07-19 14:46:10",
-    "publish_time": "2026-07-19 14:46:10",
-    "raw_data": {
-      "code": "202607193811739422",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1784443570039422",
-      "share": 9,
-      "showTime": "2026-07-19 14:46:10",
-      "stockList": [],
-      "summary": "【俄对乌首都等地实施大规模打击】俄罗斯国防部通报，当日凌晨，俄联邦武装力量使用空基、陆基高精度武器及攻击型无人机，对乌克兰基辅市及基辅州的军事工业企业和物流中心，以及敖德萨州南方港的基础设施目标发动了大规模打击。",
-      "title": "俄对乌首都等地实施大规模打击",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811739422.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        },
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201",
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "0f2230d3bd425524",
-    "code": "202607193811739134",
-    "title": "受降雨天气影响 沪昆铁路部分列车今日停运",
-    "summary": "【受降雨天气影响 沪昆铁路部分列车今日停运】记者从国铁广州局了解到，近日湖南部分地区有暴雨，局地大暴雨。为确保旅客列车运行安全，根据降雨影响范围持续调整列车运行秩序，7月19日，计划对沪昆铁路部分列车采取停运措施，具体停运车次请在12306网站（App）查询。",
-    "content": "【受降雨天气影响 沪昆铁路部分列车今日停运】记者从国铁广州局了解到，近日湖南部分地区有暴雨，局地大暴雨。为确保旅客列车运行安全，根据降雨影响范围持续调整列车运行秩序，7月19日，计划对沪昆铁路部分列车采取停运措施，具体停运车次请在12306网站（App）查询。",
-    "full_content": "【受降雨天气影响 沪昆铁路部分列车今日停运】记者从国铁广州局了解到，近日湖南部分地区有暴雨，局地大暴雨。为确保旅客列车运行安全，根据降雨影响范围持续调整列车运行秩序，7月19日，计划对沪昆铁路部分列车采取停运措施，具体停运车次请在12306网站（App）查询。",
-    "sort_time": "1784443014039134",
-    "showTime": "2026-07-19 14:36:54",
-    "time": "2026-07-19 14:36:54",
-    "publish_time": "2026-07-19 14:36:54",
-    "raw_data": {
-      "code": "202607193811739134",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1784443014039134",
-      "share": 5,
-      "showTime": "2026-07-19 14:36:54",
-      "stockList": [],
-      "summary": "【受降雨天气影响 沪昆铁路部分列车今日停运】记者从国铁广州局了解到，近日湖南部分地区有暴雨，局地大暴雨。为确保旅客列车运行安全，根据降雨影响范围持续调整列车运行秩序，7月19日，计划对沪昆铁路部分列车采取停运措施，具体停运车次请在12306网站（App）查询。",
-      "title": "受降雨天气影响 沪昆铁路部分列车今日停运",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811739134.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6ee5fb7f592e5f68",
-    "code": "202607193811739033",
-    "title": "乌称基辅遭大规模无人机和导弹联合打击",
-    "summary": "【乌称基辅遭大规模无人机和导弹联合打击】乌克兰国家紧急情况服务局19日通报，俄罗斯军队当天大规模袭击基辅，截至目前已造成1人死亡、8人受伤。乌首都多个区遭袭击命中发生火灾，多栋住宅楼等受损，救援人员已展开救援处置工作。",
-    "content": "【乌称基辅遭大规模无人机和导弹联合打击】乌克兰国家紧急情况服务局19日通报，俄罗斯军队当天大规模袭击基辅，截至目前已造成1人死亡、8人受伤。乌首都多个区遭袭击命中发生火灾，多栋住宅楼等受损，救援人员已展开救援处置工作。",
-    "full_content": "【乌称基辅遭大规模无人机和导弹联合打击】乌克兰国家紧急情况服务局19日通报，俄罗斯军队当天大规模袭击基辅，截至目前已造成1人死亡、8人受伤。乌首都多个区遭袭击命中发生火灾，多栋住宅楼等受损，救援人员已展开救援处置工作。",
-    "sort_time": "1784442969039033",
-    "showTime": "2026-07-19 14:36:09",
-    "time": "2026-07-19 14:36:09",
-    "publish_time": "2026-07-19 14:36:09",
-    "raw_data": {
-      "code": "202607193811739033",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1784442969039033",
-      "share": 9,
-      "showTime": "2026-07-19 14:36:09",
-      "stockList": [
-        "90.BK0704"
-      ],
-      "summary": "【乌称基辅遭大规模无人机和导弹联合打击】乌克兰国家紧急情况服务局19日通报，俄罗斯军队当天大规模袭击基辅，截至目前已造成1人死亡、8人受伤。乌首都多个区遭袭击命中发生火灾，多栋住宅楼等受损，救援人员已展开救援处置工作。",
-      "title": "乌称基辅遭大规模无人机和导弹联合打击",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811739033.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0704"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "cc0a84d098405ef3",
-    "code": "202607193811738944",
-    "title": "科威特拉响防空警报",
-    "summary": "【科威特拉响防空警报】当地时间19日上午9时20分左右，科威特国内拉响防空警报。科威特武装部队随后发布消息称，科方防空系统正在应对进入科领空的“敌对”空中目标。",
-    "content": "【科威特拉响防空警报】当地时间19日上午9时20分左右，科威特国内拉响防空警报。科威特武装部队随后发布消息称，科方防空系统正在应对进入科领空的“敌对”空中目标。",
-    "full_content": "【科威特拉响防空警报】当地时间19日上午9时20分左右，科威特国内拉响防空警报。科威特武装部队随后发布消息称，科方防空系统正在应对进入科领空的“敌对”空中目标。",
-    "sort_time": "1784442920038944",
-    "showTime": "2026-07-19 14:35:20",
-    "time": "2026-07-19 14:35:20",
-    "publish_time": "2026-07-19 14:35:20",
-    "raw_data": {
-      "code": "202607193811738944",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1784442920038944",
-      "share": 1,
-      "showTime": "2026-07-19 14:35:20",
-      "stockList": [],
-      "summary": "【科威特拉响防空警报】当地时间19日上午9时20分左右，科威特国内拉响防空警报。科威特武装部队随后发布消息称，科方防空系统正在应对进入科领空的“敌对”空中目标。",
-      "title": "科威特拉响防空警报",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811738944.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f99b240353d1ba37",
-    "code": "202607193811738847",
-    "title": "周末要闻汇总",
-    "summary": "【周末要闻汇总】美国不再延续涉港国家紧急状态，商务部回应；三部门将分类分步对部分电池恢复征收消费税；外交部发言人就英钢国有化问题答记者问；多家券商称未出现两融大规模强制平仓；贵州茅台上调飞天茅台i茅台平台零售价及合同价；长鑫科技中签号出炉；美军连续第八晚袭击伊朗；美股三大指数集体收跌，国际油价涨超4%。",
-    "content": "【周末要闻汇总】美国不再延续涉港国家紧急状态，商务部回应；三部门将分类分步对部分电池恢复征收消费税；外交部发言人就英钢国有化问题答记者问；多家券商称未出现两融大规模强制平仓；贵州茅台上调飞天茅台i茅台平台零售价及合同价；长鑫科技中签号出炉；美军连续第八晚袭击伊朗；美股三大指数集体收跌，国际油价涨超4%。",
-    "full_content": "【周末要闻汇总】美国不再延续涉港国家紧急状态，商务部回应；三部门将分类分步对部分电池恢复征收消费税；外交部发言人就英钢国有化问题答记者问；多家券商称未出现两融大规模强制平仓；贵州茅台上调飞天茅台i茅台平台零售价及合同价；长鑫科技中签号出炉；美军连续第八晚袭击伊朗；美股三大指数集体收跌，国际油价涨超4%。",
-    "sort_time": "1784442605038847",
-    "showTime": "2026-07-19 14:30:05",
-    "time": "2026-07-19 14:30:05",
-    "publish_time": "2026-07-19 14:30:05",
-    "raw_data": {
-      "code": "202607193811738847",
-      "image": [],
-      "pinglun_Num": 1698,
-      "realSort": "1784442605038847",
-      "share": 706,
-      "showTime": "2026-07-19 14:30:05",
-      "stockList": [
-        "90.BK1366",
-        "90.BK0473"
-      ],
-      "summary": "【周末要闻汇总】美国不再延续涉港国家紧急状态，商务部回应；三部门将分类分步对部分电池恢复征收消费税；外交部发言人就英钢国有化问题答记者问；多家券商称未出现两融大规模强制平仓；贵州茅台上调飞天茅台i茅台平台零售价及合同价；长鑫科技中签号出炉；美军连续第八晚袭击伊朗；美股三大指数集体收跌，国际油价涨超4%。",
-      "title": "周末要闻汇总：多家券商称未出现两融大规模强制平仓",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811738847.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1366",
-      "90.BK0473"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1698,
-    "share_count": 706,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "券商"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "券商"
-        },
-        {
-          "id": "C601",
-          "name": "白酒",
-          "matched_keyword": "茅台"
-        },
-        {
-          "id": "C605",
-          "name": "零售",
-          "matched_keyword": "零售"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401",
-        "C601",
-        "C605"
-      ]
-    }
-  },
-  {
-    "id": "aa396767aa4a2c1f",
-    "code": "202607193811738775",
-    "title": "伊朗军方无人机打击科威特美军基地",
-    "summary": "【伊朗军方无人机打击科威特美军基地】据伊朗广播电视台今天（7月19日）报道，伊朗军队从当天凌晨开始，展开了“闪电”行动第17阶段的无人机袭击，再次打击了美军驻科威特的基地。美军阿达伊里营地的弹药库以及阿里·萨利姆基地的设备和人员库房均遭到了无人机的密集攻击。",
-    "content": "【伊朗军方无人机打击科威特美军基地】据伊朗广播电视台今天（7月19日）报道，伊朗军队从当天凌晨开始，展开了“闪电”行动第17阶段的无人机袭击，再次打击了美军驻科威特的基地。美军阿达伊里营地的弹药库以及阿里·萨利姆基地的设备和人员库房均遭到了无人机的密集攻击。",
-    "full_content": "【伊朗军方无人机打击科威特美军基地】据伊朗广播电视台今天（7月19日）报道，伊朗军队从当天凌晨开始，展开了“闪电”行动第17阶段的无人机袭击，再次打击了美军驻科威特的基地。美军阿达伊里营地的弹药库以及阿里·萨利姆基地的设备和人员库房均遭到了无人机的密集攻击。",
-    "sort_time": "1784442594038775",
-    "showTime": "2026-07-19 14:29:54",
-    "time": "2026-07-19 14:29:54",
-    "publish_time": "2026-07-19 14:29:54",
-    "raw_data": {
-      "code": "202607193811738775",
-      "image": [],
-      "pinglun_Num": 17,
-      "realSort": "1784442594038775",
-      "share": 2,
-      "showTime": "2026-07-19 14:29:54",
-      "stockList": [
-        "90.BK0704"
-      ],
-      "summary": "【伊朗军方无人机打击科威特美军基地】据伊朗广播电视台今天（7月19日）报道，伊朗军队从当天凌晨开始，展开了“闪电”行动第17阶段的无人机袭击，再次打击了美军驻科威特的基地。美军阿达伊里营地的弹药库以及阿里·萨利姆基地的设备和人员库房均遭到了无人机的密集攻击。",
-      "title": "伊朗军方无人机打击科威特美军基地",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811738775.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0704"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 17,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "2611f107ba734361",
-    "code": "202607193811738619",
-    "title": "长三角人工智能协同投资平台共建签约",
-    "summary": "【长三角人工智能协同投资平台共建签约】在2026世界人工智能大会分论坛“长三角人工智能产业集群发展论坛”上，长三角人工智能协同投资平台共建签约，签约方包括长三角投资公司、国家开发投资集团、上海国投公司、江苏省高投集团、浙江省国有资本公司、安徽省投资集团、浦发银行。",
-    "content": "【长三角人工智能协同投资平台共建签约】在2026世界人工智能大会分论坛“长三角人工智能产业集群发展论坛”上，长三角人工智能协同投资平台共建签约，签约方包括长三角投资公司、国家开发投资集团、上海国投公司、江苏省高投集团、浙江省国有资本公司、安徽省投资集团、浦发银行。",
-    "full_content": "【长三角人工智能协同投资平台共建签约】在2026世界人工智能大会分论坛“长三角人工智能产业集群发展论坛”上，长三角人工智能协同投资平台共建签约，签约方包括长三角投资公司、国家开发投资集团、上海国投公司、江苏省高投集团、浙江省国有资本公司、安徽省投资集团、浦发银行。",
-    "sort_time": "1784442252038619",
-    "showTime": "2026-07-19 14:24:12",
-    "time": "2026-07-19 14:24:12",
-    "publish_time": "2026-07-19 14:24:12",
-    "raw_data": {
-      "code": "202607193811738619",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1784442252038619",
-      "share": 1,
-      "showTime": "2026-07-19 14:24:12",
-      "stockList": [
-        "90.BK0800",
-        "90.BK0594"
-      ],
-      "summary": "【长三角人工智能协同投资平台共建签约】在2026世界人工智能大会分论坛“长三角人工智能产业集群发展论坛”上，长三角人工智能协同投资平台共建签约，签约方包括长三角投资公司、国家开发投资集团、上海国投公司、江苏省高投集团、浙江省国有资本公司、安徽省投资集团、浦发银行。",
-      "title": "长三角人工智能协同投资平台共建签约",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811738619.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "90.BK0594"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        },
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C001",
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "89f56d734a22deeb",
-    "code": "202607193811738527",
-    "title": "上海发布中心城区冰雹黄色预警",
-    "summary": "【上海发布中心城区冰雹黄色预警】上海市气象台2026年07月19日14时01分发布中心城区冰雹黄色预警信号：预计未来2小时内，静安区、虹口区、杨浦区将出现冰雹天气，请做好易损室外物品和设备的防护措施。",
-    "content": "【上海发布中心城区冰雹黄色预警】上海市气象台2026年07月19日14时01分发布中心城区冰雹黄色预警信号：预计未来2小时内，静安区、虹口区、杨浦区将出现冰雹天气，请做好易损室外物品和设备的防护措施。",
-    "full_content": "【上海发布中心城区冰雹黄色预警】上海市气象台2026年07月19日14时01分发布中心城区冰雹黄色预警信号：预计未来2小时内，静安区、虹口区、杨浦区将出现冰雹天气，请做好易损室外物品和设备的防护措施。",
-    "sort_time": "1784441899038527",
-    "showTime": "2026-07-19 14:18:19",
-    "time": "2026-07-19 14:18:19",
-    "publish_time": "2026-07-19 14:18:19",
-    "raw_data": {
-      "code": "202607193811738527",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1784441899038527",
-      "share": 7,
-      "showTime": "2026-07-19 14:18:19",
-      "stockList": [],
-      "summary": "【上海发布中心城区冰雹黄色预警】上海市气象台2026年07月19日14时01分发布中心城区冰雹黄色预警信号：预计未来2小时内，静安区、虹口区、杨浦区将出现冰雹天气，请做好易损室外物品和设备的防护措施。",
-      "title": "上海发布中心城区冰雹黄色预警",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811738527.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "854429a374b80c4a",
-    "code": "202607193811738150",
-    "title": "月之暗面 Kimi K3 大模型登顶全球榜单后 彭博社称美国 AI 领先中国固有认知被打破",
-    "summary": "【月之暗面 Kimi K3 大模型登顶全球榜单后 彭博社称美国 AI 领先中国固有认知被打破】Kimi K3 发布后，美国加州大学伯克利分校计算机科学教授斯托伊卡（Ion Stoica）表示：“过去我们一直认为，中国的开源模型大约落后最先进模型 6-9 个月。而现在，这种差距可能已经缩小到 2-3 个月。”",
-    "content": "【月之暗面 Kimi K3 大模型登顶全球榜单后 彭博社称美国 AI 领先中国固有认知被打破】Kimi K3 发布后，美国加州大学伯克利分校计算机科学教授斯托伊卡（Ion Stoica）表示：“过去我们一直认为，中国的开源模型大约落后最先进模型 6-9 个月。而现在，这种差距可能已经缩小到 2-3 个月。”",
-    "full_content": "【月之暗面 Kimi K3 大模型登顶全球榜单后 彭博社称美国 AI 领先中国固有认知被打破】Kimi K3 发布后，美国加州大学伯克利分校计算机科学教授斯托伊卡（Ion Stoica）表示：“过去我们一直认为，中国的开源模型大约落后最先进模型 6-9 个月。而现在，这种差距可能已经缩小到 2-3 个月。”",
-    "sort_time": "1784441339038150",
-    "showTime": "2026-07-19 14:08:59",
-    "time": "2026-07-19 14:08:59",
-    "publish_time": "2026-07-19 14:08:59",
-    "raw_data": {
-      "code": "202607193811738150",
-      "image": [],
-      "pinglun_Num": 19,
-      "realSort": "1784441339038150",
-      "share": 40,
-      "showTime": "2026-07-19 14:08:59",
-      "stockList": [
-        "90.BK0800",
-        "90.BK1169"
-      ],
-      "summary": "【月之暗面 Kimi K3 大模型登顶全球榜单后 彭博社称美国 AI 领先中国固有认知被打破】Kimi K3 发布后，美国加州大学伯克利分校计算机科学教授斯托伊卡（Ion Stoica）表示：“过去我们一直认为，中国的开源模型大约落后最先进模型 6-9 个月。而现在，这种差距可能已经缩小到 2-3 个月。”",
-      "title": "月之暗面 Kimi K3 大模型登顶全球榜单后 彭博社称美国 AI 领先中国固有认知被打破",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811738150.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "90.BK1169"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 19,
-    "share_count": 40,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "大模型"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "a2314d4355d5e519",
-    "code": "202607193811737620",
-    "title": "报道称月之暗面正计划在未来6个月内进行香港IPO",
-    "summary": "报道称月之暗面正计划在未来6个月内进行香港IPO。",
-    "content": "报道称月之暗面正计划在未来6个月内进行香港IPO。",
-    "full_content": "报道称月之暗面正计划在未来6个月内进行香港IPO。",
-    "sort_time": "1784440380037620",
-    "showTime": "2026-07-19 13:53:00",
-    "time": "2026-07-19 13:53:00",
-    "publish_time": "2026-07-19 13:53:00",
-    "raw_data": {
-      "code": "202607193811737620",
-      "image": [],
-      "pinglun_Num": 29,
-      "realSort": "1784440380037620",
-      "share": 22,
-      "showTime": "2026-07-19 13:53:00",
-      "stockList": [
-        "90.BK1169",
-        "90.BK0697"
-      ],
-      "summary": "报道称月之暗面正计划在未来6个月内进行香港IPO。",
-      "title": "报道称月之暗面正计划在未来6个月内进行香港IPO",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607193811737620.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1169",
-      "90.BK0697"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 29,
-    "share_count": 22,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020202",
-          "name": "投资银行",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "IPO"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I020202"
-      ],
       "concept_ids": []
     }
   }
