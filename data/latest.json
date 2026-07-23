@@ -1,5 +1,460 @@
 [
   {
+    "id": "505e1632b3f808c6",
+    "code": "202607243819365339",
+    "title": "一名伊朗军官因美军空袭丧生",
+    "summary": "【一名伊朗军官因美军空袭丧生】据伊朗方面消息，一名伊朗军官23日在美军对伊朗沙拉姆切赫地区发动的空袭中丧生。",
+    "content": "【一名伊朗军官因美军空袭丧生】据伊朗方面消息，一名伊朗军官23日在美军对伊朗沙拉姆切赫地区发动的空袭中丧生。",
+    "full_content": "【一名伊朗军官因美军空袭丧生】据伊朗方面消息，一名伊朗军官23日在美军对伊朗沙拉姆切赫地区发动的空袭中丧生。",
+    "sort_time": "1784834184065339",
+    "showTime": "2026-07-24 03:16:24",
+    "time": "2026-07-24 03:16:24",
+    "publish_time": "2026-07-24 03:16:24",
+    "raw_data": {
+      "code": "202607243819365339",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784834184065339",
+      "share": 0,
+      "showTime": "2026-07-24 03:16:24",
+      "stockList": [
+        "150.012372"
+      ],
+      "summary": "【一名伊朗军官因美军空袭丧生】据伊朗方面消息，一名伊朗军官23日在美军对伊朗沙拉姆切赫地区发动的空袭中丧生。",
+      "title": "一名伊朗军官因美军空袭丧生",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819365339.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.012372"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "273322a08480f148",
+    "code": "202607243819365242",
+    "title": "AMD CEO：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU",
+    "summary": "AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+    "content": "AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+    "full_content": "AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+    "sort_time": "1784834013065242",
+    "showTime": "2026-07-24 03:13:33",
+    "time": "2026-07-24 03:13:33",
+    "publish_time": "2026-07-24 03:13:33",
+    "raw_data": {
+      "code": "202607243819365242",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784834013065242",
+      "share": 0,
+      "showTime": "2026-07-24 03:13:33",
+      "stockList": [
+        "90.BK0579",
+        "90.BK0447"
+      ],
+      "summary": "AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+      "title": "AMD CEO：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819365242.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0579",
+      "90.BK0447"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C005",
+          "name": "云计算",
+          "matched_keyword": "云服务"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C005",
+        "C006",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "9340d2ca18203acd",
+    "code": "202607243819365144",
+    "title": "在岸人民币兑美元较周三夜盘收盘跌27点",
+    "summary": "【在岸人民币兑美元较周三夜盘收盘跌27点】在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+    "content": "【在岸人民币兑美元较周三夜盘收盘跌27点】在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+    "full_content": "【在岸人民币兑美元较周三夜盘收盘跌27点】在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+    "sort_time": "1784833645065144",
+    "showTime": "2026-07-24 03:07:25",
+    "time": "2026-07-24 03:07:25",
+    "publish_time": "2026-07-24 03:07:25",
+    "raw_data": {
+      "code": "202607243819365144",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784833645065144",
+      "share": 0,
+      "showTime": "2026-07-24 03:07:25",
+      "stockList": [],
+      "summary": "【在岸人民币兑美元较周三夜盘收盘跌27点】在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+      "title": "在岸人民币兑美元较周三夜盘收盘跌27点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819365144.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c919149505a6eef6",
+    "code": "202607243819364491",
+    "title": "美军称对伊朗海上封锁已迫使12艘商船改道",
+    "summary": "【美军称对伊朗海上封锁已迫使12艘商船改道】当地时间7月23日，美军中央司令部表示，自9天前恢复对伊朗的海上封锁以来，美军已迫使12艘商业船只改变航向，并使1艘船失去航行能力，以阻止船只进出伊朗港口或沿海地区。",
+    "content": "【美军称对伊朗海上封锁已迫使12艘商船改道】当地时间7月23日，美军中央司令部表示，自9天前恢复对伊朗的海上封锁以来，美军已迫使12艘商业船只改变航向，并使1艘船失去航行能力，以阻止船只进出伊朗港口或沿海地区。",
+    "full_content": "【美军称对伊朗海上封锁已迫使12艘商船改道】当地时间7月23日，美军中央司令部表示，自9天前恢复对伊朗的海上封锁以来，美军已迫使12艘商业船只改变航向，并使1艘船失去航行能力，以阻止船只进出伊朗港口或沿海地区。",
+    "sort_time": "1784832798064491",
+    "showTime": "2026-07-24 02:53:18",
+    "time": "2026-07-24 02:53:18",
+    "publish_time": "2026-07-24 02:53:18",
+    "raw_data": {
+      "code": "202607243819364491",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784832798064491",
+      "share": 0,
+      "showTime": "2026-07-24 02:53:18",
+      "stockList": [],
+      "summary": "【美军称对伊朗海上封锁已迫使12艘商船改道】当地时间7月23日，美军中央司令部表示，自9天前恢复对伊朗的海上封锁以来，美军已迫使12艘商业船只改变航向，并使1艘船失去航行能力，以阻止船只进出伊朗港口或沿海地区。",
+      "title": "美军称对伊朗海上封锁已迫使12艘商船改道",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819364491.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7d675c5d6623c878",
+    "code": "202607243819363563",
+    "title": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合 带来1.7倍代际性能提升",
+    "summary": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合，带来1.7倍代际性能提升。",
+    "content": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合，带来1.7倍代际性能提升。",
+    "full_content": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合，带来1.7倍代际性能提升。",
+    "sort_time": "1784832003063563",
+    "showTime": "2026-07-24 02:40:03",
+    "time": "2026-07-24 02:40:03",
+    "publish_time": "2026-07-24 02:40:03",
+    "raw_data": {
+      "code": "202607243819363563",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784832003063563",
+      "share": 0,
+      "showTime": "2026-07-24 02:40:03",
+      "stockList": [
+        "105.SMCI",
+        "105.AMD"
+      ],
+      "summary": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合，带来1.7倍代际性能提升。",
+      "title": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合 带来1.7倍代际性能提升",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819363563.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SMCI",
+      "105.AMD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "服务器"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "50d9db947c62f808",
+    "code": "202607243819360636",
+    "title": "国际原油期货结算价大幅收涨",
+    "summary": "【国际原油期货结算价大幅收涨】WTI原油期货9月合约结算价收涨6.17%，报92.19美元/桶。",
+    "content": "【国际原油期货结算价大幅收涨】WTI原油期货9月合约结算价收涨6.17%，报92.19美元/桶。",
+    "full_content": "【国际原油期货结算价大幅收涨】WTI原油期货9月合约结算价收涨6.17%，报92.19美元/桶。",
+    "sort_time": "1784831477060636",
+    "showTime": "2026-07-24 02:31:17",
+    "time": "2026-07-24 02:31:17",
+    "publish_time": "2026-07-24 02:31:17",
+    "raw_data": {
+      "code": "202607243819360636",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784831477060636",
+      "share": 0,
+      "showTime": "2026-07-24 02:31:17",
+      "stockList": [],
+      "summary": "【国际原油期货结算价大幅收涨】WTI原油期货9月合约结算价收涨6.17%，报92.19美元/桶。",
+      "title": "国际原油期货结算价大幅收涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819360636.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "a0748a7b801af18a",
+    "code": "202607243819360030",
+    "title": "消息人士称欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制",
+    "summary": "消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+    "content": "消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+    "full_content": "消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+    "sort_time": "1784830394060030",
+    "showTime": "2026-07-24 02:13:14",
+    "time": "2026-07-24 02:13:14",
+    "publish_time": "2026-07-24 02:13:14",
+    "raw_data": {
+      "code": "202607243819360030",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784830394060030",
+      "share": 0,
+      "showTime": "2026-07-24 02:13:14",
+      "stockList": [],
+      "summary": "消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+      "title": "消息人士称欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819360030.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "ab560fc22e9b49ac",
+    "code": "202607243819359613",
+    "title": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元 将苹果目标价从每股360美元上调至364美元",
+    "summary": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+    "content": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+    "full_content": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+    "sort_time": "1784829764059613",
+    "showTime": "2026-07-24 02:02:44",
+    "time": "2026-07-24 02:02:44",
+    "publish_time": "2026-07-24 02:02:44",
+    "raw_data": {
+      "code": "202607243819359613",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784829764059613",
+      "share": 1,
+      "showTime": "2026-07-24 02:02:44",
+      "stockList": [
+        "105.GOOGL",
+        "105.GOOG"
+      ],
+      "summary": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+      "title": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元 将苹果目标价从每股360美元上调至364美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819359613.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOGL",
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "1646113c0c2b34c5",
+    "code": "202607243819359797",
+    "title": "我国科研团队实现植物免疫受体精准定制化设计",
+    "summary": "【我国科研团队实现植物免疫受体精准定制化设计】植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。培育和推广作物抗病品种是植物病害绿色防控的核心策略之一。中国科学院遗传与发育生物学研究所高彩霞研究员团队首次提出“可编程植物合成免疫”的新理念，通过整合人工智能辅助蛋白质设计、模块化免疫受体工程和植物体内定向进化技术，建立了可编程的合成植物免疫受体设计平台，实现了植物免疫受体的精准定制化设计。该成果突破了天然抗病基因资源的限制，为快速应对新发病害和病原物变异提供了全新的技术路线。相关成果7月24日在国际学术期刊《科学》发表。",
+    "content": "【我国科研团队实现植物免疫受体精准定制化设计】植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。培育和推广作物抗病品种是植物病害绿色防控的核心策略之一。中国科学院遗传与发育生物学研究所高彩霞研究员团队首次提出“可编程植物合成免疫”的新理念，通过整合人工智能辅助蛋白质设计、模块化免疫受体工程和植物体内定向进化技术，建立了可编程的合成植物免疫受体设计平台，实现了植物免疫受体的精准定制化设计。该成果突破了天然抗病基因资源的限制，为快速应对新发病害和病原物变异提供了全新的技术路线。相关成果7月24日在国际学术期刊《科学》发表。",
+    "full_content": "【我国科研团队实现植物免疫受体精准定制化设计】植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。培育和推广作物抗病品种是植物病害绿色防控的核心策略之一。中国科学院遗传与发育生物学研究所高彩霞研究员团队首次提出“可编程植物合成免疫”的新理念，通过整合人工智能辅助蛋白质设计、模块化免疫受体工程和植物体内定向进化技术，建立了可编程的合成植物免疫受体设计平台，实现了植物免疫受体的精准定制化设计。该成果突破了天然抗病基因资源的限制，为快速应对新发病害和病原物变异提供了全新的技术路线。相关成果7月24日在国际学术期刊《科学》发表。",
+    "sort_time": "1784829675059797",
+    "showTime": "2026-07-24 02:01:15",
+    "time": "2026-07-24 02:01:15",
+    "publish_time": "2026-07-24 02:01:15",
+    "raw_data": {
+      "code": "202607243819359797",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784829675059797",
+      "share": 0,
+      "showTime": "2026-07-24 02:01:15",
+      "stockList": [],
+      "summary": "【我国科研团队实现植物免疫受体精准定制化设计】植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。培育和推广作物抗病品种是植物病害绿色防控的核心策略之一。中国科学院遗传与发育生物学研究所高彩霞研究员团队首次提出“可编程植物合成免疫”的新理念，通过整合人工智能辅助蛋白质设计、模块化免疫受体工程和植物体内定向进化技术，建立了可编程的合成植物免疫受体设计平台，实现了植物免疫受体的精准定制化设计。该成果突破了天然抗病基因资源的限制，为快速应对新发病害和病原物变异提供了全新的技术路线。相关成果7月24日在国际学术期刊《科学》发表。",
+      "title": "我国科研团队实现植物免疫受体精准定制化设计",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819359797.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C306",
+          "name": "基因测序",
+          "matched_keyword": "基因"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C306"
+      ]
+    }
+  },
+  {
     "id": "e821153be042eb4c",
     "code": "202607243819359442",
     "title": "以色列防长称已为应对伊朗局势做好“全方位准备”",
@@ -13,7 +468,7 @@
     "raw_data": {
       "code": "202607243819359442",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 8,
       "realSort": "1784828495059442",
       "share": 0,
       "showTime": "2026-07-24 01:41:35",
@@ -29,7 +484,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -60,7 +515,7 @@
     "raw_data": {
       "code": "202607243819359173",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1784828240059173",
       "share": 1,
       "showTime": "2026-07-24 01:37:20",
@@ -82,7 +537,7 @@
       "150.013446"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -437,9 +892,9 @@
     "raw_data": {
       "code": "202607243819354325",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1784826088054325",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-07-24 01:01:28",
       "stockList": [
         "90.BK0579",
@@ -459,8 +914,8 @@
       "150.012322"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -794,7 +1249,7 @@
       "image": [],
       "pinglun_Num": 11,
       "realSort": "1784824804050410",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-07-24 00:40:04",
       "stockList": [
         "90.BK0800",
@@ -815,7 +1270,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 11,
-    "share_count": 5,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1116,7 +1571,7 @@
     "raw_data": {
       "code": "202607243819345871",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1784823769045871",
       "share": 0,
       "showTime": "2026-07-24 00:22:49",
@@ -1138,7 +1593,7 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1175,7 +1630,7 @@
     "raw_data": {
       "code": "202607243819345053",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 17,
       "realSort": "1784823535045053",
       "share": 2,
       "showTime": "2026-07-24 00:18:55",
@@ -1191,7 +1646,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
+    "comment_count": 17,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1259,9 +1714,9 @@
     "raw_data": {
       "code": "202607243819343128",
       "image": [],
-      "pinglun_Num": 55,
+      "pinglun_Num": 61,
       "realSort": "1784822862043128",
-      "share": 34,
+      "share": 36,
       "showTime": "2026-07-24 00:07:42",
       "stockList": [
         "90.BK0800",
@@ -1281,8 +1736,8 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 55,
-    "share_count": 34,
+    "comment_count": 61,
+    "share_count": 36,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1747,9 +2202,9 @@
     "raw_data": {
       "code": "202607233819333551",
       "image": [],
-      "pinglun_Num": 504,
+      "pinglun_Num": 541,
       "realSort": "1784821731033551",
-      "share": 356,
+      "share": 372,
       "showTime": "2026-07-23 23:48:51",
       "stockList": [],
       "summary": "【特朗普称正“认真考虑”重启对伊朗的大规模作战】据美国媒体23日报道，美国总统特朗普当天称，他正在“认真考虑”重启对伊朗的大规模作战行动。",
@@ -1763,8 +2218,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 504,
-    "share_count": 356,
+    "comment_count": 541,
+    "share_count": 372,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1786,7 +2241,7 @@
     "raw_data": {
       "code": "202607233819334989",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1784821707034989",
       "share": 0,
       "showTime": "2026-07-23 23:48:27",
@@ -1802,7 +2257,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -2034,415 +2489,6 @@
       "concept_ids": [
         "C506"
       ]
-    }
-  },
-  {
-    "id": "04de16cbd88ea2c5",
-    "code": "202607233819316639",
-    "title": "俄罗斯方面称打击了乌克兰Pivdennyi港口的诸多设施",
-    "summary": "俄罗斯方面称打击了乌克兰Pivdennyi港口的诸多设施。",
-    "content": "俄罗斯方面称打击了乌克兰Pivdennyi港口的诸多设施。",
-    "full_content": "俄罗斯方面称打击了乌克兰Pivdennyi港口的诸多设施。",
-    "sort_time": "1784820238016639",
-    "showTime": "2026-07-23 23:23:58",
-    "time": "2026-07-23 23:23:58",
-    "publish_time": "2026-07-23 23:23:58",
-    "raw_data": {
-      "code": "202607233819316639",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1784820238016639",
-      "share": 1,
-      "showTime": "2026-07-23 23:23:58",
-      "stockList": [
-        "90.BK1481"
-      ],
-      "summary": "俄罗斯方面称打击了乌克兰Pivdennyi港口的诸多设施。",
-      "title": "俄罗斯方面称打击了乌克兰Pivdennyi港口的诸多设施",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819316639.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1481"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "464f5d1f463bd3af",
-    "code": "202607233819310430",
-    "title": "美国证券交易委员会将于9月17日举办圆桌会议 讨论24小时交易问题",
-    "summary": "美国证券交易委员会将于9月17日举办圆桌会议，讨论24小时交易问题。",
-    "content": "美国证券交易委员会将于9月17日举办圆桌会议，讨论24小时交易问题。",
-    "full_content": "美国证券交易委员会将于9月17日举办圆桌会议，讨论24小时交易问题。",
-    "sort_time": "1784819444010430",
-    "showTime": "2026-07-23 23:10:44",
-    "time": "2026-07-23 23:10:44",
-    "publish_time": "2026-07-23 23:10:44",
-    "raw_data": {
-      "code": "202607233819310430",
-      "image": [],
-      "pinglun_Num": 22,
-      "realSort": "1784819444010430",
-      "share": 27,
-      "showTime": "2026-07-23 23:10:44",
-      "stockList": [],
-      "summary": "美国证券交易委员会将于9月17日举办圆桌会议，讨论24小时交易问题。",
-      "title": "美国证券交易委员会将于9月17日举办圆桌会议 讨论24小时交易问题",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819310430.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 27,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401"
-      ]
-    }
-  },
-  {
-    "id": "66786f1b8d04553b",
-    "code": "202607233819310365",
-    "title": "国盾量子：拟与中电信量子集团等签订销售合同",
-    "summary": "【国盾量子：拟与中电信量子集团等签订销售合同】国盾量子(688027.SH)公告称，公司拟与控股股东中电信量子集团签订2份销售商品合同，金额分别为3770.70万元和1169.55万元；另拟与参股公司中电信量子科技签订1份销售商品合同，金额为273.91万元。",
-    "content": "【国盾量子：拟与中电信量子集团等签订销售合同】国盾量子(688027.SH)公告称，公司拟与控股股东中电信量子集团签订2份销售商品合同，金额分别为3770.70万元和1169.55万元；另拟与参股公司中电信量子科技签订1份销售商品合同，金额为273.91万元。",
-    "full_content": "【国盾量子：拟与中电信量子集团等签订销售合同】国盾量子(688027.SH)公告称，公司拟与控股股东中电信量子集团签订2份销售商品合同，金额分别为3770.70万元和1169.55万元；另拟与参股公司中电信量子科技签订1份销售商品合同，金额为273.91万元。",
-    "sort_time": "1784819335010365",
-    "showTime": "2026-07-23 23:08:55",
-    "time": "2026-07-23 23:08:55",
-    "publish_time": "2026-07-23 23:08:55",
-    "raw_data": {
-      "code": "202607233819310365",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1784819335010365",
-      "share": 2,
-      "showTime": "2026-07-23 23:08:55",
-      "stockList": [
-        "90.BK0710",
-        "1.688027"
-      ],
-      "summary": "【国盾量子：拟与中电信量子集团等签订销售合同】国盾量子(688027.SH)公告称，公司拟与控股股东中电信量子集团签订2份销售商品合同，金额分别为3770.70万元和1169.55万元；另拟与参股公司中电信量子科技签订1份销售商品合同，金额为273.91万元。",
-      "title": "国盾量子：拟与中电信量子集团等签订销售合同",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819310365.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0710",
-      "1.688027"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "18cf3d24d5af35cf",
-    "code": "202607233819296126",
-    "title": "工信部：“开源”被首次提升到APEC部长级合作层面",
-    "summary": "【工信部：“开源”被首次提升到APEC部长级合作层面】2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会23日在成都召开。工业和信息化部部长李乐成介绍了本次会议相关成果。其中，李乐成介绍，本次部长会议首次将“开源”提升到APEC部长级合作层面加以强调，在承认尊重知识产权重要性的同时，鼓励各经济体支持开源实践，积极参与人工智能国际开源社区协作。",
-    "content": "【工信部：“开源”被首次提升到APEC部长级合作层面】2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会23日在成都召开。工业和信息化部部长李乐成介绍了本次会议相关成果。其中，李乐成介绍，本次部长会议首次将“开源”提升到APEC部长级合作层面加以强调，在承认尊重知识产权重要性的同时，鼓励各经济体支持开源实践，积极参与人工智能国际开源社区协作。",
-    "full_content": "【工信部：“开源”被首次提升到APEC部长级合作层面】2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会23日在成都召开。工业和信息化部部长李乐成介绍了本次会议相关成果。其中，李乐成介绍，本次部长会议首次将“开源”提升到APEC部长级合作层面加以强调，在承认尊重知识产权重要性的同时，鼓励各经济体支持开源实践，积极参与人工智能国际开源社区协作。",
-    "sort_time": "1784819280096126",
-    "showTime": "2026-07-23 23:08:00",
-    "time": "2026-07-23 23:08:00",
-    "publish_time": "2026-07-23 23:08:00",
-    "raw_data": {
-      "code": "202607233819296126",
-      "image": [],
-      "pinglun_Num": 10,
-      "realSort": "1784819280096126",
-      "share": 0,
-      "showTime": "2026-07-23 23:08:00",
-      "stockList": [
-        "90.BK0800",
-        "0.161631"
-      ],
-      "summary": "【工信部：“开源”被首次提升到APEC部长级合作层面】2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会23日在成都召开。工业和信息化部部长李乐成介绍了本次会议相关成果。其中，李乐成介绍，本次部长会议首次将“开源”提升到APEC部长级合作层面加以强调，在承认尊重知识产权重要性的同时，鼓励各经济体支持开源实践，积极参与人工智能国际开源社区协作。",
-      "title": "工信部：“开源”被首次提升到APEC部长级合作层面",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819296126.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "0.161631"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "163aee15b7aafa05",
-    "code": "202607233819307019",
-    "title": "行情",
-    "summary": "【行情】燃油、苯乙烯夜盘收涨超3.2%，低硫燃油、纯苯、沥青涨超2%。热卷跌超0.3%，铁矿石跌约0.5%，纯碱跌约0.8%。",
-    "content": "【行情】燃油、苯乙烯夜盘收涨超3.2%，低硫燃油、纯苯、沥青涨超2%。热卷跌超0.3%，铁矿石跌约0.5%，纯碱跌约0.8%。",
-    "full_content": "【行情】燃油、苯乙烯夜盘收涨超3.2%，低硫燃油、纯苯、沥青涨超2%。热卷跌超0.3%，铁矿石跌约0.5%，纯碱跌约0.8%。",
-    "sort_time": "1784818959007019",
-    "showTime": "2026-07-23 23:02:39",
-    "time": "2026-07-23 23:02:39",
-    "publish_time": "2026-07-23 23:02:39",
-    "raw_data": {
-      "code": "202607233819307019",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1784818959007019",
-      "share": 3,
-      "showTime": "2026-07-23 23:02:39",
-      "stockList": [],
-      "summary": "【行情】燃油、苯乙烯夜盘收涨超3.2%，低硫燃油、纯苯、沥青涨超2%。热卷跌超0.3%，铁矿石跌约0.5%，纯碱跌约0.8%。",
-      "title": "燃油、苯乙烯夜盘收涨超3.2%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819307019.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f45ce71fb01086ce",
-    "code": "202607233819306977",
-    "title": "Databricks与微软扩大合作伙伴关系",
-    "summary": "【Databricks与微软扩大合作伙伴关系】Databricks与微软扩大合作伙伴关系，以帮助企业将业务场景融入企业AI。Databricks将在AzureDatabricks上运行其核心业务运营。",
-    "content": "【Databricks与微软扩大合作伙伴关系】Databricks与微软扩大合作伙伴关系，以帮助企业将业务场景融入企业AI。Databricks将在AzureDatabricks上运行其核心业务运营。",
-    "full_content": "【Databricks与微软扩大合作伙伴关系】Databricks与微软扩大合作伙伴关系，以帮助企业将业务场景融入企业AI。Databricks将在AzureDatabricks上运行其核心业务运营。",
-    "sort_time": "1784818922006977",
-    "showTime": "2026-07-23 23:02:02",
-    "time": "2026-07-23 23:02:02",
-    "publish_time": "2026-07-23 23:02:02",
-    "raw_data": {
-      "code": "202607233819306977",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1784818922006977",
-      "share": 0,
-      "showTime": "2026-07-23 23:02:02",
-      "stockList": [
-        "105.MSFT"
-      ],
-      "summary": "【Databricks与微软扩大合作伙伴关系】Databricks与微软扩大合作伙伴关系，以帮助企业将业务场景融入企业AI。Databricks将在AzureDatabricks上运行其核心业务运营。",
-      "title": "Databricks与微软扩大合作伙伴关系",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819306977.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.MSFT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "4428509882d0e415",
-    "code": "202607233819306896",
-    "title": "数据",
-    "summary": "【数据】美国7月堪萨斯联储制造业综合指数为9，前值11。",
-    "content": "【数据】美国7月堪萨斯联储制造业综合指数为9，前值11。",
-    "full_content": "【数据】美国7月堪萨斯联储制造业综合指数为9，前值11。",
-    "sort_time": "1784818837006896",
-    "showTime": "2026-07-23 23:00:37",
-    "time": "2026-07-23 23:00:37",
-    "publish_time": "2026-07-23 23:00:37",
-    "raw_data": {
-      "code": "202607233819306896",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1784818837006896",
-      "share": 1,
-      "showTime": "2026-07-23 23:00:37",
-      "stockList": [],
-      "summary": "【数据】美国7月堪萨斯联储制造业综合指数为9，前值11。",
-      "title": "美国7月堪萨斯联储制造业综合指数为9",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819306896.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6933dbcd9e9d87ad",
-    "code": "202607233819298686",
-    "title": "以色列多地开放公共避难所应对伊朗导弹威胁",
-    "summary": "【以色列多地开放公共避难所应对伊朗导弹威胁】由于近日美国与伊朗军事冲突升级，以色列多个城市23日宣布开放公共避难所，以应对可能的伊朗导弹袭击。宣布开放公共避难所的包括中部城市拉马特甘和赫兹利亚、南部城市埃拉特以及北部城市卡米埃尔等。拉马特甘市政机构发表声明说，根据安全形势评估，本周末以色列遭伊朗导弹袭击的风险上升。",
-    "content": "【以色列多地开放公共避难所应对伊朗导弹威胁】由于近日美国与伊朗军事冲突升级，以色列多个城市23日宣布开放公共避难所，以应对可能的伊朗导弹袭击。宣布开放公共避难所的包括中部城市拉马特甘和赫兹利亚、南部城市埃拉特以及北部城市卡米埃尔等。拉马特甘市政机构发表声明说，根据安全形势评估，本周末以色列遭伊朗导弹袭击的风险上升。",
-    "full_content": "【以色列多地开放公共避难所应对伊朗导弹威胁】由于近日美国与伊朗军事冲突升级，以色列多个城市23日宣布开放公共避难所，以应对可能的伊朗导弹袭击。宣布开放公共避难所的包括中部城市拉马特甘和赫兹利亚、南部城市埃拉特以及北部城市卡米埃尔等。拉马特甘市政机构发表声明说，根据安全形势评估，本周末以色列遭伊朗导弹袭击的风险上升。",
-    "sort_time": "1784818451098686",
-    "showTime": "2026-07-23 22:54:11",
-    "time": "2026-07-23 22:54:11",
-    "publish_time": "2026-07-23 22:54:11",
-    "raw_data": {
-      "code": "202607233819298686",
-      "image": [],
-      "pinglun_Num": 14,
-      "realSort": "1784818451098686",
-      "share": 21,
-      "showTime": "2026-07-23 22:54:11",
-      "stockList": [],
-      "summary": "【以色列多地开放公共避难所应对伊朗导弹威胁】由于近日美国与伊朗军事冲突升级，以色列多个城市23日宣布开放公共避难所，以应对可能的伊朗导弹袭击。宣布开放公共避难所的包括中部城市拉马特甘和赫兹利亚、南部城市埃拉特以及北部城市卡米埃尔等。拉马特甘市政机构发表声明说，根据安全形势评估，本周末以色列遭伊朗导弹袭击的风险上升。",
-      "title": "以色列多地开放公共避难所应对伊朗导弹威胁",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819298686.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 14,
-    "share_count": 21,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "59788f9b77ec7a76",
-    "code": "202607233819299410",
-    "title": "行情",
-    "summary": "【行情】亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
-    "content": "【行情】亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
-    "full_content": "【行情】亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
-    "sort_time": "1784818376099410",
-    "showTime": "2026-07-23 22:52:56",
-    "time": "2026-07-23 22:52:56",
-    "publish_time": "2026-07-23 22:52:56",
-    "raw_data": {
-      "code": "202607233819299410",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1784818376099410",
-      "share": 2,
-      "showTime": "2026-07-23 22:52:56",
-      "stockList": [
-        "105.AMZN"
-      ],
-      "summary": "【行情】亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
-      "title": "亚马逊股价下跌5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819299410.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bearish",
-    "related_stocks": [
-      "105.AMZN"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]

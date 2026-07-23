@@ -1,5 +1,460 @@
 [
   {
+    "id": "505e1632b3f808c6",
+    "code": "202607243819365339",
+    "title": "一名伊朗军官因美军空袭丧生",
+    "summary": "【一名伊朗军官因美军空袭丧生】据伊朗方面消息，一名伊朗军官23日在美军对伊朗沙拉姆切赫地区发动的空袭中丧生。",
+    "content": "【一名伊朗军官因美军空袭丧生】据伊朗方面消息，一名伊朗军官23日在美军对伊朗沙拉姆切赫地区发动的空袭中丧生。",
+    "full_content": "【一名伊朗军官因美军空袭丧生】据伊朗方面消息，一名伊朗军官23日在美军对伊朗沙拉姆切赫地区发动的空袭中丧生。",
+    "sort_time": "1784834184065339",
+    "showTime": "2026-07-24 03:16:24",
+    "time": "2026-07-24 03:16:24",
+    "publish_time": "2026-07-24 03:16:24",
+    "raw_data": {
+      "code": "202607243819365339",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784834184065339",
+      "share": 0,
+      "showTime": "2026-07-24 03:16:24",
+      "stockList": [
+        "150.012372"
+      ],
+      "summary": "【一名伊朗军官因美军空袭丧生】据伊朗方面消息，一名伊朗军官23日在美军对伊朗沙拉姆切赫地区发动的空袭中丧生。",
+      "title": "一名伊朗军官因美军空袭丧生",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819365339.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.012372"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "273322a08480f148",
+    "code": "202607243819365242",
+    "title": "AMD CEO：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU",
+    "summary": "AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+    "content": "AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+    "full_content": "AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+    "sort_time": "1784834013065242",
+    "showTime": "2026-07-24 03:13:33",
+    "time": "2026-07-24 03:13:33",
+    "publish_time": "2026-07-24 03:13:33",
+    "raw_data": {
+      "code": "202607243819365242",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784834013065242",
+      "share": 0,
+      "showTime": "2026-07-24 03:13:33",
+      "stockList": [
+        "90.BK0579",
+        "90.BK0447"
+      ],
+      "summary": "AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU。",
+      "title": "AMD CEO：Anthropic将在云服务商、新型云计算平台以及潜在的自有数据中心中使用AMD的CPU和GPU",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819365242.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0579",
+      "90.BK0447"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C005",
+          "name": "云计算",
+          "matched_keyword": "云服务"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C005",
+        "C006",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "9340d2ca18203acd",
+    "code": "202607243819365144",
+    "title": "在岸人民币兑美元较周三夜盘收盘跌27点",
+    "summary": "【在岸人民币兑美元较周三夜盘收盘跌27点】在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+    "content": "【在岸人民币兑美元较周三夜盘收盘跌27点】在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+    "full_content": "【在岸人民币兑美元较周三夜盘收盘跌27点】在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+    "sort_time": "1784833645065144",
+    "showTime": "2026-07-24 03:07:25",
+    "time": "2026-07-24 03:07:25",
+    "publish_time": "2026-07-24 03:07:25",
+    "raw_data": {
+      "code": "202607243819365144",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784833645065144",
+      "share": 0,
+      "showTime": "2026-07-24 03:07:25",
+      "stockList": [],
+      "summary": "【在岸人民币兑美元较周三夜盘收盘跌27点】在岸人民币兑美元（CNY）北京时间03:00收报6.7777元，较周三夜盘收盘跌27点。成交量307.12亿美元。",
+      "title": "在岸人民币兑美元较周三夜盘收盘跌27点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819365144.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c919149505a6eef6",
+    "code": "202607243819364491",
+    "title": "美军称对伊朗海上封锁已迫使12艘商船改道",
+    "summary": "【美军称对伊朗海上封锁已迫使12艘商船改道】当地时间7月23日，美军中央司令部表示，自9天前恢复对伊朗的海上封锁以来，美军已迫使12艘商业船只改变航向，并使1艘船失去航行能力，以阻止船只进出伊朗港口或沿海地区。",
+    "content": "【美军称对伊朗海上封锁已迫使12艘商船改道】当地时间7月23日，美军中央司令部表示，自9天前恢复对伊朗的海上封锁以来，美军已迫使12艘商业船只改变航向，并使1艘船失去航行能力，以阻止船只进出伊朗港口或沿海地区。",
+    "full_content": "【美军称对伊朗海上封锁已迫使12艘商船改道】当地时间7月23日，美军中央司令部表示，自9天前恢复对伊朗的海上封锁以来，美军已迫使12艘商业船只改变航向，并使1艘船失去航行能力，以阻止船只进出伊朗港口或沿海地区。",
+    "sort_time": "1784832798064491",
+    "showTime": "2026-07-24 02:53:18",
+    "time": "2026-07-24 02:53:18",
+    "publish_time": "2026-07-24 02:53:18",
+    "raw_data": {
+      "code": "202607243819364491",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784832798064491",
+      "share": 0,
+      "showTime": "2026-07-24 02:53:18",
+      "stockList": [],
+      "summary": "【美军称对伊朗海上封锁已迫使12艘商船改道】当地时间7月23日，美军中央司令部表示，自9天前恢复对伊朗的海上封锁以来，美军已迫使12艘商业船只改变航向，并使1艘船失去航行能力，以阻止船只进出伊朗港口或沿海地区。",
+      "title": "美军称对伊朗海上封锁已迫使12艘商船改道",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819364491.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7d675c5d6623c878",
+    "code": "202607243819363563",
+    "title": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合 带来1.7倍代际性能提升",
+    "summary": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合，带来1.7倍代际性能提升。",
+    "content": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合，带来1.7倍代际性能提升。",
+    "full_content": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合，带来1.7倍代际性能提升。",
+    "sort_time": "1784832003063563",
+    "showTime": "2026-07-24 02:40:03",
+    "time": "2026-07-24 02:40:03",
+    "publish_time": "2026-07-24 02:40:03",
+    "raw_data": {
+      "code": "202607243819363563",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784832003063563",
+      "share": 0,
+      "showTime": "2026-07-24 02:40:03",
+      "stockList": [
+        "105.SMCI",
+        "105.AMD"
+      ],
+      "summary": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合，带来1.7倍代际性能提升。",
+      "title": "超微电脑推出搭载第六代AMD EPYC 9006系列处理器的新服务器产品组合 带来1.7倍代际性能提升",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819363563.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SMCI",
+      "105.AMD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "服务器"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "50d9db947c62f808",
+    "code": "202607243819360636",
+    "title": "国际原油期货结算价大幅收涨",
+    "summary": "【国际原油期货结算价大幅收涨】WTI原油期货9月合约结算价收涨6.17%，报92.19美元/桶。",
+    "content": "【国际原油期货结算价大幅收涨】WTI原油期货9月合约结算价收涨6.17%，报92.19美元/桶。",
+    "full_content": "【国际原油期货结算价大幅收涨】WTI原油期货9月合约结算价收涨6.17%，报92.19美元/桶。",
+    "sort_time": "1784831477060636",
+    "showTime": "2026-07-24 02:31:17",
+    "time": "2026-07-24 02:31:17",
+    "publish_time": "2026-07-24 02:31:17",
+    "raw_data": {
+      "code": "202607243819360636",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784831477060636",
+      "share": 0,
+      "showTime": "2026-07-24 02:31:17",
+      "stockList": [],
+      "summary": "【国际原油期货结算价大幅收涨】WTI原油期货9月合约结算价收涨6.17%，报92.19美元/桶。",
+      "title": "国际原油期货结算价大幅收涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819360636.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "a0748a7b801af18a",
+    "code": "202607243819360030",
+    "title": "消息人士称欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制",
+    "summary": "消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+    "content": "消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+    "full_content": "消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+    "sort_time": "1784830394060030",
+    "showTime": "2026-07-24 02:13:14",
+    "time": "2026-07-24 02:13:14",
+    "publish_time": "2026-07-24 02:13:14",
+    "raw_data": {
+      "code": "202607243819360030",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784830394060030",
+      "share": 0,
+      "showTime": "2026-07-24 02:13:14",
+      "stockList": [],
+      "summary": "消息人士称，欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制。围绕欧洲央行资产负债表亏损问题的政治敏感性讨论正日益加剧。",
+      "title": "消息人士称欧洲央行决策者将讨论提高准备金要求、分层存款利率以及收费机制",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819360030.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "ab560fc22e9b49ac",
+    "code": "202607243819359613",
+    "title": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元 将苹果目标价从每股360美元上调至364美元",
+    "summary": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+    "content": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+    "full_content": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+    "sort_time": "1784829764059613",
+    "showTime": "2026-07-24 02:02:44",
+    "time": "2026-07-24 02:02:44",
+    "publish_time": "2026-07-24 02:02:44",
+    "raw_data": {
+      "code": "202607243819359613",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784829764059613",
+      "share": 1,
+      "showTime": "2026-07-24 02:02:44",
+      "stockList": [
+        "105.GOOGL",
+        "105.GOOG"
+      ],
+      "summary": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元，将苹果目标价从每股360美元上调至364美元。",
+      "title": "摩根士丹利将Alphabet目标价从每股415美元下调至400美元 将苹果目标价从每股360美元上调至364美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819359613.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOGL",
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "1646113c0c2b34c5",
+    "code": "202607243819359797",
+    "title": "我国科研团队实现植物免疫受体精准定制化设计",
+    "summary": "【我国科研团队实现植物免疫受体精准定制化设计】植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。培育和推广作物抗病品种是植物病害绿色防控的核心策略之一。中国科学院遗传与发育生物学研究所高彩霞研究员团队首次提出“可编程植物合成免疫”的新理念，通过整合人工智能辅助蛋白质设计、模块化免疫受体工程和植物体内定向进化技术，建立了可编程的合成植物免疫受体设计平台，实现了植物免疫受体的精准定制化设计。该成果突破了天然抗病基因资源的限制，为快速应对新发病害和病原物变异提供了全新的技术路线。相关成果7月24日在国际学术期刊《科学》发表。",
+    "content": "【我国科研团队实现植物免疫受体精准定制化设计】植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。培育和推广作物抗病品种是植物病害绿色防控的核心策略之一。中国科学院遗传与发育生物学研究所高彩霞研究员团队首次提出“可编程植物合成免疫”的新理念，通过整合人工智能辅助蛋白质设计、模块化免疫受体工程和植物体内定向进化技术，建立了可编程的合成植物免疫受体设计平台，实现了植物免疫受体的精准定制化设计。该成果突破了天然抗病基因资源的限制，为快速应对新发病害和病原物变异提供了全新的技术路线。相关成果7月24日在国际学术期刊《科学》发表。",
+    "full_content": "【我国科研团队实现植物免疫受体精准定制化设计】植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。培育和推广作物抗病品种是植物病害绿色防控的核心策略之一。中国科学院遗传与发育生物学研究所高彩霞研究员团队首次提出“可编程植物合成免疫”的新理念，通过整合人工智能辅助蛋白质设计、模块化免疫受体工程和植物体内定向进化技术，建立了可编程的合成植物免疫受体设计平台，实现了植物免疫受体的精准定制化设计。该成果突破了天然抗病基因资源的限制，为快速应对新发病害和病原物变异提供了全新的技术路线。相关成果7月24日在国际学术期刊《科学》发表。",
+    "sort_time": "1784829675059797",
+    "showTime": "2026-07-24 02:01:15",
+    "time": "2026-07-24 02:01:15",
+    "publish_time": "2026-07-24 02:01:15",
+    "raw_data": {
+      "code": "202607243819359797",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784829675059797",
+      "share": 0,
+      "showTime": "2026-07-24 02:01:15",
+      "stockList": [],
+      "summary": "【我国科研团队实现植物免疫受体精准定制化设计】植物病害严重威胁全球农业生产和粮食安全，每年造成数千亿美元的经济损失。培育和推广作物抗病品种是植物病害绿色防控的核心策略之一。中国科学院遗传与发育生物学研究所高彩霞研究员团队首次提出“可编程植物合成免疫”的新理念，通过整合人工智能辅助蛋白质设计、模块化免疫受体工程和植物体内定向进化技术，建立了可编程的合成植物免疫受体设计平台，实现了植物免疫受体的精准定制化设计。该成果突破了天然抗病基因资源的限制，为快速应对新发病害和病原物变异提供了全新的技术路线。相关成果7月24日在国际学术期刊《科学》发表。",
+      "title": "我国科研团队实现植物免疫受体精准定制化设计",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819359797.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C306",
+          "name": "基因测序",
+          "matched_keyword": "基因"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C306"
+      ]
+    }
+  },
+  {
     "id": "e821153be042eb4c",
     "code": "202607243819359442",
     "title": "以色列防长称已为应对伊朗局势做好“全方位准备”",
