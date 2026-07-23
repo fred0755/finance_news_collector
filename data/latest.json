@@ -1,32 +1,603 @@
 [
   {
-    "id": "a573dc0ba6fe8b84",
-    "code": "202607243819350410",
-    "title": "AMD预计：到2030年 人工智能加速器市场将达到1.4万亿美元",
-    "summary": "AMD预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
-    "content": "AMD预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
-    "full_content": "AMD预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
-    "sort_time": "1784824804050410",
-    "showTime": "2026-07-24 00:40:04",
-    "time": "2026-07-24 00:40:04",
-    "publish_time": "2026-07-24 00:40:04",
+    "id": "e821153be042eb4c",
+    "code": "202607243819359442",
+    "title": "以色列防长称已为应对伊朗局势做好“全方位准备”",
+    "summary": "【以色列防长称已为应对伊朗局势做好“全方位准备”】据以色列方面消息，以色列国防部长卡茨当地时间23日表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。",
+    "content": "【以色列防长称已为应对伊朗局势做好“全方位准备”】据以色列方面消息，以色列国防部长卡茨当地时间23日表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。",
+    "full_content": "【以色列防长称已为应对伊朗局势做好“全方位准备”】据以色列方面消息，以色列国防部长卡茨当地时间23日表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。",
+    "sort_time": "1784828495059442",
+    "showTime": "2026-07-24 01:41:35",
+    "time": "2026-07-24 01:41:35",
+    "publish_time": "2026-07-24 01:41:35",
     "raw_data": {
-      "code": "202607243819350410",
+      "code": "202607243819359442",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1784824804050410",
+      "realSort": "1784828495059442",
       "share": 0,
-      "showTime": "2026-07-24 00:40:04",
+      "showTime": "2026-07-24 01:41:35",
+      "stockList": [],
+      "summary": "【以色列防长称已为应对伊朗局势做好“全方位准备”】据以色列方面消息，以色列国防部长卡茨当地时间23日表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。",
+      "title": "以色列防长称已为应对伊朗局势做好“全方位准备”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819359442.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "faa0512d80ae6a8f",
+    "code": "202607243819359173",
+    "title": "AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案",
+    "summary": "【AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案】AMD CEO苏姿丰在AMD Advancing AI大会上表示，公司正在与芯片设计公司Cerebras合作，通过Cerebras的云服务提供高速推理能力；与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案；产品将于今年晚些时候推向市场。",
+    "content": "【AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案】AMD CEO苏姿丰在AMD Advancing AI大会上表示，公司正在与芯片设计公司Cerebras合作，通过Cerebras的云服务提供高速推理能力；与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案；产品将于今年晚些时候推向市场。",
+    "full_content": "【AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案】AMD CEO苏姿丰在AMD Advancing AI大会上表示，公司正在与芯片设计公司Cerebras合作，通过Cerebras的云服务提供高速推理能力；与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案；产品将于今年晚些时候推向市场。",
+    "sort_time": "1784828240059173",
+    "showTime": "2026-07-24 01:37:20",
+    "time": "2026-07-24 01:37:20",
+    "publish_time": "2026-07-24 01:37:20",
+    "raw_data": {
+      "code": "202607243819359173",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784828240059173",
+      "share": 1,
+      "showTime": "2026-07-24 01:37:20",
+      "stockList": [
+        "90.BK0800",
+        "150.013446"
+      ],
+      "summary": "【AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案】AMD CEO苏姿丰在AMD Advancing AI大会上表示，公司正在与芯片设计公司Cerebras合作，通过Cerebras的云服务提供高速推理能力；与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案；产品将于今年晚些时候推向市场。",
+      "title": "AMD CEO：与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819359173.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "晶圆"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "晶圆"
+        },
+        {
+          "id": "C005",
+          "name": "云计算",
+          "matched_keyword": "云服务"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "GPU"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C005",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "350d9f5057ecb496",
+    "code": "202607243819359060",
+    "title": "泽连斯基称乌将与美雷神公司联合生产“爱国者”拦截导弹",
+    "summary": "【泽连斯基称乌将与美雷神公司联合生产“爱国者”拦截导弹】乌克兰总统泽连斯基7月23日表示，乌克兰将与美国军工企业雷神公司联合生产“爱国者”防空系统拦截导弹。",
+    "content": "【泽连斯基称乌将与美雷神公司联合生产“爱国者”拦截导弹】乌克兰总统泽连斯基7月23日表示，乌克兰将与美国军工企业雷神公司联合生产“爱国者”防空系统拦截导弹。",
+    "full_content": "【泽连斯基称乌将与美雷神公司联合生产“爱国者”拦截导弹】乌克兰总统泽连斯基7月23日表示，乌克兰将与美国军工企业雷神公司联合生产“爱国者”防空系统拦截导弹。",
+    "sort_time": "1784828009059060",
+    "showTime": "2026-07-24 01:33:29",
+    "time": "2026-07-24 01:33:29",
+    "publish_time": "2026-07-24 01:33:29",
+    "raw_data": {
+      "code": "202607243819359060",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784828009059060",
+      "share": 0,
+      "showTime": "2026-07-24 01:33:29",
+      "stockList": [],
+      "summary": "【泽连斯基称乌将与美雷神公司联合生产“爱国者”拦截导弹】乌克兰总统泽连斯基7月23日表示，乌克兰将与美国军工企业雷神公司联合生产“爱国者”防空系统拦截导弹。",
+      "title": "泽连斯基称乌将与美雷神公司联合生产“爱国者”拦截导弹",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819359060.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "军工"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "1a392d2f06273b84",
+    "code": "202607243819358234",
+    "title": "美国10年期TIPS中标收益率创2008年以来新高",
+    "summary": "【美国10年期TIPS中标收益率创2008年以来新高】美国财政部发行210亿美元10年期通胀保值债券（TIPS）中标收益率2.438%，创2008年以来新高，比纽约时间下午1点投标截止时市场预期高出约2个基点，表明需求低于预期。",
+    "content": "【美国10年期TIPS中标收益率创2008年以来新高】美国财政部发行210亿美元10年期通胀保值债券（TIPS）中标收益率2.438%，创2008年以来新高，比纽约时间下午1点投标截止时市场预期高出约2个基点，表明需求低于预期。",
+    "full_content": "【美国10年期TIPS中标收益率创2008年以来新高】美国财政部发行210亿美元10年期通胀保值债券（TIPS）中标收益率2.438%，创2008年以来新高，比纽约时间下午1点投标截止时市场预期高出约2个基点，表明需求低于预期。",
+    "sort_time": "1784827671058234",
+    "showTime": "2026-07-24 01:27:51",
+    "time": "2026-07-24 01:27:51",
+    "publish_time": "2026-07-24 01:27:51",
+    "raw_data": {
+      "code": "202607243819358234",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784827671058234",
+      "share": 0,
+      "showTime": "2026-07-24 01:27:51",
+      "stockList": [],
+      "summary": "【美国10年期TIPS中标收益率创2008年以来新高】美国财政部发行210亿美元10年期通胀保值债券（TIPS）中标收益率2.438%，创2008年以来新高，比纽约时间下午1点投标截止时市场预期高出约2个基点，表明需求低于预期。",
+      "title": "美国10年期TIPS中标收益率创2008年以来新高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819358234.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "14c76a7b17d1624b",
+    "code": "202607243819357183",
+    "title": "周四（7月23日）美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元",
+    "summary": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元。",
+    "content": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元。",
+    "full_content": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元。",
+    "sort_time": "1784827118057183",
+    "showTime": "2026-07-24 01:18:38",
+    "time": "2026-07-24 01:18:38",
+    "publish_time": "2026-07-24 01:18:38",
+    "raw_data": {
+      "code": "202607243819357183",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784827118057183",
+      "share": 0,
+      "showTime": "2026-07-24 01:18:38",
+      "stockList": [],
+      "summary": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元。",
+      "title": "周四（7月23日）美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819357183.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "907cf8d1a9a14208",
+    "code": "202607243819357349",
+    "title": "美国启动车门安全制度的制定工作",
+    "summary": "美国启动车门安全制度的制定工作。",
+    "content": "美国启动车门安全制度的制定工作。",
+    "full_content": "美国启动车门安全制度的制定工作。",
+    "sort_time": "1784827103057349",
+    "showTime": "2026-07-24 01:18:23",
+    "time": "2026-07-24 01:18:23",
+    "publish_time": "2026-07-24 01:18:23",
+    "raw_data": {
+      "code": "202607243819357349",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1784827103057349",
+      "share": 0,
+      "showTime": "2026-07-24 01:18:23",
+      "stockList": [],
+      "summary": "美国启动车门安全制度的制定工作。",
+      "title": "美国启动车门安全制度的制定工作",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819357349.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "de2c028363b2428f",
+    "code": "202607243819356729",
+    "title": "AMD CEO：新款Venice CPU将进一步巩固公司在行业内的领先地位",
+    "summary": "【AMD CEO：新款Venice CPU将进一步巩固公司在行业内的领先地位】AMDCEO苏姿丰在AMDAdvancingAI大会上表示，新款VeniceCPU将进一步巩固公司在行业内的领先地位；新款Epyc设计带来了最大的代际提升。",
+    "content": "【AMD CEO：新款Venice CPU将进一步巩固公司在行业内的领先地位】AMDCEO苏姿丰在AMDAdvancingAI大会上表示，新款VeniceCPU将进一步巩固公司在行业内的领先地位；新款Epyc设计带来了最大的代际提升。",
+    "full_content": "【AMD CEO：新款Venice CPU将进一步巩固公司在行业内的领先地位】AMDCEO苏姿丰在AMDAdvancingAI大会上表示，新款VeniceCPU将进一步巩固公司在行业内的领先地位；新款Epyc设计带来了最大的代际提升。",
+    "sort_time": "1784827009056729",
+    "showTime": "2026-07-24 01:16:49",
+    "time": "2026-07-24 01:16:49",
+    "publish_time": "2026-07-24 01:16:49",
+    "raw_data": {
+      "code": "202607243819356729",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784827009056729",
+      "share": 0,
+      "showTime": "2026-07-24 01:16:49",
+      "stockList": [
+        "105.AMD"
+      ],
+      "summary": "【AMD CEO：新款Venice CPU将进一步巩固公司在行业内的领先地位】AMDCEO苏姿丰在AMDAdvancingAI大会上表示，新款VeniceCPU将进一步巩固公司在行业内的领先地位；新款Epyc设计带来了最大的代际提升。",
+      "title": "AMD CEO：新款Venice CPU将进一步巩固公司在行业内的领先地位",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819356729.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AMD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "338bc23ec55a634c",
+    "code": "202607243819355557",
+    "title": "OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品",
+    "summary": "【OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品】OpenAI预计大规模部署AMD Helios。OpenAI基础设施负责人称，公司三个月前已开始使用AMD Helios GPU机架，OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+    "content": "【OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品】OpenAI预计大规模部署AMD Helios。OpenAI基础设施负责人称，公司三个月前已开始使用AMD Helios GPU机架，OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+    "full_content": "【OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品】OpenAI预计大规模部署AMD Helios。OpenAI基础设施负责人称，公司三个月前已开始使用AMD Helios GPU机架，OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+    "sort_time": "1784826468055557",
+    "showTime": "2026-07-24 01:07:48",
+    "time": "2026-07-24 01:07:48",
+    "publish_time": "2026-07-24 01:07:48",
+    "raw_data": {
+      "code": "202607243819355557",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1784826468055557",
+      "share": 1,
+      "showTime": "2026-07-24 01:07:48",
+      "stockList": [
+        "90.BK1127",
+        "105.AMD"
+      ],
+      "summary": "【OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品】OpenAI预计大规模部署AMD Helios。OpenAI基础设施负责人称，公司三个月前已开始使用AMD Helios GPU机架，OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+      "title": "OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819355557.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1127",
+      "105.AMD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "GPU"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "92f73c5201ef5be9",
+    "code": "202607243819354325",
+    "title": "Alphabet百年债首次跌破面值九成 超大规模云服务商债券信用利差走阔",
+    "summary": "【Alphabet百年债首次跌破面值九成 超大规模云服务商债券信用利差走阔】Alphabet Inc.今年早些时候在全球大举发债之际，于英镑市场发行了一只100年期债券，这只债券价格首次跌破了每英镑面值买价90便士。数据显示，这只10亿英镑（13.4亿美元）、2126年到期的债券周四报89.978便士。这家科技巨头今年2月发行这只债券时，发行价略低于面值。",
+    "content": "【Alphabet百年债首次跌破面值九成 超大规模云服务商债券信用利差走阔】Alphabet Inc.今年早些时候在全球大举发债之际，于英镑市场发行了一只100年期债券，这只债券价格首次跌破了每英镑面值买价90便士。数据显示，这只10亿英镑（13.4亿美元）、2126年到期的债券周四报89.978便士。这家科技巨头今年2月发行这只债券时，发行价略低于面值。",
+    "full_content": "【Alphabet百年债首次跌破面值九成 超大规模云服务商债券信用利差走阔】Alphabet Inc.今年早些时候在全球大举发债之际，于英镑市场发行了一只100年期债券，这只债券价格首次跌破了每英镑面值买价90便士。数据显示，这只10亿英镑（13.4亿美元）、2126年到期的债券周四报89.978便士。这家科技巨头今年2月发行这只债券时，发行价略低于面值。",
+    "sort_time": "1784826088054325",
+    "showTime": "2026-07-24 01:01:28",
+    "time": "2026-07-24 01:01:28",
+    "publish_time": "2026-07-24 01:01:28",
+    "raw_data": {
+      "code": "202607243819354325",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1784826088054325",
+      "share": 0,
+      "showTime": "2026-07-24 01:01:28",
+      "stockList": [
+        "90.BK0579",
+        "150.012322"
+      ],
+      "summary": "【Alphabet百年债首次跌破面值九成 超大规模云服务商债券信用利差走阔】Alphabet Inc.今年早些时候在全球大举发债之际，于英镑市场发行了一只100年期债券，这只债券价格首次跌破了每英镑面值买价90便士。数据显示，这只10亿英镑（13.4亿美元）、2126年到期的债券周四报89.978便士。这家科技巨头今年2月发行这只债券时，发行价略低于面值。",
+      "title": "Alphabet百年债首次跌破面值九成 超大规模云服务商债券信用利差走阔",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819354325.html",
+    "category": "债券",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0579",
+      "150.012322"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C005",
+          "name": "云计算",
+          "matched_keyword": "云服务"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C005"
+      ]
+    }
+  },
+  {
+    "id": "d900b5c44989d3a6",
+    "code": "202607243819353894",
+    "title": "行情",
+    "summary": "【行情】AMD跌幅扩大至4%。",
+    "content": "【行情】AMD跌幅扩大至4%。",
+    "full_content": "【行情】AMD跌幅扩大至4%。",
+    "sort_time": "1784825752053894",
+    "showTime": "2026-07-24 00:55:52",
+    "time": "2026-07-24 00:55:52",
+    "publish_time": "2026-07-24 00:55:52",
+    "raw_data": {
+      "code": "202607243819353894",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1784825752053894",
+      "share": 0,
+      "showTime": "2026-07-24 00:55:52",
+      "stockList": [
+        "105.AMD"
+      ],
+      "summary": "【行情】AMD跌幅扩大至4%。",
+      "title": "AMD跌幅扩大至4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819353894.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AMD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5526f915f4e37ebc",
+    "code": "202607243819353919",
+    "title": "AMD CEO：Helios现已全面投入生产 不久即将开始发货",
+    "summary": "【AMD CEO：Helios现已全面投入生产 不久即将开始发货】AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Helios现已全面投入生产，不久即将开始发货。",
+    "content": "【AMD CEO：Helios现已全面投入生产 不久即将开始发货】AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Helios现已全面投入生产，不久即将开始发货。",
+    "full_content": "【AMD CEO：Helios现已全面投入生产 不久即将开始发货】AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Helios现已全面投入生产，不久即将开始发货。",
+    "sort_time": "1784825661053919",
+    "showTime": "2026-07-24 00:54:21",
+    "time": "2026-07-24 00:54:21",
+    "publish_time": "2026-07-24 00:54:21",
+    "raw_data": {
+      "code": "202607243819353919",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1784825661053919",
+      "share": 0,
+      "showTime": "2026-07-24 00:54:21",
+      "stockList": [
+        "105.AMD"
+      ],
+      "summary": "【AMD CEO：Helios现已全面投入生产 不久即将开始发货】AMDCEO苏姿丰在AMDAdvancingAI大会上表示，Helios现已全面投入生产，不久即将开始发货。",
+      "title": "AMD CEO：Helios现已全面投入生产 不久即将开始发货",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819353919.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AMD"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "b7e66929e136da2b",
+    "code": "202607243819352828",
+    "title": "AMD CEO：MI450人工智能加速器是业内速度最快的",
+    "summary": "【AMD CEO：MI450人工智能加速器是业内速度最快的】AMD CEO苏姿丰在AMD Advancing AI大会上表示，MI450人工智能加速器是业内速度最快的。",
+    "content": "【AMD CEO：MI450人工智能加速器是业内速度最快的】AMD CEO苏姿丰在AMD Advancing AI大会上表示，MI450人工智能加速器是业内速度最快的。",
+    "full_content": "【AMD CEO：MI450人工智能加速器是业内速度最快的】AMD CEO苏姿丰在AMD Advancing AI大会上表示，MI450人工智能加速器是业内速度最快的。",
+    "sort_time": "1784825383052828",
+    "showTime": "2026-07-24 00:49:43",
+    "time": "2026-07-24 00:49:43",
+    "publish_time": "2026-07-24 00:49:43",
+    "raw_data": {
+      "code": "202607243819352828",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1784825383052828",
+      "share": 1,
+      "showTime": "2026-07-24 00:49:43",
       "stockList": [
         "90.BK0800",
         "150.012322"
       ],
-      "summary": "AMD预计到2030年，人工智能加速器市场将达到1.4万亿美元。",
-      "title": "AMD预计：到2030年 人工智能加速器市场将达到1.4万亿美元",
-      "titleColor": 3
+      "summary": "【AMD CEO：MI450人工智能加速器是业内速度最快的】AMD CEO苏姿丰在AMD Advancing AI大会上表示，MI450人工智能加速器是业内速度最快的。",
+      "title": "AMD CEO：MI450人工智能加速器是业内速度最快的",
+      "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607243819350410.html",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819352828.html",
     "category": "科技",
     "importance": 6,
     "sentiment": "neutral",
@@ -35,8 +606,8 @@
       "150.012322"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 4,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -49,6 +620,226 @@
       "industry_ids": [],
       "concept_ids": [
         "C001"
+      ]
+    }
+  },
+  {
+    "id": "45908ff66b43428a",
+    "code": "202607243819353071",
+    "title": "特朗普政府：欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定",
+    "summary": "【特朗普政府：欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定】据报道，特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
+    "content": "【特朗普政府：欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定】据报道，特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
+    "full_content": "【特朗普政府：欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定】据报道，特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
+    "sort_time": "1784825362053071",
+    "showTime": "2026-07-24 00:49:22",
+    "time": "2026-07-24 00:49:22",
+    "publish_time": "2026-07-24 00:49:22",
+    "raw_data": {
+      "code": "202607243819353071",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1784825362053071",
+      "share": 1,
+      "showTime": "2026-07-24 00:49:22",
+      "stockList": [
+        "90.BK1550",
+        "90.BK0484"
+      ],
+      "summary": "【特朗普政府：欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定】据报道，特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
+      "title": "特朗普政府：欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819353071.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1550",
+      "90.BK0484"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "746452434c9ebf44",
+    "code": "202607243819352795",
+    "title": "AMD发布Helios人工智能服务器整机柜",
+    "summary": "AMD发布Helios人工智能服务器整机柜。",
+    "content": "AMD发布Helios人工智能服务器整机柜。",
+    "full_content": "AMD发布Helios人工智能服务器整机柜。",
+    "sort_time": "1784825297052795",
+    "showTime": "2026-07-24 00:48:17",
+    "time": "2026-07-24 00:48:17",
+    "publish_time": "2026-07-24 00:48:17",
+    "raw_data": {
+      "code": "202607243819352795",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1784825297052795",
+      "share": 1,
+      "showTime": "2026-07-24 00:48:17",
+      "stockList": [
+        "90.BK0800",
+        "150.012322"
+      ],
+      "summary": "AMD发布Helios人工智能服务器整机柜。",
+      "title": "AMD发布Helios人工智能服务器整机柜",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819352795.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "150.012322"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "服务器"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "342a8f75deedf765",
+    "code": "202607243819351543",
+    "title": "欧佩克+可能在8月2日会议上决定将9月石油产量配额提高约18.8万桶/日",
+    "summary": "三名消息人士称，欧佩克+可能在8月2日会议上决定将9月石油产量配额提高约18.8万桶/日。",
+    "content": "三名消息人士称，欧佩克+可能在8月2日会议上决定将9月石油产量配额提高约18.8万桶/日。",
+    "full_content": "三名消息人士称，欧佩克+可能在8月2日会议上决定将9月石油产量配额提高约18.8万桶/日。",
+    "sort_time": "1784825026051543",
+    "showTime": "2026-07-24 00:43:46",
+    "time": "2026-07-24 00:43:46",
+    "publish_time": "2026-07-24 00:43:46",
+    "raw_data": {
+      "code": "202607243819351543",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1784825026051543",
+      "share": 1,
+      "showTime": "2026-07-24 00:43:46",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "三名消息人士称，欧佩克+可能在8月2日会议上决定将9月石油产量配额提高约18.8万桶/日。",
+      "title": "欧佩克+可能在8月2日会议上决定将9月石油产量配额提高约18.8万桶/日",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819351543.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "ddcaca4dc53e29d0",
+    "code": "202607243819350410",
+    "title": "AMD CEO：预计到2030年AI加速器市场将达到1.4万亿美元 数据中心CPU市场规模将达到2200亿美元",
+    "summary": "【AMD CEO：预计到2030年AI加速器市场将达到1.4万亿美元 数据中心CPU市场规模将达到2200亿美元】AMD CEO苏姿丰在AMD Advancing AI大会上表示，预计到2030年，人工智能加速器市场将达到1.4万亿美元；预计到2030年数据中心CPU市场规模将达到2200亿美元；整体而言，计算市场到2030年料将达到2万亿美元规模。",
+    "content": "【AMD CEO：预计到2030年AI加速器市场将达到1.4万亿美元 数据中心CPU市场规模将达到2200亿美元】AMD CEO苏姿丰在AMD Advancing AI大会上表示，预计到2030年，人工智能加速器市场将达到1.4万亿美元；预计到2030年数据中心CPU市场规模将达到2200亿美元；整体而言，计算市场到2030年料将达到2万亿美元规模。",
+    "full_content": "【AMD CEO：预计到2030年AI加速器市场将达到1.4万亿美元 数据中心CPU市场规模将达到2200亿美元】AMD CEO苏姿丰在AMD Advancing AI大会上表示，预计到2030年，人工智能加速器市场将达到1.4万亿美元；预计到2030年数据中心CPU市场规模将达到2200亿美元；整体而言，计算市场到2030年料将达到2万亿美元规模。",
+    "sort_time": "1784824804050410",
+    "showTime": "2026-07-24 00:40:04",
+    "time": "2026-07-24 00:40:04",
+    "publish_time": "2026-07-24 00:40:04",
+    "raw_data": {
+      "code": "202607243819350410",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1784824804050410",
+      "share": 5,
+      "showTime": "2026-07-24 00:40:04",
+      "stockList": [
+        "90.BK0800",
+        "90.BK0922"
+      ],
+      "summary": "【AMD CEO：预计到2030年AI加速器市场将达到1.4万亿美元 数据中心CPU市场规模将达到2200亿美元】AMD CEO苏姿丰在AMD Advancing AI大会上表示，预计到2030年，人工智能加速器市场将达到1.4万亿美元；预计到2030年数据中心CPU市场规模将达到2200亿美元；整体而言，计算市场到2030年料将达到2万亿美元规模。",
+      "title": "AMD CEO：预计到2030年AI加速器市场将达到1.4万亿美元 数据中心CPU市场规模将达到2200亿美元",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607243819350410.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "90.BK0922"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 11,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006",
+        "C011"
       ]
     }
   },
@@ -113,7 +904,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1784824469049248",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-07-24 00:34:29",
       "stockList": [
         "105.MSFT"
@@ -132,7 +923,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -268,7 +1059,7 @@
     "raw_data": {
       "code": "202607243819346668",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1784824174046668",
       "share": 0,
       "showTime": "2026-07-24 00:29:34",
@@ -284,7 +1075,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -325,7 +1116,7 @@
     "raw_data": {
       "code": "202607243819345871",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1784823769045871",
       "share": 0,
       "showTime": "2026-07-24 00:22:49",
@@ -347,7 +1138,7 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -384,7 +1175,7 @@
     "raw_data": {
       "code": "202607243819345053",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 16,
       "realSort": "1784823535045053",
       "share": 2,
       "showTime": "2026-07-24 00:18:55",
@@ -400,7 +1191,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 16,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -468,9 +1259,9 @@
     "raw_data": {
       "code": "202607243819343128",
       "image": [],
-      "pinglun_Num": 32,
+      "pinglun_Num": 55,
       "realSort": "1784822862043128",
-      "share": 26,
+      "share": 34,
       "showTime": "2026-07-24 00:07:42",
       "stockList": [
         "90.BK0800",
@@ -490,8 +1281,8 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 32,
-    "share_count": 26,
+    "comment_count": 55,
+    "share_count": 34,
     "tags": {
       "industries": [],
       "concepts": [
@@ -562,7 +1353,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1784821912035625",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-07-23 23:51:52",
       "stockList": [
         "90.BK0481",
@@ -583,7 +1374,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -623,7 +1414,7 @@
     "raw_data": {
       "code": "202607233819336744",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1784821908036744",
       "share": 1,
       "showTime": "2026-07-23 23:51:48",
@@ -645,7 +1436,7 @@
       "0.920091"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
+    "comment_count": 6,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -686,9 +1477,9 @@
     "raw_data": {
       "code": "202607233819336570",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1784821905036570",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-07-23 23:51:45",
       "stockList": [
         "0.920081"
@@ -706,8 +1497,8 @@
       "0.920081"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
+    "comment_count": 2,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -825,7 +1616,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1784821895036615",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-07-23 23:51:35",
       "stockList": [
         "0.920026"
@@ -844,7 +1635,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -917,7 +1708,7 @@
     "raw_data": {
       "code": "202607233819335073",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1784821797035073",
       "share": 1,
       "showTime": "2026-07-23 23:49:57",
@@ -933,7 +1724,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -956,9 +1747,9 @@
     "raw_data": {
       "code": "202607233819333551",
       "image": [],
-      "pinglun_Num": 371,
+      "pinglun_Num": 504,
       "realSort": "1784821731033551",
-      "share": 326,
+      "share": 356,
       "showTime": "2026-07-23 23:48:51",
       "stockList": [],
       "summary": "【特朗普称正“认真考虑”重启对伊朗的大规模作战】据美国媒体23日报道，美国总统特朗普当天称，他正在“认真考虑”重启对伊朗的大规模作战行动。",
@@ -972,8 +1763,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 371,
-    "share_count": 326,
+    "comment_count": 504,
+    "share_count": 356,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1304,7 +2095,7 @@
       "image": [],
       "pinglun_Num": 22,
       "realSort": "1784819444010430",
-      "share": 26,
+      "share": 27,
       "showTime": "2026-07-23 23:10:44",
       "stockList": [],
       "summary": "美国证券交易委员会将于9月17日举办圆桌会议，讨论24小时交易问题。",
@@ -1319,7 +2110,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 22,
-    "share_count": 26,
+    "share_count": 27,
     "tags": {
       "industries": [
         {
@@ -1361,7 +2152,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1784819335010365",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-07-23 23:08:55",
       "stockList": [
         "90.BK0710",
@@ -1382,7 +2173,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 3,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1586,7 +2377,7 @@
     "raw_data": {
       "code": "202607233819298686",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 14,
       "realSort": "1784818451098686",
       "share": 21,
       "showTime": "2026-07-23 22:54:11",
@@ -1602,7 +2393,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 14,
     "share_count": 21,
     "tags": {
       "industries": [],
@@ -1647,729 +2438,6 @@
     "has_stock_mention": true,
     "comment_count": 5,
     "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "554c0b57551f5ab9",
-    "code": "202607233819299165",
-    "title": "荷兰工程公司凯谛思（ARCADIS）据悉正吸引潜在收购者的关注",
-    "summary": "荷兰工程公司凯谛思（ARCADIS）据悉正吸引潜在收购者的关注。",
-    "content": "荷兰工程公司凯谛思（ARCADIS）据悉正吸引潜在收购者的关注。",
-    "full_content": "荷兰工程公司凯谛思（ARCADIS）据悉正吸引潜在收购者的关注。",
-    "sort_time": "1784818349099165",
-    "showTime": "2026-07-23 22:52:29",
-    "time": "2026-07-23 22:52:29",
-    "publish_time": "2026-07-23 22:52:29",
-    "raw_data": {
-      "code": "202607233819299165",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1784818349099165",
-      "share": 3,
-      "showTime": "2026-07-23 22:52:29",
-      "stockList": [],
-      "summary": "荷兰工程公司凯谛思（ARCADIS）据悉正吸引潜在收购者的关注。",
-      "title": "荷兰工程公司凯谛思（ARCADIS）据悉正吸引潜在收购者的关注",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819299165.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010103",
-          "name": "消费电子",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "AR"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C009",
-          "name": "元宇宙",
-          "matched_keyword": "AR"
-        }
-      ],
-      "industry_ids": [
-        "I010103"
-      ],
-      "concept_ids": [
-        "C009"
-      ]
-    }
-  },
-  {
-    "id": "97e6f7887e70cc62",
-    "code": "202607233819298119",
-    "title": "行情",
-    "summary": "【行情】美元兑日元上涨0.5%，报163.97。",
-    "content": "【行情】美元兑日元上涨0.5%，报163.97。",
-    "full_content": "【行情】美元兑日元上涨0.5%，报163.97。",
-    "sort_time": "1784818291098119",
-    "showTime": "2026-07-23 22:51:31",
-    "time": "2026-07-23 22:51:31",
-    "publish_time": "2026-07-23 22:51:31",
-    "raw_data": {
-      "code": "202607233819298119",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1784818291098119",
-      "share": 1,
-      "showTime": "2026-07-23 22:51:31",
-      "stockList": [],
-      "summary": "【行情】美元兑日元上涨0.5%，报163.97。",
-      "title": "美元兑日元上涨0.5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819298119.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ed7a42f6a55069fc",
-    "code": "202607233819297375",
-    "title": "ST惠伦：拟解除赵剑华非独立董事职务",
-    "summary": "【ST惠伦：拟解除赵剑华非独立董事职务】ST惠伦(300460.SZ)公告称，因赵剑华在任职期间存在与公司利益冲突及未勤勉尽责情形，公司董事会审议通过《关于解除赵剑华公司董事职务的议案》，该议案尚需提交股东会审议。生效后，赵剑华将不再担任公司任何职务。公司董事会将按照有关规定,尽快依法完成非独立董事补选工作。",
-    "content": "【ST惠伦：拟解除赵剑华非独立董事职务】ST惠伦(300460.SZ)公告称，因赵剑华在任职期间存在与公司利益冲突及未勤勉尽责情形，公司董事会审议通过《关于解除赵剑华公司董事职务的议案》，该议案尚需提交股东会审议。生效后，赵剑华将不再担任公司任何职务。公司董事会将按照有关规定,尽快依法完成非独立董事补选工作。",
-    "full_content": "【ST惠伦：拟解除赵剑华非独立董事职务】ST惠伦(300460.SZ)公告称，因赵剑华在任职期间存在与公司利益冲突及未勤勉尽责情形，公司董事会审议通过《关于解除赵剑华公司董事职务的议案》，该议案尚需提交股东会审议。生效后，赵剑华将不再担任公司任何职务。公司董事会将按照有关规定,尽快依法完成非独立董事补选工作。",
-    "sort_time": "1784818216097375",
-    "showTime": "2026-07-23 22:50:16",
-    "time": "2026-07-23 22:50:16",
-    "publish_time": "2026-07-23 22:50:16",
-    "raw_data": {
-      "code": "202607233819297375",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1784818216097375",
-      "share": 0,
-      "showTime": "2026-07-23 22:50:16",
-      "stockList": [
-        "0.300460"
-      ],
-      "summary": "【ST惠伦：拟解除赵剑华非独立董事职务】ST惠伦(300460.SZ)公告称，因赵剑华在任职期间存在与公司利益冲突及未勤勉尽责情形，公司董事会审议通过《关于解除赵剑华公司董事职务的议案》，该议案尚需提交股东会审议。生效后，赵剑华将不再担任公司任何职务。公司董事会将按照有关规定,尽快依法完成非独立董事补选工作。",
-      "title": "ST惠伦：拟解除赵剑华非独立董事职务",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819297375.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300460"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "ST"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C814"
-      ]
-    }
-  },
-  {
-    "id": "e1cfe7ad73a7b23f",
-    "code": "202607233819296389",
-    "title": "欧盟罚谷歌8.9亿欧元",
-    "summary": "【欧盟罚谷歌8.9亿欧元】欧盟委员会23日宣布，谷歌在网络搜索和应用商店业务中违反欧盟《数字市场法》，决定对其处以共计8.9亿欧元罚款。欧盟委员会当天发表声明说，谷歌在其搜索结果中优先展示自家购物、酒店、交通和体育等方面的服务，使第三方同类服务无法获得同等程度的展示，构成对自有服务的“自我优待”。声明同时表示，谷歌未能遵守《数字市场法》规定，限制应用程序开发者告知用户可通过谷歌应用程序商店“谷歌市场”以外渠道以更低价格购买相关服务，并阻碍开发者引导用户在“谷歌市场”以外完成交易。根据当天作出的决定，欧盟委员会要求谷歌公平、非歧视性地对待搜索结果中的第三方服务，并允许应用程序开发者自由向用户介绍和推广优惠、并能够在“谷歌市场”外完成交易。谷歌须在60天内完成整改，否则欧盟委员会可对其追加罚款。",
-    "content": "【欧盟罚谷歌8.9亿欧元】欧盟委员会23日宣布，谷歌在网络搜索和应用商店业务中违反欧盟《数字市场法》，决定对其处以共计8.9亿欧元罚款。欧盟委员会当天发表声明说，谷歌在其搜索结果中优先展示自家购物、酒店、交通和体育等方面的服务，使第三方同类服务无法获得同等程度的展示，构成对自有服务的“自我优待”。声明同时表示，谷歌未能遵守《数字市场法》规定，限制应用程序开发者告知用户可通过谷歌应用程序商店“谷歌市场”以外渠道以更低价格购买相关服务，并阻碍开发者引导用户在“谷歌市场”以外完成交易。根据当天作出的决定，欧盟委员会要求谷歌公平、非歧视性地对待搜索结果中的第三方服务，并允许应用程序开发者自由向用户介绍和推广优惠、并能够在“谷歌市场”外完成交易。谷歌须在60天内完成整改，否则欧盟委员会可对其追加罚款。",
-    "full_content": "【欧盟罚谷歌8.9亿欧元】欧盟委员会23日宣布，谷歌在网络搜索和应用商店业务中违反欧盟《数字市场法》，决定对其处以共计8.9亿欧元罚款。欧盟委员会当天发表声明说，谷歌在其搜索结果中优先展示自家购物、酒店、交通和体育等方面的服务，使第三方同类服务无法获得同等程度的展示，构成对自有服务的“自我优待”。声明同时表示，谷歌未能遵守《数字市场法》规定，限制应用程序开发者告知用户可通过谷歌应用程序商店“谷歌市场”以外渠道以更低价格购买相关服务，并阻碍开发者引导用户在“谷歌市场”以外完成交易。根据当天作出的决定，欧盟委员会要求谷歌公平、非歧视性地对待搜索结果中的第三方服务，并允许应用程序开发者自由向用户介绍和推广优惠、并能够在“谷歌市场”外完成交易。谷歌须在60天内完成整改，否则欧盟委员会可对其追加罚款。",
-    "sort_time": "1784818169096389",
-    "showTime": "2026-07-23 22:49:29",
-    "time": "2026-07-23 22:49:29",
-    "publish_time": "2026-07-23 22:49:29",
-    "raw_data": {
-      "code": "202607233819296389",
-      "image": [],
-      "pinglun_Num": 23,
-      "realSort": "1784818169096389",
-      "share": 26,
-      "showTime": "2026-07-23 22:49:29",
-      "stockList": [
-        "105.GOOGL",
-        "105.GOOG"
-      ],
-      "summary": "【欧盟罚谷歌8.9亿欧元】欧盟委员会23日宣布，谷歌在网络搜索和应用商店业务中违反欧盟《数字市场法》，决定对其处以共计8.9亿欧元罚款。欧盟委员会当天发表声明说，谷歌在其搜索结果中优先展示自家购物、酒店、交通和体育等方面的服务，使第三方同类服务无法获得同等程度的展示，构成对自有服务的“自我优待”。声明同时表示，谷歌未能遵守《数字市场法》规定，限制应用程序开发者告知用户可通过谷歌应用程序商店“谷歌市场”以外渠道以更低价格购买相关服务，并阻碍开发者引导用户在“谷歌市场”以外完成交易。根据当天作出的决定，欧盟委员会要求谷歌公平、非歧视性地对待搜索结果中的第三方服务，并允许应用程序开发者自由向用户介绍和推广优惠、并能够在“谷歌市场”外完成交易。谷歌须在60天内完成整改，否则欧盟委员会可对其追加罚款。",
-      "title": "欧盟罚谷歌8.9亿欧元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819296389.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.GOOGL",
-      "105.GOOG"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 23,
-    "share_count": 26,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C601",
-          "name": "白酒",
-          "matched_keyword": "酒"
-        },
-        {
-          "id": "C604",
-          "name": "旅游",
-          "matched_keyword": "酒店"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C601",
-        "C604"
-      ]
-    }
-  },
-  {
-    "id": "c71be42403c8b033",
-    "code": "202607233819292493",
-    "title": "美众议院再次通过决议要求停止对伊朗军事行动",
-    "summary": "【美众议院再次通过决议要求停止对伊朗军事行动】据美国媒体23日报道，美国国会众议院再次投票通过一项决议，再次要求特朗普政府停止对伊朗的战争。",
-    "content": "【美众议院再次通过决议要求停止对伊朗军事行动】据美国媒体23日报道，美国国会众议院再次投票通过一项决议，再次要求特朗普政府停止对伊朗的战争。",
-    "full_content": "【美众议院再次通过决议要求停止对伊朗军事行动】据美国媒体23日报道，美国国会众议院再次投票通过一项决议，再次要求特朗普政府停止对伊朗的战争。",
-    "sort_time": "1784817973092493",
-    "showTime": "2026-07-23 22:46:13",
-    "time": "2026-07-23 22:46:13",
-    "publish_time": "2026-07-23 22:46:13",
-    "raw_data": {
-      "code": "202607233819292493",
-      "image": [],
-      "pinglun_Num": 165,
-      "realSort": "1784817973092493",
-      "share": 116,
-      "showTime": "2026-07-23 22:46:13",
-      "stockList": [],
-      "summary": "【美众议院再次通过决议要求停止对伊朗军事行动】据美国媒体23日报道，美国国会众议院再次投票通过一项决议，再次要求特朗普政府停止对伊朗的战争。",
-      "title": "美众议院再次通过决议要求停止对伊朗军事行动",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819292493.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 165,
-    "share_count": 116,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "dd4887f554d3759e",
-    "code": "202607233819292865",
-    "title": "谷歌母公司Alphabet的未来支出承诺已飙升至8110亿美元",
-    "summary": "谷歌母公司Alphabet的未来支出承诺已飙升至8110亿美元。",
-    "content": "谷歌母公司Alphabet的未来支出承诺已飙升至8110亿美元。",
-    "full_content": "谷歌母公司Alphabet的未来支出承诺已飙升至8110亿美元。",
-    "sort_time": "1784817820092865",
-    "showTime": "2026-07-23 22:43:40",
-    "time": "2026-07-23 22:43:40",
-    "publish_time": "2026-07-23 22:43:40",
-    "raw_data": {
-      "code": "202607233819292865",
-      "image": [],
-      "pinglun_Num": 65,
-      "realSort": "1784817820092865",
-      "share": 54,
-      "showTime": "2026-07-23 22:43:40",
-      "stockList": [
-        "105.GOOGL",
-        "105.GOOG"
-      ],
-      "summary": "谷歌母公司Alphabet的未来支出承诺已飙升至8110亿美元。",
-      "title": "谷歌母公司Alphabet的未来支出承诺已飙升至8110亿美元",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819292865.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.GOOGL",
-      "105.GOOG"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 65,
-    "share_count": 54,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4f30f2b2add65d32",
-    "code": "202607233819290953",
-    "title": "交易员预计英国央行年底前加息50个基点的可能性为100%",
-    "summary": "交易员预计英国央行年底前加息50个基点的可能性为100%。",
-    "content": "交易员预计英国央行年底前加息50个基点的可能性为100%。",
-    "full_content": "交易员预计英国央行年底前加息50个基点的可能性为100%。",
-    "sort_time": "1784817567090953",
-    "showTime": "2026-07-23 22:39:27",
-    "time": "2026-07-23 22:39:27",
-    "publish_time": "2026-07-23 22:39:27",
-    "raw_data": {
-      "code": "202607233819290953",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1784817567090953",
-      "share": 4,
-      "showTime": "2026-07-23 22:39:27",
-      "stockList": [],
-      "summary": "交易员预计英国央行年底前加息50个基点的可能性为100%。",
-      "title": "交易员预计英国央行年底前加息50个基点的可能性为100%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819290953.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 4,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "4ca4cf5a2332eafa",
-    "code": "202607233819289241",
-    "title": "以方称美国已通知以色列计划扩大对伊袭击",
-    "summary": "【以方称美国已通知以色列计划扩大对伊袭击】根据以色列方面22日消息，美国已通知以色列，计划扩大对伊朗的袭击，并将首次在今年美以联合行动中出动重型轰炸机对伊朗境内目标实施打击。以色列方面分析称，如果行动实施，将是此次美以伊冲突的一次“重大升级”。分析还说，这些轰炸机预计将以“镐山”为目标，在收到美方通报后，以色列22日晚间已进入最高警戒状态。",
-    "content": "【以方称美国已通知以色列计划扩大对伊袭击】根据以色列方面22日消息，美国已通知以色列，计划扩大对伊朗的袭击，并将首次在今年美以联合行动中出动重型轰炸机对伊朗境内目标实施打击。以色列方面分析称，如果行动实施，将是此次美以伊冲突的一次“重大升级”。分析还说，这些轰炸机预计将以“镐山”为目标，在收到美方通报后，以色列22日晚间已进入最高警戒状态。",
-    "full_content": "【以方称美国已通知以色列计划扩大对伊袭击】根据以色列方面22日消息，美国已通知以色列，计划扩大对伊朗的袭击，并将首次在今年美以联合行动中出动重型轰炸机对伊朗境内目标实施打击。以色列方面分析称，如果行动实施，将是此次美以伊冲突的一次“重大升级”。分析还说，这些轰炸机预计将以“镐山”为目标，在收到美方通报后，以色列22日晚间已进入最高警戒状态。",
-    "sort_time": "1784817543089241",
-    "showTime": "2026-07-23 22:39:03",
-    "time": "2026-07-23 22:39:03",
-    "publish_time": "2026-07-23 22:39:03",
-    "raw_data": {
-      "code": "202607233819289241",
-      "image": [],
-      "pinglun_Num": 73,
-      "realSort": "1784817543089241",
-      "share": 78,
-      "showTime": "2026-07-23 22:39:03",
-      "stockList": [],
-      "summary": "【以方称美国已通知以色列计划扩大对伊袭击】根据以色列方面22日消息，美国已通知以色列，计划扩大对伊朗的袭击，并将首次在今年美以联合行动中出动重型轰炸机对伊朗境内目标实施打击。以色列方面分析称，如果行动实施，将是此次美以伊冲突的一次“重大升级”。分析还说，这些轰炸机预计将以“镐山”为目标，在收到美方通报后，以色列22日晚间已进入最高警戒状态。",
-      "title": "以方称美国已通知以色列计划扩大对伊袭击",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819289241.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 73,
-    "share_count": 78,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "49007cba4c0b3a94",
-    "code": "202607233819289414",
-    "title": "中国建筑：2026年1-6月新签合同总额24647亿元 同比下降1.5%",
-    "summary": "【中国建筑：2026年1-6月新签合同总额24647亿元 同比下降1.5%】中国建筑(601668.SH)公告称，公司2026年1-6月新签合同总额24647亿元，同比下降1.5%。",
-    "content": "【中国建筑：2026年1-6月新签合同总额24647亿元 同比下降1.5%】中国建筑(601668.SH)公告称，公司2026年1-6月新签合同总额24647亿元，同比下降1.5%。",
-    "full_content": "【中国建筑：2026年1-6月新签合同总额24647亿元 同比下降1.5%】中国建筑(601668.SH)公告称，公司2026年1-6月新签合同总额24647亿元，同比下降1.5%。",
-    "sort_time": "1784817321089414",
-    "showTime": "2026-07-23 22:35:21",
-    "time": "2026-07-23 22:35:21",
-    "publish_time": "2026-07-23 22:35:21",
-    "raw_data": {
-      "code": "202607233819289414",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1784817321089414",
-      "share": 3,
-      "showTime": "2026-07-23 22:35:21",
-      "stockList": [
-        "1.601668"
-      ],
-      "summary": "【中国建筑：2026年1-6月新签合同总额24647亿元 同比下降1.5%】中国建筑(601668.SH)公告称，公司2026年1-6月新签合同总额24647亿元，同比下降1.5%。",
-      "title": "中国建筑：2026年1-6月新签合同总额24647亿元 同比下降1.5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819289414.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.601668"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4c40c052eb4ace33",
-    "code": "202607233819287477",
-    "title": "美国上周EIA天然气库存增加320亿立方英尺",
-    "summary": "【美国上周EIA天然气库存增加320亿立方英尺】美国上周EIA天然气库存增加320亿立方英尺，预期增加340亿立方英尺，前值增加410亿立方英尺。",
-    "content": "【美国上周EIA天然气库存增加320亿立方英尺】美国上周EIA天然气库存增加320亿立方英尺，预期增加340亿立方英尺，前值增加410亿立方英尺。",
-    "full_content": "【美国上周EIA天然气库存增加320亿立方英尺】美国上周EIA天然气库存增加320亿立方英尺，预期增加340亿立方英尺，前值增加410亿立方英尺。",
-    "sort_time": "1784817044087477",
-    "showTime": "2026-07-23 22:30:44",
-    "time": "2026-07-23 22:30:44",
-    "publish_time": "2026-07-23 22:30:44",
-    "raw_data": {
-      "code": "202607233819287477",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1784817044087477",
-      "share": 0,
-      "showTime": "2026-07-23 22:30:44",
-      "stockList": [
-        "90.BK1028",
-        "90.BK0427"
-      ],
-      "summary": "【美国上周EIA天然气库存增加320亿立方英尺】美国上周EIA天然气库存增加320亿立方英尺，预期增加340亿立方英尺，前值增加410亿立方英尺。",
-      "title": "美国上周EIA天然气库存增加320亿立方英尺",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819287477.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1028",
-      "90.BK0427"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
-    }
-  },
-  {
-    "id": "53350500450a2106",
-    "code": "202607233819284360",
-    "title": "特斯拉股价跌幅扩大至13%",
-    "summary": "特斯拉股价跌幅扩大至13%，报324.740美元/股，总市值报1.22万亿美元。",
-    "content": "特斯拉股价跌幅扩大至13%，报324.740美元/股，总市值报1.22万亿美元。",
-    "full_content": "特斯拉股价跌幅扩大至13%，报324.740美元/股，总市值报1.22万亿美元。",
-    "sort_time": "1784816741084360",
-    "showTime": "2026-07-23 22:25:41",
-    "time": "2026-07-23 22:25:41",
-    "publish_time": "2026-07-23 22:25:41",
-    "raw_data": {
-      "code": "202607233819284360",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1784816741084360",
-      "share": 27,
-      "showTime": "2026-07-23 22:25:41",
-      "stockList": [
-        "90.BK0644",
-        "105.TSLA"
-      ],
-      "summary": "特斯拉股价跌幅扩大至13%，报324.740美元/股，总市值报1.22万亿美元。",
-      "title": "特斯拉股价跌幅扩大至13%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819284360.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0644",
-      "105.TSLA"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 27,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C805",
-          "name": "特斯拉",
-          "matched_keyword": "特斯拉"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C805"
-      ]
-    }
-  },
-  {
-    "id": "6254047374693860",
-    "code": "202607233819282260",
-    "title": "瑞银集团下调特斯拉目标价",
-    "summary": "【瑞银集团下调特斯拉目标价】瑞银集团将特斯拉目标价从442美元下调至385美元。",
-    "content": "【瑞银集团下调特斯拉目标价】瑞银集团将特斯拉目标价从442美元下调至385美元。",
-    "full_content": "【瑞银集团下调特斯拉目标价】瑞银集团将特斯拉目标价从442美元下调至385美元。",
-    "sort_time": "1784816380082260",
-    "showTime": "2026-07-23 22:19:40",
-    "time": "2026-07-23 22:19:40",
-    "publish_time": "2026-07-23 22:19:40",
-    "raw_data": {
-      "code": "202607233819282260",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1784816380082260",
-      "share": 5,
-      "showTime": "2026-07-23 22:19:40",
-      "stockList": [
-        "90.BK0644",
-        "105.TSLA"
-      ],
-      "summary": "【瑞银集团下调特斯拉目标价】瑞银集团将特斯拉目标价从442美元下调至385美元。",
-      "title": "瑞银集团下调特斯拉目标价",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819282260.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0644",
-      "105.TSLA"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C805",
-          "name": "特斯拉",
-          "matched_keyword": "特斯拉"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C805"
-      ]
-    }
-  },
-  {
-    "id": "db99149fce7bc4f5",
-    "code": "202607233819282094",
-    "title": "欧洲央行官员已准备好于9月上调利率",
-    "summary": "据报道，欧洲央行官员已准备好于9月上调利率。",
-    "content": "据报道，欧洲央行官员已准备好于9月上调利率。",
-    "full_content": "据报道，欧洲央行官员已准备好于9月上调利率。",
-    "sort_time": "1784816366082094",
-    "showTime": "2026-07-23 22:19:26",
-    "time": "2026-07-23 22:19:26",
-    "publish_time": "2026-07-23 22:19:26",
-    "raw_data": {
-      "code": "202607233819282094",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1784816366082094",
-      "share": 5,
-      "showTime": "2026-07-23 22:19:26",
-      "stockList": [],
-      "summary": "据报道，欧洲央行官员已准备好于9月上调利率。",
-      "title": "欧洲央行官员已准备好于9月上调利率",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819282094.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 5,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "332392d3e6b78562",
-    "code": "202607233819281613",
-    "title": "纳指跌幅扩大至2%",
-    "summary": "【纳指跌幅扩大至2%】纳指跌幅扩大至2%。截至目前，道琼斯指数跌0.93%，标普500指数跌1.04%，纳斯达克综合指数跌2%。",
-    "content": "【纳指跌幅扩大至2%】纳指跌幅扩大至2%。截至目前，道琼斯指数跌0.93%，标普500指数跌1.04%，纳斯达克综合指数跌2%。",
-    "full_content": "【纳指跌幅扩大至2%】纳指跌幅扩大至2%。截至目前，道琼斯指数跌0.93%，标普500指数跌1.04%，纳斯达克综合指数跌2%。",
-    "sort_time": "1784816270081613",
-    "showTime": "2026-07-23 22:17:50",
-    "time": "2026-07-23 22:17:50",
-    "publish_time": "2026-07-23 22:17:50",
-    "raw_data": {
-      "code": "202607233819281613",
-      "image": [],
-      "pinglun_Num": 28,
-      "realSort": "1784816270081613",
-      "share": 22,
-      "showTime": "2026-07-23 22:17:50",
-      "stockList": [],
-      "summary": "【纳指跌幅扩大至2%】纳指跌幅扩大至2%。截至目前，道琼斯指数跌0.93%，标普500指数跌1.04%，纳斯达克综合指数跌2%。",
-      "title": "纳指跌幅扩大至2%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819281613.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 28,
-    "share_count": 22,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "63b8b9910fcc980b",
-    "code": "202607233819279116",
-    "title": "印度成功完成“KUSHA”导弹首次试飞",
-    "summary": "印度成功完成“KUSHA”导弹首次试飞。",
-    "content": "印度成功完成“KUSHA”导弹首次试飞。",
-    "full_content": "印度成功完成“KUSHA”导弹首次试飞。",
-    "sort_time": "1784816043079116",
-    "showTime": "2026-07-23 22:14:03",
-    "time": "2026-07-23 22:14:03",
-    "publish_time": "2026-07-23 22:14:03",
-    "raw_data": {
-      "code": "202607233819279116",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1784816043079116",
-      "share": 3,
-      "showTime": "2026-07-23 22:14:03",
-      "stockList": [],
-      "summary": "印度成功完成“KUSHA”导弹首次试飞。",
-      "title": "印度成功完成“KUSHA”导弹首次试飞",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607233819279116.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
