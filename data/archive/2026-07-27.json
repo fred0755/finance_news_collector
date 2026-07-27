@@ -1,5 +1,396 @@
 [
   {
+    "id": "e8146d0aa12c8eb0",
+    "code": "202607283822500044",
+    "title": "美国驻多伦多总领馆再遭枪击",
+    "summary": "【美国驻多伦多总领馆再遭枪击】据加拿大媒体报道，当地时间27日凌晨，美国驻多伦多总领事馆遭枪击，这是该建筑今年第二次遇袭。",
+    "content": "【美国驻多伦多总领馆再遭枪击】据加拿大媒体报道，当地时间27日凌晨，美国驻多伦多总领事馆遭枪击，这是该建筑今年第二次遇袭。",
+    "full_content": "【美国驻多伦多总领馆再遭枪击】据加拿大媒体报道，当地时间27日凌晨，美国驻多伦多总领事馆遭枪击，这是该建筑今年第二次遇袭。",
+    "sort_time": "1785175159000044",
+    "showTime": "2026-07-28 01:59:19",
+    "time": "2026-07-28 01:59:19",
+    "publish_time": "2026-07-28 01:59:19",
+    "raw_data": {
+      "code": "202607283822500044",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785175159000044",
+      "share": 0,
+      "showTime": "2026-07-28 01:59:19",
+      "stockList": [],
+      "summary": "【美国驻多伦多总领馆再遭枪击】据加拿大媒体报道，当地时间27日凌晨，美国驻多伦多总领事馆遭枪击，这是该建筑今年第二次遇袭。",
+      "title": "美国驻多伦多总领馆再遭枪击",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822500044.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "81d3978b57c61afa",
+    "code": "202607283822499137",
+    "title": "Microsoft AI推出MAI-Cyber-1-Flash",
+    "summary": "【Microsoft AI推出MAI-Cyber-1-Flash】MicrosoftAI推出MAI-Cyber-1-Flash，这是公司自主研发的新型网络安全模型。",
+    "content": "【Microsoft AI推出MAI-Cyber-1-Flash】MicrosoftAI推出MAI-Cyber-1-Flash，这是公司自主研发的新型网络安全模型。",
+    "full_content": "【Microsoft AI推出MAI-Cyber-1-Flash】MicrosoftAI推出MAI-Cyber-1-Flash，这是公司自主研发的新型网络安全模型。",
+    "sort_time": "1785174244099137",
+    "showTime": "2026-07-28 01:44:04",
+    "time": "2026-07-28 01:44:04",
+    "publish_time": "2026-07-28 01:44:04",
+    "raw_data": {
+      "code": "202607283822499137",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785174244099137",
+      "share": 1,
+      "showTime": "2026-07-28 01:44:04",
+      "stockList": [
+        "90.BK0800",
+        "105.MSFT"
+      ],
+      "summary": "【Microsoft AI推出MAI-Cyber-1-Flash】MicrosoftAI推出MAI-Cyber-1-Flash，这是公司自主研发的新型网络安全模型。",
+      "title": "Microsoft AI推出MAI-Cyber-1-Flash",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822499137.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "105.MSFT"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "37daad74ff70d5e4",
+    "code": "202607283822498917",
+    "title": "惠誉评级称 人工智能市场的修正正成为主要信用风险",
+    "summary": "惠誉评级称，人工智能市场的修正正成为主要信用风险。",
+    "content": "惠誉评级称，人工智能市场的修正正成为主要信用风险。",
+    "full_content": "惠誉评级称，人工智能市场的修正正成为主要信用风险。",
+    "sort_time": "1785173887098917",
+    "showTime": "2026-07-28 01:38:07",
+    "time": "2026-07-28 01:38:07",
+    "publish_time": "2026-07-28 01:38:07",
+    "raw_data": {
+      "code": "202607283822498917",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785173887098917",
+      "share": 1,
+      "showTime": "2026-07-28 01:38:07",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "惠誉评级称，人工智能市场的修正正成为主要信用风险。",
+      "title": "惠誉评级称 人工智能市场的修正正成为主要信用风险",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822498917.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "dd5896f2c3384a01",
+    "code": "202607283822497864",
+    "title": "美国战略石油储备的原油库存上周下降约370万桶",
+    "summary": "【美国战略石油储备的原油库存上周下降约370万桶】美国战略石油储备的原油库存上周下降约370万桶，降至3.077亿桶，为1983年以来最低水平。",
+    "content": "【美国战略石油储备的原油库存上周下降约370万桶】美国战略石油储备的原油库存上周下降约370万桶，降至3.077亿桶，为1983年以来最低水平。",
+    "full_content": "【美国战略石油储备的原油库存上周下降约370万桶】美国战略石油储备的原油库存上周下降约370万桶，降至3.077亿桶，为1983年以来最低水平。",
+    "sort_time": "1785172784097864",
+    "showTime": "2026-07-28 01:19:44",
+    "time": "2026-07-28 01:19:44",
+    "publish_time": "2026-07-28 01:19:44",
+    "raw_data": {
+      "code": "202607283822497864",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1785172784097864",
+      "share": 4,
+      "showTime": "2026-07-28 01:19:44",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【美国战略石油储备的原油库存上周下降约370万桶】美国战略石油储备的原油库存上周下降约370万桶，降至3.077亿桶，为1983年以来最低水平。",
+      "title": "美国战略石油储备的原油库存上周下降约370万桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822497864.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "05da1b532bf24ee7",
+    "code": "202607283822497767",
+    "title": "美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元",
+    "summary": "周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元。",
+    "content": "周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元。",
+    "full_content": "周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元。",
+    "sort_time": "1785172642097767",
+    "showTime": "2026-07-28 01:17:22",
+    "time": "2026-07-28 01:17:22",
+    "publish_time": "2026-07-28 01:17:22",
+    "raw_data": {
+      "code": "202607283822497767",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1785172642097767",
+      "share": 1,
+      "showTime": "2026-07-28 01:17:22",
+      "stockList": [],
+      "summary": "周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元。",
+      "title": "美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822497767.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "876684ddcb8b9be2",
+    "code": "202607283822493449",
+    "title": "英国首相伯纳姆排除在预算案中调整印花税的可能性",
+    "summary": "【英国首相伯纳姆排除在预算案中调整印花税的可能性】英国首相安迪·伯纳姆表示，今年秋季政府首份财政预算案不会调整英国购房印花税，从而否认了此前媒体关于政府正考虑调整该税种的报道。",
+    "content": "【英国首相伯纳姆排除在预算案中调整印花税的可能性】英国首相安迪·伯纳姆表示，今年秋季政府首份财政预算案不会调整英国购房印花税，从而否认了此前媒体关于政府正考虑调整该税种的报道。",
+    "full_content": "【英国首相伯纳姆排除在预算案中调整印花税的可能性】英国首相安迪·伯纳姆表示，今年秋季政府首份财政预算案不会调整英国购房印花税，从而否认了此前媒体关于政府正考虑调整该税种的报道。",
+    "sort_time": "1785171227093449",
+    "showTime": "2026-07-28 00:53:47",
+    "time": "2026-07-28 00:53:47",
+    "publish_time": "2026-07-28 00:53:47",
+    "raw_data": {
+      "code": "202607283822493449",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785171227093449",
+      "share": 4,
+      "showTime": "2026-07-28 00:53:47",
+      "stockList": [],
+      "summary": "【英国首相伯纳姆排除在预算案中调整印花税的可能性】英国首相安迪·伯纳姆表示，今年秋季政府首份财政预算案不会调整英国购房印花税，从而否认了此前媒体关于政府正考虑调整该税种的报道。",
+      "title": "英国首相伯纳姆排除在预算案中调整印花税的可能性",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822493449.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e8dcd30a00126001",
+    "code": "202607283822493148",
+    "title": "美、布两油短线下挫超0.5美元",
+    "summary": "美、布两油短线下挫超0.5美元，现分别报81.86美元/桶和86.18美元/桶，此前特朗普表示，与伊朗的谈判进展良好，会同意与伊朗会面。",
+    "content": "美、布两油短线下挫超0.5美元，现分别报81.86美元/桶和86.18美元/桶，此前特朗普表示，与伊朗的谈判进展良好，会同意与伊朗会面。",
+    "full_content": "美、布两油短线下挫超0.5美元，现分别报81.86美元/桶和86.18美元/桶，此前特朗普表示，与伊朗的谈判进展良好，会同意与伊朗会面。",
+    "sort_time": "1785170884093148",
+    "showTime": "2026-07-28 00:48:04",
+    "time": "2026-07-28 00:48:04",
+    "publish_time": "2026-07-28 00:48:04",
+    "raw_data": {
+      "code": "202607283822493148",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1785170884093148",
+      "share": 0,
+      "showTime": "2026-07-28 00:48:04",
+      "stockList": [],
+      "summary": "美、布两油短线下挫超0.5美元，现分别报81.86美元/桶和86.18美元/桶，此前特朗普表示，与伊朗的谈判进展良好，会同意与伊朗会面。",
+      "title": "美、布两油短线下挫超0.5美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822493148.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b95e2e2b39c779a5",
+    "code": "202607283822490970",
+    "title": "特朗普重申美国应拥有全球最低利率",
+    "summary": "特朗普重申美国应拥有全球最低利率。",
+    "content": "特朗普重申美国应拥有全球最低利率。",
+    "full_content": "特朗普重申美国应拥有全球最低利率。",
+    "sort_time": "1785170163090970",
+    "showTime": "2026-07-28 00:36:03",
+    "time": "2026-07-28 00:36:03",
+    "publish_time": "2026-07-28 00:36:03",
+    "raw_data": {
+      "code": "202607283822490970",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1785170163090970",
+      "share": 6,
+      "showTime": "2026-07-28 00:36:03",
+      "stockList": [],
+      "summary": "特朗普重申美国应拥有全球最低利率。",
+      "title": "特朗普重申美国应拥有全球最低利率",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822490970.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 11,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fc2fc7aa2ea86325",
+    "code": "202607283822491159",
+    "title": "当被问及本周美联储利率会议时 特朗普称成本正在迅速下降",
+    "summary": "当被问及本周美联储利率会议时，特朗普称成本正在迅速下降。",
+    "content": "当被问及本周美联储利率会议时，特朗普称成本正在迅速下降。",
+    "full_content": "当被问及本周美联储利率会议时，特朗普称成本正在迅速下降。",
+    "sort_time": "1785170081091159",
+    "showTime": "2026-07-28 00:34:41",
+    "time": "2026-07-28 00:34:41",
+    "publish_time": "2026-07-28 00:34:41",
+    "raw_data": {
+      "code": "202607283822491159",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1785170081091159",
+      "share": 3,
+      "showTime": "2026-07-28 00:34:41",
+      "stockList": [],
+      "summary": "当被问及本周美联储利率会议时，特朗普称成本正在迅速下降。",
+      "title": "当被问及本周美联储利率会议时 特朗普称成本正在迅速下降",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607283822491159.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "b9749c0f90b0b29d",
     "code": "202607283822490078",
     "title": "英伟达将向Sutskever的人工智能初创公司投资50亿美元",
@@ -347,6 +738,51 @@
     ],
     "has_stock_mention": true,
     "comment_count": 9,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b9e2521cdf6a0e83",
+    "code": "202607273822483740",
+    "title": "英伟达股价跌5%",
+    "summary": "英伟达股价跌幅扩大至5%。",
+    "content": "英伟达股价跌幅扩大至5%。",
+    "full_content": "英伟达股价跌幅扩大至5%。",
+    "sort_time": "1785167117083740",
+    "showTime": "2026-07-27 23:45:17",
+    "time": "2026-07-27 23:45:17",
+    "publish_time": "2026-07-27 23:45:17",
+    "raw_data": {
+      "code": "202607273822483740",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1785167117083740",
+      "share": 4,
+      "showTime": "2026-07-27 23:45:17",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "英伟达股价跌幅扩大至5%。",
+      "title": "英伟达股价跌5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202607273822483740.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 11,
     "share_count": 4,
     "tags": {
       "industries": [],
