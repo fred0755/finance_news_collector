@@ -1,5 +1,473 @@
 [
   {
+    "id": "883d8cf88efa7671",
+    "code": "202608013828784344",
+    "title": "国际原油期货结算价收涨",
+    "summary": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货9月合约结算价涨1.29%，报84.67美元/桶，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。",
+    "content": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货9月合约结算价涨1.29%，报84.67美元/桶，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。",
+    "full_content": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货9月合约结算价涨1.29%，报84.67美元/桶，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。",
+    "sort_time": "1785522670084344",
+    "showTime": "2026-08-01 02:31:10",
+    "time": "2026-08-01 02:31:10",
+    "publish_time": "2026-08-01 02:31:10",
+    "raw_data": {
+      "code": "202608013828784344",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785522670084344",
+      "share": 0,
+      "showTime": "2026-08-01 02:31:10",
+      "stockList": [],
+      "summary": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货9月合约结算价涨1.29%，报84.67美元/桶，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。",
+      "title": "国际原油期货结算价收涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828784344.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "dbcf60982cadc828",
+    "code": "202608013828783887",
+    "title": "据悉纽约联储要求美国各银行关注欧元/日元汇率",
+    "summary": "据悉纽约联储要求美国各银行关注欧元/日元汇率。",
+    "content": "据悉纽约联储要求美国各银行关注欧元/日元汇率。",
+    "full_content": "据悉纽约联储要求美国各银行关注欧元/日元汇率。",
+    "sort_time": "1785522464083887",
+    "showTime": "2026-08-01 02:27:44",
+    "time": "2026-08-01 02:27:44",
+    "publish_time": "2026-08-01 02:27:44",
+    "raw_data": {
+      "code": "202608013828783887",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785522464083887",
+      "share": 0,
+      "showTime": "2026-08-01 02:27:44",
+      "stockList": [
+        "90.BK1283",
+        "0.161121"
+      ],
+      "summary": "据悉纽约联储要求美国各银行关注欧元/日元汇率。",
+      "title": "据悉纽约联储要求美国各银行关注欧元/日元汇率",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828783887.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "41085b4a24da0ea6",
+    "code": "202608013828783366",
+    "title": "美军一架F-35隐形战斗机在加州坠毁",
+    "summary": "【美军一架F-35隐形战斗机在加州坠毁】据美国媒体31日报道，一架美军F-35隐形战斗机当日在加利福尼亚州圣迭戈一处军事基地坠毁。",
+    "content": "【美军一架F-35隐形战斗机在加州坠毁】据美国媒体31日报道，一架美军F-35隐形战斗机当日在加利福尼亚州圣迭戈一处军事基地坠毁。",
+    "full_content": "【美军一架F-35隐形战斗机在加州坠毁】据美国媒体31日报道，一架美军F-35隐形战斗机当日在加利福尼亚州圣迭戈一处军事基地坠毁。",
+    "sort_time": "1785521979083366",
+    "showTime": "2026-08-01 02:19:39",
+    "time": "2026-08-01 02:19:39",
+    "publish_time": "2026-08-01 02:19:39",
+    "raw_data": {
+      "code": "202608013828783366",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1785521979083366",
+      "share": 0,
+      "showTime": "2026-08-01 02:19:39",
+      "stockList": [],
+      "summary": "【美军一架F-35隐形战斗机在加州坠毁】据美国媒体31日报道，一架美军F-35隐形战斗机当日在加利福尼亚州圣迭戈一处军事基地坠毁。",
+      "title": "美军一架F-35隐形战斗机在加州坠毁",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828783366.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3599afb292035068",
+    "code": "202608013828779453",
+    "title": "超170家机构调研中际旭创 光模块业务仍是关注焦点",
+    "summary": "【超170家机构调研中际旭创 光模块业务仍是关注焦点】本周（7月27日—31日）A股共计78家上市公司接受机构调研。约半数机构调研的公司本周股价上涨，其中传智教育周内实现4连板，累计涨46.44%；宜安科技涨20.01%；国芳集团、川金诺、中文在线、东方电热等涨超10%。",
+    "content": "【超170家机构调研中际旭创 光模块业务仍是关注焦点】本周（7月27日—31日）A股共计78家上市公司接受机构调研。约半数机构调研的公司本周股价上涨，其中传智教育周内实现4连板，累计涨46.44%；宜安科技涨20.01%；国芳集团、川金诺、中文在线、东方电热等涨超10%。",
+    "full_content": "【超170家机构调研中际旭创 光模块业务仍是关注焦点】本周（7月27日—31日）A股共计78家上市公司接受机构调研。约半数机构调研的公司本周股价上涨，其中传智教育周内实现4连板，累计涨46.44%；宜安科技涨20.01%；国芳集团、川金诺、中文在线、东方电热等涨超10%。",
+    "sort_time": "1785521617079453",
+    "showTime": "2026-08-01 02:13:37",
+    "time": "2026-08-01 02:13:37",
+    "publish_time": "2026-08-01 02:13:37",
+    "raw_data": {
+      "code": "202608013828779453",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1785521617079453",
+      "share": 0,
+      "showTime": "2026-08-01 02:13:37",
+      "stockList": [
+        "90.BK0459",
+        "90.BK1136"
+      ],
+      "summary": "【超170家机构调研中际旭创 光模块业务仍是关注焦点】本周（7月27日—31日）A股共计78家上市公司接受机构调研。约半数机构调研的公司本周股价上涨，其中传智教育周内实现4连板，累计涨46.44%；宜安科技涨20.01%；国芳集团、川金诺、中文在线、东方电热等涨超10%。",
+      "title": "超170家机构调研中际旭创 光模块业务仍是关注焦点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828779453.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0459",
+      "90.BK1136"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "光模块"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010104"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4acbd842e4bc414f",
+    "code": "202608013828781281",
+    "title": "古特雷斯呼吁停止海湾地区战事",
+    "summary": "【古特雷斯呼吁停止海湾地区战事】当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
+    "content": "【古特雷斯呼吁停止海湾地区战事】当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
+    "full_content": "【古特雷斯呼吁停止海湾地区战事】当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
+    "sort_time": "1785520633081281",
+    "showTime": "2026-08-01 01:57:13",
+    "time": "2026-08-01 01:57:13",
+    "publish_time": "2026-08-01 01:57:13",
+    "raw_data": {
+      "code": "202608013828781281",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1785520633081281",
+      "share": 0,
+      "showTime": "2026-08-01 01:57:13",
+      "stockList": [],
+      "summary": "【古特雷斯呼吁停止海湾地区战事】当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
+      "title": "古特雷斯呼吁停止海湾地区战事",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828781281.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "df1215f78db45cdc",
+    "code": "202608013828780879",
+    "title": "ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手",
+    "summary": "【ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手】洲际交易所（ICE）数据显示，截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
+    "content": "【ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手】洲际交易所（ICE）数据显示，截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
+    "full_content": "【ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手】洲际交易所（ICE）数据显示，截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
+    "sort_time": "1785519619080879",
+    "showTime": "2026-08-01 01:40:19",
+    "time": "2026-08-01 01:40:19",
+    "publish_time": "2026-08-01 01:40:19",
+    "raw_data": {
+      "code": "202608013828780879",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785519619080879",
+      "share": 0,
+      "showTime": "2026-08-01 01:40:19",
+      "stockList": [],
+      "summary": "【ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手】洲际交易所（ICE）数据显示，截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
+      "title": "ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828780879.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "36acaa290c7b14fe",
+    "code": "202608013828778925",
+    "title": "万科董事会换届 控亏减亏是今年核心目标",
+    "summary": "【万科董事会换届 控亏减亏是今年核心目标】7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届相关的全部议案。当日晚间，万科董事会选举徐恩利为公司董事长，续聘黄宇为公司总裁。",
+    "content": "【万科董事会换届 控亏减亏是今年核心目标】7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届相关的全部议案。当日晚间，万科董事会选举徐恩利为公司董事长，续聘黄宇为公司总裁。",
+    "full_content": "【万科董事会换届 控亏减亏是今年核心目标】7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届相关的全部议案。当日晚间，万科董事会选举徐恩利为公司董事长，续聘黄宇为公司总裁。",
+    "sort_time": "1785519362078925",
+    "showTime": "2026-08-01 01:36:02",
+    "time": "2026-08-01 01:36:02",
+    "publish_time": "2026-08-01 01:36:02",
+    "raw_data": {
+      "code": "202608013828778925",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1785519362078925",
+      "share": 2,
+      "showTime": "2026-08-01 01:36:02",
+      "stockList": [
+        "0.000002"
+      ],
+      "summary": "【万科董事会换届 控亏减亏是今年核心目标】7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届相关的全部议案。当日晚间，万科董事会选举徐恩利为公司董事长，续聘黄宇为公司总裁。",
+      "title": "万科董事会换届 控亏减亏是今年核心目标",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828778925.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.000002"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "304ee6e3d8ba53d5",
+    "code": "202608013828778858",
+    "title": "周五（7月31日）美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元",
+    "summary": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+    "content": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+    "full_content": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+    "sort_time": "1785518173078858",
+    "showTime": "2026-08-01 01:16:13",
+    "time": "2026-08-01 01:16:13",
+    "publish_time": "2026-08-01 01:16:13",
+    "raw_data": {
+      "code": "202608013828778858",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1785518173078858",
+      "share": 0,
+      "showTime": "2026-08-01 01:16:13",
+      "stockList": [],
+      "summary": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+      "title": "周五（7月31日）美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828778858.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8583983c68307f53",
+    "code": "202608013828778642",
+    "title": "美国电信运营商T-Mobil通报德国电信 该公司不支持潜在交易",
+    "summary": "美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+    "content": "美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+    "full_content": "美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+    "sort_time": "1785517465078642",
+    "showTime": "2026-08-01 01:04:25",
+    "time": "2026-08-01 01:04:25",
+    "publish_time": "2026-08-01 01:04:25",
+    "raw_data": {
+      "code": "202608013828778642",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785517465078642",
+      "share": 0,
+      "showTime": "2026-08-01 01:04:25",
+      "stockList": [
+        "90.BK1587",
+        "105.TMUS"
+      ],
+      "summary": "美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+      "title": "美国电信运营商T-Mobil通报德国电信 该公司不支持潜在交易",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828778642.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1587",
+      "105.TMUS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "10ba6e901ee05488",
+    "code": "202608013828778585",
+    "title": "美国至7月31日当周石油钻井总数451口 前值450口",
+    "summary": "美国至7月31日当周石油钻井总数451口，前值450口。",
+    "content": "美国至7月31日当周石油钻井总数451口，前值450口。",
+    "full_content": "美国至7月31日当周石油钻井总数451口，前值450口。",
+    "sort_time": "1785517294078585",
+    "showTime": "2026-08-01 01:01:34",
+    "time": "2026-08-01 01:01:34",
+    "publish_time": "2026-08-01 01:01:34",
+    "raw_data": {
+      "code": "202608013828778585",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785517294078585",
+      "share": 1,
+      "showTime": "2026-08-01 01:01:34",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "美国至7月31日当周石油钻井总数451口，前值450口。",
+      "title": "美国至7月31日当周石油钻井总数451口 前值450口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828778585.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "886e9e5cf215607e",
     "code": "202608013828778472",
     "title": "墨西哥恰帕斯州发生5.0级地震",
@@ -91,7 +559,7 @@
     "raw_data": {
       "code": "202608013828778073",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1785516359078073",
       "share": 0,
       "showTime": "2026-08-01 00:45:59",
@@ -107,7 +575,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -175,9 +643,9 @@
     "raw_data": {
       "code": "202608013828777630",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 7,
       "realSort": "1785515722077630",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-08-01 00:35:22",
       "stockList": [
         "105.AAPL"
@@ -195,8 +663,8 @@
       "105.AAPL"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 2,
+    "comment_count": 7,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -226,9 +694,9 @@
     "raw_data": {
       "code": "202608013828777464",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 23,
       "realSort": "1785515104077464",
-      "share": 10,
+      "share": 17,
       "showTime": "2026-08-01 00:25:04",
       "stockList": [],
       "summary": "美国总统特朗普称，可以与伊朗达成协议。",
@@ -242,8 +710,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 10,
+    "comment_count": 23,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -265,9 +733,9 @@
     "raw_data": {
       "code": "202608013828777227",
       "image": [],
-      "pinglun_Num": 35,
+      "pinglun_Num": 80,
       "realSort": "1785514946077227",
-      "share": 15,
+      "share": 28,
       "showTime": "2026-08-01 00:22:26",
       "stockList": [],
       "summary": "【伊朗称已关闭霍尔木兹海峡 美中央司令部否认】当地时间7月31日，美军中央司令部表示，“伊朗政府再次声称已关闭霍尔木兹海峡，这是不实的消息”。美军中央司令部称，“霍尔木兹海峡对于商船通行依然保持开放。伊朗并不控制该海峡”；过去四个月里，“已有数千艘船只通过这一国际水道”。",
@@ -281,8 +749,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 35,
-    "share_count": 15,
+    "comment_count": 80,
+    "share_count": 28,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -470,7 +938,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1785512662063374",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-07-31 23:44:22",
       "stockList": [],
       "summary": "巴西互换合约交易恢复，但股市仍然暂停交易。",
@@ -485,7 +953,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -554,7 +1022,7 @@
     "raw_data": {
       "code": "202607313828763122",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1785512611063122",
       "share": 0,
       "showTime": "2026-07-31 23:43:31",
@@ -570,7 +1038,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -632,7 +1100,7 @@
     "raw_data": {
       "code": "202607313828748873",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 16,
       "realSort": "1785511681048873",
       "share": 14,
       "showTime": "2026-07-31 23:28:01",
@@ -654,7 +1122,7 @@
       "1.600664"
     ],
     "has_stock_mention": true,
-    "comment_count": 13,
+    "comment_count": 16,
     "share_count": 14,
     "tags": {
       "industries": [],
@@ -1241,9 +1709,9 @@
     "raw_data": {
       "code": "202607313828717167",
       "image": [],
-      "pinglun_Num": 31,
+      "pinglun_Num": 36,
       "realSort": "1785509947017167",
-      "share": 18,
+      "share": 21,
       "showTime": "2026-07-31 22:59:07",
       "stockList": [],
       "summary": "【新一批国家药品集采纳入65个品种】记者7月31日从国家医保局获悉，第十二批国家组织药品集采当日在上海开标，产生拟中选结果，65种药品采购成功，327家企业的521个产品获得拟中选资格。这是迄今为止规模最大的一批国家组织药品集采。",
@@ -1257,8 +1725,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 31,
-    "share_count": 18,
+    "comment_count": 36,
+    "share_count": 21,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1403,7 +1871,7 @@
     "raw_data": {
       "code": "202607313828710237",
       "image": [],
-      "pinglun_Num": 12,
+      "pinglun_Num": 13,
       "realSort": "1785509299010237",
       "share": 17,
       "showTime": "2026-07-31 22:48:19",
@@ -1419,7 +1887,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 12,
+    "comment_count": 13,
     "share_count": 17,
     "tags": {
       "industries": [],
@@ -1858,482 +2326,6 @@
       ],
       "concept_ids": [
         "C402"
-      ]
-    }
-  },
-  {
-    "id": "c0dfb8a464e953ff",
-    "code": "202607313828683686",
-    "title": "诺华沙库巴曲缬沙坦钠片中选第十二批国家组织药品集中采购",
-    "summary": "【诺华沙库巴曲缬沙坦钠片中选第十二批国家组织药品集中采购】据诺华集团消息，第十二批国家组织药品集中采购中选结果于今天公布，诺华沙库巴曲缬沙坦钠片在此次集中采购中成功中选。沙库巴曲缬沙坦钠片作为心血管领域的重要创新治疗方案之一，已在中国广泛应用，为患者提供了更多元的治疗选择。根据目前已获知的信息，此次集采中选涉及该产品心衰适应症。",
-    "content": "【诺华沙库巴曲缬沙坦钠片中选第十二批国家组织药品集中采购】据诺华集团消息，第十二批国家组织药品集中采购中选结果于今天公布，诺华沙库巴曲缬沙坦钠片在此次集中采购中成功中选。沙库巴曲缬沙坦钠片作为心血管领域的重要创新治疗方案之一，已在中国广泛应用，为患者提供了更多元的治疗选择。根据目前已获知的信息，此次集采中选涉及该产品心衰适应症。",
-    "full_content": "【诺华沙库巴曲缬沙坦钠片中选第十二批国家组织药品集中采购】据诺华集团消息，第十二批国家组织药品集中采购中选结果于今天公布，诺华沙库巴曲缬沙坦钠片在此次集中采购中成功中选。沙库巴曲缬沙坦钠片作为心血管领域的重要创新治疗方案之一，已在中国广泛应用，为患者提供了更多元的治疗选择。根据目前已获知的信息，此次集采中选涉及该产品心衰适应症。",
-    "sort_time": "1785507270083686",
-    "showTime": "2026-07-31 22:14:30",
-    "time": "2026-07-31 22:14:30",
-    "publish_time": "2026-07-31 22:14:30",
-    "raw_data": {
-      "code": "202607313828683686",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1785507270083686",
-      "share": 4,
-      "showTime": "2026-07-31 22:14:30",
-      "stockList": [
-        "90.BK0465",
-        "106.NVS"
-      ],
-      "summary": "【诺华沙库巴曲缬沙坦钠片中选第十二批国家组织药品集中采购】据诺华集团消息，第十二批国家组织药品集中采购中选结果于今天公布，诺华沙库巴曲缬沙坦钠片在此次集中采购中成功中选。沙库巴曲缬沙坦钠片作为心血管领域的重要创新治疗方案之一，已在中国广泛应用，为患者提供了更多元的治疗选择。根据目前已获知的信息，此次集采中选涉及该产品心衰适应症。",
-      "title": "诺华沙库巴曲缬沙坦钠片中选第十二批国家组织药品集中采购",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828683686.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0465",
-      "106.NVS"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a1ba83cbaedc379c",
-    "code": "202607313828681015",
-    "title": "现货黄金日内跌幅扩大至2%",
-    "summary": "现货黄金日内跌幅扩大至2%，报4021.08美元/盎司。",
-    "content": "现货黄金日内跌幅扩大至2%，报4021.08美元/盎司。",
-    "full_content": "现货黄金日内跌幅扩大至2%，报4021.08美元/盎司。",
-    "sort_time": "1785506965081015",
-    "showTime": "2026-07-31 22:09:25",
-    "time": "2026-07-31 22:09:25",
-    "publish_time": "2026-07-31 22:09:25",
-    "raw_data": {
-      "code": "202607313828681015",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1785506965081015",
-      "share": 3,
-      "showTime": "2026-07-31 22:09:25",
-      "stockList": [],
-      "summary": "现货黄金日内跌幅扩大至2%，报4021.08美元/盎司。",
-      "title": "现货黄金日内跌幅扩大至2%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828681015.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "d2cd3ff6bbf5bfa9",
-    "code": "202607313828678642",
-    "title": "美股AI硬件个股快速走弱 费城半导体指数回吐5%涨幅而转跌",
-    "summary": "【美股AI硬件个股快速走弱 费城半导体指数回吐5%涨幅而转跌】美股芯片半导体板块快速走弱，费城半导体指数抹去5%涨幅转跌。此前涨6%的美光科技现跌4.2%。此前涨近10%的闪迪现跌超6%。此前涨超8%的SK海力士、希捷科技现跌2%。此前涨4%的台积电现跌近1%。",
-    "content": "【美股AI硬件个股快速走弱 费城半导体指数回吐5%涨幅而转跌】美股芯片半导体板块快速走弱，费城半导体指数抹去5%涨幅转跌。此前涨6%的美光科技现跌4.2%。此前涨近10%的闪迪现跌超6%。此前涨超8%的SK海力士、希捷科技现跌2%。此前涨4%的台积电现跌近1%。",
-    "full_content": "【美股AI硬件个股快速走弱 费城半导体指数回吐5%涨幅而转跌】美股芯片半导体板块快速走弱，费城半导体指数抹去5%涨幅转跌。此前涨6%的美光科技现跌4.2%。此前涨近10%的闪迪现跌超6%。此前涨超8%的SK海力士、希捷科技现跌2%。此前涨4%的台积电现跌近1%。",
-    "sort_time": "1785506940078642",
-    "showTime": "2026-07-31 22:09:00",
-    "time": "2026-07-31 22:09:00",
-    "publish_time": "2026-07-31 22:09:00",
-    "raw_data": {
-      "code": "202607313828678642",
-      "image": [],
-      "pinglun_Num": 98,
-      "realSort": "1785506940078642",
-      "share": 81,
-      "showTime": "2026-07-31 22:09:00",
-      "stockList": [],
-      "summary": "【美股AI硬件个股快速走弱 费城半导体指数回吐5%涨幅而转跌】美股芯片半导体板块快速走弱，费城半导体指数抹去5%涨幅转跌。此前涨6%的美光科技现跌4.2%。此前涨近10%的闪迪现跌超6%。此前涨超8%的SK海力士、希捷科技现跌2%。此前涨4%的台积电现跌近1%。",
-      "title": "美股AI硬件个股快速走弱 费城半导体指数回吐5%涨幅而转跌",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828678642.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 98,
-    "share_count": 81,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C001",
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "c971ca4a8375b3a2",
-    "code": "202607313828680662",
-    "title": "英国财政大臣要求预算责任办公室于10月28日公布财政预测",
-    "summary": "英国财政大臣要求预算责任办公室于10月28日公布财政预测。",
-    "content": "英国财政大臣要求预算责任办公室于10月28日公布财政预测。",
-    "full_content": "英国财政大臣要求预算责任办公室于10月28日公布财政预测。",
-    "sort_time": "1785506931080662",
-    "showTime": "2026-07-31 22:08:51",
-    "time": "2026-07-31 22:08:51",
-    "publish_time": "2026-07-31 22:08:51",
-    "raw_data": {
-      "code": "202607313828680662",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1785506931080662",
-      "share": 0,
-      "showTime": "2026-07-31 22:08:51",
-      "stockList": [],
-      "summary": "英国财政大臣要求预算责任办公室于10月28日公布财政预测。",
-      "title": "英国财政大臣要求预算责任办公室于10月28日公布财政预测",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828680662.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "97f62e58068fb46e",
-    "code": "202607313828680177",
-    "title": "加密货币走低 比特币跌至62660美元",
-    "summary": "【加密货币走低 比特币跌至62660美元】加密货币走低，行情显示，比特币跌至62660美元，过去24小时内跌3.29%；以太坊跌至1852.99美元，过去24小时内跌3.49%。",
-    "content": "【加密货币走低 比特币跌至62660美元】加密货币走低，行情显示，比特币跌至62660美元，过去24小时内跌3.29%；以太坊跌至1852.99美元，过去24小时内跌3.49%。",
-    "full_content": "【加密货币走低 比特币跌至62660美元】加密货币走低，行情显示，比特币跌至62660美元，过去24小时内跌3.29%；以太坊跌至1852.99美元，过去24小时内跌3.49%。",
-    "sort_time": "1785506860080177",
-    "showTime": "2026-07-31 22:07:40",
-    "time": "2026-07-31 22:07:40",
-    "publish_time": "2026-07-31 22:07:40",
-    "raw_data": {
-      "code": "202607313828680177",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1785506860080177",
-      "share": 0,
-      "showTime": "2026-07-31 22:07:40",
-      "stockList": [
-        "90.BK0830"
-      ],
-      "summary": "【加密货币走低 比特币跌至62660美元】加密货币走低，行情显示，比特币跌至62660美元，过去24小时内跌3.29%；以太坊跌至1852.99美元，过去24小时内跌3.49%。",
-      "title": "加密货币走低 比特币跌至62660美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828680177.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0830"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C008",
-          "name": "区块链",
-          "matched_keyword": "以太坊"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C008"
-      ]
-    }
-  },
-  {
-    "id": "49088b46f56d3e21",
-    "code": "202607313828677088",
-    "title": "纳斯达克100指数转跌",
-    "summary": "纳斯达克100指数转跌，回吐此前1.8%的涨幅。",
-    "content": "纳斯达克100指数转跌，回吐此前1.8%的涨幅。",
-    "full_content": "纳斯达克100指数转跌，回吐此前1.8%的涨幅。",
-    "sort_time": "1785506820077088",
-    "showTime": "2026-07-31 22:07:00",
-    "time": "2026-07-31 22:07:00",
-    "publish_time": "2026-07-31 22:07:00",
-    "raw_data": {
-      "code": "202607313828677088",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1785506820077088",
-      "share": 7,
-      "showTime": "2026-07-31 22:07:00",
-      "stockList": [],
-      "summary": "纳斯达克100指数转跌，回吐此前1.8%的涨幅。",
-      "title": "纳斯达克100指数转跌",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828677088.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "474514b5a9a60855",
-    "code": "202607313828667385",
-    "title": "外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表",
-    "summary": "【外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表】据外交部网站消息，2026年7月31日，外交部部长助理刘彬集体会见文莱交通与信息通讯部长瑞扎、多哥数字转型部长劳森、伊朗驻华大使法兹里、苏丹驻华大使欧玛尔、越南驻华使馆临时代办黄文俊，并见证上述国家签署《关于成立世界人工智能合作组织的协定》。",
-    "content": "【外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表】据外交部网站消息，2026年7月31日，外交部部长助理刘彬集体会见文莱交通与信息通讯部长瑞扎、多哥数字转型部长劳森、伊朗驻华大使法兹里、苏丹驻华大使欧玛尔、越南驻华使馆临时代办黄文俊，并见证上述国家签署《关于成立世界人工智能合作组织的协定》。",
-    "full_content": "【外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表】据外交部网站消息，2026年7月31日，外交部部长助理刘彬集体会见文莱交通与信息通讯部长瑞扎、多哥数字转型部长劳森、伊朗驻华大使法兹里、苏丹驻华大使欧玛尔、越南驻华使馆临时代办黄文俊，并见证上述国家签署《关于成立世界人工智能合作组织的协定》。",
-    "sort_time": "1785506627067385",
-    "showTime": "2026-07-31 22:03:47",
-    "time": "2026-07-31 22:03:47",
-    "publish_time": "2026-07-31 22:03:47",
-    "raw_data": {
-      "code": "202607313828667385",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1785506627067385",
-      "share": 5,
-      "showTime": "2026-07-31 22:03:47",
-      "stockList": [
-        "90.BK0800"
-      ],
-      "summary": "【外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表】据外交部网站消息，2026年7月31日，外交部部长助理刘彬集体会见文莱交通与信息通讯部长瑞扎、多哥数字转型部长劳森、伊朗驻华大使法兹里、苏丹驻华大使欧玛尔、越南驻华使馆临时代办黄文俊，并见证上述国家签署《关于成立世界人工智能合作组织的协定》。",
-      "title": "外交部部长助理刘彬集体会见签署世界人工智能合作组织协定的外方代表",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828667385.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "263e22bf452993e2",
-    "code": "202607313828672456",
-    "title": "美联储官员洛根：如果没有政策约束 美国通胀可能居高不下",
-    "summary": "【美联储官员洛根：如果没有政策约束 美国通胀可能居高不下】美联储官员洛根表示，美国就业市场稳健，甚至可能略有走强。劳动力、支出和市场状况表明利率并不具有限制性。如果没有政策约束，通胀可能居高不下。美联储不能指望意外冲击来实现通胀目标。通胀似乎并不处于实现2%目标的轨道上。短期内采取温和行动可避免日后采取更激进的举措。",
-    "content": "【美联储官员洛根：如果没有政策约束 美国通胀可能居高不下】美联储官员洛根表示，美国就业市场稳健，甚至可能略有走强。劳动力、支出和市场状况表明利率并不具有限制性。如果没有政策约束，通胀可能居高不下。美联储不能指望意外冲击来实现通胀目标。通胀似乎并不处于实现2%目标的轨道上。短期内采取温和行动可避免日后采取更激进的举措。",
-    "full_content": "【美联储官员洛根：如果没有政策约束 美国通胀可能居高不下】美联储官员洛根表示，美国就业市场稳健，甚至可能略有走强。劳动力、支出和市场状况表明利率并不具有限制性。如果没有政策约束，通胀可能居高不下。美联储不能指望意外冲击来实现通胀目标。通胀似乎并不处于实现2%目标的轨道上。短期内采取温和行动可避免日后采取更激进的举措。",
-    "sort_time": "1785506623072456",
-    "showTime": "2026-07-31 22:03:43",
-    "time": "2026-07-31 22:03:43",
-    "publish_time": "2026-07-31 22:03:43",
-    "raw_data": {
-      "code": "202607313828672456",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1785506623072456",
-      "share": 4,
-      "showTime": "2026-07-31 22:03:43",
-      "stockList": [],
-      "summary": "【美联储官员洛根：如果没有政策约束 美国通胀可能居高不下】美联储官员洛根表示，美国就业市场稳健，甚至可能略有走强。劳动力、支出和市场状况表明利率并不具有限制性。如果没有政策约束，通胀可能居高不下。美联储不能指望意外冲击来实现通胀目标。通胀似乎并不处于实现2%目标的轨道上。短期内采取温和行动可避免日后采取更激进的举措。",
-      "title": "美联储官员洛根：如果没有政策约束 美国通胀可能居高不下",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828672456.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "030207f1f6c8d934",
-    "code": "202607313828665046",
-    "title": "标准普尔500指数转跌",
-    "summary": "标准普尔500指数转为下跌，抹去此前0.7%的涨幅。",
-    "content": "标准普尔500指数转为下跌，抹去此前0.7%的涨幅。",
-    "full_content": "标准普尔500指数转为下跌，抹去此前0.7%的涨幅。",
-    "sort_time": "1785506622065046",
-    "showTime": "2026-07-31 22:03:42",
-    "time": "2026-07-31 22:03:42",
-    "publish_time": "2026-07-31 22:03:42",
-    "raw_data": {
-      "code": "202607313828665046",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1785506622065046",
-      "share": 0,
-      "showTime": "2026-07-31 22:03:42",
-      "stockList": [],
-      "summary": "标准普尔500指数转为下跌，抹去此前0.7%的涨幅。",
-      "title": "标准普尔500指数转跌",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828665046.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b324ab71ce5ba752",
-    "code": "202607313828663339",
-    "title": "国盛证券：因涉嫌违反账户实名制等规定被证监会立案",
-    "summary": "【国盛证券：因涉嫌违反账户实名制等规定被证监会立案】国盛证券7月31日公告，公司于2026年7月31日收到中国证券监督管理委员会下发的《立案告知书》，因公司涉嫌违反《证券经纪业务管理办法》关于账户实名制等规定，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，决定对公司立案。",
-    "content": "【国盛证券：因涉嫌违反账户实名制等规定被证监会立案】国盛证券7月31日公告，公司于2026年7月31日收到中国证券监督管理委员会下发的《立案告知书》，因公司涉嫌违反《证券经纪业务管理办法》关于账户实名制等规定，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，决定对公司立案。",
-    "full_content": "【国盛证券：因涉嫌违反账户实名制等规定被证监会立案】国盛证券7月31日公告，公司于2026年7月31日收到中国证券监督管理委员会下发的《立案告知书》，因公司涉嫌违反《证券经纪业务管理办法》关于账户实名制等规定，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，决定对公司立案。",
-    "sort_time": "1785506507063339",
-    "showTime": "2026-07-31 22:01:47",
-    "time": "2026-07-31 22:01:47",
-    "publish_time": "2026-07-31 22:01:47",
-    "raw_data": {
-      "code": "202607313828663339",
-      "image": [],
-      "pinglun_Num": 112,
-      "realSort": "1785506507063339",
-      "share": 105,
-      "showTime": "2026-07-31 22:01:47",
-      "stockList": [
-        "150.161027",
-        "0.002670"
-      ],
-      "summary": "【国盛证券：因涉嫌违反账户实名制等规定被证监会立案】国盛证券7月31日公告，公司于2026年7月31日收到中国证券监督管理委员会下发的《立案告知书》，因公司涉嫌违反《证券经纪业务管理办法》关于账户实名制等规定，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，决定对公司立案。",
-      "title": "国盛证券：因涉嫌违反账户实名制等规定被证监会立案",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202607313828663339.html",
-    "category": "政策",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.161027",
-      "0.002670"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 112,
-    "share_count": 105,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "经纪业务"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "经纪业务"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401"
       ]
     }
   }

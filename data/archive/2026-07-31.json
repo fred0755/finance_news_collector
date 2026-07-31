@@ -1,5 +1,473 @@
 [
   {
+    "id": "883d8cf88efa7671",
+    "code": "202608013828784344",
+    "title": "国际原油期货结算价收涨",
+    "summary": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货9月合约结算价涨1.29%，报84.67美元/桶，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。",
+    "content": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货9月合约结算价涨1.29%，报84.67美元/桶，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。",
+    "full_content": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货9月合约结算价涨1.29%，报84.67美元/桶，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。",
+    "sort_time": "1785522670084344",
+    "showTime": "2026-08-01 02:31:10",
+    "time": "2026-08-01 02:31:10",
+    "publish_time": "2026-08-01 02:31:10",
+    "raw_data": {
+      "code": "202608013828784344",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785522670084344",
+      "share": 0,
+      "showTime": "2026-08-01 02:31:10",
+      "stockList": [],
+      "summary": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货9月合约结算价涨1.29%，报84.67美元/桶，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。",
+      "title": "国际原油期货结算价收涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828784344.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "dbcf60982cadc828",
+    "code": "202608013828783887",
+    "title": "据悉纽约联储要求美国各银行关注欧元/日元汇率",
+    "summary": "据悉纽约联储要求美国各银行关注欧元/日元汇率。",
+    "content": "据悉纽约联储要求美国各银行关注欧元/日元汇率。",
+    "full_content": "据悉纽约联储要求美国各银行关注欧元/日元汇率。",
+    "sort_time": "1785522464083887",
+    "showTime": "2026-08-01 02:27:44",
+    "time": "2026-08-01 02:27:44",
+    "publish_time": "2026-08-01 02:27:44",
+    "raw_data": {
+      "code": "202608013828783887",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785522464083887",
+      "share": 0,
+      "showTime": "2026-08-01 02:27:44",
+      "stockList": [
+        "90.BK1283",
+        "0.161121"
+      ],
+      "summary": "据悉纽约联储要求美国各银行关注欧元/日元汇率。",
+      "title": "据悉纽约联储要求美国各银行关注欧元/日元汇率",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828783887.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "41085b4a24da0ea6",
+    "code": "202608013828783366",
+    "title": "美军一架F-35隐形战斗机在加州坠毁",
+    "summary": "【美军一架F-35隐形战斗机在加州坠毁】据美国媒体31日报道，一架美军F-35隐形战斗机当日在加利福尼亚州圣迭戈一处军事基地坠毁。",
+    "content": "【美军一架F-35隐形战斗机在加州坠毁】据美国媒体31日报道，一架美军F-35隐形战斗机当日在加利福尼亚州圣迭戈一处军事基地坠毁。",
+    "full_content": "【美军一架F-35隐形战斗机在加州坠毁】据美国媒体31日报道，一架美军F-35隐形战斗机当日在加利福尼亚州圣迭戈一处军事基地坠毁。",
+    "sort_time": "1785521979083366",
+    "showTime": "2026-08-01 02:19:39",
+    "time": "2026-08-01 02:19:39",
+    "publish_time": "2026-08-01 02:19:39",
+    "raw_data": {
+      "code": "202608013828783366",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1785521979083366",
+      "share": 0,
+      "showTime": "2026-08-01 02:19:39",
+      "stockList": [],
+      "summary": "【美军一架F-35隐形战斗机在加州坠毁】据美国媒体31日报道，一架美军F-35隐形战斗机当日在加利福尼亚州圣迭戈一处军事基地坠毁。",
+      "title": "美军一架F-35隐形战斗机在加州坠毁",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828783366.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3599afb292035068",
+    "code": "202608013828779453",
+    "title": "超170家机构调研中际旭创 光模块业务仍是关注焦点",
+    "summary": "【超170家机构调研中际旭创 光模块业务仍是关注焦点】本周（7月27日—31日）A股共计78家上市公司接受机构调研。约半数机构调研的公司本周股价上涨，其中传智教育周内实现4连板，累计涨46.44%；宜安科技涨20.01%；国芳集团、川金诺、中文在线、东方电热等涨超10%。",
+    "content": "【超170家机构调研中际旭创 光模块业务仍是关注焦点】本周（7月27日—31日）A股共计78家上市公司接受机构调研。约半数机构调研的公司本周股价上涨，其中传智教育周内实现4连板，累计涨46.44%；宜安科技涨20.01%；国芳集团、川金诺、中文在线、东方电热等涨超10%。",
+    "full_content": "【超170家机构调研中际旭创 光模块业务仍是关注焦点】本周（7月27日—31日）A股共计78家上市公司接受机构调研。约半数机构调研的公司本周股价上涨，其中传智教育周内实现4连板，累计涨46.44%；宜安科技涨20.01%；国芳集团、川金诺、中文在线、东方电热等涨超10%。",
+    "sort_time": "1785521617079453",
+    "showTime": "2026-08-01 02:13:37",
+    "time": "2026-08-01 02:13:37",
+    "publish_time": "2026-08-01 02:13:37",
+    "raw_data": {
+      "code": "202608013828779453",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1785521617079453",
+      "share": 0,
+      "showTime": "2026-08-01 02:13:37",
+      "stockList": [
+        "90.BK0459",
+        "90.BK1136"
+      ],
+      "summary": "【超170家机构调研中际旭创 光模块业务仍是关注焦点】本周（7月27日—31日）A股共计78家上市公司接受机构调研。约半数机构调研的公司本周股价上涨，其中传智教育周内实现4连板，累计涨46.44%；宜安科技涨20.01%；国芳集团、川金诺、中文在线、东方电热等涨超10%。",
+      "title": "超170家机构调研中际旭创 光模块业务仍是关注焦点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828779453.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0459",
+      "90.BK1136"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "光模块"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010104"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4acbd842e4bc414f",
+    "code": "202608013828781281",
+    "title": "古特雷斯呼吁停止海湾地区战事",
+    "summary": "【古特雷斯呼吁停止海湾地区战事】当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
+    "content": "【古特雷斯呼吁停止海湾地区战事】当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
+    "full_content": "【古特雷斯呼吁停止海湾地区战事】当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
+    "sort_time": "1785520633081281",
+    "showTime": "2026-08-01 01:57:13",
+    "time": "2026-08-01 01:57:13",
+    "publish_time": "2026-08-01 01:57:13",
+    "raw_data": {
+      "code": "202608013828781281",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1785520633081281",
+      "share": 0,
+      "showTime": "2026-08-01 01:57:13",
+      "stockList": [],
+      "summary": "【古特雷斯呼吁停止海湾地区战事】当地时间7月31日，联合国秘书长古特雷斯在纽约联合国总部呼吁立即停止海湾地区战事，全面恢复霍尔木兹海峡和曼德海峡及周边地区的国际航行权利和自由，并通过外交途径解决争端。",
+      "title": "古特雷斯呼吁停止海湾地区战事",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828781281.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "df1215f78db45cdc",
+    "code": "202608013828780879",
+    "title": "ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手",
+    "summary": "【ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手】洲际交易所（ICE）数据显示，截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
+    "content": "【ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手】洲际交易所（ICE）数据显示，截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
+    "full_content": "【ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手】洲际交易所（ICE）数据显示，截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
+    "sort_time": "1785519619080879",
+    "showTime": "2026-08-01 01:40:19",
+    "time": "2026-08-01 01:40:19",
+    "publish_time": "2026-08-01 01:40:19",
+    "raw_data": {
+      "code": "202608013828780879",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785519619080879",
+      "share": 0,
+      "showTime": "2026-08-01 01:40:19",
+      "stockList": [],
+      "summary": "【ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手】洲际交易所（ICE）数据显示，截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
+      "title": "ICE：截至7月28日当周 布伦特原油投机者将净多头头寸减少6,948手",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828780879.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "36acaa290c7b14fe",
+    "code": "202608013828778925",
+    "title": "万科董事会换届 控亏减亏是今年核心目标",
+    "summary": "【万科董事会换届 控亏减亏是今年核心目标】7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届相关的全部议案。当日晚间，万科董事会选举徐恩利为公司董事长，续聘黄宇为公司总裁。",
+    "content": "【万科董事会换届 控亏减亏是今年核心目标】7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届相关的全部议案。当日晚间，万科董事会选举徐恩利为公司董事长，续聘黄宇为公司总裁。",
+    "full_content": "【万科董事会换届 控亏减亏是今年核心目标】7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届相关的全部议案。当日晚间，万科董事会选举徐恩利为公司董事长，续聘黄宇为公司总裁。",
+    "sort_time": "1785519362078925",
+    "showTime": "2026-08-01 01:36:02",
+    "time": "2026-08-01 01:36:02",
+    "publish_time": "2026-08-01 01:36:02",
+    "raw_data": {
+      "code": "202608013828778925",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1785519362078925",
+      "share": 2,
+      "showTime": "2026-08-01 01:36:02",
+      "stockList": [
+        "0.000002"
+      ],
+      "summary": "【万科董事会换届 控亏减亏是今年核心目标】7月31日，万科召开2026年第一次临时股东会，审议通过了董事会换届相关的全部议案。当日晚间，万科董事会选举徐恩利为公司董事长，续聘黄宇为公司总裁。",
+      "title": "万科董事会换届 控亏减亏是今年核心目标",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828778925.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.000002"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "304ee6e3d8ba53d5",
+    "code": "202608013828778858",
+    "title": "周五（7月31日）美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元",
+    "summary": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+    "content": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+    "full_content": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+    "sort_time": "1785518173078858",
+    "showTime": "2026-08-01 01:16:13",
+    "time": "2026-08-01 01:16:13",
+    "publish_time": "2026-08-01 01:16:13",
+    "raw_data": {
+      "code": "202608013828778858",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1785518173078858",
+      "share": 0,
+      "showTime": "2026-08-01 01:16:13",
+      "stockList": [],
+      "summary": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+      "title": "周五（7月31日）美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828778858.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8583983c68307f53",
+    "code": "202608013828778642",
+    "title": "美国电信运营商T-Mobil通报德国电信 该公司不支持潜在交易",
+    "summary": "美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+    "content": "美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+    "full_content": "美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+    "sort_time": "1785517465078642",
+    "showTime": "2026-08-01 01:04:25",
+    "time": "2026-08-01 01:04:25",
+    "publish_time": "2026-08-01 01:04:25",
+    "raw_data": {
+      "code": "202608013828778642",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785517465078642",
+      "share": 0,
+      "showTime": "2026-08-01 01:04:25",
+      "stockList": [
+        "90.BK1587",
+        "105.TMUS"
+      ],
+      "summary": "美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+      "title": "美国电信运营商T-Mobil通报德国电信 该公司不支持潜在交易",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828778642.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1587",
+      "105.TMUS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "10ba6e901ee05488",
+    "code": "202608013828778585",
+    "title": "美国至7月31日当周石油钻井总数451口 前值450口",
+    "summary": "美国至7月31日当周石油钻井总数451口，前值450口。",
+    "content": "美国至7月31日当周石油钻井总数451口，前值450口。",
+    "full_content": "美国至7月31日当周石油钻井总数451口，前值450口。",
+    "sort_time": "1785517294078585",
+    "showTime": "2026-08-01 01:01:34",
+    "time": "2026-08-01 01:01:34",
+    "publish_time": "2026-08-01 01:01:34",
+    "raw_data": {
+      "code": "202608013828778585",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785517294078585",
+      "share": 1,
+      "showTime": "2026-08-01 01:01:34",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "美国至7月31日当周石油钻井总数451口，前值450口。",
+      "title": "美国至7月31日当周石油钻井总数451口 前值450口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608013828778585.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "886e9e5cf215607e",
     "code": "202608013828778472",
     "title": "墨西哥恰帕斯州发生5.0级地震",
