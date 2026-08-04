@@ -1,5 +1,609 @@
 [
   {
+    "id": "423690fb060810ae",
+    "code": "202608053831570662",
+    "title": "SPACEX：公司正与英伟达合作设计卫星计算载荷 每颗星智卫星都将搭载英伟达Rubin GPU和Vera CPU",
+    "summary": "SPACEX称，公司正与英伟达合作，共同开发「星智AI1」（Starmind AI1）卫星计算载荷。每颗星智卫星都将搭载英伟达Rubin GPU和Vera CPU，实现数据中心级太空计算能力。",
+    "content": "SPACEX称，公司正与英伟达合作，共同开发「星智AI1」（Starmind AI1）卫星计算载荷。每颗星智卫星都将搭载英伟达Rubin GPU和Vera CPU，实现数据中心级太空计算能力。",
+    "full_content": "SPACEX称，公司正与英伟达合作，共同开发「星智AI1」（Starmind AI1）卫星计算载荷。每颗星智卫星都将搭载英伟达Rubin GPU和Vera CPU，实现数据中心级太空计算能力。",
+    "sort_time": "1785871961070662",
+    "showTime": "2026-08-05 03:32:41",
+    "time": "2026-08-05 03:32:41",
+    "publish_time": "2026-08-05 03:32:41",
+    "raw_data": {
+      "code": "202608053831570662",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1785871961070662",
+      "share": 1,
+      "showTime": "2026-08-05 03:32:41",
+      "stockList": [
+        "90.BK1161",
+        "105.SPCX"
+      ],
+      "summary": "SPACEX称，公司正与英伟达合作，共同开发「星智AI1」（Starmind AI1）卫星计算载荷。每颗星智卫星都将搭载英伟达Rubin GPU和Vera CPU，实现数据中心级太空计算能力。",
+      "title": "SPACEX：公司正与英伟达合作设计卫星计算载荷 每颗星智卫星都将搭载英伟达Rubin GPU和Vera CPU",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831570662.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.SPCX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        },
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "卫星"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006",
+        "C011",
+        "C202"
+      ]
+    }
+  },
+  {
+    "id": "d06ff5a70f3cbff2",
+    "code": "202608053831570549",
+    "title": "据网络状况监测网站DownDetector 用户报告显示美国奈飞出现问题",
+    "summary": "据网络状况监测网站DownDetector，用户报告显示美国奈飞出现问题。",
+    "content": "据网络状况监测网站DownDetector，用户报告显示美国奈飞出现问题。",
+    "full_content": "据网络状况监测网站DownDetector，用户报告显示美国奈飞出现问题。",
+    "sort_time": "1785871869070549",
+    "showTime": "2026-08-05 03:31:09",
+    "time": "2026-08-05 03:31:09",
+    "publish_time": "2026-08-05 03:31:09",
+    "raw_data": {
+      "code": "202608053831570549",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785871869070549",
+      "share": 0,
+      "showTime": "2026-08-05 03:31:09",
+      "stockList": [
+        "105.NFLX"
+      ],
+      "summary": "据网络状况监测网站DownDetector，用户报告显示美国奈飞出现问题。",
+      "title": "据网络状况监测网站DownDetector 用户报告显示美国奈飞出现问题",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831570549.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.NFLX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "52770a65dfeffc15",
+    "code": "202608053831570224",
+    "title": "消息人士称 史蒂夫·科恩的Point72对冲基金7月份下跌3.3%",
+    "summary": "消息人士称，史蒂夫·科恩的Point72对冲基金7月份下跌3.3%，今年迄今上涨10.9%。",
+    "content": "消息人士称，史蒂夫·科恩的Point72对冲基金7月份下跌3.3%，今年迄今上涨10.9%。",
+    "full_content": "消息人士称，史蒂夫·科恩的Point72对冲基金7月份下跌3.3%，今年迄今上涨10.9%。",
+    "sort_time": "1785871136070224",
+    "showTime": "2026-08-05 03:18:56",
+    "time": "2026-08-05 03:18:56",
+    "publish_time": "2026-08-05 03:18:56",
+    "raw_data": {
+      "code": "202608053831570224",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785871136070224",
+      "share": 0,
+      "showTime": "2026-08-05 03:18:56",
+      "stockList": [],
+      "summary": "消息人士称，史蒂夫·科恩的Point72对冲基金7月份下跌3.3%，今年迄今上涨10.9%。",
+      "title": "消息人士称 史蒂夫·科恩的Point72对冲基金7月份下跌3.3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831570224.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ec12b7256d8567fb",
+    "code": "202608053831568118",
+    "title": "保持市场流动性充裕 央行开展5000亿元买断式逆回购操作",
+    "summary": "【保持市场流动性充裕 央行开展5000亿元买断式逆回购操作】中国人民银行8月4日公告：8月5日将以固定数量、利率招标，多重价位中标方式开展5000亿元买断式逆回购操作，期限为3个月。",
+    "content": "【保持市场流动性充裕 央行开展5000亿元买断式逆回购操作】中国人民银行8月4日公告：8月5日将以固定数量、利率招标，多重价位中标方式开展5000亿元买断式逆回购操作，期限为3个月。",
+    "full_content": "【保持市场流动性充裕 央行开展5000亿元买断式逆回购操作】中国人民银行8月4日公告：8月5日将以固定数量、利率招标，多重价位中标方式开展5000亿元买断式逆回购操作，期限为3个月。",
+    "sort_time": "1785870806068118",
+    "showTime": "2026-08-05 03:13:26",
+    "time": "2026-08-05 03:13:26",
+    "publish_time": "2026-08-05 03:13:26",
+    "raw_data": {
+      "code": "202608053831568118",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1785870806068118",
+      "share": 0,
+      "showTime": "2026-08-05 03:13:26",
+      "stockList": [],
+      "summary": "【保持市场流动性充裕 央行开展5000亿元买断式逆回购操作】中国人民银行8月4日公告：8月5日将以固定数量、利率招标，多重价位中标方式开展5000亿元买断式逆回购操作，期限为3个月。",
+      "title": "保持市场流动性充裕 央行开展5000亿元买断式逆回购操作",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831568118.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "d04ab27558764943",
+    "code": "202608053831570043",
+    "title": "在岸人民币兑美元（CNY）收报6.7510元",
+    "summary": "【在岸人民币兑美元（CNY）收报6.7510元】在岸人民币兑美元（CNY）北京时间03:00收报6.7510元，较周一夜盘收盘涨50点。成交量423.73亿美元。",
+    "content": "【在岸人民币兑美元（CNY）收报6.7510元】在岸人民币兑美元（CNY）北京时间03:00收报6.7510元，较周一夜盘收盘涨50点。成交量423.73亿美元。",
+    "full_content": "【在岸人民币兑美元（CNY）收报6.7510元】在岸人民币兑美元（CNY）北京时间03:00收报6.7510元，较周一夜盘收盘涨50点。成交量423.73亿美元。",
+    "sort_time": "1785870625070043",
+    "showTime": "2026-08-05 03:10:25",
+    "time": "2026-08-05 03:10:25",
+    "publish_time": "2026-08-05 03:10:25",
+    "raw_data": {
+      "code": "202608053831570043",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785870625070043",
+      "share": 0,
+      "showTime": "2026-08-05 03:10:25",
+      "stockList": [],
+      "summary": "【在岸人民币兑美元（CNY）收报6.7510元】在岸人民币兑美元（CNY）北京时间03:00收报6.7510元，较周一夜盘收盘涨50点。成交量423.73亿美元。",
+      "title": "在岸人民币兑美元（CNY）收报6.7510元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831570043.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9ce37e61f7252f84",
+    "code": "202608053831569869",
+    "title": "SpaceX日内涨幅扩大至10%",
+    "summary": "【SpaceX日内涨幅扩大至10%】SpaceX日内涨幅扩大至10%，报126.07美元/股。该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
+    "content": "【SpaceX日内涨幅扩大至10%】SpaceX日内涨幅扩大至10%，报126.07美元/股。该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
+    "full_content": "【SpaceX日内涨幅扩大至10%】SpaceX日内涨幅扩大至10%，报126.07美元/股。该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
+    "sort_time": "1785870338069869",
+    "showTime": "2026-08-05 03:05:38",
+    "time": "2026-08-05 03:05:38",
+    "publish_time": "2026-08-05 03:05:38",
+    "raw_data": {
+      "code": "202608053831569869",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1785870338069869",
+      "share": 1,
+      "showTime": "2026-08-05 03:05:38",
+      "stockList": [
+        "105.SPCX"
+      ],
+      "summary": "【SpaceX日内涨幅扩大至10%】SpaceX日内涨幅扩大至10%，报126.07美元/股。该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
+      "title": "SpaceX日内涨幅扩大至10%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831569869.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SPCX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "08466fc30cf65902",
+    "code": "202608053831569142",
+    "title": "美债收益率“狂飙”背后：市场开始质疑美联储信誉",
+    "summary": "【美债收益率“狂飙”背后：市场开始质疑美联储信誉】当美联储在7月议息会议上“按兵不动”并试图压缩与市场的沟通窗口时，债券投资者以一轮猛烈抛售作出回应——近日，30年期美债收益率飙升至5.27%，创下2007年以来新高；10年期美债收益率站上4.7%，刷新年内峰值。",
+    "content": "【美债收益率“狂飙”背后：市场开始质疑美联储信誉】当美联储在7月议息会议上“按兵不动”并试图压缩与市场的沟通窗口时，债券投资者以一轮猛烈抛售作出回应——近日，30年期美债收益率飙升至5.27%，创下2007年以来新高；10年期美债收益率站上4.7%，刷新年内峰值。",
+    "full_content": "【美债收益率“狂飙”背后：市场开始质疑美联储信誉】当美联储在7月议息会议上“按兵不动”并试图压缩与市场的沟通窗口时，债券投资者以一轮猛烈抛售作出回应——近日，30年期美债收益率飙升至5.27%，创下2007年以来新高；10年期美债收益率站上4.7%，刷新年内峰值。",
+    "sort_time": "1785869458069142",
+    "showTime": "2026-08-05 02:50:58",
+    "time": "2026-08-05 02:50:58",
+    "publish_time": "2026-08-05 02:50:58",
+    "raw_data": {
+      "code": "202608053831569142",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785869458069142",
+      "share": 1,
+      "showTime": "2026-08-05 02:50:58",
+      "stockList": [],
+      "summary": "【美债收益率“狂飙”背后：市场开始质疑美联储信誉】当美联储在7月议息会议上“按兵不动”并试图压缩与市场的沟通窗口时，债券投资者以一轮猛烈抛售作出回应——近日，30年期美债收益率飙升至5.27%，创下2007年以来新高；10年期美债收益率站上4.7%，刷新年内峰值。",
+      "title": "美债收益率“狂飙”背后：市场开始质疑美联储信誉",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831569142.html",
+    "category": "债券",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ec51c22054f44329",
+    "code": "202608053831566160",
+    "title": "国际原油期货结算价收跌超5%",
+    "summary": "国际原油期货结算价收跌超5%。WTI原油期货9月合约结算价跌5.69%，报75.77美元/桶。布伦特原油期货10月合约结算价跌5.26%，报79.36美元/桶。",
+    "content": "国际原油期货结算价收跌超5%。WTI原油期货9月合约结算价跌5.69%，报75.77美元/桶。布伦特原油期货10月合约结算价跌5.26%，报79.36美元/桶。",
+    "full_content": "国际原油期货结算价收跌超5%。WTI原油期货9月合约结算价跌5.69%，报75.77美元/桶。布伦特原油期货10月合约结算价跌5.26%，报79.36美元/桶。",
+    "sort_time": "1785868324066160",
+    "showTime": "2026-08-05 02:32:04",
+    "time": "2026-08-05 02:32:04",
+    "publish_time": "2026-08-05 02:32:04",
+    "raw_data": {
+      "code": "202608053831566160",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785868324066160",
+      "share": 0,
+      "showTime": "2026-08-05 02:32:04",
+      "stockList": [],
+      "summary": "国际原油期货结算价收跌超5%。WTI原油期货9月合约结算价跌5.69%，报75.77美元/桶。布伦特原油期货10月合约结算价跌5.26%，报79.36美元/桶。",
+      "title": "国际原油期货结算价收跌超5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831566160.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "5c1edd0e91c68878",
+    "code": "202608053831565556",
+    "title": "据报道 白宫不打算公开发布其用于评估先进人工智能模型的新框架",
+    "summary": "据报道，白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
+    "content": "据报道，白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
+    "full_content": "据报道，白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
+    "sort_time": "1785868203065556",
+    "showTime": "2026-08-05 02:30:03",
+    "time": "2026-08-05 02:30:03",
+    "publish_time": "2026-08-05 02:30:03",
+    "raw_data": {
+      "code": "202608053831565556",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1785868203065556",
+      "share": 0,
+      "showTime": "2026-08-05 02:30:03",
+      "stockList": [
+        "90.BK0800",
+        "0.161631"
+      ],
+      "summary": "据报道，白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
+      "title": "据报道 白宫不打算公开发布其用于评估先进人工智能模型的新框架",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831565556.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.161631"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "7c65f279e1335d03",
+    "code": "202608053831565226",
+    "title": "消息人士称 美国白宫预计将在未来几天延长《琼斯法案》豁免期限",
+    "summary": "消息人士称，美国白宫预计将在未来几天延长《琼斯法案》豁免期限。",
+    "content": "消息人士称，美国白宫预计将在未来几天延长《琼斯法案》豁免期限。",
+    "full_content": "消息人士称，美国白宫预计将在未来几天延长《琼斯法案》豁免期限。",
+    "sort_time": "1785867682065226",
+    "showTime": "2026-08-05 02:21:22",
+    "time": "2026-08-05 02:21:22",
+    "publish_time": "2026-08-05 02:21:22",
+    "raw_data": {
+      "code": "202608053831565226",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785867682065226",
+      "share": 0,
+      "showTime": "2026-08-05 02:21:22",
+      "stockList": [],
+      "summary": "消息人士称，美国白宫预计将在未来几天延长《琼斯法案》豁免期限。",
+      "title": "消息人士称 美国白宫预计将在未来几天延长《琼斯法案》豁免期限",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831565226.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "dcaace3d87a91243",
+    "code": "202608053831565135",
+    "title": "高盛高级石油交易员Madhav Janakiraman将离职",
+    "summary": "高盛高级石油交易员MadhavJanakiraman将离职。",
+    "content": "高盛高级石油交易员MadhavJanakiraman将离职。",
+    "full_content": "高盛高级石油交易员MadhavJanakiraman将离职。",
+    "sort_time": "1785867433065135",
+    "showTime": "2026-08-05 02:17:13",
+    "time": "2026-08-05 02:17:13",
+    "publish_time": "2026-08-05 02:17:13",
+    "raw_data": {
+      "code": "202608053831565135",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785867433065135",
+      "share": 0,
+      "showTime": "2026-08-05 02:17:13",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "高盛高级石油交易员MadhavJanakiraman将离职。",
+      "title": "高盛高级石油交易员Madhav Janakiraman将离职",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831565135.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "1dc186771c5829d4",
+    "code": "202608053831562961",
+    "title": "利率市场化改革深入推进 多地相继落地DR基准利率贷款",
+    "summary": "【利率市场化改革深入推进 多地相继落地DR基准利率贷款】继工商银行、招商银行、浦发银行成功在海南自贸港落地全国首批DR（存款类金融机构间债券回购利率）基准利率贷款后，近期，又有多家银行在深圳、上海、苏州等地相继落地DR基准利率贷款。",
+    "content": "【利率市场化改革深入推进 多地相继落地DR基准利率贷款】继工商银行、招商银行、浦发银行成功在海南自贸港落地全国首批DR（存款类金融机构间债券回购利率）基准利率贷款后，近期，又有多家银行在深圳、上海、苏州等地相继落地DR基准利率贷款。",
+    "full_content": "【利率市场化改革深入推进 多地相继落地DR基准利率贷款】继工商银行、招商银行、浦发银行成功在海南自贸港落地全国首批DR（存款类金融机构间债券回购利率）基准利率贷款后，近期，又有多家银行在深圳、上海、苏州等地相继落地DR基准利率贷款。",
+    "sort_time": "1785867203062961",
+    "showTime": "2026-08-05 02:13:23",
+    "time": "2026-08-05 02:13:23",
+    "publish_time": "2026-08-05 02:13:23",
+    "raw_data": {
+      "code": "202608053831562961",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1785867203062961",
+      "share": 2,
+      "showTime": "2026-08-05 02:13:23",
+      "stockList": [
+        "90.BK0475",
+        "90.BK1283"
+      ],
+      "summary": "【利率市场化改革深入推进 多地相继落地DR基准利率贷款】继工商银行、招商银行、浦发银行成功在海南自贸港落地全国首批DR（存款类金融机构间债券回购利率）基准利率贷款后，近期，又有多家银行在深圳、上海、苏州等地相继落地DR基准利率贷款。",
+      "title": "利率市场化改革深入推进 多地相继落地DR基准利率贷款",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608053831562961.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0475",
+      "90.BK1283"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
     "id": "006c5d09af296a09",
     "code": "202608053831562090",
     "title": "美股持续走高 三大指数均涨逾2%",
@@ -13,9 +617,9 @@
     "raw_data": {
       "code": "202608053831562090",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 11,
       "realSort": "1785865767062090",
-      "share": 0,
+      "share": 5,
       "showTime": "2026-08-05 01:49:27",
       "stockList": [
         "150.512480",
@@ -35,8 +639,8 @@
       "150.013446"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 11,
+    "share_count": 5,
     "tags": {
       "industries": [
         {
@@ -92,7 +696,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1785865363061793",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-05 01:42:43",
       "stockList": [],
       "summary": "【多重因素叠加 休达成欧洲移民危机“风暴眼”】根据西班牙内政大臣4日公布的最新数据，非法入境休达的人数约为7.2万人。其中，已有7万人遣返到摩洛哥。目前，仍有约2000名非法移民滞留休达。",
@@ -107,7 +711,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -225,7 +829,7 @@
     "raw_data": {
       "code": "202608053831561078",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1785864559061078",
       "share": 0,
       "showTime": "2026-08-05 01:29:19",
@@ -241,7 +845,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -264,7 +868,7 @@
     "raw_data": {
       "code": "202608053831560964",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 13,
       "realSort": "1785864558060964",
       "share": 2,
       "showTime": "2026-08-05 01:29:18",
@@ -280,7 +884,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 13,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -303,7 +907,7 @@
     "raw_data": {
       "code": "202608053831560887",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1785864202060887",
       "share": 0,
       "showTime": "2026-08-05 01:23:22",
@@ -323,7 +927,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -354,9 +958,9 @@
     "raw_data": {
       "code": "202608053831557145",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1785864022057145",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-08-05 01:20:22",
       "stockList": [
         "90.BK0800",
@@ -376,8 +980,8 @@
       "150.159813"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 6,
+    "comment_count": 5,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -442,7 +1046,7 @@
     "raw_data": {
       "code": "202608053831559468",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1785862922059468",
       "share": 2,
       "showTime": "2026-08-05 01:02:02",
@@ -458,7 +1062,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 6,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -563,7 +1167,7 @@
     "raw_data": {
       "code": "202608053831558387",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1785862097058387",
       "share": 0,
       "showTime": "2026-08-05 00:48:17",
@@ -579,7 +1183,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -684,7 +1288,7 @@
     "raw_data": {
       "code": "202608053831556511",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1785861096056511",
       "share": 4,
       "showTime": "2026-08-05 00:31:36",
@@ -704,7 +1308,7 @@
       "105.SPCX"
     ],
     "has_stock_mention": true,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -735,7 +1339,7 @@
     "raw_data": {
       "code": "202608053831556074",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1785860461056074",
       "share": 3,
       "showTime": "2026-08-05 00:21:01",
@@ -751,7 +1355,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -933,7 +1537,7 @@
     "raw_data": {
       "code": "202608043831551195",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 18,
       "realSort": "1785858965051195",
       "share": 3,
       "showTime": "2026-08-04 23:56:05",
@@ -949,7 +1553,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 15,
+    "comment_count": 18,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1622,7 +2226,7 @@
     "raw_data": {
       "code": "202608043831547849",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1785857988047849",
       "share": 5,
       "showTime": "2026-08-04 23:39:48",
@@ -1638,7 +2242,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -1775,7 +2379,7 @@
     "raw_data": {
       "code": "202608043831546485",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1785857613046485",
       "share": 9,
       "showTime": "2026-08-04 23:33:33",
@@ -1797,7 +2401,7 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
+    "comment_count": 8,
     "share_count": 9,
     "tags": {
       "industries": [],
@@ -1852,560 +2456,6 @@
     "has_stock_mention": false,
     "comment_count": 0,
     "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5caee8edc0d2642e",
-    "code": "202608043831546247",
-    "title": "新版《蜘蛛侠》全球票房在六天内超过10亿美元",
-    "summary": "新版《蜘蛛侠》全球票房在六天内超过10亿美元。",
-    "content": "新版《蜘蛛侠》全球票房在六天内超过10亿美元。",
-    "full_content": "新版《蜘蛛侠》全球票房在六天内超过10亿美元。",
-    "sort_time": "1785857449046247",
-    "showTime": "2026-08-04 23:30:49",
-    "time": "2026-08-04 23:30:49",
-    "publish_time": "2026-08-04 23:30:49",
-    "raw_data": {
-      "code": "202608043831546247",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1785857449046247",
-      "share": 0,
-      "showTime": "2026-08-04 23:30:49",
-      "stockList": [
-        "90.BK0486"
-      ],
-      "summary": "新版《蜘蛛侠》全球票房在六天内超过10亿美元。",
-      "title": "新版《蜘蛛侠》全球票房在六天内超过10亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831546247.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0486"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0861b94013bd5e19",
-    "code": "202608043831544119",
-    "title": "美国纽约地铁列车起火致14人伤",
-    "summary": "【美国纽约地铁列车起火致14人伤】当地时间8月4日凌晨，美国纽约曼哈顿阿斯特广场地铁站一作业列车起火，造成8名纽约大都会运输署工作人员和6名消防员受伤。",
-    "content": "【美国纽约地铁列车起火致14人伤】当地时间8月4日凌晨，美国纽约曼哈顿阿斯特广场地铁站一作业列车起火，造成8名纽约大都会运输署工作人员和6名消防员受伤。",
-    "full_content": "【美国纽约地铁列车起火致14人伤】当地时间8月4日凌晨，美国纽约曼哈顿阿斯特广场地铁站一作业列车起火，造成8名纽约大都会运输署工作人员和6名消防员受伤。",
-    "sort_time": "1785857009044119",
-    "showTime": "2026-08-04 23:23:29",
-    "time": "2026-08-04 23:23:29",
-    "publish_time": "2026-08-04 23:23:29",
-    "raw_data": {
-      "code": "202608043831544119",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1785857009044119",
-      "share": 0,
-      "showTime": "2026-08-04 23:23:29",
-      "stockList": [],
-      "summary": "【美国纽约地铁列车起火致14人伤】当地时间8月4日凌晨，美国纽约曼哈顿阿斯特广场地铁站一作业列车起火，造成8名纽约大都会运输署工作人员和6名消防员受伤。",
-      "title": "美国纽约地铁列车起火致14人伤",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831544119.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "53da21a731eb2ff4",
-    "code": "202608043831543932",
-    "title": "雅本化学：拟向全资子公司ACL增资1300万欧元",
-    "summary": "【雅本化学：拟向全资子公司ACL增资1300万欧元】雅本化学(300261.SZ)公告称，公司拟向马耳他全资子公司AminoChemicalsLimited增资1300万欧元(或等值美元)，用于其产线改造、扩建及数字化管理系统建设，以提升海外产能和产品结构升级。",
-    "content": "【雅本化学：拟向全资子公司ACL增资1300万欧元】雅本化学(300261.SZ)公告称，公司拟向马耳他全资子公司AminoChemicalsLimited增资1300万欧元(或等值美元)，用于其产线改造、扩建及数字化管理系统建设，以提升海外产能和产品结构升级。",
-    "full_content": "【雅本化学：拟向全资子公司ACL增资1300万欧元】雅本化学(300261.SZ)公告称，公司拟向马耳他全资子公司AminoChemicalsLimited增资1300万欧元(或等值美元)，用于其产线改造、扩建及数字化管理系统建设，以提升海外产能和产品结构升级。",
-    "sort_time": "1785856752043932",
-    "showTime": "2026-08-04 23:19:12",
-    "time": "2026-08-04 23:19:12",
-    "publish_time": "2026-08-04 23:19:12",
-    "raw_data": {
-      "code": "202608043831543932",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1785856752043932",
-      "share": 2,
-      "showTime": "2026-08-04 23:19:12",
-      "stockList": [
-        "150.012322",
-        "0.300261"
-      ],
-      "summary": "【雅本化学：拟向全资子公司ACL增资1300万欧元】雅本化学(300261.SZ)公告称，公司拟向马耳他全资子公司AminoChemicalsLimited增资1300万欧元(或等值美元)，用于其产线改造、扩建及数字化管理系统建设，以提升海外产能和产品结构升级。",
-      "title": "雅本化学：拟向全资子公司ACL增资1300万欧元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831543932.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.012322",
-      "0.300261"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "edfcdc13daf7bbcf",
-    "code": "202608043831541998",
-    "title": "中孚实业：全资二级子公司拟收购再生铝项目资产并投资新建项目",
-    "summary": "【中孚实业：全资二级子公司拟收购再生铝项目资产并投资新建项目】中孚实业(600595.SH)公告称，公司全资二级子公司巩义汇丰拟以3320.57万元收购巩义新格年产20万吨再生铝水项目产能指标及部分资产，并在此基础上投资建设“项目资产升级改造项目”和“新建年产10万吨再生铝水项目”。",
-    "content": "【中孚实业：全资二级子公司拟收购再生铝项目资产并投资新建项目】中孚实业(600595.SH)公告称，公司全资二级子公司巩义汇丰拟以3320.57万元收购巩义新格年产20万吨再生铝水项目产能指标及部分资产，并在此基础上投资建设“项目资产升级改造项目”和“新建年产10万吨再生铝水项目”。",
-    "full_content": "【中孚实业：全资二级子公司拟收购再生铝项目资产并投资新建项目】中孚实业(600595.SH)公告称，公司全资二级子公司巩义汇丰拟以3320.57万元收购巩义新格年产20万吨再生铝水项目产能指标及部分资产，并在此基础上投资建设“项目资产升级改造项目”和“新建年产10万吨再生铝水项目”。",
-    "sort_time": "1785856437041998",
-    "showTime": "2026-08-04 23:13:57",
-    "time": "2026-08-04 23:13:57",
-    "publish_time": "2026-08-04 23:13:57",
-    "raw_data": {
-      "code": "202608043831541998",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1785856437041998",
-      "share": 3,
-      "showTime": "2026-08-04 23:13:57",
-      "stockList": [
-        "1.600595"
-      ],
-      "summary": "【中孚实业：全资二级子公司拟收购再生铝项目资产并投资新建项目】中孚实业(600595.SH)公告称，公司全资二级子公司巩义汇丰拟以3320.57万元收购巩义新格年产20万吨再生铝水项目产能指标及部分资产，并在此基础上投资建设“项目资产升级改造项目”和“新建年产10万吨再生铝水项目”。",
-      "title": "中孚实业：全资二级子公司拟收购再生铝项目资产并投资新建项目",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831541998.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.600595"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C501",
-          "name": "有色金属",
-          "matched_keyword": "铝"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "fc3e736be2fa1216",
-    "code": "202608043831541833",
-    "title": "凯龙高科：拟终止重大资产重组暨关联交易事项",
-    "summary": "【凯龙高科：拟终止重大资产重组暨关联交易事项】凯龙高科(300912.SZ)公告称，公司原拟发行股份及支付现金购买深圳市金旺达机电有限公司70%股权并募集配套资金。因中介机构未能于2026年8月3日前完成加期审计和补充尽职调查，导致公司无法在首次审议本次交易的董事会决议公告日后6个月内发出召开股东会的通知。经与交易各方协商，拟终止本次重大资产重组暨关联交易事项。",
-    "content": "【凯龙高科：拟终止重大资产重组暨关联交易事项】凯龙高科(300912.SZ)公告称，公司原拟发行股份及支付现金购买深圳市金旺达机电有限公司70%股权并募集配套资金。因中介机构未能于2026年8月3日前完成加期审计和补充尽职调查，导致公司无法在首次审议本次交易的董事会决议公告日后6个月内发出召开股东会的通知。经与交易各方协商，拟终止本次重大资产重组暨关联交易事项。",
-    "full_content": "【凯龙高科：拟终止重大资产重组暨关联交易事项】凯龙高科(300912.SZ)公告称，公司原拟发行股份及支付现金购买深圳市金旺达机电有限公司70%股权并募集配套资金。因中介机构未能于2026年8月3日前完成加期审计和补充尽职调查，导致公司无法在首次审议本次交易的董事会决议公告日后6个月内发出召开股东会的通知。经与交易各方协商，拟终止本次重大资产重组暨关联交易事项。",
-    "sort_time": "1785856344041833",
-    "showTime": "2026-08-04 23:12:24",
-    "time": "2026-08-04 23:12:24",
-    "publish_time": "2026-08-04 23:12:24",
-    "raw_data": {
-      "code": "202608043831541833",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1785856344041833",
-      "share": 4,
-      "showTime": "2026-08-04 23:12:24",
-      "stockList": [
-        "0.300912"
-      ],
-      "summary": "【凯龙高科：拟终止重大资产重组暨关联交易事项】凯龙高科(300912.SZ)公告称，公司原拟发行股份及支付现金购买深圳市金旺达机电有限公司70%股权并募集配套资金。因中介机构未能于2026年8月3日前完成加期审计和补充尽职调查，导致公司无法在首次审议本次交易的董事会决议公告日后6个月内发出召开股东会的通知。经与交易各方协商，拟终止本次重大资产重组暨关联交易事项。",
-      "title": "凯龙高科：拟终止重大资产重组暨关联交易事项",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831541833.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300912"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "89c88139466c3731",
-    "code": "202608043831540751",
-    "title": "英伟达表示 Alpamayo 2 Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用",
-    "summary": "英伟达表示，Alpamayo2Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
-    "content": "英伟达表示，Alpamayo2Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
-    "full_content": "英伟达表示，Alpamayo2Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
-    "sort_time": "1785856148040751",
-    "showTime": "2026-08-04 23:09:08",
-    "time": "2026-08-04 23:09:08",
-    "publish_time": "2026-08-04 23:09:08",
-    "raw_data": {
-      "code": "202608043831540751",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1785856148040751",
-      "share": 4,
-      "showTime": "2026-08-04 23:09:08",
-      "stockList": [
-        "90.BK1211",
-        "90.BK1161"
-      ],
-      "summary": "英伟达表示，Alpamayo2Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
-      "title": "英伟达表示 Alpamayo 2 Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831540751.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1211",
-      "90.BK1161"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 4,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6f5869ac947155c6",
-    "code": "202608043831540119",
-    "title": "厚普股份：2026年半年度净利润8305.16万元 同比扭亏为盈",
-    "summary": "【厚普股份：2026年半年度净利润8305.16万元 同比扭亏为盈】厚普股份(300471.SZ)公告称，公司发布2026年半年度报告，实现营业收入4.25亿元，同比增长8.36%；归属于上市公司股东的净利润8305.16万元，同比扭亏为盈。小财注：公司Q2净利润0.85亿，Q1净利润-0.02亿，据此计算，Q2净利润环比扭亏为盈。",
-    "content": "【厚普股份：2026年半年度净利润8305.16万元 同比扭亏为盈】厚普股份(300471.SZ)公告称，公司发布2026年半年度报告，实现营业收入4.25亿元，同比增长8.36%；归属于上市公司股东的净利润8305.16万元，同比扭亏为盈。小财注：公司Q2净利润0.85亿，Q1净利润-0.02亿，据此计算，Q2净利润环比扭亏为盈。",
-    "full_content": "【厚普股份：2026年半年度净利润8305.16万元 同比扭亏为盈】厚普股份(300471.SZ)公告称，公司发布2026年半年度报告，实现营业收入4.25亿元，同比增长8.36%；归属于上市公司股东的净利润8305.16万元，同比扭亏为盈。小财注：公司Q2净利润0.85亿，Q1净利润-0.02亿，据此计算，Q2净利润环比扭亏为盈。",
-    "sort_time": "1785855909040119",
-    "showTime": "2026-08-04 23:05:09",
-    "time": "2026-08-04 23:05:09",
-    "publish_time": "2026-08-04 23:05:09",
-    "raw_data": {
-      "code": "202608043831540119",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1785855909040119",
-      "share": 1,
-      "showTime": "2026-08-04 23:05:09",
-      "stockList": [
-        "0.300471"
-      ],
-      "summary": "【厚普股份：2026年半年度净利润8305.16万元 同比扭亏为盈】厚普股份(300471.SZ)公告称，公司发布2026年半年度报告，实现营业收入4.25亿元，同比增长8.36%；归属于上市公司股东的净利润8305.16万元，同比扭亏为盈。小财注：公司Q2净利润0.85亿，Q1净利润-0.02亿，据此计算，Q2净利润环比扭亏为盈。",
-      "title": "厚普股份：2026年半年度净利润8305.16万元 同比扭亏为盈",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831540119.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "0.300471"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c8c8d3a2545b426f",
-    "code": "202608043831536522",
-    "title": "乙二醇夜盘跌超5%",
-    "summary": "【乙二醇夜盘跌超5%】国内期货主力合约跌多涨少，乙二醇（EG）跌超5%，瓶片、丙烯跌超3%，液化石油气（LPG）、低硫燃料油（LU）跌近3%，纯苯、聚丙烯、燃料油跌超2%。涨幅方面，焦煤涨超1%。",
-    "content": "【乙二醇夜盘跌超5%】国内期货主力合约跌多涨少，乙二醇（EG）跌超5%，瓶片、丙烯跌超3%，液化石油气（LPG）、低硫燃料油（LU）跌近3%，纯苯、聚丙烯、燃料油跌超2%。涨幅方面，焦煤涨超1%。",
-    "full_content": "【乙二醇夜盘跌超5%】国内期货主力合约跌多涨少，乙二醇（EG）跌超5%，瓶片、丙烯跌超3%，液化石油气（LPG）、低硫燃料油（LU）跌近3%，纯苯、聚丙烯、燃料油跌超2%。涨幅方面，焦煤涨超1%。",
-    "sort_time": "1785855664036522",
-    "showTime": "2026-08-04 23:01:04",
-    "time": "2026-08-04 23:01:04",
-    "publish_time": "2026-08-04 23:01:04",
-    "raw_data": {
-      "code": "202608043831536522",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1785855664036522",
-      "share": 1,
-      "showTime": "2026-08-04 23:01:04",
-      "stockList": [],
-      "summary": "【乙二醇夜盘跌超5%】国内期货主力合约跌多涨少，乙二醇（EG）跌超5%，瓶片、丙烯跌超3%，液化石油气（LPG）、低硫燃料油（LU）跌近3%，纯苯、聚丙烯、燃料油跌超2%。涨幅方面，焦煤涨超1%。",
-      "title": "乙二醇夜盘跌超5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831536522.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C505",
-          "name": "煤炭",
-          "matched_keyword": "焦煤"
-        },
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "油气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C505",
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "50ec1b2d46e0a60e",
-    "code": "202608043831536678",
-    "title": "高通股价盘中涨超5%",
-    "summary": "高通股价盘中涨超5%，现报160.18美元。",
-    "content": "高通股价盘中涨超5%，现报160.18美元。",
-    "full_content": "高通股价盘中涨超5%，现报160.18美元。",
-    "sort_time": "1785855617036678",
-    "showTime": "2026-08-04 23:00:17",
-    "time": "2026-08-04 23:00:17",
-    "publish_time": "2026-08-04 23:00:17",
-    "raw_data": {
-      "code": "202608043831536678",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1785855617036678",
-      "share": 0,
-      "showTime": "2026-08-04 23:00:17",
-      "stockList": [
-        "105.QCOM"
-      ],
-      "summary": "高通股价盘中涨超5%，现报160.18美元。",
-      "title": "高通股价盘中涨超5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831536678.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.QCOM"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a7d9572b94764014",
-    "code": "202608043831521442",
-    "title": "8台核电新机组获核准 上海核电企业已承揽近500亿元订单",
-    "summary": "【8台核电新机组获核准 上海核电企业已承揽近500亿元订单】7月31日，国务院常务会议决定核准浙江金七门核电二期、广东太平岭核电三期、辽宁庄河核电一期、山东莱阳核电一期4个核电项目，共8台核电机组。这是“十五五”时期首批获准的核电项目，据澎湃新闻估算，上述新项目的总投资将超过1700亿元。",
-    "content": "【8台核电新机组获核准 上海核电企业已承揽近500亿元订单】7月31日，国务院常务会议决定核准浙江金七门核电二期、广东太平岭核电三期、辽宁庄河核电一期、山东莱阳核电一期4个核电项目，共8台核电机组。这是“十五五”时期首批获准的核电项目，据澎湃新闻估算，上述新项目的总投资将超过1700亿元。",
-    "full_content": "【8台核电新机组获核准 上海核电企业已承揽近500亿元订单】7月31日，国务院常务会议决定核准浙江金七门核电二期、广东太平岭核电三期、辽宁庄河核电一期、山东莱阳核电一期4个核电项目，共8台核电机组。这是“十五五”时期首批获准的核电项目，据澎湃新闻估算，上述新项目的总投资将超过1700亿元。",
-    "sort_time": "1785855387021442",
-    "showTime": "2026-08-04 22:56:27",
-    "time": "2026-08-04 22:56:27",
-    "publish_time": "2026-08-04 22:56:27",
-    "raw_data": {
-      "code": "202608043831521442",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1785855387021442",
-      "share": 15,
-      "showTime": "2026-08-04 22:56:27",
-      "stockList": [
-        "90.BK0428",
-        "90.BK0577"
-      ],
-      "summary": "【8台核电新机组获核准 上海核电企业已承揽近500亿元订单】7月31日，国务院常务会议决定核准浙江金七门核电二期、广东太平岭核电三期、辽宁庄河核电一期、山东莱阳核电一期4个核电项目，共8台核电机组。这是“十五五”时期首批获准的核电项目，据澎湃新闻估算，上述新项目的总投资将超过1700亿元。",
-      "title": "8台核电新机组获核准 上海核电企业已承揽近500亿元订单",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831521442.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0428",
-      "90.BK0577"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 15,
-    "share_count": 15,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C109",
-          "name": "核能",
-          "matched_keyword": "核电"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C109"
-      ]
-    }
-  },
-  {
-    "id": "633b334249bcb721",
-    "code": "202608043831533661",
-    "title": "钯金期货日内涨7%",
-    "summary": "8月4日，钯金期货日内涨7%，现报1345.84美元/盎司。",
-    "content": "8月4日，钯金期货日内涨7%，现报1345.84美元/盎司。",
-    "full_content": "8月4日，钯金期货日内涨7%，现报1345.84美元/盎司。",
-    "sort_time": "1785855328033661",
-    "showTime": "2026-08-04 22:55:28",
-    "time": "2026-08-04 22:55:28",
-    "publish_time": "2026-08-04 22:55:28",
-    "raw_data": {
-      "code": "202608043831533661",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1785855328033661",
-      "share": 2,
-      "showTime": "2026-08-04 22:55:28",
-      "stockList": [
-        "90.BK1361"
-      ],
-      "summary": "8月4日，钯金期货日内涨7%，现报1345.84美元/盎司。",
-      "title": "钯金期货日内涨7%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831533661.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1361"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "35388022f0d141f3",
-    "code": "202608043831533766",
-    "title": "应用光电股价盘中涨超17%",
-    "summary": "应用光电股价盘中涨超17%，现报128.68美元。",
-    "content": "应用光电股价盘中涨超17%，现报128.68美元。",
-    "full_content": "应用光电股价盘中涨超17%，现报128.68美元。",
-    "sort_time": "1785855219033766",
-    "showTime": "2026-08-04 22:53:39",
-    "time": "2026-08-04 22:53:39",
-    "publish_time": "2026-08-04 22:53:39",
-    "raw_data": {
-      "code": "202608043831533766",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1785855219033766",
-      "share": 6,
-      "showTime": "2026-08-04 22:53:39",
-      "stockList": [
-        "105.AAOI"
-      ],
-      "summary": "应用光电股价盘中涨超17%，现报128.68美元。",
-      "title": "应用光电股价盘中涨超17%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608043831533766.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.AAOI"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
