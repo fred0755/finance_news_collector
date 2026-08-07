@@ -1,32 +1,900 @@
 [
   {
-    "id": "7a69882458a2b5af",
-    "code": "202608073835450053",
-    "title": "费城半导体指数涨2%",
-    "summary": "费城半导体指数涨2%，报12307.47点。",
-    "content": "费城半导体指数涨2%，报12307.47点。",
-    "full_content": "费城半导体指数涨2%，报12307.47点。",
-    "sort_time": "1786109627050053",
-    "showTime": "2026-08-07 21:33:47",
-    "time": "2026-08-07 21:33:47",
-    "publish_time": "2026-08-07 21:33:47",
+    "id": "eff177ba9f076929",
+    "code": "202608073835535660",
+    "title": "巴西石油监管机构将推进天然气排放规则的制定工作",
+    "summary": "巴西石油监管机构将推进天然气排放规则的制定工作。巴西天然气释放草案豁免了巴西国家石油公司的自产产量。",
+    "content": "巴西石油监管机构将推进天然气排放规则的制定工作。巴西天然气释放草案豁免了巴西国家石油公司的自产产量。",
+    "full_content": "巴西石油监管机构将推进天然气排放规则的制定工作。巴西天然气释放草案豁免了巴西国家石油公司的自产产量。",
+    "sort_time": "1786112994035660",
+    "showTime": "2026-08-07 22:29:54",
+    "time": "2026-08-07 22:29:54",
+    "publish_time": "2026-08-07 22:29:54",
     "raw_data": {
-      "code": "202608073835450053",
+      "code": "202608073835535660",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1786109627050053",
+      "realSort": "1786112994035660",
       "share": 0,
-      "showTime": "2026-08-07 21:33:47",
+      "showTime": "2026-08-07 22:29:54",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "巴西石油监管机构将推进天然气排放规则的制定工作。巴西天然气释放草案豁免了巴西国家石油公司的自产产量。",
+      "title": "巴西石油监管机构将推进天然气排放规则的制定工作",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835535660.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        },
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506",
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "751a65fb14562ccb",
+    "code": "202608073835532116",
+    "title": "美联储官员巴尔金：如果面临逆风就必须收紧政策",
+    "summary": "美联储官员巴尔金在谈通货膨胀时表示，如果面临逆风，就必须收紧政策。",
+    "content": "美联储官员巴尔金在谈通货膨胀时表示，如果面临逆风，就必须收紧政策。",
+    "full_content": "美联储官员巴尔金在谈通货膨胀时表示，如果面临逆风，就必须收紧政策。",
+    "sort_time": "1786112770032116",
+    "showTime": "2026-08-07 22:26:10",
+    "time": "2026-08-07 22:26:10",
+    "publish_time": "2026-08-07 22:26:10",
+    "raw_data": {
+      "code": "202608073835532116",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1786112770032116",
+      "share": 0,
+      "showTime": "2026-08-07 22:26:10",
+      "stockList": [],
+      "summary": "美联储官员巴尔金在谈通货膨胀时表示，如果面临逆风，就必须收紧政策。",
+      "title": "美联储官员巴尔金：如果面临逆风就必须收紧政策",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835532116.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "35ae0d0bdfcd8070",
+    "code": "202608073835529679",
+    "title": "美国上诉法院否决了特朗普价值4亿美元的白宫宴会厅项目",
+    "summary": "美国上诉法院否决了特朗普价值4亿美元的白宫宴会厅项目。",
+    "content": "美国上诉法院否决了特朗普价值4亿美元的白宫宴会厅项目。",
+    "full_content": "美国上诉法院否决了特朗普价值4亿美元的白宫宴会厅项目。",
+    "sort_time": "1786112553029679",
+    "showTime": "2026-08-07 22:22:33",
+    "time": "2026-08-07 22:22:33",
+    "publish_time": "2026-08-07 22:22:33",
+    "raw_data": {
+      "code": "202608073835529679",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1786112553029679",
+      "share": 8,
+      "showTime": "2026-08-07 22:22:33",
+      "stockList": [],
+      "summary": "美国上诉法院否决了特朗普价值4亿美元的白宫宴会厅项目。",
+      "title": "美国上诉法院否决了特朗普价值4亿美元的白宫宴会厅项目",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835529679.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 10,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7da6ee314e8219ca",
+    "code": "202608073835527396",
+    "title": "SpaceX盘中涨幅扩大至8.3%",
+    "summary": "SpaceX盘中涨幅扩大至8.3%，报124.000美元/股，总市值报1.63万亿美元。",
+    "content": "SpaceX盘中涨幅扩大至8.3%，报124.000美元/股，总市值报1.63万亿美元。",
+    "full_content": "SpaceX盘中涨幅扩大至8.3%，报124.000美元/股，总市值报1.63万亿美元。",
+    "sort_time": "1786112190027396",
+    "showTime": "2026-08-07 22:16:30",
+    "time": "2026-08-07 22:16:30",
+    "publish_time": "2026-08-07 22:16:30",
+    "raw_data": {
+      "code": "202608073835527396",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1786112190027396",
+      "share": 1,
+      "showTime": "2026-08-07 22:16:30",
+      "stockList": [
+        "105.SPCX"
+      ],
+      "summary": "SpaceX盘中涨幅扩大至8.3%，报124.000美元/股，总市值报1.63万亿美元。",
+      "title": "SpaceX盘中涨幅扩大至8.3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835527396.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SPCX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "772c5075a3e4b410",
+    "code": "202608073835519840",
+    "title": "美股存储板块进一步扩大跌幅 SK海力士跌超6%",
+    "summary": "【美股存储板块进一步扩大跌幅 SK海力士跌超6%】美股存储板块进一步扩大跌幅，美光科技下跌3.57%，SK海力士下跌6.07%，闪迪下跌5.21%，西部数据下跌5.86%，希捷科技下跌10.01%。",
+    "content": "【美股存储板块进一步扩大跌幅 SK海力士跌超6%】美股存储板块进一步扩大跌幅，美光科技下跌3.57%，SK海力士下跌6.07%，闪迪下跌5.21%，西部数据下跌5.86%，希捷科技下跌10.01%。",
+    "full_content": "【美股存储板块进一步扩大跌幅 SK海力士跌超6%】美股存储板块进一步扩大跌幅，美光科技下跌3.57%，SK海力士下跌6.07%，闪迪下跌5.21%，西部数据下跌5.86%，希捷科技下跌10.01%。",
+    "sort_time": "1786112012019840",
+    "showTime": "2026-08-07 22:13:32",
+    "time": "2026-08-07 22:13:32",
+    "publish_time": "2026-08-07 22:13:32",
+    "raw_data": {
+      "code": "202608073835519840",
+      "image": [],
+      "pinglun_Num": 28,
+      "realSort": "1786112012019840",
+      "share": 24,
+      "showTime": "2026-08-07 22:13:32",
+      "stockList": [],
+      "summary": "【美股存储板块进一步扩大跌幅 SK海力士跌超6%】美股存储板块进一步扩大跌幅，美光科技下跌3.57%，SK海力士下跌6.07%，闪迪下跌5.21%，西部数据下跌5.86%，希捷科技下跌10.01%。",
+      "title": "美股存储板块进一步扩大跌幅 SK海力士跌超6%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835519840.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 28,
+    "share_count": 24,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "dc25f0a5f90b9925",
+    "code": "202608073835524683",
+    "title": "美联储官员巴尔金：美国就业市场处于“疲软平衡”状态",
+    "summary": "【美联储官员巴尔金：美国就业市场处于“疲软平衡”状态】美联储官员巴尔金表示，美国就业市场处于“疲软平衡”状态。当前处于就业零增长至小幅正增长的环境。",
+    "content": "【美联储官员巴尔金：美国就业市场处于“疲软平衡”状态】美联储官员巴尔金表示，美国就业市场处于“疲软平衡”状态。当前处于就业零增长至小幅正增长的环境。",
+    "full_content": "【美联储官员巴尔金：美国就业市场处于“疲软平衡”状态】美联储官员巴尔金表示，美国就业市场处于“疲软平衡”状态。当前处于就业零增长至小幅正增长的环境。",
+    "sort_time": "1786111870024683",
+    "showTime": "2026-08-07 22:11:10",
+    "time": "2026-08-07 22:11:10",
+    "publish_time": "2026-08-07 22:11:10",
+    "raw_data": {
+      "code": "202608073835524683",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786111870024683",
+      "share": 0,
+      "showTime": "2026-08-07 22:11:10",
+      "stockList": [],
+      "summary": "【美联储官员巴尔金：美国就业市场处于“疲软平衡”状态】美联储官员巴尔金表示，美国就业市场处于“疲软平衡”状态。当前处于就业零增长至小幅正增长的环境。",
+      "title": "美联储官员巴尔金：美国就业市场处于“疲软平衡”状态",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835524683.html",
+    "category": "国际",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5354be37c7a73220",
+    "code": "202608073835499434",
+    "title": "哈塞特：特朗普和沃什“时时刻刻”谈论经济问题",
+    "summary": "【哈塞特：特朗普和沃什“时时刻刻”谈论经济问题】美国白宫经济顾问哈塞特表示，特朗普和沃什“时时刻刻”谈论经济问题。",
+    "content": "【哈塞特：特朗普和沃什“时时刻刻”谈论经济问题】美国白宫经济顾问哈塞特表示，特朗普和沃什“时时刻刻”谈论经济问题。",
+    "full_content": "【哈塞特：特朗普和沃什“时时刻刻”谈论经济问题】美国白宫经济顾问哈塞特表示，特朗普和沃什“时时刻刻”谈论经济问题。",
+    "sort_time": "1786111718099434",
+    "showTime": "2026-08-07 22:08:38",
+    "time": "2026-08-07 22:08:38",
+    "publish_time": "2026-08-07 22:08:38",
+    "raw_data": {
+      "code": "202608073835499434",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786111718099434",
+      "share": 0,
+      "showTime": "2026-08-07 22:08:38",
+      "stockList": [],
+      "summary": "【哈塞特：特朗普和沃什“时时刻刻”谈论经济问题】美国白宫经济顾问哈塞特表示，特朗普和沃什“时时刻刻”谈论经济问题。",
+      "title": "哈塞特：特朗普和沃什“时时刻刻”谈论经济问题",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835499434.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0cfaa7a6339f8bea",
+    "code": "202608073835495266",
+    "title": "哈塞特表示美国就业市场目前每月需新增约4万个岗位即可保持平衡",
+    "summary": "美国白宫经济顾问哈塞特表示，美国就业市场目前每月需新增约4万个岗位即可保持平衡。",
+    "content": "美国白宫经济顾问哈塞特表示，美国就业市场目前每月需新增约4万个岗位即可保持平衡。",
+    "full_content": "美国白宫经济顾问哈塞特表示，美国就业市场目前每月需新增约4万个岗位即可保持平衡。",
+    "sort_time": "1786111610095266",
+    "showTime": "2026-08-07 22:06:50",
+    "time": "2026-08-07 22:06:50",
+    "publish_time": "2026-08-07 22:06:50",
+    "raw_data": {
+      "code": "202608073835495266",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1786111610095266",
+      "share": 0,
+      "showTime": "2026-08-07 22:06:50",
+      "stockList": [],
+      "summary": "美国白宫经济顾问哈塞特表示，美国就业市场目前每月需新增约4万个岗位即可保持平衡。",
+      "title": "哈塞特表示美国就业市场目前每月需新增约4万个岗位即可保持平衡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835495266.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "954cb5480f6be8d5",
+    "code": "202608073835494393",
+    "title": "SpaceX股价上涨5.15%",
+    "summary": "【SpaceX股价上涨5.15%】SpaceX股价上涨5.15%，报120.835美元/股，总市值报1.59万亿美元。",
+    "content": "【SpaceX股价上涨5.15%】SpaceX股价上涨5.15%，报120.835美元/股，总市值报1.59万亿美元。",
+    "full_content": "【SpaceX股价上涨5.15%】SpaceX股价上涨5.15%，报120.835美元/股，总市值报1.59万亿美元。",
+    "sort_time": "1786111279094393",
+    "showTime": "2026-08-07 22:01:19",
+    "time": "2026-08-07 22:01:19",
+    "publish_time": "2026-08-07 22:01:19",
+    "raw_data": {
+      "code": "202608073835494393",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1786111279094393",
+      "share": 2,
+      "showTime": "2026-08-07 22:01:19",
+      "stockList": [],
+      "summary": "【SpaceX股价上涨5.15%】SpaceX股价上涨5.15%，报120.835美元/股，总市值报1.59万亿美元。",
+      "title": "SpaceX股价上涨5.15%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835494393.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a366641a60a2871c",
+    "code": "202608073835493269",
+    "title": "美股存储板块进一步扩大跌幅 SK海力士下跌5%",
+    "summary": "【美股存储板块进一步扩大跌幅 SK海力士下跌5%】美股存储板块进一步扩大跌幅，美光科技下跌1.64%，SK海力士下跌5%，闪迪下跌2.71%，西部数据下跌4.01%，希捷科技下跌7.29%。",
+    "content": "【美股存储板块进一步扩大跌幅 SK海力士下跌5%】美股存储板块进一步扩大跌幅，美光科技下跌1.64%，SK海力士下跌5%，闪迪下跌2.71%，西部数据下跌4.01%，希捷科技下跌7.29%。",
+    "full_content": "【美股存储板块进一步扩大跌幅 SK海力士下跌5%】美股存储板块进一步扩大跌幅，美光科技下跌1.64%，SK海力士下跌5%，闪迪下跌2.71%，西部数据下跌4.01%，希捷科技下跌7.29%。",
+    "sort_time": "1786111176093269",
+    "showTime": "2026-08-07 21:59:36",
+    "time": "2026-08-07 21:59:36",
+    "publish_time": "2026-08-07 21:59:36",
+    "raw_data": {
+      "code": "202608073835493269",
+      "image": [],
+      "pinglun_Num": 27,
+      "realSort": "1786111176093269",
+      "share": 22,
+      "showTime": "2026-08-07 21:59:36",
+      "stockList": [],
+      "summary": "【美股存储板块进一步扩大跌幅 SK海力士下跌5%】美股存储板块进一步扩大跌幅，美光科技下跌1.64%，SK海力士下跌5%，闪迪下跌2.71%，西部数据下跌4.01%，希捷科技下跌7.29%。",
+      "title": "美股存储板块进一步扩大跌幅 SK海力士下跌5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835493269.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 27,
+    "share_count": 22,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "186af17bf71c0c3e",
+    "code": "202608073835492344",
+    "title": "美股存储板块走低 希捷科技跌超7%",
+    "summary": "美股存储板块走低，SK海力士、西部数据跌超4%，希捷科技跌超7%。",
+    "content": "美股存储板块走低，SK海力士、西部数据跌超4%，希捷科技跌超7%。",
+    "full_content": "美股存储板块走低，SK海力士、西部数据跌超4%，希捷科技跌超7%。",
+    "sort_time": "1786110994092344",
+    "showTime": "2026-08-07 21:56:34",
+    "time": "2026-08-07 21:56:34",
+    "publish_time": "2026-08-07 21:56:34",
+    "raw_data": {
+      "code": "202608073835492344",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1786110994092344",
+      "share": 10,
+      "showTime": "2026-08-07 21:56:34",
+      "stockList": [
+        "105.STX"
+      ],
+      "summary": "美股存储板块走低，SK海力士、西部数据跌超4%，希捷科技跌超7%。",
+      "title": "美股存储板块走低 希捷科技跌超7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835492344.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.STX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 10,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "23118e39c63542e4",
+    "code": "202608073835489736",
+    "title": "昆仑万维旗下天工短剧工作台接入Seedance 2.5",
+    "summary": "【昆仑万维旗下天工短剧工作台接入Seedance 2.5】8月7日，昆仑万维旗下SkyProduction天工短剧工作台正式接入Seedance 2.5，720P低至0.4元/秒，480P低至0.3元/秒。Seedance 2.5支持单段最长30秒视频直出，可使用50个参考素材，并支持10余种语言。",
+    "content": "【昆仑万维旗下天工短剧工作台接入Seedance 2.5】8月7日，昆仑万维旗下SkyProduction天工短剧工作台正式接入Seedance 2.5，720P低至0.4元/秒，480P低至0.3元/秒。Seedance 2.5支持单段最长30秒视频直出，可使用50个参考素材，并支持10余种语言。",
+    "full_content": "【昆仑万维旗下天工短剧工作台接入Seedance 2.5】8月7日，昆仑万维旗下SkyProduction天工短剧工作台正式接入Seedance 2.5，720P低至0.4元/秒，480P低至0.3元/秒。Seedance 2.5支持单段最长30秒视频直出，可使用50个参考素材，并支持10余种语言。",
+    "sort_time": "1786110762089736",
+    "showTime": "2026-08-07 21:52:42",
+    "time": "2026-08-07 21:52:42",
+    "publish_time": "2026-08-07 21:52:42",
+    "raw_data": {
+      "code": "202608073835489736",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1786110762089736",
+      "share": 11,
+      "showTime": "2026-08-07 21:52:42",
+      "stockList": [
+        "90.BK1151",
+        "0.300418"
+      ],
+      "summary": "【昆仑万维旗下天工短剧工作台接入Seedance 2.5】8月7日，昆仑万维旗下SkyProduction天工短剧工作台正式接入Seedance 2.5，720P低至0.4元/秒，480P低至0.3元/秒。Seedance 2.5支持单段最长30秒视频直出，可使用50个参考素材，并支持10余种语言。",
+      "title": "昆仑万维旗下天工短剧工作台接入Seedance 2.5",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835489736.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1151",
+      "0.300418"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 10,
+    "share_count": 11,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f4860c8dfa8cf0fa",
+    "code": "202608073835485398",
+    "title": "美股黄金矿业板块走高",
+    "summary": "【美股黄金矿业板块走高】美股黄金矿业板块走高，金田涨超10%，哈莫尼黄金涨超10%，科尔黛伦矿业涨超8%，纽曼矿业涨超6%，金罗斯黄金涨超6%。",
+    "content": "【美股黄金矿业板块走高】美股黄金矿业板块走高，金田涨超10%，哈莫尼黄金涨超10%，科尔黛伦矿业涨超8%，纽曼矿业涨超6%，金罗斯黄金涨超6%。",
+    "full_content": "【美股黄金矿业板块走高】美股黄金矿业板块走高，金田涨超10%，哈莫尼黄金涨超10%，科尔黛伦矿业涨超8%，纽曼矿业涨超6%，金罗斯黄金涨超6%。",
+    "sort_time": "1786110570085398",
+    "showTime": "2026-08-07 21:49:30",
+    "time": "2026-08-07 21:49:30",
+    "publish_time": "2026-08-07 21:49:30",
+    "raw_data": {
+      "code": "202608073835485398",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1786110570085398",
+      "share": 23,
+      "showTime": "2026-08-07 21:49:30",
+      "stockList": [],
+      "summary": "【美股黄金矿业板块走高】美股黄金矿业板块走高，金田涨超10%，哈莫尼黄金涨超10%，科尔黛伦矿业涨超8%，纽曼矿业涨超6%，金罗斯黄金涨超6%。",
+      "title": "美股黄金矿业板块走高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835485398.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 23,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "金矿"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "e1d0c8ffb246d08d",
+    "code": "202608073835480954",
+    "title": "哈塞特：剔除政府就业和世界杯因素后 美国就业人数增加10万",
+    "summary": "白宫经济顾问哈塞特表示，剔除政府就业和世界杯因素后，美国就业人数增加10万。",
+    "content": "白宫经济顾问哈塞特表示，剔除政府就业和世界杯因素后，美国就业人数增加10万。",
+    "full_content": "白宫经济顾问哈塞特表示，剔除政府就业和世界杯因素后，美国就业人数增加10万。",
+    "sort_time": "1786110428080954",
+    "showTime": "2026-08-07 21:47:08",
+    "time": "2026-08-07 21:47:08",
+    "publish_time": "2026-08-07 21:47:08",
+    "raw_data": {
+      "code": "202608073835480954",
+      "image": [],
+      "pinglun_Num": 14,
+      "realSort": "1786110428080954",
+      "share": 6,
+      "showTime": "2026-08-07 21:47:08",
+      "stockList": [],
+      "summary": "白宫经济顾问哈塞特表示，剔除政府就业和世界杯因素后，美国就业人数增加10万。",
+      "title": "哈塞特：剔除政府就业和世界杯因素后 美国就业人数增加10万",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835480954.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 14,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d3e6b0db5ee78cf7",
+    "code": "202608073835480690",
+    "title": "美股光通信板块高开高走 Coherent涨超14%",
+    "summary": "【美股光通信板块高开高走 Coherent涨超14%】美股光通信板块高开高走，Coherent涨超14%，Lumentum涨超10%，康宁涨超8%，迈威尔科技涨超5%。",
+    "content": "【美股光通信板块高开高走 Coherent涨超14%】美股光通信板块高开高走，Coherent涨超14%，Lumentum涨超10%，康宁涨超8%，迈威尔科技涨超5%。",
+    "full_content": "【美股光通信板块高开高走 Coherent涨超14%】美股光通信板块高开高走，Coherent涨超14%，Lumentum涨超10%，康宁涨超8%，迈威尔科技涨超5%。",
+    "sort_time": "1786110402080690",
+    "showTime": "2026-08-07 21:46:42",
+    "time": "2026-08-07 21:46:42",
+    "publish_time": "2026-08-07 21:46:42",
+    "raw_data": {
+      "code": "202608073835480690",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1786110402080690",
+      "share": 11,
+      "showTime": "2026-08-07 21:46:42",
+      "stockList": [
+        "90.BK0448",
+        "90.BK0736"
+      ],
+      "summary": "【美股光通信板块高开高走 Coherent涨超14%】美股光通信板块高开高走，Coherent涨超14%，Lumentum涨超10%，康宁涨超8%，迈威尔科技涨超5%。",
+      "title": "美股光通信板块高开高走 Coherent涨超14%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835480690.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0448",
+      "90.BK0736"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 13,
+    "share_count": 11,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "9fa1a220873d9951",
+    "code": "202608073835477446",
+    "title": "美股商业航天股盘初走高 SpaceX涨超4%",
+    "summary": "【美股商业航天股盘初走高 SpaceX涨超4%】美股商业航天股盘初走高，SpaceX涨超4%，Rocket Lab涨近6%。",
+    "content": "【美股商业航天股盘初走高 SpaceX涨超4%】美股商业航天股盘初走高，SpaceX涨超4%，Rocket Lab涨近6%。",
+    "full_content": "【美股商业航天股盘初走高 SpaceX涨超4%】美股商业航天股盘初走高，SpaceX涨超4%，Rocket Lab涨近6%。",
+    "sort_time": "1786110032077446",
+    "showTime": "2026-08-07 21:40:32",
+    "time": "2026-08-07 21:40:32",
+    "publish_time": "2026-08-07 21:40:32",
+    "raw_data": {
+      "code": "202608073835477446",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1786110032077446",
+      "share": 7,
+      "showTime": "2026-08-07 21:40:32",
+      "stockList": [
+        "90.BK0963",
+        "105.SPCX"
+      ],
+      "summary": "【美股商业航天股盘初走高 SpaceX涨超4%】美股商业航天股盘初走高，SpaceX涨超4%，Rocket Lab涨近6%。",
+      "title": "美股商业航天股盘初走高 SpaceX涨超4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835477446.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0963",
+      "105.SPCX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 7,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "航天"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C202"
+      ]
+    }
+  },
+  {
+    "id": "08a665a902d356d0",
+    "code": "202608073835470539",
+    "title": "美股存储板块快速下行 个股全线转跌",
+    "summary": "美股存储板块快速下行，个股全线转跌，SK海力士、希捷科技跌3%。",
+    "content": "美股存储板块快速下行，个股全线转跌，SK海力士、希捷科技跌3%。",
+    "full_content": "美股存储板块快速下行，个股全线转跌，SK海力士、希捷科技跌3%。",
+    "sort_time": "1786109991070539",
+    "showTime": "2026-08-07 21:39:51",
+    "time": "2026-08-07 21:39:51",
+    "publish_time": "2026-08-07 21:39:51",
+    "raw_data": {
+      "code": "202608073835470539",
+      "image": [],
+      "pinglun_Num": 14,
+      "realSort": "1786109991070539",
+      "share": 4,
+      "showTime": "2026-08-07 21:39:51",
+      "stockList": [
+        "105.SKHY",
+        "105.STX"
+      ],
+      "summary": "美股存储板块快速下行，个股全线转跌，SK海力士、希捷科技跌3%。",
+      "title": "美股存储板块快速下行 个股全线转跌",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835470539.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SKHY",
+      "105.STX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 14,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a7ff2d4fcf82a1ae",
+    "code": "202608073835451910",
+    "title": "美股走势分化 道琼斯指数跌0.12%",
+    "summary": "美股走势分化，道琼斯指数跌0.12%，纳斯达克综合指数涨幅扩大至1.05%。",
+    "content": "美股走势分化，道琼斯指数跌0.12%，纳斯达克综合指数涨幅扩大至1.05%。",
+    "full_content": "美股走势分化，道琼斯指数跌0.12%，纳斯达克综合指数涨幅扩大至1.05%。",
+    "sort_time": "1786109714051910",
+    "showTime": "2026-08-07 21:35:14",
+    "time": "2026-08-07 21:35:14",
+    "publish_time": "2026-08-07 21:35:14",
+    "raw_data": {
+      "code": "202608073835451910",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1786109714051910",
+      "share": 1,
+      "showTime": "2026-08-07 21:35:14",
+      "stockList": [],
+      "summary": "美股走势分化，道琼斯指数跌0.12%，纳斯达克综合指数涨幅扩大至1.05%。",
+      "title": "美股走势分化 道琼斯指数跌0.12%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835451910.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "eada0c0518a15dc3",
+    "code": "202608073835451898",
+    "title": "美股光通信板块高开 Coherent涨超11%",
+    "summary": "【美股光通信板块高开 Coherent涨超11%】美股光通信板块高开，Coherent涨超11%，Credo涨超7%，康宁、Lumentum涨超6%，迈威尔科技涨超4%。",
+    "content": "【美股光通信板块高开 Coherent涨超11%】美股光通信板块高开，Coherent涨超11%，Credo涨超7%，康宁、Lumentum涨超6%，迈威尔科技涨超4%。",
+    "full_content": "【美股光通信板块高开 Coherent涨超11%】美股光通信板块高开，Coherent涨超11%，Credo涨超7%，康宁、Lumentum涨超6%，迈威尔科技涨超4%。",
+    "sort_time": "1786109671051898",
+    "showTime": "2026-08-07 21:34:31",
+    "time": "2026-08-07 21:34:31",
+    "publish_time": "2026-08-07 21:34:31",
+    "raw_data": {
+      "code": "202608073835451898",
+      "image": [],
+      "pinglun_Num": 29,
+      "realSort": "1786109671051898",
+      "share": 23,
+      "showTime": "2026-08-07 21:34:31",
+      "stockList": [],
+      "summary": "【美股光通信板块高开 Coherent涨超11%】美股光通信板块高开，Coherent涨超11%，Credo涨超7%，康宁、Lumentum涨超6%，迈威尔科技涨超4%。",
+      "title": "美股光通信板块高开 Coherent涨超11%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835451898.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 29,
+    "share_count": 23,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "09d2ce11e8380f0b",
+    "code": "202608073835456995",
+    "title": "赫兹股价开盘升23%",
+    "summary": "赫兹股价开盘升23%，有望实现两日60%的涨幅。",
+    "content": "赫兹股价开盘升23%，有望实现两日60%的涨幅。",
+    "full_content": "赫兹股价开盘升23%，有望实现两日60%的涨幅。",
+    "sort_time": "1786109668056995",
+    "showTime": "2026-08-07 21:34:28",
+    "time": "2026-08-07 21:34:28",
+    "publish_time": "2026-08-07 21:34:28",
+    "raw_data": {
+      "code": "202608073835456995",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1786109668056995",
+      "share": 0,
+      "showTime": "2026-08-07 21:34:28",
+      "stockList": [
+        "105.HTZ"
+      ],
+      "summary": "赫兹股价开盘升23%，有望实现两日60%的涨幅。",
+      "title": "赫兹股价开盘升23%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835456995.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.HTZ"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "226cff65946c8749",
+    "code": "202608073835450836",
+    "title": "费城半导体指数涨幅扩大至3%",
+    "summary": "费城半导体指数涨幅扩大至3%，报12418.29点。",
+    "content": "费城半导体指数涨幅扩大至3%，报12418.29点。",
+    "full_content": "费城半导体指数涨幅扩大至3%，报12418.29点。",
+    "sort_time": "1786109650050836",
+    "showTime": "2026-08-07 21:34:10",
+    "time": "2026-08-07 21:34:10",
+    "publish_time": "2026-08-07 21:34:10",
+    "raw_data": {
+      "code": "202608073835450836",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1786109650050836",
+      "share": 7,
+      "showTime": "2026-08-07 21:34:10",
       "stockList": [
         "90.BK1036",
         "90.BK0459"
       ],
-      "summary": "费城半导体指数涨2%，报12307.47点。",
-      "title": "费城半导体指数涨2%",
+      "summary": "费城半导体指数涨幅扩大至3%，报12418.29点。",
+      "title": "费城半导体指数涨幅扩大至3%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835450053.html",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835450836.html",
     "category": "科技",
     "importance": 6,
     "sentiment": "neutral",
@@ -35,8 +903,8 @@
       "90.BK0459"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 7,
     "tags": {
       "industries": [
         {
@@ -63,6 +931,114 @@
     }
   },
   {
+    "id": "7a69882458a2b5af",
+    "code": "202608073835450053",
+    "title": "费城半导体指数涨2%",
+    "summary": "费城半导体指数涨2%，报12307.47点。",
+    "content": "费城半导体指数涨2%，报12307.47点。",
+    "full_content": "费城半导体指数涨2%，报12307.47点。",
+    "sort_time": "1786109627050053",
+    "showTime": "2026-08-07 21:33:47",
+    "time": "2026-08-07 21:33:47",
+    "publish_time": "2026-08-07 21:33:47",
+    "raw_data": {
+      "code": "202608073835450053",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786109627050053",
+      "share": 1,
+      "showTime": "2026-08-07 21:33:47",
+      "stockList": [
+        "90.BK1036",
+        "90.BK0459"
+      ],
+      "summary": "费城半导体指数涨2%，报12307.47点。",
+      "title": "费城半导体指数涨2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835450053.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1036",
+      "90.BK0459"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "efdaf6d5c2208acf",
+    "code": "202608073835455890",
+    "title": "网络安全公司Cloudflare股价开盘跳涨12%",
+    "summary": "网络安全公司Cloudflare股价开盘跳涨12%，创历史新高。",
+    "content": "网络安全公司Cloudflare股价开盘跳涨12%，创历史新高。",
+    "full_content": "网络安全公司Cloudflare股价开盘跳涨12%，创历史新高。",
+    "sort_time": "1786109579055890",
+    "showTime": "2026-08-07 21:32:59",
+    "time": "2026-08-07 21:32:59",
+    "publish_time": "2026-08-07 21:32:59",
+    "raw_data": {
+      "code": "202608073835455890",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1786109579055890",
+      "share": 3,
+      "showTime": "2026-08-07 21:32:59",
+      "stockList": [
+        "90.BK0655",
+        "106.NET"
+      ],
+      "summary": "网络安全公司Cloudflare股价开盘跳涨12%，创历史新高。",
+      "title": "网络安全公司Cloudflare股价开盘跳涨12%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835455890.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0655",
+      "106.NET"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 8,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "f4483c258cb89558",
     "code": "202608073835448793",
     "title": "中国工程机械工业协会：7月挖掘机销量19521台 同比增长13.9%",
@@ -76,9 +1052,9 @@
     "raw_data": {
       "code": "202608073835448793",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 6,
       "realSort": "1786109535048793",
-      "share": 0,
+      "share": 4,
       "showTime": "2026-08-07 21:32:15",
       "stockList": [
         "90.BK0545",
@@ -98,8 +1074,8 @@
       "90.BK0739"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 6,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -121,14 +1097,11 @@
     "raw_data": {
       "code": "202608073835448585",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 9,
       "realSort": "1786109462048585",
-      "share": 5,
+      "share": 16,
       "showTime": "2026-08-07 21:31:02",
-      "stockList": [
-        "90.BK0800",
-        "105.NVDA"
-      ],
+      "stockList": [],
       "summary": "【美股三大指数高开 AI硬件个股走强】美股三大指数高开，道琼斯指数涨0.14%，标普500指数涨0.34%，纳斯达克综合指数涨0.78%。AI硬件个股走强，英伟达股价上涨1.2%，台积电股价上涨1.41%，博通股价上涨2.06%，SK海力士股价下跌1.48%，美光科技股价上涨1.77%，超威半导体股价上涨0.92%，阿斯麦股价上涨2.9%，英特尔股价上涨3.33%，泛林集团股价上涨1.05%，ARM股价上涨3.54%。",
       "title": "美股三大指数高开 AI硬件个股走强",
       "titleColor": 3
@@ -136,15 +1109,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202608073835448585.html",
     "category": "科技",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "105.NVDA"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 5,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 9,
+    "share_count": 16,
     "tags": {
       "industries": [
         {
@@ -204,9 +1174,9 @@
     "raw_data": {
       "code": "202608073835446517",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786109424046517",
-      "share": 3,
+      "share": 12,
       "showTime": "2026-08-07 21:30:24",
       "stockList": [],
       "summary": "【上海：台风“白海豚”或将带来龙卷风等极端影响】上海市气象台介绍，台风“白海豚”强度强，环流尺度大，七级风圈半径超过400公里，北侧结构密实，云雨带发展旺盛，对上海市的影响呈现“风长雨强”的特点。",
@@ -220,8 +1190,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
+    "comment_count": 1,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -243,9 +1213,9 @@
     "raw_data": {
       "code": "202608073835446420",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1786109397046420",
-      "share": 1,
+      "share": 4,
       "showTime": "2026-08-07 21:29:57",
       "stockList": [],
       "summary": "白宫经济顾问哈塞特谈美国7月就业数据时表示，这缓解了美联储的加息压力。",
@@ -259,8 +1229,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -282,7 +1252,7 @@
     "raw_data": {
       "code": "202608073835449611",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 9,
       "realSort": "1786109340049611",
       "share": 0,
       "showTime": "2026-08-07 21:29:00",
@@ -304,7 +1274,7 @@
       "1007.BK000199"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 9,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -327,9 +1297,9 @@
     "raw_data": {
       "code": "202608073835446237",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 27,
       "realSort": "1786109286046237",
-      "share": 9,
+      "share": 32,
       "showTime": "2026-08-07 21:28:06",
       "stockList": [
         "90.BK0451",
@@ -349,8 +1319,8 @@
       "90.BK1202"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 9,
+    "comment_count": 27,
+    "share_count": 32,
     "tags": {
       "industries": [],
       "concepts": [
@@ -380,13 +1350,13 @@
     "raw_data": {
       "code": "202608073835439669",
       "image": [],
-      "pinglun_Num": 98,
+      "pinglun_Num": 294,
       "realSort": "1786109020039669",
-      "share": 495,
+      "share": 892,
       "showTime": "2026-08-07 21:23:40",
       "stockList": [
-        "90.BK0520",
-        "90.BK0150"
+        "1.512200",
+        "0.160628"
       ],
       "summary": "【北京：非京籍家庭购房社保个税缴纳年限下调为一年】北京市住房和城乡建设委员会、北京市规划和自然资源委员会、北京住房公积金管理中心7日晚联合印发《关于进一步优化调整本市房地产政策的通知》，明确非京籍家庭购买五环内商品住房的社保或个税缴纳年限由“2年”，调减为“1年”。调整后，非京籍家庭在全市范围内购买商品住房的社保或个税缴纳年限统一为“1年”，购买商品住房的套数保持不变。即：社保或个税缴纳满1年的非京籍家庭，在五环内可购买1套商品住房，多子女家庭可再多购买1套；在五环外，不限购买套数。",
       "title": "北京：非京籍家庭购房社保个税缴纳年限下调为一年",
@@ -398,12 +1368,12 @@
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK0520",
-      "90.BK0150"
+      "1.512200",
+      "0.160628"
     ],
     "has_stock_mention": true,
-    "comment_count": 98,
-    "share_count": 495,
+    "comment_count": 294,
+    "share_count": 892,
     "tags": {
       "industries": [],
       "concepts": [
@@ -433,9 +1403,9 @@
     "raw_data": {
       "code": "202608073835437855",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1786108712037855",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-07 21:18:32",
       "stockList": [
         "90.BK1616",
@@ -455,8 +1425,8 @@
       "150.011631"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 3,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -531,7 +1501,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786108551033022",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-07 21:15:51",
       "stockList": [],
       "summary": "【宏碁7月营收创下近13年来同期新高】8月7日，宏碁公布，2026年7月合并营收新台币269.04亿元，同比增长21.9%；今年前7月营收新台币1846.31亿元、同比增长23.1%，皆创下近13年来同期新高。",
@@ -546,7 +1516,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -568,7 +1538,7 @@
     "raw_data": {
       "code": "202608073835426436",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1786108033026436",
       "share": 0,
       "showTime": "2026-08-07 21:07:13",
@@ -590,7 +1560,7 @@
       "1.600663"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -615,7 +1585,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1786107962026689",
-      "share": 3,
+      "share": 5,
       "showTime": "2026-08-07 21:06:02",
       "stockList": [
         "0.000935"
@@ -634,7 +1604,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 3,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -699,9 +1669,9 @@
     "raw_data": {
       "code": "202608073835424845",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786107855024845",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-07 21:04:15",
       "stockList": [
         "90.BK0830"
@@ -719,8 +1689,8 @@
       "90.BK0830"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -752,7 +1722,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1786107830023272",
-      "share": 6,
+      "share": 9,
       "showTime": "2026-08-07 21:03:50",
       "stockList": [
         "150.012341"
@@ -771,7 +1741,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 6,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [
@@ -803,7 +1773,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1786107650021945",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-08-07 21:00:50",
       "stockList": [],
       "summary": "国内商品期货夜盘开盘，主力合约涨多跌少。涨幅方面，沪银涨超4%，沪金涨超2%，乙二醇、不锈钢涨超1%；跌幅方面，沪锌、原油、燃油、甲醇、沥青等小幅下跌。",
@@ -818,7 +1788,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -905,7 +1875,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786107252019612",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-07 20:54:12",
       "stockList": [
         "90.BK1480"
@@ -924,7 +1894,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -954,7 +1924,7 @@
     "raw_data": {
       "code": "202608073835418263",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 24,
       "realSort": "1786107236018263",
       "share": 44,
       "showTime": "2026-08-07 20:53:56",
@@ -970,7 +1940,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 22,
+    "comment_count": 24,
     "share_count": 44,
     "tags": {
       "industries": [],
@@ -993,9 +1963,9 @@
     "raw_data": {
       "code": "202608073835419489",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1786107165019489",
-      "share": 5,
+      "share": 12,
       "showTime": "2026-08-07 20:52:45",
       "stockList": [
         "0.300862"
@@ -1013,8 +1983,8 @@
       "0.300862"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 5,
+    "comment_count": 3,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1036,7 +2006,7 @@
     "raw_data": {
       "code": "202608073835416078",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 17,
       "realSort": "1786106962016078",
       "share": 26,
       "showTime": "2026-08-07 20:49:22",
@@ -1052,7 +2022,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 17,
     "share_count": 26,
     "tags": {
       "industries": [],
@@ -1075,9 +2045,9 @@
     "raw_data": {
       "code": "202608073835415869",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 22,
       "realSort": "1786106845015869",
-      "share": 26,
+      "share": 27,
       "showTime": "2026-08-07 20:47:25",
       "stockList": [],
       "summary": "【美股光通信板块盘前涨幅进一步扩大 Coherent涨超7%】美股光通信板块盘前涨幅进一步扩大，Coherent涨超7%，康宁、Lumentum涨超5%，迈威尔科技、Credo涨超4%。",
@@ -1091,8 +2061,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 26,
+    "comment_count": 22,
+    "share_count": 27,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1122,9 +2092,9 @@
     "raw_data": {
       "code": "202608073835412836",
       "image": [],
-      "pinglun_Num": 30,
+      "pinglun_Num": 42,
       "realSort": "1786106506012836",
-      "share": 514,
+      "share": 542,
       "showTime": "2026-08-07 20:41:46",
       "stockList": [
         "90.BK0732",
@@ -1144,8 +2114,8 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 30,
-    "share_count": 514,
+    "comment_count": 42,
+    "share_count": 542,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1253,9 +2223,9 @@
     "raw_data": {
       "code": "202608073835412986",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786106368012986",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-08-07 20:39:28",
       "stockList": [
         "90.BK1161",
@@ -1275,8 +2245,8 @@
       "0.002913"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 4,
+    "comment_count": 2,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1298,9 +2268,9 @@
     "raw_data": {
       "code": "202608073835412395",
       "image": [],
-      "pinglun_Num": 90,
+      "pinglun_Num": 128,
       "realSort": "1786106343012395",
-      "share": 181,
+      "share": 251,
       "showTime": "2026-08-07 20:39:03",
       "stockList": [
         "999.177788",
@@ -1320,8 +2290,8 @@
       "0.301308"
     ],
     "has_stock_mention": true,
-    "comment_count": 90,
-    "share_count": 181,
+    "comment_count": 128,
+    "share_count": 251,
     "tags": {
       "industries": [
         {
@@ -1336,972 +2306,6 @@
       "industry_ids": [
         "I020201"
       ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "bd0090dbaea5fa03",
-    "code": "202608073835408198",
-    "title": "美元指数跌0.45%",
-    "summary": "美元指数跌0.45%，报99.5点。",
-    "content": "美元指数跌0.45%，报99.5点。",
-    "full_content": "美元指数跌0.45%，报99.5点。",
-    "sort_time": "1786106330008198",
-    "showTime": "2026-08-07 20:38:50",
-    "time": "2026-08-07 20:38:50",
-    "publish_time": "2026-08-07 20:38:50",
-    "raw_data": {
-      "code": "202608073835408198",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786106330008198",
-      "share": 1,
-      "showTime": "2026-08-07 20:38:50",
-      "stockList": [],
-      "summary": "美元指数跌0.45%，报99.5点。",
-      "title": "美元指数跌0.45%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835408198.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a654750451fd9b6b",
-    "code": "202608073835406796",
-    "title": "美国7月就业数据疲软后美债价格飙升",
-    "summary": "美国7月就业数据疲软后，美债价格飙升。",
-    "content": "美国7月就业数据疲软后，美债价格飙升。",
-    "full_content": "美国7月就业数据疲软后，美债价格飙升。",
-    "sort_time": "1786106302006796",
-    "showTime": "2026-08-07 20:38:22",
-    "time": "2026-08-07 20:38:22",
-    "publish_time": "2026-08-07 20:38:22",
-    "raw_data": {
-      "code": "202608073835406796",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1786106302006796",
-      "share": 3,
-      "showTime": "2026-08-07 20:38:22",
-      "stockList": [],
-      "summary": "美国7月就业数据疲软后，美债价格飙升。",
-      "title": "美国7月就业数据疲软后美债价格飙升",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835406796.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a314c3b325f39a82",
-    "code": "202608073835406698",
-    "title": "美元兑日元失守157",
-    "summary": "美元兑日元失守157，日内跌超1%。",
-    "content": "美元兑日元失守157，日内跌超1%。",
-    "full_content": "美元兑日元失守157，日内跌超1%。",
-    "sort_time": "1786106160006698",
-    "showTime": "2026-08-07 20:36:00",
-    "time": "2026-08-07 20:36:00",
-    "publish_time": "2026-08-07 20:36:00",
-    "raw_data": {
-      "code": "202608073835406698",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786106160006698",
-      "share": 3,
-      "showTime": "2026-08-07 20:36:00",
-      "stockList": [],
-      "summary": "美元兑日元失守157，日内跌超1%。",
-      "title": "美元兑日元失守157",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835406698.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8f21040f68034570",
-    "code": "202608073835403521",
-    "title": "美国利率期货市场定价显示预计到12月加息幅度仅为28个基点",
-    "summary": "【美国利率期货市场定价显示预计到12月加息幅度仅为28个基点】美国利率期货市场定价显示，预计到12月加息幅度仅为28个基点，低于非农就业数据公布前的32个基点。",
-    "content": "【美国利率期货市场定价显示预计到12月加息幅度仅为28个基点】美国利率期货市场定价显示，预计到12月加息幅度仅为28个基点，低于非农就业数据公布前的32个基点。",
-    "full_content": "【美国利率期货市场定价显示预计到12月加息幅度仅为28个基点】美国利率期货市场定价显示，预计到12月加息幅度仅为28个基点，低于非农就业数据公布前的32个基点。",
-    "sort_time": "1786106085003521",
-    "showTime": "2026-08-07 20:34:45",
-    "time": "2026-08-07 20:34:45",
-    "publish_time": "2026-08-07 20:34:45",
-    "raw_data": {
-      "code": "202608073835403521",
-      "image": [],
-      "pinglun_Num": 21,
-      "realSort": "1786106085003521",
-      "share": 44,
-      "showTime": "2026-08-07 20:34:45",
-      "stockList": [],
-      "summary": "【美国利率期货市场定价显示预计到12月加息幅度仅为28个基点】美国利率期货市场定价显示，预计到12月加息幅度仅为28个基点，低于非农就业数据公布前的32个基点。",
-      "title": "美国利率期货市场定价显示预计到12月加息幅度仅为28个基点",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835403521.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 21,
-    "share_count": 44,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "df86d2283ccb83a3",
-    "code": "202608073835402245",
-    "title": "日本财务大臣：已与美国财长贝森特达成一致 认为外汇市场受到了非实际需求驱动的走势的影响",
-    "summary": "日本财务大臣片山皋月表示，已与美国财长贝森特达成一致，认为外汇市场受到了非实际需求驱动的走势的影响。",
-    "content": "日本财务大臣片山皋月表示，已与美国财长贝森特达成一致，认为外汇市场受到了非实际需求驱动的走势的影响。",
-    "full_content": "日本财务大臣片山皋月表示，已与美国财长贝森特达成一致，认为外汇市场受到了非实际需求驱动的走势的影响。",
-    "sort_time": "1786106063002245",
-    "showTime": "2026-08-07 20:34:23",
-    "time": "2026-08-07 20:34:23",
-    "publish_time": "2026-08-07 20:34:23",
-    "raw_data": {
-      "code": "202608073835402245",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786106063002245",
-      "share": 0,
-      "showTime": "2026-08-07 20:34:23",
-      "stockList": [],
-      "summary": "日本财务大臣片山皋月表示，已与美国财长贝森特达成一致，认为外汇市场受到了非实际需求驱动的走势的影响。",
-      "title": "日本财务大臣：已与美国财长贝森特达成一致 认为外汇市场受到了非实际需求驱动的走势的影响",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835402245.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "10bb3815093ea75d",
-    "code": "202608073835399525",
-    "title": "美国7月平均时薪同比增长3.2% 预期为增长3.5%",
-    "summary": "【美国7月平均时薪同比增长3.2% 预期为增长3.5%】美国7月平均时薪同比增长3.2%，预期为增长3.5%；环比增长0.1%，预期增长0.3%。",
-    "content": "【美国7月平均时薪同比增长3.2% 预期为增长3.5%】美国7月平均时薪同比增长3.2%，预期为增长3.5%；环比增长0.1%，预期增长0.3%。",
-    "full_content": "【美国7月平均时薪同比增长3.2% 预期为增长3.5%】美国7月平均时薪同比增长3.2%，预期为增长3.5%；环比增长0.1%，预期增长0.3%。",
-    "sort_time": "1786106031099525",
-    "showTime": "2026-08-07 20:33:51",
-    "time": "2026-08-07 20:33:51",
-    "publish_time": "2026-08-07 20:33:51",
-    "raw_data": {
-      "code": "202608073835399525",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1786106031099525",
-      "share": 0,
-      "showTime": "2026-08-07 20:33:51",
-      "stockList": [],
-      "summary": "【美国7月平均时薪同比增长3.2% 预期为增长3.5%】美国7月平均时薪同比增长3.2%，预期为增长3.5%；环比增长0.1%，预期增长0.3%。",
-      "title": "美国7月平均时薪同比增长3.2% 预期为增长3.5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835399525.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3b344857cdcd76a9",
-    "code": "202608073835398375",
-    "title": "欧洲斯托克600指数上涨0.76%",
-    "summary": "欧洲斯托克600指数在美国非农就业数据公布后延续涨势，最新上涨0.76%。",
-    "content": "欧洲斯托克600指数在美国非农就业数据公布后延续涨势，最新上涨0.76%。",
-    "full_content": "欧洲斯托克600指数在美国非农就业数据公布后延续涨势，最新上涨0.76%。",
-    "sort_time": "1786106013098375",
-    "showTime": "2026-08-07 20:33:33",
-    "time": "2026-08-07 20:33:33",
-    "publish_time": "2026-08-07 20:33:33",
-    "raw_data": {
-      "code": "202608073835398375",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786106013098375",
-      "share": 2,
-      "showTime": "2026-08-07 20:33:33",
-      "stockList": [],
-      "summary": "欧洲斯托克600指数在美国非农就业数据公布后延续涨势，最新上涨0.76%。",
-      "title": "欧洲斯托克600指数上涨0.76%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835398375.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "226fd95a5e6eb80e",
-    "code": "202608073835397133",
-    "title": "美国5月和6月非农就业新增人数合计下修10.3万人",
-    "summary": "【美国5月和6月非农就业新增人数合计下修10.3万人】美国劳工统计局数据显示，5月份非农新增就业人数从12.9万人下修至6.3万人；6月份非农新增就业人数从5.7万人下修至2万人。修正后，5月和6月新增就业人数合计较修正前低10.3万人。",
-    "content": "【美国5月和6月非农就业新增人数合计下修10.3万人】美国劳工统计局数据显示，5月份非农新增就业人数从12.9万人下修至6.3万人；6月份非农新增就业人数从5.7万人下修至2万人。修正后，5月和6月新增就业人数合计较修正前低10.3万人。",
-    "full_content": "【美国5月和6月非农就业新增人数合计下修10.3万人】美国劳工统计局数据显示，5月份非农新增就业人数从12.9万人下修至6.3万人；6月份非农新增就业人数从5.7万人下修至2万人。修正后，5月和6月新增就业人数合计较修正前低10.3万人。",
-    "sort_time": "1786106006097133",
-    "showTime": "2026-08-07 20:33:26",
-    "time": "2026-08-07 20:33:26",
-    "publish_time": "2026-08-07 20:33:26",
-    "raw_data": {
-      "code": "202608073835397133",
-      "image": [],
-      "pinglun_Num": 80,
-      "realSort": "1786106006097133",
-      "share": 144,
-      "showTime": "2026-08-07 20:33:26",
-      "stockList": [],
-      "summary": "【美国5月和6月非农就业新增人数合计下修10.3万人】美国劳工统计局数据显示，5月份非农新增就业人数从12.9万人下修至6.3万人；6月份非农新增就业人数从5.7万人下修至2万人。修正后，5月和6月新增就业人数合计较修正前低10.3万人。",
-      "title": "美国5月和6月非农就业新增人数合计下修10.3万人",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835397133.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 80,
-    "share_count": 144,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3fad4f7118cb7a1f",
-    "code": "202608073835395845",
-    "title": "美国利率期货市场对美联储9月加息的预期概率有所下降",
-    "summary": "【美国利率期货市场对美联储9月加息的预期概率有所下降】美国利率期货市场对美联储9月加息的预期概率有所下降。",
-    "content": "【美国利率期货市场对美联储9月加息的预期概率有所下降】美国利率期货市场对美联储9月加息的预期概率有所下降。",
-    "full_content": "【美国利率期货市场对美联储9月加息的预期概率有所下降】美国利率期货市场对美联储9月加息的预期概率有所下降。",
-    "sort_time": "1786105952095845",
-    "showTime": "2026-08-07 20:32:32",
-    "time": "2026-08-07 20:32:32",
-    "publish_time": "2026-08-07 20:32:32",
-    "raw_data": {
-      "code": "202608073835395845",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1786105952095845",
-      "share": 50,
-      "showTime": "2026-08-07 20:32:32",
-      "stockList": [],
-      "summary": "【美国利率期货市场对美联储9月加息的预期概率有所下降】美国利率期货市场对美联储9月加息的预期概率有所下降。",
-      "title": "美国利率期货市场对美联储9月加息的预期概率有所下降",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835395845.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 50,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a1096b4f0c56f12c",
-    "code": "202608073835394762",
-    "title": "美元指数短线走低近30点 报99.67",
-    "summary": "非农数据公布后，美元指数短线走低近30点，报99.67。",
-    "content": "非农数据公布后，美元指数短线走低近30点，报99.67。",
-    "full_content": "非农数据公布后，美元指数短线走低近30点，报99.67。",
-    "sort_time": "1786105927094762",
-    "showTime": "2026-08-07 20:32:07",
-    "time": "2026-08-07 20:32:07",
-    "publish_time": "2026-08-07 20:32:07",
-    "raw_data": {
-      "code": "202608073835394762",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786105927094762",
-      "share": 2,
-      "showTime": "2026-08-07 20:32:07",
-      "stockList": [],
-      "summary": "非农数据公布后，美元指数短线走低近30点，报99.67。",
-      "title": "美元指数短线走低近30点 报99.67",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835394762.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a85d557781d42393",
-    "code": "202608073835400654",
-    "title": "中巨芯：2026年半年度净利润同比增长72.75%",
-    "summary": "【中巨芯：2026年半年度净利润同比增长72.75%】中巨芯(688549.SH)发布2026年半年度报告，实现营业收入7.99亿元，同比增长40.98%；归属于上市公司股东的净利润1405.77万元，同比增长72.75%。",
-    "content": "【中巨芯：2026年半年度净利润同比增长72.75%】中巨芯(688549.SH)发布2026年半年度报告，实现营业收入7.99亿元，同比增长40.98%；归属于上市公司股东的净利润1405.77万元，同比增长72.75%。",
-    "full_content": "【中巨芯：2026年半年度净利润同比增长72.75%】中巨芯(688549.SH)发布2026年半年度报告，实现营业收入7.99亿元，同比增长40.98%；归属于上市公司股东的净利润1405.77万元，同比增长72.75%。",
-    "sort_time": "1786105908000654",
-    "showTime": "2026-08-07 20:31:48",
-    "time": "2026-08-07 20:31:48",
-    "publish_time": "2026-08-07 20:31:48",
-    "raw_data": {
-      "code": "202608073835400654",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1786105908000654",
-      "share": 5,
-      "showTime": "2026-08-07 20:31:48",
-      "stockList": [
-        "1.688549"
-      ],
-      "summary": "【中巨芯：2026年半年度净利润同比增长72.75%】中巨芯(688549.SH)发布2026年半年度报告，实现营业收入7.99亿元，同比增长40.98%；归属于上市公司股东的净利润1405.77万元，同比增长72.75%。",
-      "title": "中巨芯：2026年半年度净利润同比增长72.75%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835400654.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "1.688549"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "2fb45d41ef1e128e",
-    "code": "202608073835393635",
-    "title": "国际贵金属短线拉升 现货黄金价格涨2.48%",
-    "summary": "【国际贵金属短线拉升 现货黄金价格涨2.48%】国际贵金属短线拉升，现货黄金价格涨2.48%，报4345.82美元/盎司；现货白银价格涨5.22%，报64.72美元/盎司。",
-    "content": "【国际贵金属短线拉升 现货黄金价格涨2.48%】国际贵金属短线拉升，现货黄金价格涨2.48%，报4345.82美元/盎司；现货白银价格涨5.22%，报64.72美元/盎司。",
-    "full_content": "【国际贵金属短线拉升 现货黄金价格涨2.48%】国际贵金属短线拉升，现货黄金价格涨2.48%，报4345.82美元/盎司；现货白银价格涨5.22%，报64.72美元/盎司。",
-    "sort_time": "1786105865093635",
-    "showTime": "2026-08-07 20:31:05",
-    "time": "2026-08-07 20:31:05",
-    "publish_time": "2026-08-07 20:31:05",
-    "raw_data": {
-      "code": "202608073835393635",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1786105865093635",
-      "share": 15,
-      "showTime": "2026-08-07 20:31:05",
-      "stockList": [
-        "90.BK0732",
-        "90.BK1617"
-      ],
-      "summary": "【国际贵金属短线拉升 现货黄金价格涨2.48%】国际贵金属短线拉升，现货黄金价格涨2.48%，报4345.82美元/盎司；现货白银价格涨5.22%，报64.72美元/盎司。",
-      "title": "国际贵金属短线拉升 现货黄金价格涨2.48%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835393635.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0732",
-      "90.BK1617"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 15,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "贵金属"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "a067a053af787876",
-    "code": "202608073835393578",
-    "title": "美股期指短线走高 纳斯达克100指数期货涨0.80%",
-    "summary": "【美股期指短线走高 纳斯达克100指数期货涨0.80%】美股期指短线走高，道琼斯指数期货涨0.24%，标普500指数期货涨0.40%，纳斯达克100指数期货涨0.80%。",
-    "content": "【美股期指短线走高 纳斯达克100指数期货涨0.80%】美股期指短线走高，道琼斯指数期货涨0.24%，标普500指数期货涨0.40%，纳斯达克100指数期货涨0.80%。",
-    "full_content": "【美股期指短线走高 纳斯达克100指数期货涨0.80%】美股期指短线走高，道琼斯指数期货涨0.24%，标普500指数期货涨0.40%，纳斯达克100指数期货涨0.80%。",
-    "sort_time": "1786105849093578",
-    "showTime": "2026-08-07 20:30:49",
-    "time": "2026-08-07 20:30:49",
-    "publish_time": "2026-08-07 20:30:49",
-    "raw_data": {
-      "code": "202608073835393578",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786105849093578",
-      "share": 4,
-      "showTime": "2026-08-07 20:30:49",
-      "stockList": [],
-      "summary": "【美股期指短线走高 纳斯达克100指数期货涨0.80%】美股期指短线走高，道琼斯指数期货涨0.24%，标普500指数期货涨0.40%，纳斯达克100指数期货涨0.80%。",
-      "title": "美股期指短线走高 纳斯达克100指数期货涨0.80%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835393578.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "22a9bc4f574baaf0",
-    "code": "202608073835393287",
-    "title": "美国7月失业率报4.1% 市场预估为4.2%",
-    "summary": "美国7月失业率报4.1%，市场预估为4.2%，前值为4.2%。",
-    "content": "美国7月失业率报4.1%，市场预估为4.2%，前值为4.2%。",
-    "full_content": "美国7月失业率报4.1%，市场预估为4.2%，前值为4.2%。",
-    "sort_time": "1786105817093287",
-    "showTime": "2026-08-07 20:30:17",
-    "time": "2026-08-07 20:30:17",
-    "publish_time": "2026-08-07 20:30:17",
-    "raw_data": {
-      "code": "202608073835393287",
-      "image": [],
-      "pinglun_Num": 30,
-      "realSort": "1786105817093287",
-      "share": 30,
-      "showTime": "2026-08-07 20:30:17",
-      "stockList": [],
-      "summary": "美国7月失业率报4.1%，市场预估为4.2%，前值为4.2%。",
-      "title": "美国7月失业率报4.1% 市场预估为4.2%",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835393287.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 30,
-    "share_count": 30,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "96458d3c00276b30",
-    "code": "202608073835393180",
-    "title": "美国7月非农就业人数减少2.3万人 不及市场预期",
-    "summary": "【美国7月非农就业人数减少2.3万人 不及市场预期】美国7月非农就业人数减少2.3万人，市场预估为增加8万人，前值为增加5.7万人。",
-    "content": "【美国7月非农就业人数减少2.3万人 不及市场预期】美国7月非农就业人数减少2.3万人，市场预估为增加8万人，前值为增加5.7万人。",
-    "full_content": "【美国7月非农就业人数减少2.3万人 不及市场预期】美国7月非农就业人数减少2.3万人，市场预估为增加8万人，前值为增加5.7万人。",
-    "sort_time": "1786105809093180",
-    "showTime": "2026-08-07 20:30:09",
-    "time": "2026-08-07 20:30:09",
-    "publish_time": "2026-08-07 20:30:09",
-    "raw_data": {
-      "code": "202608073835393180",
-      "image": [],
-      "pinglun_Num": 650,
-      "realSort": "1786105809093180",
-      "share": 2336,
-      "showTime": "2026-08-07 20:30:09",
-      "stockList": [],
-      "summary": "【美国7月非农就业人数减少2.3万人 不及市场预期】美国7月非农就业人数减少2.3万人，市场预估为增加8万人，前值为增加5.7万人。",
-      "title": "美国7月非农就业人数减少2.3万人 不及市场预期",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835393180.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 650,
-    "share_count": 2336,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d1a881054b526016",
-    "code": "202608073835392780",
-    "title": "*ST瑞和：公司尚未收到任何公安机关出具的立案告知书、立案通知书等相关书面法律文书",
-    "summary": "【*ST瑞和：公司尚未收到任何公安机关出具的立案告知书、立案通知书等相关书面法律文书】*ST瑞和(002620.SZ)公告称，公司关注到媒体及网络平台出现涉及用工单位欠付劳动报酬并被移送公安机关立案的舆情。经自查，经公司主要负责人与相关部门口头沟通了解，深圳市光明区人力资源局已将相关拖欠劳动者劳动报酬案件移送公安机关，公安机关正在立案侦查。",
-    "content": "【*ST瑞和：公司尚未收到任何公安机关出具的立案告知书、立案通知书等相关书面法律文书】*ST瑞和(002620.SZ)公告称，公司关注到媒体及网络平台出现涉及用工单位欠付劳动报酬并被移送公安机关立案的舆情。经自查，经公司主要负责人与相关部门口头沟通了解，深圳市光明区人力资源局已将相关拖欠劳动者劳动报酬案件移送公安机关，公安机关正在立案侦查。",
-    "full_content": "【*ST瑞和：公司尚未收到任何公安机关出具的立案告知书、立案通知书等相关书面法律文书】*ST瑞和(002620.SZ)公告称，公司关注到媒体及网络平台出现涉及用工单位欠付劳动报酬并被移送公安机关立案的舆情。经自查，经公司主要负责人与相关部门口头沟通了解，深圳市光明区人力资源局已将相关拖欠劳动者劳动报酬案件移送公安机关，公安机关正在立案侦查。",
-    "sort_time": "1786105747092780",
-    "showTime": "2026-08-07 20:29:07",
-    "time": "2026-08-07 20:29:07",
-    "publish_time": "2026-08-07 20:29:07",
-    "raw_data": {
-      "code": "202608073835392780",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1786105747092780",
-      "share": 0,
-      "showTime": "2026-08-07 20:29:07",
-      "stockList": [
-        "0.002620"
-      ],
-      "summary": "【*ST瑞和：公司尚未收到任何公安机关出具的立案告知书、立案通知书等相关书面法律文书】*ST瑞和(002620.SZ)公告称，公司关注到媒体及网络平台出现涉及用工单位欠付劳动报酬并被移送公安机关立案的舆情。经自查，经公司主要负责人与相关部门口头沟通了解，深圳市光明区人力资源局已将相关拖欠劳动者劳动报酬案件移送公安机关，公安机关正在立案侦查。",
-      "title": "*ST瑞和：公司尚未收到任何公安机关出具的立案告知书、立案通知书等相关书面法律文书",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835392780.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.002620"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "*ST"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C814"
-      ]
-    }
-  },
-  {
-    "id": "82e0d72e3bbe6dbf",
-    "code": "202608073835392644",
-    "title": "大众汽车计划调整其在美国的皮卡车战略",
-    "summary": "大众汽车计划调整其在美国的皮卡车战略。",
-    "content": "大众汽车计划调整其在美国的皮卡车战略。",
-    "full_content": "大众汽车计划调整其在美国的皮卡车战略。",
-    "sort_time": "1786105567092644",
-    "showTime": "2026-08-07 20:26:07",
-    "time": "2026-08-07 20:26:07",
-    "publish_time": "2026-08-07 20:26:07",
-    "raw_data": {
-      "code": "202608073835392644",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786105567092644",
-      "share": 0,
-      "showTime": "2026-08-07 20:26:07",
-      "stockList": [
-        "90.BK1211"
-      ],
-      "summary": "大众汽车计划调整其在美国的皮卡车战略。",
-      "title": "大众汽车计划调整其在美国的皮卡车战略",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835392644.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1211"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f608c4836037bfb7",
-    "code": "202608073835391644",
-    "title": "原则同意！东方证券合并上海证券事项获上海市国资委批复",
-    "summary": "【原则同意！东方证券合并上海证券事项获上海市国资委批复】8月7日盘后，东方证券发布公告称，公司拟通过发行A股股份及支付现金的方式购买上海证券有限责任公司100%股权事项获得上海市国有资产监督管理委员会批复，原则同意本次交易方案。",
-    "content": "【原则同意！东方证券合并上海证券事项获上海市国资委批复】8月7日盘后，东方证券发布公告称，公司拟通过发行A股股份及支付现金的方式购买上海证券有限责任公司100%股权事项获得上海市国有资产监督管理委员会批复，原则同意本次交易方案。",
-    "full_content": "【原则同意！东方证券合并上海证券事项获上海市国资委批复】8月7日盘后，东方证券发布公告称，公司拟通过发行A股股份及支付现金的方式购买上海证券有限责任公司100%股权事项获得上海市国有资产监督管理委员会批复，原则同意本次交易方案。",
-    "sort_time": "1786105399091644",
-    "showTime": "2026-08-07 20:23:19",
-    "time": "2026-08-07 20:23:19",
-    "publish_time": "2026-08-07 20:23:19",
-    "raw_data": {
-      "code": "202608073835391644",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1786105399091644",
-      "share": 5,
-      "showTime": "2026-08-07 20:23:19",
-      "stockList": [
-        "1.600958",
-        "116.03958"
-      ],
-      "summary": "【原则同意！东方证券合并上海证券事项获上海市国资委批复】8月7日盘后，东方证券发布公告称，公司拟通过发行A股股份及支付现金的方式购买上海证券有限责任公司100%股权事项获得上海市国有资产监督管理委员会批复，原则同意本次交易方案。",
-      "title": "原则同意！东方证券合并上海证券事项获上海市国资委批复",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835391644.html",
-    "category": "股市",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.600958",
-      "116.03958"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 5,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        },
-        {
-          "id": "C701",
-          "name": "国企改革",
-          "matched_keyword": "国资"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401",
-        "C701"
-      ]
-    }
-  },
-  {
-    "id": "2d4d99c300038332",
-    "code": "202608073835388828",
-    "title": "8月7日全国用电负荷四创新高 国家能源局全力保障迎峰度夏民生用电",
-    "summary": "【8月7日全国用电负荷四创新高 国家能源局全力保障迎峰度夏民生用电】8月7日，全国用电负荷入夏以来第四次创历史新高，达到15.57亿千瓦，较上一次创新高数值上涨约480万千瓦。7月29日以来，全国用电负荷持续高位运行，日最大负荷（除周末假期外）均超过去年极值15.08亿千瓦，尖峰负荷呈现明显“平台化”特征。今年以来，全国用电需求保持旺盛增长态势。华北、东北、华东等6个区域电网21次创历史新高，北京、辽宁、江苏、江西、四川、甘肃等25个省（自治区、直辖市）用电负荷累计78次创新高。",
-    "content": "【8月7日全国用电负荷四创新高 国家能源局全力保障迎峰度夏民生用电】8月7日，全国用电负荷入夏以来第四次创历史新高，达到15.57亿千瓦，较上一次创新高数值上涨约480万千瓦。7月29日以来，全国用电负荷持续高位运行，日最大负荷（除周末假期外）均超过去年极值15.08亿千瓦，尖峰负荷呈现明显“平台化”特征。今年以来，全国用电需求保持旺盛增长态势。华北、东北、华东等6个区域电网21次创历史新高，北京、辽宁、江苏、江西、四川、甘肃等25个省（自治区、直辖市）用电负荷累计78次创新高。",
-    "full_content": "【8月7日全国用电负荷四创新高 国家能源局全力保障迎峰度夏民生用电】8月7日，全国用电负荷入夏以来第四次创历史新高，达到15.57亿千瓦，较上一次创新高数值上涨约480万千瓦。7月29日以来，全国用电负荷持续高位运行，日最大负荷（除周末假期外）均超过去年极值15.08亿千瓦，尖峰负荷呈现明显“平台化”特征。今年以来，全国用电需求保持旺盛增长态势。华北、东北、华东等6个区域电网21次创历史新高，北京、辽宁、江苏、江西、四川、甘肃等25个省（自治区、直辖市）用电负荷累计78次创新高。",
-    "sort_time": "1786105015088828",
-    "showTime": "2026-08-07 20:16:55",
-    "time": "2026-08-07 20:16:55",
-    "publish_time": "2026-08-07 20:16:55",
-    "raw_data": {
-      "code": "202608073835388828",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1786105015088828",
-      "share": 8,
-      "showTime": "2026-08-07 20:16:55",
-      "stockList": [
-        "90.BK0428"
-      ],
-      "summary": "【8月7日全国用电负荷四创新高 国家能源局全力保障迎峰度夏民生用电】8月7日，全国用电负荷入夏以来第四次创历史新高，达到15.57亿千瓦，较上一次创新高数值上涨约480万千瓦。7月29日以来，全国用电负荷持续高位运行，日最大负荷（除周末假期外）均超过去年极值15.08亿千瓦，尖峰负荷呈现明显“平台化”特征。今年以来，全国用电需求保持旺盛增长态势。华北、东北、华东等6个区域电网21次创历史新高，北京、辽宁、江苏、江西、四川、甘肃等25个省（自治区、直辖市）用电负荷累计78次创新高。",
-      "title": "8月7日全国用电负荷四创新高 国家能源局全力保障迎峰度夏民生用电",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835388828.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0428"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 8,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010203",
-          "name": "输配电设备",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "电网"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C108",
-          "name": "特高压",
-          "matched_keyword": "电网"
-        }
-      ],
-      "industry_ids": [
-        "I010203"
-      ],
-      "concept_ids": [
-        "C108"
-      ]
-    }
-  },
-  {
-    "id": "92961d9fb9042525",
-    "code": "202608073835388214",
-    "title": "上半年国内居民出游人次34.63亿 出游总花费3.21万亿元",
-    "summary": "【上半年国内居民出游人次34.63亿 出游总花费3.21万亿元】记者从文化和旅游部了解到，根据国内居民出游抽样调查结果，2026年上半年，国内居民出游人次34.63亿，比上年同期增加1.78亿，同比增长5.4%。",
-    "content": "【上半年国内居民出游人次34.63亿 出游总花费3.21万亿元】记者从文化和旅游部了解到，根据国内居民出游抽样调查结果，2026年上半年，国内居民出游人次34.63亿，比上年同期增加1.78亿，同比增长5.4%。",
-    "full_content": "【上半年国内居民出游人次34.63亿 出游总花费3.21万亿元】记者从文化和旅游部了解到，根据国内居民出游抽样调查结果，2026年上半年，国内居民出游人次34.63亿，比上年同期增加1.78亿，同比增长5.4%。",
-    "sort_time": "1786104908088214",
-    "showTime": "2026-08-07 20:15:08",
-    "time": "2026-08-07 20:15:08",
-    "publish_time": "2026-08-07 20:15:08",
-    "raw_data": {
-      "code": "202608073835388214",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1786104908088214",
-      "share": 4,
-      "showTime": "2026-08-07 20:15:08",
-      "stockList": [],
-      "summary": "【上半年国内居民出游人次34.63亿 出游总花费3.21万亿元】记者从文化和旅游部了解到，根据国内居民出游抽样调查结果，2026年上半年，国内居民出游人次34.63亿，比上年同期增加1.78亿，同比增长5.4%。",
-      "title": "上半年国内居民出游人次34.63亿 出游总花费3.21万亿元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835388214.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C604",
-          "name": "旅游",
-          "matched_keyword": "旅游"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C604"
-      ]
-    }
-  },
-  {
-    "id": "16b2f8dc6ba5057b",
-    "code": "202608073835387555",
-    "title": "机构：Q2全球平板电脑出货量为3556.6万台 同比下降10%",
-    "summary": "【机构：Q2全球平板电脑出货量为3556.6万台 同比下降10%】市场调查机构Omdia发布报告称，2026年第二季度全球平板电脑出货量为3556.6万台，同比下降10%。该机构指出这是多年来平板电脑出货量首次背离季节性规律，以往第二季度受返校需求推动，出货量会环比走高。相比较第一季度3702.0万台，2026年第二季度环比下降3.93%。",
-    "content": "【机构：Q2全球平板电脑出货量为3556.6万台 同比下降10%】市场调查机构Omdia发布报告称，2026年第二季度全球平板电脑出货量为3556.6万台，同比下降10%。该机构指出这是多年来平板电脑出货量首次背离季节性规律，以往第二季度受返校需求推动，出货量会环比走高。相比较第一季度3702.0万台，2026年第二季度环比下降3.93%。",
-    "full_content": "【机构：Q2全球平板电脑出货量为3556.6万台 同比下降10%】市场调查机构Omdia发布报告称，2026年第二季度全球平板电脑出货量为3556.6万台，同比下降10%。该机构指出这是多年来平板电脑出货量首次背离季节性规律，以往第二季度受返校需求推动，出货量会环比走高。相比较第一季度3702.0万台，2026年第二季度环比下降3.93%。",
-    "sort_time": "1786104803087555",
-    "showTime": "2026-08-07 20:13:23",
-    "time": "2026-08-07 20:13:23",
-    "publish_time": "2026-08-07 20:13:23",
-    "raw_data": {
-      "code": "202608073835387555",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1786104803087555",
-      "share": 3,
-      "showTime": "2026-08-07 20:13:23",
-      "stockList": [
-        "150.012320"
-      ],
-      "summary": "【机构：Q2全球平板电脑出货量为3556.6万台 同比下降10%】市场调查机构Omdia发布报告称，2026年第二季度全球平板电脑出货量为3556.6万台，同比下降10%。该机构指出这是多年来平板电脑出货量首次背离季节性规律，以往第二季度受返校需求推动，出货量会环比走高。相比较第一季度3702.0万台，2026年第二季度环比下降3.93%。",
-      "title": "机构：Q2全球平板电脑出货量为3556.6万台 同比下降10%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835387555.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.012320"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "fb8d0b9d2d019606",
-    "code": "202608073835387268",
-    "title": "以黎会谈被迫结束 美方声称“进展积极”",
-    "summary": "【以黎会谈被迫结束 美方声称“进展积极”】据新华社援引意大利安莎社7日报道，在意大利首都罗马举行、由美国斡旋的以色列和黎巴嫩安全谈判6日被迫提前结束，而美国国务院声称“会谈富有成效”。",
-    "content": "【以黎会谈被迫结束 美方声称“进展积极”】据新华社援引意大利安莎社7日报道，在意大利首都罗马举行、由美国斡旋的以色列和黎巴嫩安全谈判6日被迫提前结束，而美国国务院声称“会谈富有成效”。",
-    "full_content": "【以黎会谈被迫结束 美方声称“进展积极”】据新华社援引意大利安莎社7日报道，在意大利首都罗马举行、由美国斡旋的以色列和黎巴嫩安全谈判6日被迫提前结束，而美国国务院声称“会谈富有成效”。",
-    "sort_time": "1786104610087268",
-    "showTime": "2026-08-07 20:10:10",
-    "time": "2026-08-07 20:10:10",
-    "publish_time": "2026-08-07 20:10:10",
-    "raw_data": {
-      "code": "202608073835387268",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1786104610087268",
-      "share": 1,
-      "showTime": "2026-08-07 20:10:10",
-      "stockList": [],
-      "summary": "【以黎会谈被迫结束 美方声称“进展积极”】据新华社援引意大利安莎社7日报道，在意大利首都罗马举行、由美国斡旋的以色列和黎巴嫩安全谈判6日被迫提前结束，而美国国务院声称“会谈富有成效”。",
-      "title": "以黎会谈被迫结束 美方声称“进展积极”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835387268.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
       "concept_ids": []
     }
   }
