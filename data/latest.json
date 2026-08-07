@@ -1,5 +1,380 @@
 [
   {
+    "id": "048145dd2ac9e40b",
+    "code": "202608073835569016",
+    "title": "俄黑客称获取北约直接参与袭击俄领土证据",
+    "summary": "【俄黑客称获取北约直接参与袭击俄领土证据】据俄罗斯方面7日消息，有匿名俄罗斯黑客称，已获取北约直接参与袭击俄领土的书面证据。相关内容涉及乌克兰武装部队2026年7月袭击俄列宁格勒州和加里宁格勒州石油码头的事件。",
+    "content": "【俄黑客称获取北约直接参与袭击俄领土证据】据俄罗斯方面7日消息，有匿名俄罗斯黑客称，已获取北约直接参与袭击俄领土的书面证据。相关内容涉及乌克兰武装部队2026年7月袭击俄列宁格勒州和加里宁格勒州石油码头的事件。",
+    "full_content": "【俄黑客称获取北约直接参与袭击俄领土证据】据俄罗斯方面7日消息，有匿名俄罗斯黑客称，已获取北约直接参与袭击俄领土的书面证据。相关内容涉及乌克兰武装部队2026年7月袭击俄列宁格勒州和加里宁格勒州石油码头的事件。",
+    "sort_time": "1786116243069016",
+    "showTime": "2026-08-07 23:24:03",
+    "time": "2026-08-07 23:24:03",
+    "publish_time": "2026-08-07 23:24:03",
+    "raw_data": {
+      "code": "202608073835569016",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786116243069016",
+      "share": 0,
+      "showTime": "2026-08-07 23:24:03",
+      "stockList": [],
+      "summary": "【俄黑客称获取北约直接参与袭击俄领土证据】据俄罗斯方面7日消息，有匿名俄罗斯黑客称，已获取北约直接参与袭击俄领土的书面证据。相关内容涉及乌克兰武装部队2026年7月袭击俄列宁格勒州和加里宁格勒州石油码头的事件。",
+      "title": "俄黑客称获取北约直接参与袭击俄领土证据",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835569016.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "c1a14d98a75c823f",
+    "code": "202608073835567712",
+    "title": "斯洛伐克一大型炼油厂发生火灾",
+    "summary": "【斯洛伐克一大型炼油厂发生火灾】当地时间8月7日，斯洛伐克首都布拉迪斯拉发的斯洛夫纳夫特（Slovnaft）炼油厂发生火灾。截至目前，火势已得到控制，暂无人员伤亡报告。",
+    "content": "【斯洛伐克一大型炼油厂发生火灾】当地时间8月7日，斯洛伐克首都布拉迪斯拉发的斯洛夫纳夫特（Slovnaft）炼油厂发生火灾。截至目前，火势已得到控制，暂无人员伤亡报告。",
+    "full_content": "【斯洛伐克一大型炼油厂发生火灾】当地时间8月7日，斯洛伐克首都布拉迪斯拉发的斯洛夫纳夫特（Slovnaft）炼油厂发生火灾。截至目前，火势已得到控制，暂无人员伤亡报告。",
+    "sort_time": "1786115902067712",
+    "showTime": "2026-08-07 23:18:22",
+    "time": "2026-08-07 23:18:22",
+    "publish_time": "2026-08-07 23:18:22",
+    "raw_data": {
+      "code": "202608073835567712",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786115902067712",
+      "share": 1,
+      "showTime": "2026-08-07 23:18:22",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【斯洛伐克一大型炼油厂发生火灾】当地时间8月7日，斯洛伐克首都布拉迪斯拉发的斯洛夫纳夫特（Slovnaft）炼油厂发生火灾。截至目前，火势已得到控制，暂无人员伤亡报告。",
+      "title": "斯洛伐克一大型炼油厂发生火灾",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835567712.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "369f57a00263455a",
+    "code": "202608073835558331",
+    "title": "美国2026年共报告了2465例确诊麻疹病例",
+    "summary": "美国疾控中心数据显示，截至8月6日，美国2026年共报告了2465例确诊麻疹病例。",
+    "content": "美国疾控中心数据显示，截至8月6日，美国2026年共报告了2465例确诊麻疹病例。",
+    "full_content": "美国疾控中心数据显示，截至8月6日，美国2026年共报告了2465例确诊麻疹病例。",
+    "sort_time": "1786115145058331",
+    "showTime": "2026-08-07 23:05:45",
+    "time": "2026-08-07 23:05:45",
+    "publish_time": "2026-08-07 23:05:45",
+    "raw_data": {
+      "code": "202608073835558331",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1786115145058331",
+      "share": 2,
+      "showTime": "2026-08-07 23:05:45",
+      "stockList": [],
+      "summary": "美国疾控中心数据显示，截至8月6日，美国2026年共报告了2465例确诊麻疹病例。",
+      "title": "美国2026年共报告了2465例确诊麻疹病例",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835558331.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "eb864a597638fcc3",
+    "code": "202608073835557746",
+    "title": "数据",
+    "summary": "【数据】美国7月纽约联储1年通胀预期为3.63%，预期3.71%，前值3.67%。",
+    "content": "【数据】美国7月纽约联储1年通胀预期为3.63%，预期3.71%，前值3.67%。",
+    "full_content": "【数据】美国7月纽约联储1年通胀预期为3.63%，预期3.71%，前值3.67%。",
+    "sort_time": "1786115097057746",
+    "showTime": "2026-08-07 23:04:57",
+    "time": "2026-08-07 23:04:57",
+    "publish_time": "2026-08-07 23:04:57",
+    "raw_data": {
+      "code": "202608073835557746",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1786115097057746",
+      "share": 2,
+      "showTime": "2026-08-07 23:04:57",
+      "stockList": [],
+      "summary": "【数据】美国7月纽约联储1年通胀预期为3.63%，预期3.71%，前值3.67%。",
+      "title": "美国7月纽约联储1年通胀预期为3.63%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835557746.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "c11e375f1166ebc8",
+    "code": "202608073835556284",
+    "title": "行情",
+    "summary": "【行情】纯碱夜盘收涨约3.4%，乙二醇、燃油、焦煤至少涨1.6%，LPG、PVC涨0.7%",
+    "content": "【行情】纯碱夜盘收涨约3.4%，乙二醇、燃油、焦煤至少涨1.6%，LPG、PVC涨0.7%",
+    "full_content": "【行情】纯碱夜盘收涨约3.4%，乙二醇、燃油、焦煤至少涨1.6%，LPG、PVC涨0.7%",
+    "sort_time": "1786115001056284",
+    "showTime": "2026-08-07 23:03:21",
+    "time": "2026-08-07 23:03:21",
+    "publish_time": "2026-08-07 23:03:21",
+    "raw_data": {
+      "code": "202608073835556284",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786115001056284",
+      "share": 0,
+      "showTime": "2026-08-07 23:03:21",
+      "stockList": [
+        "90.BK1417"
+      ],
+      "summary": "【行情】纯碱夜盘收涨约3.4%，乙二醇、燃油、焦煤至少涨1.6%，LPG、PVC涨0.7%",
+      "title": "纯碱夜盘收涨约3.4%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835556284.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1417"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C505",
+          "name": "煤炭",
+          "matched_keyword": "焦煤"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C505"
+      ]
+    }
+  },
+  {
+    "id": "db40abca54510424",
+    "code": "202608073835546445",
+    "title": "美国共和党参议员卡西迪表示：他将投票支持托德·布兰奇担任司法部长的提名",
+    "summary": "美国共和党参议员卡西迪表示，他将投票支持托德·布兰奇担任司法部长的提名。",
+    "content": "美国共和党参议员卡西迪表示，他将投票支持托德·布兰奇担任司法部长的提名。",
+    "full_content": "美国共和党参议员卡西迪表示，他将投票支持托德·布兰奇担任司法部长的提名。",
+    "sort_time": "1786114316046445",
+    "showTime": "2026-08-07 22:51:56",
+    "time": "2026-08-07 22:51:56",
+    "publish_time": "2026-08-07 22:51:56",
+    "raw_data": {
+      "code": "202608073835546445",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786114316046445",
+      "share": 0,
+      "showTime": "2026-08-07 22:51:56",
+      "stockList": [],
+      "summary": "美国共和党参议员卡西迪表示，他将投票支持托德·布兰奇担任司法部长的提名。",
+      "title": "美国共和党参议员卡西迪表示：他将投票支持托德·布兰奇担任司法部长的提名",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835546445.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "8b4d3bc43583d992",
+    "code": "202608073835541559",
+    "title": "西门子宣布在美国投资超2亿美元以扩大电气基础设施生产",
+    "summary": "【西门子宣布在美国投资超2亿美元以扩大电气基础设施生产】西门子宣布在美国佐治亚州彭德格拉斯和得克萨斯州大草原城的新制造工厂进行总额超过2亿美元的投资，这将扩大其在美国的电气基础设施制造版图，并创造超过1500个工作岗位。新建的佐治亚州彭德格拉斯工厂耗资1.85亿美元，将作为低压电气产品和配电设备的美国制造中心。得克萨斯州大草原城的1900万美元制造基地将扩大美国在关键配电解决方案方面的产能。",
+    "content": "【西门子宣布在美国投资超2亿美元以扩大电气基础设施生产】西门子宣布在美国佐治亚州彭德格拉斯和得克萨斯州大草原城的新制造工厂进行总额超过2亿美元的投资，这将扩大其在美国的电气基础设施制造版图，并创造超过1500个工作岗位。新建的佐治亚州彭德格拉斯工厂耗资1.85亿美元，将作为低压电气产品和配电设备的美国制造中心。得克萨斯州大草原城的1900万美元制造基地将扩大美国在关键配电解决方案方面的产能。",
+    "full_content": "【西门子宣布在美国投资超2亿美元以扩大电气基础设施生产】西门子宣布在美国佐治亚州彭德格拉斯和得克萨斯州大草原城的新制造工厂进行总额超过2亿美元的投资，这将扩大其在美国的电气基础设施制造版图，并创造超过1500个工作岗位。新建的佐治亚州彭德格拉斯工厂耗资1.85亿美元，将作为低压电气产品和配电设备的美国制造中心。得克萨斯州大草原城的1900万美元制造基地将扩大美国在关键配电解决方案方面的产能。",
+    "sort_time": "1786113869041559",
+    "showTime": "2026-08-07 22:44:29",
+    "time": "2026-08-07 22:44:29",
+    "publish_time": "2026-08-07 22:44:29",
+    "raw_data": {
+      "code": "202608073835541559",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1786113869041559",
+      "share": 2,
+      "showTime": "2026-08-07 22:44:29",
+      "stockList": [],
+      "summary": "【西门子宣布在美国投资超2亿美元以扩大电气基础设施生产】西门子宣布在美国佐治亚州彭德格拉斯和得克萨斯州大草原城的新制造工厂进行总额超过2亿美元的投资，这将扩大其在美国的电气基础设施制造版图，并创造超过1500个工作岗位。新建的佐治亚州彭德格拉斯工厂耗资1.85亿美元，将作为低压电气产品和配电设备的美国制造中心。得克萨斯州大草原城的1900万美元制造基地将扩大美国在关键配电解决方案方面的产能。",
+      "title": "西门子宣布在美国投资超2亿美元以扩大电气基础设施生产",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835541559.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "247d10c132ba3627",
+    "code": "202608073835540528",
+    "title": "台风“白海豚”逼近  浙江近岸海域海浪预警级别升级为红色",
+    "summary": "【台风“白海豚”逼近  浙江近岸海域海浪预警级别升级为红色】国家海洋预报台发布海浪红色警报。受今年第13号台风“白海豚”影响，预计8月7日夜间到8日夜间，东海将出现7到13米的狂浪到狂涛区，近海海域海浪预警级别为橙色；浙江近岸海域将出现4到6.5米的巨浪到狂浪，该近岸海域海浪预警级别为红色，上海、福建北部近岸海域将出现3到4.5米的大浪到巨浪，该近岸海域海浪预警级别为橙色，江苏南部、福建南部近岸海域将出现2到3.4米的中浪到大浪，该近岸海域海浪预警级别为蓝色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。",
+    "content": "【台风“白海豚”逼近  浙江近岸海域海浪预警级别升级为红色】国家海洋预报台发布海浪红色警报。受今年第13号台风“白海豚”影响，预计8月7日夜间到8日夜间，东海将出现7到13米的狂浪到狂涛区，近海海域海浪预警级别为橙色；浙江近岸海域将出现4到6.5米的巨浪到狂浪，该近岸海域海浪预警级别为红色，上海、福建北部近岸海域将出现3到4.5米的大浪到巨浪，该近岸海域海浪预警级别为橙色，江苏南部、福建南部近岸海域将出现2到3.4米的中浪到大浪，该近岸海域海浪预警级别为蓝色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。",
+    "full_content": "【台风“白海豚”逼近  浙江近岸海域海浪预警级别升级为红色】国家海洋预报台发布海浪红色警报。受今年第13号台风“白海豚”影响，预计8月7日夜间到8日夜间，东海将出现7到13米的狂浪到狂涛区，近海海域海浪预警级别为橙色；浙江近岸海域将出现4到6.5米的巨浪到狂浪，该近岸海域海浪预警级别为红色，上海、福建北部近岸海域将出现3到4.5米的大浪到巨浪，该近岸海域海浪预警级别为橙色，江苏南部、福建南部近岸海域将出现2到3.4米的中浪到大浪，该近岸海域海浪预警级别为蓝色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。",
+    "sort_time": "1786113669040528",
+    "showTime": "2026-08-07 22:41:09",
+    "time": "2026-08-07 22:41:09",
+    "publish_time": "2026-08-07 22:41:09",
+    "raw_data": {
+      "code": "202608073835540528",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1786113669040528",
+      "share": 1,
+      "showTime": "2026-08-07 22:41:09",
+      "stockList": [],
+      "summary": "【台风“白海豚”逼近  浙江近岸海域海浪预警级别升级为红色】国家海洋预报台发布海浪红色警报。受今年第13号台风“白海豚”影响，预计8月7日夜间到8日夜间，东海将出现7到13米的狂浪到狂涛区，近海海域海浪预警级别为橙色；浙江近岸海域将出现4到6.5米的巨浪到狂浪，该近岸海域海浪预警级别为红色，上海、福建北部近岸海域将出现3到4.5米的大浪到巨浪，该近岸海域海浪预警级别为橙色，江苏南部、福建南部近岸海域将出现2到3.4米的中浪到大浪，该近岸海域海浪预警级别为蓝色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。",
+      "title": "台风“白海豚”逼近  浙江近岸海域海浪预警级别升级为红色",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835540528.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e1493b1e82dfc14d",
+    "code": "202608073835537669",
+    "title": "美国陆军表示：将向私营企业开放五个军事试验场",
+    "summary": "美国陆军表示，将向私营企业开放五个军事试验场",
+    "content": "美国陆军表示，将向私营企业开放五个军事试验场",
+    "full_content": "美国陆军表示，将向私营企业开放五个军事试验场",
+    "sort_time": "1786113166037669",
+    "showTime": "2026-08-07 22:32:46",
+    "time": "2026-08-07 22:32:46",
+    "publish_time": "2026-08-07 22:32:46",
+    "raw_data": {
+      "code": "202608073835537669",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1786113166037669",
+      "share": 1,
+      "showTime": "2026-08-07 22:32:46",
+      "stockList": [],
+      "summary": "美国陆军表示，将向私营企业开放五个军事试验场",
+      "title": "美国陆军表示：将向私营企业开放五个军事试验场",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835537669.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "eff177ba9f076929",
     "code": "202608073835535660",
     "title": "巴西石油监管机构将推进天然气排放规则的制定工作",
@@ -72,7 +447,7 @@
     "raw_data": {
       "code": "202608073835532116",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 12,
       "realSort": "1786112770032116",
       "share": 0,
       "showTime": "2026-08-07 22:26:10",
@@ -88,7 +463,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 12,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -111,9 +486,9 @@
     "raw_data": {
       "code": "202608073835529679",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 19,
       "realSort": "1786112553029679",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-08-07 22:22:33",
       "stockList": [],
       "summary": "美国上诉法院否决了特朗普价值4亿美元的白宫宴会厅项目。",
@@ -127,8 +502,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 8,
+    "comment_count": 19,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -150,9 +525,9 @@
     "raw_data": {
       "code": "202608073835527396",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 8,
       "realSort": "1786112190027396",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-08-07 22:16:30",
       "stockList": [
         "105.SPCX"
@@ -170,8 +545,8 @@
       "105.SPCX"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
+    "comment_count": 8,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -193,9 +568,9 @@
     "raw_data": {
       "code": "202608073835519840",
       "image": [],
-      "pinglun_Num": 28,
+      "pinglun_Num": 42,
       "realSort": "1786112012019840",
-      "share": 24,
+      "share": 33,
       "showTime": "2026-08-07 22:13:32",
       "stockList": [],
       "summary": "【美股存储板块进一步扩大跌幅 SK海力士跌超6%】美股存储板块进一步扩大跌幅，美光科技下跌3.57%，SK海力士下跌6.07%，闪迪下跌5.21%，西部数据下跌5.86%，希捷科技下跌10.01%。",
@@ -209,8 +584,8 @@
     "sentiment": "bearish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 28,
-    "share_count": 24,
+    "comment_count": 42,
+    "share_count": 33,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -258,6 +633,59 @@
     }
   },
   {
+    "id": "3f58a3f0bd0d5dd4",
+    "code": "202608073835533641",
+    "title": "刚果（金）东南部中资企业钴产品铀含量超标？大使馆及相关协会：报道不实",
+    "summary": "【刚果（金）东南部中资企业钴产品铀含量超标？大使馆及相关协会：报道不实】当地时间8月5日晚间，刚果（金）中资矿业企业协会发布澄清声明，明确指出近期网络及行业渠道出现关于刚果（金）东南部中资企业矿山生产的钴产品铀含量超标的“不实报道”，相关言论误导市场认知、扰乱行业正常经营秩序，对在刚中资矿业企业声誉及钴产品国际贸易口碑造成不良影响。",
+    "content": "【刚果（金）东南部中资企业钴产品铀含量超标？大使馆及相关协会：报道不实】当地时间8月5日晚间，刚果（金）中资矿业企业协会发布澄清声明，明确指出近期网络及行业渠道出现关于刚果（金）东南部中资企业矿山生产的钴产品铀含量超标的“不实报道”，相关言论误导市场认知、扰乱行业正常经营秩序，对在刚中资矿业企业声誉及钴产品国际贸易口碑造成不良影响。",
+    "full_content": "【刚果（金）东南部中资企业钴产品铀含量超标？大使馆及相关协会：报道不实】当地时间8月5日晚间，刚果（金）中资矿业企业协会发布澄清声明，明确指出近期网络及行业渠道出现关于刚果（金）东南部中资企业矿山生产的钴产品铀含量超标的“不实报道”，相关言论误导市场认知、扰乱行业正常经营秩序，对在刚中资矿业企业声誉及钴产品国际贸易口碑造成不良影响。",
+    "sort_time": "1786111860033641",
+    "showTime": "2026-08-07 22:11:00",
+    "time": "2026-08-07 22:11:00",
+    "publish_time": "2026-08-07 22:11:00",
+    "raw_data": {
+      "code": "202608073835533641",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786111860033641",
+      "share": 0,
+      "showTime": "2026-08-07 22:11:00",
+      "stockList": [],
+      "summary": "【刚果（金）东南部中资企业钴产品铀含量超标？大使馆及相关协会：报道不实】当地时间8月5日晚间，刚果（金）中资矿业企业协会发布澄清声明，明确指出近期网络及行业渠道出现关于刚果（金）东南部中资企业矿山生产的钴产品铀含量超标的“不实报道”，相关言论误导市场认知、扰乱行业正常经营秩序，对在刚中资矿业企业声誉及钴产品国际贸易口碑造成不良影响。",
+      "title": "刚果（金）东南部中资企业钴产品铀含量超标？大使馆及相关协会：报道不实",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608073835533641.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "铀"
+        },
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "钴"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109",
+        "C501"
+      ]
+    }
+  },
+  {
     "id": "5354be37c7a73220",
     "code": "202608073835499434",
     "title": "哈塞特：特朗普和沃什“时时刻刻”谈论经济问题",
@@ -271,7 +699,7 @@
     "raw_data": {
       "code": "202608073835499434",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786111718099434",
       "share": 0,
       "showTime": "2026-08-07 22:08:38",
@@ -287,7 +715,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -312,7 +740,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1786111610095266",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-07 22:06:50",
       "stockList": [],
       "summary": "美国白宫经济顾问哈塞特表示，美国就业市场目前每月需新增约4万个岗位即可保持平衡。",
@@ -327,7 +755,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -470,9 +898,9 @@
     "raw_data": {
       "code": "202608073835489736",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 20,
       "realSort": "1786110762089736",
-      "share": 11,
+      "share": 16,
       "showTime": "2026-08-07 21:52:42",
       "stockList": [
         "90.BK1151",
@@ -492,8 +920,8 @@
       "0.300418"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 11,
+    "comment_count": 20,
+    "share_count": 16,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -517,7 +945,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1786110570085398",
-      "share": 23,
+      "share": 29,
       "showTime": "2026-08-07 21:49:30",
       "stockList": [],
       "summary": "【美股黄金矿业板块走高】美股黄金矿业板块走高，金田涨超10%，哈莫尼黄金涨超10%，科尔黛伦矿业涨超8%，纽曼矿业涨超6%，金罗斯黄金涨超6%。",
@@ -532,7 +960,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 4,
-    "share_count": 23,
+    "share_count": 29,
     "tags": {
       "industries": [],
       "concepts": [
@@ -562,7 +990,7 @@
     "raw_data": {
       "code": "202608073835480954",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 15,
       "realSort": "1786110428080954",
       "share": 6,
       "showTime": "2026-08-07 21:47:08",
@@ -578,7 +1006,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
+    "comment_count": 15,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -601,9 +1029,9 @@
     "raw_data": {
       "code": "202608073835480690",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 15,
       "realSort": "1786110402080690",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-08-07 21:46:42",
       "stockList": [
         "90.BK0448",
@@ -623,8 +1051,8 @@
       "90.BK0736"
     ],
     "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 11,
+    "comment_count": 15,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -791,9 +1219,9 @@
     "raw_data": {
       "code": "202608073835451898",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 33,
       "realSort": "1786109671051898",
-      "share": 23,
+      "share": 26,
       "showTime": "2026-08-07 21:34:31",
       "stockList": [],
       "summary": "【美股光通信板块高开 Coherent涨超11%】美股光通信板块高开，Coherent涨超11%，Credo涨超7%，康宁、Lumentum涨超6%，迈威尔科技涨超4%。",
@@ -807,8 +1235,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 29,
-    "share_count": 23,
+    "comment_count": 33,
+    "share_count": 26,
     "tags": {
       "industries": [],
       "concepts": [
@@ -883,7 +1311,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1786109650050836",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-08-07 21:34:10",
       "stockList": [
         "90.BK1036",
@@ -904,7 +1332,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 7,
+    "share_count": 8,
     "tags": {
       "industries": [
         {
@@ -1052,9 +1480,9 @@
     "raw_data": {
       "code": "202608073835448793",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1786109535048793",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-08-07 21:32:15",
       "stockList": [
         "90.BK0545",
@@ -1074,8 +1502,8 @@
       "90.BK0739"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 4,
+    "comment_count": 8,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1097,9 +1525,9 @@
     "raw_data": {
       "code": "202608073835448585",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 11,
       "realSort": "1786109462048585",
-      "share": 16,
+      "share": 19,
       "showTime": "2026-08-07 21:31:02",
       "stockList": [],
       "summary": "【美股三大指数高开 AI硬件个股走强】美股三大指数高开，道琼斯指数涨0.14%，标普500指数涨0.34%，纳斯达克综合指数涨0.78%。AI硬件个股走强，英伟达股价上涨1.2%，台积电股价上涨1.41%，博通股价上涨2.06%，SK海力士股价下跌1.48%，美光科技股价上涨1.77%，超威半导体股价上涨0.92%，阿斯麦股价上涨2.9%，英特尔股价上涨3.33%，泛林集团股价上涨1.05%，ARM股价上涨3.54%。",
@@ -1113,8 +1541,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 16,
+    "comment_count": 11,
+    "share_count": 19,
     "tags": {
       "industries": [
         {
@@ -1176,7 +1604,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1786109424046517",
-      "share": 12,
+      "share": 13,
       "showTime": "2026-08-07 21:30:24",
       "stockList": [],
       "summary": "【上海：台风“白海豚”或将带来龙卷风等极端影响】上海市气象台介绍，台风“白海豚”强度强，环流尺度大，七级风圈半径超过400公里，北侧结构密实，云雨带发展旺盛，对上海市的影响呈现“风长雨强”的特点。",
@@ -1191,7 +1619,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 12,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1297,9 +1725,9 @@
     "raw_data": {
       "code": "202608073835446237",
       "image": [],
-      "pinglun_Num": 27,
+      "pinglun_Num": 41,
       "realSort": "1786109286046237",
-      "share": 32,
+      "share": 34,
       "showTime": "2026-08-07 21:28:06",
       "stockList": [
         "90.BK0451",
@@ -1319,8 +1747,8 @@
       "90.BK1202"
     ],
     "has_stock_mention": true,
-    "comment_count": 27,
-    "share_count": 32,
+    "comment_count": 41,
+    "share_count": 34,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1350,9 +1778,9 @@
     "raw_data": {
       "code": "202608073835439669",
       "image": [],
-      "pinglun_Num": 294,
+      "pinglun_Num": 417,
       "realSort": "1786109020039669",
-      "share": 892,
+      "share": 1057,
       "showTime": "2026-08-07 21:23:40",
       "stockList": [
         "1.512200",
@@ -1372,8 +1800,8 @@
       "0.160628"
     ],
     "has_stock_mention": true,
-    "comment_count": 294,
-    "share_count": 892,
+    "comment_count": 417,
+    "share_count": 1057,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1538,7 +1966,7 @@
     "raw_data": {
       "code": "202608073835426436",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1786108033026436",
       "share": 0,
       "showTime": "2026-08-07 21:07:13",
@@ -1560,7 +1988,7 @@
       "1.600663"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1720,13 +2148,11 @@
     "raw_data": {
       "code": "202608073835423272",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786107830023272",
       "share": 9,
       "showTime": "2026-08-07 21:03:50",
-      "stockList": [
-        "150.012341"
-      ],
+      "stockList": [],
       "summary": "【7月全球食品价格指数创三年多来新高】联合国粮食及农业组织7日发布报告显示，受谷物、食糖和植物油价格上涨带动，7月全球食品价格指数环比上涨0.6%至131.1点，为2023年1月以来新高，但较2022年3月历史高点低18.2%。",
       "title": "7月全球食品价格指数创三年多来新高",
       "titleColor": 0
@@ -1734,13 +2160,11 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202608073835423272.html",
     "category": "其他",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "bullish",
-    "related_stocks": [
-      "150.012341"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
     "share_count": 9,
     "tags": {
       "industries": [],
@@ -1773,7 +2197,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1786107650021945",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-08-07 21:00:50",
       "stockList": [],
       "summary": "国内商品期货夜盘开盘，主力合约涨多跌少。涨幅方面，沪银涨超4%，沪金涨超2%，乙二醇、不锈钢涨超1%；跌幅方面，沪锌、原油、燃油、甲醇、沥青等小幅下跌。",
@@ -1788,7 +2212,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1856,456 +2280,6 @@
       "industries": [],
       "concepts": [],
       "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "55b7442fad8f56fc",
-    "code": "202608073835419612",
-    "title": "台风“白海豚”单日最多影响25个机场",
-    "summary": "【台风“白海豚”单日最多影响25个机场】台风“白海豚”将沿“台湾北部—浙江沿海—安徽内陆”移动，根据航班管家DAST台风预测数据，8月9日至11日为主要影响时段，单日最多或有25个机场进入影响范围。",
-    "content": "【台风“白海豚”单日最多影响25个机场】台风“白海豚”将沿“台湾北部—浙江沿海—安徽内陆”移动，根据航班管家DAST台风预测数据，8月9日至11日为主要影响时段，单日最多或有25个机场进入影响范围。",
-    "full_content": "【台风“白海豚”单日最多影响25个机场】台风“白海豚”将沿“台湾北部—浙江沿海—安徽内陆”移动，根据航班管家DAST台风预测数据，8月9日至11日为主要影响时段，单日最多或有25个机场进入影响范围。",
-    "sort_time": "1786107252019612",
-    "showTime": "2026-08-07 20:54:12",
-    "time": "2026-08-07 20:54:12",
-    "publish_time": "2026-08-07 20:54:12",
-    "raw_data": {
-      "code": "202608073835419612",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786107252019612",
-      "share": 1,
-      "showTime": "2026-08-07 20:54:12",
-      "stockList": [
-        "90.BK1480"
-      ],
-      "summary": "【台风“白海豚”单日最多影响25个机场】台风“白海豚”将沿“台湾北部—浙江沿海—安徽内陆”移动，根据航班管家DAST台风预测数据，8月9日至11日为主要影响时段，单日最多或有25个机场进入影响范围。",
-      "title": "台风“白海豚”单日最多影响25个机场",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835419612.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1480"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "ST"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C814"
-      ]
-    }
-  },
-  {
-    "id": "7f422ed3e7b0ebd3",
-    "code": "202608073835418263",
-    "title": "美三大股指期货齐拉升 纳斯达克100指数期货涨1.25%",
-    "summary": "【美三大股指期货齐拉升 纳斯达克100指数期货涨1.25%】美国非农数据公布后，美三大股指期货齐拉升，道琼斯指数期货涨0.34%，标普500指数期货涨0.55%，纳斯达克100指数期货涨1.25%。美国7月非农就业人数减少2.3万人，市场预估为增加8万人，前值为增加5.7万人。",
-    "content": "【美三大股指期货齐拉升 纳斯达克100指数期货涨1.25%】美国非农数据公布后，美三大股指期货齐拉升，道琼斯指数期货涨0.34%，标普500指数期货涨0.55%，纳斯达克100指数期货涨1.25%。美国7月非农就业人数减少2.3万人，市场预估为增加8万人，前值为增加5.7万人。",
-    "full_content": "【美三大股指期货齐拉升 纳斯达克100指数期货涨1.25%】美国非农数据公布后，美三大股指期货齐拉升，道琼斯指数期货涨0.34%，标普500指数期货涨0.55%，纳斯达克100指数期货涨1.25%。美国7月非农就业人数减少2.3万人，市场预估为增加8万人，前值为增加5.7万人。",
-    "sort_time": "1786107236018263",
-    "showTime": "2026-08-07 20:53:56",
-    "time": "2026-08-07 20:53:56",
-    "publish_time": "2026-08-07 20:53:56",
-    "raw_data": {
-      "code": "202608073835418263",
-      "image": [],
-      "pinglun_Num": 24,
-      "realSort": "1786107236018263",
-      "share": 44,
-      "showTime": "2026-08-07 20:53:56",
-      "stockList": [],
-      "summary": "【美三大股指期货齐拉升 纳斯达克100指数期货涨1.25%】美国非农数据公布后，美三大股指期货齐拉升，道琼斯指数期货涨0.34%，标普500指数期货涨0.55%，纳斯达克100指数期货涨1.25%。美国7月非农就业人数减少2.3万人，市场预估为增加8万人，前值为增加5.7万人。",
-      "title": "美三大股指期货齐拉升 纳斯达克100指数期货涨1.25%",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835418263.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 24,
-    "share_count": 44,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0aff5973539a1b5a",
-    "code": "202608073835419489",
-    "title": "蓝盾光电：拟购买岚创科技控股权 股票复牌",
-    "summary": "【蓝盾光电：拟购买岚创科技控股权 股票复牌】8月7日，蓝盾光电(300862.SZ)公告称，公司拟通过发行股份及支付现金的方式购买郑燕飞等7名交易对方持有的岚创科技控股权，并向不超过35名特定投资者发行股份募集配套资金。截至本预案摘要签署日，本次交易相关的审计、评估工作尚未完成，标的资产的评估值及交易价格尚未确定。本次交易预计构成重大资产重组。经申请，公司股票将于2026年8月10日开市起复牌。",
-    "content": "【蓝盾光电：拟购买岚创科技控股权 股票复牌】8月7日，蓝盾光电(300862.SZ)公告称，公司拟通过发行股份及支付现金的方式购买郑燕飞等7名交易对方持有的岚创科技控股权，并向不超过35名特定投资者发行股份募集配套资金。截至本预案摘要签署日，本次交易相关的审计、评估工作尚未完成，标的资产的评估值及交易价格尚未确定。本次交易预计构成重大资产重组。经申请，公司股票将于2026年8月10日开市起复牌。",
-    "full_content": "【蓝盾光电：拟购买岚创科技控股权 股票复牌】8月7日，蓝盾光电(300862.SZ)公告称，公司拟通过发行股份及支付现金的方式购买郑燕飞等7名交易对方持有的岚创科技控股权，并向不超过35名特定投资者发行股份募集配套资金。截至本预案摘要签署日，本次交易相关的审计、评估工作尚未完成，标的资产的评估值及交易价格尚未确定。本次交易预计构成重大资产重组。经申请，公司股票将于2026年8月10日开市起复牌。",
-    "sort_time": "1786107165019489",
-    "showTime": "2026-08-07 20:52:45",
-    "time": "2026-08-07 20:52:45",
-    "publish_time": "2026-08-07 20:52:45",
-    "raw_data": {
-      "code": "202608073835419489",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1786107165019489",
-      "share": 12,
-      "showTime": "2026-08-07 20:52:45",
-      "stockList": [
-        "0.300862"
-      ],
-      "summary": "【蓝盾光电：拟购买岚创科技控股权 股票复牌】8月7日，蓝盾光电(300862.SZ)公告称，公司拟通过发行股份及支付现金的方式购买郑燕飞等7名交易对方持有的岚创科技控股权，并向不超过35名特定投资者发行股份募集配套资金。截至本预案摘要签署日，本次交易相关的审计、评估工作尚未完成，标的资产的评估值及交易价格尚未确定。本次交易预计构成重大资产重组。经申请，公司股票将于2026年8月10日开市起复牌。",
-      "title": "蓝盾光电：拟购买岚创科技控股权 股票复牌",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835419489.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300862"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 12,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "1e568c24770709be",
-    "code": "202608073835416078",
-    "title": "美股存储板块盘前走高 闪迪涨超5%",
-    "summary": "【美股存储板块盘前走高 闪迪涨超5%】美股存储板块盘前走高，美光科技上涨3.76%，SK海力士上涨1.16%，闪迪上涨5.31%，西部数据上涨3.64%，希捷科技上涨3.04%。",
-    "content": "【美股存储板块盘前走高 闪迪涨超5%】美股存储板块盘前走高，美光科技上涨3.76%，SK海力士上涨1.16%，闪迪上涨5.31%，西部数据上涨3.64%，希捷科技上涨3.04%。",
-    "full_content": "【美股存储板块盘前走高 闪迪涨超5%】美股存储板块盘前走高，美光科技上涨3.76%，SK海力士上涨1.16%，闪迪上涨5.31%，西部数据上涨3.64%，希捷科技上涨3.04%。",
-    "sort_time": "1786106962016078",
-    "showTime": "2026-08-07 20:49:22",
-    "time": "2026-08-07 20:49:22",
-    "publish_time": "2026-08-07 20:49:22",
-    "raw_data": {
-      "code": "202608073835416078",
-      "image": [],
-      "pinglun_Num": 17,
-      "realSort": "1786106962016078",
-      "share": 26,
-      "showTime": "2026-08-07 20:49:22",
-      "stockList": [],
-      "summary": "【美股存储板块盘前走高 闪迪涨超5%】美股存储板块盘前走高，美光科技上涨3.76%，SK海力士上涨1.16%，闪迪上涨5.31%，西部数据上涨3.64%，希捷科技上涨3.04%。",
-      "title": "美股存储板块盘前走高 闪迪涨超5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835416078.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 17,
-    "share_count": 26,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0ed684c8d3fa199c",
-    "code": "202608073835415869",
-    "title": "美股光通信板块盘前涨幅进一步扩大 Coherent涨超7%",
-    "summary": "【美股光通信板块盘前涨幅进一步扩大 Coherent涨超7%】美股光通信板块盘前涨幅进一步扩大，Coherent涨超7%，康宁、Lumentum涨超5%，迈威尔科技、Credo涨超4%。",
-    "content": "【美股光通信板块盘前涨幅进一步扩大 Coherent涨超7%】美股光通信板块盘前涨幅进一步扩大，Coherent涨超7%，康宁、Lumentum涨超5%，迈威尔科技、Credo涨超4%。",
-    "full_content": "【美股光通信板块盘前涨幅进一步扩大 Coherent涨超7%】美股光通信板块盘前涨幅进一步扩大，Coherent涨超7%，康宁、Lumentum涨超5%，迈威尔科技、Credo涨超4%。",
-    "sort_time": "1786106845015869",
-    "showTime": "2026-08-07 20:47:25",
-    "time": "2026-08-07 20:47:25",
-    "publish_time": "2026-08-07 20:47:25",
-    "raw_data": {
-      "code": "202608073835415869",
-      "image": [],
-      "pinglun_Num": 22,
-      "realSort": "1786106845015869",
-      "share": 27,
-      "showTime": "2026-08-07 20:47:25",
-      "stockList": [],
-      "summary": "【美股光通信板块盘前涨幅进一步扩大 Coherent涨超7%】美股光通信板块盘前涨幅进一步扩大，Coherent涨超7%，康宁、Lumentum涨超5%，迈威尔科技、Credo涨超4%。",
-      "title": "美股光通信板块盘前涨幅进一步扩大 Coherent涨超7%",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835415869.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 22,
-    "share_count": 27,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "光通信"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "c9d93118e8c1f561",
-    "code": "202608073835412836",
-    "title": "非农数据不及预期 现货黄金涨幅扩大至3%",
-    "summary": "【非农数据不及预期 现货黄金涨幅扩大至3%】现货黄金涨幅扩大至3%，截至发稿，现货黄金报4368美元/盎司。消息面上，美国7月非农就业人数减少2.3万人，市场预估为增加8万人。",
-    "content": "【非农数据不及预期 现货黄金涨幅扩大至3%】现货黄金涨幅扩大至3%，截至发稿，现货黄金报4368美元/盎司。消息面上，美国7月非农就业人数减少2.3万人，市场预估为增加8万人。",
-    "full_content": "【非农数据不及预期 现货黄金涨幅扩大至3%】现货黄金涨幅扩大至3%，截至发稿，现货黄金报4368美元/盎司。消息面上，美国7月非农就业人数减少2.3万人，市场预估为增加8万人。",
-    "sort_time": "1786106506012836",
-    "showTime": "2026-08-07 20:41:46",
-    "time": "2026-08-07 20:41:46",
-    "publish_time": "2026-08-07 20:41:46",
-    "raw_data": {
-      "code": "202608073835412836",
-      "image": [],
-      "pinglun_Num": 42,
-      "realSort": "1786106506012836",
-      "share": 542,
-      "showTime": "2026-08-07 20:41:46",
-      "stockList": [
-        "90.BK0732",
-        "90.BK1617"
-      ],
-      "summary": "【非农数据不及预期 现货黄金涨幅扩大至3%】现货黄金涨幅扩大至3%，截至发稿，现货黄金报4368美元/盎司。消息面上，美国7月非农就业人数减少2.3万人，市场预估为增加8万人。",
-      "title": "非农数据不及预期 现货黄金涨幅扩大至3%",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835412836.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0732",
-      "90.BK1617"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 42,
-    "share_count": 542,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "5d2f7c71d73a3d69",
-    "code": "202608073835413092",
-    "title": "纳斯达克100指数期货涨幅扩大至1%",
-    "summary": "道琼斯指数期货涨0.34%，标普500指数期货涨0.51%，纳斯达克100指数期货涨1.04%。",
-    "content": "道琼斯指数期货涨0.34%，标普500指数期货涨0.51%，纳斯达克100指数期货涨1.04%。",
-    "full_content": "道琼斯指数期货涨0.34%，标普500指数期货涨0.51%，纳斯达克100指数期货涨1.04%。",
-    "sort_time": "1786106493013092",
-    "showTime": "2026-08-07 20:41:33",
-    "time": "2026-08-07 20:41:33",
-    "publish_time": "2026-08-07 20:41:33",
-    "raw_data": {
-      "code": "202608073835413092",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786106493013092",
-      "share": 0,
-      "showTime": "2026-08-07 20:41:33",
-      "stockList": [],
-      "summary": "道琼斯指数期货涨0.34%，标普500指数期货涨0.51%，纳斯达克100指数期货涨1.04%。",
-      "title": "纳斯达克100指数期货涨幅扩大至1%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835413092.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "20f9619dcd24a5f1",
-    "code": "202608073835413677",
-    "title": "加拿大7月就业数据显著强于市场预期",
-    "summary": "【加拿大7月就业数据显著强于市场预期】加拿大7月就业数据显著强于市场预期，当月新增就业7.51万人，预期仅为1.5万人，前值1.82万人。岗位结构上，全职就业新增3.86万人，兼职就业新增3.66万人，全职、兼职岗位同步实现明显增长。",
-    "content": "【加拿大7月就业数据显著强于市场预期】加拿大7月就业数据显著强于市场预期，当月新增就业7.51万人，预期仅为1.5万人，前值1.82万人。岗位结构上，全职就业新增3.86万人，兼职就业新增3.66万人，全职、兼职岗位同步实现明显增长。",
-    "full_content": "【加拿大7月就业数据显著强于市场预期】加拿大7月就业数据显著强于市场预期，当月新增就业7.51万人，预期仅为1.5万人，前值1.82万人。岗位结构上，全职就业新增3.86万人，兼职就业新增3.66万人，全职、兼职岗位同步实现明显增长。",
-    "sort_time": "1786106463013677",
-    "showTime": "2026-08-07 20:41:03",
-    "time": "2026-08-07 20:41:03",
-    "publish_time": "2026-08-07 20:41:03",
-    "raw_data": {
-      "code": "202608073835413677",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786106463013677",
-      "share": 1,
-      "showTime": "2026-08-07 20:41:03",
-      "stockList": [],
-      "summary": "【加拿大7月就业数据显著强于市场预期】加拿大7月就业数据显著强于市场预期，当月新增就业7.51万人，预期仅为1.5万人，前值1.82万人。岗位结构上，全职就业新增3.86万人，兼职就业新增3.66万人，全职、兼职岗位同步实现明显增长。",
-      "title": "加拿大7月就业数据显著强于市场预期",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835413677.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "2e15f352970f1ced",
-    "code": "202608073835412986",
-    "title": "4天2板奥士康：未与英伟达、谷歌开展订单合作 与AMD的业务合作处于产品送样阶段",
-    "summary": "【4天2板奥士康：未与英伟达、谷歌开展订单合作 与AMD的业务合作处于产品送样阶段】奥士康(002913.SZ)发布异动公告，经公司自查，截至目前，公司未与英伟达、谷歌开展订单合作，公司与AMD的业务合作处于产品送样阶段，尚未形成规模化收入，能否通过客户认证存在不确定性。",
-    "content": "【4天2板奥士康：未与英伟达、谷歌开展订单合作 与AMD的业务合作处于产品送样阶段】奥士康(002913.SZ)发布异动公告，经公司自查，截至目前，公司未与英伟达、谷歌开展订单合作，公司与AMD的业务合作处于产品送样阶段，尚未形成规模化收入，能否通过客户认证存在不确定性。",
-    "full_content": "【4天2板奥士康：未与英伟达、谷歌开展订单合作 与AMD的业务合作处于产品送样阶段】奥士康(002913.SZ)发布异动公告，经公司自查，截至目前，公司未与英伟达、谷歌开展订单合作，公司与AMD的业务合作处于产品送样阶段，尚未形成规模化收入，能否通过客户认证存在不确定性。",
-    "sort_time": "1786106368012986",
-    "showTime": "2026-08-07 20:39:28",
-    "time": "2026-08-07 20:39:28",
-    "publish_time": "2026-08-07 20:39:28",
-    "raw_data": {
-      "code": "202608073835412986",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1786106368012986",
-      "share": 5,
-      "showTime": "2026-08-07 20:39:28",
-      "stockList": [
-        "90.BK1161",
-        "0.002913"
-      ],
-      "summary": "【4天2板奥士康：未与英伟达、谷歌开展订单合作 与AMD的业务合作处于产品送样阶段】奥士康(002913.SZ)发布异动公告，经公司自查，截至目前，公司未与英伟达、谷歌开展订单合作，公司与AMD的业务合作处于产品送样阶段，尚未形成规模化收入，能否通过客户认证存在不确定性。",
-      "title": "4天2板奥士康：未与英伟达、谷歌开展订单合作 与AMD的业务合作处于产品送样阶段",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835412986.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1161",
-      "0.002913"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5c17eb339af2d2f7",
-    "code": "202608073835412395",
-    "title": "江波龙定增结果：募资36.99亿元 易方达基金等获配",
-    "summary": "【江波龙定增结果：募资36.99亿元 易方达基金等获配】江波龙8月7日公告，本次向特定对象发行股票的数量为660.71万股，发行价格为560元/股。",
-    "content": "【江波龙定增结果：募资36.99亿元 易方达基金等获配】江波龙8月7日公告，本次向特定对象发行股票的数量为660.71万股，发行价格为560元/股。",
-    "full_content": "【江波龙定增结果：募资36.99亿元 易方达基金等获配】江波龙8月7日公告，本次向特定对象发行股票的数量为660.71万股，发行价格为560元/股。",
-    "sort_time": "1786106343012395",
-    "showTime": "2026-08-07 20:39:03",
-    "time": "2026-08-07 20:39:03",
-    "publish_time": "2026-08-07 20:39:03",
-    "raw_data": {
-      "code": "202608073835412395",
-      "image": [],
-      "pinglun_Num": 128,
-      "realSort": "1786106343012395",
-      "share": 251,
-      "showTime": "2026-08-07 20:39:03",
-      "stockList": [
-        "999.177788",
-        "0.301308"
-      ],
-      "summary": "【江波龙定增结果：募资36.99亿元 易方达基金等获配】江波龙8月7日公告，本次向特定对象发行股票的数量为660.71万股，发行价格为560元/股。",
-      "title": "江波龙定增结果：募资36.99亿元 易方达基金等获配",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608073835412395.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "999.177788",
-      "0.301308"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 128,
-    "share_count": 251,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "基金"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I020201"
-      ],
       "concept_ids": []
     }
   }
