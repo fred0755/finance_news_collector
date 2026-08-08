@@ -1,5 +1,91 @@
 [
   {
+    "id": "4d496cf8d4de4b7f",
+    "code": "202608083835856261",
+    "title": "纽约原油暗盘突破77美元 日内涨超0.5%",
+    "summary": "8月8日，纽约原油暗盘突破77美元，日内涨超0.5%。",
+    "content": "8月8日，纽约原油暗盘突破77美元，日内涨超0.5%。",
+    "full_content": "8月8日，纽约原油暗盘突破77美元，日内涨超0.5%。",
+    "sort_time": "1786194512056261",
+    "showTime": "2026-08-08 21:08:32",
+    "time": "2026-08-08 21:08:32",
+    "publish_time": "2026-08-08 21:08:32",
+    "raw_data": {
+      "code": "202608083835856261",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1786194512056261",
+      "share": 2,
+      "showTime": "2026-08-08 21:08:32",
+      "stockList": [],
+      "summary": "8月8日，纽约原油暗盘突破77美元，日内涨超0.5%。",
+      "title": "纽约原油暗盘突破77美元 日内涨超0.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608083835856261.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "de7b91d237b5e585",
+    "code": "202608083835855943",
+    "title": "河南发布农田渍涝灾害风险预警",
+    "summary": "【河南发布农田渍涝灾害风险预警】今天（8月8日），河南省气象局、河南省农业农村厅联合发布农田渍涝灾害风险预警：受台风“白海豚”影响，预计8月10日至13日，河南东南部、中东部和北部部分县（市、区）有暴雨、大暴雨，其他县（市、区）中到大雨，与前期土壤偏湿地块叠加，全省大部存在农田渍涝风险。",
+    "content": "【河南发布农田渍涝灾害风险预警】今天（8月8日），河南省气象局、河南省农业农村厅联合发布农田渍涝灾害风险预警：受台风“白海豚”影响，预计8月10日至13日，河南东南部、中东部和北部部分县（市、区）有暴雨、大暴雨，其他县（市、区）中到大雨，与前期土壤偏湿地块叠加，全省大部存在农田渍涝风险。",
+    "full_content": "【河南发布农田渍涝灾害风险预警】今天（8月8日），河南省气象局、河南省农业农村厅联合发布农田渍涝灾害风险预警：受台风“白海豚”影响，预计8月10日至13日，河南东南部、中东部和北部部分县（市、区）有暴雨、大暴雨，其他县（市、区）中到大雨，与前期土壤偏湿地块叠加，全省大部存在农田渍涝风险。",
+    "sort_time": "1786193983055943",
+    "showTime": "2026-08-08 20:59:43",
+    "time": "2026-08-08 20:59:43",
+    "publish_time": "2026-08-08 20:59:43",
+    "raw_data": {
+      "code": "202608083835855943",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786193983055943",
+      "share": 1,
+      "showTime": "2026-08-08 20:59:43",
+      "stockList": [],
+      "summary": "【河南发布农田渍涝灾害风险预警】今天（8月8日），河南省气象局、河南省农业农村厅联合发布农田渍涝灾害风险预警：受台风“白海豚”影响，预计8月10日至13日，河南东南部、中东部和北部部分县（市、区）有暴雨、大暴雨，其他县（市、区）中到大雨，与前期土壤偏湿地块叠加，全省大部存在农田渍涝风险。",
+      "title": "河南发布农田渍涝灾害风险预警",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608083835855943.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "ea3dfabb7f4e94ea",
     "code": "202608083835851030",
     "title": "伯克希尔哈撒韦：2026年Q2归属于股东净利润256.67亿美元",
@@ -13,9 +99,9 @@
     "raw_data": {
       "code": "202608083835851030",
       "image": [],
-      "pinglun_Num": 22,
+      "pinglun_Num": 109,
       "realSort": "1786191293051030",
-      "share": 86,
+      "share": 162,
       "showTime": "2026-08-08 20:14:53",
       "stockList": [
         "106.BRK_A"
@@ -33,8 +119,8 @@
       "106.BRK_A"
     ],
     "has_stock_mention": true,
-    "comment_count": 22,
-    "share_count": 86,
+    "comment_count": 109,
+    "share_count": 162,
     "tags": {
       "industries": [
         {
@@ -80,9 +166,9 @@
     "raw_data": {
       "code": "202608083835850185",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 27,
       "realSort": "1786190674050185",
-      "share": 0,
+      "share": 6,
       "showTime": "2026-08-08 20:04:34",
       "stockList": [],
       "summary": "【伊朗接近与阿曼达成管理海峡协议】伊朗外交部长阿拉格齐今天（8月8日）表示，伊朗目前正在与阿曼就霍尔木兹海峡的法律机制、管理方式以及确定海峡船舶通行路线进行谈判，双方已经非常接近达成协议。但是，霍尔木兹海峡能否重新开放还取决于其他条件，包括美国对其违反美伊谅解备忘录的行为作出弥补。",
@@ -96,8 +182,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 0,
+    "comment_count": 27,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -121,7 +207,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786189850049225",
-      "share": 1,
+      "share": 5,
       "showTime": "2026-08-08 19:50:50",
       "stockList": [],
       "summary": "【上海发布海浪橙色预警】据上海发布消息，上海市海洋监测预报中心2026年08月08日19时00分发布海浪橙色预警信号：受今年第13号台风“白海豚”（强台风级）影响，预计今天傍晚到明天傍晚（8月8日19时-9日19时）：长江口内海域1.8-3.3米中到大浪，达到黄色预警级别。",
@@ -136,7 +222,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -158,7 +244,7 @@
     "raw_data": {
       "code": "202608083835847190",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 14,
       "realSort": "1786187806047190",
       "share": 2,
       "showTime": "2026-08-08 19:16:46",
@@ -174,7 +260,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 9,
+    "comment_count": 14,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -197,9 +283,9 @@
     "raw_data": {
       "code": "202608083835847048",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1786187720047048",
-      "share": 7,
+      "share": 15,
       "showTime": "2026-08-08 19:15:20",
       "stockList": [
         "90.BK0740"
@@ -217,8 +303,8 @@
       "90.BK0740"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 7,
+    "comment_count": 6,
+    "share_count": 15,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -242,7 +328,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786187481046928",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-08 19:11:21",
       "stockList": [
         "1007.BK000307"
@@ -261,7 +347,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -283,9 +369,9 @@
     "raw_data": {
       "code": "202608083835845319",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 32,
       "realSort": "1786186608045319",
-      "share": 7,
+      "share": 10,
       "showTime": "2026-08-08 18:56:48",
       "stockList": [],
       "summary": "【知情人士称美军高层正寻求对伊战事“退出路径”】据新华社，美国有线电视新闻网7日以多名知情人士为来源报道说，美军参谋长联席会议主席丹·凯恩近期向总统特朗普的多名高级顾问表示，美国需要找到从伊朗战事中退出的路径。",
@@ -299,8 +385,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 23,
-    "share_count": 7,
+    "comment_count": 32,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -324,7 +410,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786186257044342",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-08 18:50:57",
       "stockList": [
         "90.BK0433",
@@ -345,7 +431,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -367,7 +453,7 @@
     "raw_data": {
       "code": "202608083835844168",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1786185888044168",
       "share": 1,
       "showTime": "2026-08-08 18:44:48",
@@ -387,7 +473,7 @@
       "90.BK0486"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
+    "comment_count": 6,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -410,9 +496,9 @@
     "raw_data": {
       "code": "202608083835844084",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1786185696044084",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-08-08 18:41:36",
       "stockList": [],
       "summary": "【应急管理部对安徽启动国家地质灾害四级应急响应】据新华社，气象部门预测，受今年第13号台风“白海豚”影响，未来三天，安徽部分地区有暴雨到大暴雨，局地特大暴雨。经与自然资源部联合会商研判，安徽西部局部地区发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月8日针对安徽启动地质灾害四级应急响应。",
@@ -426,8 +512,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 2,
+    "comment_count": 5,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -449,7 +535,7 @@
     "raw_data": {
       "code": "202608083835843181",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 20,
       "realSort": "1786185170043181",
       "share": 2,
       "showTime": "2026-08-08 18:32:50",
@@ -465,7 +551,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 18,
+    "comment_count": 20,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -488,9 +574,9 @@
     "raw_data": {
       "code": "202608083835842289",
       "image": [],
-      "pinglun_Num": 49,
+      "pinglun_Num": 55,
       "realSort": "1786184785042289",
-      "share": 16,
+      "share": 17,
       "showTime": "2026-08-08 18:26:25",
       "stockList": [],
       "summary": "【伊朗革命卫队：重开海峡需美国接受伊朗条件】伊朗革命卫队发言人今天（8月8日）表示，重新开放霍尔木兹海峡取决于美国完全接受伊朗的条件，与伊朗当前与阿曼的协商情况无关。",
@@ -504,8 +590,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 49,
-    "share_count": 16,
+    "comment_count": 55,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -773,7 +859,7 @@
     "raw_data": {
       "code": "202608083835841118",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 5,
       "realSort": "1786182796041118",
       "share": 3,
       "showTime": "2026-08-08 17:53:16",
@@ -795,7 +881,7 @@
       "116.09988"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 5,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -998,9 +1084,9 @@
     "raw_data": {
       "code": "202608083835839075",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1786179220039075",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-08-08 16:53:40",
       "stockList": [],
       "summary": "【新疆优化调整景区内自驾服务收费】新疆维吾尔自治区文化和旅游厅8月8日发布《关于优化调整新疆维吾尔自治区旅游景区内自驾服务费的通报》：为持续优化旅游环境，更大力度惠及广大游客，新疆维吾尔自治区文化和旅游厅联合有关部门指导全区4A级及以上涉收取自驾服务费的旅游景区，对收费模式和标准作出优化调整。",
@@ -1014,8 +1100,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 6,
+    "comment_count": 3,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1084,9 +1170,9 @@
     "raw_data": {
       "code": "202608083835836398",
       "image": [],
-      "pinglun_Num": 215,
+      "pinglun_Num": 233,
       "realSort": "1786176842036398",
-      "share": 49,
+      "share": 61,
       "showTime": "2026-08-08 16:14:02",
       "stockList": [
         "0.159945",
@@ -1106,8 +1192,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 215,
-    "share_count": 49,
+    "comment_count": 233,
+    "share_count": 61,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1360,7 +1446,7 @@
     "raw_data": {
       "code": "202608083835834537",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1786174040034537",
       "share": 2,
       "showTime": "2026-08-08 15:27:20",
@@ -1380,7 +1466,7 @@
       "90.BK0480"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1497,7 +1583,7 @@
     "raw_data": {
       "code": "202608083835832937",
       "image": [],
-      "pinglun_Num": 29,
+      "pinglun_Num": 32,
       "realSort": "1786173247032937",
       "share": 9,
       "showTime": "2026-08-08 15:14:07",
@@ -1519,7 +1605,7 @@
       "0.300274"
     ],
     "has_stock_mention": true,
-    "comment_count": 29,
+    "comment_count": 32,
     "share_count": 9,
     "tags": {
       "industries": [
@@ -1688,7 +1774,7 @@
     "raw_data": {
       "code": "202608083835830184",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1786172130030184",
       "share": 8,
       "showTime": "2026-08-08 14:55:30",
@@ -1708,7 +1794,7 @@
       "90.BK1184"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 8,
     "tags": {
       "industries": [],
@@ -1860,9 +1946,9 @@
     "raw_data": {
       "code": "202608083835827428",
       "image": [],
-      "pinglun_Num": 37,
+      "pinglun_Num": 42,
       "realSort": "1786171140027428",
-      "share": 13,
+      "share": 14,
       "showTime": "2026-08-08 14:39:00",
       "stockList": [
         "90.BK0736",
@@ -1882,8 +1968,8 @@
       "90.BK0428"
     ],
     "has_stock_mention": true,
-    "comment_count": 37,
-    "share_count": 13,
+    "comment_count": 42,
+    "share_count": 14,
     "tags": {
       "industries": [
         {
@@ -1935,9 +2021,9 @@
     "raw_data": {
       "code": "202608083835827188",
       "image": [],
-      "pinglun_Num": 51,
+      "pinglun_Num": 52,
       "realSort": "1786170540027188",
-      "share": 33,
+      "share": 37,
       "showTime": "2026-08-08 14:29:00",
       "stockList": [
         "90.BK0459",
@@ -1957,8 +2043,8 @@
       "90.BK1161"
     ],
     "has_stock_mention": true,
-    "comment_count": 51,
-    "share_count": 33,
+    "comment_count": 52,
+    "share_count": 37,
     "tags": {
       "industries": [
         {
@@ -2012,9 +2098,9 @@
     "raw_data": {
       "code": "202608083835826915",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1786169911026915",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-08-08 14:18:31",
       "stockList": [
         "150.160628",
@@ -2034,8 +2120,8 @@
       "1.600048"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 8,
+    "comment_count": 9,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2065,7 +2151,7 @@
     "raw_data": {
       "code": "202608083835826684",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1786169578026684",
       "share": 8,
       "showTime": "2026-08-08 14:12:58",
@@ -2081,7 +2167,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 8,
     "tags": {
       "industries": [],
@@ -2161,7 +2247,7 @@
     "raw_data": {
       "code": "202608083835822238",
       "image": [],
-      "pinglun_Num": 46,
+      "pinglun_Num": 47,
       "realSort": "1786168920022238",
       "share": 21,
       "showTime": "2026-08-08 14:02:00",
@@ -2183,7 +2269,7 @@
       "1007.BK000391"
     ],
     "has_stock_mention": true,
-    "comment_count": 46,
+    "comment_count": 47,
     "share_count": 21,
     "tags": {
       "industries": [],
@@ -2206,7 +2292,7 @@
     "raw_data": {
       "code": "202608083835822171",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 21,
       "realSort": "1786168740022171",
       "share": 12,
       "showTime": "2026-08-08 13:59:00",
@@ -2228,7 +2314,7 @@
       "106.BABA"
     ],
     "has_stock_mention": true,
-    "comment_count": 19,
+    "comment_count": 21,
     "share_count": 12,
     "tags": {
       "industries": [],
@@ -2254,108 +2340,6 @@
         "C006",
         "C011",
         "C806"
-      ]
-    }
-  },
-  {
-    "id": "443dc76444c7d74a",
-    "code": "202608083835819877",
-    "title": "“牛散”章建平退出寒武纪前十大股东 去年持股数仅次于董事长 或已套现走人",
-    "summary": "【“牛散”章建平退出寒武纪前十大股东 去年持股数仅次于董事长 或已套现走人】值得注意的是，寒武纪的股东名单发生改变。截至今年6月底，章建平已不在寒武纪前十大股东之列，或已套现走人。今年上半年，陈天石则增持公司5857万股。除陈天石之外，寒武纪十大股东名单里还有两个自然人张炜和邱明静。",
-    "content": "【“牛散”章建平退出寒武纪前十大股东 去年持股数仅次于董事长 或已套现走人】值得注意的是，寒武纪的股东名单发生改变。截至今年6月底，章建平已不在寒武纪前十大股东之列，或已套现走人。今年上半年，陈天石则增持公司5857万股。除陈天石之外，寒武纪十大股东名单里还有两个自然人张炜和邱明静。",
-    "full_content": "【“牛散”章建平退出寒武纪前十大股东 去年持股数仅次于董事长 或已套现走人】值得注意的是，寒武纪的股东名单发生改变。截至今年6月底，章建平已不在寒武纪前十大股东之列，或已套现走人。今年上半年，陈天石则增持公司5857万股。除陈天石之外，寒武纪十大股东名单里还有两个自然人张炜和邱明静。",
-    "sort_time": "1786168322019877",
-    "showTime": "2026-08-08 13:52:02",
-    "time": "2026-08-08 13:52:02",
-    "publish_time": "2026-08-08 13:52:02",
-    "raw_data": {
-      "code": "202608083835819877",
-      "image": [],
-      "pinglun_Num": 216,
-      "realSort": "1786168322019877",
-      "share": 125,
-      "showTime": "2026-08-08 13:52:02",
-      "stockList": [
-        "1.688256"
-      ],
-      "summary": "【“牛散”章建平退出寒武纪前十大股东 去年持股数仅次于董事长 或已套现走人】值得注意的是，寒武纪的股东名单发生改变。截至今年6月底，章建平已不在寒武纪前十大股东之列，或已套现走人。今年上半年，陈天石则增持公司5857万股。除陈天石之外，寒武纪十大股东名单里还有两个自然人张炜和邱明静。",
-      "title": "“牛散”章建平退出寒武纪前十大股东 去年持股数仅次于董事长 或已套现走人",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608083835819877.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.688256"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 216,
-    "share_count": 125,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ef8e56ad0bb71b6a",
-    "code": "202608083835821435",
-    "title": "空调业新冷年“开盘”惯例生变：美的退出 格力、海尔继续",
-    "summary": "【空调业新冷年“开盘”惯例生变：美的退出 格力、海尔继续】8月1日启幕的空调行业2026新冷年，延续多年的“开盘”模式出现分化。格力、海尔、海信等继续“开盘”，延续经销商淡季打款的策略；但美的没有再“开盘”，加码零售转型。“开盘”是空调行业长期沿用的一种渠道模式，在新冷年开启时，通过销售政策，吸引经销商淡季打款、进货。",
-    "content": "【空调业新冷年“开盘”惯例生变：美的退出 格力、海尔继续】8月1日启幕的空调行业2026新冷年，延续多年的“开盘”模式出现分化。格力、海尔、海信等继续“开盘”，延续经销商淡季打款的策略；但美的没有再“开盘”，加码零售转型。“开盘”是空调行业长期沿用的一种渠道模式，在新冷年开启时，通过销售政策，吸引经销商淡季打款、进货。",
-    "full_content": "【空调业新冷年“开盘”惯例生变：美的退出 格力、海尔继续】8月1日启幕的空调行业2026新冷年，延续多年的“开盘”模式出现分化。格力、海尔、海信等继续“开盘”，延续经销商淡季打款的策略；但美的没有再“开盘”，加码零售转型。“开盘”是空调行业长期沿用的一种渠道模式，在新冷年开启时，通过销售政策，吸引经销商淡季打款、进货。",
-    "sort_time": "1786168174021435",
-    "showTime": "2026-08-08 13:49:34",
-    "time": "2026-08-08 13:49:34",
-    "publish_time": "2026-08-08 13:49:34",
-    "raw_data": {
-      "code": "202608083835821435",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1786168174021435",
-      "share": 3,
-      "showTime": "2026-08-08 13:49:34",
-      "stockList": [
-        "90.BK0456",
-        "0.000333"
-      ],
-      "summary": "【空调业新冷年“开盘”惯例生变：美的退出 格力、海尔继续】8月1日启幕的空调行业2026新冷年，延续多年的“开盘”模式出现分化。格力、海尔、海信等继续“开盘”，延续经销商淡季打款的策略；但美的没有再“开盘”，加码零售转型。“开盘”是空调行业长期沿用的一种渠道模式，在新冷年开启时，通过销售政策，吸引经销商淡季打款、进货。",
-      "title": "空调业新冷年“开盘”惯例生变：美的退出 格力、海尔继续",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608083835821435.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0456",
-      "0.000333"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C605",
-          "name": "零售",
-          "matched_keyword": "零售"
-        },
-        {
-          "id": "C606",
-          "name": "家电",
-          "matched_keyword": "空调"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C605",
-        "C606"
       ]
     }
   }
