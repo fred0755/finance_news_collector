@@ -13,9 +13,9 @@
     "raw_data": {
       "code": "202608083835847190",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 7,
       "realSort": "1786187806047190",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-08 19:16:46",
       "stockList": [],
       "summary": "【泽连斯基：美国将每月向乌克兰提供“爱国者”拦截导弹】乌克兰方面8日消息称，正在塞尔维亚访问的乌克兰总统泽连斯基当天表示，美国已与乌克兰达成协议，将每月向乌克兰提供“爱国者”防空系统拦截导弹。泽连斯基同时表示，仅靠这项供应无法完全弥补乌克兰目前的拦截导弹短缺。",
@@ -29,8 +29,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 7,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -52,9 +52,9 @@
     "raw_data": {
       "code": "202608083835847048",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1786187720047048",
-      "share": 0,
+      "share": 4,
       "showTime": "2026-08-08 19:15:20",
       "stockList": [
         "90.BK0740"
@@ -72,8 +72,51 @@
       "90.BK0740"
     ],
     "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "df0a1ac24be8f031",
+    "code": "202608083835846928",
+    "title": "杭州：密切关注台风动向，把人员转移作为重中之重",
+    "summary": "【杭州：密切关注台风动向，把人员转移作为重中之重】据杭州发布官微消息，8月8日上午，杭州市防御应对13号台风“白海豚”工作视频调度会召开。",
+    "content": "【杭州：密切关注台风动向，把人员转移作为重中之重】据杭州发布官微消息，8月8日上午，杭州市防御应对13号台风“白海豚”工作视频调度会召开。",
+    "full_content": "【杭州：密切关注台风动向，把人员转移作为重中之重】据杭州发布官微消息，8月8日上午，杭州市防御应对13号台风“白海豚”工作视频调度会召开。",
+    "sort_time": "1786187481046928",
+    "showTime": "2026-08-08 19:11:21",
+    "time": "2026-08-08 19:11:21",
+    "publish_time": "2026-08-08 19:11:21",
+    "raw_data": {
+      "code": "202608083835846928",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786187481046928",
+      "share": 1,
+      "showTime": "2026-08-08 19:11:21",
+      "stockList": [
+        "1007.BK000307"
+      ],
+      "summary": "【杭州：密切关注台风动向，把人员转移作为重中之重】据杭州发布官微消息，8月8日上午，杭州市防御应对13号台风“白海豚”工作视频调度会召开。",
+      "title": "杭州：密切关注台风动向 把人员转移作为重中之重",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608083835846928.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1007.BK000307"
+    ],
+    "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -95,9 +138,9 @@
     "raw_data": {
       "code": "202608083835845319",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 16,
       "realSort": "1786186608045319",
-      "share": 3,
+      "share": 5,
       "showTime": "2026-08-08 18:56:48",
       "stockList": [],
       "summary": "【知情人士称美军高层正寻求对伊战事“退出路径”】据新华社，美国有线电视新闻网7日以多名知情人士为来源报道说，美军参谋长联席会议主席丹·凯恩近期向总统特朗普的多名高级顾问表示，美国需要找到从伊朗战事中退出的路径。",
@@ -111,8 +154,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 3,
+    "comment_count": 16,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -179,9 +222,9 @@
     "raw_data": {
       "code": "202608083835844168",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1786185888044168",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-08 18:44:48",
       "stockList": [
         "90.BK0486"
@@ -199,8 +242,8 @@
       "90.BK0486"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -222,9 +265,9 @@
     "raw_data": {
       "code": "202608083835844084",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1786185696044084",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-08 18:41:36",
       "stockList": [],
       "summary": "【应急管理部对安徽启动国家地质灾害四级应急响应】据新华社，气象部门预测，受今年第13号台风“白海豚”影响，未来三天，安徽部分地区有暴雨到大暴雨，局地特大暴雨。经与自然资源部联合会商研判，安徽西部局部地区发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月8日针对安徽启动地质灾害四级应急响应。",
@@ -238,8 +281,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
+    "comment_count": 4,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -261,7 +304,7 @@
     "raw_data": {
       "code": "202608083835843181",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 17,
       "realSort": "1786185170043181",
       "share": 0,
       "showTime": "2026-08-08 18:32:50",
@@ -277,7 +320,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 17,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -300,7 +343,7 @@
     "raw_data": {
       "code": "202608083835842289",
       "image": [],
-      "pinglun_Num": 35,
+      "pinglun_Num": 42,
       "realSort": "1786184785042289",
       "share": 12,
       "showTime": "2026-08-08 18:26:25",
@@ -316,7 +359,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 35,
+    "comment_count": 42,
     "share_count": 12,
     "tags": {
       "industries": [],
@@ -380,7 +423,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1786184345042018",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-08 18:19:05",
       "stockList": [],
       "summary": "【中央气象台8月8日18时继续发布强对流天气蓝色预警】中央气象台8月8日18时继续发布强对流天气蓝色预警：预计8月8日20时至9日20时，内蒙古中部偏南地区、华北西北部、黄淮东部、江淮南部、江南中东部、西南地区东部等地的部分地区将有8级以上雷暴大风或冰雹天气。",
@@ -395,7 +438,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -419,7 +462,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1786184166041885",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-08 18:16:06",
       "stockList": [],
       "summary": "【温州市发布防台风Ⅰ级应急响应】台风“白海豚”（强台风级）今天（8月8日）17时位于温州偏东方向约442公里的洋面上，较大可能于9日晚上到10日早晨在苍南到象山一带沿海登陆。",
@@ -434,7 +477,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -456,7 +499,7 @@
     "raw_data": {
       "code": "202608083835841750",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786184095041750",
       "share": 0,
       "showTime": "2026-08-08 18:14:55",
@@ -476,7 +519,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -585,9 +628,9 @@
     "raw_data": {
       "code": "202608083835841118",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786182796041118",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-08 17:53:16",
       "stockList": [
         "90.BK0689",
@@ -607,8 +650,8 @@
       "116.09988"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -896,9 +939,9 @@
     "raw_data": {
       "code": "202608083835836398",
       "image": [],
-      "pinglun_Num": 179,
+      "pinglun_Num": 204,
       "realSort": "1786176842036398",
-      "share": 41,
+      "share": 42,
       "showTime": "2026-08-08 16:14:02",
       "stockList": [
         "0.159945",
@@ -918,8 +961,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 179,
-    "share_count": 41,
+    "comment_count": 204,
+    "share_count": 42,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -941,7 +984,7 @@
     "raw_data": {
       "code": "202608083835835755",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1786176361035755",
       "share": 4,
       "showTime": "2026-08-08 16:06:01",
@@ -961,7 +1004,7 @@
       "1007.BK000390"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
+    "comment_count": 9,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1174,7 +1217,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1786174040034537",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-08 15:27:20",
       "stockList": [
         "90.BK0480"
@@ -1193,7 +1236,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 3,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1672,7 +1715,7 @@
     "raw_data": {
       "code": "202608083835827428",
       "image": [],
-      "pinglun_Num": 36,
+      "pinglun_Num": 37,
       "realSort": "1786171140027428",
       "share": 13,
       "showTime": "2026-08-08 14:39:00",
@@ -1694,7 +1737,7 @@
       "90.BK0428"
     ],
     "has_stock_mention": true,
-    "comment_count": 36,
+    "comment_count": 37,
     "share_count": 13,
     "tags": {
       "industries": [
@@ -1747,9 +1790,9 @@
     "raw_data": {
       "code": "202608083835827188",
       "image": [],
-      "pinglun_Num": 46,
+      "pinglun_Num": 49,
       "realSort": "1786170540027188",
-      "share": 31,
+      "share": 32,
       "showTime": "2026-08-08 14:29:00",
       "stockList": [
         "90.BK0459",
@@ -1769,8 +1812,8 @@
       "90.BK1161"
     ],
     "has_stock_mention": true,
-    "comment_count": 46,
-    "share_count": 31,
+    "comment_count": 49,
+    "share_count": 32,
     "tags": {
       "industries": [
         {
@@ -1877,7 +1920,7 @@
     "raw_data": {
       "code": "202608083835826684",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1786169578026684",
       "share": 8,
       "showTime": "2026-08-08 14:12:58",
@@ -1893,7 +1936,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 8,
     "tags": {
       "industries": [],
@@ -1973,7 +2016,7 @@
     "raw_data": {
       "code": "202608083835822238",
       "image": [],
-      "pinglun_Num": 45,
+      "pinglun_Num": 46,
       "realSort": "1786168920022238",
       "share": 20,
       "showTime": "2026-08-08 14:02:00",
@@ -1995,7 +2038,7 @@
       "1007.BK000391"
     ],
     "has_stock_mention": true,
-    "comment_count": 45,
+    "comment_count": 46,
     "share_count": 20,
     "tags": {
       "industries": [],
@@ -2018,9 +2061,9 @@
     "raw_data": {
       "code": "202608083835822171",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 16,
       "realSort": "1786168740022171",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-08-08 13:59:00",
       "stockList": [
         "90.BK1134",
@@ -2040,8 +2083,8 @@
       "106.BABA"
     ],
     "has_stock_mention": true,
-    "comment_count": 15,
-    "share_count": 11,
+    "comment_count": 16,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2083,9 +2126,9 @@
     "raw_data": {
       "code": "202608083835819877",
       "image": [],
-      "pinglun_Num": 204,
+      "pinglun_Num": 214,
       "realSort": "1786168322019877",
-      "share": 113,
+      "share": 120,
       "showTime": "2026-08-08 13:52:02",
       "stockList": [
         "1.688256"
@@ -2103,8 +2146,8 @@
       "1.688256"
     ],
     "has_stock_mention": true,
-    "comment_count": 204,
-    "share_count": 113,
+    "comment_count": 214,
+    "share_count": 120,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2126,7 +2169,7 @@
     "raw_data": {
       "code": "202608083835821435",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 11,
       "realSort": "1786168174021435",
       "share": 3,
       "showTime": "2026-08-08 13:49:34",
@@ -2148,7 +2191,7 @@
       "0.000333"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
+    "comment_count": 11,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -2187,7 +2230,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1786168020021882",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-08-08 13:47:00",
       "stockList": [
         "90.BK0478",
@@ -2208,7 +2251,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 3,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [
         {
@@ -2258,7 +2301,7 @@
       "image": [],
       "pinglun_Num": 11,
       "realSort": "1786167737020554",
-      "share": 10,
+      "share": 11,
       "showTime": "2026-08-08 13:42:17",
       "stockList": [
         "90.BK1033",
@@ -2279,7 +2322,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 11,
-    "share_count": 10,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2309,9 +2352,9 @@
     "raw_data": {
       "code": "202608083835819780",
       "image": [],
-      "pinglun_Num": 52,
+      "pinglun_Num": 53,
       "realSort": "1786167571019780",
-      "share": 58,
+      "share": 61,
       "showTime": "2026-08-08 13:39:31",
       "stockList": [
         "1.600519"
@@ -2329,8 +2372,8 @@
       "1.600519"
     ],
     "has_stock_mention": true,
-    "comment_count": 52,
-    "share_count": 58,
+    "comment_count": 53,
+    "share_count": 61,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2344,45 +2387,6 @@
       "concept_ids": [
         "C601"
       ]
-    }
-  },
-  {
-    "id": "63a6bd1efb2a1c5d",
-    "code": "202608083835819411",
-    "title": "水利部：全国13条河流仍维持超警",
-    "summary": "【水利部：全国13条河流仍维持超警】今天上午，水利部举行会商，分析研判全国的防汛形势，未来三天钱塘江、甬江、椒江、水阳江可能发生编号洪水。截至8月8日9时，黑龙江、内蒙古、河北、云南等地13条河流仍维持超警。8月8日至10日，受降雨影响，钱塘江、甬江、椒江、水阳江可能发生编号洪水，暴雨区内部分中小河流可能发生超警洪水；受上游来水影响，黑龙江干流抚远江段将超警，松花江干流及支流呼兰河、黑龙江干流同江至勤得利江段将维持超警。",
-    "content": "【水利部：全国13条河流仍维持超警】今天上午，水利部举行会商，分析研判全国的防汛形势，未来三天钱塘江、甬江、椒江、水阳江可能发生编号洪水。截至8月8日9时，黑龙江、内蒙古、河北、云南等地13条河流仍维持超警。8月8日至10日，受降雨影响，钱塘江、甬江、椒江、水阳江可能发生编号洪水，暴雨区内部分中小河流可能发生超警洪水；受上游来水影响，黑龙江干流抚远江段将超警，松花江干流及支流呼兰河、黑龙江干流同江至勤得利江段将维持超警。",
-    "full_content": "【水利部：全国13条河流仍维持超警】今天上午，水利部举行会商，分析研判全国的防汛形势，未来三天钱塘江、甬江、椒江、水阳江可能发生编号洪水。截至8月8日9时，黑龙江、内蒙古、河北、云南等地13条河流仍维持超警。8月8日至10日，受降雨影响，钱塘江、甬江、椒江、水阳江可能发生编号洪水，暴雨区内部分中小河流可能发生超警洪水；受上游来水影响，黑龙江干流抚远江段将超警，松花江干流及支流呼兰河、黑龙江干流同江至勤得利江段将维持超警。",
-    "sort_time": "1786167498019411",
-    "showTime": "2026-08-08 13:38:18",
-    "time": "2026-08-08 13:38:18",
-    "publish_time": "2026-08-08 13:38:18",
-    "raw_data": {
-      "code": "202608083835819411",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786167498019411",
-      "share": 1,
-      "showTime": "2026-08-08 13:38:18",
-      "stockList": [],
-      "summary": "【水利部：全国13条河流仍维持超警】今天上午，水利部举行会商，分析研判全国的防汛形势，未来三天钱塘江、甬江、椒江、水阳江可能发生编号洪水。截至8月8日9时，黑龙江、内蒙古、河北、云南等地13条河流仍维持超警。8月8日至10日，受降雨影响，钱塘江、甬江、椒江、水阳江可能发生编号洪水，暴雨区内部分中小河流可能发生超警洪水；受上游来水影响，黑龙江干流抚远江段将超警，松花江干流及支流呼兰河、黑龙江干流同江至勤得利江段将维持超警。",
-      "title": "水利部：全国13条河流仍维持超警",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608083835819411.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
