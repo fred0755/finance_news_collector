@@ -1,29 +1,115 @@
 [
   {
-    "id": "e7f56ce004c075c8",
-    "code": "202608113836985738",
-    "title": "美国三大股指走低",
-    "summary": "美国三大股指走低，截至目前，道琼斯指数跌0.16%，标普500指数跌0.10%，纳斯达克综合指数跌0.40%",
-    "content": "美国三大股指走低，截至目前，道琼斯指数跌0.16%，标普500指数跌0.10%，纳斯达克综合指数跌0.40%",
-    "full_content": "美国三大股指走低，截至目前，道琼斯指数跌0.16%，标普500指数跌0.10%，纳斯达克综合指数跌0.40%",
-    "sort_time": "1786379928085738",
-    "showTime": "2026-08-11 00:38:48",
-    "time": "2026-08-11 00:38:48",
-    "publish_time": "2026-08-11 00:38:48",
+    "id": "3b63926d22d7500e",
+    "code": "202608113836989085",
+    "title": "美联储隔夜逆回购协议（RRP）周一使用规模为9.75亿美元",
+    "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为9.75亿美元（交易对手2家），上个交易日报14.50亿美元。",
+    "content": "美联储隔夜逆回购协议（RRP）周一使用规模为9.75亿美元（交易对手2家），上个交易日报14.50亿美元。",
+    "full_content": "美联储隔夜逆回购协议（RRP）周一使用规模为9.75亿美元（交易对手2家），上个交易日报14.50亿美元。",
+    "sort_time": "1786382445089085",
+    "showTime": "2026-08-11 01:20:45",
+    "time": "2026-08-11 01:20:45",
+    "publish_time": "2026-08-11 01:20:45",
     "raw_data": {
-      "code": "202608113836985738",
+      "code": "202608113836989085",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1786379928085738",
+      "realSort": "1786382445089085",
       "share": 0,
-      "showTime": "2026-08-11 00:38:48",
+      "showTime": "2026-08-11 01:20:45",
       "stockList": [],
-      "summary": "美国三大股指走低，截至目前，道琼斯指数跌0.16%，标普500指数跌0.10%，纳斯达克综合指数跌0.40%",
-      "title": "美国三大股指走低",
+      "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为9.75亿美元（交易对手2家），上个交易日报14.50亿美元。",
+      "title": "美联储隔夜逆回购协议（RRP）周一使用规模为9.75亿美元",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113836985738.html",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836989085.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5dc3800cbdb72634",
+    "code": "202608113836989271",
+    "title": "OpenAI发布GPT-5.6-Cyber",
+    "summary": "OpenAI发布GPT-5.6-Cyber，该模型专为高级授权网络安全工作设计。",
+    "content": "OpenAI发布GPT-5.6-Cyber，该模型专为高级授权网络安全工作设计。",
+    "full_content": "OpenAI发布GPT-5.6-Cyber，该模型专为高级授权网络安全工作设计。",
+    "sort_time": "1786382373089271",
+    "showTime": "2026-08-11 01:19:33",
+    "time": "2026-08-11 01:19:33",
+    "publish_time": "2026-08-11 01:19:33",
+    "raw_data": {
+      "code": "202608113836989271",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786382373089271",
+      "share": 0,
+      "showTime": "2026-08-11 01:19:33",
+      "stockList": [],
+      "summary": "OpenAI发布GPT-5.6-Cyber，该模型专为高级授权网络安全工作设计。",
+      "title": "OpenAI发布GPT-5.6-Cyber",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836989271.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "GPT"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "7953492b59d6a87d",
+    "code": "202608113836987971",
+    "title": "哥伦比亚因地震进入灾难状态",
+    "summary": "【哥伦比亚因地震进入灾难状态】因受8月10日地震影响，哥伦比亚政府宣布进入“国家灾难状态”。",
+    "content": "【哥伦比亚因地震进入灾难状态】因受8月10日地震影响，哥伦比亚政府宣布进入“国家灾难状态”。",
+    "full_content": "【哥伦比亚因地震进入灾难状态】因受8月10日地震影响，哥伦比亚政府宣布进入“国家灾难状态”。",
+    "sort_time": "1786381503087971",
+    "showTime": "2026-08-11 01:05:03",
+    "time": "2026-08-11 01:05:03",
+    "publish_time": "2026-08-11 01:05:03",
+    "raw_data": {
+      "code": "202608113836987971",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786381503087971",
+      "share": 0,
+      "showTime": "2026-08-11 01:05:03",
+      "stockList": [],
+      "summary": "【哥伦比亚因地震进入灾难状态】因受8月10日地震影响，哥伦比亚政府宣布进入“国家灾难状态”。",
+      "title": "哥伦比亚因地震进入灾难状态",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836987971.html",
     "category": "其他",
     "importance": 5,
     "sentiment": "neutral",
@@ -39,12 +125,408 @@
     }
   },
   {
-    "id": "2357e21796f57c72",
+    "id": "f24479d2c5f848b3",
+    "code": "202608113836987867",
+    "title": "沪铝夜盘收涨0.64%",
+    "summary": "【沪铝夜盘收涨0.64%】国际铜夜盘收跌0.02%，沪铜收涨0.16%，沪铝收涨0.64%，沪锌收涨0.35%，沪铅收涨0.60%，沪镍收跌0.42%，沪锡收跌0.46%。氧化铝夜盘收跌0.59%，铝合金收涨0.28%。不锈钢夜盘收跌0.62%。",
+    "content": "【沪铝夜盘收涨0.64%】国际铜夜盘收跌0.02%，沪铜收涨0.16%，沪铝收涨0.64%，沪锌收涨0.35%，沪铅收涨0.60%，沪镍收跌0.42%，沪锡收跌0.46%。氧化铝夜盘收跌0.59%，铝合金收涨0.28%。不锈钢夜盘收跌0.62%。",
+    "full_content": "【沪铝夜盘收涨0.64%】国际铜夜盘收跌0.02%，沪铜收涨0.16%，沪铝收涨0.64%，沪锌收涨0.35%，沪铅收涨0.60%，沪镍收跌0.42%，沪锡收跌0.46%。氧化铝夜盘收跌0.59%，铝合金收涨0.28%。不锈钢夜盘收跌0.62%。",
+    "sort_time": "1786381410087867",
+    "showTime": "2026-08-11 01:03:30",
+    "time": "2026-08-11 01:03:30",
+    "publish_time": "2026-08-11 01:03:30",
+    "raw_data": {
+      "code": "202608113836987867",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786381410087867",
+      "share": 0,
+      "showTime": "2026-08-11 01:03:30",
+      "stockList": [],
+      "summary": "【沪铝夜盘收涨0.64%】国际铜夜盘收跌0.02%，沪铜收涨0.16%，沪铝收涨0.64%，沪锌收涨0.35%，沪铅收涨0.60%，沪镍收跌0.42%，沪锡收跌0.46%。氧化铝夜盘收跌0.59%，铝合金收涨0.28%。不锈钢夜盘收跌0.62%。",
+      "title": "沪铝夜盘收涨0.64%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836987867.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "镍"
+        },
+        {
+          "id": "C504",
+          "name": "钢铁",
+          "matched_keyword": "不锈钢"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501",
+        "C504"
+      ]
+    }
+  },
+  {
+    "id": "f8bf32141f74aca7",
+    "code": "202608113836987716",
+    "title": "特朗普延长并缩小美国《琼斯法案》航运豁免范围",
+    "summary": "【特朗普延长并缩小美国《琼斯法案》航运豁免范围】特朗普延长并缩小美国《琼斯法案》航运豁免范围，将航运豁免范围限制在能源大宗商品和化肥领域。",
+    "content": "【特朗普延长并缩小美国《琼斯法案》航运豁免范围】特朗普延长并缩小美国《琼斯法案》航运豁免范围，将航运豁免范围限制在能源大宗商品和化肥领域。",
+    "full_content": "【特朗普延长并缩小美国《琼斯法案》航运豁免范围】特朗普延长并缩小美国《琼斯法案》航运豁免范围，将航运豁免范围限制在能源大宗商品和化肥领域。",
+    "sort_time": "1786381330087716",
+    "showTime": "2026-08-11 01:02:10",
+    "time": "2026-08-11 01:02:10",
+    "publish_time": "2026-08-11 01:02:10",
+    "raw_data": {
+      "code": "202608113836987716",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786381330087716",
+      "share": 1,
+      "showTime": "2026-08-11 01:02:10",
+      "stockList": [
+        "90.BK1482",
+        "90.BK0450"
+      ],
+      "summary": "【特朗普延长并缩小美国《琼斯法案》航运豁免范围】特朗普延长并缩小美国《琼斯法案》航运豁免范围，将航运豁免范围限制在能源大宗商品和化肥领域。",
+      "title": "特朗普延长并缩小美国《琼斯法案》航运豁免范围",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836987716.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1482",
+      "90.BK0450"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C508",
+          "name": "化工",
+          "matched_keyword": "化肥"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C508"
+      ]
+    }
+  },
+  {
+    "id": "7ccd19ece777f7ce",
+    "code": "202608113836987687",
+    "title": "谷歌表示：有信心符合得克萨斯州数据中心标准",
+    "summary": "谷歌表示，有信心符合得克萨斯州数据中心标准。",
+    "content": "谷歌表示，有信心符合得克萨斯州数据中心标准。",
+    "full_content": "谷歌表示，有信心符合得克萨斯州数据中心标准。",
+    "sort_time": "1786381229087687",
+    "showTime": "2026-08-11 01:00:29",
+    "time": "2026-08-11 01:00:29",
+    "publish_time": "2026-08-11 01:00:29",
+    "raw_data": {
+      "code": "202608113836987687",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786381229087687",
+      "share": 0,
+      "showTime": "2026-08-11 01:00:29",
+      "stockList": [
+        "90.BK0922",
+        "105.GOOG"
+      ],
+      "summary": "谷歌表示，有信心符合得克萨斯州数据中心标准。",
+      "title": "谷歌表示：有信心符合得克萨斯州数据中心标准",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836987687.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0922",
+      "105.GOOG"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "1905eed7dd901996",
+    "code": "202608113836987082",
+    "title": "英国石油据悉拟出售委内瑞拉Cocuina气田20%股权",
+    "summary": "【英国石油据悉拟出售委内瑞拉Cocuina气田20%股权】英国石油据悉计划将其在委内瑞拉Cocuina天然气田持有的20%股权出售给特立尼达和多巴哥国家天然气公司（NGC）。该气田所产天然气的70%将用于生产液化天然气，其余部分将供应石化行业。该项目的最终投资决定有望在2026年底前做出。",
+    "content": "【英国石油据悉拟出售委内瑞拉Cocuina气田20%股权】英国石油据悉计划将其在委内瑞拉Cocuina天然气田持有的20%股权出售给特立尼达和多巴哥国家天然气公司（NGC）。该气田所产天然气的70%将用于生产液化天然气，其余部分将供应石化行业。该项目的最终投资决定有望在2026年底前做出。",
+    "full_content": "【英国石油据悉拟出售委内瑞拉Cocuina气田20%股权】英国石油据悉计划将其在委内瑞拉Cocuina天然气田持有的20%股权出售给特立尼达和多巴哥国家天然气公司（NGC）。该气田所产天然气的70%将用于生产液化天然气，其余部分将供应石化行业。该项目的最终投资决定有望在2026年底前做出。",
+    "sort_time": "1786380892087082",
+    "showTime": "2026-08-11 00:54:52",
+    "time": "2026-08-11 00:54:52",
+    "publish_time": "2026-08-11 00:54:52",
+    "raw_data": {
+      "code": "202608113836987082",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786380892087082",
+      "share": 0,
+      "showTime": "2026-08-11 00:54:52",
+      "stockList": [
+        "106.BP"
+      ],
+      "summary": "【英国石油据悉拟出售委内瑞拉Cocuina气田20%股权】英国石油据悉计划将其在委内瑞拉Cocuina天然气田持有的20%股权出售给特立尼达和多巴哥国家天然气公司（NGC）。该气田所产天然气的70%将用于生产液化天然气，其余部分将供应石化行业。该项目的最终投资决定有望在2026年底前做出。",
+      "title": "英国石油据悉拟出售委内瑞拉Cocuina气田20%股权",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836987082.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.BP"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        },
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506",
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "25765f1639d6fa1c",
+    "code": "202608113836986996",
+    "title": "OpenAI推出ChatGPT Business高级席位",
+    "summary": "【OpenAI推出ChatGPT Business高级席位】OpenAI推出ChatGPT Business高级席位。高级席位价格为每用户每月125美元，按年付费则为每用户每月100美元。 新版高级席位使用权限较标准版提升五倍，无五小时使用上限，每周使用额度按固定周期重置",
+    "content": "【OpenAI推出ChatGPT Business高级席位】OpenAI推出ChatGPT Business高级席位。高级席位价格为每用户每月125美元，按年付费则为每用户每月100美元。 新版高级席位使用权限较标准版提升五倍，无五小时使用上限，每周使用额度按固定周期重置",
+    "full_content": "【OpenAI推出ChatGPT Business高级席位】OpenAI推出ChatGPT Business高级席位。高级席位价格为每用户每月125美元，按年付费则为每用户每月100美元。 新版高级席位使用权限较标准版提升五倍，无五小时使用上限，每周使用额度按固定周期重置",
+    "sort_time": "1786380735086996",
+    "showTime": "2026-08-11 00:52:15",
+    "time": "2026-08-11 00:52:15",
+    "publish_time": "2026-08-11 00:52:15",
+    "raw_data": {
+      "code": "202608113836986996",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786380735086996",
+      "share": 0,
+      "showTime": "2026-08-11 00:52:15",
+      "stockList": [
+        "90.BK1126"
+      ],
+      "summary": "【OpenAI推出ChatGPT Business高级席位】OpenAI推出ChatGPT Business高级席位。高级席位价格为每用户每月125美元，按年付费则为每用户每月100美元。 新版高级席位使用权限较标准版提升五倍，无五小时使用上限，每周使用额度按固定周期重置",
+      "title": "OpenAI推出ChatGPT Business高级席位",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836986996.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1126"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "ChatGPT"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "0b20c43a3eb38c7f",
+    "code": "202608113836986148",
+    "title": "美国32所高校被指控招生过程相互合谋",
+    "summary": "【美国32所高校被指控招生过程相互合谋】当地时间8月10日，美国一位法官裁定，包括杜克大学、康奈尔大学和西北大学在内的32所美国主要高校必须面对一项拟议的集体诉讼。该诉讼指控这些学校合谋，利用广受欢迎的“提前录取”招生程序，抬高了数万名学生的学费成本。马萨诸塞州联邦地区法官安吉尔·凯利表示，原告（其中包括两名卫斯理大学的前学生）提出的指控具有合理依据。",
+    "content": "【美国32所高校被指控招生过程相互合谋】当地时间8月10日，美国一位法官裁定，包括杜克大学、康奈尔大学和西北大学在内的32所美国主要高校必须面对一项拟议的集体诉讼。该诉讼指控这些学校合谋，利用广受欢迎的“提前录取”招生程序，抬高了数万名学生的学费成本。马萨诸塞州联邦地区法官安吉尔·凯利表示，原告（其中包括两名卫斯理大学的前学生）提出的指控具有合理依据。",
+    "full_content": "【美国32所高校被指控招生过程相互合谋】当地时间8月10日，美国一位法官裁定，包括杜克大学、康奈尔大学和西北大学在内的32所美国主要高校必须面对一项拟议的集体诉讼。该诉讼指控这些学校合谋，利用广受欢迎的“提前录取”招生程序，抬高了数万名学生的学费成本。马萨诸塞州联邦地区法官安吉尔·凯利表示，原告（其中包括两名卫斯理大学的前学生）提出的指控具有合理依据。",
+    "sort_time": "1786380517086148",
+    "showTime": "2026-08-11 00:48:37",
+    "time": "2026-08-11 00:48:37",
+    "publish_time": "2026-08-11 00:48:37",
+    "raw_data": {
+      "code": "202608113836986148",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786380517086148",
+      "share": 0,
+      "showTime": "2026-08-11 00:48:37",
+      "stockList": [],
+      "summary": "【美国32所高校被指控招生过程相互合谋】当地时间8月10日，美国一位法官裁定，包括杜克大学、康奈尔大学和西北大学在内的32所美国主要高校必须面对一项拟议的集体诉讼。该诉讼指控这些学校合谋，利用广受欢迎的“提前录取”招生程序，抬高了数万名学生的学费成本。马萨诸塞州联邦地区法官安吉尔·凯利表示，原告（其中包括两名卫斯理大学的前学生）提出的指控具有合理依据。",
+      "title": "美国32所高校被指控招生过程相互合谋",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836986148.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "df986c423853896f",
+    "code": "202608113836986343",
+    "title": "AI数字基础设施提供商5C Group宣布获得超过14亿美元资金",
+    "summary": "【AI数字基础设施提供商5C Group宣布获得超过14亿美元资金】AI数字基础设施提供商5C Group宣布获得超过14亿美元资金，以支持其北美AI数字基础设施的扩展。这笔新资本将用于加速孟菲斯园区的收购和建设，同时推动俄亥俄州和凤凰城园区的开发与扩建。",
+    "content": "【AI数字基础设施提供商5C Group宣布获得超过14亿美元资金】AI数字基础设施提供商5C Group宣布获得超过14亿美元资金，以支持其北美AI数字基础设施的扩展。这笔新资本将用于加速孟菲斯园区的收购和建设，同时推动俄亥俄州和凤凰城园区的开发与扩建。",
+    "full_content": "【AI数字基础设施提供商5C Group宣布获得超过14亿美元资金】AI数字基础设施提供商5C Group宣布获得超过14亿美元资金，以支持其北美AI数字基础设施的扩展。这笔新资本将用于加速孟菲斯园区的收购和建设，同时推动俄亥俄州和凤凰城园区的开发与扩建。",
+    "sort_time": "1786380506086343",
+    "showTime": "2026-08-11 00:48:26",
+    "time": "2026-08-11 00:48:26",
+    "publish_time": "2026-08-11 00:48:26",
+    "raw_data": {
+      "code": "202608113836986343",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786380506086343",
+      "share": 0,
+      "showTime": "2026-08-11 00:48:26",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "【AI数字基础设施提供商5C Group宣布获得超过14亿美元资金】AI数字基础设施提供商5C Group宣布获得超过14亿美元资金，以支持其北美AI数字基础设施的扩展。这笔新资本将用于加速孟菲斯园区的收购和建设，同时推动俄亥俄州和凤凰城园区的开发与扩建。",
+      "title": "AI数字基础设施提供商5C Group宣布获得超过14亿美元资金",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836986343.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "e7f56ce004c075c8",
+    "code": "202608113836985738",
+    "title": "美国三大股指走低",
+    "summary": "美国三大股指走低，截至目前，道琼斯指数跌0.16%，标普500指数跌0.10%，纳斯达克综合指数跌0.40%",
+    "content": "美国三大股指走低，截至目前，道琼斯指数跌0.16%，标普500指数跌0.10%，纳斯达克综合指数跌0.40%",
+    "full_content": "美国三大股指走低，截至目前，道琼斯指数跌0.16%，标普500指数跌0.10%，纳斯达克综合指数跌0.40%",
+    "sort_time": "1786379928085738",
+    "showTime": "2026-08-11 00:38:48",
+    "time": "2026-08-11 00:38:48",
+    "publish_time": "2026-08-11 00:38:48",
+    "raw_data": {
+      "code": "202608113836985738",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786379928085738",
+      "share": 0,
+      "showTime": "2026-08-11 00:38:48",
+      "stockList": [],
+      "summary": "美国三大股指走低，截至目前，道琼斯指数跌0.16%，标普500指数跌0.10%，纳斯达克综合指数跌0.40%",
+      "title": "美国三大股指走低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113836985738.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a315a35fc0cac6a6",
     "code": "202608113836985518",
-    "title": "特朗普同样要求伊朗做出赔偿",
-    "summary": "【特朗普同样要求伊朗做出赔偿】特朗普表示，伊朗要求就损失获得赔偿，现在同样要求伊朗做出赔偿，将把赔偿问题纳入未来的谈判。",
-    "content": "【特朗普同样要求伊朗做出赔偿】特朗普表示，伊朗要求就损失获得赔偿，现在同样要求伊朗做出赔偿，将把赔偿问题纳入未来的谈判。",
-    "full_content": "【特朗普同样要求伊朗做出赔偿】特朗普表示，伊朗要求就损失获得赔偿，现在同样要求伊朗做出赔偿，将把赔偿问题纳入未来的谈判。",
+    "title": "特朗普要求伊朗做出赔偿",
+    "summary": "【特朗普要求伊朗做出赔偿】美国总统特朗普当地时间8月10日在社交媒体发帖称，他注意到，伊朗正在要求就过去五个月军事冲突中遭受的损失获得赔偿。特朗普称，“我同样要求伊朗进行赔偿，我已指示我的代表们将这一要求明确纳入未来所有谈判之中。”",
+    "content": "【特朗普要求伊朗做出赔偿】美国总统特朗普当地时间8月10日在社交媒体发帖称，他注意到，伊朗正在要求就过去五个月军事冲突中遭受的损失获得赔偿。特朗普称，“我同样要求伊朗进行赔偿，我已指示我的代表们将这一要求明确纳入未来所有谈判之中。”",
+    "full_content": "【特朗普要求伊朗做出赔偿】美国总统特朗普当地时间8月10日在社交媒体发帖称，他注意到，伊朗正在要求就过去五个月军事冲突中遭受的损失获得赔偿。特朗普称，“我同样要求伊朗进行赔偿，我已指示我的代表们将这一要求明确纳入未来所有谈判之中。”",
     "sort_time": "1786379765085518",
     "showTime": "2026-08-11 00:36:05",
     "time": "2026-08-11 00:36:05",
@@ -52,13 +534,13 @@
     "raw_data": {
       "code": "202608113836985518",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 59,
       "realSort": "1786379765085518",
-      "share": 0,
+      "share": 17,
       "showTime": "2026-08-11 00:36:05",
       "stockList": [],
-      "summary": "【特朗普同样要求伊朗做出赔偿】特朗普表示，伊朗要求就损失获得赔偿，现在同样要求伊朗做出赔偿，将把赔偿问题纳入未来的谈判。",
-      "title": "特朗普同样要求伊朗做出赔偿",
+      "summary": "【特朗普要求伊朗做出赔偿】美国总统特朗普当地时间8月10日在社交媒体发帖称，他注意到，伊朗正在要求就过去五个月军事冲突中遭受的损失获得赔偿。特朗普称，“我同样要求伊朗进行赔偿，我已指示我的代表们将这一要求明确纳入未来所有谈判之中。”",
+      "title": "特朗普要求伊朗做出赔偿",
       "titleColor": 3
     },
     "source": "东方财富快讯",
@@ -68,8 +550,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
+    "comment_count": 59,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -91,9 +573,9 @@
     "raw_data": {
       "code": "202608113836984749",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 4,
       "realSort": "1786379569084749",
-      "share": 0,
+      "share": 3,
       "showTime": "2026-08-11 00:32:49",
       "stockList": [
         "90.BK1161",
@@ -113,8 +595,8 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 4,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -144,9 +626,9 @@
     "raw_data": {
       "code": "202608113836982519",
       "image": [],
-      "pinglun_Num": 54,
+      "pinglun_Num": 83,
       "realSort": "1786379312082519",
-      "share": 114,
+      "share": 148,
       "showTime": "2026-08-11 00:28:32",
       "stockList": [
         "90.BK1161",
@@ -166,8 +648,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 54,
-    "share_count": 114,
+    "comment_count": 83,
+    "share_count": 148,
     "tags": {
       "industries": [],
       "concepts": [
@@ -197,9 +679,9 @@
     "raw_data": {
       "code": "202608113836980230",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786378425080230",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-11 00:13:45",
       "stockList": [
         "90.BK1616"
@@ -217,8 +699,8 @@
       "90.BK1616"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 2,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -240,9 +722,9 @@
     "raw_data": {
       "code": "202608113836979992",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 6,
       "realSort": "1786378268079992",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-11 00:11:08",
       "stockList": [
         "90.BK0433",
@@ -262,8 +744,8 @@
       "90.BK0882"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 0,
+    "comment_count": 6,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -410,9 +892,9 @@
     "raw_data": {
       "code": "202608113836978368",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1786377817078368",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-11 00:03:37",
       "stockList": [],
       "summary": "【伊朗最高领袖任命革命卫队总司令】伊朗最高领袖穆杰塔巴·哈梅内伊8月10日对伊朗武装力量进行6项新的人事任命，其中包括任命阿里·阿卜杜拉希空军少将为伊朗武装部队总参谋长，任命艾哈迈德·瓦希迪准将为伊朗伊斯兰革命卫队总司令。",
@@ -426,8 +908,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
+    "comment_count": 4,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -594,7 +1076,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786376615076082",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-08-10 23:43:35",
       "stockList": [],
       "summary": "【国际原油价格涨幅扩大至4%】WTI原油期货价格涨4%，报81.274美元/桶；布伦特原油期货价格涨4%，报86.832美元/桶。",
@@ -609,7 +1091,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -680,7 +1162,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1786376352072212",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-08-10 23:39:12",
       "stockList": [],
       "summary": "【日央行公布会议意见 多名委员呼吁加快加息】当地时间10日，日本央行公布了今年7月30日至31日的货币政策会议上出现的主要意见。尽管此次会议后，日本央行将政策利率维持在1%不变，但部分政策委员警告称，不能忽视通胀超过2%的风险，并提出应当加快加息步伐。日本内阁府7月24日发布的2026财年经济财政白皮书指出，由于中东局势带来输入性通胀压力，同时劳动力短缺等结构性问题持续存在，日本经济复苏仍面临多重挑战。",
@@ -695,7 +1177,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -711,6 +1193,69 @@
           "id": "C402",
           "name": "银行",
           "matched_keyword": "央行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "e7e31ca081180825",
+    "code": "202608103836972190",
+    "title": "人民币跨境支付系统在纳米比亚启动",
+    "summary": "【人民币跨境支付系统在纳米比亚启动】标准银行纳米比亚子行10日宣布正式启动人民币跨境支付系统（CIPS）服务，成为纳米比亚首家提供该服务的银行。标准银行纳米比亚子行首席执行官埃尔温·奇普卡在启动仪式上说，中国是纳米比亚的最重要贸易伙伴之一，对高效跨境支付解决方案的需求日益增长。",
+    "content": "【人民币跨境支付系统在纳米比亚启动】标准银行纳米比亚子行10日宣布正式启动人民币跨境支付系统（CIPS）服务，成为纳米比亚首家提供该服务的银行。标准银行纳米比亚子行首席执行官埃尔温·奇普卡在启动仪式上说，中国是纳米比亚的最重要贸易伙伴之一，对高效跨境支付解决方案的需求日益增长。",
+    "full_content": "【人民币跨境支付系统在纳米比亚启动】标准银行纳米比亚子行10日宣布正式启动人民币跨境支付系统（CIPS）服务，成为纳米比亚首家提供该服务的银行。标准银行纳米比亚子行首席执行官埃尔温·奇普卡在启动仪式上说，中国是纳米比亚的最重要贸易伙伴之一，对高效跨境支付解决方案的需求日益增长。",
+    "sort_time": "1786376323072190",
+    "showTime": "2026-08-10 23:38:43",
+    "time": "2026-08-10 23:38:43",
+    "publish_time": "2026-08-10 23:38:43",
+    "raw_data": {
+      "code": "202608103836972190",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786376323072190",
+      "share": 0,
+      "showTime": "2026-08-10 23:38:43",
+      "stockList": [
+        "90.BK0475",
+        "90.BK1283"
+      ],
+      "summary": "【人民币跨境支付系统在纳米比亚启动】标准银行纳米比亚子行10日宣布正式启动人民币跨境支付系统（CIPS）服务，成为纳米比亚首家提供该服务的银行。标准银行纳米比亚子行首席执行官埃尔温·奇普卡在启动仪式上说，中国是纳米比亚的最重要贸易伙伴之一，对高效跨境支付解决方案的需求日益增长。",
+      "title": "人民币跨境支付系统在纳米比亚启动",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608103836972190.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0475",
+      "90.BK1283"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
         }
       ],
       "industry_ids": [
@@ -1009,9 +1554,9 @@
     "raw_data": {
       "code": "202608103836967745",
       "image": [],
-      "pinglun_Num": 237,
+      "pinglun_Num": 274,
       "realSort": "1786374722067745",
-      "share": 311,
+      "share": 346,
       "showTime": "2026-08-10 23:12:02",
       "stockList": [],
       "summary": "【中星4B卫星发射失利】8月10日20时02分，我国在文昌航天发射场使用长征七号改运载火箭发射中星4B卫星，火箭飞行异常，发射任务失利。具体原因正在进一步分析排查。",
@@ -1025,8 +1570,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 237,
-    "share_count": 311,
+    "comment_count": 274,
+    "share_count": 346,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1426,7 +1971,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786372628057224",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-08-10 22:37:08",
       "stockList": [
         "105.APA"
@@ -1445,7 +1990,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 6,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1761,507 +2306,6 @@
     "has_stock_mention": true,
     "comment_count": 1,
     "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "719843ba9fafaf4e",
-    "code": "202608103836937348",
-    "title": "标普500指数和纳斯达克100指数转涨",
-    "summary": "标普500指数和纳斯达克100指数转涨。",
-    "content": "标普500指数和纳斯达克100指数转涨。",
-    "full_content": "标普500指数和纳斯达克100指数转涨。",
-    "sort_time": "1786370956037348",
-    "showTime": "2026-08-10 22:09:16",
-    "time": "2026-08-10 22:09:16",
-    "publish_time": "2026-08-10 22:09:16",
-    "raw_data": {
-      "code": "202608103836937348",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786370956037348",
-      "share": 2,
-      "showTime": "2026-08-10 22:09:16",
-      "stockList": [],
-      "summary": "标普500指数和纳斯达克100指数转涨。",
-      "title": "标普500指数和纳斯达克100指数转涨",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836937348.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "28fc14b849a0dd1e",
-    "code": "202608103836936514",
-    "title": "美股存储股短线拉升",
-    "summary": "美股存储股短线拉升，闪迪涨超4%，西部数据涨超2%，美光科技涨近2%。",
-    "content": "美股存储股短线拉升，闪迪涨超4%，西部数据涨超2%，美光科技涨近2%。",
-    "full_content": "美股存储股短线拉升，闪迪涨超4%，西部数据涨超2%，美光科技涨近2%。",
-    "sort_time": "1786370909036514",
-    "showTime": "2026-08-10 22:08:29",
-    "time": "2026-08-10 22:08:29",
-    "publish_time": "2026-08-10 22:08:29",
-    "raw_data": {
-      "code": "202608103836936514",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1786370909036514",
-      "share": 31,
-      "showTime": "2026-08-10 22:08:29",
-      "stockList": [
-        "105.SNDK"
-      ],
-      "summary": "美股存储股短线拉升，闪迪涨超4%，西部数据涨超2%，美光科技涨近2%。",
-      "title": "美股存储股短线拉升",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836936514.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.SNDK"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 31,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "fcc0c1422ac8490c",
-    "code": "202608103836936843",
-    "title": "英国的消费品公司Imperial Brands据悉计划在美国和欧洲裁员数千人",
-    "summary": "英国的消费品公司ImperialBrands据悉计划在美国和欧洲裁员数千人。",
-    "content": "英国的消费品公司ImperialBrands据悉计划在美国和欧洲裁员数千人。",
-    "full_content": "英国的消费品公司ImperialBrands据悉计划在美国和欧洲裁员数千人。",
-    "sort_time": "1786370866036843",
-    "showTime": "2026-08-10 22:07:46",
-    "time": "2026-08-10 22:07:46",
-    "publish_time": "2026-08-10 22:07:46",
-    "raw_data": {
-      "code": "202608103836936843",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1786370866036843",
-      "share": 0,
-      "showTime": "2026-08-10 22:07:46",
-      "stockList": [],
-      "summary": "英国的消费品公司ImperialBrands据悉计划在美国和欧洲裁员数千人。",
-      "title": "英国的消费品公司Imperial Brands据悉计划在美国和欧洲裁员数千人",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836936843.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5e9b58b86cf2698f",
-    "code": "202608103836934939",
-    "title": "受第13号台风“白海豚”环流影响 上海市继续发布暴雨蓝色预警信号",
-    "summary": "【受第13号台风“白海豚”环流影响 上海市继续发布暴雨蓝色预警信号】上海市气象台2026年8月10日21时21分继续发布暴雨蓝色预警信号：受第13号台风“白海豚”环流影响，预计8月11日上午以前，我市仍将出现1小时雨量40毫米以上或6小时累积降水量达70毫米以上的降水天气，请注意防范极端强降雨可能引发的城市积涝。",
-    "content": "【受第13号台风“白海豚”环流影响 上海市继续发布暴雨蓝色预警信号】上海市气象台2026年8月10日21时21分继续发布暴雨蓝色预警信号：受第13号台风“白海豚”环流影响，预计8月11日上午以前，我市仍将出现1小时雨量40毫米以上或6小时累积降水量达70毫米以上的降水天气，请注意防范极端强降雨可能引发的城市积涝。",
-    "full_content": "【受第13号台风“白海豚”环流影响 上海市继续发布暴雨蓝色预警信号】上海市气象台2026年8月10日21时21分继续发布暴雨蓝色预警信号：受第13号台风“白海豚”环流影响，预计8月11日上午以前，我市仍将出现1小时雨量40毫米以上或6小时累积降水量达70毫米以上的降水天气，请注意防范极端强降雨可能引发的城市积涝。",
-    "sort_time": "1786370860034939",
-    "showTime": "2026-08-10 22:07:40",
-    "time": "2026-08-10 22:07:40",
-    "publish_time": "2026-08-10 22:07:40",
-    "raw_data": {
-      "code": "202608103836934939",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1786370860034939",
-      "share": 3,
-      "showTime": "2026-08-10 22:07:40",
-      "stockList": [],
-      "summary": "【受第13号台风“白海豚”环流影响 上海市继续发布暴雨蓝色预警信号】上海市气象台2026年8月10日21时21分继续发布暴雨蓝色预警信号：受第13号台风“白海豚”环流影响，预计8月11日上午以前，我市仍将出现1小时雨量40毫米以上或6小时累积降水量达70毫米以上的降水天气，请注意防范极端强降雨可能引发的城市积涝。",
-      "title": "受第13号台风“白海豚”环流影响 上海市继续发布暴雨蓝色预警信号",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836934939.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f6fa989bd193141c",
-    "code": "202608103836934278",
-    "title": "ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整",
-    "summary": "【ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整】就投资者“公司最近产品大幅涨价是否属实？”的提问，ST惠伦在互动平台回复称，公司主要产品为SMD谐振器、TSX热敏晶体、TCXO振荡器和OSC振荡器。公司基于原材料价格上涨等原因对产品价格进行了相应调整。公司会时刻关注行业状态、市场需求、原材料价格等情况，综合确定产品售价。",
-    "content": "【ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整】就投资者“公司最近产品大幅涨价是否属实？”的提问，ST惠伦在互动平台回复称，公司主要产品为SMD谐振器、TSX热敏晶体、TCXO振荡器和OSC振荡器。公司基于原材料价格上涨等原因对产品价格进行了相应调整。公司会时刻关注行业状态、市场需求、原材料价格等情况，综合确定产品售价。",
-    "full_content": "【ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整】就投资者“公司最近产品大幅涨价是否属实？”的提问，ST惠伦在互动平台回复称，公司主要产品为SMD谐振器、TSX热敏晶体、TCXO振荡器和OSC振荡器。公司基于原材料价格上涨等原因对产品价格进行了相应调整。公司会时刻关注行业状态、市场需求、原材料价格等情况，综合确定产品售价。",
-    "sort_time": "1786370630034278",
-    "showTime": "2026-08-10 22:03:50",
-    "time": "2026-08-10 22:03:50",
-    "publish_time": "2026-08-10 22:03:50",
-    "raw_data": {
-      "code": "202608103836934278",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786370630034278",
-      "share": 3,
-      "showTime": "2026-08-10 22:03:50",
-      "stockList": [],
-      "summary": "【ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整】就投资者“公司最近产品大幅涨价是否属实？”的提问，ST惠伦在互动平台回复称，公司主要产品为SMD谐振器、TSX热敏晶体、TCXO振荡器和OSC振荡器。公司基于原材料价格上涨等原因对产品价格进行了相应调整。公司会时刻关注行业状态、市场需求、原材料价格等情况，综合确定产品售价。",
-      "title": "ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836934278.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C304",
-          "name": "医疗服务",
-          "matched_keyword": "CXO"
-        },
-        {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "ST"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C304",
-        "C814"
-      ]
-    }
-  },
-  {
-    "id": "bdfaecf95981ff01",
-    "code": "202608103836931994",
-    "title": "美股AI应用软件股表现活跃",
-    "summary": "美股AI应用软件股表现活跃，Tempus AI涨超6%，MongoDB、多邻国、Spotify、Datadog涨超4%，Palantir、Twilio、Figma、Snowflake涨超2%。",
-    "content": "美股AI应用软件股表现活跃，Tempus AI涨超6%，MongoDB、多邻国、Spotify、Datadog涨超4%，Palantir、Twilio、Figma、Snowflake涨超2%。",
-    "full_content": "美股AI应用软件股表现活跃，Tempus AI涨超6%，MongoDB、多邻国、Spotify、Datadog涨超4%，Palantir、Twilio、Figma、Snowflake涨超2%。",
-    "sort_time": "1786370466031994",
-    "showTime": "2026-08-10 22:01:06",
-    "time": "2026-08-10 22:01:06",
-    "publish_time": "2026-08-10 22:01:06",
-    "raw_data": {
-      "code": "202608103836931994",
-      "image": [],
-      "pinglun_Num": 17,
-      "realSort": "1786370466031994",
-      "share": 34,
-      "showTime": "2026-08-10 22:01:06",
-      "stockList": [
-        "105.MDB"
-      ],
-      "summary": "美股AI应用软件股表现活跃，Tempus AI涨超6%，MongoDB、多邻国、Spotify、Datadog涨超4%，Palantir、Twilio、Figma、Snowflake涨超2%。",
-      "title": "美股AI应用软件股表现活跃",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836931994.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.MDB"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 17,
-    "share_count": 34,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "f262530afaeb013c",
-    "code": "202608103836932566",
-    "title": "音乐流媒体平台Spotify盘初涨幅扩大至4.5%",
-    "summary": "音乐流媒体平台Spotify盘初走强，涨幅扩大至4.5%。",
-    "content": "音乐流媒体平台Spotify盘初走强，涨幅扩大至4.5%。",
-    "full_content": "音乐流媒体平台Spotify盘初走强，涨幅扩大至4.5%。",
-    "sort_time": "1786370422032566",
-    "showTime": "2026-08-10 22:00:22",
-    "time": "2026-08-10 22:00:22",
-    "publish_time": "2026-08-10 22:00:22",
-    "raw_data": {
-      "code": "202608103836932566",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1786370422032566",
-      "share": 1,
-      "showTime": "2026-08-10 22:00:22",
-      "stockList": [
-        "106.SPOT"
-      ],
-      "summary": "音乐流媒体平台Spotify盘初走强，涨幅扩大至4.5%。",
-      "title": "音乐流媒体平台Spotify盘初涨幅扩大至4.5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836932566.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.SPOT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "9f962195513b1c27",
-    "code": "202608103836927561",
-    "title": "英国10年期国债收益率上升5个基点至4.97%",
-    "summary": "英国10年期国债收益率上升5个基点至4.97%。",
-    "content": "英国10年期国债收益率上升5个基点至4.97%。",
-    "full_content": "英国10年期国债收益率上升5个基点至4.97%。",
-    "sort_time": "1786370201027561",
-    "showTime": "2026-08-10 21:56:41",
-    "time": "2026-08-10 21:56:41",
-    "publish_time": "2026-08-10 21:56:41",
-    "raw_data": {
-      "code": "202608103836927561",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1786370201027561",
-      "share": 1,
-      "showTime": "2026-08-10 21:56:41",
-      "stockList": [],
-      "summary": "英国10年期国债收益率上升5个基点至4.97%。",
-      "title": "英国10年期国债收益率上升5个基点至4.97%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836927561.html",
-    "category": "债券",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d387750a6a363968",
-    "code": "202608103836925068",
-    "title": "多家券商上调年底标普500指数至8000点",
-    "summary": "【多家券商上调年底标普500指数至8000点】摩根大通10日正式将标普500指数2026年底目标点位从7800点上调至8000点，主要理由是企业盈利前景稳健，同时大型科技公司加大AI投资有望显著加快营收增长。这一目标点位较标普500上周五收盘点位还有约3%的上行空间。目前至少已有七家券商预计标普500将在2026年底达到8000点。",
-    "content": "【多家券商上调年底标普500指数至8000点】摩根大通10日正式将标普500指数2026年底目标点位从7800点上调至8000点，主要理由是企业盈利前景稳健，同时大型科技公司加大AI投资有望显著加快营收增长。这一目标点位较标普500上周五收盘点位还有约3%的上行空间。目前至少已有七家券商预计标普500将在2026年底达到8000点。",
-    "full_content": "【多家券商上调年底标普500指数至8000点】摩根大通10日正式将标普500指数2026年底目标点位从7800点上调至8000点，主要理由是企业盈利前景稳健，同时大型科技公司加大AI投资有望显著加快营收增长。这一目标点位较标普500上周五收盘点位还有约3%的上行空间。目前至少已有七家券商预计标普500将在2026年底达到8000点。",
-    "sort_time": "1786369966025068",
-    "showTime": "2026-08-10 21:52:46",
-    "time": "2026-08-10 21:52:46",
-    "publish_time": "2026-08-10 21:52:46",
-    "raw_data": {
-      "code": "202608103836925068",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1786369966025068",
-      "share": 5,
-      "showTime": "2026-08-10 21:52:46",
-      "stockList": [
-        "90.BK1366",
-        "90.BK0473"
-      ],
-      "summary": "【多家券商上调年底标普500指数至8000点】摩根大通10日正式将标普500指数2026年底目标点位从7800点上调至8000点，主要理由是企业盈利前景稳健，同时大型科技公司加大AI投资有望显著加快营收增长。这一目标点位较标普500上周五收盘点位还有约3%的上行空间。目前至少已有七家券商预计标普500将在2026年底达到8000点。",
-      "title": "多家券商上调年底标普500指数至8000点",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836925068.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK1366",
-      "90.BK0473"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 5,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "券商"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "券商"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C001",
-        "C401"
-      ]
-    }
-  },
-  {
-    "id": "fe371c774f5cfff5",
-    "code": "202608103836925424",
-    "title": "WTI原油期货涨幅扩大至3%",
-    "summary": "WTI原油期货涨幅扩大至3%，报80.541美元/桶；布伦特原油期货涨幅扩大至3%，报86.059美元/桶。",
-    "content": "WTI原油期货涨幅扩大至3%，报80.541美元/桶；布伦特原油期货涨幅扩大至3%，报86.059美元/桶。",
-    "full_content": "WTI原油期货涨幅扩大至3%，报80.541美元/桶；布伦特原油期货涨幅扩大至3%，报86.059美元/桶。",
-    "sort_time": "1786369954025424",
-    "showTime": "2026-08-10 21:52:34",
-    "time": "2026-08-10 21:52:34",
-    "publish_time": "2026-08-10 21:52:34",
-    "raw_data": {
-      "code": "202608103836925424",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1786369954025424",
-      "share": 9,
-      "showTime": "2026-08-10 21:52:34",
-      "stockList": [],
-      "summary": "WTI原油期货涨幅扩大至3%，报80.541美元/桶；布伦特原油期货涨幅扩大至3%，报86.059美元/桶。",
-      "title": "WTI原油期货涨幅扩大至3%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836925424.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "3a9abaa042e16e88",
-    "code": "202608103836924322",
-    "title": "美元兑日元向上触及159 日内涨0.78%",
-    "summary": "美元兑日元向上触及159，日内涨0.78%。",
-    "content": "美元兑日元向上触及159，日内涨0.78%。",
-    "full_content": "美元兑日元向上触及159，日内涨0.78%。",
-    "sort_time": "1786369642024322",
-    "showTime": "2026-08-10 21:47:22",
-    "time": "2026-08-10 21:47:22",
-    "publish_time": "2026-08-10 21:47:22",
-    "raw_data": {
-      "code": "202608103836924322",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1786369642024322",
-      "share": 0,
-      "showTime": "2026-08-10 21:47:22",
-      "stockList": [],
-      "summary": "美元兑日元向上触及159，日内涨0.78%。",
-      "title": "美元兑日元向上触及159 日内涨0.78%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608103836924322.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
