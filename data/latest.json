@@ -1,5 +1,959 @@
 [
   {
+    "id": "e66e5bb8b3bfe342",
+    "code": "202608113838224027",
+    "title": "狮门影业一度涨超6%",
+    "summary": "狮门影业一度涨超6%，安森基金敦促狮门影业考虑出售自身业务。",
+    "content": "狮门影业一度涨超6%，安森基金敦促狮门影业考虑出售自身业务。",
+    "full_content": "狮门影业一度涨超6%，安森基金敦促狮门影业考虑出售自身业务。",
+    "sort_time": "1786458574024027",
+    "showTime": "2026-08-11 22:29:34",
+    "time": "2026-08-11 22:29:34",
+    "publish_time": "2026-08-11 22:29:34",
+    "raw_data": {
+      "code": "202608113838224027",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786458574024027",
+      "share": 0,
+      "showTime": "2026-08-11 22:29:34",
+      "stockList": [],
+      "summary": "狮门影业一度涨超6%，安森基金敦促狮门影业考虑出售自身业务。",
+      "title": "狮门影业一度涨超6%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838224027.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3e64c59b25c45195",
+    "code": "202608113838221890",
+    "title": "TD Synnex扩大IBM业务分销范围",
+    "summary": "TDSynnex扩大IBM业务分销范围，以加速由合作伙伴主导的全球性增长。",
+    "content": "TDSynnex扩大IBM业务分销范围，以加速由合作伙伴主导的全球性增长。",
+    "full_content": "TDSynnex扩大IBM业务分销范围，以加速由合作伙伴主导的全球性增长。",
+    "sort_time": "1786458481021890",
+    "showTime": "2026-08-11 22:28:01",
+    "time": "2026-08-11 22:28:01",
+    "publish_time": "2026-08-11 22:28:01",
+    "raw_data": {
+      "code": "202608113838221890",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786458481021890",
+      "share": 0,
+      "showTime": "2026-08-11 22:28:01",
+      "stockList": [
+        "106.SNX"
+      ],
+      "summary": "TDSynnex扩大IBM业务分销范围，以加速由合作伙伴主导的全球性增长。",
+      "title": "TD Synnex扩大IBM业务分销范围",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838221890.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "106.SNX"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e8df3c3527b87d81",
+    "code": "202608113838219634",
+    "title": "伊朗外交部长与巴基斯坦内政部长举行会谈",
+    "summary": "据伊朗方面消息，伊朗外交部长与巴基斯坦内政部长举行会谈。",
+    "content": "据伊朗方面消息，伊朗外交部长与巴基斯坦内政部长举行会谈。",
+    "full_content": "据伊朗方面消息，伊朗外交部长与巴基斯坦内政部长举行会谈。",
+    "sort_time": "1786458388019634",
+    "showTime": "2026-08-11 22:26:28",
+    "time": "2026-08-11 22:26:28",
+    "publish_time": "2026-08-11 22:26:28",
+    "raw_data": {
+      "code": "202608113838219634",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786458388019634",
+      "share": 1,
+      "showTime": "2026-08-11 22:26:28",
+      "stockList": [],
+      "summary": "据伊朗方面消息，伊朗外交部长与巴基斯坦内政部长举行会谈。",
+      "title": "伊朗外交部长与巴基斯坦内政部长举行会谈",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838219634.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "007f1612d6f2a738",
+    "code": "202608113838218995",
+    "title": "Manus：将恢复以独立公司的形式运营 部分用户数据将被删除",
+    "summary": "【Manus：将恢复以独立公司的形式运营 部分用户数据将被删除】8月11日，Manus发布《致Manus用户的一封信》。Manus表示，即将恢复以独立公司的形式运营，作为恢复独立运营的一部分，同时为遵守特定司法辖区的监管要求，部分用户在2025年12月29日当天或之后产生的数据，将于2026年8月23日08:00起至8月24日期间（SGT）被删除。",
+    "content": "【Manus：将恢复以独立公司的形式运营 部分用户数据将被删除】8月11日，Manus发布《致Manus用户的一封信》。Manus表示，即将恢复以独立公司的形式运营，作为恢复独立运营的一部分，同时为遵守特定司法辖区的监管要求，部分用户在2025年12月29日当天或之后产生的数据，将于2026年8月23日08:00起至8月24日期间（SGT）被删除。",
+    "full_content": "【Manus：将恢复以独立公司的形式运营 部分用户数据将被删除】8月11日，Manus发布《致Manus用户的一封信》。Manus表示，即将恢复以独立公司的形式运营，作为恢复独立运营的一部分，同时为遵守特定司法辖区的监管要求，部分用户在2025年12月29日当天或之后产生的数据，将于2026年8月23日08:00起至8月24日期间（SGT）被删除。",
+    "sort_time": "1786458165018995",
+    "showTime": "2026-08-11 22:22:45",
+    "time": "2026-08-11 22:22:45",
+    "publish_time": "2026-08-11 22:22:45",
+    "raw_data": {
+      "code": "202608113838218995",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1786458165018995",
+      "share": 3,
+      "showTime": "2026-08-11 22:22:45",
+      "stockList": [],
+      "summary": "【Manus：将恢复以独立公司的形式运营 部分用户数据将被删除】8月11日，Manus发布《致Manus用户的一封信》。Manus表示，即将恢复以独立公司的形式运营，作为恢复独立运营的一部分，同时为遵守特定司法辖区的监管要求，部分用户在2025年12月29日当天或之后产生的数据，将于2026年8月23日08:00起至8月24日期间（SGT）被删除。",
+      "title": "Manus：将恢复以独立公司的形式运营 部分用户数据将被删除",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838218995.html",
+    "category": "政策",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a170f209e1e395ac",
+    "code": "202608113838217233",
+    "title": "伊朗天然气日产能9月有望回升近1亿立方米",
+    "summary": "【伊朗天然气日产能9月有望回升近1亿立方米】伊朗石油部长穆赫辛·帕克内贾德11日说，伊朗正在修复因战事受损的天然气生产设施，按计划9月底前其日产能可回升9500万立方米。这个数量接近伊朗因战事而损失的天然气日产量的一半。隶属于伊朗石油部的沙纳通讯社援引帕克内贾德的话报道，伊朗将在9月底前恢复因南部阿萨卢耶天然气处理设施遇袭而损失的约9500万立方米天然气日产能。",
+    "content": "【伊朗天然气日产能9月有望回升近1亿立方米】伊朗石油部长穆赫辛·帕克内贾德11日说，伊朗正在修复因战事受损的天然气生产设施，按计划9月底前其日产能可回升9500万立方米。这个数量接近伊朗因战事而损失的天然气日产量的一半。隶属于伊朗石油部的沙纳通讯社援引帕克内贾德的话报道，伊朗将在9月底前恢复因南部阿萨卢耶天然气处理设施遇袭而损失的约9500万立方米天然气日产能。",
+    "full_content": "【伊朗天然气日产能9月有望回升近1亿立方米】伊朗石油部长穆赫辛·帕克内贾德11日说，伊朗正在修复因战事受损的天然气生产设施，按计划9月底前其日产能可回升9500万立方米。这个数量接近伊朗因战事而损失的天然气日产量的一半。隶属于伊朗石油部的沙纳通讯社援引帕克内贾德的话报道，伊朗将在9月底前恢复因南部阿萨卢耶天然气处理设施遇袭而损失的约9500万立方米天然气日产能。",
+    "sort_time": "1786458055017233",
+    "showTime": "2026-08-11 22:20:55",
+    "time": "2026-08-11 22:20:55",
+    "publish_time": "2026-08-11 22:20:55",
+    "raw_data": {
+      "code": "202608113838217233",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786458055017233",
+      "share": 1,
+      "showTime": "2026-08-11 22:20:55",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "【伊朗天然气日产能9月有望回升近1亿立方米】伊朗石油部长穆赫辛·帕克内贾德11日说，伊朗正在修复因战事受损的天然气生产设施，按计划9月底前其日产能可回升9500万立方米。这个数量接近伊朗因战事而损失的天然气日产量的一半。隶属于伊朗石油部的沙纳通讯社援引帕克内贾德的话报道，伊朗将在9月底前恢复因南部阿萨卢耶天然气处理设施遇袭而损失的约9500万立方米天然气日产能。",
+      "title": "伊朗天然气日产能9月有望回升近1亿立方米",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838217233.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        },
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506",
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "5baebfda2ca2a1c9",
+    "code": "202608113838217359",
+    "title": "Circle涨超8% Bitwise称投资者严重低估其增长机会",
+    "summary": "Circle涨超8%，Bitwise称投资者严重低估其增长机会。",
+    "content": "Circle涨超8%，Bitwise称投资者严重低估其增长机会。",
+    "full_content": "Circle涨超8%，Bitwise称投资者严重低估其增长机会。",
+    "sort_time": "1786457837017359",
+    "showTime": "2026-08-11 22:17:17",
+    "time": "2026-08-11 22:17:17",
+    "publish_time": "2026-08-11 22:17:17",
+    "raw_data": {
+      "code": "202608113838217359",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786457837017359",
+      "share": 4,
+      "showTime": "2026-08-11 22:17:17",
+      "stockList": [
+        "106.CRCL"
+      ],
+      "summary": "Circle涨超8%，Bitwise称投资者严重低估其增长机会。",
+      "title": "Circle涨超8% Bitwise称投资者严重低估其增长机会",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838217359.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "106.CRCL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9fc9cfaaa0f9935a",
+    "code": "202608113838213012",
+    "title": "纵慧芯光高端光通信芯片及器件研发制造基地落户常州",
+    "summary": "【纵慧芯光高端光通信芯片及器件研发制造基地落户常州】据“常州发布”，8月11日上午，纵慧芯光高端光通信芯片及器件研发制造基地签约落户常州。本次签约项目持续投入总计约50亿元，将重点建设磷化铟高端激光芯片研发及量产产线，助推国内光通信核心芯片的国产化进程。",
+    "content": "【纵慧芯光高端光通信芯片及器件研发制造基地落户常州】据“常州发布”，8月11日上午，纵慧芯光高端光通信芯片及器件研发制造基地签约落户常州。本次签约项目持续投入总计约50亿元，将重点建设磷化铟高端激光芯片研发及量产产线，助推国内光通信核心芯片的国产化进程。",
+    "full_content": "【纵慧芯光高端光通信芯片及器件研发制造基地落户常州】据“常州发布”，8月11日上午，纵慧芯光高端光通信芯片及器件研发制造基地签约落户常州。本次签约项目持续投入总计约50亿元，将重点建设磷化铟高端激光芯片研发及量产产线，助推国内光通信核心芯片的国产化进程。",
+    "sort_time": "1786457601013012",
+    "showTime": "2026-08-11 22:13:21",
+    "time": "2026-08-11 22:13:21",
+    "publish_time": "2026-08-11 22:13:21",
+    "raw_data": {
+      "code": "202608113838213012",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1786457601013012",
+      "share": 2,
+      "showTime": "2026-08-11 22:13:21",
+      "stockList": [
+        "150.159813",
+        "150.013446"
+      ],
+      "summary": "【纵慧芯光高端光通信芯片及器件研发制造基地落户常州】据“常州发布”，8月11日上午，纵慧芯光高端光通信芯片及器件研发制造基地签约落户常州。本次签约项目持续投入总计约50亿元，将重点建设磷化铟高端激光芯片研发及量产产线，助推国内光通信核心芯片的国产化进程。",
+      "title": "纵慧芯光高端光通信芯片及器件研发制造基地落户常州",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838213012.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.159813",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        },
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002",
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "60bcc511ce5d587c",
+    "code": "202608113838213598",
+    "title": "广汽旗下人形机器人公司慧仑科技完成亿元融资",
+    "summary": "【广汽旗下人形机器人公司慧仑科技完成亿元融资】据广汽集团消息，近日，广汽集团孵化的人形机器人公司广东慧仑科技有限公司（简称“慧仑科技”）宣布完成超亿元融资，由中车国创基金、招银国际、四川科创等机构联合投资。",
+    "content": "【广汽旗下人形机器人公司慧仑科技完成亿元融资】据广汽集团消息，近日，广汽集团孵化的人形机器人公司广东慧仑科技有限公司（简称“慧仑科技”）宣布完成超亿元融资，由中车国创基金、招银国际、四川科创等机构联合投资。",
+    "full_content": "【广汽旗下人形机器人公司慧仑科技完成亿元融资】据广汽集团消息，近日，广汽集团孵化的人形机器人公司广东慧仑科技有限公司（简称“慧仑科技”）宣布完成超亿元融资，由中车国创基金、招银国际、四川科创等机构联合投资。",
+    "sort_time": "1786457489013598",
+    "showTime": "2026-08-11 22:11:29",
+    "time": "2026-08-11 22:11:29",
+    "publish_time": "2026-08-11 22:11:29",
+    "raw_data": {
+      "code": "202608113838213598",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786457489013598",
+      "share": 2,
+      "showTime": "2026-08-11 22:11:29",
+      "stockList": [
+        "1.601238"
+      ],
+      "summary": "【广汽旗下人形机器人公司慧仑科技完成亿元融资】据广汽集团消息，近日，广汽集团孵化的人形机器人公司广东慧仑科技有限公司（简称“慧仑科技”）宣布完成超亿元融资，由中车国创基金、招银国际、四川科创等机构联合投资。",
+      "title": "广汽旗下人形机器人公司慧仑科技完成亿元融资",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838213598.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.601238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C012",
+          "name": "机器人",
+          "matched_keyword": "人形机器人"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C012"
+      ]
+    }
+  },
+  {
+    "id": "2b37644c53c338ac",
+    "code": "202608113838211231",
+    "title": "连日高温晴热 河西走廊农作物受影响 旱情或将持续",
+    "summary": "【连日高温晴热 河西走廊农作物受影响 旱情或将持续】甘肃省河西走廊连日来的高温晴热天气，对农作物灌溉产生不利影响。张掖市种植玉米160余万亩，其中制种玉米110万亩左右。总台记者在甘州区一处制种玉米种植基地看到，受高温少雨缺水多因素影响，农作物生长状况欠佳。在一些田块，处于灌浆后期的玉米苞叶干枯，籽粒数量少于往年。",
+    "content": "【连日高温晴热 河西走廊农作物受影响 旱情或将持续】甘肃省河西走廊连日来的高温晴热天气，对农作物灌溉产生不利影响。张掖市种植玉米160余万亩，其中制种玉米110万亩左右。总台记者在甘州区一处制种玉米种植基地看到，受高温少雨缺水多因素影响，农作物生长状况欠佳。在一些田块，处于灌浆后期的玉米苞叶干枯，籽粒数量少于往年。",
+    "full_content": "【连日高温晴热 河西走廊农作物受影响 旱情或将持续】甘肃省河西走廊连日来的高温晴热天气，对农作物灌溉产生不利影响。张掖市种植玉米160余万亩，其中制种玉米110万亩左右。总台记者在甘州区一处制种玉米种植基地看到，受高温少雨缺水多因素影响，农作物生长状况欠佳。在一些田块，处于灌浆后期的玉米苞叶干枯，籽粒数量少于往年。",
+    "sort_time": "1786457407011231",
+    "showTime": "2026-08-11 22:10:07",
+    "time": "2026-08-11 22:10:07",
+    "publish_time": "2026-08-11 22:10:07",
+    "raw_data": {
+      "code": "202608113838211231",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1786457407011231",
+      "share": 5,
+      "showTime": "2026-08-11 22:10:07",
+      "stockList": [],
+      "summary": "【连日高温晴热 河西走廊农作物受影响 旱情或将持续】甘肃省河西走廊连日来的高温晴热天气，对农作物灌溉产生不利影响。张掖市种植玉米160余万亩，其中制种玉米110万亩左右。总台记者在甘州区一处制种玉米种植基地看到，受高温少雨缺水多因素影响，农作物生长状况欠佳。在一些田块，处于灌浆后期的玉米苞叶干枯，籽粒数量少于往年。",
+      "title": "连日高温晴热 河西走廊农作物受影响 旱情或将持续",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838211231.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f306d77eab0f88cc",
+    "code": "202608113838203391",
+    "title": "美国7月成屋销售年化总数降至406万户",
+    "summary": "美国7月成屋销售年化总数降至406万户，预期为405万户。",
+    "content": "美国7月成屋销售年化总数降至406万户，预期为405万户。",
+    "full_content": "美国7月成屋销售年化总数降至406万户，预期为405万户。",
+    "sort_time": "1786456846003391",
+    "showTime": "2026-08-11 22:00:46",
+    "time": "2026-08-11 22:00:46",
+    "publish_time": "2026-08-11 22:00:46",
+    "raw_data": {
+      "code": "202608113838203391",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786456846003391",
+      "share": 1,
+      "showTime": "2026-08-11 22:00:46",
+      "stockList": [],
+      "summary": "美国7月成屋销售年化总数降至406万户，预期为405万户。",
+      "title": "美国7月成屋销售年化总数降至406万户",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838203391.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5153a095b90bf91f",
+    "code": "202608113838202879",
+    "title": "加拿大贸易部长和美国贸易代表格里尔将于周二纽约时间13:30会面",
+    "summary": "加拿大贸易部长和美国贸易代表格里尔将于周二纽约时间13:30会面。",
+    "content": "加拿大贸易部长和美国贸易代表格里尔将于周二纽约时间13:30会面。",
+    "full_content": "加拿大贸易部长和美国贸易代表格里尔将于周二纽约时间13:30会面。",
+    "sort_time": "1786456719002879",
+    "showTime": "2026-08-11 21:58:39",
+    "time": "2026-08-11 21:58:39",
+    "publish_time": "2026-08-11 21:58:39",
+    "raw_data": {
+      "code": "202608113838202879",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786456719002879",
+      "share": 0,
+      "showTime": "2026-08-11 21:58:39",
+      "stockList": [
+        "90.BK1550",
+        "90.BK0484"
+      ],
+      "summary": "加拿大贸易部长和美国贸易代表格里尔将于周二纽约时间13:30会面。",
+      "title": "加拿大贸易部长和美国贸易代表格里尔将于周二纽约时间13:30会面",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838202879.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1550",
+      "90.BK0484"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0138e485d544aa7f",
+    "code": "202608113838203526",
+    "title": "朗科智能：公司间接持有宇树科技的股份比例约为0.0379%",
+    "summary": "【朗科智能：公司间接持有宇树科技的股份比例约为0.0379%】朗科智能在互动平台表示，截至2026年8月10日，根据最新的工商登记信息及宇树科技上市招股意向书，公司投资的江苏疌泉红土智能创业投资基金（有限合伙）持有宇树科技股份有限公司0.5934%的股份，股权穿透后公司间接持有宇树科技的股份比例约为0.0379%；公司与宇树科技暂无其他业务合作。",
+    "content": "【朗科智能：公司间接持有宇树科技的股份比例约为0.0379%】朗科智能在互动平台表示，截至2026年8月10日，根据最新的工商登记信息及宇树科技上市招股意向书，公司投资的江苏疌泉红土智能创业投资基金（有限合伙）持有宇树科技股份有限公司0.5934%的股份，股权穿透后公司间接持有宇树科技的股份比例约为0.0379%；公司与宇树科技暂无其他业务合作。",
+    "full_content": "【朗科智能：公司间接持有宇树科技的股份比例约为0.0379%】朗科智能在互动平台表示，截至2026年8月10日，根据最新的工商登记信息及宇树科技上市招股意向书，公司投资的江苏疌泉红土智能创业投资基金（有限合伙）持有宇树科技股份有限公司0.5934%的股份，股权穿透后公司间接持有宇树科技的股份比例约为0.0379%；公司与宇树科技暂无其他业务合作。",
+    "sort_time": "1786456676003526",
+    "showTime": "2026-08-11 21:57:56",
+    "time": "2026-08-11 21:57:56",
+    "publish_time": "2026-08-11 21:57:56",
+    "raw_data": {
+      "code": "202608113838203526",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1786456676003526",
+      "share": 3,
+      "showTime": "2026-08-11 21:57:56",
+      "stockList": [
+        "1007.BK000391",
+        "0.300543"
+      ],
+      "summary": "【朗科智能：公司间接持有宇树科技的股份比例约为0.0379%】朗科智能在互动平台表示，截至2026年8月10日，根据最新的工商登记信息及宇树科技上市招股意向书，公司投资的江苏疌泉红土智能创业投资基金（有限合伙）持有宇树科技股份有限公司0.5934%的股份，股权穿透后公司间接持有宇树科技的股份比例约为0.0379%；公司与宇树科技暂无其他业务合作。",
+      "title": "朗科智能：公司间接持有宇树科技的股份比例约为0.0379%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838203526.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1007.BK000391",
+      "0.300543"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "31827978c1a08c33",
+    "code": "202608113838202130",
+    "title": "纽约联储：上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%",
+    "summary": "【纽约联储：上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%】据美国纽约联储数据，上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.62%。上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+    "content": "【纽约联储：上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%】据美国纽约联储数据，上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.62%。上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+    "full_content": "【纽约联储：上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%】据美国纽约联储数据，上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.62%。上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+    "sort_time": "1786456611002130",
+    "showTime": "2026-08-11 21:56:51",
+    "time": "2026-08-11 21:56:51",
+    "publish_time": "2026-08-11 21:56:51",
+    "raw_data": {
+      "code": "202608113838202130",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786456611002130",
+      "share": 0,
+      "showTime": "2026-08-11 21:56:51",
+      "stockList": [],
+      "summary": "【纽约联储：上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%】据美国纽约联储数据，上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.62%。上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+      "title": "纽约联储：上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838202130.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "bf050a6ffd1adcf0",
+    "code": "202608113838200489",
+    "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
+    "summary": "【报告：上半年全球自然灾害所致经济损失达千亿美元】全球最大再保险公司之一瑞士再保险公司8月11日说，今年上半年全球自然灾害造成的经济损失据估算已达1000亿美元，较去年同期的1520亿美元大幅减少。但今年下半年，厄尔尼诺现象可能会加剧气象灾害的破坏力，风险不容忽视。",
+    "content": "【报告：上半年全球自然灾害所致经济损失达千亿美元】全球最大再保险公司之一瑞士再保险公司8月11日说，今年上半年全球自然灾害造成的经济损失据估算已达1000亿美元，较去年同期的1520亿美元大幅减少。但今年下半年，厄尔尼诺现象可能会加剧气象灾害的破坏力，风险不容忽视。",
+    "full_content": "【报告：上半年全球自然灾害所致经济损失达千亿美元】全球最大再保险公司之一瑞士再保险公司8月11日说，今年上半年全球自然灾害造成的经济损失据估算已达1000亿美元，较去年同期的1520亿美元大幅减少。但今年下半年，厄尔尼诺现象可能会加剧气象灾害的破坏力，风险不容忽视。",
+    "sort_time": "1786456489000489",
+    "showTime": "2026-08-11 21:54:49",
+    "time": "2026-08-11 21:54:49",
+    "publish_time": "2026-08-11 21:54:49",
+    "raw_data": {
+      "code": "202608113838200489",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786456489000489",
+      "share": 1,
+      "showTime": "2026-08-11 21:54:49",
+      "stockList": [],
+      "summary": "【报告：上半年全球自然灾害所致经济损失达千亿美元】全球最大再保险公司之一瑞士再保险公司8月11日说，今年上半年全球自然灾害造成的经济损失据估算已达1000亿美元，较去年同期的1520亿美元大幅减少。但今年下半年，厄尔尼诺现象可能会加剧气象灾害的破坏力，风险不容忽视。",
+      "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838200489.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C403",
+          "name": "保险",
+          "matched_keyword": "再保险"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C403"
+      ]
+    }
+  },
+  {
+    "id": "933b08e782b7ffe7",
+    "code": "202608113838196918",
+    "title": "也门政府军与胡塞武装在马里卜省交火致11人死亡",
+    "summary": "【也门政府军与胡塞武装在马里卜省交火致11人死亡】亚丁消息：也门一名军方人士11日称，也门政府军与胡塞武装当天在该国东北部的马里卜省交火，造成至少8名胡塞武装人员和3名政府军士兵死亡。",
+    "content": "【也门政府军与胡塞武装在马里卜省交火致11人死亡】亚丁消息：也门一名军方人士11日称，也门政府军与胡塞武装当天在该国东北部的马里卜省交火，造成至少8名胡塞武装人员和3名政府军士兵死亡。",
+    "full_content": "【也门政府军与胡塞武装在马里卜省交火致11人死亡】亚丁消息：也门一名军方人士11日称，也门政府军与胡塞武装当天在该国东北部的马里卜省交火，造成至少8名胡塞武装人员和3名政府军士兵死亡。",
+    "sort_time": "1786456302096918",
+    "showTime": "2026-08-11 21:51:42",
+    "time": "2026-08-11 21:51:42",
+    "publish_time": "2026-08-11 21:51:42",
+    "raw_data": {
+      "code": "202608113838196918",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1786456302096918",
+      "share": 1,
+      "showTime": "2026-08-11 21:51:42",
+      "stockList": [],
+      "summary": "【也门政府军与胡塞武装在马里卜省交火致11人死亡】亚丁消息：也门一名军方人士11日称，也门政府军与胡塞武装当天在该国东北部的马里卜省交火，造成至少8名胡塞武装人员和3名政府军士兵死亡。",
+      "title": "也门政府军与胡塞武装在马里卜省交火致11人死亡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838196918.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f7e9aeb67b8df46f",
+    "code": "202608113838194069",
+    "title": "布伦特原油期货跌幅扩大至1%",
+    "summary": "布伦特原油期货跌幅扩大至1%，报86.821美元/桶。",
+    "content": "布伦特原油期货跌幅扩大至1%，报86.821美元/桶。",
+    "full_content": "布伦特原油期货跌幅扩大至1%，报86.821美元/桶。",
+    "sort_time": "1786456006094069",
+    "showTime": "2026-08-11 21:46:46",
+    "time": "2026-08-11 21:46:46",
+    "publish_time": "2026-08-11 21:46:46",
+    "raw_data": {
+      "code": "202608113838194069",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786456006094069",
+      "share": 0,
+      "showTime": "2026-08-11 21:46:46",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "布伦特原油期货跌幅扩大至1%，报86.821美元/桶。",
+      "title": "布伦特原油期货跌幅扩大至1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838194069.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "7fb44df1c8fb4a96",
+    "code": "202608113838191773",
+    "title": "美官员称美军向一艘与伊朗有关的船只开火",
+    "summary": "【美官员称美军向一艘与伊朗有关的船只开火】美国《华尔街日报》11日援引一名美国官员的话报道称，美军当日向一艘悬挂巴拿马国旗、与伊朗有关的船只开火。",
+    "content": "【美官员称美军向一艘与伊朗有关的船只开火】美国《华尔街日报》11日援引一名美国官员的话报道称，美军当日向一艘悬挂巴拿马国旗、与伊朗有关的船只开火。",
+    "full_content": "【美官员称美军向一艘与伊朗有关的船只开火】美国《华尔街日报》11日援引一名美国官员的话报道称，美军当日向一艘悬挂巴拿马国旗、与伊朗有关的船只开火。",
+    "sort_time": "1786455944091773",
+    "showTime": "2026-08-11 21:45:44",
+    "time": "2026-08-11 21:45:44",
+    "publish_time": "2026-08-11 21:45:44",
+    "raw_data": {
+      "code": "202608113838191773",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1786455944091773",
+      "share": 3,
+      "showTime": "2026-08-11 21:45:44",
+      "stockList": [],
+      "summary": "【美官员称美军向一艘与伊朗有关的船只开火】美国《华尔街日报》11日援引一名美国官员的话报道称，美军当日向一艘悬挂巴拿马国旗、与伊朗有关的船只开火。",
+      "title": "美官员称美军向一艘与伊朗有关的船只开火",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838191773.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 10,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "73a6b760027fdc52",
+    "code": "202608113838194462",
+    "title": "卫星图像显示油轮在霍尔木兹海峡外接力转运 维系中东原油出口生命线",
+    "summary": "【卫星图像显示油轮在霍尔木兹海峡外接力转运 维系中东原油出口生命线】尽管近期袭击事件频发，中东一条涉及油轮在霍尔木兹海峡外接力运输的关键石油供应通道仍在运作。卫星图像显示，有船只在霍尔木兹海峡外进行货物转运，表明部分油轮仍在关闭追踪信号的情况下穿越这一水道。欧盟“Sentinel2”卫星数据显示，周一在阿曼和阿联酋沿岸一段超过100公里（62英里）的海域内，共发现12起此类转运活动。",
+    "content": "【卫星图像显示油轮在霍尔木兹海峡外接力转运 维系中东原油出口生命线】尽管近期袭击事件频发，中东一条涉及油轮在霍尔木兹海峡外接力运输的关键石油供应通道仍在运作。卫星图像显示，有船只在霍尔木兹海峡外进行货物转运，表明部分油轮仍在关闭追踪信号的情况下穿越这一水道。欧盟“Sentinel2”卫星数据显示，周一在阿曼和阿联酋沿岸一段超过100公里（62英里）的海域内，共发现12起此类转运活动。",
+    "full_content": "【卫星图像显示油轮在霍尔木兹海峡外接力转运 维系中东原油出口生命线】尽管近期袭击事件频发，中东一条涉及油轮在霍尔木兹海峡外接力运输的关键石油供应通道仍在运作。卫星图像显示，有船只在霍尔木兹海峡外进行货物转运，表明部分油轮仍在关闭追踪信号的情况下穿越这一水道。欧盟“Sentinel2”卫星数据显示，周一在阿曼和阿联酋沿岸一段超过100公里（62英里）的海域内，共发现12起此类转运活动。",
+    "sort_time": "1786455823094462",
+    "showTime": "2026-08-11 21:43:43",
+    "time": "2026-08-11 21:43:43",
+    "publish_time": "2026-08-11 21:43:43",
+    "raw_data": {
+      "code": "202608113838194462",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786455823094462",
+      "share": 1,
+      "showTime": "2026-08-11 21:43:43",
+      "stockList": [],
+      "summary": "【卫星图像显示油轮在霍尔木兹海峡外接力转运 维系中东原油出口生命线】尽管近期袭击事件频发，中东一条涉及油轮在霍尔木兹海峡外接力运输的关键石油供应通道仍在运作。卫星图像显示，有船只在霍尔木兹海峡外进行货物转运，表明部分油轮仍在关闭追踪信号的情况下穿越这一水道。欧盟“Sentinel2”卫星数据显示，周一在阿曼和阿联酋沿岸一段超过100公里（62英里）的海域内，共发现12起此类转运活动。",
+      "title": "卫星图像显示油轮在霍尔木兹海峡外接力转运 维系中东原油出口生命线",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838194462.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "卫星"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C202",
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "55169e4a58594d15",
+    "code": "202608113838187567",
+    "title": "谷歌推出面向人工智能专业认证的全新VIBE编码课程",
+    "summary": "谷歌推出面向人工智能专业认证的全新VIBE编码课程。",
+    "content": "谷歌推出面向人工智能专业认证的全新VIBE编码课程。",
+    "full_content": "谷歌推出面向人工智能专业认证的全新VIBE编码课程。",
+    "sort_time": "1786455426087567",
+    "showTime": "2026-08-11 21:37:06",
+    "time": "2026-08-11 21:37:06",
+    "publish_time": "2026-08-11 21:37:06",
+    "raw_data": {
+      "code": "202608113838187567",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786455426087567",
+      "share": 1,
+      "showTime": "2026-08-11 21:37:06",
+      "stockList": [
+        "90.BK0800",
+        "150.012322"
+      ],
+      "summary": "谷歌推出面向人工智能专业认证的全新VIBE编码课程。",
+      "title": "谷歌推出面向人工智能专业认证的全新VIBE编码课程",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838187567.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "150.012322"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "17c118416d23080f",
+    "code": "202608113838183441",
+    "title": "电影《去你的岛》票房破7000万",
+    "summary": "【电影《去你的岛》票房破7000万】据灯塔专业版实时数据，截至8月11日19时0分，影片《去你的岛》票房突破7000万。",
+    "content": "【电影《去你的岛》票房破7000万】据灯塔专业版实时数据，截至8月11日19时0分，影片《去你的岛》票房突破7000万。",
+    "full_content": "【电影《去你的岛》票房破7000万】据灯塔专业版实时数据，截至8月11日19时0分，影片《去你的岛》票房突破7000万。",
+    "sort_time": "1786455385083441",
+    "showTime": "2026-08-11 21:36:25",
+    "time": "2026-08-11 21:36:25",
+    "publish_time": "2026-08-11 21:36:25",
+    "raw_data": {
+      "code": "202608113838183441",
+      "image": [],
+      "pinglun_Num": 14,
+      "realSort": "1786455385083441",
+      "share": 2,
+      "showTime": "2026-08-11 21:36:25",
+      "stockList": [
+        "90.BK0486"
+      ],
+      "summary": "【电影《去你的岛》票房破7000万】据灯塔专业版实时数据，截至8月11日19时0分，影片《去你的岛》票房突破7000万。",
+      "title": "电影《去你的岛》票房破7000万",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608113838183441.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0486"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 14,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "6da12c914deb9e9b",
     "code": "202608113838174962",
     "title": "美股云计算服务商概念股盘初走高 Hut 8涨超7%",
@@ -13,14 +967,11 @@
     "raw_data": {
       "code": "202608113838174962",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 6,
       "realSort": "1786455291074962",
-      "share": 0,
+      "share": 8,
       "showTime": "2026-08-11 21:34:51",
-      "stockList": [
-        "150.012322",
-        "105.HUT"
-      ],
+      "stockList": [],
       "summary": "【美股云计算服务商概念股盘初走高 Hut 8涨超7%】美股云计算服务商概念股盘初走高，Hut 8涨超7%，CoreWeave、NEBIUS、IREN涨近4%。",
       "title": "美股云计算服务商概念股盘初走高 Hut 8涨超7%",
       "titleColor": 0
@@ -28,15 +979,12 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202608113838174962.html",
     "category": "行业",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "150.012322",
-      "105.HUT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [
@@ -66,7 +1014,7 @@
     "raw_data": {
       "code": "202608113838161754",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786455212061754",
       "share": 0,
       "showTime": "2026-08-11 21:33:32",
@@ -88,7 +1036,7 @@
       "90.BK0459"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -129,7 +1077,7 @@
     "raw_data": {
       "code": "202608113838162010",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786455128062010",
       "share": 0,
       "showTime": "2026-08-11 21:32:08",
@@ -149,7 +1097,7 @@
       "105.RKLB"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -180,12 +1128,12 @@
     "raw_data": {
       "code": "202608113838161116",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 12,
       "realSort": "1786455051061116",
-      "share": 0,
+      "share": 4,
       "showTime": "2026-08-11 21:30:51",
       "stockList": [
-        "0.159792",
+        "150.161025",
         "0.160636"
       ],
       "summary": "【美股三大指数小幅高开 云计算公司Riot Platforms涨逾21%】美股三大指数小幅高开，道琼斯指数涨0.13%，标普500指数涨0.10%，纳斯达克综合指数涨0.24%。云计算公司Riot Platforms涨逾21%，公司与Anthropic达成91亿美元算力协议。Fermi大涨超20%，公司签订数据中心项目租赁协议。互联网和移动平台公司SEA涨超10%，公司第二季度营收77.88亿美元，同比增长48.1%。",
@@ -198,12 +1146,12 @@
     "importance": 6,
     "sentiment": "bullish",
     "related_stocks": [
-      "0.159792",
+      "150.161025",
       "0.160636"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 0,
+    "comment_count": 12,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -245,7 +1193,7 @@
     "raw_data": {
       "code": "202608113838161455",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1786454902061455",
       "share": 0,
       "showTime": "2026-08-11 21:28:22",
@@ -267,7 +1215,7 @@
       "90.BK0963"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -339,7 +1287,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1786454481057026",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-11 21:21:21",
       "stockList": [],
       "summary": "【鲍卡·安德拉什当选匈牙利总统】匈牙利国会当地时间11日通过无记名投票方式选举由执政党蒂萨党推选的鲍卡·安德拉什为匈牙利总统。",
@@ -354,7 +1302,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -378,7 +1326,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1786454248055788",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-08-11 21:17:28",
       "stockList": [],
       "summary": "【韩国防部和防卫厅新设机构专责核潜艇建造】韩国国防部与防卫事业厅新设专门机构，负责推进核动力潜艇建造项目。",
@@ -393,7 +1341,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 0,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -423,9 +1371,9 @@
     "raw_data": {
       "code": "202608113838138336",
       "image": [],
-      "pinglun_Num": 159,
+      "pinglun_Num": 250,
       "realSort": "1786453412038336",
-      "share": 132,
+      "share": 168,
       "showTime": "2026-08-11 21:03:32",
       "stockList": [
         "90.BK1161",
@@ -445,8 +1393,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 159,
-    "share_count": 132,
+    "comment_count": 250,
+    "share_count": 168,
     "tags": {
       "industries": [],
       "concepts": [
@@ -484,7 +1432,7 @@
       "image": [],
       "pinglun_Num": 7,
       "realSort": "1786453408049386",
-      "share": 4,
+      "share": 7,
       "showTime": "2026-08-11 21:03:28",
       "stockList": [
         "90.BK1161",
@@ -505,7 +1453,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 7,
-    "share_count": 4,
+    "share_count": 7,
     "tags": {
       "industries": [
         {
@@ -604,9 +1552,9 @@
     "raw_data": {
       "code": "202608113838136090",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 10,
       "realSort": "1786453102036090",
-      "share": 12,
+      "share": 18,
       "showTime": "2026-08-11 20:58:22",
       "stockList": [],
       "summary": "【LME现货铜溢价飙升至近10个月新高】伦敦金属交易所（LME）的现货铜合约周二较三个月期铜合约出现近每吨200美元的溢价，创下近10个月以来的最高水平，突显出当前市场供应的严重紧张局面。",
@@ -620,8 +1568,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 12,
+    "comment_count": 10,
+    "share_count": 18,
     "tags": {
       "industries": [],
       "concepts": [
@@ -651,7 +1599,7 @@
     "raw_data": {
       "code": "202608113838136241",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786453098036241",
       "share": 0,
       "showTime": "2026-08-11 20:58:18",
@@ -671,7 +1619,7 @@
       "1.600238"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -708,9 +1656,9 @@
     "raw_data": {
       "code": "202608113838130979",
       "image": [],
-      "pinglun_Num": 44,
+      "pinglun_Num": 77,
       "realSort": "1786452530030979",
-      "share": 39,
+      "share": 66,
       "showTime": "2026-08-11 20:48:50",
       "stockList": [
         "90.BK0464",
@@ -730,8 +1678,8 @@
       "0.159945"
     ],
     "has_stock_mention": true,
-    "comment_count": 44,
-    "share_count": 39,
+    "comment_count": 77,
+    "share_count": 66,
     "tags": {
       "industries": [],
       "concepts": [
@@ -804,7 +1752,7 @@
     "raw_data": {
       "code": "202608113838128064",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1786452216028064",
       "share": 1,
       "showTime": "2026-08-11 20:43:36",
@@ -826,7 +1774,7 @@
       "0.300375"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -873,9 +1821,9 @@
     "raw_data": {
       "code": "202608113838127874",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 24,
       "realSort": "1786452204027874",
-      "share": 12,
+      "share": 14,
       "showTime": "2026-08-11 20:43:24",
       "stockList": [
         "999.436092",
@@ -895,8 +1843,8 @@
       "1.688525"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 12,
+    "comment_count": 24,
+    "share_count": 14,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -918,9 +1866,9 @@
     "raw_data": {
       "code": "202608113838136475",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 17,
       "realSort": "1786452086036475",
-      "share": 6,
+      "share": 10,
       "showTime": "2026-08-11 20:41:26",
       "stockList": [],
       "summary": "【法国全面禁止未经同意的电话营销 违规企业将遭重罚】法国已禁止未经消费者事先同意的电话营销，旨在保护消费者免受侵扰式推销，同时防范弱势群体遭遇商业欺诈。该法律于当地时间周二正式生效，由马克龙政府推动实施。",
@@ -934,8 +1882,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
-    "share_count": 6,
+    "comment_count": 17,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -957,7 +1905,7 @@
     "raw_data": {
       "code": "202608113838128357",
       "image": [],
-      "pinglun_Num": 36,
+      "pinglun_Num": 39,
       "realSort": "1786452084028357",
       "share": 5,
       "showTime": "2026-08-11 20:41:24",
@@ -973,7 +1921,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 36,
+    "comment_count": 39,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -996,9 +1944,9 @@
     "raw_data": {
       "code": "202608113838116561",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 26,
       "realSort": "1786451785016561",
-      "share": 9,
+      "share": 11,
       "showTime": "2026-08-11 20:36:25",
       "stockList": [
         "90.BK0538",
@@ -1018,8 +1966,8 @@
       "90.BK1421"
     ],
     "has_stock_mention": true,
-    "comment_count": 23,
-    "share_count": 9,
+    "comment_count": 26,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1102,9 +2050,9 @@
     "raw_data": {
       "code": "202608113838108819",
       "image": [],
-      "pinglun_Num": 258,
+      "pinglun_Num": 306,
       "realSort": "1786451165008819",
-      "share": 341,
+      "share": 394,
       "showTime": "2026-08-11 20:26:05",
       "stockList": [],
       "summary": "【巴基斯坦防长：美伊当前接近达成某项和平安排或协议】据彭博社消息，当地时间8月11日，巴基斯坦国防部长阿西夫表示，美国与伊朗已接近达成“某种安排”。阿西夫补充说，持久和平符合该地区利益。阿西夫在接受采访时称，局势再次朝着有利于达成和平安排或协议的方向发展。“过去两三天传来的信号表明，我们已接近达成某种安排。”",
@@ -1118,8 +2066,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 258,
-    "share_count": 341,
+    "comment_count": 306,
+    "share_count": 394,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1149,9 +2097,9 @@
     "raw_data": {
       "code": "202608113838110248",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 10,
       "realSort": "1786451137010248",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-11 20:25:37",
       "stockList": [
         "106.TME",
@@ -1171,8 +2119,8 @@
       "116.01698"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 0,
+    "comment_count": 10,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1237,7 +2185,7 @@
     "raw_data": {
       "code": "202608113838107544",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 8,
       "realSort": "1786450847007544",
       "share": 2,
       "showTime": "2026-08-11 20:20:47",
@@ -1253,7 +2201,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 8,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1366,9 +2314,9 @@
     "raw_data": {
       "code": "202608113838104287",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 18,
       "realSort": "1786450540004287",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-08-11 20:15:40",
       "stockList": [
         "90.BK0614",
@@ -1388,8 +2336,8 @@
       "116.00999"
     ],
     "has_stock_mention": true,
-    "comment_count": 16,
-    "share_count": 6,
+    "comment_count": 18,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1518,1040 +2466,6 @@
       "concept_ids": [
         "C401",
         "C707"
-      ]
-    }
-  },
-  {
-    "id": "5bfa6eb8274f6f89",
-    "code": "202608113838093563",
-    "title": "芝商所集团：白银24小时全天候交易将于9月11日启动",
-    "summary": "【芝商所集团：白银24小时全天候交易将于9月11日启动】芝商所集团宣布，白银24小时全天候交易将于9月11日启动，将把全天候交易范围扩大至100盎司白银期货。",
-    "content": "【芝商所集团：白银24小时全天候交易将于9月11日启动】芝商所集团宣布，白银24小时全天候交易将于9月11日启动，将把全天候交易范围扩大至100盎司白银期货。",
-    "full_content": "【芝商所集团：白银24小时全天候交易将于9月11日启动】芝商所集团宣布，白银24小时全天候交易将于9月11日启动，将把全天候交易范围扩大至100盎司白银期货。",
-    "sort_time": "1786449835093563",
-    "showTime": "2026-08-11 20:03:55",
-    "time": "2026-08-11 20:03:55",
-    "publish_time": "2026-08-11 20:03:55",
-    "raw_data": {
-      "code": "202608113838093563",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1786449835093563",
-      "share": 11,
-      "showTime": "2026-08-11 20:03:55",
-      "stockList": [
-        "90.BK1616"
-      ],
-      "summary": "【芝商所集团：白银24小时全天候交易将于9月11日启动】芝商所集团宣布，白银24小时全天候交易将于9月11日启动，将把全天候交易范围扩大至100盎司白银期货。",
-      "title": "芝商所集团：白银24小时全天候交易将于9月11日启动",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838093563.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1616"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 11,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "088bbc6da37a1fc4",
-    "code": "202608113838092714",
-    "title": "但斌回应投资人质疑：东方港湾在7月深度回调中没有大幅减仓 仅极小比例结构性微调",
-    "summary": "【但斌回应投资人质疑：东方港湾在7月深度回调中没有大幅减仓 仅极小比例结构性微调】东方港湾董事长但斌回应投资人质疑称，长江东方港湾2号目前依旧保持满仓状态，在7月本轮深度回调之前，该基金重仓AI产业链标的，一路坚持、未做大规模减仓，本轮跟随AI赛道出现了较大幅度回撤。本轮7月大跌行情中，东方港湾没有恐慌割肉、没有大幅减仓，仅做了极小比例的结构性微调。",
-    "content": "【但斌回应投资人质疑：东方港湾在7月深度回调中没有大幅减仓 仅极小比例结构性微调】东方港湾董事长但斌回应投资人质疑称，长江东方港湾2号目前依旧保持满仓状态，在7月本轮深度回调之前，该基金重仓AI产业链标的，一路坚持、未做大规模减仓，本轮跟随AI赛道出现了较大幅度回撤。本轮7月大跌行情中，东方港湾没有恐慌割肉、没有大幅减仓，仅做了极小比例的结构性微调。",
-    "full_content": "【但斌回应投资人质疑：东方港湾在7月深度回调中没有大幅减仓 仅极小比例结构性微调】东方港湾董事长但斌回应投资人质疑称，长江东方港湾2号目前依旧保持满仓状态，在7月本轮深度回调之前，该基金重仓AI产业链标的，一路坚持、未做大规模减仓，本轮跟随AI赛道出现了较大幅度回撤。本轮7月大跌行情中，东方港湾没有恐慌割肉、没有大幅减仓，仅做了极小比例的结构性微调。",
-    "sort_time": "1786449835092714",
-    "showTime": "2026-08-11 20:03:55",
-    "time": "2026-08-11 20:03:55",
-    "publish_time": "2026-08-11 20:03:55",
-    "raw_data": {
-      "code": "202608113838092714",
-      "image": [],
-      "pinglun_Num": 48,
-      "realSort": "1786449835092714",
-      "share": 30,
-      "showTime": "2026-08-11 20:03:55",
-      "stockList": [
-        "90.BK0800"
-      ],
-      "summary": "【但斌回应投资人质疑：东方港湾在7月深度回调中没有大幅减仓 仅极小比例结构性微调】东方港湾董事长但斌回应投资人质疑称，长江东方港湾2号目前依旧保持满仓状态，在7月本轮深度回调之前，该基金重仓AI产业链标的，一路坚持、未做大规模减仓，本轮跟随AI赛道出现了较大幅度回撤。本轮7月大跌行情中，东方港湾没有恐慌割肉、没有大幅减仓，仅做了极小比例的结构性微调。",
-      "title": "但斌回应投资人质疑：东方港湾在7月深度回调中没有大幅减仓 仅极小比例结构性微调",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838092714.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 48,
-    "share_count": 30,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "基金"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [
-        "I020201"
-      ],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "c1a6ab9dac987ef0",
-    "code": "202608113838096833",
-    "title": "波罗的海干散货运价指数下跌1.2%",
-    "summary": "【波罗的海干散货运价指数下跌1.2%】波罗的海干散货运价指数下跌1.2%，至3046点。",
-    "content": "【波罗的海干散货运价指数下跌1.2%】波罗的海干散货运价指数下跌1.2%，至3046点。",
-    "full_content": "【波罗的海干散货运价指数下跌1.2%】波罗的海干散货运价指数下跌1.2%，至3046点。",
-    "sort_time": "1786449796096833",
-    "showTime": "2026-08-11 20:03:16",
-    "time": "2026-08-11 20:03:16",
-    "publish_time": "2026-08-11 20:03:16",
-    "raw_data": {
-      "code": "202608113838096833",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786449796096833",
-      "share": 0,
-      "showTime": "2026-08-11 20:03:16",
-      "stockList": [],
-      "summary": "【波罗的海干散货运价指数下跌1.2%】波罗的海干散货运价指数下跌1.2%，至3046点。",
-      "title": "波罗的海干散货运价指数下跌1.2%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838096833.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5adba3b369746269",
-    "code": "202608113838100892",
-    "title": "IBM将为Together AI部署英伟达HGX B300集群",
-    "summary": "【IBM将为Together AI部署英伟达HGX B300集群】IBM将为Together AI部署英伟达HGX B300集群，用于开源AI推理，预计2027年第一季度上线。",
-    "content": "【IBM将为Together AI部署英伟达HGX B300集群】IBM将为Together AI部署英伟达HGX B300集群，用于开源AI推理，预计2027年第一季度上线。",
-    "full_content": "【IBM将为Together AI部署英伟达HGX B300集群】IBM将为Together AI部署英伟达HGX B300集群，用于开源AI推理，预计2027年第一季度上线。",
-    "sort_time": "1786449711000892",
-    "showTime": "2026-08-11 20:01:51",
-    "time": "2026-08-11 20:01:51",
-    "publish_time": "2026-08-11 20:01:51",
-    "raw_data": {
-      "code": "202608113838100892",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1786449711000892",
-      "share": 1,
-      "showTime": "2026-08-11 20:01:51",
-      "stockList": [
-        "90.BK0800",
-        "90.BK1161"
-      ],
-      "summary": "【IBM将为Together AI部署英伟达HGX B300集群】IBM将为Together AI部署英伟达HGX B300集群，用于开源AI推理，预计2027年第一季度上线。",
-      "title": "IBM将为Together AI部署英伟达HGX B300集群",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838100892.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "90.BK1161"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "1f29fc77f1bf3f90",
-    "code": "202608113838074962",
-    "title": "中俄举行第二十四轮领事磋商",
-    "summary": "【中俄举行第二十四轮领事磋商】8月11日，外交部领事司司长龙舟同俄罗斯外交部领事司司长克利莫夫在北京共同主持中俄第二十四轮领事磋商。双方重点就领事工作形势和中俄领事关系、便利人员往来、维护各自公民和机构安全与合法权益等议题深入交换意见。",
-    "content": "【中俄举行第二十四轮领事磋商】8月11日，外交部领事司司长龙舟同俄罗斯外交部领事司司长克利莫夫在北京共同主持中俄第二十四轮领事磋商。双方重点就领事工作形势和中俄领事关系、便利人员往来、维护各自公民和机构安全与合法权益等议题深入交换意见。",
-    "full_content": "【中俄举行第二十四轮领事磋商】8月11日，外交部领事司司长龙舟同俄罗斯外交部领事司司长克利莫夫在北京共同主持中俄第二十四轮领事磋商。双方重点就领事工作形势和中俄领事关系、便利人员往来、维护各自公民和机构安全与合法权益等议题深入交换意见。",
-    "sort_time": "1786449448074962",
-    "showTime": "2026-08-11 19:57:28",
-    "time": "2026-08-11 19:57:28",
-    "publish_time": "2026-08-11 19:57:28",
-    "raw_data": {
-      "code": "202608113838074962",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1786449448074962",
-      "share": 0,
-      "showTime": "2026-08-11 19:57:28",
-      "stockList": [],
-      "summary": "【中俄举行第二十四轮领事磋商】8月11日，外交部领事司司长龙舟同俄罗斯外交部领事司司长克利莫夫在北京共同主持中俄第二十四轮领事磋商。双方重点就领事工作形势和中俄领事关系、便利人员往来、维护各自公民和机构安全与合法权益等议题深入交换意见。",
-      "title": "中俄举行第二十四轮领事磋商",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838074962.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "345223479f5ed544",
-    "code": "202608113838074131",
-    "title": "鹏飞绿能：控股子公司获得政府补助413.57万元",
-    "summary": "【鹏飞绿能：控股子公司获得政府补助413.57万元】鹏飞绿能8月11日公告，公司控股子公司于2026年8月11日收到政府补助款4,135,690元，占公司最近一期经审计归属于上市公司股东净利润的10.77%，该项政府补助为现金形式，与公司日常经营活动有关，不具备可持续性。",
-    "content": "【鹏飞绿能：控股子公司获得政府补助413.57万元】鹏飞绿能8月11日公告，公司控股子公司于2026年8月11日收到政府补助款4,135,690元，占公司最近一期经审计归属于上市公司股东净利润的10.77%，该项政府补助为现金形式，与公司日常经营活动有关，不具备可持续性。",
-    "full_content": "【鹏飞绿能：控股子公司获得政府补助413.57万元】鹏飞绿能8月11日公告，公司控股子公司于2026年8月11日收到政府补助款4,135,690元，占公司最近一期经审计归属于上市公司股东净利润的10.77%，该项政府补助为现金形式，与公司日常经营活动有关，不具备可持续性。",
-    "sort_time": "1786449328074131",
-    "showTime": "2026-08-11 19:55:28",
-    "time": "2026-08-11 19:55:28",
-    "publish_time": "2026-08-11 19:55:28",
-    "raw_data": {
-      "code": "202608113838074131",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786449328074131",
-      "share": 0,
-      "showTime": "2026-08-11 19:55:28",
-      "stockList": [
-        "0.002356"
-      ],
-      "summary": "【鹏飞绿能：控股子公司获得政府补助413.57万元】鹏飞绿能8月11日公告，公司控股子公司于2026年8月11日收到政府补助款4,135,690元，占公司最近一期经审计归属于上市公司股东净利润的10.77%，该项政府补助为现金形式，与公司日常经营活动有关，不具备可持续性。",
-      "title": "鹏飞绿能：控股子公司获得政府补助413.57万元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838074131.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.002356"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "601aba764a1c2630",
-    "code": "202608113838070979",
-    "title": "太阳电缆：股东福建亿力集团8月10日减持285.85万股",
-    "summary": "【太阳电缆：股东福建亿力集团8月10日减持285.85万股】太阳电缆(002300.SZ)公告称，公司持股5%以上股东福建亿力集团于2026年8月10日通过集中竞价方式减持公司股份285.85万股，占总股本的0.4%。本次减持后，亿力集团持股比例由10.4%降至10%。",
-    "content": "【太阳电缆：股东福建亿力集团8月10日减持285.85万股】太阳电缆(002300.SZ)公告称，公司持股5%以上股东福建亿力集团于2026年8月10日通过集中竞价方式减持公司股份285.85万股，占总股本的0.4%。本次减持后，亿力集团持股比例由10.4%降至10%。",
-    "full_content": "【太阳电缆：股东福建亿力集团8月10日减持285.85万股】太阳电缆(002300.SZ)公告称，公司持股5%以上股东福建亿力集团于2026年8月10日通过集中竞价方式减持公司股份285.85万股，占总股本的0.4%。本次减持后，亿力集团持股比例由10.4%降至10%。",
-    "sort_time": "1786448838070979",
-    "showTime": "2026-08-11 19:47:18",
-    "time": "2026-08-11 19:47:18",
-    "publish_time": "2026-08-11 19:47:18",
-    "raw_data": {
-      "code": "202608113838070979",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1786448838070979",
-      "share": 2,
-      "showTime": "2026-08-11 19:47:18",
-      "stockList": [
-        "0.002300"
-      ],
-      "summary": "【太阳电缆：股东福建亿力集团8月10日减持285.85万股】太阳电缆(002300.SZ)公告称，公司持股5%以上股东福建亿力集团于2026年8月10日通过集中竞价方式减持公司股份285.85万股，占总股本的0.4%。本次减持后，亿力集团持股比例由10.4%降至10%。",
-      "title": "太阳电缆：股东福建亿力集团8月10日减持285.85万股",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838070979.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.002300"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ca2bee053ba512e4",
-    "code": "202608113838067953",
-    "title": "联合国工业发展组织与宁德时代签署《联合宣言》",
-    "summary": "【联合国工业发展组织与宁德时代签署《联合宣言》】据宁德时代消息，8月11日，联合国工业发展组织与宁德时代在北京签署《联合宣言》。双方就循环经济与先进电池领域的绿色工业发展等达成合作意愿，并在促进全球工业可持续发展方面达成深度共识。",
-    "content": "【联合国工业发展组织与宁德时代签署《联合宣言》】据宁德时代消息，8月11日，联合国工业发展组织与宁德时代在北京签署《联合宣言》。双方就循环经济与先进电池领域的绿色工业发展等达成合作意愿，并在促进全球工业可持续发展方面达成深度共识。",
-    "full_content": "【联合国工业发展组织与宁德时代签署《联合宣言》】据宁德时代消息，8月11日，联合国工业发展组织与宁德时代在北京签署《联合宣言》。双方就循环经济与先进电池领域的绿色工业发展等达成合作意愿，并在促进全球工业可持续发展方面达成深度共识。",
-    "sort_time": "1786448817067953",
-    "showTime": "2026-08-11 19:46:57",
-    "time": "2026-08-11 19:46:57",
-    "publish_time": "2026-08-11 19:46:57",
-    "raw_data": {
-      "code": "202608113838067953",
-      "image": [],
-      "pinglun_Num": 20,
-      "realSort": "1786448817067953",
-      "share": 8,
-      "showTime": "2026-08-11 19:46:57",
-      "stockList": [
-        "0.300750",
-        "116.03750"
-      ],
-      "summary": "【联合国工业发展组织与宁德时代签署《联合宣言》】据宁德时代消息，8月11日，联合国工业发展组织与宁德时代在北京签署《联合宣言》。双方就循环经济与先进电池领域的绿色工业发展等达成合作意愿，并在促进全球工业可持续发展方面达成深度共识。",
-      "title": "联合国工业发展组织与宁德时代签署《联合宣言》",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838067953.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300750",
-      "116.03750"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 8,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C810",
-          "name": "宁德时代概念",
-          "matched_keyword": "宁德时代"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C810"
-      ]
-    }
-  },
-  {
-    "id": "69e273f4c728833f",
-    "code": "202608113838067757",
-    "title": "宁德时代与龙洲股份签署战略合作协议",
-    "summary": "【宁德时代与龙洲股份签署战略合作协议】据宁德时代消息，8月11日，宁德时代与龙洲股份签署战略合作协议。双方将围绕车辆后市场服务、城市级换电网络搭建与公交及客运车辆换电方面加强合作，携手推动区域交通低碳转型。",
-    "content": "【宁德时代与龙洲股份签署战略合作协议】据宁德时代消息，8月11日，宁德时代与龙洲股份签署战略合作协议。双方将围绕车辆后市场服务、城市级换电网络搭建与公交及客运车辆换电方面加强合作，携手推动区域交通低碳转型。",
-    "full_content": "【宁德时代与龙洲股份签署战略合作协议】据宁德时代消息，8月11日，宁德时代与龙洲股份签署战略合作协议。双方将围绕车辆后市场服务、城市级换电网络搭建与公交及客运车辆换电方面加强合作，携手推动区域交通低碳转型。",
-    "sort_time": "1786448817067757",
-    "showTime": "2026-08-11 19:46:57",
-    "time": "2026-08-11 19:46:57",
-    "publish_time": "2026-08-11 19:46:57",
-    "raw_data": {
-      "code": "202608113838067757",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1786448817067757",
-      "share": 6,
-      "showTime": "2026-08-11 19:46:57",
-      "stockList": [
-        "0.300750",
-        "0.002682"
-      ],
-      "summary": "【宁德时代与龙洲股份签署战略合作协议】据宁德时代消息，8月11日，宁德时代与龙洲股份签署战略合作协议。双方将围绕车辆后市场服务、城市级换电网络搭建与公交及客运车辆换电方面加强合作，携手推动区域交通低碳转型。",
-      "title": "宁德时代与龙洲股份签署战略合作协议",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838067757.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300750",
-      "0.002682"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 6,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010203",
-          "name": "输配电设备",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "电网"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C107",
-          "name": "充电桩",
-          "matched_keyword": "换电"
-        },
-        {
-          "id": "C108",
-          "name": "特高压",
-          "matched_keyword": "电网"
-        },
-        {
-          "id": "C810",
-          "name": "宁德时代概念",
-          "matched_keyword": "宁德时代"
-        }
-      ],
-      "industry_ids": [
-        "I010203"
-      ],
-      "concept_ids": [
-        "C107",
-        "C108",
-        "C810"
-      ]
-    }
-  },
-  {
-    "id": "28de537114716b48",
-    "code": "202608113838069131",
-    "title": "利比亚主要炼油厂一储油罐遭袭起火",
-    "summary": "【利比亚主要炼油厂一储油罐遭袭起火】利比亚国家石油公司8月10日晚发布声明说，位于利比亚西部扎维亚炼油厂的一处储油罐遭袭，引发严重火灾并完全坍塌。目前尚无人员伤亡报告。",
-    "content": "【利比亚主要炼油厂一储油罐遭袭起火】利比亚国家石油公司8月10日晚发布声明说，位于利比亚西部扎维亚炼油厂的一处储油罐遭袭，引发严重火灾并完全坍塌。目前尚无人员伤亡报告。",
-    "full_content": "【利比亚主要炼油厂一储油罐遭袭起火】利比亚国家石油公司8月10日晚发布声明说，位于利比亚西部扎维亚炼油厂的一处储油罐遭袭，引发严重火灾并完全坍塌。目前尚无人员伤亡报告。",
-    "sort_time": "1786448777069131",
-    "showTime": "2026-08-11 19:46:17",
-    "time": "2026-08-11 19:46:17",
-    "publish_time": "2026-08-11 19:46:17",
-    "raw_data": {
-      "code": "202608113838069131",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1786448777069131",
-      "share": 1,
-      "showTime": "2026-08-11 19:46:17",
-      "stockList": [],
-      "summary": "【利比亚主要炼油厂一储油罐遭袭起火】利比亚国家石油公司8月10日晚发布声明说，位于利比亚西部扎维亚炼油厂的一处储油罐遭袭，引发严重火灾并完全坍塌。目前尚无人员伤亡报告。",
-      "title": "利比亚主要炼油厂一储油罐遭袭起火",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838069131.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "62d696d36405a67b",
-    "code": "202608113838067839",
-    "title": "润邦股份：子公司签订6艘活鱼运输船销售合同 总金额约28亿至33亿元",
-    "summary": "【润邦股份：子公司签订6艘活鱼运输船销售合同 总金额约28亿至33亿元】8月11日，润邦股份(002483.SZ)公告称，公司全资子公司润邦海洋与欧洲某知名船东签订《造船合同》，将为其建造并提供6艘4500立方米活鱼运输船，合同总金额折合人民币约28亿元至33亿元。",
-    "content": "【润邦股份：子公司签订6艘活鱼运输船销售合同 总金额约28亿至33亿元】8月11日，润邦股份(002483.SZ)公告称，公司全资子公司润邦海洋与欧洲某知名船东签订《造船合同》，将为其建造并提供6艘4500立方米活鱼运输船，合同总金额折合人民币约28亿元至33亿元。",
-    "full_content": "【润邦股份：子公司签订6艘活鱼运输船销售合同 总金额约28亿至33亿元】8月11日，润邦股份(002483.SZ)公告称，公司全资子公司润邦海洋与欧洲某知名船东签订《造船合同》，将为其建造并提供6艘4500立方米活鱼运输船，合同总金额折合人民币约28亿元至33亿元。",
-    "sort_time": "1786448624067839",
-    "showTime": "2026-08-11 19:43:44",
-    "time": "2026-08-11 19:43:44",
-    "publish_time": "2026-08-11 19:43:44",
-    "raw_data": {
-      "code": "202608113838067839",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1786448624067839",
-      "share": 6,
-      "showTime": "2026-08-11 19:43:44",
-      "stockList": [
-        "0.002483"
-      ],
-      "summary": "【润邦股份：子公司签订6艘活鱼运输船销售合同 总金额约28亿至33亿元】8月11日，润邦股份(002483.SZ)公告称，公司全资子公司润邦海洋与欧洲某知名船东签订《造船合同》，将为其建造并提供6艘4500立方米活鱼运输船，合同总金额折合人民币约28亿元至33亿元。",
-      "title": "润邦股份：子公司签订6艘活鱼运输船销售合同 总金额约28亿至33亿元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838067839.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.002483"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "7822556fb3f7a58e",
-    "code": "202608113838066639",
-    "title": "科德教育：拟1亿元-2亿元回购公司股份",
-    "summary": "【科德教育：拟1亿元-2亿元回购公司股份】科德教育8月11日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于1亿元且不超过2亿元。回购价格不超过23.27元/股。回购股份将用于股权激励或员工持股计划。回购期限为自公司股东会审议通过回购股份方案之日起12个月内。",
-    "content": "【科德教育：拟1亿元-2亿元回购公司股份】科德教育8月11日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于1亿元且不超过2亿元。回购价格不超过23.27元/股。回购股份将用于股权激励或员工持股计划。回购期限为自公司股东会审议通过回购股份方案之日起12个月内。",
-    "full_content": "【科德教育：拟1亿元-2亿元回购公司股份】科德教育8月11日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于1亿元且不超过2亿元。回购价格不超过23.27元/股。回购股份将用于股权激励或员工持股计划。回购期限为自公司股东会审议通过回购股份方案之日起12个月内。",
-    "sort_time": "1786448537066639",
-    "showTime": "2026-08-11 19:42:17",
-    "time": "2026-08-11 19:42:17",
-    "publish_time": "2026-08-11 19:42:17",
-    "raw_data": {
-      "code": "202608113838066639",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1786448537066639",
-      "share": 3,
-      "showTime": "2026-08-11 19:42:17",
-      "stockList": [
-        "0.300192"
-      ],
-      "summary": "【科德教育：拟1亿元-2亿元回购公司股份】科德教育8月11日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于1亿元且不超过2亿元。回购价格不超过23.27元/股。回购股份将用于股权激励或员工持股计划。回购期限为自公司股东会审议通过回购股份方案之日起12个月内。",
-      "title": "科德教育：拟1亿元-2亿元回购公司股份",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838066639.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300192"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "598bdd357b2fe314",
-    "code": "202608113838065277",
-    "title": "REDMI K100 Pro定价3999元起",
-    "summary": "【REDMI K100 Pro定价3999元起】在今日REDMI新品发布会上，小米中国区市场部总经理魏思琪宣布，REDMIK100Pro定价3999元起，K100ProMax定价4499元起。",
-    "content": "【REDMI K100 Pro定价3999元起】在今日REDMI新品发布会上，小米中国区市场部总经理魏思琪宣布，REDMIK100Pro定价3999元起，K100ProMax定价4499元起。",
-    "full_content": "【REDMI K100 Pro定价3999元起】在今日REDMI新品发布会上，小米中国区市场部总经理魏思琪宣布，REDMIK100Pro定价3999元起，K100ProMax定价4499元起。",
-    "sort_time": "1786448503065277",
-    "showTime": "2026-08-11 19:41:43",
-    "time": "2026-08-11 19:41:43",
-    "publish_time": "2026-08-11 19:41:43",
-    "raw_data": {
-      "code": "202608113838065277",
-      "image": [],
-      "pinglun_Num": 42,
-      "realSort": "1786448503065277",
-      "share": 5,
-      "showTime": "2026-08-11 19:41:43",
-      "stockList": [
-        "116.01810",
-        "116.81810"
-      ],
-      "summary": "【REDMI K100 Pro定价3999元起】在今日REDMI新品发布会上，小米中国区市场部总经理魏思琪宣布，REDMIK100Pro定价3999元起，K100ProMax定价4499元起。",
-      "title": "REDMI K100 Pro定价3999元起",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838065277.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "116.01810",
-      "116.81810"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 42,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C808",
-          "name": "小米概念",
-          "matched_keyword": "小米"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C808"
-      ]
-    }
-  },
-  {
-    "id": "7f1c57893bc0bfb6",
-    "code": "202608113838066993",
-    "title": "涉及电风扇、玩具等产品 市场监管总局撤销764张CCC认证证书",
-    "summary": "【涉及电风扇、玩具等产品 市场监管总局撤销764张CCC认证证书】记者今天了解到，市场监管总局通报2025年度认证（强制性产品认证目录内产品）有效性抽查结果。对强制性产品认证领域（电风扇、玩具、载重车辆、家用燃气灶具、电动自行车、电线电缆等39种产品）的2483批次产品实施了认证有效性抽查，认证机构覆盖率为41.18%。",
-    "content": "【涉及电风扇、玩具等产品 市场监管总局撤销764张CCC认证证书】记者今天了解到，市场监管总局通报2025年度认证（强制性产品认证目录内产品）有效性抽查结果。对强制性产品认证领域（电风扇、玩具、载重车辆、家用燃气灶具、电动自行车、电线电缆等39种产品）的2483批次产品实施了认证有效性抽查，认证机构覆盖率为41.18%。",
-    "full_content": "【涉及电风扇、玩具等产品 市场监管总局撤销764张CCC认证证书】记者今天了解到，市场监管总局通报2025年度认证（强制性产品认证目录内产品）有效性抽查结果。对强制性产品认证领域（电风扇、玩具、载重车辆、家用燃气灶具、电动自行车、电线电缆等39种产品）的2483批次产品实施了认证有效性抽查，认证机构覆盖率为41.18%。",
-    "sort_time": "1786448494066993",
-    "showTime": "2026-08-11 19:41:34",
-    "time": "2026-08-11 19:41:34",
-    "publish_time": "2026-08-11 19:41:34",
-    "raw_data": {
-      "code": "202608113838066993",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1786448494066993",
-      "share": 0,
-      "showTime": "2026-08-11 19:41:34",
-      "stockList": [],
-      "summary": "【涉及电风扇、玩具等产品 市场监管总局撤销764张CCC认证证书】记者今天了解到，市场监管总局通报2025年度认证（强制性产品认证目录内产品）有效性抽查结果。对强制性产品认证领域（电风扇、玩具、载重车辆、家用燃气灶具、电动自行车、电线电缆等39种产品）的2483批次产品实施了认证有效性抽查，认证机构覆盖率为41.18%。",
-      "title": "涉及电风扇、玩具等产品 市场监管总局撤销764张CCC认证证书",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838066993.html",
-    "category": "政策",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "燃气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
-    }
-  },
-  {
-    "id": "45eb28bbec662a67",
-    "code": "202608113838065090",
-    "title": "韩媒：SK海力士重启中国NAND闪存生产基地2号工厂建设 将产能扩大约50%",
-    "summary": "【韩媒：SK海力士重启中国NAND闪存生产基地2号工厂建设 将产能扩大约50%】据韩国《首尔经济日报》11日报道，SK海力士重启了中国大连NAND闪存生产基地2号工厂的建设，将产能扩大约50%。大连2号工厂于4年前动工，但受存储器行业低迷影响，工程长期处于停滞状态。SK海力士计划在今年年底前引入半导体生产设备，并于明年上半年正式投产。",
-    "content": "【韩媒：SK海力士重启中国NAND闪存生产基地2号工厂建设 将产能扩大约50%】据韩国《首尔经济日报》11日报道，SK海力士重启了中国大连NAND闪存生产基地2号工厂的建设，将产能扩大约50%。大连2号工厂于4年前动工，但受存储器行业低迷影响，工程长期处于停滞状态。SK海力士计划在今年年底前引入半导体生产设备，并于明年上半年正式投产。",
-    "full_content": "【韩媒：SK海力士重启中国NAND闪存生产基地2号工厂建设 将产能扩大约50%】据韩国《首尔经济日报》11日报道，SK海力士重启了中国大连NAND闪存生产基地2号工厂的建设，将产能扩大约50%。大连2号工厂于4年前动工，但受存储器行业低迷影响，工程长期处于停滞状态。SK海力士计划在今年年底前引入半导体生产设备，并于明年上半年正式投产。",
-    "sort_time": "1786448490065090",
-    "showTime": "2026-08-11 19:41:30",
-    "time": "2026-08-11 19:41:30",
-    "publish_time": "2026-08-11 19:41:30",
-    "raw_data": {
-      "code": "202608113838065090",
-      "image": [],
-      "pinglun_Num": 915,
-      "realSort": "1786448490065090",
-      "share": 1554,
-      "showTime": "2026-08-11 19:41:30",
-      "stockList": [],
-      "summary": "【韩媒：SK海力士重启中国NAND闪存生产基地2号工厂建设 将产能扩大约50%】据韩国《首尔经济日报》11日报道，SK海力士重启了中国大连NAND闪存生产基地2号工厂的建设，将产能扩大约50%。大连2号工厂于4年前动工，但受存储器行业低迷影响，工程长期处于停滞状态。SK海力士计划在今年年底前引入半导体生产设备，并于明年上半年正式投产。",
-      "title": "韩媒：SK海力士重启中国NAND闪存生产基地2号工厂建设 将产能扩大约50%",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838065090.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 915,
-    "share_count": 1554,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "87804246bcdf8672",
-    "code": "202608113838063825",
-    "title": "巴基斯坦内政部长抵达德黑兰",
-    "summary": "【巴基斯坦内政部长抵达德黑兰】据伊朗媒体8月11日报道，巴基斯坦内政部长穆赫辛·纳克维当天抵达伊朗首都德黑兰，将与伊朗官员举行会谈。",
-    "content": "【巴基斯坦内政部长抵达德黑兰】据伊朗媒体8月11日报道，巴基斯坦内政部长穆赫辛·纳克维当天抵达伊朗首都德黑兰，将与伊朗官员举行会谈。",
-    "full_content": "【巴基斯坦内政部长抵达德黑兰】据伊朗媒体8月11日报道，巴基斯坦内政部长穆赫辛·纳克维当天抵达伊朗首都德黑兰，将与伊朗官员举行会谈。",
-    "sort_time": "1786448275063825",
-    "showTime": "2026-08-11 19:37:55",
-    "time": "2026-08-11 19:37:55",
-    "publish_time": "2026-08-11 19:37:55",
-    "raw_data": {
-      "code": "202608113838063825",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1786448275063825",
-      "share": 5,
-      "showTime": "2026-08-11 19:37:55",
-      "stockList": [],
-      "summary": "【巴基斯坦内政部长抵达德黑兰】据伊朗媒体8月11日报道，巴基斯坦内政部长穆赫辛·纳克维当天抵达伊朗首都德黑兰，将与伊朗官员举行会谈。",
-      "title": "巴基斯坦内政部长抵达德黑兰",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838063825.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 9,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "9d07bce80facf4f1",
-    "code": "202608113838063088",
-    "title": "强瑞技术：上半年归母净利润同比增长56.83%",
-    "summary": "【强瑞技术：上半年归母净利润同比增长56.83%】强瑞技术8月11日披露半年报，公司上半年实现营业收入13.74亿元，同比增长63.68%；归属于上市公司股东的净利润8611万元，上年同期5490.69万元，同比增长56.83%；基本每股收益0.5946元/股。",
-    "content": "【强瑞技术：上半年归母净利润同比增长56.83%】强瑞技术8月11日披露半年报，公司上半年实现营业收入13.74亿元，同比增长63.68%；归属于上市公司股东的净利润8611万元，上年同期5490.69万元，同比增长56.83%；基本每股收益0.5946元/股。",
-    "full_content": "【强瑞技术：上半年归母净利润同比增长56.83%】强瑞技术8月11日披露半年报，公司上半年实现营业收入13.74亿元，同比增长63.68%；归属于上市公司股东的净利润8611万元，上年同期5490.69万元，同比增长56.83%；基本每股收益0.5946元/股。",
-    "sort_time": "1786448275063088",
-    "showTime": "2026-08-11 19:37:55",
-    "time": "2026-08-11 19:37:55",
-    "publish_time": "2026-08-11 19:37:55",
-    "raw_data": {
-      "code": "202608113838063088",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786448275063088",
-      "share": 3,
-      "showTime": "2026-08-11 19:37:55",
-      "stockList": [
-        "0.301128"
-      ],
-      "summary": "【强瑞技术：上半年归母净利润同比增长56.83%】强瑞技术8月11日披露半年报，公司上半年实现营业收入13.74亿元，同比增长63.68%；归属于上市公司股东的净利润8611万元，上年同期5490.69万元，同比增长56.83%；基本每股收益0.5946元/股。",
-      "title": "强瑞技术：上半年归母净利润同比增长56.83%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838063088.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "0.301128"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0a496435654af23c",
-    "code": "202608113838064015",
-    "title": "鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议",
-    "summary": "【鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议】据鸿利智汇消息，8月11日，鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议。双方将建立紧密的战略合作伙伴关系，推动公司LED半导体及相关产业与人工智能技术的深度融合，助力产业智能化升级与生态共建。",
-    "content": "【鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议】据鸿利智汇消息，8月11日，鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议。双方将建立紧密的战略合作伙伴关系，推动公司LED半导体及相关产业与人工智能技术的深度融合，助力产业智能化升级与生态共建。",
-    "full_content": "【鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议】据鸿利智汇消息，8月11日，鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议。双方将建立紧密的战略合作伙伴关系，推动公司LED半导体及相关产业与人工智能技术的深度融合，助力产业智能化升级与生态共建。",
-    "sort_time": "1786448266064015",
-    "showTime": "2026-08-11 19:37:46",
-    "time": "2026-08-11 19:37:46",
-    "publish_time": "2026-08-11 19:37:46",
-    "raw_data": {
-      "code": "202608113838064015",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1786448266064015",
-      "share": 6,
-      "showTime": "2026-08-11 19:37:46",
-      "stockList": [
-        "90.BK0800",
-        "150.012322"
-      ],
-      "summary": "【鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议】据鸿利智汇消息，8月11日，鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议。双方将建立紧密的战略合作伙伴关系，推动公司LED半导体及相关产业与人工智能技术的深度融合，助力产业智能化升级与生态共建。",
-      "title": "鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838064015.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "150.012322"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 6,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        },
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C001",
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "29debcdba7c55fc0",
-    "code": "202608113838063469",
-    "title": "强瑞技术：拟定增募资不超10.5亿元用于AI服务器精密液冷部件产品等项目",
-    "summary": "【强瑞技术：拟定增募资不超10.5亿元用于AI服务器精密液冷部件产品等项目】强瑞技术(301128.SZ)公告称，公司董事会审议通过2026年度向特定对象发行股票方案，拟募资总额不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、龙华区总部基地建设项目及补充流动资金。",
-    "content": "【强瑞技术：拟定增募资不超10.5亿元用于AI服务器精密液冷部件产品等项目】强瑞技术(301128.SZ)公告称，公司董事会审议通过2026年度向特定对象发行股票方案，拟募资总额不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、龙华区总部基地建设项目及补充流动资金。",
-    "full_content": "【强瑞技术：拟定增募资不超10.5亿元用于AI服务器精密液冷部件产品等项目】强瑞技术(301128.SZ)公告称，公司董事会审议通过2026年度向特定对象发行股票方案，拟募资总额不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、龙华区总部基地建设项目及补充流动资金。",
-    "sort_time": "1786448067063469",
-    "showTime": "2026-08-11 19:34:27",
-    "time": "2026-08-11 19:34:27",
-    "publish_time": "2026-08-11 19:34:27",
-    "raw_data": {
-      "code": "202608113838063469",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1786448067063469",
-      "share": 7,
-      "showTime": "2026-08-11 19:34:27",
-      "stockList": [
-        "90.BK0800",
-        "90.BK1138"
-      ],
-      "summary": "【强瑞技术：拟定增募资不超10.5亿元用于AI服务器精密液冷部件产品等项目】强瑞技术(301128.SZ)公告称，公司董事会审议通过2026年度向特定对象发行股票方案，拟募资总额不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、龙华区总部基地建设项目及补充流动资金。",
-      "title": "强瑞技术：拟定增募资不超10.5亿元用于AI服务器精密液冷部件产品等项目",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838063469.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "90.BK1138"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 7,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "I010302",
-          "name": "汽车零部件",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "零部件"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "服务器"
-        }
-      ],
-      "industry_ids": [
-        "I010101",
-        "I010302"
-      ],
-      "concept_ids": [
-        "C001",
-        "C002",
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "a4b9c0bea2961749",
-    "code": "202608113838041165",
-    "title": "ARGUS Research上调默沙东目标价",
-    "summary": "【ARGUS Research上调默沙东目标价】ARGUSResearch将默沙东目标股价从130美元上调至145美元。",
-    "content": "【ARGUS Research上调默沙东目标价】ARGUSResearch将默沙东目标股价从130美元上调至145美元。",
-    "full_content": "【ARGUS Research上调默沙东目标价】ARGUSResearch将默沙东目标股价从130美元上调至145美元。",
-    "sort_time": "1786447891041165",
-    "showTime": "2026-08-11 19:31:31",
-    "time": "2026-08-11 19:31:31",
-    "publish_time": "2026-08-11 19:31:31",
-    "raw_data": {
-      "code": "202608113838041165",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786447891041165",
-      "share": 1,
-      "showTime": "2026-08-11 19:31:31",
-      "stockList": [
-        "106.MRK"
-      ],
-      "summary": "【ARGUS Research上调默沙东目标价】ARGUSResearch将默沙东目标股价从130美元上调至145美元。",
-      "title": "ARGUS Research上调默沙东目标价",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608113838041165.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.MRK"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010103",
-          "name": "消费电子",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "AR"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C009",
-          "name": "元宇宙",
-          "matched_keyword": "AR"
-        }
-      ],
-      "industry_ids": [
-        "I010103"
-      ],
-      "concept_ids": [
-        "C009"
       ]
     }
   }
