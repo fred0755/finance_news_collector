@@ -1,5 +1,50 @@
 [
   {
+    "id": "3833250261de43f0",
+    "code": "202608153842161933",
+    "title": "阿里千问开源Qwen3.8系列模型",
+    "summary": "【阿里千问开源Qwen3.8系列模型】阿里千问正式开源Qwen3.8系列模型。其中全新开源的Qwen3.8-27B，系原生多模态稠密（Dense）模型，270亿参数规模，整体水平便超越了Qwen3.7-Plus，在编程及办公的真实场景中表现较好，采用宽松的Apache2.0协议开源，有望成为本地部署的主力模型。此前，旗舰模型Qwen3.8-Max也已开源模型权重。",
+    "content": "【阿里千问开源Qwen3.8系列模型】阿里千问正式开源Qwen3.8系列模型。其中全新开源的Qwen3.8-27B，系原生多模态稠密（Dense）模型，270亿参数规模，整体水平便超越了Qwen3.7-Plus，在编程及办公的真实场景中表现较好，采用宽松的Apache2.0协议开源，有望成为本地部署的主力模型。此前，旗舰模型Qwen3.8-Max也已开源模型权重。",
+    "full_content": "【阿里千问开源Qwen3.8系列模型】阿里千问正式开源Qwen3.8系列模型。其中全新开源的Qwen3.8-27B，系原生多模态稠密（Dense）模型，270亿参数规模，整体水平便超越了Qwen3.7-Plus，在编程及办公的真实场景中表现较好，采用宽松的Apache2.0协议开源，有望成为本地部署的主力模型。此前，旗舰模型Qwen3.8-Max也已开源模型权重。",
+    "sort_time": "1786748886061933",
+    "showTime": "2026-08-15 07:08:06",
+    "time": "2026-08-15 07:08:06",
+    "publish_time": "2026-08-15 07:08:06",
+    "raw_data": {
+      "code": "202608153842161933",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786748886061933",
+      "share": 0,
+      "showTime": "2026-08-15 07:08:06",
+      "stockList": [
+        "90.BK0689",
+        "106.BABA"
+      ],
+      "summary": "【阿里千问开源Qwen3.8系列模型】阿里千问正式开源Qwen3.8系列模型。其中全新开源的Qwen3.8-27B，系原生多模态稠密（Dense）模型，270亿参数规模，整体水平便超越了Qwen3.7-Plus，在编程及办公的真实场景中表现较好，采用宽松的Apache2.0协议开源，有望成为本地部署的主力模型。此前，旗舰模型Qwen3.8-Max也已开源模型权重。",
+      "title": "阿里千问开源Qwen3.8系列模型",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608153842161933.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0689",
+      "106.BABA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "99024a87460f0802",
     "code": "202608153842160440",
     "title": "印尼发生7.7级地震 已触发海啸预警",
@@ -13,14 +58,14 @@
     "raw_data": {
       "code": "202608153842160440",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 12,
       "realSort": "1786748043060440",
-      "share": 0,
+      "share": 78,
       "showTime": "2026-08-15 06:54:03",
       "stockList": [],
       "summary": "【印尼发生7.7级地震 已触发海啸预警】据印度尼西亚气象、气候和地球物理局消息，当地时间8月15日4时58分，印尼东努沙登加拉省姆拜镇东北36公里处发生7.7级地震，震源深度15公里，当局发布海啸预警。",
       "title": "印尼发生7.7级地震 已触发海啸预警",
-      "titleColor": 0
+      "titleColor": 3
     },
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202608153842160440.html",
@@ -29,8 +74,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 12,
+    "share_count": 78,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -261,7 +306,7 @@
     "raw_data": {
       "code": "202608153842156737",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786745506056737",
       "share": 0,
       "showTime": "2026-08-15 06:11:46",
@@ -277,7 +322,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -300,7 +345,7 @@
     "raw_data": {
       "code": "202608153842156660",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1786745459056660",
       "share": 0,
       "showTime": "2026-08-15 06:10:59",
@@ -316,7 +361,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -378,9 +423,9 @@
     "raw_data": {
       "code": "202608153842156424",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 9,
       "realSort": "1786745158056424",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-08-15 06:05:58",
       "stockList": [],
       "summary": "【周六你需要知道的隔夜全球要闻】1、Anthropic季度营收超115亿美元；2、特朗普称“很快将宣布霍尔木兹海峡为美国领土”；3、闪迪本周累涨超35%。",
@@ -394,8 +439,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 2,
+    "comment_count": 9,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -511,9 +556,9 @@
     "raw_data": {
       "code": "202608153842149856",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 5,
       "realSort": "1786742691049856",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-08-15 05:24:51",
       "stockList": [],
       "summary": "量化巨头简街（JaneStreet）据悉在7月份大约亏损了150亿美元。",
@@ -527,8 +572,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 3,
+    "comment_count": 5,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -628,9 +673,9 @@
     "raw_data": {
       "code": "202608153842149934",
       "image": [],
-      "pinglun_Num": 48,
+      "pinglun_Num": 57,
       "realSort": "1786741889049934",
-      "share": 17,
+      "share": 24,
       "showTime": "2026-08-15 05:11:29",
       "stockList": [],
       "summary": "【特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土】美国总统特朗普14日声称，“击败伊朗后”他很快就会“宣布霍尔木兹海峡为美国领土”。",
@@ -644,8 +689,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 48,
-    "share_count": 17,
+    "comment_count": 57,
+    "share_count": 24,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -784,7 +829,7 @@
     "raw_data": {
       "code": "202608153842147873",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786741133047873",
       "share": 3,
       "showTime": "2026-08-15 04:58:53",
@@ -804,7 +849,7 @@
       "105.INTC"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1011,7 +1056,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1786739598047053",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-08-15 04:33:18",
       "stockList": [
         "90.BK1161",
@@ -1032,7 +1077,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1054,7 +1099,7 @@
     "raw_data": {
       "code": "202608153842143557",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786739136043557",
       "share": 0,
       "showTime": "2026-08-15 04:25:36",
@@ -1074,7 +1119,7 @@
       "90.BK0704"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1197,7 +1242,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786738650044316",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-15 04:17:30",
       "stockList": [
         "0.159940",
@@ -1218,7 +1263,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1741,7 +1786,7 @@
     "raw_data": {
       "code": "202608153842124372",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786735517024372",
       "share": 3,
       "showTime": "2026-08-15 03:25:17",
@@ -1763,7 +1808,7 @@
       "150.161025"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -2235,75 +2280,6 @@
       ],
       "concept_ids": [
         "C402"
-      ]
-    }
-  },
-  {
-    "id": "2c41e67add6fe034",
-    "code": "202608153842124865",
-    "title": "海外商客掀起AI淘金热 华强北“一公里产业链”韧性十足",
-    "summary": "【海外商客掀起AI淘金热 华强北“一公里产业链”韧性十足】“我们和AI都在成长。”深圳华强北商户林小姐借助自家的人工智能（AI）翻译机向一位法国客人售出了两台翻译机后，她告诉证券时报记者，今年接待的外籍商客大幅增加，不少是来自南美、非洲国家，店内AI翻译机出货量比去年翻了三倍。",
-    "content": "【海外商客掀起AI淘金热 华强北“一公里产业链”韧性十足】“我们和AI都在成长。”深圳华强北商户林小姐借助自家的人工智能（AI）翻译机向一位法国客人售出了两台翻译机后，她告诉证券时报记者，今年接待的外籍商客大幅增加，不少是来自南美、非洲国家，店内AI翻译机出货量比去年翻了三倍。",
-    "full_content": "【海外商客掀起AI淘金热 华强北“一公里产业链”韧性十足】“我们和AI都在成长。”深圳华强北商户林小姐借助自家的人工智能（AI）翻译机向一位法国客人售出了两台翻译机后，她告诉证券时报记者，今年接待的外籍商客大幅增加，不少是来自南美、非洲国家，店内AI翻译机出货量比去年翻了三倍。",
-    "sort_time": "1786732169024865",
-    "showTime": "2026-08-15 02:29:29",
-    "time": "2026-08-15 02:29:29",
-    "publish_time": "2026-08-15 02:29:29",
-    "raw_data": {
-      "code": "202608153842124865",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786732169024865",
-      "share": 0,
-      "showTime": "2026-08-15 02:29:29",
-      "stockList": [
-        "90.BK0800",
-        "0.161027"
-      ],
-      "summary": "【海外商客掀起AI淘金热 华强北“一公里产业链”韧性十足】“我们和AI都在成长。”深圳华强北商户林小姐借助自家的人工智能（AI）翻译机向一位法国客人售出了两台翻译机后，她告诉证券时报记者，今年接待的外籍商客大幅增加，不少是来自南美、非洲国家，店内AI翻译机出货量比去年翻了三倍。",
-      "title": "海外商客掀起AI淘金热 华强北“一公里产业链”韧性十足",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608153842124865.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "0.161027"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        },
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C001",
-        "C401"
       ]
     }
   }
