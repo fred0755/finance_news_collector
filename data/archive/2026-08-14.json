@@ -802,6 +802,69 @@
     }
   },
   {
+    "id": "b992bc5fa0b7bdba",
+    "code": "202608153842142978",
+    "title": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技",
+    "summary": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+    "content": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+    "full_content": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+    "sort_time": "1786738505042978",
+    "showTime": "2026-08-15 04:15:05",
+    "time": "2026-08-15 04:15:05",
+    "publish_time": "2026-08-15 04:15:05",
+    "raw_data": {
+      "code": "202608153842142978",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786738505042978",
+      "share": 0,
+      "showTime": "2026-08-15 04:15:05",
+      "stockList": [],
+      "summary": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+      "title": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608153842142978.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "AR"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C009",
+          "name": "元宇宙",
+          "matched_keyword": "AR"
+        },
+        {
+          "id": "C804",
+          "name": "拼多多概念",
+          "matched_keyword": "拼多多"
+        }
+      ],
+      "industry_ids": [
+        "I010103"
+      ],
+      "concept_ids": [
+        "C009",
+        "C804"
+      ]
+    }
+  },
+  {
     "id": "408d3a895c5437c8",
     "code": "202608153842142466",
     "title": "Viking Global第二季度减持特斯拉、迪士尼等",

@@ -13,7 +13,7 @@
     "raw_data": {
       "code": "202608153842150167",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786743592050167",
       "share": 0,
       "showTime": "2026-08-15 05:39:52",
@@ -29,7 +29,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -177,9 +177,9 @@
     "raw_data": {
       "code": "202608153842149934",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 6,
       "realSort": "1786741889049934",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-15 05:11:29",
       "stockList": [],
       "summary": "【特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土】美国总统特朗普14日声称，“击败伊朗后”他很快就会“宣布霍尔木兹海峡为美国领土”。",
@@ -193,8 +193,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 6,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -335,7 +335,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786741133047873",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-15 04:58:53",
       "stockList": [
         "105.INTC"
@@ -354,7 +354,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -378,7 +378,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786740622047716",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-15 04:50:22",
       "stockList": [],
       "summary": "【美媒：美对古战略侧重经济制裁而非军事选项】据美国彭博社14日报道，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压，而非部署军事力量。",
@@ -393,7 +393,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -558,7 +558,7 @@
     "raw_data": {
       "code": "202608153842147053",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786739598047053",
       "share": 1,
       "showTime": "2026-08-15 04:33:18",
@@ -580,7 +580,7 @@
       "105.NVDA"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -654,7 +654,7 @@
     "raw_data": {
       "code": "202608153842143248",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786739076043248",
       "share": 0,
       "showTime": "2026-08-15 04:24:36",
@@ -674,7 +674,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -798,6 +798,69 @@
         "C504",
         "C605",
         "C814"
+      ]
+    }
+  },
+  {
+    "id": "b992bc5fa0b7bdba",
+    "code": "202608153842142978",
+    "title": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技",
+    "summary": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+    "content": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+    "full_content": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+    "sort_time": "1786738505042978",
+    "showTime": "2026-08-15 04:15:05",
+    "time": "2026-08-15 04:15:05",
+    "publish_time": "2026-08-15 04:15:05",
+    "raw_data": {
+      "code": "202608153842142978",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786738505042978",
+      "share": 0,
+      "showTime": "2026-08-15 04:15:05",
+      "stockList": [],
+      "summary": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+      "title": "Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608153842142978.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "AR"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C009",
+          "name": "元宇宙",
+          "matched_keyword": "AR"
+        },
+        {
+          "id": "C804",
+          "name": "拼多多概念",
+          "matched_keyword": "拼多多"
+        }
+      ],
+      "industry_ids": [
+        "I010103"
+      ],
+      "concept_ids": [
+        "C009",
+        "C804"
       ]
     }
   },
@@ -1229,7 +1292,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786735517024372",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-08-15 03:25:17",
       "stockList": [
         "90.BK0800",
@@ -1250,7 +1313,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2254,45 +2317,6 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "9139735608f42bbc",
-    "code": "202608153842133030",
-    "title": "巴勒斯坦总统府：以色列在约旦河西岸升级行动“构成战争罪”",
-    "summary": "【巴勒斯坦总统府：以色列在约旦河西岸升级行动“构成战争罪”】总台记者当地时间14日获悉，巴勒斯坦总统府发言人纳比勒·阿布·鲁代纳当天发表声明，强烈谴责以军及以色列犹太人定居者近期在约旦河西岸不断升级的单方面行动。他特别提及，以方人员在纳布卢斯附近古斯拉村围困巴勒斯坦居民并强占土地搭建“前哨站”的举动，导致当地局势危险恶化。",
-    "content": "【巴勒斯坦总统府：以色列在约旦河西岸升级行动“构成战争罪”】总台记者当地时间14日获悉，巴勒斯坦总统府发言人纳比勒·阿布·鲁代纳当天发表声明，强烈谴责以军及以色列犹太人定居者近期在约旦河西岸不断升级的单方面行动。他特别提及，以方人员在纳布卢斯附近古斯拉村围困巴勒斯坦居民并强占土地搭建“前哨站”的举动，导致当地局势危险恶化。",
-    "full_content": "【巴勒斯坦总统府：以色列在约旦河西岸升级行动“构成战争罪”】总台记者当地时间14日获悉，巴勒斯坦总统府发言人纳比勒·阿布·鲁代纳当天发表声明，强烈谴责以军及以色列犹太人定居者近期在约旦河西岸不断升级的单方面行动。他特别提及，以方人员在纳布卢斯附近古斯拉村围困巴勒斯坦居民并强占土地搭建“前哨站”的举动，导致当地局势危险恶化。",
-    "sort_time": "1786729509033030",
-    "showTime": "2026-08-15 01:45:09",
-    "time": "2026-08-15 01:45:09",
-    "publish_time": "2026-08-15 01:45:09",
-    "raw_data": {
-      "code": "202608153842133030",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1786729509033030",
-      "share": 0,
-      "showTime": "2026-08-15 01:45:09",
-      "stockList": [],
-      "summary": "【巴勒斯坦总统府：以色列在约旦河西岸升级行动“构成战争罪”】总台记者当地时间14日获悉，巴勒斯坦总统府发言人纳比勒·阿布·鲁代纳当天发表声明，强烈谴责以军及以色列犹太人定居者近期在约旦河西岸不断升级的单方面行动。他特别提及，以方人员在纳布卢斯附近古斯拉村围困巴勒斯坦居民并强占土地搭建“前哨站”的举动，导致当地局势危险恶化。",
-      "title": "巴勒斯坦总统府：以色列在约旦河西岸升级行动“构成战争罪”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608153842133030.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
