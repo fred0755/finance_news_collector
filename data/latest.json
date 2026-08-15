@@ -13,7 +13,7 @@
     "raw_data": {
       "code": "202608153842455615",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786819224055615",
       "share": 0,
       "showTime": "2026-08-16 02:40:24",
@@ -35,7 +35,7 @@
       "90.BK0422"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -231,7 +231,7 @@
     "raw_data": {
       "code": "202608153842457371",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786814400057371",
       "share": 2,
       "showTime": "2026-08-16 01:20:00",
@@ -253,7 +253,7 @@
       "105.NVDA"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 2,
     "tags": {
       "industries": [
@@ -618,8 +618,8 @@
       "share": 1,
       "showTime": "2026-08-15 22:56:17",
       "stockList": [
-        "90.BK0428",
-        "90.BK0922"
+        "90.BK0922",
+        "150.014238"
       ],
       "summary": "【泰国成立专门机构强化数据中心管理】泰国政府网站14日发布公告，宣布设立“数据中心经营政策委员会”。该委员会旨在为作为未来产业基础设施的数据中心业务制定明确监管政策，在促进投资的同时，重点管控其对电力、水资源及环境的影响，以平衡产业发展与国家整体利益。公告指出，数据中心运营需消耗大量电力，在当前国家用电需求持续攀升、发电增量有限及偏远地区供电能力不足的情况下，数据中心的扩张可能对电价、民众用电权益、电力系统稳定性及国家能源安全构成潜在影响。",
       "title": "泰国成立专门机构强化数据中心管理",
@@ -631,8 +631,8 @@
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK0428",
-      "90.BK0922"
+      "90.BK0922",
+      "150.014238"
     ],
     "has_stock_mention": true,
     "comment_count": 3,
@@ -919,7 +919,7 @@
     "raw_data": {
       "code": "202608153842451629",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 20,
       "realSort": "1786801721051629",
       "share": 3,
       "showTime": "2026-08-15 21:48:41",
@@ -935,7 +935,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 19,
+    "comment_count": 20,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -997,7 +997,7 @@
     "raw_data": {
       "code": "202608153842451412",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1786801404051412",
       "share": 1,
       "showTime": "2026-08-15 21:43:24",
@@ -1017,7 +1017,7 @@
       "1007.BK000339"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1325,9 +1325,9 @@
     "raw_data": {
       "code": "202608153842447012",
       "image": [],
-      "pinglun_Num": 604,
+      "pinglun_Num": 611,
       "realSort": "1786798414047012",
-      "share": 503,
+      "share": 509,
       "showTime": "2026-08-15 20:53:34",
       "stockList": [],
       "summary": "【伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议】当地时间8月15日，伊朗外交部发言人巴加埃表示，尽管美国从中阻挠，伊朗和阿曼之间的会谈仍在积极推进，双方已就霍尔木兹海峡航道通行方案达成协议。",
@@ -1341,8 +1341,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 604,
-    "share_count": 503,
+    "comment_count": 611,
+    "share_count": 509,
     "tags": {
       "industries": [],
       "concepts": [],
