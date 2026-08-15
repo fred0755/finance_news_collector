@@ -1,5 +1,68 @@
 [
   {
+    "id": "d8c37e00e2a94974",
+    "code": "202608153842457371",
+    "title": "英伟达首度披露",
+    "summary": "【英伟达首度披露】据CNBC报道，英伟达当地时间14日向美国证券交易委员会提交的监管文件显示，截至今年二季度末，公司持有马斯克旗下SpaceX约1.228亿股A类股票，价值约210亿美元，为SpaceX第六大投资者。",
+    "content": "【英伟达首度披露】据CNBC报道，英伟达当地时间14日向美国证券交易委员会提交的监管文件显示，截至今年二季度末，公司持有马斯克旗下SpaceX约1.228亿股A类股票，价值约210亿美元，为SpaceX第六大投资者。",
+    "full_content": "【英伟达首度披露】据CNBC报道，英伟达当地时间14日向美国证券交易委员会提交的监管文件显示，截至今年二季度末，公司持有马斯克旗下SpaceX约1.228亿股A类股票，价值约210亿美元，为SpaceX第六大投资者。",
+    "sort_time": "1786814400057371",
+    "showTime": "2026-08-16 01:20:00",
+    "time": "2026-08-16 01:20:00",
+    "publish_time": "2026-08-16 01:20:00",
+    "raw_data": {
+      "code": "202608153842457371",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786814400057371",
+      "share": 2,
+      "showTime": "2026-08-16 01:20:00",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "【英伟达首度披露】据CNBC报道，英伟达当地时间14日向美国证券交易委员会提交的监管文件显示，截至今年二季度末，公司持有马斯克旗下SpaceX约1.228亿股A类股票，价值约210亿美元，为SpaceX第六大投资者。",
+      "title": "英伟达首度披露",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608153842457371.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
     "id": "9b42571c60e1004b",
     "code": "202608163842458384",
     "title": "邦迪枪击案后澳新州将启动枪支回购计划",
