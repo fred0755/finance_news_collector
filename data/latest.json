@@ -1,5 +1,91 @@
 [
   {
+    "id": "86ed97e7fc34d127",
+    "code": "202608173842586776",
+    "title": "埃及总统会见库什纳 呼吁各方落实加沙停火",
+    "summary": "【埃及总统会见库什纳 呼吁各方落实加沙停火】埃及总统塞西16日在埃及阿拉曼会见美国总统特朗普的女婿库什纳，呼吁有关各方推动落实加沙停火协议。埃及总统府当天发表声明说，会见期间，双方就巴勒斯坦问题等中东局势发展交换意见，强调有关各方应履行去年10月在埃及举行的沙姆沙伊赫峰会成果，推动落实加沙停火协议。",
+    "content": "【埃及总统会见库什纳 呼吁各方落实加沙停火】埃及总统塞西16日在埃及阿拉曼会见美国总统特朗普的女婿库什纳，呼吁有关各方推动落实加沙停火协议。埃及总统府当天发表声明说，会见期间，双方就巴勒斯坦问题等中东局势发展交换意见，强调有关各方应履行去年10月在埃及举行的沙姆沙伊赫峰会成果，推动落实加沙停火协议。",
+    "full_content": "【埃及总统会见库什纳 呼吁各方落实加沙停火】埃及总统塞西16日在埃及阿拉曼会见美国总统特朗普的女婿库什纳，呼吁有关各方推动落实加沙停火协议。埃及总统府当天发表声明说，会见期间，双方就巴勒斯坦问题等中东局势发展交换意见，强调有关各方应履行去年10月在埃及举行的沙姆沙伊赫峰会成果，推动落实加沙停火协议。",
+    "sort_time": "1786909757086776",
+    "showTime": "2026-08-17 03:49:17",
+    "time": "2026-08-17 03:49:17",
+    "publish_time": "2026-08-17 03:49:17",
+    "raw_data": {
+      "code": "202608173842586776",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786909757086776",
+      "share": 0,
+      "showTime": "2026-08-17 03:49:17",
+      "stockList": [],
+      "summary": "【埃及总统会见库什纳 呼吁各方落实加沙停火】埃及总统塞西16日在埃及阿拉曼会见美国总统特朗普的女婿库什纳，呼吁有关各方推动落实加沙停火协议。埃及总统府当天发表声明说，会见期间，双方就巴勒斯坦问题等中东局势发展交换意见，强调有关各方应履行去年10月在埃及举行的沙姆沙伊赫峰会成果，推动落实加沙停火协议。",
+      "title": "埃及总统会见库什纳 呼吁各方落实加沙停火",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608173842586776.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "106f56399be25d1a",
+    "code": "202608173842586680",
+    "title": "Stripe据悉即将达成收购AI公司OpenRouter的交易  金额超过70亿美元",
+    "summary": "Stripe据悉即将达成收购AI公司OpenRouter的交易，金额超过70亿美元。",
+    "content": "Stripe据悉即将达成收购AI公司OpenRouter的交易，金额超过70亿美元。",
+    "full_content": "Stripe据悉即将达成收购AI公司OpenRouter的交易，金额超过70亿美元。",
+    "sort_time": "1786909383086680",
+    "showTime": "2026-08-17 03:43:03",
+    "time": "2026-08-17 03:43:03",
+    "publish_time": "2026-08-17 03:43:03",
+    "raw_data": {
+      "code": "202608173842586680",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786909383086680",
+      "share": 0,
+      "showTime": "2026-08-17 03:43:03",
+      "stockList": [],
+      "summary": "Stripe据悉即将达成收购AI公司OpenRouter的交易，金额超过70亿美元。",
+      "title": "Stripe据悉即将达成收购AI公司OpenRouter的交易  金额超过70亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608173842586680.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
     "id": "240428dcf3d8cd68",
     "code": "202608173842585888",
     "title": "哈马斯政治局主席访问埃及 讨论加沙地带局势",
@@ -13,7 +99,7 @@
     "raw_data": {
       "code": "202608173842585888",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786908459085888",
       "share": 0,
       "showTime": "2026-08-17 03:27:39",
@@ -29,7 +115,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -208,7 +294,7 @@
     "raw_data": {
       "code": "202608173842580633",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1786904718080633",
       "share": 1,
       "showTime": "2026-08-17 02:25:18",
@@ -230,7 +316,7 @@
       "90.BK0425"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -377,7 +463,7 @@
     "raw_data": {
       "code": "202608173842573331",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1786901748073331",
       "share": 0,
       "showTime": "2026-08-17 01:35:48",
@@ -399,7 +485,7 @@
       "1.688836"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -866,7 +952,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786895208068680",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-08-16 23:46:48",
       "stockList": [
         "90.BK0800",
@@ -887,7 +973,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 7,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [
@@ -966,7 +1052,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786894111065926",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-16 23:28:31",
       "stockList": [
         "90.BK0800"
@@ -985,7 +1071,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -1605,7 +1691,7 @@
     "raw_data": {
       "code": "202608163842527825",
       "image": [],
-      "pinglun_Num": 426,
+      "pinglun_Num": 427,
       "realSort": "1786880971027825",
       "share": 118,
       "showTime": "2026-08-16 19:49:31",
@@ -1621,7 +1707,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 426,
+    "comment_count": 427,
     "share_count": 118,
     "tags": {
       "industries": [],
@@ -1887,7 +1973,7 @@
     "raw_data": {
       "code": "202608163842525832",
       "image": [],
-      "pinglun_Num": 27,
+      "pinglun_Num": 28,
       "realSort": "1786879140025832",
       "share": 27,
       "showTime": "2026-08-16 19:19:00",
@@ -1909,7 +1995,7 @@
       "1.601899"
     ],
     "has_stock_mention": true,
-    "comment_count": 27,
+    "comment_count": 28,
     "share_count": 27,
     "tags": {
       "industries": [],
@@ -2107,9 +2193,9 @@
     "raw_data": {
       "code": "202608163842522686",
       "image": [],
-      "pinglun_Num": 735,
+      "pinglun_Num": 740,
       "realSort": "1786878005022686",
-      "share": 438,
+      "share": 444,
       "showTime": "2026-08-16 19:00:05",
       "stockList": [
         "90.BK0800",
@@ -2129,8 +2215,8 @@
       "0.159938"
     ],
     "has_stock_mention": true,
-    "comment_count": 735,
-    "share_count": 438,
+    "comment_count": 740,
+    "share_count": 444,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2378,102 +2464,6 @@
     "has_stock_mention": false,
     "comment_count": 0,
     "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6f4199661336fd5c",
-    "code": "202608163842522257",
-    "title": "中石化炼化工程发布中期业绩：股东应占利润11.37亿元 同比减少18%",
-    "summary": "【中石化炼化工程发布中期业绩：股东应占利润11.37亿元 同比减少18%】中石化炼化工程(02386)发布截至2026年6月30日止6个月中期业绩，该集团取得收入人民币356.24亿元(单位下同)，同比增加12.7%;本公司权益持有人应占利润11.37亿元，同比减少18%;基本每股盈利0.26元;拟派中期股息每股0.127元。",
-    "content": "【中石化炼化工程发布中期业绩：股东应占利润11.37亿元 同比减少18%】中石化炼化工程(02386)发布截至2026年6月30日止6个月中期业绩，该集团取得收入人民币356.24亿元(单位下同)，同比增加12.7%;本公司权益持有人应占利润11.37亿元，同比减少18%;基本每股盈利0.26元;拟派中期股息每股0.127元。",
-    "full_content": "【中石化炼化工程发布中期业绩：股东应占利润11.37亿元 同比减少18%】中石化炼化工程(02386)发布截至2026年6月30日止6个月中期业绩，该集团取得收入人民币356.24亿元(单位下同)，同比增加12.7%;本公司权益持有人应占利润11.37亿元，同比减少18%;基本每股盈利0.26元;拟派中期股息每股0.127元。",
-    "sort_time": "1786876172022257",
-    "showTime": "2026-08-16 18:29:32",
-    "time": "2026-08-16 18:29:32",
-    "publish_time": "2026-08-16 18:29:32",
-    "raw_data": {
-      "code": "202608163842522257",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786876172022257",
-      "share": 0,
-      "showTime": "2026-08-16 18:29:32",
-      "stockList": [
-        "116.02386"
-      ],
-      "summary": "【中石化炼化工程发布中期业绩：股东应占利润11.37亿元 同比减少18%】中石化炼化工程(02386)发布截至2026年6月30日止6个月中期业绩，该集团取得收入人民币356.24亿元(单位下同)，同比增加12.7%;本公司权益持有人应占利润11.37亿元，同比减少18%;基本每股盈利0.26元;拟派中期股息每股0.127元。",
-      "title": "中石化炼化工程发布中期业绩：股东应占利润11.37亿元 同比减少18%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608163842522257.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "116.02386"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C508",
-          "name": "化工",
-          "matched_keyword": "化工"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C508"
-      ]
-    }
-  },
-  {
-    "id": "a534fe43a1129dd0",
-    "code": "202608163842522172",
-    "title": "兆威机电：2026年上半年净利润7464.57万元，同比减少34.10%",
-    "summary": "【兆威机电：2026年上半年净利润7464.57万元，同比减少34.10%】8月16日，兆威机电公告，2026年上半年营业收入8.16亿元，同比增长3.80%；净利润7464.57万元，上年同期净利润1.13亿元，同比减少34.10%。",
-    "content": "【兆威机电：2026年上半年净利润7464.57万元，同比减少34.10%】8月16日，兆威机电公告，2026年上半年营业收入8.16亿元，同比增长3.80%；净利润7464.57万元，上年同期净利润1.13亿元，同比减少34.10%。",
-    "full_content": "【兆威机电：2026年上半年净利润7464.57万元，同比减少34.10%】8月16日，兆威机电公告，2026年上半年营业收入8.16亿元，同比增长3.80%；净利润7464.57万元，上年同期净利润1.13亿元，同比减少34.10%。",
-    "sort_time": "1786876037022172",
-    "showTime": "2026-08-16 18:27:17",
-    "time": "2026-08-16 18:27:17",
-    "publish_time": "2026-08-16 18:27:17",
-    "raw_data": {
-      "code": "202608163842522172",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1786876037022172",
-      "share": 6,
-      "showTime": "2026-08-16 18:27:17",
-      "stockList": [
-        "0.003021",
-        "116.02692"
-      ],
-      "summary": "【兆威机电：2026年上半年净利润7464.57万元，同比减少34.10%】8月16日，兆威机电公告，2026年上半年营业收入8.16亿元，同比增长3.80%；净利润7464.57万元，上年同期净利润1.13亿元，同比减少34.10%。",
-      "title": "兆威机电：2026年上半年净利润7464.57万元 同比减少34.10%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608163842522172.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "0.003021",
-      "116.02692"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
