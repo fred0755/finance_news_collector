@@ -1,5 +1,105 @@
 [
   {
+    "id": "fb4efa6a1a5c096b",
+    "code": "202608163842569065",
+    "title": "巴西发生一起旅游大巴翻车事故 已致9人死亡",
+    "summary": "【巴西发生一起旅游大巴翻车事故 已致9人死亡】当地时间8月16日凌晨，巴西里约热内卢州发生一起交通事故，一辆旅游大巴在行驶途中翻车，目前已造成至少9人死亡，包括8名成人和1名儿童。",
+    "content": "【巴西发生一起旅游大巴翻车事故 已致9人死亡】当地时间8月16日凌晨，巴西里约热内卢州发生一起交通事故，一辆旅游大巴在行驶途中翻车，目前已造成至少9人死亡，包括8名成人和1名儿童。",
+    "full_content": "【巴西发生一起旅游大巴翻车事故 已致9人死亡】当地时间8月16日凌晨，巴西里约热内卢州发生一起交通事故，一辆旅游大巴在行驶途中翻车，目前已造成至少9人死亡，包括8名成人和1名儿童。",
+    "sort_time": "1786895946069065",
+    "showTime": "2026-08-16 23:59:06",
+    "time": "2026-08-16 23:59:06",
+    "publish_time": "2026-08-16 23:59:06",
+    "raw_data": {
+      "code": "202608163842569065",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786895946069065",
+      "share": 0,
+      "showTime": "2026-08-16 23:59:06",
+      "stockList": [],
+      "summary": "【巴西发生一起旅游大巴翻车事故 已致9人死亡】当地时间8月16日凌晨，巴西里约热内卢州发生一起交通事故，一辆旅游大巴在行驶途中翻车，目前已造成至少9人死亡，包括8名成人和1名儿童。",
+      "title": "巴西发生一起旅游大巴翻车事故 已致9人死亡",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608163842569065.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C604",
+          "name": "旅游",
+          "matched_keyword": "旅游"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C604"
+      ]
+    }
+  },
+  {
+    "id": "10d6796ea3bebe0f",
+    "code": "202608163842568680",
+    "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
+    "summary": "【报价30万美元！AI开始“吃”倒闭公司的聊天记录了】一家初创公司倒闭后，什么东西最值钱？过去，答案可能是代码、专利、客户名单，或者是创始团队。而如今，可能是Slack（一款类似于钉钉、飞书、企业微信的办公协作软件）聊天记录。",
+    "content": "【报价30万美元！AI开始“吃”倒闭公司的聊天记录了】一家初创公司倒闭后，什么东西最值钱？过去，答案可能是代码、专利、客户名单，或者是创始团队。而如今，可能是Slack（一款类似于钉钉、飞书、企业微信的办公协作软件）聊天记录。",
+    "full_content": "【报价30万美元！AI开始“吃”倒闭公司的聊天记录了】一家初创公司倒闭后，什么东西最值钱？过去，答案可能是代码、专利、客户名单，或者是创始团队。而如今，可能是Slack（一款类似于钉钉、飞书、企业微信的办公协作软件）聊天记录。",
+    "sort_time": "1786895208068680",
+    "showTime": "2026-08-16 23:46:48",
+    "time": "2026-08-16 23:46:48",
+    "publish_time": "2026-08-16 23:46:48",
+    "raw_data": {
+      "code": "202608163842568680",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786895208068680",
+      "share": 3,
+      "showTime": "2026-08-16 23:46:48",
+      "stockList": [
+        "90.BK0800",
+        "150.159792"
+      ],
+      "summary": "【报价30万美元！AI开始“吃”倒闭公司的聊天记录了】一家初创公司倒闭后，什么东西最值钱？过去，答案可能是代码、专利、客户名单，或者是创始团队。而如今，可能是Slack（一款类似于钉钉、飞书、企业微信的办公协作软件）聊天记录。",
+      "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608163842568680.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "150.159792"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
     "id": "0bb60e65cc48ea3e",
     "code": "202608163842567379",
     "title": "希腊萨拉米斯岛森林火灾已致2死9伤",
@@ -280,7 +380,7 @@
     "raw_data": {
       "code": "202608163842545351",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 8,
       "realSort": "1786888215045351",
       "share": 3,
       "showTime": "2026-08-16 21:50:15",
@@ -302,7 +402,7 @@
       "1.601228"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
+    "comment_count": 8,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -580,7 +680,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1786884942034081",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-16 20:55:42",
       "stockList": [
         "90.BK1151",
@@ -601,7 +701,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -701,9 +801,9 @@
     "raw_data": {
       "code": "202608163842527825",
       "image": [],
-      "pinglun_Num": 389,
+      "pinglun_Num": 393,
       "realSort": "1786880971027825",
-      "share": 105,
+      "share": 108,
       "showTime": "2026-08-16 19:49:31",
       "stockList": [],
       "summary": "【伊朗军方：对每名入境美国军人悬赏50亿土曼】当地时间16日，伊朗陆军总司令阿米尔·哈塔米发表声明称，任何逮捕或消灭一名入境美国军人的伊朗人员，都将获得50亿土曼的悬赏奖励。",
@@ -717,8 +817,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 389,
-    "share_count": 105,
+    "comment_count": 393,
+    "share_count": 108,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -985,7 +1085,7 @@
       "image": [],
       "pinglun_Num": 26,
       "realSort": "1786879140025832",
-      "share": 26,
+      "share": 27,
       "showTime": "2026-08-16 19:19:00",
       "stockList": [
         "116.02259",
@@ -1006,7 +1106,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 26,
-    "share_count": 26,
+    "share_count": 27,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1203,9 +1303,9 @@
     "raw_data": {
       "code": "202608163842522686",
       "image": [],
-      "pinglun_Num": 653,
+      "pinglun_Num": 665,
       "realSort": "1786878005022686",
-      "share": 386,
+      "share": 396,
       "showTime": "2026-08-16 19:00:05",
       "stockList": [
         "90.BK0800",
@@ -1225,8 +1325,8 @@
       "0.159938"
     ],
     "has_stock_mention": true,
-    "comment_count": 653,
-    "share_count": 386,
+    "comment_count": 665,
+    "share_count": 396,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2071,9 +2171,9 @@
     "raw_data": {
       "code": "202608163842512147",
       "image": [],
-      "pinglun_Num": 185,
+      "pinglun_Num": 186,
       "realSort": "1786870819012147",
-      "share": 107,
+      "share": 109,
       "showTime": "2026-08-16 17:00:19",
       "stockList": [
         "90.BK0486",
@@ -2093,8 +2193,8 @@
       "90.BK0847"
     ],
     "has_stock_mention": true,
-    "comment_count": 185,
-    "share_count": 107,
+    "comment_count": 186,
+    "share_count": 109,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2239,7 +2339,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1786869456009962",
-      "share": 4,
+      "share": 6,
       "showTime": "2026-08-16 16:37:36",
       "stockList": [
         "1.601996"
@@ -2258,7 +2358,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 4,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2282,7 +2382,7 @@
       "image": [],
       "pinglun_Num": 11,
       "realSort": "1786868523009734",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-08-16 16:22:03",
       "stockList": [
         "0.002827"
@@ -2301,7 +2401,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 11,
-    "share_count": 11,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2315,118 +2415,6 @@
       "concept_ids": [
         "C701"
       ]
-    }
-  },
-  {
-    "id": "9b1fb28b439f31c0",
-    "code": "202608163842509665",
-    "title": "盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上",
-    "summary": "【盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上】盛科通信(688702.SH)公告称，公司与关联方深圳中电港技术股份有限公司签订产品销售合同，合同金额超过公司最近一个会计年度经审计营收的50%以上，且超过1亿元，合同标的为以太网交换芯片。",
-    "content": "【盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上】盛科通信(688702.SH)公告称，公司与关联方深圳中电港技术股份有限公司签订产品销售合同，合同金额超过公司最近一个会计年度经审计营收的50%以上，且超过1亿元，合同标的为以太网交换芯片。",
-    "full_content": "【盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上】盛科通信(688702.SH)公告称，公司与关联方深圳中电港技术股份有限公司签订产品销售合同，合同金额超过公司最近一个会计年度经审计营收的50%以上，且超过1亿元，合同标的为以太网交换芯片。",
-    "sort_time": "1786868424009665",
-    "showTime": "2026-08-16 16:20:24",
-    "time": "2026-08-16 16:20:24",
-    "publish_time": "2026-08-16 16:20:24",
-    "raw_data": {
-      "code": "202608163842509665",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1786868424009665",
-      "share": 44,
-      "showTime": "2026-08-16 16:20:24",
-      "stockList": [
-        "0.001287"
-      ],
-      "summary": "【盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上】盛科通信(688702.SH)公告称，公司与关联方深圳中电港技术股份有限公司签订产品销售合同，合同金额超过公司最近一个会计年度经审计营收的50%以上，且超过1亿元，合同标的为以太网交换芯片。",
-      "title": "盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608163842509665.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.001287"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 44,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        },
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "通信"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002",
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "2efd2c0b9d7e4d58",
-    "code": "202608163842509513",
-    "title": "中微半导：上半年净利润同比增长98.48%",
-    "summary": "【中微半导：上半年净利润同比增长98.48%】中微半导(688380.SH)发布2026年半年度报告，实现营业收入7.26亿元，同比增长44.01%；归属于上市公司股东的净利润1.72亿元，同比增长98.48%。",
-    "content": "【中微半导：上半年净利润同比增长98.48%】中微半导(688380.SH)发布2026年半年度报告，实现营业收入7.26亿元，同比增长44.01%；归属于上市公司股东的净利润1.72亿元，同比增长98.48%。",
-    "full_content": "【中微半导：上半年净利润同比增长98.48%】中微半导(688380.SH)发布2026年半年度报告，实现营业收入7.26亿元，同比增长44.01%；归属于上市公司股东的净利润1.72亿元，同比增长98.48%。",
-    "sort_time": "1786868424009513",
-    "showTime": "2026-08-16 16:20:24",
-    "time": "2026-08-16 16:20:24",
-    "publish_time": "2026-08-16 16:20:24",
-    "raw_data": {
-      "code": "202608163842509513",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1786868424009513",
-      "share": 2,
-      "showTime": "2026-08-16 16:20:24",
-      "stockList": [
-        "150.011668",
-        "999.397024"
-      ],
-      "summary": "【中微半导：上半年净利润同比增长98.48%】中微半导(688380.SH)发布2026年半年度报告，实现营业收入7.26亿元，同比增长44.01%；归属于上市公司股东的净利润1.72亿元，同比增长98.48%。",
-      "title": "中微半导：上半年净利润同比增长98.48%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608163842509513.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "150.011668",
-      "999.397024"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
