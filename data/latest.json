@@ -1,5 +1,101 @@
 [
   {
+    "id": "8738eef7b6fca9d9",
+    "code": "202608183843655171",
+    "title": "必和必拓全年基本利润132亿美元 同比增长30%",
+    "summary": "必和必拓全年基本利润132亿美元，同比增长30%，预估为126.9亿美元；净利润98.3亿美元，同比增长9%，预估109.5亿美元；每股末期股息0.99美元，上年同期0.60美元。",
+    "content": "必和必拓全年基本利润132亿美元，同比增长30%，预估为126.9亿美元；净利润98.3亿美元，同比增长9%，预估109.5亿美元；每股末期股息0.99美元，上年同期0.60美元。",
+    "full_content": "必和必拓全年基本利润132亿美元，同比增长30%，预估为126.9亿美元；净利润98.3亿美元，同比增长9%，预估109.5亿美元；每股末期股息0.99美元，上年同期0.60美元。",
+    "sort_time": "1787006636055171",
+    "showTime": "2026-08-18 06:43:56",
+    "time": "2026-08-18 06:43:56",
+    "publish_time": "2026-08-18 06:43:56",
+    "raw_data": {
+      "code": "202608183843655171",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787006636055171",
+      "share": 0,
+      "showTime": "2026-08-18 06:43:56",
+      "stockList": [
+        "106.BHP"
+      ],
+      "summary": "必和必拓全年基本利润132亿美元，同比增长30%，预估为126.9亿美元；净利润98.3亿美元，同比增长9%，预估109.5亿美元；每股末期股息0.99美元，上年同期0.60美元。",
+      "title": "必和必拓全年基本利润132亿美元 同比增长30%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608183843655171.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "106.BHP"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5924de6f392b8109",
+    "code": "202608183843652250",
+    "title": "周二你需要知道的隔夜全球要闻",
+    "summary": "周二你需要知道的隔夜全球要闻：中东风险推高油价和美债收益率；纳指收跌0.3%，存储、光通信逆势走强。",
+    "content": "周二你需要知道的隔夜全球要闻：中东风险推高油价和美债收益率；纳指收跌0.3%，存储、光通信逆势走强。",
+    "full_content": "周二你需要知道的隔夜全球要闻：中东风险推高油价和美债收益率；纳指收跌0.3%，存储、光通信逆势走强。",
+    "sort_time": "1787004982052250",
+    "showTime": "2026-08-18 06:16:22",
+    "time": "2026-08-18 06:16:22",
+    "publish_time": "2026-08-18 06:16:22",
+    "raw_data": {
+      "code": "202608183843652250",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787004982052250",
+      "share": 2,
+      "showTime": "2026-08-18 06:16:22",
+      "stockList": [
+        "90.BK0732",
+        "90.BK0547"
+      ],
+      "summary": "周二你需要知道的隔夜全球要闻：中东风险推高油价和美债收益率；纳指收跌0.3%，存储、光通信逆势走强。",
+      "title": "周二你需要知道的隔夜全球要闻",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608183843652250.html",
+    "category": "债券",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK0547"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
     "id": "96b489d10b0d3d6b",
     "code": "202608183843627240",
     "title": "8月以来两融余额回升700多亿元 机构：市场进入情绪修复通道",
@@ -97,9 +193,9 @@
     "raw_data": {
       "code": "202608183843648354",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1787004116048354",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-18 06:01:56",
       "stockList": [],
       "summary": "【美联储9月维持利率不变的概率为65%】据CME“美联储观察”：美联储到9月维持利率不变的概率为65%，累计加息25个基点的概率为35%。美联储到10月维持利率不变的概率为51.4%，累计加息25个基点的概率为41.3%，累计加息50个基点的概率为7.4%。",
@@ -113,8 +209,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -224,7 +320,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1787002870042263",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-18 05:41:10",
       "stockList": [],
       "summary": "【土耳其总统埃尔多安与美国总统特朗普通电话】土耳其总统埃尔多安与美国总统特朗普通电话。",
@@ -239,7 +335,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -248,12 +344,12 @@
     }
   },
   {
-    "id": "0fe9206101f12c74",
+    "id": "32a5fbf71300787b",
     "code": "202608183843641234",
-    "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
-    "summary": "【特朗普：伊朗“不会达成我认为必要的那种协议”】美国总统特朗普17日在白宫对媒体称，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
-    "content": "【特朗普：伊朗“不会达成我认为必要的那种协议”】美国总统特朗普17日在白宫对媒体称，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
-    "full_content": "【特朗普：伊朗“不会达成我认为必要的那种协议”】美国总统特朗普17日在白宫对媒体称，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
+    "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
+    "summary": "【特朗普称不寻求延长与伊朗的谅解备忘录】当地时间8月17日，美国总统特朗普表示，美国不寻求延长与伊朗的谅解备忘录。此外他还表示，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
+    "content": "【特朗普称不寻求延长与伊朗的谅解备忘录】当地时间8月17日，美国总统特朗普表示，美国不寻求延长与伊朗的谅解备忘录。此外他还表示，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
+    "full_content": "【特朗普称不寻求延长与伊朗的谅解备忘录】当地时间8月17日，美国总统特朗普表示，美国不寻求延长与伊朗的谅解备忘录。此外他还表示，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
     "sort_time": "1787002392041234",
     "showTime": "2026-08-18 05:33:12",
     "time": "2026-08-18 05:33:12",
@@ -261,13 +357,13 @@
     "raw_data": {
       "code": "202608183843641234",
       "image": [],
-      "pinglun_Num": 75,
+      "pinglun_Num": 130,
       "realSort": "1787002392041234",
-      "share": 27,
+      "share": 48,
       "showTime": "2026-08-18 05:33:12",
       "stockList": [],
-      "summary": "【特朗普：伊朗“不会达成我认为必要的那种协议”】美国总统特朗普17日在白宫对媒体称，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
-      "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
+      "summary": "【特朗普称不寻求延长与伊朗的谅解备忘录】当地时间8月17日，美国总统特朗普表示，美国不寻求延长与伊朗的谅解备忘录。此外他还表示，伊朗想要达成协议，但“不会达成我认为必要的那种协议”。",
+      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
       "titleColor": 3
     },
     "source": "东方财富快讯",
@@ -277,8 +373,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 75,
-    "share_count": 27,
+    "comment_count": 130,
+    "share_count": 48,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -529,7 +625,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1787001163018195",
-      "share": 6,
+      "share": 9,
       "showTime": "2026-08-18 05:12:43",
       "stockList": [
         "90.BK1015",
@@ -550,7 +646,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 6,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -572,9 +668,9 @@
     "raw_data": {
       "code": "202608173843560226",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 27,
       "realSort": "1787000660060226",
-      "share": 12,
+      "share": 14,
       "showTime": "2026-08-18 05:04:20",
       "stockList": [
         "90.BK0567",
@@ -594,8 +690,8 @@
       "1.688256"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 12,
+    "comment_count": 27,
+    "share_count": 14,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -617,9 +713,9 @@
     "raw_data": {
       "code": "202608173843573567",
       "image": [],
-      "pinglun_Num": 38,
+      "pinglun_Num": 50,
       "realSort": "1787000500073567",
-      "share": 26,
+      "share": 32,
       "showTime": "2026-08-18 05:01:40",
       "stockList": [
         "90.BK0427",
@@ -639,8 +735,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 38,
-    "share_count": 26,
+    "comment_count": 50,
+    "share_count": 32,
     "tags": {
       "industries": [],
       "concepts": [
@@ -682,9 +778,9 @@
     "raw_data": {
       "code": "202608173843573656",
       "image": [],
-      "pinglun_Num": 90,
+      "pinglun_Num": 105,
       "realSort": "1787000273073656",
-      "share": 26,
+      "share": 37,
       "showTime": "2026-08-18 04:57:53",
       "stockList": [],
       "summary": "【伊朗官员：已为美国履行谅解备忘录设定最后期限】一名伊朗高级官员17日在接受路透社采访时说，伊朗已为美国全面履行伊美谅解备忘录设定了数周的最后期限，伊朗不会无限期等待美国继续实施海上封锁。该官员表示，由于“与美国达成永久停战协议的努力陷入僵局”，伊朗已决定将其政策“从防御性转向全面进攻性”。",
@@ -698,8 +794,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 90,
-    "share_count": 26,
+    "comment_count": 105,
+    "share_count": 37,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -721,9 +817,9 @@
     "raw_data": {
       "code": "202608173843571138",
       "image": [],
-      "pinglun_Num": 37,
+      "pinglun_Num": 62,
       "realSort": "1787000184071138",
-      "share": 55,
+      "share": 79,
       "showTime": "2026-08-18 04:56:24",
       "stockList": [
         "90.BK0428",
@@ -743,8 +839,8 @@
       "90.BK0493"
     ],
     "has_stock_mention": true,
-    "comment_count": 37,
-    "share_count": 55,
+    "comment_count": 62,
+    "share_count": 79,
     "tags": {
       "industries": [
         {
@@ -841,9 +937,9 @@
     "raw_data": {
       "code": "202608173843517159",
       "image": [],
-      "pinglun_Num": 152,
+      "pinglun_Num": 182,
       "realSort": "1786999474017159",
-      "share": 53,
+      "share": 65,
       "showTime": "2026-08-18 04:44:34",
       "stockList": [
         "150.562500",
@@ -863,8 +959,8 @@
       "150.011668"
     ],
     "has_stock_mention": true,
-    "comment_count": 152,
-    "share_count": 53,
+    "comment_count": 182,
+    "share_count": 65,
     "tags": {
       "industries": [
         {
@@ -957,9 +1053,9 @@
     "raw_data": {
       "code": "202608183843637990",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 14,
       "realSort": "1786998231037990",
-      "share": 4,
+      "share": 13,
       "showTime": "2026-08-18 04:23:51",
       "stockList": [
         "90.BK0800"
@@ -977,8 +1073,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 4,
+    "comment_count": 14,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1094,7 +1190,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1786996810036439",
-      "share": 6,
+      "share": 7,
       "showTime": "2026-08-18 04:00:10",
       "stockList": [],
       "summary": "【纳指收跌0.3% 存储、光通信板块逆势走强】美股三大指数集体收跌，纳指跌0.32%，道指跌0.49%，标普500指数跌0.52%。存储、光通信等AI概念板块逆势走强，铠侠ADR涨超13%，闪迪涨超8%，西部数据涨超5%，美光科技涨超4%。Coherent涨超7%，康宁、Lumentum涨超4%。",
@@ -1109,7 +1205,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 6,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1223,9 +1319,9 @@
     "raw_data": {
       "code": "202608183843635958",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786995406035958",
-      "share": 0,
+      "share": 3,
       "showTime": "2026-08-18 03:36:46",
       "stockList": [
         "90.BK0800",
@@ -1245,8 +1341,8 @@
       "90.BK1126"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1329,7 +1425,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1786994742035495",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-18 03:25:42",
       "stockList": [],
       "summary": "【国际油价17日上涨】国际油价17日上涨。截至当天收盘，纽约商品交易所9月交货的轻质原油期货价格上涨2.10美元，收于每桶84.50美元，涨幅为2.55%；10月交货的伦敦布伦特原油期货价格上涨2.35美元，收于每桶90.87美元，涨幅为2.65%。",
@@ -1344,7 +1440,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1376,7 +1472,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786994655035576",
-      "share": 3,
+      "share": 8,
       "showTime": "2026-08-18 03:24:15",
       "stockList": [],
       "summary": "【华尔街神秘顶部指标再度亮灯？顶流私募被曝重启上市进程】作为美股投资者挥之不去的心理阴影，又有大型私募机构要上市了。",
@@ -1391,7 +1487,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 3,
+    "share_count": 8,
     "tags": {
       "industries": [
         {
@@ -1425,7 +1521,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1786994385035356",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-08-18 03:19:45",
       "stockList": [],
       "summary": "【美国30年期国债收益率触及2007年以来高位】美国30年期国债收益率攀升至5.29%，创下2007年以来新高。投资者担忧美国债务规模膨胀、国债大量发行以及通胀持续顽固，推动收益率上行。AI相关企业举债融资，叠加长期债券需求走弱，进一步带来压力。尽管就业、通胀与零售数据走弱，市场下调美联储短期加息预期，但美债抛售仍在延续。与此同时，长端收益率上行、短端收益率回落，收益率曲线陡峭化。",
@@ -1440,7 +1536,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 2,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1554,9 +1650,9 @@
     "raw_data": {
       "code": "202608173843572140",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1786992101072140",
-      "share": 3,
+      "share": 7,
       "showTime": "2026-08-18 02:41:41",
       "stockList": [
         "90.BK0800",
@@ -1576,8 +1672,8 @@
       "1007.BK000307"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 3,
+    "comment_count": 3,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1613,9 +1709,9 @@
     "raw_data": {
       "code": "202608173843570228",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1786991880070228",
-      "share": 5,
+      "share": 8,
       "showTime": "2026-08-18 02:38:00",
       "stockList": [
         "90.BK0428",
@@ -1635,8 +1731,8 @@
       "90.BK1161"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 5,
+    "comment_count": 2,
+    "share_count": 8,
     "tags": {
       "industries": [
         {
@@ -1690,7 +1786,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786991527026684",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-08-18 02:32:07",
       "stockList": [
         "90.BK1361"
@@ -1709,7 +1805,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1741,7 +1837,7 @@
       "image": [],
       "pinglun_Num": 3,
       "realSort": "1786991170024558",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-18 02:26:10",
       "stockList": [],
       "summary": "【一艘阿联酋油轮在霍尔木兹海峡被拦截】总台记者当地时间17日获悉，海事数据显示，一艘属于阿联酋公司的油轮在穿越霍尔木兹海峡时，在格什姆岛附近被拦截。",
@@ -1756,7 +1852,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 3,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1817,9 +1913,9 @@
     "raw_data": {
       "code": "202608183843621861",
       "image": [],
-      "pinglun_Num": 102,
+      "pinglun_Num": 104,
       "realSort": "1786990608021861",
-      "share": 48,
+      "share": 51,
       "showTime": "2026-08-18 02:16:48",
       "stockList": [],
       "summary": "【特朗普称不寻求延长与伊朗的谅解备忘录】当地时间8月17日，美国总统特朗普表示，美国不寻求延长与伊朗的谅解备忘录。",
@@ -1833,8 +1929,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 102,
-    "share_count": 48,
+    "comment_count": 104,
+    "share_count": 51,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1858,7 +1954,7 @@
       "image": [],
       "pinglun_Num": 22,
       "realSort": "1786990501022154",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-08-18 02:15:01",
       "stockList": [],
       "summary": "【特朗普重申宣布霍尔木兹海峡为美国领土的“想法”】特朗普重申宣布霍尔木兹海峡为美国领土的“想法”。特朗普还表示，霍尔木兹海峡是开放的，油价在下跌。",
@@ -1873,7 +1969,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 22,
-    "share_count": 2,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1897,7 +1993,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1786990465021619",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-08-18 02:14:25",
       "stockList": [],
       "summary": "美国30年期国债收益率突破5.31%，创下19年来新高。",
@@ -1912,7 +2008,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 5,
-    "share_count": 1,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1973,9 +2069,9 @@
     "raw_data": {
       "code": "202608183843630283",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 26,
       "realSort": "1786990039030283",
-      "share": 9,
+      "share": 18,
       "showTime": "2026-08-18 02:07:19",
       "stockList": [
         "90.BK0800",
@@ -1995,8 +2091,8 @@
       "150.011668"
     ],
     "has_stock_mention": true,
-    "comment_count": 21,
-    "share_count": 9,
+    "comment_count": 26,
+    "share_count": 18,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2020,7 +2116,7 @@
       "image": [],
       "pinglun_Num": 6,
       "realSort": "1786989885021476",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-08-18 02:04:45",
       "stockList": [],
       "summary": "特朗普表示，伊朗不会达成他认为必要的协议。",
@@ -2035,7 +2131,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 6,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2059,7 +2155,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1786989531021261",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-08-18 01:58:51",
       "stockList": [
         "90.BK1366",
@@ -2080,7 +2176,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [
         {
@@ -2120,9 +2216,9 @@
     "raw_data": {
       "code": "202608183843621356",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1786989428021356",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-18 01:57:08",
       "stockList": [],
       "summary": "特朗普谈及阿曼表示，认为他们表现得不怎么样。美国会非常轻松地搞定他们。",
@@ -2136,8 +2232,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2161,7 +2257,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1786989316029829",
-      "share": 4,
+      "share": 13,
       "showTime": "2026-08-18 01:55:16",
       "stockList": [
         "999.605309",
@@ -2182,7 +2278,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 4,
+    "share_count": 13,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2204,9 +2300,9 @@
     "raw_data": {
       "code": "202608183843622478",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 13,
       "realSort": "1786989301022478",
-      "share": 32,
+      "share": 44,
       "showTime": "2026-08-18 01:55:01",
       "stockList": [
         "90.BK1408",
@@ -2226,8 +2322,8 @@
       "150.562500"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 32,
+    "comment_count": 13,
+    "share_count": 44,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2240,120 +2336,6 @@
       "industry_ids": [],
       "concept_ids": [
         "C012"
-      ]
-    }
-  },
-  {
-    "id": "b6bed05ad0804801",
-    "code": "202608183843622055",
-    "title": "多晶硅价格反弹 光伏产业链景气度抬升",
-    "summary": "【多晶硅价格反弹 光伏产业链景气度抬升】近日，光伏产业链涨价行情持续发酵，8月17日多晶硅现货价格再度上行，硅片、电池片等环节价格同步跟涨。上海有色网数据显示，当日多晶硅N型复投料单价上涨0.95元/千克，报40.4元/千克；N型致密料单价上涨1元/千克，报40元/千克，产业链涨价态势延续。",
-    "content": "【多晶硅价格反弹 光伏产业链景气度抬升】近日，光伏产业链涨价行情持续发酵，8月17日多晶硅现货价格再度上行，硅片、电池片等环节价格同步跟涨。上海有色网数据显示，当日多晶硅N型复投料单价上涨0.95元/千克，报40.4元/千克；N型致密料单价上涨1元/千克，报40元/千克，产业链涨价态势延续。",
-    "full_content": "【多晶硅价格反弹 光伏产业链景气度抬升】近日，光伏产业链涨价行情持续发酵，8月17日多晶硅现货价格再度上行，硅片、电池片等环节价格同步跟涨。上海有色网数据显示，当日多晶硅N型复投料单价上涨0.95元/千克，报40.4元/千克；N型致密料单价上涨1元/千克，报40元/千克，产业链涨价态势延续。",
-    "sort_time": "1786989284022055",
-    "showTime": "2026-08-18 01:54:44",
-    "time": "2026-08-18 01:54:44",
-    "publish_time": "2026-08-18 01:54:44",
-    "raw_data": {
-      "code": "202608183843622055",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1786989284022055",
-      "share": 7,
-      "showTime": "2026-08-18 01:54:44",
-      "stockList": [
-        "90.BK1031",
-        "150.014238"
-      ],
-      "summary": "【多晶硅价格反弹 光伏产业链景气度抬升】近日，光伏产业链涨价行情持续发酵，8月17日多晶硅现货价格再度上行，硅片、电池片等环节价格同步跟涨。上海有色网数据显示，当日多晶硅N型复投料单价上涨0.95元/千克，报40.4元/千克；N型致密料单价上涨1元/千克，报40元/千克，产业链涨价态势延续。",
-      "title": "多晶硅价格反弹 光伏产业链景气度抬升",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608183843622055.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK1031",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 7,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010202",
-          "name": "光伏设备",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "硅片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C103",
-          "name": "光伏",
-          "matched_keyword": "硅片"
-        }
-      ],
-      "industry_ids": [
-        "I010202"
-      ],
-      "concept_ids": [
-        "C103"
-      ]
-    }
-  },
-  {
-    "id": "4e18b63c3250ec5c",
-    "code": "202608183843621137",
-    "title": "国际油价持续走高",
-    "summary": "【国际油价持续走高】国际油价持续走高，截至目前，WTI原油期货价格涨2.40%，报83.424美元/桶；布伦特原油期货价格涨2.32%，报90.575美元/桶。",
-    "content": "【国际油价持续走高】国际油价持续走高，截至目前，WTI原油期货价格涨2.40%，报83.424美元/桶；布伦特原油期货价格涨2.32%，报90.575美元/桶。",
-    "full_content": "【国际油价持续走高】国际油价持续走高，截至目前，WTI原油期货价格涨2.40%，报83.424美元/桶；布伦特原油期货价格涨2.32%，报90.575美元/桶。",
-    "sort_time": "1786988843021137",
-    "showTime": "2026-08-18 01:47:23",
-    "time": "2026-08-18 01:47:23",
-    "publish_time": "2026-08-18 01:47:23",
-    "raw_data": {
-      "code": "202608183843621137",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1786988843021137",
-      "share": 1,
-      "showTime": "2026-08-18 01:47:23",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "【国际油价持续走高】国际油价持续走高，截至目前，WTI原油期货价格涨2.40%，报83.424美元/桶；布伦特原油期货价格涨2.32%，报90.575美元/桶。",
-      "title": "国际油价持续走高",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608183843621137.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
       ]
     }
   }
