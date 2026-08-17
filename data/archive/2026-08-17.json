@@ -1,5 +1,309 @@
 [
   {
+    "id": "510d1be9a6e47ddb",
+    "code": "202608173843553627",
+    "title": "现货黄金日内涨幅扩大至1%",
+    "summary": "现货黄金日内涨幅扩大至1%，报4419.66美元/盎司。",
+    "content": "现货黄金日内涨幅扩大至1%，报4419.66美元/盎司。",
+    "full_content": "现货黄金日内涨幅扩大至1%，报4419.66美元/盎司。",
+    "sort_time": "1786976417053627",
+    "showTime": "2026-08-17 22:20:17",
+    "time": "2026-08-17 22:20:17",
+    "publish_time": "2026-08-17 22:20:17",
+    "raw_data": {
+      "code": "202608173843553627",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1786976417053627",
+      "share": 0,
+      "showTime": "2026-08-17 22:20:17",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "现货黄金日内涨幅扩大至1%，报4419.66美元/盎司。",
+      "title": "现货黄金日内涨幅扩大至1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608173843553627.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "48cc8c7a421e43ae",
+    "code": "202608173843552038",
+    "title": "加拿大总理：到2050年加拿大的电力需求预计将翻倍",
+    "summary": "【加拿大总理：到2050年加拿大的电力需求预计将翻倍】加拿大总理卡尼表示，到2050年，加拿大的电力需求预计将翻倍，必须将电网的容量也翻倍。",
+    "content": "【加拿大总理：到2050年加拿大的电力需求预计将翻倍】加拿大总理卡尼表示，到2050年，加拿大的电力需求预计将翻倍，必须将电网的容量也翻倍。",
+    "full_content": "【加拿大总理：到2050年加拿大的电力需求预计将翻倍】加拿大总理卡尼表示，到2050年，加拿大的电力需求预计将翻倍，必须将电网的容量也翻倍。",
+    "sort_time": "1786975905052038",
+    "showTime": "2026-08-17 22:11:45",
+    "time": "2026-08-17 22:11:45",
+    "publish_time": "2026-08-17 22:11:45",
+    "raw_data": {
+      "code": "202608173843552038",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786975905052038",
+      "share": 0,
+      "showTime": "2026-08-17 22:11:45",
+      "stockList": [],
+      "summary": "【加拿大总理：到2050年加拿大的电力需求预计将翻倍】加拿大总理卡尼表示，到2050年，加拿大的电力需求预计将翻倍，必须将电网的容量也翻倍。",
+      "title": "加拿大总理：到2050年加拿大的电力需求预计将翻倍",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608173843552038.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010203",
+          "name": "输配电设备",
+          "level1": "制造业",
+          "level2": "电气机械和器材制造业",
+          "matched_keyword": "电网"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C108",
+          "name": "特高压",
+          "matched_keyword": "电网"
+        }
+      ],
+      "industry_ids": [
+        "I010203"
+      ],
+      "concept_ids": [
+        "C108"
+      ]
+    }
+  },
+  {
+    "id": "4b44a337070c493d",
+    "code": "202608173843536058",
+    "title": "美国8月份NAHB住宅建筑商指数升至35",
+    "summary": "美国8月份NAHB住宅建筑商指数升至35；预估33。",
+    "content": "美国8月份NAHB住宅建筑商指数升至35；预估33。",
+    "full_content": "美国8月份NAHB住宅建筑商指数升至35；预估33。",
+    "sort_time": "1786975319036058",
+    "showTime": "2026-08-17 22:01:59",
+    "time": "2026-08-17 22:01:59",
+    "publish_time": "2026-08-17 22:01:59",
+    "raw_data": {
+      "code": "202608173843536058",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1786975319036058",
+      "share": 0,
+      "showTime": "2026-08-17 22:01:59",
+      "stockList": [],
+      "summary": "美国8月份NAHB住宅建筑商指数升至35；预估33。",
+      "title": "美国8月份NAHB住宅建筑商指数升至35",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608173843536058.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2b9031a8bfb2563d",
+    "code": "202608173843535714",
+    "title": "英伟达将投资1000亿美元用于在俄亥俄州建设OpenAI数据中心",
+    "summary": "据报道，英伟达将投资1000亿美元用于在俄亥俄州建设OpenAI数据中心。",
+    "content": "据报道，英伟达将投资1000亿美元用于在俄亥俄州建设OpenAI数据中心。",
+    "full_content": "据报道，英伟达将投资1000亿美元用于在俄亥俄州建设OpenAI数据中心。",
+    "sort_time": "1786975283035714",
+    "showTime": "2026-08-17 22:01:23",
+    "time": "2026-08-17 22:01:23",
+    "publish_time": "2026-08-17 22:01:23",
+    "raw_data": {
+      "code": "202608173843535714",
+      "image": [],
+      "pinglun_Num": 24,
+      "realSort": "1786975283035714",
+      "share": 22,
+      "showTime": "2026-08-17 22:01:23",
+      "stockList": [
+        "90.BK1161",
+        "90.BK0922"
+      ],
+      "summary": "据报道，英伟达将投资1000亿美元用于在俄亥俄州建设OpenAI数据中心。",
+      "title": "英伟达将投资1000亿美元用于在俄亥俄州建设OpenAI数据中心",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608173843535714.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "90.BK0922"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 24,
+    "share_count": 22,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "5634e82fa351e433",
+    "code": "202608173843536620",
+    "title": "闪迪股价涨幅扩大至8.7% 股价创7月14日以来新高",
+    "summary": "【闪迪股价涨幅扩大至8.7% 股价创7月14日以来新高】闪迪股价涨幅扩大至8.70%，报1784.159美元/股，股价创7月14日以来新高，总市值报2605亿美元。",
+    "content": "【闪迪股价涨幅扩大至8.7% 股价创7月14日以来新高】闪迪股价涨幅扩大至8.70%，报1784.159美元/股，股价创7月14日以来新高，总市值报2605亿美元。",
+    "full_content": "【闪迪股价涨幅扩大至8.7% 股价创7月14日以来新高】闪迪股价涨幅扩大至8.70%，报1784.159美元/股，股价创7月14日以来新高，总市值报2605亿美元。",
+    "sort_time": "1786975281036620",
+    "showTime": "2026-08-17 22:01:21",
+    "time": "2026-08-17 22:01:21",
+    "publish_time": "2026-08-17 22:01:21",
+    "raw_data": {
+      "code": "202608173843536620",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1786975281036620",
+      "share": 8,
+      "showTime": "2026-08-17 22:01:21",
+      "stockList": [],
+      "summary": "【闪迪股价涨幅扩大至8.7% 股价创7月14日以来新高】闪迪股价涨幅扩大至8.70%，报1784.159美元/股，股价创7月14日以来新高，总市值报2605亿美元。",
+      "title": "闪迪股价涨幅扩大至8.7% 股价创7月14日以来新高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608173843536620.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e81bf09657f52e0f",
+    "code": "202608173843535431",
+    "title": "美股半导体设备股走高",
+    "summary": "【美股半导体设备股走高】美股半导体设备股走高，AXT Inc大涨超11%，应用材料、艾马克技术涨超5%，科磊、泰瑞达、泛林集团涨约2%。",
+    "content": "【美股半导体设备股走高】美股半导体设备股走高，AXT Inc大涨超11%，应用材料、艾马克技术涨超5%，科磊、泰瑞达、泛林集团涨约2%。",
+    "full_content": "【美股半导体设备股走高】美股半导体设备股走高，AXT Inc大涨超11%，应用材料、艾马克技术涨超5%，科磊、泰瑞达、泛林集团涨约2%。",
+    "sort_time": "1786975012035431",
+    "showTime": "2026-08-17 21:56:52",
+    "time": "2026-08-17 21:56:52",
+    "publish_time": "2026-08-17 21:56:52",
+    "raw_data": {
+      "code": "202608173843535431",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1786975012035431",
+      "share": 19,
+      "showTime": "2026-08-17 21:56:52",
+      "stockList": [],
+      "summary": "【美股半导体设备股走高】美股半导体设备股走高，AXT Inc大涨超11%，应用材料、艾马克技术涨超5%，科磊、泰瑞达、泛林集团涨约2%。",
+      "title": "美股半导体设备股走高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608173843535431.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 19,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
     "id": "8949de82f7276945",
     "code": "202608173843529813",
     "title": "美股网络安全公司盘初集体走低 Cloudflare跌近3%",
