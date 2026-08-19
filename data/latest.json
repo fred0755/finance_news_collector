@@ -1,5 +1,130 @@
 [
   {
+    "id": "98e14109f6366d8e",
+    "code": "202608203846742013",
+    "title": "富时中国A50指数期货夜盘收涨0.39%",
+    "summary": "富时中国A50指数期货夜盘收涨0.39%。",
+    "content": "富时中国A50指数期货夜盘收涨0.39%。",
+    "full_content": "富时中国A50指数期货夜盘收涨0.39%。",
+    "sort_time": "1787174184042013",
+    "showTime": "2026-08-20 05:16:24",
+    "time": "2026-08-20 05:16:24",
+    "publish_time": "2026-08-20 05:16:24",
+    "raw_data": {
+      "code": "202608203846742013",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787174184042013",
+      "share": 0,
+      "showTime": "2026-08-20 05:16:24",
+      "stockList": [],
+      "summary": "富时中国A50指数期货夜盘收涨0.39%。",
+      "title": "富时中国A50指数期货夜盘收涨0.39%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608203846742013.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0d34c46677e0803a",
+    "code": "202608203846741819",
+    "title": "虚拟货币持续走高",
+    "summary": "虚拟货币持续走高，行情显示，比特币涨至69415.6美元，过去24小时内涨7.41%；以太坊涨至2259.59美元，过去24小时内涨18.06%。",
+    "content": "虚拟货币持续走高，行情显示，比特币涨至69415.6美元，过去24小时内涨7.41%；以太坊涨至2259.59美元，过去24小时内涨18.06%。",
+    "full_content": "虚拟货币持续走高，行情显示，比特币涨至69415.6美元，过去24小时内涨7.41%；以太坊涨至2259.59美元，过去24小时内涨18.06%。",
+    "sort_time": "1787174150041819",
+    "showTime": "2026-08-20 05:15:50",
+    "time": "2026-08-20 05:15:50",
+    "publish_time": "2026-08-20 05:15:50",
+    "raw_data": {
+      "code": "202608203846741819",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787174150041819",
+      "share": 0,
+      "showTime": "2026-08-20 05:15:50",
+      "stockList": [],
+      "summary": "虚拟货币持续走高，行情显示，比特币涨至69415.6美元，过去24小时内涨7.41%；以太坊涨至2259.59美元，过去24小时内涨18.06%。",
+      "title": "虚拟货币持续走高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608203846741819.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C008",
+          "name": "区块链",
+          "matched_keyword": "以太坊"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C008"
+      ]
+    }
+  },
+  {
+    "id": "4b5bac518bd3c2a6",
+    "code": "202608203846740853",
+    "title": "乌克兰基辅响起多次爆炸声",
+    "summary": "当地时间19日深夜，乌克兰首都基辅响起多次爆炸声。",
+    "content": "当地时间19日深夜，乌克兰首都基辅响起多次爆炸声。",
+    "full_content": "当地时间19日深夜，乌克兰首都基辅响起多次爆炸声。",
+    "sort_time": "1787173235040853",
+    "showTime": "2026-08-20 05:00:35",
+    "time": "2026-08-20 05:00:35",
+    "publish_time": "2026-08-20 05:00:35",
+    "raw_data": {
+      "code": "202608203846740853",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787173235040853",
+      "share": 0,
+      "showTime": "2026-08-20 05:00:35",
+      "stockList": [],
+      "summary": "当地时间19日深夜，乌克兰首都基辅响起多次爆炸声。",
+      "title": "乌克兰基辅响起多次爆炸声",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608203846740853.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "f943087e140a9233",
     "code": "202608203846740671",
     "title": "现货钯金日内涨幅达4%",
@@ -52,7 +177,7 @@
     "raw_data": {
       "code": "202608203846740562",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787172778040562",
       "share": 0,
       "showTime": "2026-08-20 04:52:58",
@@ -72,7 +197,7 @@
       "90.BK0481"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -92,6 +217,67 @@
     }
   },
   {
+    "id": "aa3e3962569567ff",
+    "code": "202608203846739937",
+    "title": "OpenAI内部大会释放失落信号：今年IPO可能性愈发渺茫",
+    "summary": "【OpenAI内部大会释放失落信号：今年IPO可能性愈发渺茫】最新消息显示，随着OpenAI营收增长不及预期，公司今年登陆资本市场的前景正变得愈发渺茫。据悉，在当地时间周三举行的全员大会上，OpenAI首席财务官莎拉·弗里尔对员工们表示，公司“将在2027年成为一家上市公司”，但如果“业务发展态势持续向好”，也有可能更早登陆资本市场。",
+    "content": "【OpenAI内部大会释放失落信号：今年IPO可能性愈发渺茫】最新消息显示，随着OpenAI营收增长不及预期，公司今年登陆资本市场的前景正变得愈发渺茫。据悉，在当地时间周三举行的全员大会上，OpenAI首席财务官莎拉·弗里尔对员工们表示，公司“将在2027年成为一家上市公司”，但如果“业务发展态势持续向好”，也有可能更早登陆资本市场。",
+    "full_content": "【OpenAI内部大会释放失落信号：今年IPO可能性愈发渺茫】最新消息显示，随着OpenAI营收增长不及预期，公司今年登陆资本市场的前景正变得愈发渺茫。据悉，在当地时间周三举行的全员大会上，OpenAI首席财务官莎拉·弗里尔对员工们表示，公司“将在2027年成为一家上市公司”，但如果“业务发展态势持续向好”，也有可能更早登陆资本市场。",
+    "sort_time": "1787172374039937",
+    "showTime": "2026-08-20 04:46:14",
+    "time": "2026-08-20 04:46:14",
+    "publish_time": "2026-08-20 04:46:14",
+    "raw_data": {
+      "code": "202608203846739937",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787172374039937",
+      "share": 0,
+      "showTime": "2026-08-20 04:46:14",
+      "stockList": [
+        "90.BK0697"
+      ],
+      "summary": "【OpenAI内部大会释放失落信号：今年IPO可能性愈发渺茫】最新消息显示，随着OpenAI营收增长不及预期，公司今年登陆资本市场的前景正变得愈发渺茫。据悉，在当地时间周三举行的全员大会上，OpenAI首席财务官莎拉·弗里尔对员工们表示，公司“将在2027年成为一家上市公司”，但如果“业务发展态势持续向好”，也有可能更早登陆资本市场。",
+      "title": "OpenAI内部大会释放失落信号：今年IPO可能性愈发渺茫",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608203846739937.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
     "id": "14ba2550a10413c7",
     "code": "202608203846739877",
     "title": "花旗称贝森特出手令美元付出代价 建议客户采用策略加以应对",
@@ -105,9 +291,9 @@
     "raw_data": {
       "code": "202608203846739877",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 7,
       "realSort": "1787172087039877",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-08-20 04:41:27",
       "stockList": [],
       "summary": "【花旗称贝森特出手令美元付出代价 建议客户采用策略加以应对】花旗集团认为，美国财政部长斯科特·贝森特为压低长期借贷成本而采取的最新举措可能会导致美元在短期内走弱。财政部周三扩大10至30年期国债回购规模的公告导致长债收益率走低并推动美元跌至5月中以来的最低水平。花旗策略师DirkWiller等人在研报中指出，遏制收益率的努力可能会使美元承受压力。“以如此方式降低利率的主要代价就是货币走弱，”他们写道。花旗建议客户面对此举利用美元为押注高收益新兴市场货币融资，因后者“在当前环境下也应表现不错”。该行此前青睐用加元和瑞士法郎作为融资货币。策略师们还认为黄金有上涨空间，并放弃了对久期的低配策略，理由是收益率曲线的长端更为受制且预计美联储接下来的两次会议上不会加息。他们说，“投资者现阶段可能不得不平仓陡化交易，转而重新买入黄金并卖出”美元。",
@@ -121,8 +307,8 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
+    "comment_count": 7,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -278,12 +464,12 @@
     }
   },
   {
-    "id": "20fd298d99df0618",
+    "id": "a9be1b2dc8f87318",
     "code": "202608203846737785",
-    "title": "美国财政部19日发布的数据显示 美国联邦政府债务总额已突破40万亿美元",
-    "summary": "美国财政部19日发布的数据显示，美国联邦政府债务总额已突破40万亿美元。",
-    "content": "美国财政部19日发布的数据显示，美国联邦政府债务总额已突破40万亿美元。",
-    "full_content": "美国财政部19日发布的数据显示，美国联邦政府债务总额已突破40万亿美元。",
+    "title": "美国公共债务首次突破40万亿美元",
+    "summary": "美国公共债务总额首次突破40万亿美元，在不到五年间激增了三分之一。尽管各界不断呼吁解决居高不下的财政赤字问题，但美国议员依然对此置之不理。美国财政部周三公布的数据显示，到周二结束时，美国未偿公共债务总额达到40.05万亿美元。这一消息公布前数小时，美国财政部长斯科特·贝森特再次试图遏制长期借贷成本攀升，这是债务增长的主要推手之一。美国财政部宣布扩大较长期国债回购计划，此举推动美债收益率回落。美国公共债务在2022年1月才突破30万亿美元，这凸显联邦政府借款需求增长之快，而且这一趋势仍未见尽头。共和党长期反对通过加税来增加财政收入，而两党都不愿支持削减老年人医疗和退休福利这类政治代价高昂的措施。许多观察人士预计，只有金融市场出现动荡时，国会和政府才会被迫采取行动。",
+    "content": "美国公共债务总额首次突破40万亿美元，在不到五年间激增了三分之一。尽管各界不断呼吁解决居高不下的财政赤字问题，但美国议员依然对此置之不理。美国财政部周三公布的数据显示，到周二结束时，美国未偿公共债务总额达到40.05万亿美元。这一消息公布前数小时，美国财政部长斯科特·贝森特再次试图遏制长期借贷成本攀升，这是债务增长的主要推手之一。美国财政部宣布扩大较长期国债回购计划，此举推动美债收益率回落。美国公共债务在2022年1月才突破30万亿美元，这凸显联邦政府借款需求增长之快，而且这一趋势仍未见尽头。共和党长期反对通过加税来增加财政收入，而两党都不愿支持削减老年人医疗和退休福利这类政治代价高昂的措施。许多观察人士预计，只有金融市场出现动荡时，国会和政府才会被迫采取行动。",
+    "full_content": "美国公共债务总额首次突破40万亿美元，在不到五年间激增了三分之一。尽管各界不断呼吁解决居高不下的财政赤字问题，但美国议员依然对此置之不理。美国财政部周三公布的数据显示，到周二结束时，美国未偿公共债务总额达到40.05万亿美元。这一消息公布前数小时，美国财政部长斯科特·贝森特再次试图遏制长期借贷成本攀升，这是债务增长的主要推手之一。美国财政部宣布扩大较长期国债回购计划，此举推动美债收益率回落。美国公共债务在2022年1月才突破30万亿美元，这凸显联邦政府借款需求增长之快，而且这一趋势仍未见尽头。共和党长期反对通过加税来增加财政收入，而两党都不愿支持削减老年人医疗和退休福利这类政治代价高昂的措施。许多观察人士预计，只有金融市场出现动荡时，国会和政府才会被迫采取行动。",
     "sort_time": "1787169702037785",
     "showTime": "2026-08-20 04:01:42",
     "time": "2026-08-20 04:01:42",
@@ -291,23 +477,23 @@
     "raw_data": {
       "code": "202608203846737785",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1787169702037785",
       "share": 0,
       "showTime": "2026-08-20 04:01:42",
       "stockList": [],
-      "summary": "美国财政部19日发布的数据显示，美国联邦政府债务总额已突破40万亿美元。",
-      "title": "美国财政部19日发布的数据显示 美国联邦政府债务总额已突破40万亿美元",
+      "summary": "美国公共债务总额首次突破40万亿美元，在不到五年间激增了三分之一。尽管各界不断呼吁解决居高不下的财政赤字问题，但美国议员依然对此置之不理。美国财政部周三公布的数据显示，到周二结束时，美国未偿公共债务总额达到40.05万亿美元。这一消息公布前数小时，美国财政部长斯科特·贝森特再次试图遏制长期借贷成本攀升，这是债务增长的主要推手之一。美国财政部宣布扩大较长期国债回购计划，此举推动美债收益率回落。美国公共债务在2022年1月才突破30万亿美元，这凸显联邦政府借款需求增长之快，而且这一趋势仍未见尽头。共和党长期反对通过加税来增加财政收入，而两党都不愿支持削减老年人医疗和退休福利这类政治代价高昂的措施。许多观察人士预计，只有金融市场出现动荡时，国会和政府才会被迫采取行动。",
+      "title": "美国公共债务首次突破40万亿美元",
       "titleColor": 0
     },
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202608203846737785.html",
-    "category": "其他",
+    "category": "债券",
     "importance": 5,
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -383,9 +569,9 @@
     "raw_data": {
       "code": "202608203846737538",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 15,
       "realSort": "1787169634037538",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-08-20 04:00:34",
       "stockList": [
         "90.BK0448",
@@ -405,8 +591,8 @@
       "90.BK0736"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 15,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -450,7 +636,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1787169516036987",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-08-20 03:58:36",
       "stockList": [],
       "summary": "HudsonRiverTrading第二季度交易收入达到创纪录的114亿美元。",
@@ -465,7 +651,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -526,7 +712,7 @@
     "raw_data": {
       "code": "202608203846736781",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1787168611036781",
       "share": 1,
       "showTime": "2026-08-20 03:43:31",
@@ -542,7 +728,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -565,9 +751,9 @@
     "raw_data": {
       "code": "202608203846736531",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 36,
       "realSort": "1787168489036531",
-      "share": 7,
+      "share": 18,
       "showTime": "2026-08-20 03:41:29",
       "stockList": [
         "90.BK0800",
@@ -587,8 +773,8 @@
       "0.159940"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 7,
+    "comment_count": 36,
+    "share_count": 18,
     "tags": {
       "industries": [],
       "concepts": [
@@ -659,7 +845,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1787167823036321",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-20 03:30:23",
       "stockList": [],
       "summary": "OpenAI的CFO称该公司将于2027年或更早上市。",
@@ -674,7 +860,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -880,7 +1066,7 @@
     "raw_data": {
       "code": "202608203846734728",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 13,
       "realSort": "1787166758034728",
       "share": 1,
       "showTime": "2026-08-20 03:12:38",
@@ -896,7 +1082,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
+    "comment_count": 13,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -919,7 +1105,7 @@
     "raw_data": {
       "code": "202608203846734695",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1787166620034695",
       "share": 1,
       "showTime": "2026-08-20 03:10:20",
@@ -941,7 +1127,7 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1064,7 +1250,7 @@
     "raw_data": {
       "code": "202608203846735522",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1787165518035522",
       "share": 0,
       "showTime": "2026-08-20 02:51:58",
@@ -1080,7 +1266,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -1121,7 +1307,7 @@
     "raw_data": {
       "code": "202608203846730886",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1787165420030886",
       "share": 1,
       "showTime": "2026-08-20 02:50:20",
@@ -1137,7 +1323,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -1209,7 +1395,7 @@
     "raw_data": {
       "code": "202608203846730561",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1787164722030561",
       "share": 1,
       "showTime": "2026-08-20 02:38:42",
@@ -1229,7 +1415,7 @@
       "90.BK0420"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1709,6 +1895,69 @@
     }
   },
   {
+    "id": "b58974f8325b6727",
+    "code": "202608203846726493",
+    "title": "癌症疫苗“暴打”空头：做空者一天巨亏50亿美元",
+    "summary": "【癌症疫苗“暴打”空头：做空者一天巨亏50亿美元】就在人类迎来“癌症疫苗”确认有效的历史时刻之际，有一小撮投资者迎来投资生涯最惨痛的失利。截至发稿，mRNA牛股莫德纳涨幅依然超过100%，日内最高触及163美元，前一交易日收盘价为62.96美元。公司此前宣布，与合作伙伴默沙东合作推进的个性化癌症疫苗在Ⅲ期临床试验中显示出可显著降低黑色素瘤复发率的疗效。",
+    "content": "【癌症疫苗“暴打”空头：做空者一天巨亏50亿美元】就在人类迎来“癌症疫苗”确认有效的历史时刻之际，有一小撮投资者迎来投资生涯最惨痛的失利。截至发稿，mRNA牛股莫德纳涨幅依然超过100%，日内最高触及163美元，前一交易日收盘价为62.96美元。公司此前宣布，与合作伙伴默沙东合作推进的个性化癌症疫苗在Ⅲ期临床试验中显示出可显著降低黑色素瘤复发率的疗效。",
+    "full_content": "【癌症疫苗“暴打”空头：做空者一天巨亏50亿美元】就在人类迎来“癌症疫苗”确认有效的历史时刻之际，有一小撮投资者迎来投资生涯最惨痛的失利。截至发稿，mRNA牛股莫德纳涨幅依然超过100%，日内最高触及163美元，前一交易日收盘价为62.96美元。公司此前宣布，与合作伙伴默沙东合作推进的个性化癌症疫苗在Ⅲ期临床试验中显示出可显著降低黑色素瘤复发率的疗效。",
+    "sort_time": "1787160360026493",
+    "showTime": "2026-08-20 01:26:00",
+    "time": "2026-08-20 01:26:00",
+    "publish_time": "2026-08-20 01:26:00",
+    "raw_data": {
+      "code": "202608203846726493",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1787160360026493",
+      "share": 4,
+      "showTime": "2026-08-20 01:26:00",
+      "stockList": [
+        "90.BK0465",
+        "90.BK1598"
+      ],
+      "summary": "【癌症疫苗“暴打”空头：做空者一天巨亏50亿美元】就在人类迎来“癌症疫苗”确认有效的历史时刻之际，有一小撮投资者迎来投资生涯最惨痛的失利。截至发稿，mRNA牛股莫德纳涨幅依然超过100%，日内最高触及163美元，前一交易日收盘价为62.96美元。公司此前宣布，与合作伙伴默沙东合作推进的个性化癌症疫苗在Ⅲ期临床试验中显示出可显著降低黑色素瘤复发率的疗效。",
+      "title": "癌症疫苗“暴打”空头：做空者一天巨亏50亿美元",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608203846726493.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0465",
+      "90.BK1598"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 4,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010402",
+          "name": "生物制品",
+          "level1": "制造业",
+          "level2": "医药制造业",
+          "matched_keyword": "疫苗"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C305",
+          "name": "疫苗",
+          "matched_keyword": "mRNA"
+        }
+      ],
+      "industry_ids": [
+        "I010402"
+      ],
+      "concept_ids": [
+        "C305"
+      ]
+    }
+  },
+  {
     "id": "08abde270636f75a",
     "code": "202608203846725351",
     "title": "阿根廷首都一机场因可疑包裹紧急疏散部分区域",
@@ -1920,7 +2169,7 @@
     "raw_data": {
       "code": "202608203846724084",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 12,
       "realSort": "1787159074024084",
       "share": 1,
       "showTime": "2026-08-20 01:04:34",
@@ -1940,7 +2189,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 11,
+    "comment_count": 12,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -2030,7 +2279,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1787157921017855",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-08-20 00:45:21",
       "stockList": [
         "90.BK0800",
@@ -2051,7 +2300,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 1,
+    "share_count": 3,
     "tags": {
       "industries": [
         {
@@ -2108,227 +2357,6 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a8b5a5f2e6b6bc52",
-    "code": "202608203846717494",
-    "title": "墨西哥主要股指涨幅扩大至1%",
-    "summary": "墨西哥主要股指涨幅扩大至1%。",
-    "content": "墨西哥主要股指涨幅扩大至1%。",
-    "full_content": "墨西哥主要股指涨幅扩大至1%。",
-    "sort_time": "1787156778017494",
-    "showTime": "2026-08-20 00:26:18",
-    "time": "2026-08-20 00:26:18",
-    "publish_time": "2026-08-20 00:26:18",
-    "raw_data": {
-      "code": "202608203846717494",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1787156778017494",
-      "share": 0,
-      "showTime": "2026-08-20 00:26:18",
-      "stockList": [],
-      "summary": "墨西哥主要股指涨幅扩大至1%。",
-      "title": "墨西哥主要股指涨幅扩大至1%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203846717494.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c209940880471469",
-    "code": "202608203846716519",
-    "title": "加拿大总理卡尼表示 加拿大正朝着与美国达成贸易协议迈进 谈判已取得显著进展",
-    "summary": "加拿大总理卡尼表示，加拿大正朝着与美国达成贸易协议迈进，谈判已取得显著进展。",
-    "content": "加拿大总理卡尼表示，加拿大正朝着与美国达成贸易协议迈进，谈判已取得显著进展。",
-    "full_content": "加拿大总理卡尼表示，加拿大正朝着与美国达成贸易协议迈进，谈判已取得显著进展。",
-    "sort_time": "1787156413016519",
-    "showTime": "2026-08-20 00:20:13",
-    "time": "2026-08-20 00:20:13",
-    "publish_time": "2026-08-20 00:20:13",
-    "raw_data": {
-      "code": "202608203846716519",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1787156413016519",
-      "share": 0,
-      "showTime": "2026-08-20 00:20:13",
-      "stockList": [
-        "90.BK1550",
-        "90.BK0484"
-      ],
-      "summary": "加拿大总理卡尼表示，加拿大正朝着与美国达成贸易协议迈进，谈判已取得显著进展。",
-      "title": "加拿大总理卡尼表示 加拿大正朝着与美国达成贸易协议迈进 谈判已取得显著进展",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203846716519.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1550",
-      "90.BK0484"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c2c0298a6c47e390",
-    "code": "202608203846715368",
-    "title": "特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长",
-    "summary": "特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
-    "content": "特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
-    "full_content": "特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
-    "sort_time": "1787156068015368",
-    "showTime": "2026-08-20 00:14:28",
-    "time": "2026-08-20 00:14:28",
-    "publish_time": "2026-08-20 00:14:28",
-    "raw_data": {
-      "code": "202608203846715368",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1787156068015368",
-      "share": 0,
-      "showTime": "2026-08-20 00:14:28",
-      "stockList": [
-        "90.BK0465",
-        "150.012341"
-      ],
-      "summary": "特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
-      "title": "特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203846715368.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0465",
-      "150.012341"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C602",
-          "name": "食品饮料",
-          "matched_keyword": "食品"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C602"
-      ]
-    }
-  },
-  {
-    "id": "66d424bdb5c45ee5",
-    "code": "202608203846713771",
-    "title": "中概股上涨",
-    "summary": "【中概股上涨】金山云涨11.35%，希尔威金属矿业涨8.54%，脑再生科技涨8.42%，AMC院线涨8.41%，华住涨5.92%。",
-    "content": "【中概股上涨】金山云涨11.35%，希尔威金属矿业涨8.54%，脑再生科技涨8.42%，AMC院线涨8.41%，华住涨5.92%。",
-    "full_content": "【中概股上涨】金山云涨11.35%，希尔威金属矿业涨8.54%，脑再生科技涨8.42%，AMC院线涨8.41%，华住涨5.92%。",
-    "sort_time": "1787155880013771",
-    "showTime": "2026-08-20 00:11:20",
-    "time": "2026-08-20 00:11:20",
-    "publish_time": "2026-08-20 00:11:20",
-    "raw_data": {
-      "code": "202608203846713771",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1787155880013771",
-      "share": 1,
-      "showTime": "2026-08-20 00:11:20",
-      "stockList": [
-        "999.770541",
-        "105.KC"
-      ],
-      "summary": "【中概股上涨】金山云涨11.35%，希尔威金属矿业涨8.54%，脑再生科技涨8.42%，AMC院线涨8.41%，华住涨5.92%。",
-      "title": "中概股上涨",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203846713771.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "999.770541",
-      "105.KC"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "122f5fa919d0bc9a",
-    "code": "202608203846713280",
-    "title": "现货铂金扩大涨幅至5.31%",
-    "summary": "【现货铂金扩大涨幅至5.31%】现货铂金扩大涨幅至5.31%，现报1799.19美元/盎司。",
-    "content": "【现货铂金扩大涨幅至5.31%】现货铂金扩大涨幅至5.31%，现报1799.19美元/盎司。",
-    "full_content": "【现货铂金扩大涨幅至5.31%】现货铂金扩大涨幅至5.31%，现报1799.19美元/盎司。",
-    "sort_time": "1787155813013280",
-    "showTime": "2026-08-20 00:10:13",
-    "time": "2026-08-20 00:10:13",
-    "publish_time": "2026-08-20 00:10:13",
-    "raw_data": {
-      "code": "202608203846713280",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1787155813013280",
-      "share": 1,
-      "showTime": "2026-08-20 00:10:13",
-      "stockList": [],
-      "summary": "【现货铂金扩大涨幅至5.31%】现货铂金扩大涨幅至5.31%，现报1799.19美元/盎司。",
-      "title": "现货铂金扩大涨幅至5.31%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203846713280.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
