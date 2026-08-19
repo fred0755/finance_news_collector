@@ -1,5 +1,523 @@
 [
   {
+    "id": "4590b349775a3409",
+    "code": "202608193846483112",
+    "title": "大晓机器人在WRC展出开源世界模型Kairos 3.1及环境式数据采集方案",
+    "summary": "【大晓机器人在WRC展出开源世界模型Kairos 3.1及环境式数据采集方案】8月19日，2026世界机器人大会在北京开幕。期间，大晓机器人展示开悟世界模型（Kairos）3.1、环境式数据采集方案2.0，以及面向即时零售、酒店服务和开放场景的三大行业解决方案。",
+    "content": "【大晓机器人在WRC展出开源世界模型Kairos 3.1及环境式数据采集方案】8月19日，2026世界机器人大会在北京开幕。期间，大晓机器人展示开悟世界模型（Kairos）3.1、环境式数据采集方案2.0，以及面向即时零售、酒店服务和开放场景的三大行业解决方案。",
+    "full_content": "【大晓机器人在WRC展出开源世界模型Kairos 3.1及环境式数据采集方案】8月19日，2026世界机器人大会在北京开幕。期间，大晓机器人展示开悟世界模型（Kairos）3.1、环境式数据采集方案2.0，以及面向即时零售、酒店服务和开放场景的三大行业解决方案。",
+    "sort_time": "1787140371083112",
+    "showTime": "2026-08-19 19:52:51",
+    "time": "2026-08-19 19:52:51",
+    "publish_time": "2026-08-19 19:52:51",
+    "raw_data": {
+      "code": "202608193846483112",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787140371083112",
+      "share": 0,
+      "showTime": "2026-08-19 19:52:51",
+      "stockList": [
+        "90.BK1408",
+        "150.562500"
+      ],
+      "summary": "【大晓机器人在WRC展出开源世界模型Kairos 3.1及环境式数据采集方案】8月19日，2026世界机器人大会在北京开幕。期间，大晓机器人展示开悟世界模型（Kairos）3.1、环境式数据采集方案2.0，以及面向即时零售、酒店服务和开放场景的三大行业解决方案。",
+      "title": "大晓机器人在WRC展出开源世界模型Kairos 3.1及环境式数据采集方案",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846483112.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1408",
+      "150.562500"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C012",
+          "name": "机器人",
+          "matched_keyword": "机器人"
+        },
+        {
+          "id": "C601",
+          "name": "白酒",
+          "matched_keyword": "酒"
+        },
+        {
+          "id": "C604",
+          "name": "旅游",
+          "matched_keyword": "酒店"
+        },
+        {
+          "id": "C605",
+          "name": "零售",
+          "matched_keyword": "零售"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C012",
+        "C601",
+        "C604",
+        "C605"
+      ]
+    }
+  },
+  {
+    "id": "5c68741a2ce9a069",
+    "code": "202608193846481628",
+    "title": "Moderna美股盘前涨超110%",
+    "summary": "【Moderna美股盘前涨超110%】Moderna美股盘前涨超110%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+    "content": "【Moderna美股盘前涨超110%】Moderna美股盘前涨超110%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+    "full_content": "【Moderna美股盘前涨超110%】Moderna美股盘前涨超110%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+    "sort_time": "1787140312081628",
+    "showTime": "2026-08-19 19:51:52",
+    "time": "2026-08-19 19:51:52",
+    "publish_time": "2026-08-19 19:51:52",
+    "raw_data": {
+      "code": "202608193846481628",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1787140312081628",
+      "share": 5,
+      "showTime": "2026-08-19 19:51:52",
+      "stockList": [
+        "105.MRNA",
+        "106.MRK"
+      ],
+      "summary": "【Moderna美股盘前涨超110%】Moderna美股盘前涨超110%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+      "title": "Moderna美股盘前涨超110%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846481628.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MRNA",
+      "106.MRK"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 5,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010402",
+          "name": "生物制品",
+          "level1": "制造业",
+          "level2": "医药制造业",
+          "matched_keyword": "疫苗"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C305",
+          "name": "疫苗",
+          "matched_keyword": "疫苗"
+        }
+      ],
+      "industry_ids": [
+        "I010402"
+      ],
+      "concept_ids": [
+        "C305"
+      ]
+    }
+  },
+  {
+    "id": "27d0418571dcc347",
+    "code": "202608193846481540",
+    "title": "盛合晶微：上半年净利润4.49亿元 同比增长3.33%",
+    "summary": "【盛合晶微：上半年净利润4.49亿元 同比增长3.33%】盛合晶微(688820.SH)发布2026年半年度报告，实现营业收入34.07亿元，同比增长7.2%；归属于上市公司股东的净利润4.49亿元，同比增长3.33%。业绩增长主要系销售规模增长所致。",
+    "content": "【盛合晶微：上半年净利润4.49亿元 同比增长3.33%】盛合晶微(688820.SH)发布2026年半年度报告，实现营业收入34.07亿元，同比增长7.2%；归属于上市公司股东的净利润4.49亿元，同比增长3.33%。业绩增长主要系销售规模增长所致。",
+    "full_content": "【盛合晶微：上半年净利润4.49亿元 同比增长3.33%】盛合晶微(688820.SH)发布2026年半年度报告，实现营业收入34.07亿元，同比增长7.2%；归属于上市公司股东的净利润4.49亿元，同比增长3.33%。业绩增长主要系销售规模增长所致。",
+    "sort_time": "1787140278081540",
+    "showTime": "2026-08-19 19:51:18",
+    "time": "2026-08-19 19:51:18",
+    "publish_time": "2026-08-19 19:51:18",
+    "raw_data": {
+      "code": "202608193846481540",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1787140278081540",
+      "share": 1,
+      "showTime": "2026-08-19 19:51:18",
+      "stockList": [
+        "1.688820"
+      ],
+      "summary": "【盛合晶微：上半年净利润4.49亿元 同比增长3.33%】盛合晶微(688820.SH)发布2026年半年度报告，实现营业收入34.07亿元，同比增长7.2%；归属于上市公司股东的净利润4.49亿元，同比增长3.33%。业绩增长主要系销售规模增长所致。",
+      "title": "盛合晶微：上半年净利润4.49亿元 同比增长3.33%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846481540.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "1.688820"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3572fd7c8f5d016b",
+    "code": "202608193846480792",
+    "title": "方正科技：上半年净利润5.74亿元 同比增长232.38%",
+    "summary": "【方正科技：上半年净利润5.74亿元 同比增长232.38%】方正科技(600601.SH)发布2026年半年度报告，实现营业收入37亿元，同比增长72.89%；归属于上市公司股东的净利润5.74亿元，同比增长232.38%。",
+    "content": "【方正科技：上半年净利润5.74亿元 同比增长232.38%】方正科技(600601.SH)发布2026年半年度报告，实现营业收入37亿元，同比增长72.89%；归属于上市公司股东的净利润5.74亿元，同比增长232.38%。",
+    "full_content": "【方正科技：上半年净利润5.74亿元 同比增长232.38%】方正科技(600601.SH)发布2026年半年度报告，实现营业收入37亿元，同比增长72.89%；归属于上市公司股东的净利润5.74亿元，同比增长232.38%。",
+    "sort_time": "1787140185080792",
+    "showTime": "2026-08-19 19:49:45",
+    "time": "2026-08-19 19:49:45",
+    "publish_time": "2026-08-19 19:49:45",
+    "raw_data": {
+      "code": "202608193846480792",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787140185080792",
+      "share": 4,
+      "showTime": "2026-08-19 19:49:45",
+      "stockList": [
+        "1.600601"
+      ],
+      "summary": "【方正科技：上半年净利润5.74亿元 同比增长232.38%】方正科技(600601.SH)发布2026年半年度报告，实现营业收入37亿元，同比增长72.89%；归属于上市公司股东的净利润5.74亿元，同比增长232.38%。",
+      "title": "方正科技：上半年净利润5.74亿元 同比增长232.38%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846480792.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "1.600601"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d061c9b5c0ad4f0a",
+    "code": "202608193846478757",
+    "title": "Moderna美股盘前涨超100%",
+    "summary": "【Moderna美股盘前涨超100%】Moderna美股盘前涨超100%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+    "content": "【Moderna美股盘前涨超100%】Moderna美股盘前涨超100%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+    "full_content": "【Moderna美股盘前涨超100%】Moderna美股盘前涨超100%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+    "sort_time": "1787140109078757",
+    "showTime": "2026-08-19 19:48:29",
+    "time": "2026-08-19 19:48:29",
+    "publish_time": "2026-08-19 19:48:29",
+    "raw_data": {
+      "code": "202608193846478757",
+      "image": [],
+      "pinglun_Num": 13,
+      "realSort": "1787140109078757",
+      "share": 21,
+      "showTime": "2026-08-19 19:48:29",
+      "stockList": [
+        "105.MRNA"
+      ],
+      "summary": "【Moderna美股盘前涨超100%】Moderna美股盘前涨超100%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+      "title": "Moderna美股盘前涨超100%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846478757.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MRNA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 13,
+    "share_count": 21,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010402",
+          "name": "生物制品",
+          "level1": "制造业",
+          "level2": "医药制造业",
+          "matched_keyword": "疫苗"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C305",
+          "name": "疫苗",
+          "matched_keyword": "疫苗"
+        }
+      ],
+      "industry_ids": [
+        "I010402"
+      ],
+      "concept_ids": [
+        "C305"
+      ]
+    }
+  },
+  {
+    "id": "7fcbbd2e9ecd42e5",
+    "code": "202608193846476280",
+    "title": "光大证券：上半年归母净利润同比增长32.45%",
+    "summary": "【光大证券：上半年归母净利润同比增长32.45%】光大证券8月19日披露半年报，公司上半年实现营业收入60.56亿元，同比增长18.17%；归属于上市公司股东的净利润22.29亿元，同比增长32.45%；基本每股收益0.44元/股。公司拟向全体A股和H股股东每股派送现金股利0.17元（含税）。",
+    "content": "【光大证券：上半年归母净利润同比增长32.45%】光大证券8月19日披露半年报，公司上半年实现营业收入60.56亿元，同比增长18.17%；归属于上市公司股东的净利润22.29亿元，同比增长32.45%；基本每股收益0.44元/股。公司拟向全体A股和H股股东每股派送现金股利0.17元（含税）。",
+    "full_content": "【光大证券：上半年归母净利润同比增长32.45%】光大证券8月19日披露半年报，公司上半年实现营业收入60.56亿元，同比增长18.17%；归属于上市公司股东的净利润22.29亿元，同比增长32.45%；基本每股收益0.44元/股。公司拟向全体A股和H股股东每股派送现金股利0.17元（含税）。",
+    "sort_time": "1787139943076280",
+    "showTime": "2026-08-19 19:45:43",
+    "time": "2026-08-19 19:45:43",
+    "publish_time": "2026-08-19 19:45:43",
+    "raw_data": {
+      "code": "202608193846476280",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1787139943076280",
+      "share": 3,
+      "showTime": "2026-08-19 19:45:43",
+      "stockList": [
+        "1.601788",
+        "116.06178"
+      ],
+      "summary": "【光大证券：上半年归母净利润同比增长32.45%】光大证券8月19日披露半年报，公司上半年实现营业收入60.56亿元，同比增长18.17%；归属于上市公司股东的净利润22.29亿元，同比增长32.45%；基本每股收益0.44元/股。公司拟向全体A股和H股股东每股派送现金股利0.17元（含税）。",
+      "title": "光大证券：上半年归母净利润同比增长32.45%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846476280.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "1.601788",
+      "116.06178"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "560b04c67a2fe707",
+    "code": "202608193846477133",
+    "title": "完美世界：上半年净利润亏损1.18亿元 同比转亏",
+    "summary": "【完美世界：上半年净利润亏损1.18亿元 同比转亏】完美世界披露半年报，2026年上半年，公司实现营业收入27.51亿元，同比下降25.47%；归母净利润亏损1.18亿元，上年同期盈利5.03亿元。",
+    "content": "【完美世界：上半年净利润亏损1.18亿元 同比转亏】完美世界披露半年报，2026年上半年，公司实现营业收入27.51亿元，同比下降25.47%；归母净利润亏损1.18亿元，上年同期盈利5.03亿元。",
+    "full_content": "【完美世界：上半年净利润亏损1.18亿元 同比转亏】完美世界披露半年报，2026年上半年，公司实现营业收入27.51亿元，同比下降25.47%；归母净利润亏损1.18亿元，上年同期盈利5.03亿元。",
+    "sort_time": "1787139883077133",
+    "showTime": "2026-08-19 19:44:43",
+    "time": "2026-08-19 19:44:43",
+    "publish_time": "2026-08-19 19:44:43",
+    "raw_data": {
+      "code": "202608193846477133",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1787139883077133",
+      "share": 4,
+      "showTime": "2026-08-19 19:44:43",
+      "stockList": [
+        "0.002624"
+      ],
+      "summary": "【完美世界：上半年净利润亏损1.18亿元 同比转亏】完美世界披露半年报，2026年上半年，公司实现营业收入27.51亿元，同比下降25.47%；归母净利润亏损1.18亿元，上年同期盈利5.03亿元。",
+      "title": "完美世界：上半年净利润亏损1.18亿元 同比转亏",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846477133.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.002624"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "55a633819faeff5b",
+    "code": "202608193846475848",
+    "title": "盐津铺子：上半年净利润4.25亿元 同比增长14.1%",
+    "summary": "【盐津铺子：上半年净利润4.25亿元 同比增长14.1%】盐津铺子披露半年报，2026年上半年，公司实现营业收入30.7亿元，同比增长4.41%；归属于上市公司股东的净利润4.25亿元，同比增长14.1%；基本每股收益1.56元。",
+    "content": "【盐津铺子：上半年净利润4.25亿元 同比增长14.1%】盐津铺子披露半年报，2026年上半年，公司实现营业收入30.7亿元，同比增长4.41%；归属于上市公司股东的净利润4.25亿元，同比增长14.1%；基本每股收益1.56元。",
+    "full_content": "【盐津铺子：上半年净利润4.25亿元 同比增长14.1%】盐津铺子披露半年报，2026年上半年，公司实现营业收入30.7亿元，同比增长4.41%；归属于上市公司股东的净利润4.25亿元，同比增长14.1%；基本每股收益1.56元。",
+    "sort_time": "1787139763075848",
+    "showTime": "2026-08-19 19:42:43",
+    "time": "2026-08-19 19:42:43",
+    "publish_time": "2026-08-19 19:42:43",
+    "raw_data": {
+      "code": "202608193846475848",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787139763075848",
+      "share": 0,
+      "showTime": "2026-08-19 19:42:43",
+      "stockList": [
+        "0.002847"
+      ],
+      "summary": "【盐津铺子：上半年净利润4.25亿元 同比增长14.1%】盐津铺子披露半年报，2026年上半年，公司实现营业收入30.7亿元，同比增长4.41%；归属于上市公司股东的净利润4.25亿元，同比增长14.1%；基本每股收益1.56元。",
+      "title": "盐津铺子：上半年净利润4.25亿元 同比增长14.1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846475848.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.002847"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "009601e31c617eed",
+    "code": "202608193846473675",
+    "title": "恒瑞医药：上半年净利润同比增长0.34% 拟以10亿至20亿回购A股股份",
+    "summary": "【恒瑞医药：上半年净利润同比增长0.34% 拟以10亿至20亿回购A股股份】恒瑞医药(600276.SH)发布2026年半年度报告，实现营业收入154.56亿元，同比下降1.94%；归属于上市公司股东的净利润44.65亿元，同比增长0.34%。公司拟以自有资金通过集中竞价交易方式回购A股股份，回购资金总额不低于10亿元且不超过20亿元，回购价格不超过81.78元/股。",
+    "content": "【恒瑞医药：上半年净利润同比增长0.34% 拟以10亿至20亿回购A股股份】恒瑞医药(600276.SH)发布2026年半年度报告，实现营业收入154.56亿元，同比下降1.94%；归属于上市公司股东的净利润44.65亿元，同比增长0.34%。公司拟以自有资金通过集中竞价交易方式回购A股股份，回购资金总额不低于10亿元且不超过20亿元，回购价格不超过81.78元/股。",
+    "full_content": "【恒瑞医药：上半年净利润同比增长0.34% 拟以10亿至20亿回购A股股份】恒瑞医药(600276.SH)发布2026年半年度报告，实现营业收入154.56亿元，同比下降1.94%；归属于上市公司股东的净利润44.65亿元，同比增长0.34%。公司拟以自有资金通过集中竞价交易方式回购A股股份，回购资金总额不低于10亿元且不超过20亿元，回购价格不超过81.78元/股。",
+    "sort_time": "1787139654073675",
+    "showTime": "2026-08-19 19:40:54",
+    "time": "2026-08-19 19:40:54",
+    "publish_time": "2026-08-19 19:40:54",
+    "raw_data": {
+      "code": "202608193846473675",
+      "image": [],
+      "pinglun_Num": 92,
+      "realSort": "1787139654073675",
+      "share": 194,
+      "showTime": "2026-08-19 19:40:54",
+      "stockList": [
+        "90.BK0465",
+        "201.HK1032"
+      ],
+      "summary": "【恒瑞医药：上半年净利润同比增长0.34% 拟以10亿至20亿回购A股股份】恒瑞医药(600276.SH)发布2026年半年度报告，实现营业收入154.56亿元，同比下降1.94%；归属于上市公司股东的净利润44.65亿元，同比增长0.34%。公司拟以自有资金通过集中竞价交易方式回购A股股份，回购资金总额不低于10亿元且不超过20亿元，回购价格不超过81.78元/股。",
+      "title": "恒瑞医药：上半年净利润同比增长0.34% 拟以10亿至20亿回购A股股份",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846473675.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0465",
+      "201.HK1032"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 92,
+    "share_count": 194,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "789f45abdd60c270",
+    "code": "202608193846475656",
+    "title": "NEBIUS股价盘前跌幅扩大至7%",
+    "summary": "【NEBIUS股价盘前跌幅扩大至7%】NEBIUS股价盘前跌幅扩大至7%，公司拟发行45亿美元可转换优先票据。",
+    "content": "【NEBIUS股价盘前跌幅扩大至7%】NEBIUS股价盘前跌幅扩大至7%，公司拟发行45亿美元可转换优先票据。",
+    "full_content": "【NEBIUS股价盘前跌幅扩大至7%】NEBIUS股价盘前跌幅扩大至7%，公司拟发行45亿美元可转换优先票据。",
+    "sort_time": "1787139438075656",
+    "showTime": "2026-08-19 19:37:18",
+    "time": "2026-08-19 19:37:18",
+    "publish_time": "2026-08-19 19:37:18",
+    "raw_data": {
+      "code": "202608193846475656",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787139438075656",
+      "share": 0,
+      "showTime": "2026-08-19 19:37:18",
+      "stockList": [
+        "105.NBIS"
+      ],
+      "summary": "【NEBIUS股价盘前跌幅扩大至7%】NEBIUS股价盘前跌幅扩大至7%，公司拟发行45亿美元可转换优先票据。",
+      "title": "NEBIUS股价盘前跌幅扩大至7%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846475656.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.NBIS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "12adb4e74cf84dae",
     "code": "202608193846462584",
     "title": "九芝堂：上半年归母净利润同比增长74.01%",
@@ -15,7 +533,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1787139343062584",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-19 19:35:43",
       "stockList": [
         "0.000989"
@@ -34,7 +552,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -142,9 +660,9 @@
     "raw_data": {
       "code": "202608193846457948",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1787139223057948",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-08-19 19:33:43",
       "stockList": [
         "90.BK0644",
@@ -164,8 +682,8 @@
       "1007.BK000300"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 3,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -201,7 +719,7 @@
     "raw_data": {
       "code": "202608193846458647",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 4,
       "realSort": "1787139103058647",
       "share": 0,
       "showTime": "2026-08-19 19:31:43",
@@ -223,7 +741,7 @@
       "0.161121"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -309,9 +827,9 @@
     "raw_data": {
       "code": "202608193846453053",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1787138998053053",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-08-19 19:29:58",
       "stockList": [
         "0.002142"
@@ -329,8 +847,8 @@
       "0.002142"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 2,
+    "comment_count": 2,
+    "share_count": 4,
     "tags": {
       "industries": [
         {
@@ -370,9 +888,9 @@
     "raw_data": {
       "code": "202608193846451068",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1787138956051068",
-      "share": 3,
+      "share": 5,
       "showTime": "2026-08-19 19:29:16",
       "stockList": [],
       "summary": "据报道，莫斯科多家加油站已对汽油销售实施限购措施。",
@@ -386,8 +904,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
-    "share_count": 3,
+    "comment_count": 7,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -495,7 +1013,7 @@
     "raw_data": {
       "code": "202608193846450711",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1787138539050711",
       "share": 1,
       "showTime": "2026-08-19 19:22:19",
@@ -517,7 +1035,7 @@
       "116.09618"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -540,9 +1058,9 @@
     "raw_data": {
       "code": "202608193846450524",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 31,
       "realSort": "1787138530050524",
-      "share": 4,
+      "share": 8,
       "showTime": "2026-08-19 19:22:10",
       "stockList": [],
       "summary": "【伊朗革命卫队顾问称或对敌转守为攻】在俄罗斯卫星通讯社今天（8月19日）发布的采访视频中，伊朗伊斯兰革命卫队总司令顾问穆罕默德·雷扎·纳格迪表示，这场战争表明美国和以色列比想象中“弱得多”。",
@@ -556,8 +1074,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 20,
-    "share_count": 4,
+    "comment_count": 31,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [
@@ -587,9 +1105,9 @@
     "raw_data": {
       "code": "202608193846450256",
       "image": [],
-      "pinglun_Num": 39,
+      "pinglun_Num": 91,
       "realSort": "1787138466050256",
-      "share": 61,
+      "share": 85,
       "showTime": "2026-08-19 19:21:06",
       "stockList": [],
       "summary": "【司法部发布关于欧盟外国补贴调查相关做法构成不当域外管辖的公告】根据《中华人民共和国反外国不当域外管辖条例》第三条、第六条等规定，司法部会同商务部等有关部门调查认定，欧盟利用其《外国补贴条例》在对京东调查中对中国实体采取的相关跨境调查做法，构成不当域外管辖措施。",
@@ -603,8 +1121,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 39,
-    "share_count": 61,
+    "comment_count": 91,
+    "share_count": 85,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -626,7 +1144,7 @@
     "raw_data": {
       "code": "202608193846450174",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 9,
       "realSort": "1787138445050174",
       "share": 0,
       "showTime": "2026-08-19 19:20:45",
@@ -642,7 +1160,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 9,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -665,7 +1183,7 @@
     "raw_data": {
       "code": "202608193846450360",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 6,
       "realSort": "1787138403050360",
       "share": 1,
       "showTime": "2026-08-19 19:20:03",
@@ -685,8 +1203,47 @@
       "0.300319"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 6,
     "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "19199bfcc66f2298",
+    "code": "202608193846477675",
+    "title": "广州新房价格“五连涨” 部分热销楼盘已经提价了",
+    "summary": "【广州新房价格“五连涨” 部分热销楼盘已经提价了】广州新房房价已连涨5个月。近日，国家统计局公布的70个大中城市商品住宅销售价格数据显示，7月份，广州一手住宅销售价格环比指数100.1。这是自今年3月以来，广州新建商品住宅价格连续第5个月环比上涨，市场企稳态势持续巩固。",
+    "content": "【广州新房价格“五连涨” 部分热销楼盘已经提价了】广州新房房价已连涨5个月。近日，国家统计局公布的70个大中城市商品住宅销售价格数据显示，7月份，广州一手住宅销售价格环比指数100.1。这是自今年3月以来，广州新建商品住宅价格连续第5个月环比上涨，市场企稳态势持续巩固。",
+    "full_content": "【广州新房价格“五连涨” 部分热销楼盘已经提价了】广州新房房价已连涨5个月。近日，国家统计局公布的70个大中城市商品住宅销售价格数据显示，7月份，广州一手住宅销售价格环比指数100.1。这是自今年3月以来，广州新建商品住宅价格连续第5个月环比上涨，市场企稳态势持续巩固。",
+    "sort_time": "1787138241077675",
+    "showTime": "2026-08-19 19:17:21",
+    "time": "2026-08-19 19:17:21",
+    "publish_time": "2026-08-19 19:17:21",
+    "raw_data": {
+      "code": "202608193846477675",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787138241077675",
+      "share": 0,
+      "showTime": "2026-08-19 19:17:21",
+      "stockList": [],
+      "summary": "【广州新房价格“五连涨” 部分热销楼盘已经提价了】广州新房房价已连涨5个月。近日，国家统计局公布的70个大中城市商品住宅销售价格数据显示，7月份，广州一手住宅销售价格环比指数100.1。这是自今年3月以来，广州新建商品住宅价格连续第5个月环比上涨，市场企稳态势持续巩固。",
+      "title": "广州新房价格“五连涨” 部分热销楼盘已经提价了",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608193846477675.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -708,9 +1265,9 @@
     "raw_data": {
       "code": "202608193846449640",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1787138197049640",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-08-19 19:16:37",
       "stockList": [
         "1.688261"
@@ -728,8 +1285,8 @@
       "1.688261"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 2,
+    "comment_count": 2,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -751,7 +1308,7 @@
     "raw_data": {
       "code": "202608193846449543",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1787138163049543",
       "share": 2,
       "showTime": "2026-08-19 19:16:03",
@@ -773,7 +1330,7 @@
       "0.300776"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -972,7 +1529,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1787137923045641",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-19 19:12:03",
       "stockList": [
         "1.603919"
@@ -991,7 +1548,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1125,7 +1682,7 @@
     "raw_data": {
       "code": "202608193846446774",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1787137803046774",
       "share": 0,
       "showTime": "2026-08-19 19:10:03",
@@ -1145,7 +1702,7 @@
       "0.003009"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1176,9 +1733,9 @@
     "raw_data": {
       "code": "202608193846446570",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1787137798046570",
-      "share": 4,
+      "share": 6,
       "showTime": "2026-08-19 19:09:58",
       "stockList": [
         "0.002281"
@@ -1196,8 +1753,8 @@
       "0.002281"
     ],
     "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 4,
+    "comment_count": 8,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1219,9 +1776,9 @@
     "raw_data": {
       "code": "202608193846446264",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 13,
       "realSort": "1787137765046264",
-      "share": 12,
+      "share": 16,
       "showTime": "2026-08-19 19:09:25",
       "stockList": [
         "1.688126"
@@ -1239,8 +1796,8 @@
       "1.688126"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 12,
+    "comment_count": 13,
+    "share_count": 16,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1264,7 +1821,7 @@
       "image": [],
       "pinglun_Num": 8,
       "realSort": "1787137695042973",
-      "share": 5,
+      "share": 6,
       "showTime": "2026-08-19 19:08:15",
       "stockList": [
         "0.002491"
@@ -1283,7 +1840,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 8,
-    "share_count": 5,
+    "share_count": 6,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1307,7 +1864,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1787137651041176",
-      "share": 3,
+      "share": 5,
       "showTime": "2026-08-19 19:07:31",
       "stockList": [
         "0.002001"
@@ -1326,7 +1883,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 3,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1348,7 +1905,7 @@
     "raw_data": {
       "code": "202608193846441560",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 8,
       "realSort": "1787137631041560",
       "share": 3,
       "showTime": "2026-08-19 19:07:11",
@@ -1364,7 +1921,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 8,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -1387,9 +1944,9 @@
     "raw_data": {
       "code": "202608193846441459",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 11,
       "realSort": "1787137610041459",
-      "share": 9,
+      "share": 11,
       "showTime": "2026-08-19 19:06:50",
       "stockList": [
         "0.301526"
@@ -1407,8 +1964,8 @@
       "0.301526"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 9,
+    "comment_count": 11,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1430,9 +1987,9 @@
     "raw_data": {
       "code": "202608193846431879",
       "image": [],
-      "pinglun_Num": 225,
+      "pinglun_Num": 258,
       "realSort": "1787137324031879",
-      "share": 740,
+      "share": 798,
       "showTime": "2026-08-19 19:02:04",
       "stockList": [
         "90.BK0465",
@@ -1452,8 +2009,8 @@
       "90.BK1598"
     ],
     "has_stock_mention": true,
-    "comment_count": 225,
-    "share_count": 740,
+    "comment_count": 258,
+    "share_count": 798,
     "tags": {
       "industries": [
         {
@@ -1536,9 +2093,9 @@
     "raw_data": {
       "code": "202608193846435617",
       "image": [],
-      "pinglun_Num": 48,
+      "pinglun_Num": 59,
       "realSort": "1787137263035617",
-      "share": 282,
+      "share": 333,
       "showTime": "2026-08-19 19:01:03",
       "stockList": [
         "90.BK0520",
@@ -1558,8 +2115,8 @@
       "150.012606"
     ],
     "has_stock_mention": true,
-    "comment_count": 48,
-    "share_count": 282,
+    "comment_count": 59,
+    "share_count": 333,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1581,9 +2138,9 @@
     "raw_data": {
       "code": "202608193846431027",
       "image": [],
-      "pinglun_Num": 24,
+      "pinglun_Num": 25,
       "realSort": "1787136995031027",
-      "share": 25,
+      "share": 26,
       "showTime": "2026-08-19 18:56:35",
       "stockList": [
         "106.MRK"
@@ -1601,8 +2158,8 @@
       "106.MRK"
     ],
     "has_stock_mention": true,
-    "comment_count": 24,
-    "share_count": 25,
+    "comment_count": 25,
+    "share_count": 26,
     "tags": {
       "industries": [
         {
@@ -1685,9 +2242,9 @@
     "raw_data": {
       "code": "202608193846429652",
       "image": [],
-      "pinglun_Num": 108,
+      "pinglun_Num": 116,
       "realSort": "1787136878029652",
-      "share": 241,
+      "share": 258,
       "showTime": "2026-08-19 18:54:38",
       "stockList": [
         "105.MRNA",
@@ -1707,8 +2264,8 @@
       "106.MRK"
     ],
     "has_stock_mention": true,
-    "comment_count": 108,
-    "share_count": 241,
+    "comment_count": 116,
+    "share_count": 258,
     "tags": {
       "industries": [
         {
@@ -1820,523 +2377,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "dde3980ae1778e5f",
-    "code": "202608193846429544",
-    "title": "华电能源：2026年半年度净利润同比增长29.16%",
-    "summary": "【华电能源：2026年半年度净利润同比增长29.16%】华电能源(600726.SH)公告称，公司发布2026年半年度报告，实现营业收入80.34亿元，同比下降3.03%；归属于上市公司股东的净利润5.92亿元，同比增长29.16%。",
-    "content": "【华电能源：2026年半年度净利润同比增长29.16%】华电能源(600726.SH)公告称，公司发布2026年半年度报告，实现营业收入80.34亿元，同比下降3.03%；归属于上市公司股东的净利润5.92亿元，同比增长29.16%。",
-    "full_content": "【华电能源：2026年半年度净利润同比增长29.16%】华电能源(600726.SH)公告称，公司发布2026年半年度报告，实现营业收入80.34亿元，同比下降3.03%；归属于上市公司股东的净利润5.92亿元，同比增长29.16%。",
-    "sort_time": "1787136630029544",
-    "showTime": "2026-08-19 18:50:30",
-    "time": "2026-08-19 18:50:30",
-    "publish_time": "2026-08-19 18:50:30",
-    "raw_data": {
-      "code": "202608193846429544",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1787136630029544",
-      "share": 1,
-      "showTime": "2026-08-19 18:50:30",
-      "stockList": [
-        "1.600726"
-      ],
-      "summary": "【华电能源：2026年半年度净利润同比增长29.16%】华电能源(600726.SH)公告称，公司发布2026年半年度报告，实现营业收入80.34亿元，同比下降3.03%；归属于上市公司股东的净利润5.92亿元，同比增长29.16%。",
-      "title": "华电能源：2026年半年度净利润同比增长29.16%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846429544.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "1.600726"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d369c3888bb04056",
-    "code": "202608193846425724",
-    "title": "权威专家回应网传“固态电池车可实现10分钟快充续航1500公里”",
-    "summary": "【权威专家回应网传“固态电池车可实现10分钟快充续航1500公里”】中国科协名誉主席万钢在回应网传“10分钟快充续航1500公里”的固态电池现阶段能否实现时表示，这是美好的理想，固态电池2030年左右可以进入产业化。目前他看好钠离子电池的发展前景，尤其适合商用车和高寒地区，成本低、安全性好。",
-    "content": "【权威专家回应网传“固态电池车可实现10分钟快充续航1500公里”】中国科协名誉主席万钢在回应网传“10分钟快充续航1500公里”的固态电池现阶段能否实现时表示，这是美好的理想，固态电池2030年左右可以进入产业化。目前他看好钠离子电池的发展前景，尤其适合商用车和高寒地区，成本低、安全性好。",
-    "full_content": "【权威专家回应网传“固态电池车可实现10分钟快充续航1500公里”】中国科协名誉主席万钢在回应网传“10分钟快充续航1500公里”的固态电池现阶段能否实现时表示，这是美好的理想，固态电池2030年左右可以进入产业化。目前他看好钠离子电池的发展前景，尤其适合商用车和高寒地区，成本低、安全性好。",
-    "sort_time": "1787136601025724",
-    "showTime": "2026-08-19 18:50:01",
-    "time": "2026-08-19 18:50:01",
-    "publish_time": "2026-08-19 18:50:01",
-    "raw_data": {
-      "code": "202608193846425724",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1787136601025724",
-      "share": 3,
-      "showTime": "2026-08-19 18:50:01",
-      "stockList": [],
-      "summary": "【权威专家回应网传“固态电池车可实现10分钟快充续航1500公里”】中国科协名誉主席万钢在回应网传“10分钟快充续航1500公里”的固态电池现阶段能否实现时表示，这是美好的理想，固态电池2030年左右可以进入产业化。目前他看好钠离子电池的发展前景，尤其适合商用车和高寒地区，成本低、安全性好。",
-      "title": "权威专家回应网传“固态电池车可实现10分钟快充续航1500公里”",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846425724.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "商用车"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C102",
-          "name": "锂电池",
-          "matched_keyword": "固态电池"
-        }
-      ],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": [
-        "C102"
-      ]
-    }
-  },
-  {
-    "id": "3a3bf16d1a45466a",
-    "code": "202608193846429253",
-    "title": "《空枪》票房突破4000万",
-    "summary": "【《空枪》票房突破4000万】据灯塔专业版实时数据，截至8月19日18时47分，影片《空枪》票房突破4000万。",
-    "content": "【《空枪》票房突破4000万】据灯塔专业版实时数据，截至8月19日18时47分，影片《空枪》票房突破4000万。",
-    "full_content": "【《空枪》票房突破4000万】据灯塔专业版实时数据，截至8月19日18时47分，影片《空枪》票房突破4000万。",
-    "sort_time": "1787136587029253",
-    "showTime": "2026-08-19 18:49:47",
-    "time": "2026-08-19 18:49:47",
-    "publish_time": "2026-08-19 18:49:47",
-    "raw_data": {
-      "code": "202608193846429253",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1787136587029253",
-      "share": 1,
-      "showTime": "2026-08-19 18:49:47",
-      "stockList": [
-        "90.BK0486"
-      ],
-      "summary": "【《空枪》票房突破4000万】据灯塔专业版实时数据，截至8月19日18时47分，影片《空枪》票房突破4000万。",
-      "title": "《空枪》票房突破4000万",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846429253.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0486"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c5f3bf31d2f62b5d",
-    "code": "202608193846429131",
-    "title": "科泰电源：上半年净利润同比增长131.66%",
-    "summary": "【科泰电源：上半年净利润同比增长131.66%】科泰电源(300153.SZ)公告称，公司发布2026年半年度报告，实现营业收入14.98亿元，同比增长110.81%；归属于上市公司股东的净利润5558.39万元，同比增长131.66%。",
-    "content": "【科泰电源：上半年净利润同比增长131.66%】科泰电源(300153.SZ)公告称，公司发布2026年半年度报告，实现营业收入14.98亿元，同比增长110.81%；归属于上市公司股东的净利润5558.39万元，同比增长131.66%。",
-    "full_content": "【科泰电源：上半年净利润同比增长131.66%】科泰电源(300153.SZ)公告称，公司发布2026年半年度报告，实现营业收入14.98亿元，同比增长110.81%；归属于上市公司股东的净利润5558.39万元，同比增长131.66%。",
-    "sort_time": "1787136539029131",
-    "showTime": "2026-08-19 18:48:59",
-    "time": "2026-08-19 18:48:59",
-    "publish_time": "2026-08-19 18:48:59",
-    "raw_data": {
-      "code": "202608193846429131",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1787136539029131",
-      "share": 0,
-      "showTime": "2026-08-19 18:48:59",
-      "stockList": [
-        "0.300153"
-      ],
-      "summary": "【科泰电源：上半年净利润同比增长131.66%】科泰电源(300153.SZ)公告称，公司发布2026年半年度报告，实现营业收入14.98亿元，同比增长110.81%；归属于上市公司股东的净利润5558.39万元，同比增长131.66%。",
-      "title": "科泰电源：上半年净利润同比增长131.66%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846429131.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "0.300153"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "846221ded6681b4b",
-    "code": "202608193846429010",
-    "title": "莫德纳股价在黑色素瘤疫苗更新后上涨11%",
-    "summary": "莫德纳股价在黑色素瘤疫苗更新后上涨11%。",
-    "content": "莫德纳股价在黑色素瘤疫苗更新后上涨11%。",
-    "full_content": "莫德纳股价在黑色素瘤疫苗更新后上涨11%。",
-    "sort_time": "1787136518029010",
-    "showTime": "2026-08-19 18:48:38",
-    "time": "2026-08-19 18:48:38",
-    "publish_time": "2026-08-19 18:48:38",
-    "raw_data": {
-      "code": "202608193846429010",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1787136518029010",
-      "share": 4,
-      "showTime": "2026-08-19 18:48:38",
-      "stockList": [
-        "90.BK0465",
-        "90.BK1598"
-      ],
-      "summary": "莫德纳股价在黑色素瘤疫苗更新后上涨11%。",
-      "title": "莫德纳股价在黑色素瘤疫苗更新后上涨11%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846429010.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0465",
-      "90.BK1598"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 4,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010402",
-          "name": "生物制品",
-          "level1": "制造业",
-          "level2": "医药制造业",
-          "matched_keyword": "疫苗"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C305",
-          "name": "疫苗",
-          "matched_keyword": "疫苗"
-        }
-      ],
-      "industry_ids": [
-        "I010402"
-      ],
-      "concept_ids": [
-        "C305"
-      ]
-    }
-  },
-  {
-    "id": "33662aca248844ae",
-    "code": "202608193846428953",
-    "title": "平高电气：2026年半年度净利润同比增长22.87%",
-    "summary": "【平高电气：2026年半年度净利润同比增长22.87%】平高电气(600312.SH)公告称，公司发布2026年半年度报告，实现营业收入53.74亿元，同比下降5.64%；归属于上市公司股东的净利润8.17亿元，同比增长22.87%。公司拟每10股派发现金股利2.42元(含税)。",
-    "content": "【平高电气：2026年半年度净利润同比增长22.87%】平高电气(600312.SH)公告称，公司发布2026年半年度报告，实现营业收入53.74亿元，同比下降5.64%；归属于上市公司股东的净利润8.17亿元，同比增长22.87%。公司拟每10股派发现金股利2.42元(含税)。",
-    "full_content": "【平高电气：2026年半年度净利润同比增长22.87%】平高电气(600312.SH)公告称，公司发布2026年半年度报告，实现营业收入53.74亿元，同比下降5.64%；归属于上市公司股东的净利润8.17亿元，同比增长22.87%。公司拟每10股派发现金股利2.42元(含税)。",
-    "sort_time": "1787136518028953",
-    "showTime": "2026-08-19 18:48:38",
-    "time": "2026-08-19 18:48:38",
-    "publish_time": "2026-08-19 18:48:38",
-    "raw_data": {
-      "code": "202608193846428953",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1787136518028953",
-      "share": 1,
-      "showTime": "2026-08-19 18:48:38",
-      "stockList": [
-        "1.600312"
-      ],
-      "summary": "【平高电气：2026年半年度净利润同比增长22.87%】平高电气(600312.SH)公告称，公司发布2026年半年度报告，实现营业收入53.74亿元，同比下降5.64%；归属于上市公司股东的净利润8.17亿元，同比增长22.87%。公司拟每10股派发现金股利2.42元(含税)。",
-      "title": "平高电气：2026年半年度净利润同比增长22.87%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846428953.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "1.600312"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b734a7e865d448b1",
-    "code": "202608193846429411",
-    "title": "三六零：上半年净利润2.16亿元 同比扭亏为盈",
-    "summary": "【三六零：上半年净利润2.16亿元 同比扭亏为盈】三六零(601360.SH)发布2026年半年度报告，实现营业收入41.72亿元，同比增长9.01%；归属于上市公司股东的净利润2.16亿元，同比扭亏为盈。公司拟每10股派发现金红利0.5元(含税)，不送红股，不以公积金转增股本。",
-    "content": "【三六零：上半年净利润2.16亿元 同比扭亏为盈】三六零(601360.SH)发布2026年半年度报告，实现营业收入41.72亿元，同比增长9.01%；归属于上市公司股东的净利润2.16亿元，同比扭亏为盈。公司拟每10股派发现金红利0.5元(含税)，不送红股，不以公积金转增股本。",
-    "full_content": "【三六零：上半年净利润2.16亿元 同比扭亏为盈】三六零(601360.SH)发布2026年半年度报告，实现营业收入41.72亿元，同比增长9.01%；归属于上市公司股东的净利润2.16亿元，同比扭亏为盈。公司拟每10股派发现金红利0.5元(含税)，不送红股，不以公积金转增股本。",
-    "sort_time": "1787136471029411",
-    "showTime": "2026-08-19 18:47:51",
-    "time": "2026-08-19 18:47:51",
-    "publish_time": "2026-08-19 18:47:51",
-    "raw_data": {
-      "code": "202608193846429411",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1787136471029411",
-      "share": 3,
-      "showTime": "2026-08-19 18:47:51",
-      "stockList": [
-        "150.159792",
-        "150.517200"
-      ],
-      "summary": "【三六零：上半年净利润2.16亿元 同比扭亏为盈】三六零(601360.SH)发布2026年半年度报告，实现营业收入41.72亿元，同比增长9.01%；归属于上市公司股东的净利润2.16亿元，同比扭亏为盈。公司拟每10股派发现金红利0.5元(含税)，不送红股，不以公积金转增股本。",
-      "title": "三六零：上半年净利润2.16亿元 同比扭亏为盈",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846429411.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "150.159792",
-      "150.517200"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "fb6413dcc73f5809",
-    "code": "202608193846424370",
-    "title": "伊朗称若利益受损 将通过提高霍尔木兹海峡关税等方式反制",
-    "summary": "【伊朗称若利益受损 将通过提高霍尔木兹海峡关税等方式反制】当地时间8月19日，伊朗议会国家安全与外交政策委员会委员雷扎伊在接受媒体采访时表示，若伊朗在世界任何地方的利益受到损害，伊朗将通过提高关税或没收资产等方式，在霍尔木兹海峡对敌对国家和政府进行反制。",
-    "content": "【伊朗称若利益受损 将通过提高霍尔木兹海峡关税等方式反制】当地时间8月19日，伊朗议会国家安全与外交政策委员会委员雷扎伊在接受媒体采访时表示，若伊朗在世界任何地方的利益受到损害，伊朗将通过提高关税或没收资产等方式，在霍尔木兹海峡对敌对国家和政府进行反制。",
-    "full_content": "【伊朗称若利益受损 将通过提高霍尔木兹海峡关税等方式反制】当地时间8月19日，伊朗议会国家安全与外交政策委员会委员雷扎伊在接受媒体采访时表示，若伊朗在世界任何地方的利益受到损害，伊朗将通过提高关税或没收资产等方式，在霍尔木兹海峡对敌对国家和政府进行反制。",
-    "sort_time": "1787136393024370",
-    "showTime": "2026-08-19 18:46:33",
-    "time": "2026-08-19 18:46:33",
-    "publish_time": "2026-08-19 18:46:33",
-    "raw_data": {
-      "code": "202608193846424370",
-      "image": [],
-      "pinglun_Num": 31,
-      "realSort": "1787136393024370",
-      "share": 1,
-      "showTime": "2026-08-19 18:46:33",
-      "stockList": [],
-      "summary": "【伊朗称若利益受损 将通过提高霍尔木兹海峡关税等方式反制】当地时间8月19日，伊朗议会国家安全与外交政策委员会委员雷扎伊在接受媒体采访时表示，若伊朗在世界任何地方的利益受到损害，伊朗将通过提高关税或没收资产等方式，在霍尔木兹海峡对敌对国家和政府进行反制。",
-      "title": "伊朗称若利益受损 将通过提高霍尔木兹海峡关税等方式反制",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846424370.html",
-    "category": "政策",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 31,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a80b8ca921cd4bca",
-    "code": "202608193846425081",
-    "title": "嘉泽新能：上半年归母净利润2.37亿元 同比下降48.40%",
-    "summary": "【嘉泽新能：上半年归母净利润2.37亿元 同比下降48.40%】嘉泽新能8月19日披露半年报，公司上半年实现营业收入12.1亿元，同比下降7.64%；归属于上市公司股东的净利润2.37亿元，同比下降48.40%；基本每股收益0.08元/股。",
-    "content": "【嘉泽新能：上半年归母净利润2.37亿元 同比下降48.40%】嘉泽新能8月19日披露半年报，公司上半年实现营业收入12.1亿元，同比下降7.64%；归属于上市公司股东的净利润2.37亿元，同比下降48.40%；基本每股收益0.08元/股。",
-    "full_content": "【嘉泽新能：上半年归母净利润2.37亿元 同比下降48.40%】嘉泽新能8月19日披露半年报，公司上半年实现营业收入12.1亿元，同比下降7.64%；归属于上市公司股东的净利润2.37亿元，同比下降48.40%；基本每股收益0.08元/股。",
-    "sort_time": "1787136347025081",
-    "showTime": "2026-08-19 18:45:47",
-    "time": "2026-08-19 18:45:47",
-    "publish_time": "2026-08-19 18:45:47",
-    "raw_data": {
-      "code": "202608193846425081",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1787136347025081",
-      "share": 1,
-      "showTime": "2026-08-19 18:45:47",
-      "stockList": [
-        "1.601619",
-        "1.113039"
-      ],
-      "summary": "【嘉泽新能：上半年归母净利润2.37亿元 同比下降48.40%】嘉泽新能8月19日披露半年报，公司上半年实现营业收入12.1亿元，同比下降7.64%；归属于上市公司股东的净利润2.37亿元，同比下降48.40%；基本每股收益0.08元/股。",
-      "title": "嘉泽新能：上半年归母净利润2.37亿元 同比下降48.40%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846425081.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.601619",
-      "1.113039"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f301d4266d9962ea",
-    "code": "202608193846422288",
-    "title": "美国前高官：阿联酋对伊朗禁运或甚于美国海上封锁",
-    "summary": "【美国前高官：阿联酋对伊朗禁运或甚于美国海上封锁】在指控伊朗向其发射两枚弹道导弹后，阿联酋于19日凌晨宣布决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。一名美国前高级官员称，鉴于阿联酋对伊朗经济的意义，这一决定可能比美国的海上封锁影响更大。",
-    "content": "【美国前高官：阿联酋对伊朗禁运或甚于美国海上封锁】在指控伊朗向其发射两枚弹道导弹后，阿联酋于19日凌晨宣布决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。一名美国前高级官员称，鉴于阿联酋对伊朗经济的意义，这一决定可能比美国的海上封锁影响更大。",
-    "full_content": "【美国前高官：阿联酋对伊朗禁运或甚于美国海上封锁】在指控伊朗向其发射两枚弹道导弹后，阿联酋于19日凌晨宣布决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。一名美国前高级官员称，鉴于阿联酋对伊朗经济的意义，这一决定可能比美国的海上封锁影响更大。",
-    "sort_time": "1787136177022288",
-    "showTime": "2026-08-19 18:42:57",
-    "time": "2026-08-19 18:42:57",
-    "publish_time": "2026-08-19 18:42:57",
-    "raw_data": {
-      "code": "202608193846422288",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1787136177022288",
-      "share": 1,
-      "showTime": "2026-08-19 18:42:57",
-      "stockList": [
-        "0.159940"
-      ],
-      "summary": "【美国前高官：阿联酋对伊朗禁运或甚于美国海上封锁】在指控伊朗向其发射两枚弹道导弹后，阿联酋于19日凌晨宣布决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。一名美国前高级官员称，鉴于阿联酋对伊朗经济的意义，这一决定可能比美国的海上封锁影响更大。",
-      "title": "美国前高官：阿联酋对伊朗禁运或甚于美国海上封锁",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846422288.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159940"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "69ffcdd94856e43b",
-    "code": "202608193846420643",
-    "title": "但斌再度加码科技股！计划买入SpaceX",
-    "summary": "【但斌再度加码科技股！计划买入SpaceX】东方港湾掌门人但斌，再度加码科技股。但斌8月18日晚间在社交平台上称：“今天计划买入SpaceX，这是我战略布局这只标的的开始。”据公开资料，SpaceX是在太空、连接和人工智能领域构建未来集成硬件和软件基础设施的公司，今年6月在美股上市，7月以来股价震荡调整超10%。",
-    "content": "【但斌再度加码科技股！计划买入SpaceX】东方港湾掌门人但斌，再度加码科技股。但斌8月18日晚间在社交平台上称：“今天计划买入SpaceX，这是我战略布局这只标的的开始。”据公开资料，SpaceX是在太空、连接和人工智能领域构建未来集成硬件和软件基础设施的公司，今年6月在美股上市，7月以来股价震荡调整超10%。",
-    "full_content": "【但斌再度加码科技股！计划买入SpaceX】东方港湾掌门人但斌，再度加码科技股。但斌8月18日晚间在社交平台上称：“今天计划买入SpaceX，这是我战略布局这只标的的开始。”据公开资料，SpaceX是在太空、连接和人工智能领域构建未来集成硬件和软件基础设施的公司，今年6月在美股上市，7月以来股价震荡调整超10%。",
-    "sort_time": "1787136010020643",
-    "showTime": "2026-08-19 18:40:10",
-    "time": "2026-08-19 18:40:10",
-    "publish_time": "2026-08-19 18:40:10",
-    "raw_data": {
-      "code": "202608193846420643",
-      "image": [],
-      "pinglun_Num": 35,
-      "realSort": "1787136010020643",
-      "share": 18,
-      "showTime": "2026-08-19 18:40:10",
-      "stockList": [
-        "90.BK0800",
-        "150.012322"
-      ],
-      "summary": "【但斌再度加码科技股！计划买入SpaceX】东方港湾掌门人但斌，再度加码科技股。但斌8月18日晚间在社交平台上称：“今天计划买入SpaceX，这是我战略布局这只标的的开始。”据公开资料，SpaceX是在太空、连接和人工智能领域构建未来集成硬件和软件基础设施的公司，今年6月在美股上市，7月以来股价震荡调整超10%。",
-      "title": "但斌再度加码科技股！计划买入SpaceX",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608193846420643.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "150.012322"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 35,
-    "share_count": 18,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
     }
   }
 ]
