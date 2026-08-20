@@ -1,5 +1,198 @@
 [
   {
+    "id": "56ea3271af63360e",
+    "code": "202608213848277560",
+    "title": "据报道：三星将于周五召开董事会 公布回报股东计划",
+    "summary": "据报道，三星将于周五召开董事会，公布回报股东计划。",
+    "content": "据报道，三星将于周五召开董事会，公布回报股东计划。",
+    "full_content": "据报道，三星将于周五召开董事会，公布回报股东计划。",
+    "sort_time": "1787266025077560",
+    "showTime": "2026-08-21 06:47:05",
+    "time": "2026-08-21 06:47:05",
+    "publish_time": "2026-08-21 06:47:05",
+    "raw_data": {
+      "code": "202608213848277560",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787266025077560",
+      "share": 0,
+      "showTime": "2026-08-21 06:47:05",
+      "stockList": [],
+      "summary": "据报道，三星将于周五召开董事会，公布回报股东计划。",
+      "title": "据报道：三星将于周五召开董事会 公布回报股东计划",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608213848277560.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a3a9b24d105e0a8f",
+    "code": "202608213848274421",
+    "title": "险资7月以来“摸底”上市公司超千家次 硬科技是关注重点",
+    "summary": "【险资7月以来“摸底”上市公司超千家次 硬科技是关注重点】7月以来，保险机构开启密集调研模式，积极寻找投资机会。据统计，7月以来已有超百家保险及保险资管公司合计调研A股上市公司超1200家次。其中，电子元件、通信设备、集成电路等行业备受险资青睐。业内人士认为，保险资管作为长期资金的重要管理者，应坚持长期投资、价值投资，守住风险底线，以耐心资本助力高质量发展。",
+    "content": "【险资7月以来“摸底”上市公司超千家次 硬科技是关注重点】7月以来，保险机构开启密集调研模式，积极寻找投资机会。据统计，7月以来已有超百家保险及保险资管公司合计调研A股上市公司超1200家次。其中，电子元件、通信设备、集成电路等行业备受险资青睐。业内人士认为，保险资管作为长期资金的重要管理者，应坚持长期投资、价值投资，守住风险底线，以耐心资本助力高质量发展。",
+    "full_content": "【险资7月以来“摸底”上市公司超千家次 硬科技是关注重点】7月以来，保险机构开启密集调研模式，积极寻找投资机会。据统计，7月以来已有超百家保险及保险资管公司合计调研A股上市公司超1200家次。其中，电子元件、通信设备、集成电路等行业备受险资青睐。业内人士认为，保险资管作为长期资金的重要管理者，应坚持长期投资、价值投资，守住风险底线，以耐心资本助力高质量发展。",
+    "sort_time": "1787265642074421",
+    "showTime": "2026-08-21 06:40:42",
+    "time": "2026-08-21 06:40:42",
+    "publish_time": "2026-08-21 06:40:42",
+    "raw_data": {
+      "code": "202608213848274421",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1787265642074421",
+      "share": 1,
+      "showTime": "2026-08-21 06:40:42",
+      "stockList": [
+        "90.BK0474",
+        "90.BK1358"
+      ],
+      "summary": "【险资7月以来“摸底”上市公司超千家次 硬科技是关注重点】7月以来，保险机构开启密集调研模式，积极寻找投资机会。据统计，7月以来已有超百家保险及保险资管公司合计调研A股上市公司超1200家次。其中，电子元件、通信设备、集成电路等行业备受险资青睐。业内人士认为，保险资管作为长期资金的重要管理者，应坚持长期投资、价值投资，守住风险底线，以耐心资本助力高质量发展。",
+      "title": "险资7月以来“摸底”上市公司超千家次 硬科技是关注重点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608213848274421.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0474",
+      "90.BK1358"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "集成电路"
+        },
+        {
+          "id": "I010102",
+          "name": "电子元件",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "电子元件"
+        },
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "通信设备"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "集成电路"
+        },
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "通信"
+        },
+        {
+          "id": "C404",
+          "name": "信托",
+          "matched_keyword": "资管"
+        },
+        {
+          "id": "C403",
+          "name": "保险",
+          "matched_keyword": "保险"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I010102",
+        "I010104"
+      ],
+      "concept_ids": [
+        "C002",
+        "C004",
+        "C404",
+        "C403"
+      ]
+    }
+  },
+  {
+    "id": "a53d540faac470f0",
+    "code": "202608213848277074",
+    "title": "周五你需要知道的隔夜全球要闻",
+    "summary": "周五你需要知道的隔夜全球要闻：Anthropic的IPO规模或超越SpaceX；贝森特称可能进一步加大美债回购力度；纳指收跌1%，科技七巨头下挫，存储、光通信板块走强。",
+    "content": "周五你需要知道的隔夜全球要闻：Anthropic的IPO规模或超越SpaceX；贝森特称可能进一步加大美债回购力度；纳指收跌1%，科技七巨头下挫，存储、光通信板块走强。",
+    "full_content": "周五你需要知道的隔夜全球要闻：Anthropic的IPO规模或超越SpaceX；贝森特称可能进一步加大美债回购力度；纳指收跌1%，科技七巨头下挫，存储、光通信板块走强。",
+    "sort_time": "1787265107077074",
+    "showTime": "2026-08-21 06:31:47",
+    "time": "2026-08-21 06:31:47",
+    "publish_time": "2026-08-21 06:31:47",
+    "raw_data": {
+      "code": "202608213848277074",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787265107077074",
+      "share": 3,
+      "showTime": "2026-08-21 06:31:47",
+      "stockList": [],
+      "summary": "周五你需要知道的隔夜全球要闻：Anthropic的IPO规模或超越SpaceX；贝森特称可能进一步加大美债回购力度；纳指收跌1%，科技七巨头下挫，存储、光通信板块走强。",
+      "title": "周五你需要知道的隔夜全球要闻",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608213848277074.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
     "id": "bf502bfc848488ca",
     "code": "202608213848248787",
     "title": "港股“同股不同权”制度升级 科创企业赴港上市门槛大幅降低",
@@ -13,9 +206,9 @@
     "raw_data": {
       "code": "202608213848248787",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787264285048787",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-21 06:18:05",
       "stockList": [],
       "summary": "【港股“同股不同权”制度升级 科创企业赴港上市门槛大幅降低】为了吸引更多创新企业赴港上市，港交所再次祭出“同股不同权”（下称“WVR架构”）这一杀手锏。近期，港股落地了2018年以来力度最大的上市制度改革，WVR架构企业上市规则优化成为其中的核心抓手。记者了解到，目前已有多家科创企业启动架构梳理、合规整改等筹备工作，并积极开展港股上市可行性论证，抢抓本次制度优化带来的机遇。",
@@ -29,8 +222,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -70,7 +263,7 @@
     "raw_data": {
       "code": "202608213848270313",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787263950070313",
       "share": 0,
       "showTime": "2026-08-21 06:12:30",
@@ -86,7 +279,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -336,7 +529,7 @@
     "raw_data": {
       "code": "202608213848260776",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787260262060776",
       "share": 1,
       "showTime": "2026-08-21 05:11:02",
@@ -356,7 +549,7 @@
       "90.BK0162"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -418,7 +611,7 @@
     "raw_data": {
       "code": "202608213848254482",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 8,
       "realSort": "1787258931054482",
       "share": 0,
       "showTime": "2026-08-21 04:48:51",
@@ -434,7 +627,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -496,7 +689,7 @@
     "raw_data": {
       "code": "202608213848254248",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 5,
       "realSort": "1787258223054248",
       "share": 6,
       "showTime": "2026-08-21 04:37:03",
@@ -512,7 +705,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 5,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -762,9 +955,9 @@
     "raw_data": {
       "code": "202608213848253244",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1787256039053244",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-08-21 04:00:39",
       "stockList": [],
       "summary": "【纳指收跌1% 存储、光通信板块走强】美股三大指数集体收跌，纳指跌1%，道指跌1.31%，标普500指数跌0.86%。“科技七巨头”集体下跌，MetaPlatforms跌0.03%，英伟达跌0.33%，微软跌0.43%，谷歌跌1.02%，特斯拉跌1.71%，苹果跌1.75%，亚马逊跌2.16%。存储、光通信板块走强，SK海力士涨超4%，美光科技涨超3%，闪迪涨超2%；AppliedOptoelectronics涨超5%，Lumentum涨超6%。沃尔玛股价收跌9.2%，创下2022年5月以来最大单日跌幅。",
@@ -778,8 +971,8 @@
     "sentiment": "bearish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 8,
+    "comment_count": 8,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [
@@ -909,7 +1102,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1787254324052780",
-      "share": 4,
+      "share": 8,
       "showTime": "2026-08-21 03:32:04",
       "stockList": [
         "90.BK0800"
@@ -928,7 +1121,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 4,
+    "share_count": 8,
     "tags": {
       "industries": [
         {
@@ -1099,7 +1292,7 @@
     "raw_data": {
       "code": "202608213848250797",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787251410050797",
       "share": 1,
       "showTime": "2026-08-21 02:43:30",
@@ -1115,7 +1308,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1256,9 +1449,9 @@
     "raw_data": {
       "code": "202608213848250290",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787250703050290",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-21 02:31:43",
       "stockList": [
         "90.BK0800",
@@ -1278,8 +1471,8 @@
       "105.SPCX"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1552,9 +1745,9 @@
     "raw_data": {
       "code": "202608213848244783",
       "image": [],
-      "pinglun_Num": 74,
+      "pinglun_Num": 136,
       "realSort": "1787247527044783",
-      "share": 62,
+      "share": 111,
       "showTime": "2026-08-21 01:38:47",
       "stockList": [],
       "summary": "【美债、伊朗两头忙！美国财长贝森特放话：回购还能加码 制裁下周披露】随着美国财政部救市的效果在短短一天内消失殆尽，美国财长贝森特周四亲自上阵向市场喊话，试图扭转颓势。到周四开盘时，10年期美债收益率已经完全收复周三的跌幅，30年期美债收益率也收复近半跌幅。",
@@ -1568,8 +1761,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 74,
-    "share_count": 62,
+    "comment_count": 136,
+    "share_count": 111,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1949,9 +2142,9 @@
     "raw_data": {
       "code": "202608213848240164",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 8,
       "realSort": "1787244351040164",
-      "share": 8,
+      "share": 11,
       "showTime": "2026-08-21 00:45:51",
       "stockList": [
         "1007.BK000391",
@@ -1971,8 +2164,8 @@
       "0.002023"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 8,
+    "comment_count": 8,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2033,9 +2226,9 @@
     "raw_data": {
       "code": "202608203848113992",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 8,
       "realSort": "1787243766013992",
-      "share": 11,
+      "share": 14,
       "showTime": "2026-08-21 00:36:06",
       "stockList": [
         "116.09992"
@@ -2053,8 +2246,8 @@
       "116.09992"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 11,
+    "comment_count": 8,
+    "share_count": 14,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2078,7 +2271,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1787243620071381",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-08-21 00:33:40",
       "stockList": [],
       "summary": "【美债收益率成“房间里的大象”？调查显示美股多头情绪依然浓厚】美国银行最新全球基金经理调查显示，受访者投资组合中有56%的资金配置于股票，这是自2021年11月以来的最高水平。不过，这份调查也显示，投资者对股票的乐观情绪持续升温之际，“债券收益率无序上涨”被认为是对股市构成威胁的第二大因素，仅位于AI泡沫风险之后。",
@@ -2093,7 +2286,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 0,
-    "share_count": 8,
+    "share_count": 9,
     "tags": {
       "industries": [
         {
@@ -2190,153 +2383,6 @@
         "C404",
         "C701"
       ]
-    }
-  },
-  {
-    "id": "2c3d9a7b15cdac86",
-    "code": "202608203848220383",
-    "title": "永辉超市上半年盈利2.53亿元 同比扭亏为盈",
-    "summary": "【永辉超市上半年盈利2.53亿元 同比扭亏为盈】8月20日晚间，永辉超市(601933)发布2026年半年报。公司上半年营收237.91亿元，同比下降20.56%，归母净利润2.53亿元，同比扭亏为盈，较上年同期增加4.94亿元；扣非归母净利润0.39亿元，较上年同期增加8.41亿元。",
-    "content": "【永辉超市上半年盈利2.53亿元 同比扭亏为盈】8月20日晚间，永辉超市(601933)发布2026年半年报。公司上半年营收237.91亿元，同比下降20.56%，归母净利润2.53亿元，同比扭亏为盈，较上年同期增加4.94亿元；扣非归母净利润0.39亿元，较上年同期增加8.41亿元。",
-    "full_content": "【永辉超市上半年盈利2.53亿元 同比扭亏为盈】8月20日晚间，永辉超市(601933)发布2026年半年报。公司上半年营收237.91亿元，同比下降20.56%，归母净利润2.53亿元，同比扭亏为盈，较上年同期增加4.94亿元；扣非归母净利润0.39亿元，较上年同期增加8.41亿元。",
-    "sort_time": "1787243400020383",
-    "showTime": "2026-08-21 00:30:00",
-    "time": "2026-08-21 00:30:00",
-    "publish_time": "2026-08-21 00:30:00",
-    "raw_data": {
-      "code": "202608203848220383",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1787243400020383",
-      "share": 1,
-      "showTime": "2026-08-21 00:30:00",
-      "stockList": [
-        "1.601933"
-      ],
-      "summary": "【永辉超市上半年盈利2.53亿元 同比扭亏为盈】8月20日晚间，永辉超市(601933)发布2026年半年报。公司上半年营收237.91亿元，同比下降20.56%，归母净利润2.53亿元，同比扭亏为盈，较上年同期增加4.94亿元；扣非归母净利润0.39亿元，较上年同期增加8.41亿元。",
-      "title": "永辉超市上半年盈利2.53亿元 同比扭亏为盈",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203848220383.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.601933"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C605",
-          "name": "零售",
-          "matched_keyword": "超市"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C605"
-      ]
-    }
-  },
-  {
-    "id": "f397a99eed2fb5cc",
-    "code": "202608203848169289",
-    "title": "阿里巴巴：AI全面商业化 云增速创22个季度新高",
-    "summary": "【阿里巴巴：AI全面商业化 云增速创22个季度新高】8月20日，阿里巴巴集团发布2027财年第一季度财报，交出了一份AI商业化全面提速的答卷：阿里云外部商业化收入增长45%，增速创下22个季度以来的新高；AI相关产品收入连续第十二个季度实现三位数同比增长，AI已经成为云增长最确定的引擎。",
-    "content": "【阿里巴巴：AI全面商业化 云增速创22个季度新高】8月20日，阿里巴巴集团发布2027财年第一季度财报，交出了一份AI商业化全面提速的答卷：阿里云外部商业化收入增长45%，增速创下22个季度以来的新高；AI相关产品收入连续第十二个季度实现三位数同比增长，AI已经成为云增长最确定的引擎。",
-    "full_content": "【阿里巴巴：AI全面商业化 云增速创22个季度新高】8月20日，阿里巴巴集团发布2027财年第一季度财报，交出了一份AI商业化全面提速的答卷：阿里云外部商业化收入增长45%，增速创下22个季度以来的新高；AI相关产品收入连续第十二个季度实现三位数同比增长，AI已经成为云增长最确定的引擎。",
-    "sort_time": "1787243280069289",
-    "showTime": "2026-08-21 00:28:00",
-    "time": "2026-08-21 00:28:00",
-    "publish_time": "2026-08-21 00:28:00",
-    "raw_data": {
-      "code": "202608203848169289",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1787243280069289",
-      "share": 3,
-      "showTime": "2026-08-21 00:28:00",
-      "stockList": [
-        "90.BK0800",
-        "150.159813"
-      ],
-      "summary": "【阿里巴巴：AI全面商业化 云增速创22个季度新高】8月20日，阿里巴巴集团发布2027财年第一季度财报，交出了一份AI商业化全面提速的答卷：阿里云外部商业化收入增长45%，增速创下22个季度以来的新高；AI相关产品收入连续第十二个季度实现三位数同比增长，AI已经成为云增长最确定的引擎。",
-      "title": "阿里巴巴：AI全面商业化 云增速创22个季度新高",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203848169289.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0800",
-      "150.159813"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "7e3ea940c56b7434",
-    "code": "202608203848081115",
-    "title": "上限750元/股！兆易创新即将启动大额回购",
-    "summary": "【上限750元/股！兆易创新即将启动大额回购】兆易创新8月20日晚间公告，公司于2026年8月20日召开临时股东会，审议通过了一份大额股份回购方案。同日，公司发布了债权人通知公告，要求相关债权人在45日内可申报要求清偿或担保。",
-    "content": "【上限750元/股！兆易创新即将启动大额回购】兆易创新8月20日晚间公告，公司于2026年8月20日召开临时股东会，审议通过了一份大额股份回购方案。同日，公司发布了债权人通知公告，要求相关债权人在45日内可申报要求清偿或担保。",
-    "full_content": "【上限750元/股！兆易创新即将启动大额回购】兆易创新8月20日晚间公告，公司于2026年8月20日召开临时股东会，审议通过了一份大额股份回购方案。同日，公司发布了债权人通知公告，要求相关债权人在45日内可申报要求清偿或担保。",
-    "sort_time": "1787243199081115",
-    "showTime": "2026-08-21 00:26:39",
-    "time": "2026-08-21 00:26:39",
-    "publish_time": "2026-08-21 00:26:39",
-    "raw_data": {
-      "code": "202608203848081115",
-      "image": [],
-      "pinglun_Num": 61,
-      "realSort": "1787243199081115",
-      "share": 33,
-      "showTime": "2026-08-21 00:26:39",
-      "stockList": [
-        "1.603986"
-      ],
-      "summary": "【上限750元/股！兆易创新即将启动大额回购】兆易创新8月20日晚间公告，公司于2026年8月20日召开临时股东会，审议通过了一份大额股份回购方案。同日，公司发布了债权人通知公告，要求相关债权人在45日内可申报要求清偿或担保。",
-      "title": "上限750元/股！兆易创新即将启动大额回购",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203848081115.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.603986"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 61,
-    "share_count": 33,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
