@@ -1,5 +1,91 @@
 [
   {
+    "id": "b849fcaf65c4e556",
+    "code": "202608213848243763",
+    "title": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS） 得标利率2.973% 投标倍数2.82",
+    "summary": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS），得标利率2.973%，投标倍数2.82。",
+    "content": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS），得标利率2.973%，投标倍数2.82。",
+    "full_content": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS），得标利率2.973%，投标倍数2.82。",
+    "sort_time": "1787245500043763",
+    "showTime": "2026-08-21 01:05:00",
+    "time": "2026-08-21 01:05:00",
+    "publish_time": "2026-08-21 01:05:00",
+    "raw_data": {
+      "code": "202608213848243763",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1787245500043763",
+      "share": 1,
+      "showTime": "2026-08-21 01:05:00",
+      "stockList": [],
+      "summary": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS），得标利率2.973%，投标倍数2.82。",
+      "title": "美国财政部拍卖80亿美元30年期通胀保值国债（TIPS） 得标利率2.973% 投标倍数2.82",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608213848243763.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "247e979669268b02",
+    "code": "202608213848242936",
+    "title": "LME期铜收跌13美元",
+    "summary": "【LME期铜收跌13美元】LME期铜收跌13美元，报14036美元/吨。LME期铝收跌22美元，报3205美元/吨。LME期锌收涨52美元，报3760美元/吨。LME期铅收涨14美元，报1902美元/吨。LME期镍收跌233美元，报16880美元/吨。LME期锡收涨253美元，报55803美元/吨。LME期钴收平，报56290美元/吨。",
+    "content": "【LME期铜收跌13美元】LME期铜收跌13美元，报14036美元/吨。LME期铝收跌22美元，报3205美元/吨。LME期锌收涨52美元，报3760美元/吨。LME期铅收涨14美元，报1902美元/吨。LME期镍收跌233美元，报16880美元/吨。LME期锡收涨253美元，报55803美元/吨。LME期钴收平，报56290美元/吨。",
+    "full_content": "【LME期铜收跌13美元】LME期铜收跌13美元，报14036美元/吨。LME期铝收跌22美元，报3205美元/吨。LME期锌收涨52美元，报3760美元/吨。LME期铅收涨14美元，报1902美元/吨。LME期镍收跌233美元，报16880美元/吨。LME期锡收涨253美元，报55803美元/吨。LME期钴收平，报56290美元/吨。",
+    "sort_time": "1787245020042936",
+    "showTime": "2026-08-21 00:57:00",
+    "time": "2026-08-21 00:57:00",
+    "publish_time": "2026-08-21 00:57:00",
+    "raw_data": {
+      "code": "202608213848242936",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787245020042936",
+      "share": 0,
+      "showTime": "2026-08-21 00:57:00",
+      "stockList": [],
+      "summary": "【LME期铜收跌13美元】LME期铜收跌13美元，报14036美元/吨。LME期铝收跌22美元，报3205美元/吨。LME期锌收涨52美元，报3760美元/吨。LME期铅收涨14美元，报1902美元/吨。LME期镍收跌233美元，报16880美元/吨。LME期锡收涨253美元，报55803美元/吨。LME期钴收平，报56290美元/吨。",
+      "title": "LME期铜收跌13美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608213848242936.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "钴"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
     "id": "77ea43fb01bd0ba0",
     "code": "202608213848242257",
     "title": "美国圣路易斯联储行长谈及债市动荡 称市场并未质疑美联储信誉",
@@ -13,9 +99,9 @@
     "raw_data": {
       "code": "202608213848242257",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 4,
       "realSort": "1787244715042257",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-08-21 00:51:55",
       "stockList": [
         "0.161631",
@@ -35,8 +121,8 @@
       "1.515980"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 4,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -105,7 +191,7 @@
     "raw_data": {
       "code": "202608213848238466",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 1,
       "realSort": "1787244132038466",
       "share": 0,
       "showTime": "2026-08-21 00:42:12",
@@ -121,7 +207,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -868,7 +954,7 @@
       "image": [],
       "pinglun_Num": 6,
       "realSort": "1787241355029395",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-20 23:55:55",
       "stockList": [
         "0.002716"
@@ -887,7 +973,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 6,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1125,7 +1211,7 @@
     "raw_data": {
       "code": "202608203848218657",
       "image": [],
-      "pinglun_Num": 19,
+      "pinglun_Num": 21,
       "realSort": "1787240313018657",
       "share": 12,
       "showTime": "2026-08-20 23:38:33",
@@ -1147,7 +1233,7 @@
       "0.000977"
     ],
     "has_stock_mention": true,
-    "comment_count": 19,
+    "comment_count": 21,
     "share_count": 12,
     "tags": {
       "industries": [],
@@ -1190,7 +1276,7 @@
     "raw_data": {
       "code": "202608203848212256",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1787239650012256",
       "share": 2,
       "showTime": "2026-08-20 23:27:30",
@@ -1210,7 +1296,7 @@
       "90.BK1616"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1233,9 +1319,9 @@
     "raw_data": {
       "code": "202608203848214118",
       "image": [],
-      "pinglun_Num": 15,
+      "pinglun_Num": 16,
       "realSort": "1787239518014118",
-      "share": 16,
+      "share": 17,
       "showTime": "2026-08-20 23:25:18",
       "stockList": [
         "1007.BK000391",
@@ -1255,8 +1341,8 @@
       "0.002023"
     ],
     "has_stock_mention": true,
-    "comment_count": 15,
-    "share_count": 16,
+    "comment_count": 16,
+    "share_count": 17,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1280,7 +1366,7 @@
       "image": [],
       "pinglun_Num": 8,
       "realSort": "1787239509010140",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-08-20 23:25:09",
       "stockList": [],
       "summary": "美国财政部长斯科特·贝森特表示，关税收入将恢复到与2025年相同的水平或更高。",
@@ -1295,7 +1381,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 8,
-    "share_count": 5,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1317,7 +1403,7 @@
     "raw_data": {
       "code": "202608203848208740",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 9,
       "realSort": "1787239428008740",
       "share": 4,
       "showTime": "2026-08-20 23:23:48",
@@ -1333,7 +1419,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
+    "comment_count": 9,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1512,7 +1598,7 @@
     "raw_data": {
       "code": "202608203848202343",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1787238846002343",
       "share": 5,
       "showTime": "2026-08-20 23:14:06",
@@ -1528,7 +1614,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -2206,7 +2292,7 @@
     "raw_data": {
       "code": "202608203848164112",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 15,
       "realSort": "1787235717064112",
       "share": 1,
       "showTime": "2026-08-20 22:21:57",
@@ -2226,7 +2312,7 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 14,
+    "comment_count": 15,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -2240,96 +2326,6 @@
       "industry_ids": [],
       "concept_ids": [
         "C506"
-      ]
-    }
-  },
-  {
-    "id": "13cd5a3b41c96a3e",
-    "code": "202608203848164246",
-    "title": "德国4月以来约1.4万人死因关联高温",
-    "summary": "【德国4月以来约1.4万人死因关联高温】据新华社，德国罗伯特·科赫研究所20日发布的报告说，4月6日至8月9日，德国约有1.4万人死于高温相关原因，相当于每10万人中就有17人因此身亡。",
-    "content": "【德国4月以来约1.4万人死因关联高温】据新华社，德国罗伯特·科赫研究所20日发布的报告说，4月6日至8月9日，德国约有1.4万人死于高温相关原因，相当于每10万人中就有17人因此身亡。",
-    "full_content": "【德国4月以来约1.4万人死因关联高温】据新华社，德国罗伯特·科赫研究所20日发布的报告说，4月6日至8月9日，德国约有1.4万人死于高温相关原因，相当于每10万人中就有17人因此身亡。",
-    "sort_time": "1787235584064246",
-    "showTime": "2026-08-20 22:19:44",
-    "time": "2026-08-20 22:19:44",
-    "publish_time": "2026-08-20 22:19:44",
-    "raw_data": {
-      "code": "202608203848164246",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1787235584064246",
-      "share": 4,
-      "showTime": "2026-08-20 22:19:44",
-      "stockList": [],
-      "summary": "【德国4月以来约1.4万人死因关联高温】据新华社，德国罗伯特·科赫研究所20日发布的报告说，4月6日至8月9日，德国约有1.4万人死于高温相关原因，相当于每10万人中就有17人因此身亡。",
-      "title": "德国4月以来约1.4万人死因关联高温",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203848164246.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 12,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5810a4b19ffdb8a9",
-    "code": "202608203848163272",
-    "title": "光轮智能发布首个十万小时全模态人类行为开源数据集",
-    "summary": "【光轮智能发布首个十万小时全模态人类行为开源数据集】8月20日，界面新闻获悉，光轮智能在2026世界机器人大会期间发布首个十万小时级全模态人类行为开源数据集EgoSuite-Open100K、RoboFinals中试基地仿真评测基础设施和RoboStack真实场景部署与反馈平台，三者共同构成一套具身智能持续学习系统。",
-    "content": "【光轮智能发布首个十万小时全模态人类行为开源数据集】8月20日，界面新闻获悉，光轮智能在2026世界机器人大会期间发布首个十万小时级全模态人类行为开源数据集EgoSuite-Open100K、RoboFinals中试基地仿真评测基础设施和RoboStack真实场景部署与反馈平台，三者共同构成一套具身智能持续学习系统。",
-    "full_content": "【光轮智能发布首个十万小时全模态人类行为开源数据集】8月20日，界面新闻获悉，光轮智能在2026世界机器人大会期间发布首个十万小时级全模态人类行为开源数据集EgoSuite-Open100K、RoboFinals中试基地仿真评测基础设施和RoboStack真实场景部署与反馈平台，三者共同构成一套具身智能持续学习系统。",
-    "sort_time": "1787235572063272",
-    "showTime": "2026-08-20 22:19:32",
-    "time": "2026-08-20 22:19:32",
-    "publish_time": "2026-08-20 22:19:32",
-    "raw_data": {
-      "code": "202608203848163272",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1787235572063272",
-      "share": 1,
-      "showTime": "2026-08-20 22:19:32",
-      "stockList": [
-        "150.011668"
-      ],
-      "summary": "【光轮智能发布首个十万小时全模态人类行为开源数据集】8月20日，界面新闻获悉，光轮智能在2026世界机器人大会期间发布首个十万小时级全模态人类行为开源数据集EgoSuite-Open100K、RoboFinals中试基地仿真评测基础设施和RoboStack真实场景部署与反馈平台，三者共同构成一套具身智能持续学习系统。",
-      "title": "光轮智能发布首个十万小时全模态人类行为开源数据集",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608203848163272.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.011668"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C012",
-          "name": "机器人",
-          "matched_keyword": "机器人"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C012"
       ]
     }
   }
