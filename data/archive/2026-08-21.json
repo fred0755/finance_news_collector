@@ -1,5 +1,107 @@
 [
   {
+    "id": "055d5131fd5c3add",
+    "code": "202608223849865833",
+    "title": "美联储数据显示：美国上周银行存款19.532万亿美元 之前一周19.496万亿美元",
+    "summary": "美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
+    "content": "美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
+    "full_content": "美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
+    "sort_time": "1787343485065833",
+    "showTime": "2026-08-22 04:18:05",
+    "time": "2026-08-22 04:18:05",
+    "publish_time": "2026-08-22 04:18:05",
+    "raw_data": {
+      "code": "202608223849865833",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787343485065833",
+      "share": 0,
+      "showTime": "2026-08-22 04:18:05",
+      "stockList": [
+        "90.BK1283",
+        "0.161121"
+      ],
+      "summary": "美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
+      "title": "美联储数据显示：美国上周银行存款19.532万亿美元 之前一周19.496万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608223849865833.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "bff79015bc1718f3",
+    "code": "202608223849864475",
+    "title": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议",
+    "summary": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
+    "content": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
+    "full_content": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
+    "sort_time": "1787343165064475",
+    "showTime": "2026-08-22 04:12:45",
+    "time": "2026-08-22 04:12:45",
+    "publish_time": "2026-08-22 04:12:45",
+    "raw_data": {
+      "code": "202608223849864475",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787343165064475",
+      "share": 0,
+      "showTime": "2026-08-22 04:12:45",
+      "stockList": [],
+      "summary": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
+      "title": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608223849864475.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "10683d933a222613",
     "code": "202608223849859539",
     "title": "Anthropic聘请谷歌芯片业务老将 推动进军硬件领域",

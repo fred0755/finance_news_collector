@@ -1,5 +1,107 @@
 [
   {
+    "id": "055d5131fd5c3add",
+    "code": "202608223849865833",
+    "title": "美联储数据显示：美国上周银行存款19.532万亿美元 之前一周19.496万亿美元",
+    "summary": "美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
+    "content": "美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
+    "full_content": "美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
+    "sort_time": "1787343485065833",
+    "showTime": "2026-08-22 04:18:05",
+    "time": "2026-08-22 04:18:05",
+    "publish_time": "2026-08-22 04:18:05",
+    "raw_data": {
+      "code": "202608223849865833",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787343485065833",
+      "share": 0,
+      "showTime": "2026-08-22 04:18:05",
+      "stockList": [
+        "90.BK1283",
+        "0.161121"
+      ],
+      "summary": "美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
+      "title": "美联储数据显示：美国上周银行存款19.532万亿美元 之前一周19.496万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608223849865833.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "bff79015bc1718f3",
+    "code": "202608223849864475",
+    "title": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议",
+    "summary": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
+    "content": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
+    "full_content": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
+    "sort_time": "1787343165064475",
+    "showTime": "2026-08-22 04:12:45",
+    "time": "2026-08-22 04:12:45",
+    "publish_time": "2026-08-22 04:12:45",
+    "raw_data": {
+      "code": "202608223849864475",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787343165064475",
+      "share": 0,
+      "showTime": "2026-08-22 04:12:45",
+      "stockList": [],
+      "summary": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
+      "title": "Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608223849864475.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "10683d933a222613",
     "code": "202608223849859539",
     "title": "Anthropic聘请谷歌芯片业务老将 推动进军硬件领域",
@@ -74,7 +176,7 @@
     "raw_data": {
       "code": "202608223849859435",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787342475059435",
       "share": 0,
       "showTime": "2026-08-22 04:01:15",
@@ -96,7 +198,7 @@
       "1.515290"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -568,7 +670,7 @@
     "raw_data": {
       "code": "202608223849813543",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787336888013543",
       "share": 1,
       "showTime": "2026-08-22 02:28:08",
@@ -588,7 +690,7 @@
       "0.159940"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -1419,7 +1521,7 @@
     "raw_data": {
       "code": "202608223849786821",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1787329479086821",
       "share": 4,
       "showTime": "2026-08-22 00:24:39",
@@ -1441,7 +1543,7 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 4,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -2003,7 +2105,7 @@
     "raw_data": {
       "code": "202608213849748790",
       "image": [],
-      "pinglun_Num": 27,
+      "pinglun_Num": 28,
       "realSort": "1787326206048790",
       "share": 3,
       "showTime": "2026-08-21 23:30:06",
@@ -2019,7 +2121,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 27,
+    "comment_count": 28,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -2425,108 +2527,6 @@
       "concept_ids": [
         "C001"
       ]
-    }
-  },
-  {
-    "id": "1604c60e13ca2de9",
-    "code": "202608213849721011",
-    "title": "行情",
-    "summary": "【行情】费城半导体指数日内下跌1.05%，现报11675点。",
-    "content": "【行情】费城半导体指数日内下跌1.05%，现报11675点。",
-    "full_content": "【行情】费城半导体指数日内下跌1.05%，现报11675点。",
-    "sort_time": "1787323414021011",
-    "showTime": "2026-08-21 22:43:34",
-    "time": "2026-08-21 22:43:34",
-    "publish_time": "2026-08-21 22:43:34",
-    "raw_data": {
-      "code": "202608213849721011",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1787323414021011",
-      "share": 4,
-      "showTime": "2026-08-21 22:43:34",
-      "stockList": [
-        "90.BK1036",
-        "90.BK0459"
-      ],
-      "summary": "【行情】费城半导体指数日内下跌1.05%，现报11675点。",
-      "title": "费城半导体指数日内下跌1.05%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608213849721011.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "bearish",
-    "related_stocks": [
-      "90.BK1036",
-      "90.BK0459"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 4,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "e7e36f82e21ef2a2",
-    "code": "202608213849721267",
-    "title": "城堡投资的肯·格里芬：已经完成将近100笔大宗交易 总额超过40亿美元",
-    "summary": "【城堡投资的肯·格里芬：已经完成将近100笔大宗交易 总额超过40亿美元】城堡投资的肯·格里芬（Ken Griffin）表示，已经完成将近100笔大宗交易，总额超过40亿美元；已削减原始投资组合逾80%的风险敞口。",
-    "content": "【城堡投资的肯·格里芬：已经完成将近100笔大宗交易 总额超过40亿美元】城堡投资的肯·格里芬（Ken Griffin）表示，已经完成将近100笔大宗交易，总额超过40亿美元；已削减原始投资组合逾80%的风险敞口。",
-    "full_content": "【城堡投资的肯·格里芬：已经完成将近100笔大宗交易 总额超过40亿美元】城堡投资的肯·格里芬（Ken Griffin）表示，已经完成将近100笔大宗交易，总额超过40亿美元；已削减原始投资组合逾80%的风险敞口。",
-    "sort_time": "1787323188021267",
-    "showTime": "2026-08-21 22:39:48",
-    "time": "2026-08-21 22:39:48",
-    "publish_time": "2026-08-21 22:39:48",
-    "raw_data": {
-      "code": "202608213849721267",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1787323188021267",
-      "share": 1,
-      "showTime": "2026-08-21 22:39:48",
-      "stockList": [],
-      "summary": "【城堡投资的肯·格里芬：已经完成将近100笔大宗交易 总额超过40亿美元】城堡投资的肯·格里芬（Ken Griffin）表示，已经完成将近100笔大宗交易，总额超过40亿美元；已削减原始投资组合逾80%的风险敞口。",
-      "title": "城堡投资的肯·格里芬：已经完成将近100笔大宗交易 总额超过40亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608213849721267.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
