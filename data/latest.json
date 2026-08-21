@@ -1,5 +1,158 @@
 [
   {
+    "id": "3cb4acf399d3be11",
+    "code": "202608223849809143",
+    "title": "美国证券交易委员会指控前巴克莱银行资深银行家萨特斯基（Satsky）从事内幕交易",
+    "summary": "美国证券交易委员会指控前巴克莱银行资深银行家萨特斯基（Satsky）从事内幕交易。",
+    "content": "美国证券交易委员会指控前巴克莱银行资深银行家萨特斯基（Satsky）从事内幕交易。",
+    "full_content": "美国证券交易委员会指控前巴克莱银行资深银行家萨特斯基（Satsky）从事内幕交易。",
+    "sort_time": "1787335182009143",
+    "showTime": "2026-08-22 01:59:42",
+    "time": "2026-08-22 01:59:42",
+    "publish_time": "2026-08-22 01:59:42",
+    "raw_data": {
+      "code": "202608223849809143",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787335182009143",
+      "share": 0,
+      "showTime": "2026-08-22 01:59:42",
+      "stockList": [],
+      "summary": "美国证券交易委员会指控前巴克莱银行资深银行家萨特斯基（Satsky）从事内幕交易。",
+      "title": "美国证券交易委员会指控前巴克莱银行资深银行家萨特斯基（Satsky）从事内幕交易",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608223849809143.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        },
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101",
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401",
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "4b28c59c87370143",
+    "code": "202608223849808121",
+    "title": "房利美据悉损失了至少10名高管",
+    "summary": "房利美据悉损失了至少10名高管。",
+    "content": "房利美据悉损失了至少10名高管。",
+    "full_content": "房利美据悉损失了至少10名高管。",
+    "sort_time": "1787335022008121",
+    "showTime": "2026-08-22 01:57:02",
+    "time": "2026-08-22 01:57:02",
+    "publish_time": "2026-08-22 01:57:02",
+    "raw_data": {
+      "code": "202608223849808121",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787335022008121",
+      "share": 0,
+      "showTime": "2026-08-22 01:57:02",
+      "stockList": [
+        "153.FNMA"
+      ],
+      "summary": "房利美据悉损失了至少10名高管。",
+      "title": "房利美据悉损失了至少10名高管",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608223849808121.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "153.FNMA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "227457a14ee8cd50",
+    "code": "202608223849806219",
+    "title": "伊朗与伊拉克签署“全面”安全协议",
+    "summary": "伊朗与伊拉克签署“全面”安全协议。",
+    "content": "伊朗与伊拉克签署“全面”安全协议。",
+    "full_content": "伊朗与伊拉克签署“全面”安全协议。",
+    "sort_time": "1787334768006219",
+    "showTime": "2026-08-22 01:52:48",
+    "time": "2026-08-22 01:52:48",
+    "publish_time": "2026-08-22 01:52:48",
+    "raw_data": {
+      "code": "202608223849806219",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1787334768006219",
+      "share": 0,
+      "showTime": "2026-08-22 01:52:48",
+      "stockList": [],
+      "summary": "伊朗与伊拉克签署“全面”安全协议。",
+      "title": "伊朗与伊拉克签署“全面”安全协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608223849806219.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "051ccaba968519e4",
     "code": "202608223849801830",
     "title": "欧洲三大股指当天全线上涨",
@@ -13,7 +166,7 @@
     "raw_data": {
       "code": "202608223849801830",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787334481001830",
       "share": 0,
       "showTime": "2026-08-22 01:48:01",
@@ -29,7 +182,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -301,7 +454,7 @@
     "raw_data": {
       "code": "202608223849801118",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787331911001118",
       "share": 1,
       "showTime": "2026-08-22 01:05:11",
@@ -317,7 +470,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -444,7 +597,7 @@
     "raw_data": {
       "code": "202608223849798023",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1787331614098023",
       "share": 0,
       "showTime": "2026-08-22 01:00:14",
@@ -460,7 +613,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1010,7 +1163,7 @@
     "raw_data": {
       "code": "202608213849762123",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 8,
       "realSort": "1787327598062123",
       "share": 2,
       "showTime": "2026-08-21 23:53:18",
@@ -1026,7 +1179,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
+    "comment_count": 8,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1104,7 +1257,7 @@
       "image": [],
       "pinglun_Num": 4,
       "realSort": "1787326391048917",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-08-21 23:33:11",
       "stockList": [
         "1.600422"
@@ -1123,7 +1276,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 4,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -1760,7 +1913,7 @@
       "image": [],
       "pinglun_Num": 40,
       "realSort": "1787322918013423",
-      "share": 34,
+      "share": 35,
       "showTime": "2026-08-21 22:35:18",
       "stockList": [
         "105.MRNA"
@@ -1779,7 +1932,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 40,
-    "share_count": 34,
+    "share_count": 35,
     "tags": {
       "industries": [
         {
@@ -1821,7 +1974,7 @@
       "image": [],
       "pinglun_Num": 23,
       "realSort": "1787322686009947",
-      "share": 15,
+      "share": 16,
       "showTime": "2026-08-21 22:31:26",
       "stockList": [
         "106.BABA"
@@ -1840,7 +1993,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 23,
-    "share_count": 15,
+    "share_count": 16,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1976,7 +2129,7 @@
     "raw_data": {
       "code": "202608213849703525",
       "image": [],
-      "pinglun_Num": 21,
+      "pinglun_Num": 22,
       "realSort": "1787322189003525",
       "share": 13,
       "showTime": "2026-08-21 22:23:09",
@@ -1998,7 +2151,7 @@
       "90.BK0802"
     ],
     "has_stock_mention": true,
-    "comment_count": 21,
+    "comment_count": 22,
     "share_count": 13,
     "tags": {
       "industries": [
@@ -2182,7 +2335,7 @@
     "raw_data": {
       "code": "202608213849690036",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 4,
       "realSort": "1787321535090036",
       "share": 0,
       "showTime": "2026-08-21 22:12:15",
@@ -2202,7 +2355,7 @@
       "1.600882"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
+    "comment_count": 4,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -2325,133 +2478,6 @@
     "has_stock_mention": false,
     "comment_count": 16,
     "share_count": 13,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e9fdb4321a24f67e",
-    "code": "202608213849666290",
-    "title": "特朗普宣布暂时豁免碎牛肉进口关税",
-    "summary": "【特朗普宣布暂时豁免碎牛肉进口关税】美国总统特朗普8月21日在社交媒体“真实社交”发文称，未来90天内美国将允许进口最多30万吨的碎牛肉，且不征收配额外关税，“这些牛肉的售价将比当前市场价格低25%”。",
-    "content": "【特朗普宣布暂时豁免碎牛肉进口关税】美国总统特朗普8月21日在社交媒体“真实社交”发文称，未来90天内美国将允许进口最多30万吨的碎牛肉，且不征收配额外关税，“这些牛肉的售价将比当前市场价格低25%”。",
-    "full_content": "【特朗普宣布暂时豁免碎牛肉进口关税】美国总统特朗普8月21日在社交媒体“真实社交”发文称，未来90天内美国将允许进口最多30万吨的碎牛肉，且不征收配额外关税，“这些牛肉的售价将比当前市场价格低25%”。",
-    "sort_time": "1787320511066290",
-    "showTime": "2026-08-21 21:55:11",
-    "time": "2026-08-21 21:55:11",
-    "publish_time": "2026-08-21 21:55:11",
-    "raw_data": {
-      "code": "202608213849666290",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1787320511066290",
-      "share": 6,
-      "showTime": "2026-08-21 21:55:11",
-      "stockList": [],
-      "summary": "【特朗普宣布暂时豁免碎牛肉进口关税】美国总统特朗普8月21日在社交媒体“真实社交”发文称，未来90天内美国将允许进口最多30万吨的碎牛肉，且不征收配额外关税，“这些牛肉的售价将比当前市场价格低25%”。",
-      "title": "特朗普宣布暂时豁免碎牛肉进口关税",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608213849666290.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 13,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "eae22a189c89ca3a",
-    "code": "202608213849664248",
-    "title": "钱大妈更新招股书",
-    "summary": "【钱大妈更新招股书】港交所文件显示，钱大妈国际控股有限公司重新向港交所提交上市申请书，联席保荐人为中金公司、农银国际。",
-    "content": "【钱大妈更新招股书】港交所文件显示，钱大妈国际控股有限公司重新向港交所提交上市申请书，联席保荐人为中金公司、农银国际。",
-    "full_content": "【钱大妈更新招股书】港交所文件显示，钱大妈国际控股有限公司重新向港交所提交上市申请书，联席保荐人为中金公司、农银国际。",
-    "sort_time": "1787320391064248",
-    "showTime": "2026-08-21 21:53:11",
-    "time": "2026-08-21 21:53:11",
-    "publish_time": "2026-08-21 21:53:11",
-    "raw_data": {
-      "code": "202608213849664248",
-      "image": [],
-      "pinglun_Num": 18,
-      "realSort": "1787320391064248",
-      "share": 17,
-      "showTime": "2026-08-21 21:53:11",
-      "stockList": [
-        "999.543768"
-      ],
-      "summary": "【钱大妈更新招股书】港交所文件显示，钱大妈国际控股有限公司重新向港交所提交上市申请书，联席保荐人为中金公司、农银国际。",
-      "title": "钱大妈更新招股书",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608213849664248.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "999.543768"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 18,
-    "share_count": 17,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "294289aefc8af403",
-    "code": "202608213849658227",
-    "title": "美股加密货币概念股盘初继续走强",
-    "summary": "【美股加密货币概念股盘初继续走强】美股加密货币概念股盘初继续走强，Robinhood、Circle涨超9%，Coinbase涨超7%，Strategy涨超6%。",
-    "content": "【美股加密货币概念股盘初继续走强】美股加密货币概念股盘初继续走强，Robinhood、Circle涨超9%，Coinbase涨超7%，Strategy涨超6%。",
-    "full_content": "【美股加密货币概念股盘初继续走强】美股加密货币概念股盘初继续走强，Robinhood、Circle涨超9%，Coinbase涨超7%，Strategy涨超6%。",
-    "sort_time": "1787320065058227",
-    "showTime": "2026-08-21 21:47:45",
-    "time": "2026-08-21 21:47:45",
-    "publish_time": "2026-08-21 21:47:45",
-    "raw_data": {
-      "code": "202608213849658227",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1787320065058227",
-      "share": 8,
-      "showTime": "2026-08-21 21:47:45",
-      "stockList": [
-        "105.HOOD",
-        "106.CRCL"
-      ],
-      "summary": "【美股加密货币概念股盘初继续走强】美股加密货币概念股盘初继续走强，Robinhood、Circle涨超9%，Coinbase涨超7%，Strategy涨超6%。",
-      "title": "美股加密货币概念股盘初继续走强",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608213849658227.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.HOOD",
-      "106.CRCL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
