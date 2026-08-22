@@ -105,7 +105,7 @@
     "raw_data": {
       "code": "202608233850222535",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787423446022535",
       "share": 0,
       "showTime": "2026-08-23 02:30:46",
@@ -127,7 +127,7 @@
       "90.BK0172"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -189,7 +189,7 @@
     "raw_data": {
       "code": "202608233850222276",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 7,
       "realSort": "1787422348022276",
       "share": 0,
       "showTime": "2026-08-23 02:12:28",
@@ -205,7 +205,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 7,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -228,9 +228,9 @@
     "raw_data": {
       "code": "202608223850209561",
       "image": [],
-      "pinglun_Num": 43,
+      "pinglun_Num": 44,
       "realSort": "1787421733009561",
-      "share": 28,
+      "share": 30,
       "showTime": "2026-08-23 02:02:13",
       "stockList": [
         "90.BK0428",
@@ -250,8 +250,8 @@
       "90.BK1134"
     ],
     "has_stock_mention": true,
-    "comment_count": 43,
-    "share_count": 28,
+    "comment_count": 44,
+    "share_count": 30,
     "tags": {
       "industries": [
         {
@@ -305,7 +305,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1787420842020544",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-23 01:47:22",
       "stockList": [
         "90.BK0475",
@@ -326,7 +326,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -405,9 +405,9 @@
     "raw_data": {
       "code": "202608233850222074",
       "image": [],
-      "pinglun_Num": 48,
+      "pinglun_Num": 52,
       "realSort": "1787419111022074",
-      "share": 11,
+      "share": 12,
       "showTime": "2026-08-23 01:18:31",
       "stockList": [],
       "summary": "【加拿大宣布9月8日起对美国商品征收报复性关税】当地时间8月22日，加拿大总理卡尼表示，从9月8日起，加拿大将对来自美国的多个行业的进口商品征收关税，以报复美国新关税。",
@@ -421,8 +421,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 48,
-    "share_count": 11,
+    "comment_count": 52,
+    "share_count": 12,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2088,7 +2088,7 @@
     "raw_data": {
       "code": "202608223850184754",
       "image": [],
-      "pinglun_Num": 103,
+      "pinglun_Num": 104,
       "realSort": "1787397082084754",
       "share": 59,
       "showTime": "2026-08-22 19:11:22",
@@ -2110,7 +2110,7 @@
       "90.BK0473"
     ],
     "has_stock_mention": true,
-    "comment_count": 103,
+    "comment_count": 104,
     "share_count": 59,
     "tags": {
       "industries": [
@@ -2318,7 +2318,7 @@
     "raw_data": {
       "code": "202608223850182717",
       "image": [],
-      "pinglun_Num": 23,
+      "pinglun_Num": 22,
       "realSort": "1787395608082717",
       "share": 7,
       "showTime": "2026-08-22 18:46:48",
@@ -2334,7 +2334,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 23,
+    "comment_count": 22,
     "share_count": 7,
     "tags": {
       "industries": [],
