@@ -13,7 +13,7 @@
     "raw_data": {
       "code": "202608233850237193",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1787441315037193",
       "share": 0,
       "showTime": "2026-08-23 07:28:35",
@@ -33,7 +33,7 @@
       "90.BK0150"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -58,7 +58,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1787440745037096",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-08-23 07:19:05",
       "stockList": [
         "90.BK0577"
@@ -77,7 +77,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -107,7 +107,7 @@
     "raw_data": {
       "code": "202608233850236811",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1787439935036811",
       "share": 0,
       "showTime": "2026-08-23 07:05:35",
@@ -123,7 +123,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -146,7 +146,7 @@
     "raw_data": {
       "code": "202608233850236490",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787439676036490",
       "share": 0,
       "showTime": "2026-08-23 07:01:16",
@@ -162,7 +162,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -185,9 +185,9 @@
     "raw_data": {
       "code": "202608223850220794",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 10,
       "realSort": "1787439260020794",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-08-23 06:54:20",
       "stockList": [],
       "summary": "【DeepSeek API服务 再次调价】DeepSeek网站8月22日显示，DeepSeek API开放平台将于2026年8月23日（周日）00:00起，优化峰谷计费规则。调整后，周末（周六及周日）全天将不再区分峰谷时段，统一按低谷时段价格计费。此前，DeepSeek发布API调价公告，自北京时间8月17日0:00起，DeepSeek全面上调API价格并执行峰谷定价，闲时价格为高峰时段价格的一半。高峰时段为北京时间9:00—12:00、14:00—18:00（其余为空闲时段）。",
@@ -201,8 +201,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 1,
+    "comment_count": 10,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -385,7 +385,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1787435104029127",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-08-23 05:45:04",
       "stockList": [],
       "summary": "【日本本州岛5.8级地震已致多人受伤】23日获悉，日本本州岛5.8级地震后，当地已出现多名伤者。截至当地时间4时，埼玉县有9人受伤，截至当地时间5时，神奈川县有3人受伤；此外，东京有人被玻璃划伤。",
@@ -400,7 +400,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 4,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -475,7 +475,7 @@
     "raw_data": {
       "code": "202608233850222752",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 4,
       "realSort": "1787432446022752",
       "share": 1,
       "showTime": "2026-08-23 05:00:46",
@@ -497,7 +497,7 @@
       "999.605309"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -520,7 +520,7 @@
     "raw_data": {
       "code": "202608233850227468",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 7,
       "realSort": "1787431017027468",
       "share": 3,
       "showTime": "2026-08-23 04:36:57",
@@ -536,7 +536,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 7,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -622,9 +622,9 @@
     "raw_data": {
       "code": "202608233850227317",
       "image": [],
-      "pinglun_Num": 89,
+      "pinglun_Num": 174,
       "realSort": "1787428817027317",
-      "share": 47,
+      "share": 90,
       "showTime": "2026-08-23 04:00:17",
       "stockList": [
         "90.BK1161",
@@ -644,8 +644,8 @@
       "150.159813"
     ],
     "has_stock_mention": true,
-    "comment_count": 89,
-    "share_count": 47,
+    "comment_count": 174,
+    "share_count": 90,
     "tags": {
       "industries": [
         {
@@ -697,7 +697,7 @@
     "raw_data": {
       "code": "202608233850227631",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787427600027631",
       "share": 1,
       "showTime": "2026-08-23 03:40:00",
@@ -713,7 +713,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -959,7 +959,7 @@
     "raw_data": {
       "code": "202608233850222276",
       "image": [],
-      "pinglun_Num": 10,
+      "pinglun_Num": 11,
       "realSort": "1787422348022276",
       "share": 0,
       "showTime": "2026-08-23 02:12:28",
@@ -975,7 +975,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 10,
+    "comment_count": 11,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -998,9 +998,9 @@
     "raw_data": {
       "code": "202608223850209561",
       "image": [],
-      "pinglun_Num": 75,
+      "pinglun_Num": 178,
       "realSort": "1787421733009561",
-      "share": 43,
+      "share": 98,
       "showTime": "2026-08-23 02:02:13",
       "stockList": [
         "90.BK0428",
@@ -1020,8 +1020,8 @@
       "90.BK1134"
     ],
     "has_stock_mention": true,
-    "comment_count": 75,
-    "share_count": 43,
+    "comment_count": 178,
+    "share_count": 98,
     "tags": {
       "industries": [
         {
@@ -1175,7 +1175,7 @@
     "raw_data": {
       "code": "202608233850222074",
       "image": [],
-      "pinglun_Num": 105,
+      "pinglun_Num": 106,
       "realSort": "1787419111022074",
       "share": 29,
       "showTime": "2026-08-23 01:18:31",
@@ -1191,7 +1191,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 105,
+    "comment_count": 106,
     "share_count": 29,
     "tags": {
       "industries": [],
@@ -1298,7 +1298,7 @@
     "raw_data": {
       "code": "202608223850220312",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787416249020312",
       "share": 0,
       "showTime": "2026-08-23 00:30:49",
@@ -1320,7 +1320,7 @@
       "0.000985"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1521,7 +1521,7 @@
     "raw_data": {
       "code": "202608223850205618",
       "image": [],
-      "pinglun_Num": 5,
+      "pinglun_Num": 6,
       "realSort": "1787411194005618",
       "share": 1,
       "showTime": "2026-08-22 23:06:34",
@@ -1537,7 +1537,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 5,
+    "comment_count": 6,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1971,7 +1971,7 @@
     "raw_data": {
       "code": "202608223850193862",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 5,
       "realSort": "1787404800093862",
       "share": 10,
       "showTime": "2026-08-22 21:20:00",
@@ -1987,7 +1987,7 @@
     "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
+    "comment_count": 5,
     "share_count": 10,
     "tags": {
       "industries": [
