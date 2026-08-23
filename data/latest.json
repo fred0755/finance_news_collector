@@ -1,5 +1,62 @@
 [
   {
+    "id": "1ed864521c2445f3",
+    "code": "202608243850452768",
+    "title": "周一亚太早盘 WTI原油期货价格跌0.68%",
+    "summary": "周一亚太早盘，WTI原油期货价格跌0.68%，报86.467美元/桶。现货黄金价格涨0.31%，报4618.86美元/盎司。",
+    "content": "周一亚太早盘，WTI原油期货价格跌0.68%，报86.467美元/桶。现货黄金价格涨0.31%，报4618.86美元/盎司。",
+    "full_content": "周一亚太早盘，WTI原油期货价格跌0.68%，报86.467美元/桶。现货黄金价格涨0.31%，报4618.86美元/盎司。",
+    "sort_time": "1787522505052768",
+    "showTime": "2026-08-24 06:01:45",
+    "time": "2026-08-24 06:01:45",
+    "publish_time": "2026-08-24 06:01:45",
+    "raw_data": {
+      "code": "202608243850452768",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787522505052768",
+      "share": 0,
+      "showTime": "2026-08-24 06:01:45",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "周一亚太早盘，WTI原油期货价格跌0.68%，报86.467美元/桶。现货黄金价格涨0.31%，报4618.86美元/盎司。",
+      "title": "周一亚太早盘 WTI原油期货价格跌0.68%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608243850452768.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502",
+        "C506"
+      ]
+    }
+  },
+  {
     "id": "0296f8531bcaccff",
     "code": "202608243850449225",
     "title": "特朗普表示 不接纳数据中心的社区正在犯错误",
@@ -103,9 +160,9 @@
     "raw_data": {
       "code": "202608243850448731",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1787520184048731",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-24 05:23:04",
       "stockList": [],
       "summary": "【南京众彩：对场内大白菜开展地毯式抽检 未检出甲醛等有害物质 全面暂停张家口康保县大白菜入场】据“江苏新闻广播”微信公众号消息，针对网络曝光河北张家口康保县大白菜违规使用甲醛保鲜一事，南京众彩蔬菜市场立即开展应急排查处置。市场白菜日均到货约150吨，货源涵盖山东、甘肃、内蒙、河北等产区。8月22日起对场内在售、待售大白菜开展地毯式排查及抽样检测，累计检测53批次，均未检出甲醛等有害物质。市场已全面禁止张家口康保县大白菜入场；其余产区大白菜升级为关注品种，甲醛纳入必检项目，严格执行“先检后进”，检测合格方可销售。同时督促商户落实索证索票，强化食品安全宣教，压实进货主体责任。目前，市场山东、甘肃、内蒙古等地大白菜货源充足、价格平稳，请市民放心选购。",
@@ -119,8 +176,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 1,
+    "comment_count": 5,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -150,9 +207,9 @@
     "raw_data": {
       "code": "202608233850410614",
       "image": [],
-      "pinglun_Num": 57,
+      "pinglun_Num": 94,
       "realSort": "1787519911010614",
-      "share": 24,
+      "share": 40,
       "showTime": "2026-08-24 05:18:31",
       "stockList": [
         "90.BK1366",
@@ -172,8 +229,8 @@
       "90.BK0473"
     ],
     "has_stock_mention": true,
-    "comment_count": 57,
-    "share_count": 24,
+    "comment_count": 94,
+    "share_count": 40,
     "tags": {
       "industries": [
         {
@@ -479,23 +536,27 @@
     "raw_data": {
       "code": "202608243850446531",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 12,
       "realSort": "1787514675046531",
       "share": 0,
       "showTime": "2026-08-24 03:51:15",
-      "stockList": [],
+      "stockList": [
+        "90.BK0464"
+      ],
       "summary": "【伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口】当地时间23日，伊朗最高国家安全委员会秘书雷扎伊表示，如果美国对伊朗继续发动经济战，则没有石油会通过霍尔木兹海峡乃至波斯湾地区出口。伊朗将把任何国家参与或支持美国对伊朗人民发动的经济战视为战争行为。",
       "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
-      "titleColor": 0
+      "titleColor": 3
     },
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202608243850446531.html",
     "category": "其他",
-    "importance": 5,
+    "importance": 6,
     "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 6,
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 12,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -567,7 +628,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1787514300024518",
-      "share": 3,
+      "share": 5,
       "showTime": "2026-08-24 03:45:00",
       "stockList": [
         "90.BK0428",
@@ -588,7 +649,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 3,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -767,7 +828,7 @@
     "raw_data": {
       "code": "202608243850442972",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1787512874042972",
       "share": 3,
       "showTime": "2026-08-24 03:21:14",
@@ -789,7 +850,7 @@
       "90.BK1044"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 3,
     "tags": {
       "industries": [
@@ -971,9 +1032,9 @@
     "raw_data": {
       "code": "202608233850404663",
       "image": [],
-      "pinglun_Num": 20,
+      "pinglun_Num": 23,
       "realSort": "1787510765004663",
-      "share": 4,
+      "share": 7,
       "showTime": "2026-08-24 02:46:05",
       "stockList": [
         "90.BK1366",
@@ -993,8 +1054,8 @@
       "90.BK0473"
     ],
     "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 4,
+    "comment_count": 23,
+    "share_count": 7,
     "tags": {
       "industries": [
         {
@@ -1034,9 +1095,9 @@
     "raw_data": {
       "code": "202608233850405143",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 32,
       "realSort": "1787510580005143",
-      "share": 38,
+      "share": 58,
       "showTime": "2026-08-24 02:43:00",
       "stockList": [
         "90.BK0800",
@@ -1056,8 +1117,8 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 16,
-    "share_count": 38,
+    "comment_count": 32,
+    "share_count": 58,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1140,9 +1201,9 @@
     "raw_data": {
       "code": "202608233850402072",
       "image": [],
-      "pinglun_Num": 8,
+      "pinglun_Num": 10,
       "realSort": "1787509345002072",
-      "share": 23,
+      "share": 27,
       "showTime": "2026-08-24 02:22:25",
       "stockList": [
         "1007.BK000195",
@@ -1162,8 +1223,8 @@
       "0.300483"
     ],
     "has_stock_mention": true,
-    "comment_count": 8,
-    "share_count": 23,
+    "comment_count": 10,
+    "share_count": 27,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1224,9 +1285,9 @@
     "raw_data": {
       "code": "202608243850443531",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 10,
       "realSort": "1787508796043531",
-      "share": 5,
+      "share": 11,
       "showTime": "2026-08-24 02:13:16",
       "stockList": [
         "90.BK0736",
@@ -1246,8 +1307,8 @@
       "90.BK0448"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 5,
+    "comment_count": 10,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1322,7 +1383,7 @@
     "raw_data": {
       "code": "202608243850439157",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 18,
       "realSort": "1787507529039157",
       "share": 3,
       "showTime": "2026-08-24 01:52:09",
@@ -1344,7 +1405,7 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 16,
+    "comment_count": 18,
     "share_count": 3,
     "tags": {
       "industries": [
@@ -1417,7 +1478,7 @@
     "raw_data": {
       "code": "202608243850438739",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1787507154038739",
       "share": 2,
       "showTime": "2026-08-24 01:45:54",
@@ -1439,7 +1500,7 @@
       "201.HK1032"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -1517,7 +1578,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1787506170037012",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-08-24 01:29:30",
       "stockList": [
         "90.BK0732",
@@ -1538,7 +1599,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1568,9 +1629,9 @@
     "raw_data": {
       "code": "202608233850383335",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 12,
       "realSort": "1787505660083335",
-      "share": 8,
+      "share": 9,
       "showTime": "2026-08-24 01:21:00",
       "stockList": [
         "116.09992"
@@ -1588,8 +1649,8 @@
       "116.09992"
     ],
     "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 8,
+    "comment_count": 12,
+    "share_count": 9,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1770,9 +1831,9 @@
     "raw_data": {
       "code": "202608233850424452",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1787503440024452",
-      "share": 37,
+      "share": 55,
       "showTime": "2026-08-24 00:44:00",
       "stockList": [
         "1.600256",
@@ -1792,8 +1853,8 @@
       "1.601886"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 37,
+    "comment_count": 3,
+    "share_count": 55,
     "tags": {
       "industries": [
         {
@@ -1825,7 +1886,7 @@
     "raw_data": {
       "code": "202608233850414143",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 8,
       "realSort": "1787503054014143",
       "share": 6,
       "showTime": "2026-08-24 00:37:34",
@@ -1845,7 +1906,7 @@
       "90.BK1511"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 8,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -1913,9 +1974,9 @@
     "raw_data": {
       "code": "202608233850395010",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 15,
       "realSort": "1787502900095010",
-      "share": 35,
+      "share": 40,
       "showTime": "2026-08-24 00:35:00",
       "stockList": [
         "90.BK0459",
@@ -1935,8 +1996,8 @@
       "90.BK0697"
     ],
     "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 35,
+    "comment_count": 15,
+    "share_count": 40,
     "tags": {
       "industries": [
         {
@@ -2041,9 +2102,9 @@
     "raw_data": {
       "code": "202608243850427451",
       "image": [],
-      "pinglun_Num": 9,
+      "pinglun_Num": 13,
       "realSort": "1787501712027451",
-      "share": 8,
+      "share": 11,
       "showTime": "2026-08-24 00:15:12",
       "stockList": [
         "0.301117"
@@ -2061,8 +2122,8 @@
       "0.301117"
     ],
     "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 8,
+    "comment_count": 13,
+    "share_count": 11,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2075,6 +2136,59 @@
       "industry_ids": [],
       "concept_ids": [
         "C814"
+      ]
+    }
+  },
+  {
+    "id": "f2559d361f54aa41",
+    "code": "202608233850364077",
+    "title": "黄金连涨三周突破4600美元 金矿股业绩估值上行",
+    "summary": "【黄金连涨三周突破4600美元 金矿股业绩估值上行】黄金重拾涨势，金矿股水涨船高。上周，伦敦现货黄金价格连续突破每盎司4400美元、4500美元和4600美元三道整数关口，周涨幅达5.18%，录得周线三连涨。COMEX黄金期货最高触及4690美元/盎司，较7月阶段低点4022美元/盎司，最大反弹超16%。",
+    "content": "【黄金连涨三周突破4600美元 金矿股业绩估值上行】黄金重拾涨势，金矿股水涨船高。上周，伦敦现货黄金价格连续突破每盎司4400美元、4500美元和4600美元三道整数关口，周涨幅达5.18%，录得周线三连涨。COMEX黄金期货最高触及4690美元/盎司，较7月阶段低点4022美元/盎司，最大反弹超16%。",
+    "full_content": "【黄金连涨三周突破4600美元 金矿股业绩估值上行】黄金重拾涨势，金矿股水涨船高。上周，伦敦现货黄金价格连续突破每盎司4400美元、4500美元和4600美元三道整数关口，周涨幅达5.18%，录得周线三连涨。COMEX黄金期货最高触及4690美元/盎司，较7月阶段低点4022美元/盎司，最大反弹超16%。",
+    "sort_time": "1787501593064077",
+    "showTime": "2026-08-24 00:13:13",
+    "time": "2026-08-24 00:13:13",
+    "publish_time": "2026-08-24 00:13:13",
+    "raw_data": {
+      "code": "202608233850364077",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1787501593064077",
+      "share": 2,
+      "showTime": "2026-08-24 00:13:13",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "【黄金连涨三周突破4600美元 金矿股业绩估值上行】黄金重拾涨势，金矿股水涨船高。上周，伦敦现货黄金价格连续突破每盎司4400美元、4500美元和4600美元三道整数关口，周涨幅达5.18%，录得周线三连涨。COMEX黄金期货最高触及4690美元/盎司，较7月阶段低点4022美元/盎司，最大反弹超16%。",
+      "title": "黄金连涨三周突破4600美元 金矿股业绩估值上行",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608233850364077.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "金矿"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
       ]
     }
   },
@@ -2202,7 +2316,7 @@
     "raw_data": {
       "code": "202608233850421763",
       "image": [],
-      "pinglun_Num": 26,
+      "pinglun_Num": 29,
       "realSort": "1787500386021763",
       "share": 12,
       "showTime": "2026-08-23 23:53:06",
@@ -2222,7 +2336,7 @@
       "0.300308"
     ],
     "has_stock_mention": true,
-    "comment_count": 26,
+    "comment_count": 29,
     "share_count": 12,
     "tags": {
       "industries": [],
@@ -2401,84 +2515,6 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "fc8a566bb81783db",
-    "code": "202608233850407028",
-    "title": "叙利亚、以色列官员据悉于周日举行会晤以缓和紧张局势",
-    "summary": "叙利亚、以色列官员据悉于周日举行会晤以缓和紧张局势。",
-    "content": "叙利亚、以色列官员据悉于周日举行会晤以缓和紧张局势。",
-    "full_content": "叙利亚、以色列官员据悉于周日举行会晤以缓和紧张局势。",
-    "sort_time": "1787497721007028",
-    "showTime": "2026-08-23 23:08:41",
-    "time": "2026-08-23 23:08:41",
-    "publish_time": "2026-08-23 23:08:41",
-    "raw_data": {
-      "code": "202608233850407028",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1787497721007028",
-      "share": 1,
-      "showTime": "2026-08-23 23:08:41",
-      "stockList": [],
-      "summary": "叙利亚、以色列官员据悉于周日举行会晤以缓和紧张局势。",
-      "title": "叙利亚、以色列官员据悉于周日举行会晤以缓和紧张局势",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608233850407028.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "3f966f5964020265",
-    "code": "202608233850404498",
-    "title": "明尼阿波利斯联储行长尼尔·卡什卡里表示：很难知道美债收益率上升的更大驱动因素",
-    "summary": "明尼阿波利斯联储行长尼尔·卡什卡里表示，很难知道美债收益率上升的更大驱动因素。收益率上升并未使美联储的工作更加困难。如何减债是美国国会的职责。",
-    "content": "明尼阿波利斯联储行长尼尔·卡什卡里表示，很难知道美债收益率上升的更大驱动因素。收益率上升并未使美联储的工作更加困难。如何减债是美国国会的职责。",
-    "full_content": "明尼阿波利斯联储行长尼尔·卡什卡里表示，很难知道美债收益率上升的更大驱动因素。收益率上升并未使美联储的工作更加困难。如何减债是美国国会的职责。",
-    "sort_time": "1787496649004498",
-    "showTime": "2026-08-23 22:50:49",
-    "time": "2026-08-23 22:50:49",
-    "publish_time": "2026-08-23 22:50:49",
-    "raw_data": {
-      "code": "202608233850404498",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1787496649004498",
-      "share": 0,
-      "showTime": "2026-08-23 22:50:49",
-      "stockList": [],
-      "summary": "明尼阿波利斯联储行长尼尔·卡什卡里表示，很难知道美债收益率上升的更大驱动因素。收益率上升并未使美联储的工作更加困难。如何减债是美国国会的职责。",
-      "title": "明尼阿波利斯联储行长尼尔·卡什卡里表示：很难知道美债收益率上升的更大驱动因素",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608233850404498.html",
-    "category": "债券",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
