@@ -1,5 +1,44 @@
 [
   {
+    "id": "d32e2d0a1b98a1b4",
+    "code": "202608233850395846",
+    "title": "日本浦河附近海域发生6.0级地震",
+    "summary": "【日本浦河附近海域发生6.0级地震】据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。",
+    "content": "【日本浦河附近海域发生6.0级地震】据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。",
+    "full_content": "【日本浦河附近海域发生6.0级地震】据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。",
+    "sort_time": "1787493425095846",
+    "showTime": "2026-08-23 21:57:05",
+    "time": "2026-08-23 21:57:05",
+    "publish_time": "2026-08-23 21:57:05",
+    "raw_data": {
+      "code": "202608233850395846",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787493425095846",
+      "share": 0,
+      "showTime": "2026-08-23 21:57:05",
+      "stockList": [],
+      "summary": "【日本浦河附近海域发生6.0级地震】据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。",
+      "title": "日本浦河附近海域发生6.0级地震",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608233850395846.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "96250a9bd0ea80a7",
     "code": "202608233850390072",
     "title": "泽连斯基：乌克兰尚不具备战时选举条件",
@@ -13,7 +52,7 @@
     "raw_data": {
       "code": "202608233850390072",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 3,
       "realSort": "1787492398090072",
       "share": 0,
       "showTime": "2026-08-23 21:39:58",
@@ -29,7 +68,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -56,9 +95,7 @@
       "realSort": "1787491124077833",
       "share": 0,
       "showTime": "2026-08-23 21:18:44",
-      "stockList": [
-        "90.BK0154"
-      ],
+      "stockList": [],
       "summary": "【广西启动自然灾害救助四级应急响应】8月23日，记者从广西壮族自治区防灾减灾救灾委员会办公室了解到，针对今年第19号台风“紫檀”造成的灾情，根据《广西自然灾害救助应急预案》有关规定，广西壮族自治区防灾减灾救灾委员会办公室决定于8月23日19时启动广西壮族自治区自然灾害救助四级应急响应，请各市、各有关单位按照预案要求做好救灾救助工作。",
       "title": "广西启动自然灾害救助四级应急响应",
       "titleColor": 0
@@ -66,12 +103,10 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202608233850377833.html",
     "category": "其他",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0154"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 0,
     "share_count": 0,
     "tags": {
@@ -95,7 +130,7 @@
     "raw_data": {
       "code": "202608233850371792",
       "image": [],
-      "pinglun_Num": 16,
+      "pinglun_Num": 23,
       "realSort": "1787490031071792",
       "share": 1,
       "showTime": "2026-08-23 21:00:31",
@@ -111,7 +146,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 16,
+    "comment_count": 23,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -134,9 +169,9 @@
     "raw_data": {
       "code": "202608233850371554",
       "image": [],
-      "pinglun_Num": 52,
+      "pinglun_Num": 73,
       "realSort": "1787489895071554",
-      "share": 2,
+      "share": 5,
       "showTime": "2026-08-23 20:58:15",
       "stockList": [
         "90.BK1408",
@@ -156,8 +191,8 @@
       "150.562500"
     ],
     "has_stock_mention": true,
-    "comment_count": 52,
-    "share_count": 2,
+    "comment_count": 73,
+    "share_count": 5,
     "tags": {
       "industries": [],
       "concepts": [
@@ -189,7 +224,7 @@
       "image": [],
       "pinglun_Num": 5,
       "realSort": "1787488955070412",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-08-23 20:42:35",
       "stockList": [
         "116.09888",
@@ -210,7 +245,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 5,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [
@@ -246,7 +281,7 @@
     "raw_data": {
       "code": "202608233850368592",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1787488697068592",
       "share": 3,
       "showTime": "2026-08-23 20:38:17",
@@ -268,7 +303,7 @@
       "150.014238"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 3,
     "tags": {
       "industries": [],
@@ -299,9 +334,9 @@
     "raw_data": {
       "code": "202608233850365249",
       "image": [],
-      "pinglun_Num": 43,
+      "pinglun_Num": 44,
       "realSort": "1787488052065249",
-      "share": 5,
+      "share": 7,
       "showTime": "2026-08-23 20:27:32",
       "stockList": [
         "90.BK1408",
@@ -321,8 +356,8 @@
       "150.562500"
     ],
     "has_stock_mention": true,
-    "comment_count": 43,
-    "share_count": 5,
+    "comment_count": 44,
+    "share_count": 7,
     "tags": {
       "industries": [],
       "concepts": [
@@ -352,9 +387,9 @@
     "raw_data": {
       "code": "202608233850365083",
       "image": [],
-      "pinglun_Num": 37,
+      "pinglun_Num": 40,
       "realSort": "1787487953065083",
-      "share": 7,
+      "share": 8,
       "showTime": "2026-08-23 20:25:53",
       "stockList": [],
       "summary": "【伊朗总统：伊朗应摆脱“既非战争、也非和平”状态】据伊朗方面23日消息，伊朗总统佩泽希齐扬22日晚表示，伊朗应以理性方式，使国家摆脱“既非战争、也非和平”状态。",
@@ -368,8 +403,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 37,
-    "share_count": 7,
+    "comment_count": 40,
+    "share_count": 8,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -391,9 +426,9 @@
     "raw_data": {
       "code": "202608233850365145",
       "image": [],
-      "pinglun_Num": 7,
+      "pinglun_Num": 9,
       "realSort": "1787487810065145",
-      "share": 4,
+      "share": 5,
       "showTime": "2026-08-23 20:23:30",
       "stockList": [
         "90.BK0800"
@@ -411,8 +446,8 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 4,
+    "comment_count": 9,
+    "share_count": 5,
     "tags": {
       "industries": [
         {
@@ -452,7 +487,7 @@
     "raw_data": {
       "code": "202608233850364297",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1787487387064297",
       "share": 0,
       "showTime": "2026-08-23 20:16:27",
@@ -468,7 +503,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -538,9 +573,9 @@
     "raw_data": {
       "code": "202608233850362793",
       "image": [],
-      "pinglun_Num": 319,
+      "pinglun_Num": 344,
       "realSort": "1787486658062793",
-      "share": 416,
+      "share": 436,
       "showTime": "2026-08-23 20:04:18",
       "stockList": [],
       "summary": "【嫦娥七号任务不满足发射条件 不能在今年预定窗口实施】记者23日从中国载人航天工程办公室了解到，本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。",
@@ -554,8 +589,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 319,
-    "share_count": 416,
+    "comment_count": 344,
+    "share_count": 436,
     "tags": {
       "industries": [],
       "concepts": [
@@ -585,9 +620,9 @@
     "raw_data": {
       "code": "202608233850362523",
       "image": [],
-      "pinglun_Num": 382,
+      "pinglun_Num": 425,
       "realSort": "1787486548062523",
-      "share": 265,
+      "share": 290,
       "showTime": "2026-08-23 20:02:28",
       "stockList": [],
       "summary": "【三部门指导地方快速处置“白菜收购环节蘸取甲醛溶液”问题】针对舆论关注的河北省张家口市康保县“白菜收购环节蘸取甲醛溶液”问题，国务院食安办、农业农村部、市场监管总局高度重视，第一时间指导属地调查核实，依法从严从快处置，对涉事白菜流向进行追查，严防问题产品流入市场。同时举一反三，组织各地立即开展白菜等易腐蔬菜专项抽检和市场排查，一旦发现违法违规行为，将严惩重处、决不姑息，切实维护人民群众饮食安全。",
@@ -601,8 +636,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 382,
-    "share_count": 265,
+    "comment_count": 425,
+    "share_count": 290,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -753,7 +788,7 @@
     "raw_data": {
       "code": "202608233850348375",
       "image": [],
-      "pinglun_Num": 18,
+      "pinglun_Num": 19,
       "realSort": "1787484022048375",
       "share": 4,
       "showTime": "2026-08-23 19:20:22",
@@ -769,7 +804,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 18,
+    "comment_count": 19,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -1013,7 +1048,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1787481039024543",
-      "share": 15,
+      "share": 16,
       "showTime": "2026-08-23 18:30:39",
       "stockList": [
         "0.161123"
@@ -1032,7 +1067,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 15,
+    "share_count": 16,
     "tags": {
       "industries": [
         {
@@ -1113,7 +1148,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1787480201022257",
-      "share": 3,
+      "share": 4,
       "showTime": "2026-08-23 18:16:41",
       "stockList": [
         "0.301216",
@@ -1134,7 +1169,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 3,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1296,8 +1331,7 @@
       "share": 2,
       "showTime": "2026-08-23 18:05:33",
       "stockList": [
-        "90.BK1178",
-        "0.161631"
+        "1007.BK000217"
       ],
       "summary": "【挪威呼吁校园内禁止使用AI眼镜】当地时间8月22日，挪威广播公司报道，挪威负责中小学教育及幼教事务的大臣卡丽·内萨·诺尔敦当天表示，挪威各地方政府和学校应通过学校规章制度，禁止在校园内使用人工智能眼镜。",
       "title": "挪威呼吁校园内禁止使用AI眼镜",
@@ -1309,8 +1343,7 @@
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK1178",
-      "0.161631"
+      "1007.BK000217"
     ],
     "has_stock_mention": true,
     "comment_count": 6,
@@ -1346,7 +1379,7 @@
       "image": [],
       "pinglun_Num": 76,
       "realSort": "1787479255015966",
-      "share": 77,
+      "share": 78,
       "showTime": "2026-08-23 18:00:55",
       "stockList": [
         "0.301117"
@@ -1365,7 +1398,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 76,
-    "share_count": 77,
+    "share_count": 78,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1563,7 +1596,7 @@
     "raw_data": {
       "code": "202608233850296866",
       "image": [],
-      "pinglun_Num": 6,
+      "pinglun_Num": 7,
       "realSort": "1787475485096866",
       "share": 6,
       "showTime": "2026-08-23 16:58:05",
@@ -1579,7 +1612,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 7,
     "share_count": 6,
     "tags": {
       "industries": [],
@@ -1653,7 +1686,7 @@
     "raw_data": {
       "code": "202608233850296358",
       "image": [],
-      "pinglun_Num": 44,
+      "pinglun_Num": 46,
       "realSort": "1787473941096358",
       "share": 9,
       "showTime": "2026-08-23 16:32:21",
@@ -1669,7 +1702,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 44,
+    "comment_count": 46,
     "share_count": 9,
     "tags": {
       "industries": [
@@ -2253,59 +2286,6 @@
       "industries": [],
       "concepts": [],
       "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a28629fbb85b1811",
-    "code": "202608233850286455",
-    "title": "天海电子：拟设立两家全资孙公司布局高压零部件及高速连接器业务",
-    "summary": "【天海电子：拟设立两家全资孙公司布局高压零部件及高速连接器业务】天海电子(001365.SZ)公告称，公司全资子公司天海电器拟以自有资金分别出资2.6亿元、2.2亿元设立河南天海驭联科技、河南天海数联科技两家全资孙公司，分别搭建高压零部件、车载高速连接器专业化运营平台。",
-    "content": "【天海电子：拟设立两家全资孙公司布局高压零部件及高速连接器业务】天海电子(001365.SZ)公告称，公司全资子公司天海电器拟以自有资金分别出资2.6亿元、2.2亿元设立河南天海驭联科技、河南天海数联科技两家全资孙公司，分别搭建高压零部件、车载高速连接器专业化运营平台。",
-    "full_content": "【天海电子：拟设立两家全资孙公司布局高压零部件及高速连接器业务】天海电子(001365.SZ)公告称，公司全资子公司天海电器拟以自有资金分别出资2.6亿元、2.2亿元设立河南天海驭联科技、河南天海数联科技两家全资孙公司，分别搭建高压零部件、车载高速连接器专业化运营平台。",
-    "sort_time": "1787471775086455",
-    "showTime": "2026-08-23 15:56:15",
-    "time": "2026-08-23 15:56:15",
-    "publish_time": "2026-08-23 15:56:15",
-    "raw_data": {
-      "code": "202608233850286455",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1787471775086455",
-      "share": 1,
-      "showTime": "2026-08-23 15:56:15",
-      "stockList": [
-        "0.001365"
-      ],
-      "summary": "【天海电子：拟设立两家全资孙公司布局高压零部件及高速连接器业务】天海电子(001365.SZ)公告称，公司全资子公司天海电器拟以自有资金分别出资2.6亿元、2.2亿元设立河南天海驭联科技、河南天海数联科技两家全资孙公司，分别搭建高压零部件、车载高速连接器专业化运营平台。",
-      "title": "天海电子：拟设立两家全资孙公司布局高压零部件及高速连接器业务",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608233850286455.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.001365"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010302",
-          "name": "汽车零部件",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "零部件"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010302"
-      ],
       "concept_ids": []
     }
   }
