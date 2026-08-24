@@ -13,7 +13,7 @@
     "raw_data": {
       "code": "202608253851679614",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 8,
       "realSort": "1787597850079614",
       "share": 0,
       "showTime": "2026-08-25 02:57:30",
@@ -35,7 +35,7 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 8,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -117,7 +117,7 @@
     "raw_data": {
       "code": "202608253851680390",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 3,
       "realSort": "1787597131080390",
       "share": 1,
       "showTime": "2026-08-25 02:45:31",
@@ -133,7 +133,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -246,7 +246,7 @@
     "raw_data": {
       "code": "202608253851673320",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 2,
       "realSort": "1787595720073320",
       "share": 0,
       "showTime": "2026-08-25 02:22:00",
@@ -268,7 +268,7 @@
       "90.BK1617"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -315,7 +315,7 @@
     "raw_data": {
       "code": "202608253851679110",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 6,
       "realSort": "1787594941079110",
       "share": 0,
       "showTime": "2026-08-25 02:09:01",
@@ -331,7 +331,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -393,7 +393,7 @@
     "raw_data": {
       "code": "202608253851677847",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 16,
       "realSort": "1787593929077847",
       "share": 0,
       "showTime": "2026-08-25 01:52:09",
@@ -409,7 +409,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 14,
+    "comment_count": 16,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -471,7 +471,7 @@
     "raw_data": {
       "code": "202608253851674621",
       "image": [],
-      "pinglun_Num": 13,
+      "pinglun_Num": 14,
       "realSort": "1787592467074621",
       "share": 2,
       "showTime": "2026-08-25 01:27:47",
@@ -487,7 +487,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 13,
+    "comment_count": 14,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -557,10 +557,7 @@
       "realSort": "1787592185072815",
       "share": 1,
       "showTime": "2026-08-25 01:23:05",
-      "stockList": [
-        "90.BK1550",
-        "90.BK0484"
-      ],
+      "stockList": [],
       "summary": "【美副总统：与加拿大的贸易谈判仍在进行】当地时间24日，美国副总统万斯在谈及美国与加拿大的贸易谈判时表示，“加拿大最后一刻提出了一堆不合理的要求”“我认为应该达成协议，但我们需要向加拿大总理发出一个响亮而明确的信息：停止占缅因州人民的便宜。停止占美国的便宜。一切都结束了。我们希望贸易政策公平公正。”万斯称，谈判仍在进行，“美国将力争在贸易中实现公平”。",
       "title": "美副总统：与加拿大的贸易谈判仍在进行",
       "titleColor": 3
@@ -568,13 +565,10 @@
     "source": "东方财富快讯",
     "url": "https://kuaixun.eastmoney.com/news/202608253851672815.html",
     "category": "政策",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1550",
-      "90.BK0484"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 1,
     "share_count": 1,
     "tags": {
@@ -831,7 +825,7 @@
     "raw_data": {
       "code": "202608253851666422",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 6,
       "realSort": "1787591111066422",
       "share": 0,
       "showTime": "2026-08-25 01:05:11",
@@ -851,7 +845,7 @@
       "0.159940"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 6,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1228,7 +1222,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1787587439050436",
-      "share": 9,
+      "share": 10,
       "showTime": "2026-08-25 00:03:59",
       "stockList": [
         "90.BK0428",
@@ -1249,7 +1243,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 9,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
