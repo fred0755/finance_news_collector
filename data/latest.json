@@ -1,5 +1,103 @@
 [
   {
+    "id": "fa259d8797033418",
+    "code": "202608263853474159",
+    "title": "Pucobre与智利国家铜业公司围绕8.7亿美元智利铜项目组建合资公司",
+    "summary": "Pucobre与智利国家铜业公司Codelco围绕8.7亿美元智利铜项目组建合资公司Minera Puntilla。",
+    "content": "Pucobre与智利国家铜业公司Codelco围绕8.7亿美元智利铜项目组建合资公司Minera Puntilla。",
+    "full_content": "Pucobre与智利国家铜业公司Codelco围绕8.7亿美元智利铜项目组建合资公司Minera Puntilla。",
+    "sort_time": "1787680054074159",
+    "showTime": "2026-08-26 01:47:34",
+    "time": "2026-08-26 01:47:34",
+    "publish_time": "2026-08-26 01:47:34",
+    "raw_data": {
+      "code": "202608263853474159",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787680054074159",
+      "share": 0,
+      "showTime": "2026-08-26 01:47:34",
+      "stockList": [],
+      "summary": "Pucobre与智利国家铜业公司Codelco围绕8.7亿美元智利铜项目组建合资公司Minera Puntilla。",
+      "title": "Pucobre与智利国家铜业公司围绕8.7亿美元智利铜项目组建合资公司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608263853474159.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "铜"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "d229895e5725510a",
+    "code": "202608263853474089",
+    "title": "美国芝商所宣布美国锌期货完成首笔成交",
+    "summary": "美国芝商所宣布美国锌期货完成首笔成交。",
+    "content": "美国芝商所宣布美国锌期货完成首笔成交。",
+    "full_content": "美国芝商所宣布美国锌期货完成首笔成交。",
+    "sort_time": "1787679602074089",
+    "showTime": "2026-08-26 01:40:02",
+    "time": "2026-08-26 01:40:02",
+    "publish_time": "2026-08-26 01:40:02",
+    "raw_data": {
+      "code": "202608263853474089",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1787679602074089",
+      "share": 0,
+      "showTime": "2026-08-26 01:40:02",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "美国芝商所宣布美国锌期货完成首笔成交。",
+      "title": "美国芝商所宣布美国锌期货完成首笔成交",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202608263853474089.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "锌"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
     "id": "e725468b61a93a82",
     "code": "202608263853472133",
     "title": "港股IPO“科技”含量足 各路资金“抢筹”基石投资",
@@ -13,9 +111,9 @@
     "raw_data": {
       "code": "202608263853472133",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1787679498072133",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-08-26 01:38:18",
       "stockList": [
         "90.BK0697",
@@ -35,8 +133,8 @@
       "150.562500"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "comment_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -285,7 +383,7 @@
     "raw_data": {
       "code": "202608263853469023",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 5,
       "realSort": "1787677443069023",
       "share": 0,
       "showTime": "2026-08-26 01:04:03",
@@ -307,7 +405,7 @@
       "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 5,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -489,7 +587,7 @@
     "raw_data": {
       "code": "202608263853460115",
       "image": [],
-      "pinglun_Num": 11,
+      "pinglun_Num": 12,
       "realSort": "1787675216060115",
       "share": 2,
       "showTime": "2026-08-26 00:26:56",
@@ -505,7 +603,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 11,
+    "comment_count": 12,
     "share_count": 2,
     "tags": {
       "industries": [],
@@ -720,7 +818,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1787673524055074",
-      "share": 2,
+      "share": 4,
       "showTime": "2026-08-25 23:58:44",
       "stockList": [],
       "summary": "【伊朗与阿曼拟建立霍尔木兹海峡安全海上通道】当地时间25日，伊朗与阿曼发表联合声明，拟在霍尔木兹海峡建立一条双方共同商定的安全海上通道。",
@@ -735,7 +833,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 2,
+    "share_count": 4,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -757,7 +855,7 @@
     "raw_data": {
       "code": "202608253853450915",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 3,
       "realSort": "1787673451050915",
       "share": 0,
       "showTime": "2026-08-25 23:57:31",
@@ -773,7 +871,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -2070,9 +2168,9 @@
     "raw_data": {
       "code": "202608253853407744",
       "image": [],
-      "pinglun_Num": 192,
+      "pinglun_Num": 197,
       "realSort": "1787670114007744",
-      "share": 174,
+      "share": 178,
       "showTime": "2026-08-25 23:01:54",
       "stockList": [
         "150.012341",
@@ -2092,8 +2190,8 @@
       "150.012462"
     ],
     "has_stock_mention": true,
-    "comment_count": 192,
-    "share_count": 174,
+    "comment_count": 197,
+    "share_count": 178,
     "tags": {
       "industries": [],
       "concepts": [
@@ -2196,7 +2294,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1787669639003440",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-08-25 22:53:59",
       "stockList": [
         "1.603396"
@@ -2215,7 +2313,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 1,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [
         {
@@ -2237,114 +2335,6 @@
         "I010101"
       ],
       "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "cd306134c82f27c0",
-    "code": "202608253853401982",
-    "title": "特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”",
-    "summary": "【特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”】美国总统特朗普25日在社交媒体上发文称，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆，美方对伊朗布设水雷行为实行“零容忍”政策，任何船只若布设新水雷，将立即被摧毁。",
-    "content": "【特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”】美国总统特朗普25日在社交媒体上发文称，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆，美方对伊朗布设水雷行为实行“零容忍”政策，任何船只若布设新水雷，将立即被摧毁。",
-    "full_content": "【特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”】美国总统特朗普25日在社交媒体上发文称，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆，美方对伊朗布设水雷行为实行“零容忍”政策，任何船只若布设新水雷，将立即被摧毁。",
-    "sort_time": "1787669600001982",
-    "showTime": "2026-08-25 22:53:20",
-    "time": "2026-08-25 22:53:20",
-    "publish_time": "2026-08-25 22:53:20",
-    "raw_data": {
-      "code": "202608253853401982",
-      "image": [],
-      "pinglun_Num": 28,
-      "realSort": "1787669600001982",
-      "share": 6,
-      "showTime": "2026-08-25 22:53:20",
-      "stockList": [],
-      "summary": "【特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”】美国总统特朗普25日在社交媒体上发文称，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆，美方对伊朗布设水雷行为实行“零容忍”政策，任何船只若布设新水雷，将立即被摧毁。",
-      "title": "特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608253853401982.html",
-    "category": "政策",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 28,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5cf609a5992dcf76",
-    "code": "202608253853399192",
-    "title": "OpenAI：计划于2026年底前在计算基础设施中部署与博通共同开发的Jalapeno芯片",
-    "summary": "OpenAI表示，计划最迟于2026年底开始在计算基础设施中部署与博通共同开发的Jalapeno芯片。",
-    "content": "OpenAI表示，计划最迟于2026年底开始在计算基础设施中部署与博通共同开发的Jalapeno芯片。",
-    "full_content": "OpenAI表示，计划最迟于2026年底开始在计算基础设施中部署与博通共同开发的Jalapeno芯片。",
-    "sort_time": "1787669350099192",
-    "showTime": "2026-08-25 22:49:10",
-    "time": "2026-08-25 22:49:10",
-    "publish_time": "2026-08-25 22:49:10",
-    "raw_data": {
-      "code": "202608253853399192",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1787669350099192",
-      "share": 0,
-      "showTime": "2026-08-25 22:49:10",
-      "stockList": [
-        "0.159813",
-        "150.159813"
-      ],
-      "summary": "OpenAI表示，计划最迟于2026年底开始在计算基础设施中部署与博通共同开发的Jalapeno芯片。",
-      "title": "OpenAI：计划于2026年底前在计算基础设施中部署与博通共同开发的Jalapeno芯片",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202608253853399192.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159813",
-      "150.159813"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C001",
         "C002"
       ]
     }
