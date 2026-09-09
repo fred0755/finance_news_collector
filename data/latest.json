@@ -1,5 +1,749 @@
 [
   {
+    "id": "0528be1e73a8f264",
+    "code": "202609103869712428",
+    "title": "周四你需要知道的隔夜全球要闻",
+    "summary": "周四你需要知道的隔夜全球要闻：特朗普称伊朗战争将在中期选举后结束；iPhone Duo国行版起售价15,999元；国际原油大涨。",
+    "content": "周四你需要知道的隔夜全球要闻：特朗普称伊朗战争将在中期选举后结束；iPhone Duo国行版起售价15,999元；国际原油大涨。",
+    "full_content": "周四你需要知道的隔夜全球要闻：特朗普称伊朗战争将在中期选举后结束；iPhone Duo国行版起售价15,999元；国际原油大涨。",
+    "sort_time": "1788991201012428",
+    "showTime": "2026-09-10 06:00:01",
+    "time": "2026-09-10 06:00:01",
+    "publish_time": "2026-09-10 06:00:01",
+    "raw_data": {
+      "code": "202609103869712428",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1788991201012428",
+      "share": 1,
+      "showTime": "2026-09-10 06:00:01",
+      "stockList": [
+        "90.BK0732",
+        "90.BK0666"
+      ],
+      "summary": "周四你需要知道的隔夜全球要闻：特朗普称伊朗战争将在中期选举后结束；iPhone Duo国行版起售价15,999元；国际原油大涨。",
+      "title": "周四你需要知道的隔夜全球要闻",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869712428.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK0666"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "iPhone"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506",
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "092842fffa92cd81",
+    "code": "202609103869702946",
+    "title": "美国能源部长赖特表示：霍尔木兹原油日流量略低于1100万桶",
+    "summary": "美国能源部长赖特表示，霍尔木兹海峡原油日流量略低于1100万桶；另有每天300万至500万桶原油通过管道输送。",
+    "content": "美国能源部长赖特表示，霍尔木兹海峡原油日流量略低于1100万桶；另有每天300万至500万桶原油通过管道输送。",
+    "full_content": "美国能源部长赖特表示，霍尔木兹海峡原油日流量略低于1100万桶；另有每天300万至500万桶原油通过管道输送。",
+    "sort_time": "1788990033002946",
+    "showTime": "2026-09-10 05:40:33",
+    "time": "2026-09-10 05:40:33",
+    "publish_time": "2026-09-10 05:40:33",
+    "raw_data": {
+      "code": "202609103869702946",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1788990033002946",
+      "share": 0,
+      "showTime": "2026-09-10 05:40:33",
+      "stockList": [],
+      "summary": "美国能源部长赖特表示，霍尔木兹海峡原油日流量略低于1100万桶；另有每天300万至500万桶原油通过管道输送。",
+      "title": "美国能源部长赖特表示：霍尔木兹原油日流量略低于1100万桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869702946.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "09830a86a775f0cd",
+    "code": "202609103869702827",
+    "title": "纽约尾盘 现货黄金涨1.02%",
+    "summary": "【纽约尾盘 现货黄金涨1.02%】纽约尾盘，现货黄金涨1.02%，报4400.29美元/盎司。现货白银涨2.30%，报67.2718美元/盎司。",
+    "content": "【纽约尾盘 现货黄金涨1.02%】纽约尾盘，现货黄金涨1.02%，报4400.29美元/盎司。现货白银涨2.30%，报67.2718美元/盎司。",
+    "full_content": "【纽约尾盘 现货黄金涨1.02%】纽约尾盘，现货黄金涨1.02%，报4400.29美元/盎司。现货白银涨2.30%，报67.2718美元/盎司。",
+    "sort_time": "1788989768002827",
+    "showTime": "2026-09-10 05:36:08",
+    "time": "2026-09-10 05:36:08",
+    "publish_time": "2026-09-10 05:36:08",
+    "raw_data": {
+      "code": "202609103869702827",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1788989768002827",
+      "share": 1,
+      "showTime": "2026-09-10 05:36:08",
+      "stockList": [
+        "90.BK0732",
+        "90.BK1617"
+      ],
+      "summary": "【纽约尾盘 现货黄金涨1.02%】纽约尾盘，现货黄金涨1.02%，报4400.29美元/盎司。现货白银涨2.30%，报67.2718美元/盎司。",
+      "title": "纽约尾盘 现货黄金涨1.02%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869702827.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0732",
+      "90.BK1617"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "398db70abad24070",
+    "code": "202609103869702319",
+    "title": "伊朗方面称格什姆岛传出爆炸声",
+    "summary": "【伊朗方面称格什姆岛传出爆炸声】伊朗方面当天凌晨称，该国格什姆岛传出巨大爆炸声。目前尚不清楚爆炸声是来自海上，还是岛内发生了爆炸事件。当地有关部门尚未就此事发表正式声明。",
+    "content": "【伊朗方面称格什姆岛传出爆炸声】伊朗方面当天凌晨称，该国格什姆岛传出巨大爆炸声。目前尚不清楚爆炸声是来自海上，还是岛内发生了爆炸事件。当地有关部门尚未就此事发表正式声明。",
+    "full_content": "【伊朗方面称格什姆岛传出爆炸声】伊朗方面当天凌晨称，该国格什姆岛传出巨大爆炸声。目前尚不清楚爆炸声是来自海上，还是岛内发生了爆炸事件。当地有关部门尚未就此事发表正式声明。",
+    "sort_time": "1788989466002319",
+    "showTime": "2026-09-10 05:31:06",
+    "time": "2026-09-10 05:31:06",
+    "publish_time": "2026-09-10 05:31:06",
+    "raw_data": {
+      "code": "202609103869702319",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1788989466002319",
+      "share": 2,
+      "showTime": "2026-09-10 05:31:06",
+      "stockList": [],
+      "summary": "【伊朗方面称格什姆岛传出爆炸声】伊朗方面当天凌晨称，该国格什姆岛传出巨大爆炸声。目前尚不清楚爆炸声是来自海上，还是岛内发生了爆炸事件。当地有关部门尚未就此事发表正式声明。",
+      "title": "伊朗方面称格什姆岛传出爆炸声",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869702319.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "db626c1f3cb1d2ea",
+    "code": "202609103869699683",
+    "title": "特朗普专机应急滑梯因误操作弹出",
+    "summary": "【特朗普专机应急滑梯因误操作弹出】当地时间9月9日下午，美国总统特朗普从白宫乘坐“海军陆战队一号”直升机前往位于马里兰州的安德鲁斯联合基地，准备搭乘“空军一号”专机前往达拉斯出席共和党中期选举集会。不过在他抵达时，“空军一号”的应急滑梯却处于弹出的状态。特朗普着陆后在直升机上等候了约20分钟，随后才在停机坪上向记者发表讲话。",
+    "content": "【特朗普专机应急滑梯因误操作弹出】当地时间9月9日下午，美国总统特朗普从白宫乘坐“海军陆战队一号”直升机前往位于马里兰州的安德鲁斯联合基地，准备搭乘“空军一号”专机前往达拉斯出席共和党中期选举集会。不过在他抵达时，“空军一号”的应急滑梯却处于弹出的状态。特朗普着陆后在直升机上等候了约20分钟，随后才在停机坪上向记者发表讲话。",
+    "full_content": "【特朗普专机应急滑梯因误操作弹出】当地时间9月9日下午，美国总统特朗普从白宫乘坐“海军陆战队一号”直升机前往位于马里兰州的安德鲁斯联合基地，准备搭乘“空军一号”专机前往达拉斯出席共和党中期选举集会。不过在他抵达时，“空军一号”的应急滑梯却处于弹出的状态。特朗普着陆后在直升机上等候了约20分钟，随后才在停机坪上向记者发表讲话。",
+    "sort_time": "1788988833099683",
+    "showTime": "2026-09-10 05:20:33",
+    "time": "2026-09-10 05:20:33",
+    "publish_time": "2026-09-10 05:20:33",
+    "raw_data": {
+      "code": "202609103869699683",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1788988833099683",
+      "share": 0,
+      "showTime": "2026-09-10 05:20:33",
+      "stockList": [],
+      "summary": "【特朗普专机应急滑梯因误操作弹出】当地时间9月9日下午，美国总统特朗普从白宫乘坐“海军陆战队一号”直升机前往位于马里兰州的安德鲁斯联合基地，准备搭乘“空军一号”专机前往达拉斯出席共和党中期选举集会。不过在他抵达时，“空军一号”的应急滑梯却处于弹出的状态。特朗普着陆后在直升机上等候了约20分钟，随后才在停机坪上向记者发表讲话。",
+      "title": "特朗普专机应急滑梯因误操作弹出",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869699683.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7126a2225f20eb76",
+    "code": "202609103869697898",
+    "title": "美国交通部成立新的太空工作组",
+    "summary": "美国交通部成立新的太空工作组。",
+    "content": "美国交通部成立新的太空工作组。",
+    "full_content": "美国交通部成立新的太空工作组。",
+    "sort_time": "1788988165097898",
+    "showTime": "2026-09-10 05:09:25",
+    "time": "2026-09-10 05:09:25",
+    "publish_time": "2026-09-10 05:09:25",
+    "raw_data": {
+      "code": "202609103869697898",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1788988165097898",
+      "share": 0,
+      "showTime": "2026-09-10 05:09:25",
+      "stockList": [],
+      "summary": "美国交通部成立新的太空工作组。",
+      "title": "美国交通部成立新的太空工作组",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869697898.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7bfbeb51eb8f4673",
+    "code": "202609103869697390",
+    "title": "OpenAI切断Adobe及其他合作方在图片产品内投放广告的权限",
+    "summary": "OpenAI切断Adobe及其他合作方在图片产品内投放广告的权限。",
+    "content": "OpenAI切断Adobe及其他合作方在图片产品内投放广告的权限。",
+    "full_content": "OpenAI切断Adobe及其他合作方在图片产品内投放广告的权限。",
+    "sort_time": "1788987774097390",
+    "showTime": "2026-09-10 05:02:54",
+    "time": "2026-09-10 05:02:54",
+    "publish_time": "2026-09-10 05:02:54",
+    "raw_data": {
+      "code": "202609103869697390",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1788987774097390",
+      "share": 0,
+      "showTime": "2026-09-10 05:02:54",
+      "stockList": [],
+      "summary": "OpenAI切断Adobe及其他合作方在图片产品内投放广告的权限。",
+      "title": "OpenAI切断Adobe及其他合作方在图片产品内投放广告的权限",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869697390.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "149e64de78dcb37a",
+    "code": "202609103869696576",
+    "title": "美国石油协会数据显示：上周美国API原油库存减少30万桶 之前一周减少260万桶",
+    "summary": "美国石油协会（API）数据显示，上周，美国API原油库存减少30万桶，之前一周减少260万桶。",
+    "content": "美国石油协会（API）数据显示，上周，美国API原油库存减少30万桶，之前一周减少260万桶。",
+    "full_content": "美国石油协会（API）数据显示，上周，美国API原油库存减少30万桶，之前一周减少260万桶。",
+    "sort_time": "1788986920096576",
+    "showTime": "2026-09-10 04:48:40",
+    "time": "2026-09-10 04:48:40",
+    "publish_time": "2026-09-10 04:48:40",
+    "raw_data": {
+      "code": "202609103869696576",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1788986920096576",
+      "share": 1,
+      "showTime": "2026-09-10 04:48:40",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "美国石油协会（API）数据显示，上周，美国API原油库存减少30万桶，之前一周减少260万桶。",
+      "title": "美国石油协会数据显示：上周美国API原油库存减少30万桶 之前一周减少260万桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869696576.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "99201879e960f24f",
+    "code": "202609103869694843",
+    "title": "摩根大通给予SK海力士超配评级 目标价245美元",
+    "summary": "摩根大通给予SK海力士超配评级，目标价245美元。",
+    "content": "摩根大通给予SK海力士超配评级，目标价245美元。",
+    "full_content": "摩根大通给予SK海力士超配评级，目标价245美元。",
+    "sort_time": "1788986445094843",
+    "showTime": "2026-09-10 04:40:45",
+    "time": "2026-09-10 04:40:45",
+    "publish_time": "2026-09-10 04:40:45",
+    "raw_data": {
+      "code": "202609103869694843",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1788986445094843",
+      "share": 4,
+      "showTime": "2026-09-10 04:40:45",
+      "stockList": [
+        "105.SKHY"
+      ],
+      "summary": "摩根大通给予SK海力士超配评级，目标价245美元。",
+      "title": "摩根大通给予SK海力士超配评级 目标价245美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869694843.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SKHY"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "778653a0bcc92494",
+    "code": "202609103869694695",
+    "title": "中方强调政治外交是伊核问题出路",
+    "summary": "【中方强调政治外交是伊核问题出路】9月9日，国际原子能机构（IAEA）理事会审议伊朗核问题。中国常驻国际原子能机构代表李松大使发言阐述中方立场。李松指出，去年6月以来，美国、以色列两次军事打击伊朗接受国际原子能机构保障监督的和平核设施，对伊朗与机构之间的保障监督合作造成严重障碍，对《不扩散核武器条约》机制构成严重打击，是导致伊朗与机构合作至今无法回归正轨的根本原因。",
+    "content": "【中方强调政治外交是伊核问题出路】9月9日，国际原子能机构（IAEA）理事会审议伊朗核问题。中国常驻国际原子能机构代表李松大使发言阐述中方立场。李松指出，去年6月以来，美国、以色列两次军事打击伊朗接受国际原子能机构保障监督的和平核设施，对伊朗与机构之间的保障监督合作造成严重障碍，对《不扩散核武器条约》机制构成严重打击，是导致伊朗与机构合作至今无法回归正轨的根本原因。",
+    "full_content": "【中方强调政治外交是伊核问题出路】9月9日，国际原子能机构（IAEA）理事会审议伊朗核问题。中国常驻国际原子能机构代表李松大使发言阐述中方立场。李松指出，去年6月以来，美国、以色列两次军事打击伊朗接受国际原子能机构保障监督的和平核设施，对伊朗与机构之间的保障监督合作造成严重障碍，对《不扩散核武器条约》机制构成严重打击，是导致伊朗与机构合作至今无法回归正轨的根本原因。",
+    "sort_time": "1788986348094695",
+    "showTime": "2026-09-10 04:39:08",
+    "time": "2026-09-10 04:39:08",
+    "publish_time": "2026-09-10 04:39:08",
+    "raw_data": {
+      "code": "202609103869694695",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1788986348094695",
+      "share": 0,
+      "showTime": "2026-09-10 04:39:08",
+      "stockList": [],
+      "summary": "【中方强调政治外交是伊核问题出路】9月9日，国际原子能机构（IAEA）理事会审议伊朗核问题。中国常驻国际原子能机构代表李松大使发言阐述中方立场。李松指出，去年6月以来，美国、以色列两次军事打击伊朗接受国际原子能机构保障监督的和平核设施，对伊朗与机构之间的保障监督合作造成严重障碍，对《不扩散核武器条约》机制构成严重打击，是导致伊朗与机构合作至今无法回归正轨的根本原因。",
+      "title": "中方强调政治外交是伊核问题出路",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869694695.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "62e5eed891a4f2a4",
+    "code": "202609103869694216",
+    "title": "美国能源部长赖特表示：当前炼油行业面临的问题比原油本身更为严峻",
+    "summary": "美国能源部长赖特表示，当前炼油行业面临的问题比原油本身更为严峻。",
+    "content": "美国能源部长赖特表示，当前炼油行业面临的问题比原油本身更为严峻。",
+    "full_content": "美国能源部长赖特表示，当前炼油行业面临的问题比原油本身更为严峻。",
+    "sort_time": "1788985708094216",
+    "showTime": "2026-09-10 04:28:28",
+    "time": "2026-09-10 04:28:28",
+    "publish_time": "2026-09-10 04:28:28",
+    "raw_data": {
+      "code": "202609103869694216",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1788985708094216",
+      "share": 0,
+      "showTime": "2026-09-10 04:28:28",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "美国能源部长赖特表示，当前炼油行业面临的问题比原油本身更为严峻。",
+      "title": "美国能源部长赖特表示：当前炼油行业面临的问题比原油本身更为严峻",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869694216.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "4d784aa885176ee1",
+    "code": "202609103869693979",
+    "title": "加拿大能源运输龙头Enbridge将以25.5亿美元现金收购能源服务商Tallgrass的原油业务",
+    "summary": "加拿大能源运输龙头Enbridge将以25.5亿美元现金收购能源服务商Tallgrass的原油业务。",
+    "content": "加拿大能源运输龙头Enbridge将以25.5亿美元现金收购能源服务商Tallgrass的原油业务。",
+    "full_content": "加拿大能源运输龙头Enbridge将以25.5亿美元现金收购能源服务商Tallgrass的原油业务。",
+    "sort_time": "1788985257093979",
+    "showTime": "2026-09-10 04:20:57",
+    "time": "2026-09-10 04:20:57",
+    "publish_time": "2026-09-10 04:20:57",
+    "raw_data": {
+      "code": "202609103869693979",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1788985257093979",
+      "share": 0,
+      "showTime": "2026-09-10 04:20:57",
+      "stockList": [
+        "150.014238",
+        "150.159945"
+      ],
+      "summary": "加拿大能源运输龙头Enbridge将以25.5亿美元现金收购能源服务商Tallgrass的原油业务。",
+      "title": "加拿大能源运输龙头Enbridge将以25.5亿美元现金收购能源服务商Tallgrass的原油业务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869693979.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.014238",
+      "150.159945"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "7c7606802447d97f",
+    "code": "202609103869693297",
+    "title": "美国国会预算办公室估计8月预算赤字1680亿美元",
+    "summary": "美国国会预算办公室估计8月预算赤字1680亿美元。",
+    "content": "美国国会预算办公室估计8月预算赤字1680亿美元。",
+    "full_content": "美国国会预算办公室估计8月预算赤字1680亿美元。",
+    "sort_time": "1788984990093297",
+    "showTime": "2026-09-10 04:16:30",
+    "time": "2026-09-10 04:16:30",
+    "publish_time": "2026-09-10 04:16:30",
+    "raw_data": {
+      "code": "202609103869693297",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1788984990093297",
+      "share": 0,
+      "showTime": "2026-09-10 04:16:30",
+      "stockList": [],
+      "summary": "美国国会预算办公室估计8月预算赤字1680亿美元。",
+      "title": "美国国会预算办公室估计8月预算赤字1680亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869693297.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7ae5447bc35f66d2",
+    "code": "202609103869692617",
+    "title": "摩托罗拉表示：董事会批准将股票回购计划规模扩大20亿美元",
+    "summary": "摩托罗拉表示，董事会批准将股票回购计划规模扩大20亿美元。",
+    "content": "摩托罗拉表示，董事会批准将股票回购计划规模扩大20亿美元。",
+    "full_content": "摩托罗拉表示，董事会批准将股票回购计划规模扩大20亿美元。",
+    "sort_time": "1788984946092617",
+    "showTime": "2026-09-10 04:15:46",
+    "time": "2026-09-10 04:15:46",
+    "publish_time": "2026-09-10 04:15:46",
+    "raw_data": {
+      "code": "202609103869692617",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1788984946092617",
+      "share": 0,
+      "showTime": "2026-09-10 04:15:46",
+      "stockList": [
+        "106.MSI"
+      ],
+      "summary": "摩托罗拉表示，董事会批准将股票回购计划规模扩大20亿美元。",
+      "title": "摩托罗拉表示：董事会批准将股票回购计划规模扩大20亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869692617.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.MSI"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "34c464d782d57fd3",
+    "code": "202609103869691854",
+    "title": "纳斯达克中国金龙指数收跌2.09%",
+    "summary": "纳斯达克中国金龙指数收跌2.09%。爱奇艺跌超5%，理想汽车跌超4%，网易跌近3%，小鹏集团跌超3%，阿里巴巴、蔚来跌超2%。",
+    "content": "纳斯达克中国金龙指数收跌2.09%。爱奇艺跌超5%，理想汽车跌超4%，网易跌近3%，小鹏集团跌超3%，阿里巴巴、蔚来跌超2%。",
+    "full_content": "纳斯达克中国金龙指数收跌2.09%。爱奇艺跌超5%，理想汽车跌超4%，网易跌近3%，小鹏集团跌超3%，阿里巴巴、蔚来跌超2%。",
+    "sort_time": "1788984211091854",
+    "showTime": "2026-09-10 04:03:31",
+    "time": "2026-09-10 04:03:31",
+    "publish_time": "2026-09-10 04:03:31",
+    "raw_data": {
+      "code": "202609103869691854",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1788984211091854",
+      "share": 2,
+      "showTime": "2026-09-10 04:03:31",
+      "stockList": [],
+      "summary": "纳斯达克中国金龙指数收跌2.09%。爱奇艺跌超5%，理想汽车跌超4%，网易跌近3%，小鹏集团跌超3%，阿里巴巴、蔚来跌超2%。",
+      "title": "纳斯达克中国金龙指数收跌2.09%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869691854.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0791818722150db9",
+    "code": "202609103869691497",
+    "title": "美股三大指数集体收跌 存储、光通信板块逆市上涨",
+    "summary": "【美股三大指数集体收跌 存储、光通信板块逆市上涨】美股三大指数集体收跌，道指跌0.77%，纳指跌0.64%，标普500指数跌0.48%。存储板块走高，SK海力士涨超7%，美光科技涨超2%，闪迪涨超1%。光通信板块上涨，迈威尔科技涨超4%，Lumentum涨超1%。Meta涨超6%，此前公司推出个人AI智能体Muse。",
+    "content": "【美股三大指数集体收跌 存储、光通信板块逆市上涨】美股三大指数集体收跌，道指跌0.77%，纳指跌0.64%，标普500指数跌0.48%。存储板块走高，SK海力士涨超7%，美光科技涨超2%，闪迪涨超1%。光通信板块上涨，迈威尔科技涨超4%，Lumentum涨超1%。Meta涨超6%，此前公司推出个人AI智能体Muse。",
+    "full_content": "【美股三大指数集体收跌 存储、光通信板块逆市上涨】美股三大指数集体收跌，道指跌0.77%，纳指跌0.64%，标普500指数跌0.48%。存储板块走高，SK海力士涨超7%，美光科技涨超2%，闪迪涨超1%。光通信板块上涨，迈威尔科技涨超4%，Lumentum涨超1%。Meta涨超6%，此前公司推出个人AI智能体Muse。",
+    "sort_time": "1788984040091497",
+    "showTime": "2026-09-10 04:00:40",
+    "time": "2026-09-10 04:00:40",
+    "publish_time": "2026-09-10 04:00:40",
+    "raw_data": {
+      "code": "202609103869691497",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1788984040091497",
+      "share": 6,
+      "showTime": "2026-09-10 04:00:40",
+      "stockList": [],
+      "summary": "【美股三大指数集体收跌 存储、光通信板块逆市上涨】美股三大指数集体收跌，道指跌0.77%，纳指跌0.64%，标普500指数跌0.48%。存储板块走高，SK海力士涨超7%，美光科技涨超2%，闪迪涨超1%。光通信板块上涨，迈威尔科技涨超4%，Lumentum涨超1%。Meta涨超6%，此前公司推出个人AI智能体Muse。",
+      "title": "美股三大指数集体收跌 存储、光通信板块逆市上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869691497.html",
+    "category": "行业",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 6,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C004"
+      ]
+    }
+  },
+  {
     "id": "00f44db8853664a8",
     "code": "202609103869689846",
     "title": "特朗普称伊朗战争中期选举后结束",
@@ -13,9 +757,9 @@
     "raw_data": {
       "code": "202609103869689846",
       "image": [],
-      "pinglun_Num": 3,
+      "pinglun_Num": 23,
       "realSort": "1788982939089846",
-      "share": 3,
+      "share": 10,
       "showTime": "2026-09-10 03:42:19",
       "stockList": [
         "90.BK0464"
@@ -33,8 +777,8 @@
       "90.BK0464"
     ],
     "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 3,
+    "comment_count": 23,
+    "share_count": 10,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -157,6 +901,59 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
+    }
+  },
+  {
+    "id": "14597405452780da",
+    "code": "202609103869686114",
+    "title": "Meta正式入局个人AI代理赛道 Muse可替用户购物、预约、填表",
+    "summary": "【Meta正式入局个人AI代理赛道 Muse可替用户购物、预约、填表】MetaPlatforms推出了一款全新的人工智能代理，旨在帮助用户执行各种任务，进一步推进扎克伯格对于未来的构想——每个人都将拥有一个高度个性化的AI助手。",
+    "content": "【Meta正式入局个人AI代理赛道 Muse可替用户购物、预约、填表】MetaPlatforms推出了一款全新的人工智能代理，旨在帮助用户执行各种任务，进一步推进扎克伯格对于未来的构想——每个人都将拥有一个高度个性化的AI助手。",
+    "full_content": "【Meta正式入局个人AI代理赛道 Muse可替用户购物、预约、填表】MetaPlatforms推出了一款全新的人工智能代理，旨在帮助用户执行各种任务，进一步推进扎克伯格对于未来的构想——每个人都将拥有一个高度个性化的AI助手。",
+    "sort_time": "1788981444086114",
+    "showTime": "2026-09-10 03:17:24",
+    "time": "2026-09-10 03:17:24",
+    "publish_time": "2026-09-10 03:17:24",
+    "raw_data": {
+      "code": "202609103869686114",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1788981444086114",
+      "share": 13,
+      "showTime": "2026-09-10 03:17:24",
+      "stockList": [
+        "90.BK0800",
+        "150.012322"
+      ],
+      "summary": "【Meta正式入局个人AI代理赛道 Muse可替用户购物、预约、填表】MetaPlatforms推出了一款全新的人工智能代理，旨在帮助用户执行各种任务，进一步推进扎克伯格对于未来的构想——每个人都将拥有一个高度个性化的AI助手。",
+      "title": "Meta正式入局个人AI代理赛道 Muse可替用户购物、预约、填表",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609103869686114.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "150.012322"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 13,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
     }
   },
   {
@@ -314,9 +1111,9 @@
     "raw_data": {
       "code": "202609103869684971",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 7,
       "realSort": "1788980425084971",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-09-10 03:00:25",
       "stockList": [
         "90.BK0666",
@@ -336,8 +1133,8 @@
       "150.159813"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 2,
+    "comment_count": 7,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -453,7 +1250,7 @@
     "raw_data": {
       "code": "202609103869682712",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1788979636082712",
       "share": 0,
       "showTime": "2026-09-10 02:47:16",
@@ -469,7 +1266,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 2,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -500,7 +1297,7 @@
     "raw_data": {
       "code": "202609103869677578",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 4,
       "realSort": "1788979525077578",
       "share": 1,
       "showTime": "2026-09-10 02:45:25",
@@ -522,7 +1319,7 @@
       "90.BK0473"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 4,
     "share_count": 1,
     "tags": {
       "industries": [
@@ -563,9 +1360,9 @@
     "raw_data": {
       "code": "202609103869680451",
       "image": [],
-      "pinglun_Num": 17,
+      "pinglun_Num": 24,
       "realSort": "1788979008080451",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-09-10 02:36:48",
       "stockList": [],
       "summary": "美国总统特朗普表示，中期选举一结束，伊朗战事将立即终结。",
@@ -579,8 +1376,8 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 17,
-    "share_count": 2,
+    "comment_count": 24,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -700,9 +1497,9 @@
     "raw_data": {
       "code": "202609103869680048",
       "image": [],
-      "pinglun_Num": 113,
+      "pinglun_Num": 189,
       "realSort": "1788978273080048",
-      "share": 92,
+      "share": 124,
       "showTime": "2026-09-10 02:24:33",
       "stockList": [
         "90.BK0666",
@@ -722,8 +1519,8 @@
       "105.AAPL"
     ],
     "has_stock_mention": true,
-    "comment_count": 113,
-    "share_count": 92,
+    "comment_count": 189,
+    "share_count": 124,
     "tags": {
       "industries": [],
       "concepts": [
@@ -753,7 +1550,7 @@
     "raw_data": {
       "code": "202609103869679877",
       "image": [],
-      "pinglun_Num": 27,
+      "pinglun_Num": 33,
       "realSort": "1788977845079877",
       "share": 4,
       "showTime": "2026-09-10 02:17:25",
@@ -775,7 +1572,7 @@
       "105.AAPL"
     ],
     "has_stock_mention": true,
-    "comment_count": 27,
+    "comment_count": 33,
     "share_count": 4,
     "tags": {
       "industries": [],
@@ -881,9 +1678,9 @@
     "raw_data": {
       "code": "202609103869679553",
       "image": [],
-      "pinglun_Num": 1,
+      "pinglun_Num": 2,
       "realSort": "1788977139079553",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-09-10 02:05:39",
       "stockList": [
         "90.BK0666",
@@ -903,8 +1700,8 @@
       "105.AAPL"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
+    "comment_count": 2,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1001,9 +1798,9 @@
     "raw_data": {
       "code": "202609103869677673",
       "image": [],
-      "pinglun_Num": 58,
+      "pinglun_Num": 78,
       "realSort": "1788976559077673",
-      "share": 79,
+      "share": 83,
       "showTime": "2026-09-10 01:55:59",
       "stockList": [
         "90.BK0666",
@@ -1023,8 +1820,8 @@
       "105.AAPL"
     ],
     "has_stock_mention": true,
-    "comment_count": 58,
-    "share_count": 79,
+    "comment_count": 78,
+    "share_count": 83,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1054,9 +1851,9 @@
     "raw_data": {
       "code": "202609103869678087",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1788976204078087",
-      "share": 1,
+      "share": 3,
       "showTime": "2026-09-10 01:50:04",
       "stockList": [
         "150.012372",
@@ -1076,8 +1873,8 @@
       "1007.BK000174"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 1,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1109,7 +1906,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1788975701076532",
-      "share": 1,
+      "share": 2,
       "showTime": "2026-09-10 01:41:41",
       "stockList": [
         "105.AAPL"
@@ -1128,7 +1925,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1166,7 +1963,7 @@
       "image": [],
       "pinglun_Num": 2,
       "realSort": "1788975211073989",
-      "share": 2,
+      "share": 3,
       "showTime": "2026-09-10 01:33:31",
       "stockList": [
         "90.BK0666",
@@ -1187,7 +1984,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1217,9 +2014,9 @@
     "raw_data": {
       "code": "202609103869673872",
       "image": [],
-      "pinglun_Num": 154,
+      "pinglun_Num": 172,
       "realSort": "1788975147073872",
-      "share": 114,
+      "share": 116,
       "showTime": "2026-09-10 01:32:27",
       "stockList": [
         "90.BK0666",
@@ -1239,8 +2036,8 @@
       "105.AAPL"
     ],
     "has_stock_mention": true,
-    "comment_count": 154,
-    "share_count": 114,
+    "comment_count": 172,
+    "share_count": 116,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1321,7 +2118,7 @@
     "raw_data": {
       "code": "202609103869672527",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1788974411072527",
       "share": 5,
       "showTime": "2026-09-10 01:20:11",
@@ -1341,7 +2138,7 @@
       "90.BK1675"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 5,
     "tags": {
       "industries": [],
@@ -1411,7 +2208,7 @@
     "raw_data": {
       "code": "202609103869671716",
       "image": [],
-      "pinglun_Num": 14,
+      "pinglun_Num": 17,
       "realSort": "1788974191071716",
       "share": 5,
       "showTime": "2026-09-10 01:16:31",
@@ -1433,7 +2230,7 @@
       "150.159813"
     ],
     "has_stock_mention": true,
-    "comment_count": 14,
+    "comment_count": 17,
     "share_count": 5,
     "tags": {
       "industries": [
@@ -1486,7 +2283,7 @@
     "raw_data": {
       "code": "202609103869671259",
       "image": [],
-      "pinglun_Num": 2,
+      "pinglun_Num": 5,
       "realSort": "1788973841071259",
       "share": 2,
       "showTime": "2026-09-10 01:10:41",
@@ -1508,7 +2305,7 @@
       "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 2,
+    "comment_count": 5,
     "share_count": 2,
     "tags": {
       "industries": [
@@ -1608,7 +2405,7 @@
       "image": [],
       "pinglun_Num": 1,
       "realSort": "1788973267070270",
-      "share": 0,
+      "share": 2,
       "showTime": "2026-09-10 01:01:07",
       "stockList": [],
       "summary": "【夜盘期货收盘】国际铜夜盘收涨0.81%，沪铜收涨0.71%，沪铝收涨0.37%，沪锌收涨1.22%，沪铅收跌0.34%，沪镍收涨1.04%，沪锡收涨1.53%。氧化铝夜盘收跌0.72%，铝合金收涨0.36%。不锈钢夜盘收涨0.44%。",
@@ -1623,7 +2420,7 @@
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
-    "share_count": 0,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1686,829 +2483,6 @@
       "concepts": [],
       "industry_ids": [],
       "concept_ids": []
-    }
-  },
-  {
-    "id": "af83a5e9e8fc394d",
-    "code": "202609103869668663",
-    "title": "菲律宾巴拉望省近海一客轮起火",
-    "summary": "【菲律宾巴拉望省近海一客轮起火】据当地海警消息，当地时间9月9日，菲律宾巴拉望省附近海域一艘载有上百人的客轮起火，截至当天21时有28人获救。消息说，事故发生在距该省科伦镇约1.2海里的海域，事发时船上据信载有117名乘客和17名船员。海警于18时45分获悉险情后启动搜救和应急处置。救援工作仍在进行中。",
-    "content": "【菲律宾巴拉望省近海一客轮起火】据当地海警消息，当地时间9月9日，菲律宾巴拉望省附近海域一艘载有上百人的客轮起火，截至当天21时有28人获救。消息说，事故发生在距该省科伦镇约1.2海里的海域，事发时船上据信载有117名乘客和17名船员。海警于18时45分获悉险情后启动搜救和应急处置。救援工作仍在进行中。",
-    "full_content": "【菲律宾巴拉望省近海一客轮起火】据当地海警消息，当地时间9月9日，菲律宾巴拉望省附近海域一艘载有上百人的客轮起火，截至当天21时有28人获救。消息说，事故发生在距该省科伦镇约1.2海里的海域，事发时船上据信载有117名乘客和17名船员。海警于18时45分获悉险情后启动搜救和应急处置。救援工作仍在进行中。",
-    "sort_time": "1788972812068663",
-    "showTime": "2026-09-10 00:53:32",
-    "time": "2026-09-10 00:53:32",
-    "publish_time": "2026-09-10 00:53:32",
-    "raw_data": {
-      "code": "202609103869668663",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1788972812068663",
-      "share": 0,
-      "showTime": "2026-09-10 00:53:32",
-      "stockList": [],
-      "summary": "【菲律宾巴拉望省近海一客轮起火】据当地海警消息，当地时间9月9日，菲律宾巴拉望省附近海域一艘载有上百人的客轮起火，截至当天21时有28人获救。消息说，事故发生在距该省科伦镇约1.2海里的海域，事发时船上据信载有117名乘客和17名船员。海警于18时45分获悉险情后启动搜救和应急处置。救援工作仍在进行中。",
-      "title": "菲律宾巴拉望省近海一客轮起火",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869668663.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "21bc6e2403c98b2c",
-    "code": "202609103869669243",
-    "title": "LME期铜收涨59美元 报14768美元/吨",
-    "summary": "【LME期铜收涨59美元 报14768美元/吨】LME期铜收涨59美元，报14768美元/吨。LME期铝收涨16美元，报3357美元/吨。LME期锌收涨30美元，报4052美元/吨。LME期铅收平，报1914美元/吨。LME期镍收涨29美元，报16897美元/吨。LME期锡收涨356美元，报55218美元/吨。LME期钴收跌750美元，报42940美元/吨。",
-    "content": "【LME期铜收涨59美元 报14768美元/吨】LME期铜收涨59美元，报14768美元/吨。LME期铝收涨16美元，报3357美元/吨。LME期锌收涨30美元，报4052美元/吨。LME期铅收平，报1914美元/吨。LME期镍收涨29美元，报16897美元/吨。LME期锡收涨356美元，报55218美元/吨。LME期钴收跌750美元，报42940美元/吨。",
-    "full_content": "【LME期铜收涨59美元 报14768美元/吨】LME期铜收涨59美元，报14768美元/吨。LME期铝收涨16美元，报3357美元/吨。LME期锌收涨30美元，报4052美元/吨。LME期铅收平，报1914美元/吨。LME期镍收涨29美元，报16897美元/吨。LME期锡收涨356美元，报55218美元/吨。LME期钴收跌750美元，报42940美元/吨。",
-    "sort_time": "1788972793069243",
-    "showTime": "2026-09-10 00:53:13",
-    "time": "2026-09-10 00:53:13",
-    "publish_time": "2026-09-10 00:53:13",
-    "raw_data": {
-      "code": "202609103869669243",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1788972793069243",
-      "share": 0,
-      "showTime": "2026-09-10 00:53:13",
-      "stockList": [],
-      "summary": "【LME期铜收涨59美元 报14768美元/吨】LME期铜收涨59美元，报14768美元/吨。LME期铝收涨16美元，报3357美元/吨。LME期锌收涨30美元，报4052美元/吨。LME期铅收平，报1914美元/吨。LME期镍收涨29美元，报16897美元/吨。LME期锡收涨356美元，报55218美元/吨。LME期钴收跌750美元，报42940美元/吨。",
-      "title": "LME期铜收涨59美元 报14768美元/吨",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869669243.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C501",
-          "name": "有色金属",
-          "matched_keyword": "钴"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "248b18dfa6830c7a",
-    "code": "202609103869668425",
-    "title": "美伊互袭船只试探彼此“红线” 推高地区紧张态势",
-    "summary": "【美伊互袭船只试探彼此“红线” 推高地区紧张态势】美国和伊朗在霍尔木兹海峡的报复性打击持续升级。9月5日，美方称打击3艘伊朗油轮，伊朗称打击了3艘与美国有关的船只和3艘在霍尔木兹海峡未经授权航线通行的油轮，以作回应。8日和9日，美伊短短48小时内再次交手。",
-    "content": "【美伊互袭船只试探彼此“红线” 推高地区紧张态势】美国和伊朗在霍尔木兹海峡的报复性打击持续升级。9月5日，美方称打击3艘伊朗油轮，伊朗称打击了3艘与美国有关的船只和3艘在霍尔木兹海峡未经授权航线通行的油轮，以作回应。8日和9日，美伊短短48小时内再次交手。",
-    "full_content": "【美伊互袭船只试探彼此“红线” 推高地区紧张态势】美国和伊朗在霍尔木兹海峡的报复性打击持续升级。9月5日，美方称打击3艘伊朗油轮，伊朗称打击了3艘与美国有关的船只和3艘在霍尔木兹海峡未经授权航线通行的油轮，以作回应。8日和9日，美伊短短48小时内再次交手。",
-    "sort_time": "1788972211068425",
-    "showTime": "2026-09-10 00:43:31",
-    "time": "2026-09-10 00:43:31",
-    "publish_time": "2026-09-10 00:43:31",
-    "raw_data": {
-      "code": "202609103869668425",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1788972211068425",
-      "share": 3,
-      "showTime": "2026-09-10 00:43:31",
-      "stockList": [],
-      "summary": "【美伊互袭船只试探彼此“红线” 推高地区紧张态势】美国和伊朗在霍尔木兹海峡的报复性打击持续升级。9月5日，美方称打击3艘伊朗油轮，伊朗称打击了3艘与美国有关的船只和3艘在霍尔木兹海峡未经授权航线通行的油轮，以作回应。8日和9日，美伊短短48小时内再次交手。",
-      "title": "美伊互袭船只试探彼此“红线” 推高地区紧张态势",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869668425.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "97afd65f1f597d6e",
-    "code": "202609103869667798",
-    "title": "AI会抢走我们的工作吗？邢自强、陆铭最新观点",
-    "summary": "【AI会抢走我们的工作吗？邢自强、陆铭最新观点】AI越来越能干，人的工作会被替代吗？9月9日，在2026Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛上，一场关于AI与就业的讨论，把这个问题拉回了现实。",
-    "content": "【AI会抢走我们的工作吗？邢自强、陆铭最新观点】AI越来越能干，人的工作会被替代吗？9月9日，在2026Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛上，一场关于AI与就业的讨论，把这个问题拉回了现实。",
-    "full_content": "【AI会抢走我们的工作吗？邢自强、陆铭最新观点】AI越来越能干，人的工作会被替代吗？9月9日，在2026Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛上，一场关于AI与就业的讨论，把这个问题拉回了现实。",
-    "sort_time": "1788971949067798",
-    "showTime": "2026-09-10 00:39:09",
-    "time": "2026-09-10 00:39:09",
-    "publish_time": "2026-09-10 00:39:09",
-    "raw_data": {
-      "code": "202609103869667798",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1788971949067798",
-      "share": 4,
-      "showTime": "2026-09-10 00:39:09",
-      "stockList": [
-        "90.BK0800",
-        "0.159822"
-      ],
-      "summary": "【AI会抢走我们的工作吗？邢自强、陆铭最新观点】AI越来越能干，人的工作会被替代吗？9月9日，在2026Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛上，一场关于AI与就业的讨论，把这个问题拉回了现实。",
-      "title": "AI会抢走我们的工作吗？邢自强、陆铭最新观点",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869667798.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0800",
-      "0.159822"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "6975b64645134635",
-    "code": "202609103869666497",
-    "title": "EIA短期能源展望报告显示：中东原油停产量8月平均升至670万桶/日",
-    "summary": "【EIA短期能源展望报告显示：中东原油停产量8月平均升至670万桶/日】EIA短期能源展望报告显示，中东原油停产量8月平均升至670万桶/日，高于7月的500万桶/日；预计2026年第四季度中东原油停产量平均为570万桶/日。",
-    "content": "【EIA短期能源展望报告显示：中东原油停产量8月平均升至670万桶/日】EIA短期能源展望报告显示，中东原油停产量8月平均升至670万桶/日，高于7月的500万桶/日；预计2026年第四季度中东原油停产量平均为570万桶/日。",
-    "full_content": "【EIA短期能源展望报告显示：中东原油停产量8月平均升至670万桶/日】EIA短期能源展望报告显示，中东原油停产量8月平均升至670万桶/日，高于7月的500万桶/日；预计2026年第四季度中东原油停产量平均为570万桶/日。",
-    "sort_time": "1788971102066497",
-    "showTime": "2026-09-10 00:25:02",
-    "time": "2026-09-10 00:25:02",
-    "publish_time": "2026-09-10 00:25:02",
-    "raw_data": {
-      "code": "202609103869666497",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1788971102066497",
-      "share": 2,
-      "showTime": "2026-09-10 00:25:02",
-      "stockList": [
-        "0.159945",
-        "150.014238"
-      ],
-      "summary": "【EIA短期能源展望报告显示：中东原油停产量8月平均升至670万桶/日】EIA短期能源展望报告显示，中东原油停产量8月平均升至670万桶/日，高于7月的500万桶/日；预计2026年第四季度中东原油停产量平均为570万桶/日。",
-      "title": "EIA短期能源展望报告显示：中东原油停产量8月平均升至670万桶/日",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869666497.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159945",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "0fad38d0457d9f66",
-    "code": "202609103869662021",
-    "title": "周四停牌！301390筹划控制权变更",
-    "summary": "【周四停牌！301390筹划控制权变更】9月9日晚间，经纬股份（301390）公告称，公司近日收到实际控制人叶肖华的通知，获悉相关股东正在筹划重大事项，该事项可能导致公司控制权发生变动。公司股票将于2026年9月10日（星期四）开市起停牌，预计停牌时间不超过2个交易日。",
-    "content": "【周四停牌！301390筹划控制权变更】9月9日晚间，经纬股份（301390）公告称，公司近日收到实际控制人叶肖华的通知，获悉相关股东正在筹划重大事项，该事项可能导致公司控制权发生变动。公司股票将于2026年9月10日（星期四）开市起停牌，预计停牌时间不超过2个交易日。",
-    "full_content": "【周四停牌！301390筹划控制权变更】9月9日晚间，经纬股份（301390）公告称，公司近日收到实际控制人叶肖华的通知，获悉相关股东正在筹划重大事项，该事项可能导致公司控制权发生变动。公司股票将于2026年9月10日（星期四）开市起停牌，预计停牌时间不超过2个交易日。",
-    "sort_time": "1788970868062021",
-    "showTime": "2026-09-10 00:21:08",
-    "time": "2026-09-10 00:21:08",
-    "publish_time": "2026-09-10 00:21:08",
-    "raw_data": {
-      "code": "202609103869662021",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1788970868062021",
-      "share": 2,
-      "showTime": "2026-09-10 00:21:08",
-      "stockList": [
-        "90.BK0428",
-        "90.BK0493"
-      ],
-      "summary": "【周四停牌！301390筹划控制权变更】9月9日晚间，经纬股份（301390）公告称，公司近日收到实际控制人叶肖华的通知，获悉相关股东正在筹划重大事项，该事项可能导致公司控制权发生变动。公司股票将于2026年9月10日（星期四）开市起停牌，预计停牌时间不超过2个交易日。",
-      "title": "周四停牌！301390筹划控制权变更",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869662021.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0428",
-      "90.BK0493"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "cb09e64495342104",
-    "code": "202609103869664063",
-    "title": "研究人员称：OpenAI 的“失控智能体”曾至少利用另外10个网站进行未经授权的通信",
-    "summary": "研究人员称，OpenAI的“失控智能体”曾至少利用另外10个网站进行未经授权的通信。",
-    "content": "研究人员称，OpenAI的“失控智能体”曾至少利用另外10个网站进行未经授权的通信。",
-    "full_content": "研究人员称，OpenAI的“失控智能体”曾至少利用另外10个网站进行未经授权的通信。",
-    "sort_time": "1788970158064063",
-    "showTime": "2026-09-10 00:09:18",
-    "time": "2026-09-10 00:09:18",
-    "publish_time": "2026-09-10 00:09:18",
-    "raw_data": {
-      "code": "202609103869664063",
-      "image": [],
-      "pinglun_Num": 10,
-      "realSort": "1788970158064063",
-      "share": 0,
-      "showTime": "2026-09-10 00:09:18",
-      "stockList": [
-        "90.BK0448",
-        "90.BK1215"
-      ],
-      "summary": "研究人员称，OpenAI的“失控智能体”曾至少利用另外10个网站进行未经授权的通信。",
-      "title": "研究人员称：OpenAI 的“失控智能体”曾至少利用另外10个网站进行未经授权的通信",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869664063.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0448",
-      "90.BK1215"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "通信"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "8b0b71d43a557b22",
-    "code": "202609103869663649",
-    "title": "EIA短期能源展望报告显示:预计2026年美国天然气需求为922亿立方英尺/日",
-    "summary": "【EIA短期能源展望报告显示:预计2026年美国天然气需求为922亿立方英尺/日】EIA短期能源展望报告显示，预计2026年美国天然气需求为922亿立方英尺/日，此前预测为920亿立方英尺/日；预计2027年需求为943亿立方英尺/日，此前预测为948亿立方英尺/日。",
-    "content": "【EIA短期能源展望报告显示:预计2026年美国天然气需求为922亿立方英尺/日】EIA短期能源展望报告显示，预计2026年美国天然气需求为922亿立方英尺/日，此前预测为920亿立方英尺/日；预计2027年需求为943亿立方英尺/日，此前预测为948亿立方英尺/日。",
-    "full_content": "【EIA短期能源展望报告显示:预计2026年美国天然气需求为922亿立方英尺/日】EIA短期能源展望报告显示，预计2026年美国天然气需求为922亿立方英尺/日，此前预测为920亿立方英尺/日；预计2027年需求为943亿立方英尺/日，此前预测为948亿立方英尺/日。",
-    "sort_time": "1788970023063649",
-    "showTime": "2026-09-10 00:07:03",
-    "time": "2026-09-10 00:07:03",
-    "publish_time": "2026-09-10 00:07:03",
-    "raw_data": {
-      "code": "202609103869663649",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1788970023063649",
-      "share": 1,
-      "showTime": "2026-09-10 00:07:03",
-      "stockList": [
-        "0.159945",
-        "150.014238"
-      ],
-      "summary": "【EIA短期能源展望报告显示:预计2026年美国天然气需求为922亿立方英尺/日】EIA短期能源展望报告显示，预计2026年美国天然气需求为922亿立方英尺/日，此前预测为920亿立方英尺/日；预计2027年需求为943亿立方英尺/日，此前预测为948亿立方英尺/日。",
-      "title": "EIA短期能源展望报告显示:预计2026年美国天然气需求为922亿立方英尺/日",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869663649.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159945",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
-    }
-  },
-  {
-    "id": "1b1d13e862a8d5fd",
-    "code": "202609103869663780",
-    "title": "EIA短期能源展望报告显示:预计2026年全球石油需求为1.026亿桶/日",
-    "summary": "【EIA短期能源展望报告显示:预计2026年全球石油需求为1.026亿桶/日】EIA短期能源展望报告显示，预计2026年全球石油需求为1.026亿桶/日，此前预测为1.027亿桶/日；预计2027年需求为1.05亿桶/日，此前预测为1.05亿桶/日。",
-    "content": "【EIA短期能源展望报告显示:预计2026年全球石油需求为1.026亿桶/日】EIA短期能源展望报告显示，预计2026年全球石油需求为1.026亿桶/日，此前预测为1.027亿桶/日；预计2027年需求为1.05亿桶/日，此前预测为1.05亿桶/日。",
-    "full_content": "【EIA短期能源展望报告显示:预计2026年全球石油需求为1.026亿桶/日】EIA短期能源展望报告显示，预计2026年全球石油需求为1.026亿桶/日，此前预测为1.027亿桶/日；预计2027年需求为1.05亿桶/日，此前预测为1.05亿桶/日。",
-    "sort_time": "1788969984063780",
-    "showTime": "2026-09-10 00:06:24",
-    "time": "2026-09-10 00:06:24",
-    "publish_time": "2026-09-10 00:06:24",
-    "raw_data": {
-      "code": "202609103869663780",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1788969984063780",
-      "share": 0,
-      "showTime": "2026-09-10 00:06:24",
-      "stockList": [
-        "90.BK0464",
-        "0.159945"
-      ],
-      "summary": "【EIA短期能源展望报告显示:预计2026年全球石油需求为1.026亿桶/日】EIA短期能源展望报告显示，预计2026年全球石油需求为1.026亿桶/日，此前预测为1.027亿桶/日；预计2027年需求为1.05亿桶/日，此前预测为1.05亿桶/日。",
-      "title": "EIA短期能源展望报告显示:预计2026年全球石油需求为1.026亿桶/日",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869663780.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0464",
-      "0.159945"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "1508b4657ab04cc5",
-    "code": "202609103869663455",
-    "title": "EIA预计2026年WTI均价为每桶84.65美元",
-    "summary": "【EIA预计2026年WTI均价为每桶84.65美元】EIA预计2026年WTI均价为每桶84.65美元，此前预测值为每桶80.88美元；2027年预测价每桶69.74美元，此前预测值每桶65.39美元。",
-    "content": "【EIA预计2026年WTI均价为每桶84.65美元】EIA预计2026年WTI均价为每桶84.65美元，此前预测值为每桶80.88美元；2027年预测价每桶69.74美元，此前预测值每桶65.39美元。",
-    "full_content": "【EIA预计2026年WTI均价为每桶84.65美元】EIA预计2026年WTI均价为每桶84.65美元，此前预测值为每桶80.88美元；2027年预测价每桶69.74美元，此前预测值每桶65.39美元。",
-    "sort_time": "1788969901063455",
-    "showTime": "2026-09-10 00:05:01",
-    "time": "2026-09-10 00:05:01",
-    "publish_time": "2026-09-10 00:05:01",
-    "raw_data": {
-      "code": "202609103869663455",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1788969901063455",
-      "share": 0,
-      "showTime": "2026-09-10 00:05:01",
-      "stockList": [],
-      "summary": "【EIA预计2026年WTI均价为每桶84.65美元】EIA预计2026年WTI均价为每桶84.65美元，此前预测值为每桶80.88美元；2027年预测价每桶69.74美元，此前预测值每桶65.39美元。",
-      "title": "EIA预计2026年WTI均价为每桶84.65美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869663455.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "037366fc1027fc1e",
-    "code": "202609103869662848",
-    "title": "汉维科技：脂肪酸盐产品目前仍然是公司销售规模的重要组成部分",
-    "summary": "【汉维科技：脂肪酸盐产品目前仍然是公司销售规模的重要组成部分】汉维科技发布投资者关系活动记录表，公司目前已经形成以脂肪酸盐、脂肪酸酯、脂肪酸酰胺、特种助剂、复合助剂等为主要构成的产品体系，2026年上半年公司主营业务收入为3.20亿元，同比增长10.98%。",
-    "content": "【汉维科技：脂肪酸盐产品目前仍然是公司销售规模的重要组成部分】汉维科技发布投资者关系活动记录表，公司目前已经形成以脂肪酸盐、脂肪酸酯、脂肪酸酰胺、特种助剂、复合助剂等为主要构成的产品体系，2026年上半年公司主营业务收入为3.20亿元，同比增长10.98%。",
-    "full_content": "【汉维科技：脂肪酸盐产品目前仍然是公司销售规模的重要组成部分】汉维科技发布投资者关系活动记录表，公司目前已经形成以脂肪酸盐、脂肪酸酯、脂肪酸酰胺、特种助剂、复合助剂等为主要构成的产品体系，2026年上半年公司主营业务收入为3.20亿元，同比增长10.98%。",
-    "sort_time": "1788969710062848",
-    "showTime": "2026-09-10 00:01:50",
-    "time": "2026-09-10 00:01:50",
-    "publish_time": "2026-09-10 00:01:50",
-    "raw_data": {
-      "code": "202609103869662848",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1788969710062848",
-      "share": 1,
-      "showTime": "2026-09-10 00:01:50",
-      "stockList": [
-        "999.448015",
-        "0.920957"
-      ],
-      "summary": "【汉维科技：脂肪酸盐产品目前仍然是公司销售规模的重要组成部分】汉维科技发布投资者关系活动记录表，公司目前已经形成以脂肪酸盐、脂肪酸酯、脂肪酸酰胺、特种助剂、复合助剂等为主要构成的产品体系，2026年上半年公司主营业务收入为3.20亿元，同比增长10.98%。",
-      "title": "汉维科技：脂肪酸盐产品目前仍然是公司销售规模的重要组成部分",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869662848.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "999.448015",
-      "0.920957"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6516f36b5c3edc16",
-    "code": "202609103869663053",
-    "title": "骑士乳业：子公司中正康源获增资7300万元",
-    "summary": "【骑士乳业：子公司中正康源获增资7300万元】骑士乳业公告，子公司中正康源拟增资扩股，注册资本由2700万元增至1亿元，新增7300万元由全资子公司包头骑士以1元/股认缴。",
-    "content": "【骑士乳业：子公司中正康源获增资7300万元】骑士乳业公告，子公司中正康源拟增资扩股，注册资本由2700万元增至1亿元，新增7300万元由全资子公司包头骑士以1元/股认缴。",
-    "full_content": "【骑士乳业：子公司中正康源获增资7300万元】骑士乳业公告，子公司中正康源拟增资扩股，注册资本由2700万元增至1亿元，新增7300万元由全资子公司包头骑士以1元/股认缴。",
-    "sort_time": "1788969707063053",
-    "showTime": "2026-09-10 00:01:47",
-    "time": "2026-09-10 00:01:47",
-    "publish_time": "2026-09-10 00:01:47",
-    "raw_data": {
-      "code": "202609103869663053",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1788969707063053",
-      "share": 1,
-      "showTime": "2026-09-10 00:01:47",
-      "stockList": [
-        "0.920786"
-      ],
-      "summary": "【骑士乳业：子公司中正康源获增资7300万元】骑士乳业公告，子公司中正康源拟增资扩股，注册资本由2700万元增至1亿元，新增7300万元由全资子公司包头骑士以1元/股认缴。",
-      "title": "骑士乳业：子公司中正康源获增资7300万元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869663053.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920786"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C602",
-          "name": "食品饮料",
-          "matched_keyword": "乳业"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C602"
-      ]
-    }
-  },
-  {
-    "id": "472e1ad4656f3c1c",
-    "code": "202609103869663117",
-    "title": "星图测控：公司已完成“星眼”太空感知星座的自主设计",
-    "summary": "【星图测控：公司已完成“星眼”太空感知星座的自主设计】星图测控发布投资者关系活动记录表，公司已完成“星眼”太空感知星座的自主设计，未来通过验证卫星能力并进行组网，构建起太空态势感知（SSA）能力体系，持续获取空间目标轨道信息、空间碎片信息及在轨卫星信息等太空环境数据。",
-    "content": "【星图测控：公司已完成“星眼”太空感知星座的自主设计】星图测控发布投资者关系活动记录表，公司已完成“星眼”太空感知星座的自主设计，未来通过验证卫星能力并进行组网，构建起太空态势感知（SSA）能力体系，持续获取空间目标轨道信息、空间碎片信息及在轨卫星信息等太空环境数据。",
-    "full_content": "【星图测控：公司已完成“星眼”太空感知星座的自主设计】星图测控发布投资者关系活动记录表，公司已完成“星眼”太空感知星座的自主设计，未来通过验证卫星能力并进行组网，构建起太空态势感知（SSA）能力体系，持续获取空间目标轨道信息、空间碎片信息及在轨卫星信息等太空环境数据。",
-    "sort_time": "1788969703063117",
-    "showTime": "2026-09-10 00:01:43",
-    "time": "2026-09-10 00:01:43",
-    "publish_time": "2026-09-10 00:01:43",
-    "raw_data": {
-      "code": "202609103869663117",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1788969703063117",
-      "share": 1,
-      "showTime": "2026-09-10 00:01:43",
-      "stockList": [
-        "0.920116"
-      ],
-      "summary": "【星图测控：公司已完成“星眼”太空感知星座的自主设计】星图测控发布投资者关系活动记录表，公司已完成“星眼”太空感知星座的自主设计，未来通过验证卫星能力并进行组网，构建起太空态势感知（SSA）能力体系，持续获取空间目标轨道信息、空间碎片信息及在轨卫星信息等太空环境数据。",
-      "title": "星图测控：公司已完成“星眼”太空感知星座的自主设计",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609103869663117.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920116"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C202",
-          "name": "航天",
-          "matched_keyword": "卫星"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C202"
-      ]
-    }
-  },
-  {
-    "id": "c2d46af96f040b44",
-    "code": "202609093869659964",
-    "title": "年内第三家省级农商行将至？黑龙江农信改革进入实质阶段",
-    "summary": "【年内第三家省级农商行将至？黑龙江农信改革进入实质阶段】近日，哈尔滨农信村镇银行发布一则股东会通知，将黑龙江农信社改革推向实操层面。记者注意到，作为首批27家涉改机构之一，哈尔滨农信村镇银行将于9月19日审议组建黑龙江农商银行相关议案。若进展顺利，黑龙江有望成为今年第三家完成省级统一法人农商行组建的省份。",
-    "content": "【年内第三家省级农商行将至？黑龙江农信改革进入实质阶段】近日，哈尔滨农信村镇银行发布一则股东会通知，将黑龙江农信社改革推向实操层面。记者注意到，作为首批27家涉改机构之一，哈尔滨农信村镇银行将于9月19日审议组建黑龙江农商银行相关议案。若进展顺利，黑龙江有望成为今年第三家完成省级统一法人农商行组建的省份。",
-    "full_content": "【年内第三家省级农商行将至？黑龙江农信改革进入实质阶段】近日，哈尔滨农信村镇银行发布一则股东会通知，将黑龙江农信社改革推向实操层面。记者注意到，作为首批27家涉改机构之一，哈尔滨农信村镇银行将于9月19日审议组建黑龙江农商银行相关议案。若进展顺利，黑龙江有望成为今年第三家完成省级统一法人农商行组建的省份。",
-    "sort_time": "1788969240059964",
-    "showTime": "2026-09-09 23:54:00",
-    "time": "2026-09-09 23:54:00",
-    "publish_time": "2026-09-09 23:54:00",
-    "raw_data": {
-      "code": "202609093869659964",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1788969240059964",
-      "share": 0,
-      "showTime": "2026-09-09 23:54:00",
-      "stockList": [
-        "90.BK0475",
-        "90.BK1612"
-      ],
-      "summary": "【年内第三家省级农商行将至？黑龙江农信改革进入实质阶段】近日，哈尔滨农信村镇银行发布一则股东会通知，将黑龙江农信社改革推向实操层面。记者注意到，作为首批27家涉改机构之一，哈尔滨农信村镇银行将于9月19日审议组建黑龙江农商银行相关议案。若进展顺利，黑龙江有望成为今年第三家完成省级统一法人农商行组建的省份。",
-      "title": "年内第三家省级农商行将至？黑龙江农信改革进入实质阶段",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609093869659964.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0475",
-      "90.BK1612"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "f8a9e434b69427f2",
-    "code": "202609093869655317",
-    "title": "多瑙河布达佩斯段水位降至0厘米",
-    "summary": "【多瑙河布达佩斯段水位降至0厘米】布达佩斯水务部门当地时间9月9日在社交媒体表示，当天，多瑙河布达佩斯段水位降至0厘米，但这并不意味着多瑙河中没有水。布达佩斯水务部门表示，“0厘米”这一读数，并不代表河流的深度。位于布达佩斯维加多广场的水位标尺设有0厘米刻度，该数值对应的海拔是94.97米（以波罗的海海平面为基准）。",
-    "content": "【多瑙河布达佩斯段水位降至0厘米】布达佩斯水务部门当地时间9月9日在社交媒体表示，当天，多瑙河布达佩斯段水位降至0厘米，但这并不意味着多瑙河中没有水。布达佩斯水务部门表示，“0厘米”这一读数，并不代表河流的深度。位于布达佩斯维加多广场的水位标尺设有0厘米刻度，该数值对应的海拔是94.97米（以波罗的海海平面为基准）。",
-    "full_content": "【多瑙河布达佩斯段水位降至0厘米】布达佩斯水务部门当地时间9月9日在社交媒体表示，当天，多瑙河布达佩斯段水位降至0厘米，但这并不意味着多瑙河中没有水。布达佩斯水务部门表示，“0厘米”这一读数，并不代表河流的深度。位于布达佩斯维加多广场的水位标尺设有0厘米刻度，该数值对应的海拔是94.97米（以波罗的海海平面为基准）。",
-    "sort_time": "1788968746055317",
-    "showTime": "2026-09-09 23:45:46",
-    "time": "2026-09-09 23:45:46",
-    "publish_time": "2026-09-09 23:45:46",
-    "raw_data": {
-      "code": "202609093869655317",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1788968746055317",
-      "share": 5,
-      "showTime": "2026-09-09 23:45:46",
-      "stockList": [
-        "90.BK0427"
-      ],
-      "summary": "【多瑙河布达佩斯段水位降至0厘米】布达佩斯水务部门当地时间9月9日在社交媒体表示，当天，多瑙河布达佩斯段水位降至0厘米，但这并不意味着多瑙河中没有水。布达佩斯水务部门表示，“0厘米”这一读数，并不代表河流的深度。位于布达佩斯维加多广场的水位标尺设有0厘米刻度，该数值对应的海拔是94.97米（以波罗的海海平面为基准）。",
-      "title": "多瑙河布达佩斯段水位降至0厘米",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609093869655317.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0427"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "30751f584c1b14f0",
-    "code": "202609093869655076",
-    "title": "美国财政部宣布长债回购上限60亿美元 失望情绪笼罩市场",
-    "summary": "【美国财政部宣布长债回购上限60亿美元 失望情绪笼罩市场】美国财政部宣布，根据扩大后的国债回购计划，财政部在首次操作中将购买最多60亿美元长期政府债券。在财长贝森特公开谈及回购规模可能超过40亿美元后，部分交易商已上调对周四回购操作的预测。",
-    "content": "【美国财政部宣布长债回购上限60亿美元 失望情绪笼罩市场】美国财政部宣布，根据扩大后的国债回购计划，财政部在首次操作中将购买最多60亿美元长期政府债券。在财长贝森特公开谈及回购规模可能超过40亿美元后，部分交易商已上调对周四回购操作的预测。",
-    "full_content": "【美国财政部宣布长债回购上限60亿美元 失望情绪笼罩市场】美国财政部宣布，根据扩大后的国债回购计划，财政部在首次操作中将购买最多60亿美元长期政府债券。在财长贝森特公开谈及回购规模可能超过40亿美元后，部分交易商已上调对周四回购操作的预测。",
-    "sort_time": "1788968565055076",
-    "showTime": "2026-09-09 23:42:45",
-    "time": "2026-09-09 23:42:45",
-    "publish_time": "2026-09-09 23:42:45",
-    "raw_data": {
-      "code": "202609093869655076",
-      "image": [],
-      "pinglun_Num": 39,
-      "realSort": "1788968565055076",
-      "share": 28,
-      "showTime": "2026-09-09 23:42:45",
-      "stockList": [],
-      "summary": "【美国财政部宣布长债回购上限60亿美元 失望情绪笼罩市场】美国财政部宣布，根据扩大后的国债回购计划，财政部在首次操作中将购买最多60亿美元长期政府债券。在财长贝森特公开谈及回购规模可能超过40亿美元后，部分交易商已上调对周四回购操作的预测。",
-      "title": "美国财政部宣布长债回购上限60亿美元 失望情绪笼罩市场",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609093869655076.html",
-    "category": "债券",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 39,
-    "share_count": 28,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "fc417c9d8e66c518",
-    "code": "202609093869652354",
-    "title": "ST三木：董事长朱敏辞职",
-    "summary": "【ST三木：董事长朱敏辞职】ST三木(000632.SZ)公告称，公司董事会于2026年9月8日收到董事长朱敏的书面辞职报告，朱敏因组织安排原因辞去公司董事长、董事及法定代表人职务。因工作交接原因，朱敏将继续履职法定代表人职责至2026年9月28日，此后不再担任公司及控股子公司任何职务。",
-    "content": "【ST三木：董事长朱敏辞职】ST三木(000632.SZ)公告称，公司董事会于2026年9月8日收到董事长朱敏的书面辞职报告，朱敏因组织安排原因辞去公司董事长、董事及法定代表人职务。因工作交接原因，朱敏将继续履职法定代表人职责至2026年9月28日，此后不再担任公司及控股子公司任何职务。",
-    "full_content": "【ST三木：董事长朱敏辞职】ST三木(000632.SZ)公告称，公司董事会于2026年9月8日收到董事长朱敏的书面辞职报告，朱敏因组织安排原因辞去公司董事长、董事及法定代表人职务。因工作交接原因，朱敏将继续履职法定代表人职责至2026年9月28日，此后不再担任公司及控股子公司任何职务。",
-    "sort_time": "1788968269052354",
-    "showTime": "2026-09-09 23:37:49",
-    "time": "2026-09-09 23:37:49",
-    "publish_time": "2026-09-09 23:37:49",
-    "raw_data": {
-      "code": "202609093869652354",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1788968269052354",
-      "share": 0,
-      "showTime": "2026-09-09 23:37:49",
-      "stockList": [
-        "0.000632"
-      ],
-      "summary": "【ST三木：董事长朱敏辞职】ST三木(000632.SZ)公告称，公司董事会于2026年9月8日收到董事长朱敏的书面辞职报告，朱敏因组织安排原因辞去公司董事长、董事及法定代表人职务。因工作交接原因，朱敏将继续履职法定代表人职责至2026年9月28日，此后不再担任公司及控股子公司任何职务。",
-      "title": "ST三木：董事长朱敏辞职",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609093869652354.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.000632"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "ST"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C814"
-      ]
     }
   }
 ]
