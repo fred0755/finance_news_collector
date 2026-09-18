@@ -1,5 +1,1201 @@
 [
   {
+    "id": "3e1c7c3fe51f0a3e",
+    "code": "202609193878952647",
+    "title": "白宫表示：特朗普签署对俄罗斯石油买家征收关税法案",
+    "summary": "白宫表示，特朗普签署对俄罗斯石油买家征收关税法案。",
+    "content": "白宫表示，特朗普签署对俄罗斯石油买家征收关税法案。",
+    "full_content": "白宫表示，特朗普签署对俄罗斯石油买家征收关税法案。",
+    "sort_time": "1789768026052647",
+    "showTime": "2026-09-19 05:47:06",
+    "time": "2026-09-19 05:47:06",
+    "publish_time": "2026-09-19 05:47:06",
+    "raw_data": {
+      "code": "202609193878952647",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1789768026052647",
+      "share": 0,
+      "showTime": "2026-09-19 05:47:06",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "白宫表示，特朗普签署对俄罗斯石油买家征收关税法案。",
+      "title": "白宫表示：特朗普签署对俄罗斯石油买家征收关税法案",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878952647.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "4b0332315bd506c4",
+    "code": "202609193878950483",
+    "title": "Anthropic据悉将原定的IPO推迟至11月",
+    "summary": "据报道，Anthropic将原定的IPO推迟至11月。",
+    "content": "据报道，Anthropic将原定的IPO推迟至11月。",
+    "full_content": "据报道，Anthropic将原定的IPO推迟至11月。",
+    "sort_time": "1789767071050483",
+    "showTime": "2026-09-19 05:31:11",
+    "time": "2026-09-19 05:31:11",
+    "publish_time": "2026-09-19 05:31:11",
+    "raw_data": {
+      "code": "202609193878950483",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789767071050483",
+      "share": 0,
+      "showTime": "2026-09-19 05:31:11",
+      "stockList": [
+        "90.BK0697"
+      ],
+      "summary": "据报道，Anthropic将原定的IPO推迟至11月。",
+      "title": "Anthropic据悉将原定的IPO推迟至11月",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878950483.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "55359cfb77199e78",
+    "code": "202609193878950015",
+    "title": "英伟达CEO黄仁勋减持45,728股公司股票 CFO克雷斯出售34,918股英伟达股票",
+    "summary": "英伟达CEO黄仁勋减持45,728股公司股票，CFO克雷斯出售34,918股英伟达股票。",
+    "content": "英伟达CEO黄仁勋减持45,728股公司股票，CFO克雷斯出售34,918股英伟达股票。",
+    "full_content": "英伟达CEO黄仁勋减持45,728股公司股票，CFO克雷斯出售34,918股英伟达股票。",
+    "sort_time": "1789766685050015",
+    "showTime": "2026-09-19 05:24:45",
+    "time": "2026-09-19 05:24:45",
+    "publish_time": "2026-09-19 05:24:45",
+    "raw_data": {
+      "code": "202609193878950015",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1789766685050015",
+      "share": 8,
+      "showTime": "2026-09-19 05:24:45",
+      "stockList": [
+        "90.BK1161",
+        "105.NVDA"
+      ],
+      "summary": "英伟达CEO黄仁勋减持45,728股公司股票，CFO克雷斯出售34,918股英伟达股票。",
+      "title": "英伟达CEO黄仁勋减持45,728股公司股票 CFO克雷斯出售34,918股英伟达股票",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878950015.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1161",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 12,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "043aa835ba9d183f",
+    "code": "202609193878950563",
+    "title": "普京：“三位一体”核力量仍是俄罗斯国家主权的保障",
+    "summary": "【普京：“三位一体”核力量仍是俄罗斯国家主权的保障】俄罗斯总统普京18日晚表示，“三位一体”核力量仍然是俄罗斯国家主权的保障，并在维护全球力量平衡方面发挥着关键作用。普京当晚主持召开俄军事工业委员会会议，他提议讨论新的国家武器装备计划草案和国防工业综合体发展计划。普京说，发展“三位一体”核力量是更新后的国家武器装备计划的优先方向，上述规划将为俄罗斯现代武器装备研发与大规模生产奠定基础，“以便俄罗斯军队和其他强力机构能够迅速有效地应对潜在外部威胁”。",
+    "content": "【普京：“三位一体”核力量仍是俄罗斯国家主权的保障】俄罗斯总统普京18日晚表示，“三位一体”核力量仍然是俄罗斯国家主权的保障，并在维护全球力量平衡方面发挥着关键作用。普京当晚主持召开俄军事工业委员会会议，他提议讨论新的国家武器装备计划草案和国防工业综合体发展计划。普京说，发展“三位一体”核力量是更新后的国家武器装备计划的优先方向，上述规划将为俄罗斯现代武器装备研发与大规模生产奠定基础，“以便俄罗斯军队和其他强力机构能够迅速有效地应对潜在外部威胁”。",
+    "full_content": "【普京：“三位一体”核力量仍是俄罗斯国家主权的保障】俄罗斯总统普京18日晚表示，“三位一体”核力量仍然是俄罗斯国家主权的保障，并在维护全球力量平衡方面发挥着关键作用。普京当晚主持召开俄军事工业委员会会议，他提议讨论新的国家武器装备计划草案和国防工业综合体发展计划。普京说，发展“三位一体”核力量是更新后的国家武器装备计划的优先方向，上述规划将为俄罗斯现代武器装备研发与大规模生产奠定基础，“以便俄罗斯军队和其他强力机构能够迅速有效地应对潜在外部威胁”。",
+    "sort_time": "1789766679050563",
+    "showTime": "2026-09-19 05:24:39",
+    "time": "2026-09-19 05:24:39",
+    "publish_time": "2026-09-19 05:24:39",
+    "raw_data": {
+      "code": "202609193878950563",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789766679050563",
+      "share": 0,
+      "showTime": "2026-09-19 05:24:39",
+      "stockList": [],
+      "summary": "【普京：“三位一体”核力量仍是俄罗斯国家主权的保障】俄罗斯总统普京18日晚表示，“三位一体”核力量仍然是俄罗斯国家主权的保障，并在维护全球力量平衡方面发挥着关键作用。普京当晚主持召开俄军事工业委员会会议，他提议讨论新的国家武器装备计划草案和国防工业综合体发展计划。普京说，发展“三位一体”核力量是更新后的国家武器装备计划的优先方向，上述规划将为俄罗斯现代武器装备研发与大规模生产奠定基础，“以便俄罗斯军队和其他强力机构能够迅速有效地应对潜在外部威胁”。",
+      "title": "普京：“三位一体”核力量仍是俄罗斯国家主权的保障",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878950563.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "5ef0542749274838",
+    "code": "202609193878949980",
+    "title": "离岸人民币兑美元较周四纽约尾盘涨86点",
+    "summary": "【离岸人民币兑美元较周四纽约尾盘涨86点】周五（9月18日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.6955元，逼近2022年7月8日最终报价6.6862元，较周四纽约尾盘涨86点，日内整体交投于6.7044-6.6934元区间。",
+    "content": "【离岸人民币兑美元较周四纽约尾盘涨86点】周五（9月18日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.6955元，逼近2022年7月8日最终报价6.6862元，较周四纽约尾盘涨86点，日内整体交投于6.7044-6.6934元区间。",
+    "full_content": "【离岸人民币兑美元较周四纽约尾盘涨86点】周五（9月18日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.6955元，逼近2022年7月8日最终报价6.6862元，较周四纽约尾盘涨86点，日内整体交投于6.7044-6.6934元区间。",
+    "sort_time": "1789766624049980",
+    "showTime": "2026-09-19 05:23:44",
+    "time": "2026-09-19 05:23:44",
+    "publish_time": "2026-09-19 05:23:44",
+    "raw_data": {
+      "code": "202609193878949980",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789766624049980",
+      "share": 0,
+      "showTime": "2026-09-19 05:23:44",
+      "stockList": [],
+      "summary": "【离岸人民币兑美元较周四纽约尾盘涨86点】周五（9月18日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.6955元，逼近2022年7月8日最终报价6.6862元，较周四纽约尾盘涨86点，日内整体交投于6.7044-6.6934元区间。",
+      "title": "离岸人民币兑美元较周四纽约尾盘涨86点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878949980.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "48cdf03e2dbc0bf0",
+    "code": "202609193878949846",
+    "title": "富时A50期指连续夜盘收涨0.01% 报14484点",
+    "summary": "富时A50期指连续夜盘收涨0.01%，报14484点。",
+    "content": "富时A50期指连续夜盘收涨0.01%，报14484点。",
+    "full_content": "富时A50期指连续夜盘收涨0.01%，报14484点。",
+    "sort_time": "1789766573049846",
+    "showTime": "2026-09-19 05:22:53",
+    "time": "2026-09-19 05:22:53",
+    "publish_time": "2026-09-19 05:22:53",
+    "raw_data": {
+      "code": "202609193878949846",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789766573049846",
+      "share": 0,
+      "showTime": "2026-09-19 05:22:53",
+      "stockList": [],
+      "summary": "富时A50期指连续夜盘收涨0.01%，报14484点。",
+      "title": "富时A50期指连续夜盘收涨0.01% 报14484点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878949846.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9da867535b03b974",
+    "code": "202609193878949468",
+    "title": "特朗普：美国已与丹麦达成协议",
+    "summary": "【特朗普：美国已与丹麦达成协议】特朗普表示，美国已与丹麦达成协议，美国获得对格陵兰岛的永久安全控制权。",
+    "content": "【特朗普：美国已与丹麦达成协议】特朗普表示，美国已与丹麦达成协议，美国获得对格陵兰岛的永久安全控制权。",
+    "full_content": "【特朗普：美国已与丹麦达成协议】特朗普表示，美国已与丹麦达成协议，美国获得对格陵兰岛的永久安全控制权。",
+    "sort_time": "1789766479049468",
+    "showTime": "2026-09-19 05:21:19",
+    "time": "2026-09-19 05:21:19",
+    "publish_time": "2026-09-19 05:21:19",
+    "raw_data": {
+      "code": "202609193878949468",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1789766479049468",
+      "share": 1,
+      "showTime": "2026-09-19 05:21:19",
+      "stockList": [],
+      "summary": "【特朗普：美国已与丹麦达成协议】特朗普表示，美国已与丹麦达成协议，美国获得对格陵兰岛的永久安全控制权。",
+      "title": "特朗普：美国已与丹麦达成协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878949468.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "441b93e1c4dca6cd",
+    "code": "202609193878949395",
+    "title": "惠誉确认乌克兰基辅市评级为“CCC”",
+    "summary": "惠誉确认乌克兰基辅市评级为“CCC”。",
+    "content": "惠誉确认乌克兰基辅市评级为“CCC”。",
+    "full_content": "惠誉确认乌克兰基辅市评级为“CCC”。",
+    "sort_time": "1789765840049395",
+    "showTime": "2026-09-19 05:10:40",
+    "time": "2026-09-19 05:10:40",
+    "publish_time": "2026-09-19 05:10:40",
+    "raw_data": {
+      "code": "202609193878949395",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1789765840049395",
+      "share": 0,
+      "showTime": "2026-09-19 05:10:40",
+      "stockList": [],
+      "summary": "惠誉确认乌克兰基辅市评级为“CCC”。",
+      "title": "惠誉确认乌克兰基辅市评级为“CCC”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878949395.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "bb7f079738336594",
+    "code": "202609193878948988",
+    "title": "国际贵金属期货普遍收涨",
+    "summary": "【国际贵金属期货普遍收涨】国际贵金属期货普遍收涨，COMEX黄金期货涨0.37%，报4415.9美元/盎司，本周累涨0.16%；COMEX白银期货涨1.04%，报66.78美元/盎司，本周累涨2.45%。",
+    "content": "【国际贵金属期货普遍收涨】国际贵金属期货普遍收涨，COMEX黄金期货涨0.37%，报4415.9美元/盎司，本周累涨0.16%；COMEX白银期货涨1.04%，报66.78美元/盎司，本周累涨2.45%。",
+    "full_content": "【国际贵金属期货普遍收涨】国际贵金属期货普遍收涨，COMEX黄金期货涨0.37%，报4415.9美元/盎司，本周累涨0.16%；COMEX白银期货涨1.04%，报66.78美元/盎司，本周累涨2.45%。",
+    "sort_time": "1789765550048988",
+    "showTime": "2026-09-19 05:05:50",
+    "time": "2026-09-19 05:05:50",
+    "publish_time": "2026-09-19 05:05:50",
+    "raw_data": {
+      "code": "202609193878948988",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789765550048988",
+      "share": 1,
+      "showTime": "2026-09-19 05:05:50",
+      "stockList": [],
+      "summary": "【国际贵金属期货普遍收涨】国际贵金属期货普遍收涨，COMEX黄金期货涨0.37%，报4415.9美元/盎司，本周累涨0.16%；COMEX白银期货涨1.04%，报66.78美元/盎司，本周累涨2.45%。",
+      "title": "国际贵金属期货普遍收涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878948988.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "贵金属"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "0879cf953d87a6da",
+    "code": "202609193878948671",
+    "title": "据报道：甲骨文180亿美元数据中心债务因当地反对压力而面临挑战",
+    "summary": "据报道，甲骨文180亿美元数据中心债务因当地反对压力而面临挑战。",
+    "content": "据报道，甲骨文180亿美元数据中心债务因当地反对压力而面临挑战。",
+    "full_content": "据报道，甲骨文180亿美元数据中心债务因当地反对压力而面临挑战。",
+    "sort_time": "1789765364048671",
+    "showTime": "2026-09-19 05:02:44",
+    "time": "2026-09-19 05:02:44",
+    "publish_time": "2026-09-19 05:02:44",
+    "raw_data": {
+      "code": "202609193878948671",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789765364048671",
+      "share": 0,
+      "showTime": "2026-09-19 05:02:44",
+      "stockList": [
+        "90.BK0922",
+        "106.ORCL"
+      ],
+      "summary": "据报道，甲骨文180亿美元数据中心债务因当地反对压力而面临挑战。",
+      "title": "据报道：甲骨文180亿美元数据中心债务因当地反对压力而面临挑战",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878948671.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0922",
+      "106.ORCL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "e91c737d7551151c",
+    "code": "202609193878939840",
+    "title": "医药工业“十五五”规划发布 释放创新驱动、数智转型等多重利好",
+    "summary": "【医药工业“十五五”规划发布 释放创新驱动、数智转型等多重利好】9月18日，工业和信息化部等十部门印发《医药工业发展“十五五”规划》（下称“规划”）。规划从八个方面部署25项重点任务，提出到2030年生物医药研发应用稳居世界前列，创新驱动效能充分释放，重点领域关键核心技术实现系统性突破。多家医药细分领域企业表示，规划内容涉及创新药企、AI制药平台、康复器械龙头、中药老字号等企业，释放创新驱动、数智转型等多重利好。",
+    "content": "【医药工业“十五五”规划发布 释放创新驱动、数智转型等多重利好】9月18日，工业和信息化部等十部门印发《医药工业发展“十五五”规划》（下称“规划”）。规划从八个方面部署25项重点任务，提出到2030年生物医药研发应用稳居世界前列，创新驱动效能充分释放，重点领域关键核心技术实现系统性突破。多家医药细分领域企业表示，规划内容涉及创新药企、AI制药平台、康复器械龙头、中药老字号等企业，释放创新驱动、数智转型等多重利好。",
+    "full_content": "【医药工业“十五五”规划发布 释放创新驱动、数智转型等多重利好】9月18日，工业和信息化部等十部门印发《医药工业发展“十五五”规划》（下称“规划”）。规划从八个方面部署25项重点任务，提出到2030年生物医药研发应用稳居世界前列，创新驱动效能充分释放，重点领域关键核心技术实现系统性突破。多家医药细分领域企业表示，规划内容涉及创新药企、AI制药平台、康复器械龙头、中药老字号等企业，释放创新驱动、数智转型等多重利好。",
+    "sort_time": "1789764630039840",
+    "showTime": "2026-09-19 04:50:30",
+    "time": "2026-09-19 04:50:30",
+    "publish_time": "2026-09-19 04:50:30",
+    "raw_data": {
+      "code": "202609193878939840",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1789764630039840",
+      "share": 2,
+      "showTime": "2026-09-19 04:50:30",
+      "stockList": [
+        "90.BK0465",
+        "90.BK0800"
+      ],
+      "summary": "【医药工业“十五五”规划发布 释放创新驱动、数智转型等多重利好】9月18日，工业和信息化部等十部门印发《医药工业发展“十五五”规划》（下称“规划”）。规划从八个方面部署25项重点任务，提出到2030年生物医药研发应用稳居世界前列，创新驱动效能充分释放，重点领域关键核心技术实现系统性突破。多家医药细分领域企业表示，规划内容涉及创新药企、AI制药平台、康复器械龙头、中药老字号等企业，释放创新驱动、数智转型等多重利好。",
+      "title": "医药工业“十五五”规划发布 释放创新驱动、数智转型等多重利好",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878939840.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0465",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010403",
+          "name": "中药",
+          "level1": "制造业",
+          "level2": "医药制造业",
+          "matched_keyword": "中药"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C301",
+          "name": "创新药",
+          "matched_keyword": "新药"
+        },
+        {
+          "id": "C302",
+          "name": "中药",
+          "matched_keyword": "中药"
+        }
+      ],
+      "industry_ids": [
+        "I010403"
+      ],
+      "concept_ids": [
+        "C001",
+        "C301",
+        "C302"
+      ]
+    }
+  },
+  {
+    "id": "cbf9107f236ff00a",
+    "code": "202609193878945775",
+    "title": "穆迪上调希腊评级展望至正面",
+    "summary": "【穆迪上调希腊评级展望至正面】穆迪上调希腊评级展望至正面，之前持稳定展望；将波兰的评级下调至A3，前景评估为稳定。",
+    "content": "【穆迪上调希腊评级展望至正面】穆迪上调希腊评级展望至正面，之前持稳定展望；将波兰的评级下调至A3，前景评估为稳定。",
+    "full_content": "【穆迪上调希腊评级展望至正面】穆迪上调希腊评级展望至正面，之前持稳定展望；将波兰的评级下调至A3，前景评估为稳定。",
+    "sort_time": "1789763963045775",
+    "showTime": "2026-09-19 04:39:23",
+    "time": "2026-09-19 04:39:23",
+    "publish_time": "2026-09-19 04:39:23",
+    "raw_data": {
+      "code": "202609193878945775",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789763963045775",
+      "share": 0,
+      "showTime": "2026-09-19 04:39:23",
+      "stockList": [],
+      "summary": "【穆迪上调希腊评级展望至正面】穆迪上调希腊评级展望至正面，之前持稳定展望；将波兰的评级下调至A3，前景评估为稳定。",
+      "title": "穆迪上调希腊评级展望至正面",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878945775.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9ffe1a8f25c15eed",
+    "code": "202609193878945538",
+    "title": "美联储数据显示：美国上周银行存款19.657万亿美元 之前一周19.566万亿美元",
+    "summary": "美联储数据显示，美国上周银行存款19.657万亿美元，之前一周19.566万亿美元。",
+    "content": "美联储数据显示，美国上周银行存款19.657万亿美元，之前一周19.566万亿美元。",
+    "full_content": "美联储数据显示，美国上周银行存款19.657万亿美元，之前一周19.566万亿美元。",
+    "sort_time": "1789763302045538",
+    "showTime": "2026-09-19 04:28:22",
+    "time": "2026-09-19 04:28:22",
+    "publish_time": "2026-09-19 04:28:22",
+    "raw_data": {
+      "code": "202609193878945538",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789763302045538",
+      "share": 0,
+      "showTime": "2026-09-19 04:28:22",
+      "stockList": [
+        "90.BK1283",
+        "0.161121"
+      ],
+      "summary": "美联储数据显示，美国上周银行存款19.657万亿美元，之前一周19.566万亿美元。",
+      "title": "美联储数据显示：美国上周银行存款19.657万亿美元 之前一周19.566万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878945538.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "5ace5ed6296e5d3a",
+    "code": "202609193878945430",
+    "title": "俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响",
+    "summary": "【俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响】当地时间9月18日，俄罗斯国家原子能公司通报称，17日，乌军无人机坠落在俄库尔斯克核电站二期1号机组冷却塔上时发生爆炸，造成轻微损坏。机组继续以100%功率运行，本底辐射水平正常、未发生变化。核电站运行安全仍有保障。",
+    "content": "【俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响】当地时间9月18日，俄罗斯国家原子能公司通报称，17日，乌军无人机坠落在俄库尔斯克核电站二期1号机组冷却塔上时发生爆炸，造成轻微损坏。机组继续以100%功率运行，本底辐射水平正常、未发生变化。核电站运行安全仍有保障。",
+    "full_content": "【俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响】当地时间9月18日，俄罗斯国家原子能公司通报称，17日，乌军无人机坠落在俄库尔斯克核电站二期1号机组冷却塔上时发生爆炸，造成轻微损坏。机组继续以100%功率运行，本底辐射水平正常、未发生变化。核电站运行安全仍有保障。",
+    "sort_time": "1789763127045430",
+    "showTime": "2026-09-19 04:25:27",
+    "time": "2026-09-19 04:25:27",
+    "publish_time": "2026-09-19 04:25:27",
+    "raw_data": {
+      "code": "202609193878945430",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789763127045430",
+      "share": 0,
+      "showTime": "2026-09-19 04:25:27",
+      "stockList": [
+        "90.BK0577"
+      ],
+      "summary": "【俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响】当地时间9月18日，俄罗斯国家原子能公司通报称，17日，乌军无人机坠落在俄库尔斯克核电站二期1号机组冷却塔上时发生爆炸，造成轻微损坏。机组继续以100%功率运行，本底辐射水平正常、未发生变化。核电站运行安全仍有保障。",
+      "title": "俄国家原子能公司称库尔斯克核电站冷却塔遭袭 运行未受影响",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878945430.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0577"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "核电站"
+        },
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109",
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "8b356b47f3c83297",
+    "code": "202609193878945311",
+    "title": "据报道：OpenAI首席执行官奥尔特曼将于下周向联合国安全理事会做简报",
+    "summary": "据报道，OpenAI首席执行官奥尔特曼将于下周向联合国安全理事会做简报。",
+    "content": "据报道，OpenAI首席执行官奥尔特曼将于下周向联合国安全理事会做简报。",
+    "full_content": "据报道，OpenAI首席执行官奥尔特曼将于下周向联合国安全理事会做简报。",
+    "sort_time": "1789762976045311",
+    "showTime": "2026-09-19 04:22:56",
+    "time": "2026-09-19 04:22:56",
+    "publish_time": "2026-09-19 04:22:56",
+    "raw_data": {
+      "code": "202609193878945311",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1789762976045311",
+      "share": 0,
+      "showTime": "2026-09-19 04:22:56",
+      "stockList": [],
+      "summary": "据报道，OpenAI首席执行官奥尔特曼将于下周向联合国安全理事会做简报。",
+      "title": "据报道：OpenAI首席执行官奥尔特曼将于下周向联合国安全理事会做简报",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878945311.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "5fca843a0dddfa22",
+    "code": "202609193878945250",
+    "title": "Scope将法国的信用评级从AA-下调至A+",
+    "summary": "【Scope将法国的信用评级从AA-下调至A+】Scope将法国的信用评级从AA-下调至A+；上调希腊信用评级至BBB+，之前为BBB评级。",
+    "content": "【Scope将法国的信用评级从AA-下调至A+】Scope将法国的信用评级从AA-下调至A+；上调希腊信用评级至BBB+，之前为BBB评级。",
+    "full_content": "【Scope将法国的信用评级从AA-下调至A+】Scope将法国的信用评级从AA-下调至A+；上调希腊信用评级至BBB+，之前为BBB评级。",
+    "sort_time": "1789762404045250",
+    "showTime": "2026-09-19 04:13:24",
+    "time": "2026-09-19 04:13:24",
+    "publish_time": "2026-09-19 04:13:24",
+    "raw_data": {
+      "code": "202609193878945250",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789762404045250",
+      "share": 0,
+      "showTime": "2026-09-19 04:13:24",
+      "stockList": [],
+      "summary": "【Scope将法国的信用评级从AA-下调至A+】Scope将法国的信用评级从AA-下调至A+；上调希腊信用评级至BBB+，之前为BBB评级。",
+      "title": "Scope将法国的信用评级从AA-下调至A+",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878945250.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0d9d9a579dd1bea4",
+    "code": "202609193878945188",
+    "title": "Anthropic表示埃森哲将评估其前沿AI",
+    "summary": "Anthropic表示埃森哲将评估其前沿AI。",
+    "content": "Anthropic表示埃森哲将评估其前沿AI。",
+    "full_content": "Anthropic表示埃森哲将评估其前沿AI。",
+    "sort_time": "1789762312045188",
+    "showTime": "2026-09-19 04:11:52",
+    "time": "2026-09-19 04:11:52",
+    "publish_time": "2026-09-19 04:11:52",
+    "raw_data": {
+      "code": "202609193878945188",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789762312045188",
+      "share": 0,
+      "showTime": "2026-09-19 04:11:52",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "Anthropic表示埃森哲将评估其前沿AI。",
+      "title": "Anthropic表示埃森哲将评估其前沿AI",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878945188.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "fe121d9e6cd1ac95",
+    "code": "202609193878944823",
+    "title": "Anthropic今年年化收入预计将超过1000亿美元 较7月时的650亿美元大幅增长",
+    "summary": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。",
+    "content": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。",
+    "full_content": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。",
+    "sort_time": "1789762240044823",
+    "showTime": "2026-09-19 04:10:40",
+    "time": "2026-09-19 04:10:40",
+    "publish_time": "2026-09-19 04:10:40",
+    "raw_data": {
+      "code": "202609193878944823",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789762240044823",
+      "share": 1,
+      "showTime": "2026-09-19 04:10:40",
+      "stockList": [],
+      "summary": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。",
+      "title": "Anthropic今年年化收入预计将超过1000亿美元 较7月时的650亿美元大幅增长",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878944823.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ae8ba6ba63d273db",
+    "code": "202609193878944983",
+    "title": "特朗普：伊朗战争将很快结束",
+    "summary": "【特朗普：伊朗战争将很快结束】美国总统特朗普称，伊朗战争将很快结束。一旦战争结束，汽油价格将会降至之前的水平，甚至可能更低。",
+    "content": "【特朗普：伊朗战争将很快结束】美国总统特朗普称，伊朗战争将很快结束。一旦战争结束，汽油价格将会降至之前的水平，甚至可能更低。",
+    "full_content": "【特朗普：伊朗战争将很快结束】美国总统特朗普称，伊朗战争将很快结束。一旦战争结束，汽油价格将会降至之前的水平，甚至可能更低。",
+    "sort_time": "1789762212044983",
+    "showTime": "2026-09-19 04:10:12",
+    "time": "2026-09-19 04:10:12",
+    "publish_time": "2026-09-19 04:10:12",
+    "raw_data": {
+      "code": "202609193878944983",
+      "image": [],
+      "pinglun_Num": 9,
+      "realSort": "1789762212044983",
+      "share": 1,
+      "showTime": "2026-09-19 04:10:12",
+      "stockList": [],
+      "summary": "【特朗普：伊朗战争将很快结束】美国总统特朗普称，伊朗战争将很快结束。一旦战争结束，汽油价格将会降至之前的水平，甚至可能更低。",
+      "title": "特朗普：伊朗战争将很快结束",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878944983.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 9,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b143627d5f82e89e",
+    "code": "202609193878944675",
+    "title": "据知情人士透露：Anthropic今年年化收入预计将超过1000亿美元 较7月时的650亿美元大幅增长",
+    "summary": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。",
+    "content": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。",
+    "full_content": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。",
+    "sort_time": "1789762208044675",
+    "showTime": "2026-09-19 04:10:08",
+    "time": "2026-09-19 04:10:08",
+    "publish_time": "2026-09-19 04:10:08",
+    "raw_data": {
+      "code": "202609193878944675",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1789762208044675",
+      "share": 2,
+      "showTime": "2026-09-19 04:10:08",
+      "stockList": [],
+      "summary": "据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。",
+      "title": "据知情人士透露：Anthropic今年年化收入预计将超过1000亿美元 较7月时的650亿美元大幅增长",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878944675.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "58e2b7d427cfa1ff",
+    "code": "202609193878944798",
+    "title": "晨星DBRS确认美国信用评级为AAA 评级趋势稳定",
+    "summary": "【晨星DBRS确认美国信用评级为AAA 评级趋势稳定】晨星DBRS确认美国信用评级为AAA，评级趋势稳定；将法国信用评级展望下调至负面，维持信用评级为AA。",
+    "content": "【晨星DBRS确认美国信用评级为AAA 评级趋势稳定】晨星DBRS确认美国信用评级为AAA，评级趋势稳定；将法国信用评级展望下调至负面，维持信用评级为AA。",
+    "full_content": "【晨星DBRS确认美国信用评级为AAA 评级趋势稳定】晨星DBRS确认美国信用评级为AAA，评级趋势稳定；将法国信用评级展望下调至负面，维持信用评级为AA。",
+    "sort_time": "1789762138044798",
+    "showTime": "2026-09-19 04:08:58",
+    "time": "2026-09-19 04:08:58",
+    "publish_time": "2026-09-19 04:08:58",
+    "raw_data": {
+      "code": "202609193878944798",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789762138044798",
+      "share": 0,
+      "showTime": "2026-09-19 04:08:58",
+      "stockList": [],
+      "summary": "【晨星DBRS确认美国信用评级为AAA 评级趋势稳定】晨星DBRS确认美国信用评级为AAA，评级趋势稳定；将法国信用评级展望下调至负面，维持信用评级为AA。",
+      "title": "晨星DBRS确认美国信用评级为AAA 评级趋势稳定",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878944798.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0b6e46611661aa3d",
+    "code": "202609193878944416",
+    "title": "美股三大指数收盘涨跌不一 加密货币概念大涨",
+    "summary": "【美股三大指数收盘涨跌不一 加密货币概念大涨】美股三大指数收盘涨跌不一，纳指涨0.39%，本周累涨0.72%；标普500指数涨0.16%，本周累跌0.09%；道指跌0.19%，本周累跌1.7%，周线三连跌。费城半导体指数尾盘快速拉升，收涨2.78%。闪迪大涨约11%，Coherent涨超7%，希捷科技涨超6%，西部数据涨超4%，美光科技涨超3%，AMD、SK海力士涨逾2%。加密货币概念大涨，Strategy涨超16%，MARA Holdings涨超13%，Coinbase涨超11%，Robinhood涨超9%，Bitmine、Circle涨超8%，Cipher涨超7%。",
+    "content": "【美股三大指数收盘涨跌不一 加密货币概念大涨】美股三大指数收盘涨跌不一，纳指涨0.39%，本周累涨0.72%；标普500指数涨0.16%，本周累跌0.09%；道指跌0.19%，本周累跌1.7%，周线三连跌。费城半导体指数尾盘快速拉升，收涨2.78%。闪迪大涨约11%，Coherent涨超7%，希捷科技涨超6%，西部数据涨超4%，美光科技涨超3%，AMD、SK海力士涨逾2%。加密货币概念大涨，Strategy涨超16%，MARA Holdings涨超13%，Coinbase涨超11%，Robinhood涨超9%，Bitmine、Circle涨超8%，Cipher涨超7%。",
+    "full_content": "【美股三大指数收盘涨跌不一 加密货币概念大涨】美股三大指数收盘涨跌不一，纳指涨0.39%，本周累涨0.72%；标普500指数涨0.16%，本周累跌0.09%；道指跌0.19%，本周累跌1.7%，周线三连跌。费城半导体指数尾盘快速拉升，收涨2.78%。闪迪大涨约11%，Coherent涨超7%，希捷科技涨超6%，西部数据涨超4%，美光科技涨超3%，AMD、SK海力士涨逾2%。加密货币概念大涨，Strategy涨超16%，MARA Holdings涨超13%，Coinbase涨超11%，Robinhood涨超9%，Bitmine、Circle涨超8%，Cipher涨超7%。",
+    "sort_time": "1789761616044416",
+    "showTime": "2026-09-19 04:00:16",
+    "time": "2026-09-19 04:00:16",
+    "publish_time": "2026-09-19 04:00:16",
+    "raw_data": {
+      "code": "202609193878944416",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1789761616044416",
+      "share": 3,
+      "showTime": "2026-09-19 04:00:16",
+      "stockList": [
+        "150.512480",
+        "150.013446"
+      ],
+      "summary": "【美股三大指数收盘涨跌不一 加密货币概念大涨】美股三大指数收盘涨跌不一，纳指涨0.39%，本周累涨0.72%；标普500指数涨0.16%，本周累跌0.09%；道指跌0.19%，本周累跌1.7%，周线三连跌。费城半导体指数尾盘快速拉升，收涨2.78%。闪迪大涨约11%，Coherent涨超7%，希捷科技涨超6%，西部数据涨超4%，美光科技涨超3%，AMD、SK海力士涨逾2%。加密货币概念大涨，Strategy涨超16%，MARA Holdings涨超13%，Coinbase涨超11%，Robinhood涨超9%，Bitmine、Circle涨超8%，Cipher涨超7%。",
+      "title": "美股三大指数收盘涨跌不一 加密货币概念大涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878944416.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.512480",
+      "150.013446"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 8,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "AR"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "C009",
+          "name": "元宇宙",
+          "matched_keyword": "AR"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I010103"
+      ],
+      "concept_ids": [
+        "C002",
+        "C009"
+      ]
+    }
+  },
+  {
+    "id": "c83aae7d63b88aaa",
+    "code": "202609193878943125",
+    "title": "费城半导体指数涨2%",
+    "summary": "【费城半导体指数涨2%】费城半导体指数涨2%，报11835.33点。英伟达股价上涨0.24%，台积电股价上涨0.09%，博通股价上涨2.76%，美光科技股价上涨3.35%，超威半导体股价上涨1.42%，英特尔股价下跌0.08%，ARM股价上涨2.54%，闪迪股价上涨9.26%。",
+    "content": "【费城半导体指数涨2%】费城半导体指数涨2%，报11835.33点。英伟达股价上涨0.24%，台积电股价上涨0.09%，博通股价上涨2.76%，美光科技股价上涨3.35%，超威半导体股价上涨1.42%，英特尔股价下跌0.08%，ARM股价上涨2.54%，闪迪股价上涨9.26%。",
+    "full_content": "【费城半导体指数涨2%】费城半导体指数涨2%，报11835.33点。英伟达股价上涨0.24%，台积电股价上涨0.09%，博通股价上涨2.76%，美光科技股价上涨3.35%，超威半导体股价上涨1.42%，英特尔股价下跌0.08%，ARM股价上涨2.54%，闪迪股价上涨9.26%。",
+    "sort_time": "1789761096043125",
+    "showTime": "2026-09-19 03:51:36",
+    "time": "2026-09-19 03:51:36",
+    "publish_time": "2026-09-19 03:51:36",
+    "raw_data": {
+      "code": "202609193878943125",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1789761096043125",
+      "share": 3,
+      "showTime": "2026-09-19 03:51:36",
+      "stockList": [
+        "90.BK1036",
+        "90.BK0459"
+      ],
+      "summary": "【费城半导体指数涨2%】费城半导体指数涨2%，报11835.33点。英伟达股价上涨0.24%，台积电股价上涨0.09%，博通股价上涨2.76%，美光科技股价上涨3.35%，超威半导体股价上涨1.42%，英特尔股价下跌0.08%，ARM股价上涨2.54%，闪迪股价上涨9.26%。",
+      "title": "费城半导体指数涨2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878943125.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1036",
+      "90.BK0459"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "AR"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "C009",
+          "name": "元宇宙",
+          "matched_keyword": "AR"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I010103"
+      ],
+      "concept_ids": [
+        "C002",
+        "C009"
+      ]
+    }
+  },
+  {
+    "id": "51fc688162ea0a4a",
+    "code": "202609193878943096",
+    "title": "消息人士称：AI基础设施公司NScale提交美国IPO申请 计划以“NSCL”代码登陆纽交所",
+    "summary": "消息人士称，AI基础设施公司NScale提交美国IPO申请，计划以“NSCL”代码登陆纽交所。",
+    "content": "消息人士称，AI基础设施公司NScale提交美国IPO申请，计划以“NSCL”代码登陆纽交所。",
+    "full_content": "消息人士称，AI基础设施公司NScale提交美国IPO申请，计划以“NSCL”代码登陆纽交所。",
+    "sort_time": "1789760967043096",
+    "showTime": "2026-09-19 03:49:27",
+    "time": "2026-09-19 03:49:27",
+    "publish_time": "2026-09-19 03:49:27",
+    "raw_data": {
+      "code": "202609193878943096",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1789760967043096",
+      "share": 0,
+      "showTime": "2026-09-19 03:49:27",
+      "stockList": [
+        "90.BK0800",
+        "90.BK0697"
+      ],
+      "summary": "消息人士称，AI基础设施公司NScale提交美国IPO申请，计划以“NSCL”代码登陆纽交所。",
+      "title": "消息人士称：AI基础设施公司NScale提交美国IPO申请 计划以“NSCL”代码登陆纽交所",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202609193878943096.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
     "id": "28a68995be3cc914",
     "code": "202609193878942197",
     "title": "CFTC：截至9月15日当周 交易员2025年以来首次转而看涨日元",
@@ -211,7 +1407,7 @@
     "raw_data": {
       "code": "202609193878941046",
       "image": [],
-      "pinglun_Num": 0,
+      "pinglun_Num": 1,
       "realSort": "1789759215041046",
       "share": 0,
       "showTime": "2026-09-19 03:20:15",
@@ -227,7 +1423,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -297,7 +1493,7 @@
     "raw_data": {
       "code": "202609193878940746",
       "image": [],
-      "pinglun_Num": 4,
+      "pinglun_Num": 6,
       "realSort": "1789758431040746",
       "share": 1,
       "showTime": "2026-09-19 03:07:11",
@@ -313,7 +1509,7 @@
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 4,
+    "comment_count": 6,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1095,7 +2291,7 @@
       "image": [],
       "pinglun_Num": 0,
       "realSort": "1789750680030579",
-      "share": 0,
+      "share": 1,
       "showTime": "2026-09-19 00:58:00",
       "stockList": [
         "90.BK0433",
@@ -1116,7 +2312,7 @@
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [
         {
@@ -1184,1186 +2380,6 @@
       "concept_ids": [
         "C109",
         "C205"
-      ]
-    }
-  },
-  {
-    "id": "3adc1cda10d6479a",
-    "code": "202609193878930139",
-    "title": "美联储施密德：美国经济强劲 持续增长",
-    "summary": "美联储施密德称，美国经济强劲，持续增长；正处于一个相当正常化的状态。",
-    "content": "美联储施密德称，美国经济强劲，持续增长；正处于一个相当正常化的状态。",
-    "full_content": "美联储施密德称，美国经济强劲，持续增长；正处于一个相当正常化的状态。",
-    "sort_time": "1789749752030139",
-    "showTime": "2026-09-19 00:42:32",
-    "time": "2026-09-19 00:42:32",
-    "publish_time": "2026-09-19 00:42:32",
-    "raw_data": {
-      "code": "202609193878930139",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1789749752030139",
-      "share": 0,
-      "showTime": "2026-09-19 00:42:32",
-      "stockList": [],
-      "summary": "美联储施密德称，美国经济强劲，持续增长；正处于一个相当正常化的状态。",
-      "title": "美联储施密德：美国经济强劲 持续增长",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609193878930139.html",
-    "category": "国际",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d8dff3de3f7030af",
-    "code": "202609193878928611",
-    "title": "国际原油短线快速回落",
-    "summary": "【国际原油短线快速回落】截至目前，WTI原油期货价格跌1.11%，报96.153美元/桶；布伦特原油期货价格跌0.54%，报99.394美元/桶。消息面上，据报道，美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-    "content": "【国际原油短线快速回落】截至目前，WTI原油期货价格跌1.11%，报96.153美元/桶；布伦特原油期货价格跌0.54%，报99.394美元/桶。消息面上，据报道，美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-    "full_content": "【国际原油短线快速回落】截至目前，WTI原油期货价格跌1.11%，报96.153美元/桶；布伦特原油期货价格跌0.54%，报99.394美元/桶。消息面上，据报道，美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-    "sort_time": "1789749370028611",
-    "showTime": "2026-09-19 00:36:10",
-    "time": "2026-09-19 00:36:10",
-    "publish_time": "2026-09-19 00:36:10",
-    "raw_data": {
-      "code": "202609193878928611",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789749370028611",
-      "share": 3,
-      "showTime": "2026-09-19 00:36:10",
-      "stockList": [],
-      "summary": "【国际原油短线快速回落】截至目前，WTI原油期货价格跌1.11%，报96.153美元/桶；布伦特原油期货价格跌0.54%，报99.394美元/桶。消息面上，据报道，美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-      "title": "国际原油短线快速回落",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609193878928611.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "bc0dcde724805d3f",
-    "code": "202609193878928342",
-    "title": "据报道 美国总统特朗普表示：美国正在与胡塞武装进行谈判",
-    "summary": "据报道，美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-    "content": "据报道，美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-    "full_content": "据报道，美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-    "sort_time": "1789749072028342",
-    "showTime": "2026-09-19 00:31:12",
-    "time": "2026-09-19 00:31:12",
-    "publish_time": "2026-09-19 00:31:12",
-    "raw_data": {
-      "code": "202609193878928342",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1789749072028342",
-      "share": 4,
-      "showTime": "2026-09-19 00:31:12",
-      "stockList": [],
-      "summary": "据报道，美国总统特朗普表示，美国正在与胡塞武装进行谈判，胡塞武装也希望达成协议。",
-      "title": "据报道 美国总统特朗普表示：美国正在与胡塞武装进行谈判",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609193878928342.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b8e9202e4ccc8aac",
-    "code": "202609193878927853",
-    "title": "美联储施密德表示：美国财政部回购国债不会让美联储的工作变得更困难或更容易",
-    "summary": "美联储施密德表示，美国财政部回购国债不会让美联储的工作变得更困难或更容易。",
-    "content": "美联储施密德表示，美国财政部回购国债不会让美联储的工作变得更困难或更容易。",
-    "full_content": "美联储施密德表示，美国财政部回购国债不会让美联储的工作变得更困难或更容易。",
-    "sort_time": "1789748984027853",
-    "showTime": "2026-09-19 00:29:44",
-    "time": "2026-09-19 00:29:44",
-    "publish_time": "2026-09-19 00:29:44",
-    "raw_data": {
-      "code": "202609193878927853",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1789748984027853",
-      "share": 0,
-      "showTime": "2026-09-19 00:29:44",
-      "stockList": [],
-      "summary": "美联储施密德表示，美国财政部回购国债不会让美联储的工作变得更困难或更容易。",
-      "title": "美联储施密德表示：美国财政部回购国债不会让美联储的工作变得更困难或更容易",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609193878927853.html",
-    "category": "债券",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "773c3ac6308529f0",
-    "code": "202609193878926154",
-    "title": "欧盟拟推未成年人社媒禁令",
-    "summary": "【欧盟拟推未成年人社媒禁令】欧盟委员会9月17日正式公布了《欧盟儿童法案》提案文本，准备重新规定欧盟未成年人使用社交媒体的年龄限制：13岁以下禁用，满15岁才能独立开号。不过，不管是年龄核验，还是责任落地，欧盟的这一提案仍面临多重挑战。",
-    "content": "【欧盟拟推未成年人社媒禁令】欧盟委员会9月17日正式公布了《欧盟儿童法案》提案文本，准备重新规定欧盟未成年人使用社交媒体的年龄限制：13岁以下禁用，满15岁才能独立开号。不过，不管是年龄核验，还是责任落地，欧盟的这一提案仍面临多重挑战。",
-    "full_content": "【欧盟拟推未成年人社媒禁令】欧盟委员会9月17日正式公布了《欧盟儿童法案》提案文本，准备重新规定欧盟未成年人使用社交媒体的年龄限制：13岁以下禁用，满15岁才能独立开号。不过，不管是年龄核验，还是责任落地，欧盟的这一提案仍面临多重挑战。",
-    "sort_time": "1789748652026154",
-    "showTime": "2026-09-19 00:24:12",
-    "time": "2026-09-19 00:24:12",
-    "publish_time": "2026-09-19 00:24:12",
-    "raw_data": {
-      "code": "202609193878926154",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789748652026154",
-      "share": 0,
-      "showTime": "2026-09-19 00:24:12",
-      "stockList": [],
-      "summary": "【欧盟拟推未成年人社媒禁令】欧盟委员会9月17日正式公布了《欧盟儿童法案》提案文本，准备重新规定欧盟未成年人使用社交媒体的年龄限制：13岁以下禁用，满15岁才能独立开号。不过，不管是年龄核验，还是责任落地，欧盟的这一提案仍面临多重挑战。",
-      "title": "欧盟拟推未成年人社媒禁令",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609193878926154.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ded9431477b113c2",
-    "code": "202609193878925366",
-    "title": "以太坊突破2600美元",
-    "summary": "【以太坊突破2600美元】行情显示，以太坊涨至2601.19美元，过去24小时内涨5.33%；行情显示，比特币涨至81022.4美元，过去24小时内涨5.6%。",
-    "content": "【以太坊突破2600美元】行情显示，以太坊涨至2601.19美元，过去24小时内涨5.33%；行情显示，比特币涨至81022.4美元，过去24小时内涨5.6%。",
-    "full_content": "【以太坊突破2600美元】行情显示，以太坊涨至2601.19美元，过去24小时内涨5.33%；行情显示，比特币涨至81022.4美元，过去24小时内涨5.6%。",
-    "sort_time": "1789748380025366",
-    "showTime": "2026-09-19 00:19:40",
-    "time": "2026-09-19 00:19:40",
-    "publish_time": "2026-09-19 00:19:40",
-    "raw_data": {
-      "code": "202609193878925366",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789748380025366",
-      "share": 0,
-      "showTime": "2026-09-19 00:19:40",
-      "stockList": [],
-      "summary": "【以太坊突破2600美元】行情显示，以太坊涨至2601.19美元，过去24小时内涨5.33%；行情显示，比特币涨至81022.4美元，过去24小时内涨5.6%。",
-      "title": "以太坊突破2600美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609193878925366.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C008",
-          "name": "区块链",
-          "matched_keyword": "以太坊"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C008"
-      ]
-    }
-  },
-  {
-    "id": "0e5aae74dda0c8d5",
-    "code": "202609193878923435",
-    "title": "安理会完成联合国秘书长遴选第三轮意向性投票",
-    "summary": "【安理会完成联合国秘书长遴选第三轮意向性投票】安理会当月轮值主席、法国常驻联合国代表杰罗姆·博纳丰当地时间9月18日宣布，安理会当日已就下一任秘书长遴选完成第三轮意向性投票。意向性投票结果不对外公布，将通过候选人推举国通知各候选人。",
-    "content": "【安理会完成联合国秘书长遴选第三轮意向性投票】安理会当月轮值主席、法国常驻联合国代表杰罗姆·博纳丰当地时间9月18日宣布，安理会当日已就下一任秘书长遴选完成第三轮意向性投票。意向性投票结果不对外公布，将通过候选人推举国通知各候选人。",
-    "full_content": "【安理会完成联合国秘书长遴选第三轮意向性投票】安理会当月轮值主席、法国常驻联合国代表杰罗姆·博纳丰当地时间9月18日宣布，安理会当日已就下一任秘书长遴选完成第三轮意向性投票。意向性投票结果不对外公布，将通过候选人推举国通知各候选人。",
-    "sort_time": "1789747869023435",
-    "showTime": "2026-09-19 00:11:09",
-    "time": "2026-09-19 00:11:09",
-    "publish_time": "2026-09-19 00:11:09",
-    "raw_data": {
-      "code": "202609193878923435",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789747869023435",
-      "share": 0,
-      "showTime": "2026-09-19 00:11:09",
-      "stockList": [],
-      "summary": "【安理会完成联合国秘书长遴选第三轮意向性投票】安理会当月轮值主席、法国常驻联合国代表杰罗姆·博纳丰当地时间9月18日宣布，安理会当日已就下一任秘书长遴选完成第三轮意向性投票。意向性投票结果不对外公布，将通过候选人推举国通知各候选人。",
-      "title": "安理会完成联合国秘书长遴选第三轮意向性投票",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609193878923435.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "57a8099727ec1193",
-    "code": "202609193878922785",
-    "title": "秘鲁央行预计2026年国内生产总值增长率为3.2% 低于之前预估的3.4%",
-    "summary": "秘鲁央行预计2026年国内生产总值增长率为3.2%，低于之前预估的3.4%；预计2026年财政赤字占GDP的1.5%，低于之前预估的1.8%；预计2026年通胀率为4.2%，高于之前预估的3.8%。预计2027年国内生产总值增长3.0%。",
-    "content": "秘鲁央行预计2026年国内生产总值增长率为3.2%，低于之前预估的3.4%；预计2026年财政赤字占GDP的1.5%，低于之前预估的1.8%；预计2026年通胀率为4.2%，高于之前预估的3.8%。预计2027年国内生产总值增长3.0%。",
-    "full_content": "秘鲁央行预计2026年国内生产总值增长率为3.2%，低于之前预估的3.4%；预计2026年财政赤字占GDP的1.5%，低于之前预估的1.8%；预计2026年通胀率为4.2%，高于之前预估的3.8%。预计2027年国内生产总值增长3.0%。",
-    "sort_time": "1789747726022785",
-    "showTime": "2026-09-19 00:08:46",
-    "time": "2026-09-19 00:08:46",
-    "publish_time": "2026-09-19 00:08:46",
-    "raw_data": {
-      "code": "202609193878922785",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789747726022785",
-      "share": 0,
-      "showTime": "2026-09-19 00:08:46",
-      "stockList": [],
-      "summary": "秘鲁央行预计2026年国内生产总值增长率为3.2%，低于之前预估的3.4%；预计2026年财政赤字占GDP的1.5%，低于之前预估的1.8%；预计2026年通胀率为4.2%，高于之前预估的3.8%。预计2027年国内生产总值增长3.0%。",
-      "title": "秘鲁央行预计2026年国内生产总值增长率为3.2% 低于之前预估的3.4%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609193878922785.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "8adb15775cd364ad",
-    "code": "202609183878920145",
-    "title": "北京：制定北京市词元工厂分级评价标准 覆盖多个核心技术指标",
-    "summary": "【北京：制定北京市词元工厂分级评价标准 覆盖多个核心技术指标】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，高标准建设词元工厂。制定北京市词元工厂分级评价标准，覆盖模型适配数量、词元吞吐速度、首字延迟、缓存命中率、电能利用效率（PUE）等核心技术指标，优化土地资源、能耗指标、通信网络等要素保障，对具有行业引领力的词元工厂给予支持。",
-    "content": "【北京：制定北京市词元工厂分级评价标准 覆盖多个核心技术指标】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，高标准建设词元工厂。制定北京市词元工厂分级评价标准，覆盖模型适配数量、词元吞吐速度、首字延迟、缓存命中率、电能利用效率（PUE）等核心技术指标，优化土地资源、能耗指标、通信网络等要素保障，对具有行业引领力的词元工厂给予支持。",
-    "full_content": "【北京：制定北京市词元工厂分级评价标准 覆盖多个核心技术指标】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，高标准建设词元工厂。制定北京市词元工厂分级评价标准，覆盖模型适配数量、词元吞吐速度、首字延迟、缓存命中率、电能利用效率（PUE）等核心技术指标，优化土地资源、能耗指标、通信网络等要素保障，对具有行业引领力的词元工厂给予支持。",
-    "sort_time": "1789746865020145",
-    "showTime": "2026-09-18 23:54:25",
-    "time": "2026-09-18 23:54:25",
-    "publish_time": "2026-09-18 23:54:25",
-    "raw_data": {
-      "code": "202609183878920145",
-      "image": [],
-      "pinglun_Num": 18,
-      "realSort": "1789746865020145",
-      "share": 4,
-      "showTime": "2026-09-18 23:54:25",
-      "stockList": [
-        "90.BK0800",
-        "90.BK0150"
-      ],
-      "summary": "【北京：制定北京市词元工厂分级评价标准 覆盖多个核心技术指标】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，高标准建设词元工厂。制定北京市词元工厂分级评价标准，覆盖模型适配数量、词元吞吐速度、首字延迟、缓存命中率、电能利用效率（PUE）等核心技术指标，优化土地资源、能耗指标、通信网络等要素保障，对具有行业引领力的词元工厂给予支持。",
-      "title": "北京：制定北京市词元工厂分级评价标准 覆盖多个核心技术指标",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878920145.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "90.BK0150"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 18,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "通信"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "7c49ad46f8d9e311",
-    "code": "202609183878919237",
-    "title": "北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持",
-    "summary": "【北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，创新算力与词元金融工具。支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品，为企业提供中长期信贷支持，实施词元工程师再技能化培训，统筹产教融合、超级经济个体（OPC）产业实训等政策资源，支持词元工厂、数字产业园区和线上培训平台，对软件工程师开展模型调优、推理加速、平台运维、安全合规等培训，培育词元工程化人才梯队。",
-    "content": "【北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，创新算力与词元金融工具。支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品，为企业提供中长期信贷支持，实施词元工程师再技能化培训，统筹产教融合、超级经济个体（OPC）产业实训等政策资源，支持词元工厂、数字产业园区和线上培训平台，对软件工程师开展模型调优、推理加速、平台运维、安全合规等培训，培育词元工程化人才梯队。",
-    "full_content": "【北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，创新算力与词元金融工具。支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品，为企业提供中长期信贷支持，实施词元工程师再技能化培训，统筹产教融合、超级经济个体（OPC）产业实训等政策资源，支持词元工厂、数字产业园区和线上培训平台，对软件工程师开展模型调优、推理加速、平台运维、安全合规等培训，培育词元工程化人才梯队。",
-    "sort_time": "1789746765019237",
-    "showTime": "2026-09-18 23:52:45",
-    "time": "2026-09-18 23:52:45",
-    "publish_time": "2026-09-18 23:52:45",
-    "raw_data": {
-      "code": "202609183878919237",
-      "image": [],
-      "pinglun_Num": 38,
-      "realSort": "1789746765019237",
-      "share": 10,
-      "showTime": "2026-09-18 23:52:45",
-      "stockList": [
-        "90.BK1134",
-        "90.BK0150"
-      ],
-      "summary": "【北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，创新算力与词元金融工具。支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品，为企业提供中长期信贷支持，实施词元工程师再技能化培训，统筹产教融合、超级经济个体（OPC）产业实训等政策资源，支持词元工厂、数字产业园区和线上培训平台，对软件工程师开展模型调优、推理加速、平台运维、安全合规等培训，培育词元工程化人才梯队。",
-      "title": "北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878919237.html",
-    "category": "政策",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1134",
-      "90.BK0150"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 38,
-    "share_count": 10,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "0239ee69eeb8b303",
-    "code": "202609183878918819",
-    "title": "据报道 日本央行可能在外汇市场进行了利率检查",
-    "summary": "据报道，日本央行可能在外汇市场进行了利率检查。",
-    "content": "据报道，日本央行可能在外汇市场进行了利率检查。",
-    "full_content": "据报道，日本央行可能在外汇市场进行了利率检查。",
-    "sort_time": "1789746671018819",
-    "showTime": "2026-09-18 23:51:11",
-    "time": "2026-09-18 23:51:11",
-    "publish_time": "2026-09-18 23:51:11",
-    "raw_data": {
-      "code": "202609183878918819",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1789746671018819",
-      "share": 0,
-      "showTime": "2026-09-18 23:51:11",
-      "stockList": [],
-      "summary": "据报道，日本央行可能在外汇市场进行了利率检查。",
-      "title": "据报道 日本央行可能在外汇市场进行了利率检查",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878918819.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "央行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "央行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "1238b398a0866cb3",
-    "code": "202609183878918679",
-    "title": "北京：推动关键核心技术攻关 支持推理专用芯片、模型轻量化等技术攻关",
-    "summary": "【北京：推动关键核心技术攻关 支持推理专用芯片、模型轻量化等技术攻关】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，推动关键核心技术攻关。加快基础模型技术迭代，提升模型智能上限水平。推动模型与芯片适配调优，支持推理专用芯片、模型轻量化、边缘端部署等技术攻关，高水平建设、调用智算资源，全面提升词元生产能力。",
-    "content": "【北京：推动关键核心技术攻关 支持推理专用芯片、模型轻量化等技术攻关】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，推动关键核心技术攻关。加快基础模型技术迭代，提升模型智能上限水平。推动模型与芯片适配调优，支持推理专用芯片、模型轻量化、边缘端部署等技术攻关，高水平建设、调用智算资源，全面提升词元生产能力。",
-    "full_content": "【北京：推动关键核心技术攻关 支持推理专用芯片、模型轻量化等技术攻关】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，推动关键核心技术攻关。加快基础模型技术迭代，提升模型智能上限水平。推动模型与芯片适配调优，支持推理专用芯片、模型轻量化、边缘端部署等技术攻关，高水平建设、调用智算资源，全面提升词元生产能力。",
-    "sort_time": "1789746580018679",
-    "showTime": "2026-09-18 23:49:40",
-    "time": "2026-09-18 23:49:40",
-    "publish_time": "2026-09-18 23:49:40",
-    "raw_data": {
-      "code": "202609183878918679",
-      "image": [],
-      "pinglun_Num": 142,
-      "realSort": "1789746580018679",
-      "share": 80,
-      "showTime": "2026-09-18 23:49:40",
-      "stockList": [
-        "90.BK0800",
-        "90.BK0150"
-      ],
-      "summary": "【北京：推动关键核心技术攻关 支持推理专用芯片、模型轻量化等技术攻关】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，推动关键核心技术攻关。加快基础模型技术迭代，提升模型智能上限水平。推动模型与芯片适配调优，支持推理专用芯片、模型轻量化、边缘端部署等技术攻关，高水平建设、调用智算资源，全面提升词元生产能力。",
-      "title": "北京：推动关键核心技术攻关 支持推理专用芯片、模型轻量化等技术攻关",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878918679.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "90.BK0150"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 142,
-    "share_count": 80,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "50aba4f885c8ab8f",
-    "code": "202609183878913242",
-    "title": "国际原子能机构：俄罗斯一核电站冷却塔被无人机击中",
-    "summary": "【国际原子能机构：俄罗斯一核电站冷却塔被无人机击中】国际原子能机构18日说，获悉俄罗斯库尔斯克核电站一个反应堆机组的冷却塔于17日被无人机击中。",
-    "content": "【国际原子能机构：俄罗斯一核电站冷却塔被无人机击中】国际原子能机构18日说，获悉俄罗斯库尔斯克核电站一个反应堆机组的冷却塔于17日被无人机击中。",
-    "full_content": "【国际原子能机构：俄罗斯一核电站冷却塔被无人机击中】国际原子能机构18日说，获悉俄罗斯库尔斯克核电站一个反应堆机组的冷却塔于17日被无人机击中。",
-    "sort_time": "1789745941013242",
-    "showTime": "2026-09-18 23:39:01",
-    "time": "2026-09-18 23:39:01",
-    "publish_time": "2026-09-18 23:39:01",
-    "raw_data": {
-      "code": "202609183878913242",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789745941013242",
-      "share": 0,
-      "showTime": "2026-09-18 23:39:01",
-      "stockList": [
-        "90.BK0577",
-        "90.BK0704"
-      ],
-      "summary": "【国际原子能机构：俄罗斯一核电站冷却塔被无人机击中】国际原子能机构18日说，获悉俄罗斯库尔斯克核电站一个反应堆机组的冷却塔于17日被无人机击中。",
-      "title": "国际原子能机构：俄罗斯一核电站冷却塔被无人机击中",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878913242.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0577",
-      "90.BK0704"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C109",
-          "name": "核能",
-          "matched_keyword": "核电站"
-        },
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C109",
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "6b0940ce608e4ac5",
-    "code": "202609183878913155",
-    "title": "欧洲主要股指收盘集体下跌",
-    "summary": "【欧洲主要股指收盘集体下跌】英国富时100指数跌1.50%，法国CAC40指数跌1.62%，德国DAX30指数跌1.63%，富时意大利MIB指数跌1.60%。",
-    "content": "【欧洲主要股指收盘集体下跌】英国富时100指数跌1.50%，法国CAC40指数跌1.62%，德国DAX30指数跌1.63%，富时意大利MIB指数跌1.60%。",
-    "full_content": "【欧洲主要股指收盘集体下跌】英国富时100指数跌1.50%，法国CAC40指数跌1.62%，德国DAX30指数跌1.63%，富时意大利MIB指数跌1.60%。",
-    "sort_time": "1789745910013155",
-    "showTime": "2026-09-18 23:38:30",
-    "time": "2026-09-18 23:38:30",
-    "publish_time": "2026-09-18 23:38:30",
-    "raw_data": {
-      "code": "202609183878913155",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1789745910013155",
-      "share": 1,
-      "showTime": "2026-09-18 23:38:30",
-      "stockList": [],
-      "summary": "【欧洲主要股指收盘集体下跌】英国富时100指数跌1.50%，法国CAC40指数跌1.62%，德国DAX30指数跌1.63%，富时意大利MIB指数跌1.60%。",
-      "title": "欧洲主要股指收盘集体下跌",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878913155.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "cff903ff376717c2",
-    "code": "202609183878913594",
-    "title": "俄国防部称在乌克兰皮夫登尼港击中一艘货船",
-    "summary": "俄国防部称在乌克兰皮夫登尼港击中一艘货船。",
-    "content": "俄国防部称在乌克兰皮夫登尼港击中一艘货船。",
-    "full_content": "俄国防部称在乌克兰皮夫登尼港击中一艘货船。",
-    "sort_time": "1789745899013594",
-    "showTime": "2026-09-18 23:38:19",
-    "time": "2026-09-18 23:38:19",
-    "publish_time": "2026-09-18 23:38:19",
-    "raw_data": {
-      "code": "202609183878913594",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789745899013594",
-      "share": 0,
-      "showTime": "2026-09-18 23:38:19",
-      "stockList": [],
-      "summary": "俄国防部称在乌克兰皮夫登尼港击中一艘货船。",
-      "title": "俄国防部称在乌克兰皮夫登尼港击中一艘货船",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878913594.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "264ae054c5eef5fa",
-    "code": "202609183878912938",
-    "title": "美联储施密德：近期数据显示通胀趋势超过3% 加息是朝着恢复2%通胀目标迈出的一步",
-    "summary": "【美联储施密德：近期数据显示通胀趋势超过3% 加息是朝着恢复2%通胀目标迈出的一步】美联储施密德表示，投票支持加息，近期数据显示通胀趋势超过3%。加息是朝着恢复2%通胀目标迈出的一步。当前通胀问题不仅仅是能源问题，价格增长在广泛的商品和服务中“依然火热”。并表示，高通胀是供需失衡的迹象。除了通胀，经济表现良好；劳动力市场趋于平衡，经济增长稳健。",
-    "content": "【美联储施密德：近期数据显示通胀趋势超过3% 加息是朝着恢复2%通胀目标迈出的一步】美联储施密德表示，投票支持加息，近期数据显示通胀趋势超过3%。加息是朝着恢复2%通胀目标迈出的一步。当前通胀问题不仅仅是能源问题，价格增长在广泛的商品和服务中“依然火热”。并表示，高通胀是供需失衡的迹象。除了通胀，经济表现良好；劳动力市场趋于平衡，经济增长稳健。",
-    "full_content": "【美联储施密德：近期数据显示通胀趋势超过3% 加息是朝着恢复2%通胀目标迈出的一步】美联储施密德表示，投票支持加息，近期数据显示通胀趋势超过3%。加息是朝着恢复2%通胀目标迈出的一步。当前通胀问题不仅仅是能源问题，价格增长在广泛的商品和服务中“依然火热”。并表示，高通胀是供需失衡的迹象。除了通胀，经济表现良好；劳动力市场趋于平衡，经济增长稳健。",
-    "sort_time": "1789745668012938",
-    "showTime": "2026-09-18 23:34:28",
-    "time": "2026-09-18 23:34:28",
-    "publish_time": "2026-09-18 23:34:28",
-    "raw_data": {
-      "code": "202609183878912938",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1789745668012938",
-      "share": 1,
-      "showTime": "2026-09-18 23:34:28",
-      "stockList": [],
-      "summary": "【美联储施密德：近期数据显示通胀趋势超过3% 加息是朝着恢复2%通胀目标迈出的一步】美联储施密德表示，投票支持加息，近期数据显示通胀趋势超过3%。加息是朝着恢复2%通胀目标迈出的一步。当前通胀问题不仅仅是能源问题，价格增长在广泛的商品和服务中“依然火热”。并表示，高通胀是供需失衡的迹象。除了通胀，经济表现良好；劳动力市场趋于平衡，经济增长稳健。",
-      "title": "美联储施密德：近期数据显示通胀趋势超过3% 加息是朝着恢复2%通胀目标迈出的一步",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878912938.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "fdff9ecfbc4b8721",
-    "code": "202609183878912377",
-    "title": "大众汽车股价下跌7.5% 此前该公司下调了业绩前瞻",
-    "summary": "大众汽车股价下跌7.5%，此前该公司下调了业绩前瞻。",
-    "content": "大众汽车股价下跌7.5%，此前该公司下调了业绩前瞻。",
-    "full_content": "大众汽车股价下跌7.5%，此前该公司下调了业绩前瞻。",
-    "sort_time": "1789745257012377",
-    "showTime": "2026-09-18 23:27:37",
-    "time": "2026-09-18 23:27:37",
-    "publish_time": "2026-09-18 23:27:37",
-    "raw_data": {
-      "code": "202609183878912377",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789745257012377",
-      "share": 2,
-      "showTime": "2026-09-18 23:27:37",
-      "stockList": [
-        "90.BK1211"
-      ],
-      "summary": "大众汽车股价下跌7.5%，此前该公司下调了业绩前瞻。",
-      "title": "大众汽车股价下跌7.5% 此前该公司下调了业绩前瞻",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878912377.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "bearish",
-    "related_stocks": [
-      "90.BK1211"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 2,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c9d2a6e3e9210762",
-    "code": "202609183878912197",
-    "title": "美联储负责监管的副主席鲍曼：预计未来几周考虑对压力测试的最终修订",
-    "summary": "【美联储负责监管的副主席鲍曼：预计未来几周考虑对压力测试的最终修订】华尔街贷款机构距离适用更宽松的美联储压力测试相关资本要求更近了一步，随着美国监管机构继续放宽资本规定，大型银行料再获利好。美联储负责监管事务的副主席米歇尔·鲍曼在为周五伦敦一场活动准备的讲话中表示，对美联储压力测试的最终修改可能会回应有关风险敏感度以及测试涵盖哪些风险的关切。",
-    "content": "【美联储负责监管的副主席鲍曼：预计未来几周考虑对压力测试的最终修订】华尔街贷款机构距离适用更宽松的美联储压力测试相关资本要求更近了一步，随着美国监管机构继续放宽资本规定，大型银行料再获利好。美联储负责监管事务的副主席米歇尔·鲍曼在为周五伦敦一场活动准备的讲话中表示，对美联储压力测试的最终修改可能会回应有关风险敏感度以及测试涵盖哪些风险的关切。",
-    "full_content": "【美联储负责监管的副主席鲍曼：预计未来几周考虑对压力测试的最终修订】华尔街贷款机构距离适用更宽松的美联储压力测试相关资本要求更近了一步，随着美国监管机构继续放宽资本规定，大型银行料再获利好。美联储负责监管事务的副主席米歇尔·鲍曼在为周五伦敦一场活动准备的讲话中表示，对美联储压力测试的最终修改可能会回应有关风险敏感度以及测试涵盖哪些风险的关切。",
-    "sort_time": "1789745209012197",
-    "showTime": "2026-09-18 23:26:49",
-    "time": "2026-09-18 23:26:49",
-    "publish_time": "2026-09-18 23:26:49",
-    "raw_data": {
-      "code": "202609183878912197",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789745209012197",
-      "share": 1,
-      "showTime": "2026-09-18 23:26:49",
-      "stockList": [
-        "0.161121"
-      ],
-      "summary": "【美联储负责监管的副主席鲍曼：预计未来几周考虑对压力测试的最终修订】华尔街贷款机构距离适用更宽松的美联储压力测试相关资本要求更近了一步，随着美国监管机构继续放宽资本规定，大型银行料再获利好。美联储负责监管事务的副主席米歇尔·鲍曼在为周五伦敦一场活动准备的讲话中表示，对美联储压力测试的最终修改可能会回应有关风险敏感度以及测试涵盖哪些风险的关切。",
-      "title": "美联储负责监管的副主席鲍曼：预计未来几周考虑对压力测试的最终修订",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878912197.html",
-    "category": "国际",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "0.161121"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020101",
-          "name": "银行",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "银行"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        }
-      ],
-      "industry_ids": [
-        "I020101"
-      ],
-      "concept_ids": [
-        "C402"
-      ]
-    }
-  },
-  {
-    "id": "3e38b9412c73f547",
-    "code": "202609183878910266",
-    "title": "法国达飞海运表示：由于价格大幅上涨 将实施新的紧急燃油附加费",
-    "summary": "法国达飞海运表示，由于价格大幅上涨，将实施新的紧急燃油附加费。",
-    "content": "法国达飞海运表示，由于价格大幅上涨，将实施新的紧急燃油附加费。",
-    "full_content": "法国达飞海运表示，由于价格大幅上涨，将实施新的紧急燃油附加费。",
-    "sort_time": "1789744875010266",
-    "showTime": "2026-09-18 23:21:15",
-    "time": "2026-09-18 23:21:15",
-    "publish_time": "2026-09-18 23:21:15",
-    "raw_data": {
-      "code": "202609183878910266",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1789744875010266",
-      "share": 1,
-      "showTime": "2026-09-18 23:21:15",
-      "stockList": [
-        "90.BK0450"
-      ],
-      "summary": "法国达飞海运表示，由于价格大幅上涨，将实施新的紧急燃油附加费。",
-      "title": "法国达飞海运表示：由于价格大幅上涨 将实施新的紧急燃油附加费",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878910266.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0450"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "748ffd53d2d14cc0",
-    "code": "202609183878906173",
-    "title": "法国保险集团CNP Assurances据悉正在考虑对信用保险公司Coface发起收购要约",
-    "summary": "法国保险集团CNPAssurances据悉正在考虑对信用保险公司Coface发起收购要约。",
-    "content": "法国保险集团CNPAssurances据悉正在考虑对信用保险公司Coface发起收购要约。",
-    "full_content": "法国保险集团CNPAssurances据悉正在考虑对信用保险公司Coface发起收购要约。",
-    "sort_time": "1789744773006173",
-    "showTime": "2026-09-18 23:19:33",
-    "time": "2026-09-18 23:19:33",
-    "publish_time": "2026-09-18 23:19:33",
-    "raw_data": {
-      "code": "202609183878906173",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789744773006173",
-      "share": 0,
-      "showTime": "2026-09-18 23:19:33",
-      "stockList": [
-        "90.BK0474",
-        "90.BK1358"
-      ],
-      "summary": "法国保险集团CNPAssurances据悉正在考虑对信用保险公司Coface发起收购要约。",
-      "title": "法国保险集团CNP Assurances据悉正在考虑对信用保险公司Coface发起收购要约",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878906173.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0474",
-      "90.BK1358"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C403",
-          "name": "保险",
-          "matched_keyword": "保险"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C403"
-      ]
-    }
-  },
-  {
-    "id": "84ec3f30e5917d45",
-    "code": "202609183878906061",
-    "title": "大众汽车目前预计2026年营收将处于-3%至0%区间的中点",
-    "summary": "大众汽车目前预计2026年营收将处于-3%至0%区间的中点。大众汽车预计全年营业利润率将升至1%，此前预期为4%至5.5%，市场预期为4.29%。",
-    "content": "大众汽车目前预计2026年营收将处于-3%至0%区间的中点。大众汽车预计全年营业利润率将升至1%，此前预期为4%至5.5%，市场预期为4.29%。",
-    "full_content": "大众汽车目前预计2026年营收将处于-3%至0%区间的中点。大众汽车预计全年营业利润率将升至1%，此前预期为4%至5.5%，市场预期为4.29%。",
-    "sort_time": "1789744695006061",
-    "showTime": "2026-09-18 23:18:15",
-    "time": "2026-09-18 23:18:15",
-    "publish_time": "2026-09-18 23:18:15",
-    "raw_data": {
-      "code": "202609183878906061",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1789744695006061",
-      "share": 0,
-      "showTime": "2026-09-18 23:18:15",
-      "stockList": [
-        "90.BK1211",
-        "1007.BK000060"
-      ],
-      "summary": "大众汽车目前预计2026年营收将处于-3%至0%区间的中点。大众汽车预计全年营业利润率将升至1%，此前预期为4%至5.5%，市场预期为4.29%。",
-      "title": "大众汽车目前预计2026年营收将处于-3%至0%区间的中点",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878906061.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1211",
-      "1007.BK000060"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "427dcae187b9cfda",
-    "code": "202609183878905343",
-    "title": "平陆运河水上“一站式”解纷中心正式成立",
-    "summary": "【平陆运河水上“一站式”解纷中心正式成立】第23届中国—东盟商务与投资峰会平行论坛“中国—东盟商事法律论坛 2026中国仲裁周南宁专场”2026年9月18日在南宁成功举办。论坛期间宣布，平陆运河水上“一站式”解纷中心正式成立。该中心聚焦平陆运河通航运营海事海商纠纷化解，标志着广西水上纠纷多元化解工作迈入协同共治新阶段。",
-    "content": "【平陆运河水上“一站式”解纷中心正式成立】第23届中国—东盟商务与投资峰会平行论坛“中国—东盟商事法律论坛 2026中国仲裁周南宁专场”2026年9月18日在南宁成功举办。论坛期间宣布，平陆运河水上“一站式”解纷中心正式成立。该中心聚焦平陆运河通航运营海事海商纠纷化解，标志着广西水上纠纷多元化解工作迈入协同共治新阶段。",
-    "full_content": "【平陆运河水上“一站式”解纷中心正式成立】第23届中国—东盟商务与投资峰会平行论坛“中国—东盟商事法律论坛 2026中国仲裁周南宁专场”2026年9月18日在南宁成功举办。论坛期间宣布，平陆运河水上“一站式”解纷中心正式成立。该中心聚焦平陆运河通航运营海事海商纠纷化解，标志着广西水上纠纷多元化解工作迈入协同共治新阶段。",
-    "sort_time": "1789744642005343",
-    "showTime": "2026-09-18 23:17:22",
-    "time": "2026-09-18 23:17:22",
-    "publish_time": "2026-09-18 23:17:22",
-    "raw_data": {
-      "code": "202609183878905343",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1789744642005343",
-      "share": 0,
-      "showTime": "2026-09-18 23:17:22",
-      "stockList": [],
-      "summary": "【平陆运河水上“一站式”解纷中心正式成立】第23届中国—东盟商务与投资峰会平行论坛“中国—东盟商事法律论坛 2026中国仲裁周南宁专场”2026年9月18日在南宁成功举办。论坛期间宣布，平陆运河水上“一站式”解纷中心正式成立。该中心聚焦平陆运河通航运营海事海商纠纷化解，标志着广西水上纠纷多元化解工作迈入协同共治新阶段。",
-      "title": "平陆运河水上“一站式”解纷中心正式成立",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878905343.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4932b06189db5d81",
-    "code": "202609183878905717",
-    "title": "Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番",
-    "summary": "【Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番】Anthropic据悉已告知投资者，公司计划到今年底拥有约5吉瓦的可用算力，此举表明在这家人工智能公司筹备首次公开募股(IPO)之际，其正在加快扩张计划。报道称，Anthropic预计到明年底将把这一算力规模再扩大约一倍。Anthropic截至去年拥有的可用算力约为1.5吉瓦。",
-    "content": "【Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番】Anthropic据悉已告知投资者，公司计划到今年底拥有约5吉瓦的可用算力，此举表明在这家人工智能公司筹备首次公开募股(IPO)之际，其正在加快扩张计划。报道称，Anthropic预计到明年底将把这一算力规模再扩大约一倍。Anthropic截至去年拥有的可用算力约为1.5吉瓦。",
-    "full_content": "【Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番】Anthropic据悉已告知投资者，公司计划到今年底拥有约5吉瓦的可用算力，此举表明在这家人工智能公司筹备首次公开募股(IPO)之际，其正在加快扩张计划。报道称，Anthropic预计到明年底将把这一算力规模再扩大约一倍。Anthropic截至去年拥有的可用算力约为1.5吉瓦。",
-    "sort_time": "1789744622005717",
-    "showTime": "2026-09-18 23:17:02",
-    "time": "2026-09-18 23:17:02",
-    "publish_time": "2026-09-18 23:17:02",
-    "raw_data": {
-      "code": "202609183878905717",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1789744622005717",
-      "share": 1,
-      "showTime": "2026-09-18 23:17:02",
-      "stockList": [
-        "90.BK1134"
-      ],
-      "summary": "【Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番】Anthropic据悉已告知投资者，公司计划到今年底拥有约5吉瓦的可用算力，此举表明在这家人工智能公司筹备首次公开募股(IPO)之际，其正在加快扩张计划。报道称，Anthropic预计到明年底将把这一算力规模再扩大约一倍。Anthropic截至去年拥有的可用算力约为1.5吉瓦。",
-      "title": "Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878905717.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1134"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020202",
-          "name": "投资银行",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "IPO"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [
-        "I020202"
-      ],
-      "concept_ids": [
-        "C001",
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "72c7bf493f98f395",
-    "code": "202609183878904946",
-    "title": "加州州长纽森发布行政令 推动建立人工智能“紧急关停”机制",
-    "summary": "【加州州长纽森发布行政令 推动建立人工智能“紧急关停”机制】加利福尼亚州州长加文·纽森发布行政令，旨在加快推进对人工智能的独立监督，并推动建立人工智能“紧急关停”机制，呼吁全美范围内采用加利福尼亚州的人工智能框架。",
-    "content": "【加州州长纽森发布行政令 推动建立人工智能“紧急关停”机制】加利福尼亚州州长加文·纽森发布行政令，旨在加快推进对人工智能的独立监督，并推动建立人工智能“紧急关停”机制，呼吁全美范围内采用加利福尼亚州的人工智能框架。",
-    "full_content": "【加州州长纽森发布行政令 推动建立人工智能“紧急关停”机制】加利福尼亚州州长加文·纽森发布行政令，旨在加快推进对人工智能的独立监督，并推动建立人工智能“紧急关停”机制，呼吁全美范围内采用加利福尼亚州的人工智能框架。",
-    "sort_time": "1789744490004946",
-    "showTime": "2026-09-18 23:14:50",
-    "time": "2026-09-18 23:14:50",
-    "publish_time": "2026-09-18 23:14:50",
-    "raw_data": {
-      "code": "202609183878904946",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1789744490004946",
-      "share": 0,
-      "showTime": "2026-09-18 23:14:50",
-      "stockList": [
-        "90.BK0800",
-        "0.161631"
-      ],
-      "summary": "【加州州长纽森发布行政令 推动建立人工智能“紧急关停”机制】加利福尼亚州州长加文·纽森发布行政令，旨在加快推进对人工智能的独立监督，并推动建立人工智能“紧急关停”机制，呼吁全美范围内采用加利福尼亚州的人工智能框架。",
-      "title": "加州州长纽森发布行政令 推动建立人工智能“紧急关停”机制",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202609183878904946.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "0.161631"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
       ]
     }
   }
