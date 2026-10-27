@@ -1,5 +1,2361 @@
 [
   {
+    "id": "c6306a55247e5eb0",
+    "code": "202610283910637366",
+    "title": "欧盟委员会提出加强欧盟气候风险应对能力",
+    "summary": "【欧盟委员会提出加强欧盟气候风险应对能力】欧盟委员会27日发布欧盟气候韧性框架，旨在加强欧盟预判、应对和管理气候风险的能力。",
+    "content": "【欧盟委员会提出加强欧盟气候风险应对能力】欧盟委员会27日发布欧盟气候韧性框架，旨在加强欧盟预判、应对和管理气候风险的能力。",
+    "full_content": "【欧盟委员会提出加强欧盟气候风险应对能力】欧盟委员会27日发布欧盟气候韧性框架，旨在加强欧盟预判、应对和管理气候风险的能力。",
+    "sort_time": "1793125732037366",
+    "showTime": "2026-10-28 02:28:52",
+    "time": "2026-10-28 02:28:52",
+    "publish_time": "2026-10-28 02:28:52",
+    "raw_data": {
+      "code": "202610283910637366",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793125732037366",
+      "share": 0,
+      "showTime": "2026-10-28 02:28:52",
+      "stockList": [],
+      "summary": "【欧盟委员会提出加强欧盟气候风险应对能力】欧盟委员会27日发布欧盟气候韧性框架，旨在加强欧盟预判、应对和管理气候风险的能力。",
+      "title": "欧盟委员会提出加强欧盟气候风险应对能力",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910637366.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b59f72482fa2402a",
+    "code": "202610283910637171",
+    "title": "以色列选举官员裁定不延长投票时间",
+    "summary": "以色列选举官员裁定不延长投票时间。",
+    "content": "以色列选举官员裁定不延长投票时间。",
+    "full_content": "以色列选举官员裁定不延长投票时间。",
+    "sort_time": "1793125328037171",
+    "showTime": "2026-10-28 02:22:08",
+    "time": "2026-10-28 02:22:08",
+    "publish_time": "2026-10-28 02:22:08",
+    "raw_data": {
+      "code": "202610283910637171",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793125328037171",
+      "share": 0,
+      "showTime": "2026-10-28 02:22:08",
+      "stockList": [],
+      "summary": "以色列选举官员裁定不延长投票时间。",
+      "title": "以色列选举官员裁定不延长投票时间",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910637171.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1f9422df6ba1c758",
+    "code": "202610283910637294",
+    "title": "OpenAI因一起ChatGPT癫痫医疗建议导致的致命事件被起诉",
+    "summary": "OpenAI因一起ChatGPT癫痫医疗建议导致的致命事件被起诉。",
+    "content": "OpenAI因一起ChatGPT癫痫医疗建议导致的致命事件被起诉。",
+    "full_content": "OpenAI因一起ChatGPT癫痫医疗建议导致的致命事件被起诉。",
+    "sort_time": "1793125313037294",
+    "showTime": "2026-10-28 02:21:53",
+    "time": "2026-10-28 02:21:53",
+    "publish_time": "2026-10-28 02:21:53",
+    "raw_data": {
+      "code": "202610283910637294",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793125313037294",
+      "share": 0,
+      "showTime": "2026-10-28 02:21:53",
+      "stockList": [
+        "90.BK1126"
+      ],
+      "summary": "OpenAI因一起ChatGPT癫痫医疗建议导致的致命事件被起诉。",
+      "title": "OpenAI因一起ChatGPT癫痫医疗建议导致的致命事件被起诉",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910637294.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1126"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "ChatGPT"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "1b8e344c0bfe60c4",
+    "code": "202610283910637022",
+    "title": "保加利亚总统选举将进入第二轮投票",
+    "summary": "【保加利亚总统选举将进入第二轮投票】根据保加利亚中央选举委员会27日公布的结果，现任总统约托娃和前看守政府总理安德烈·古罗夫在总统选举投票中位居前两位，但得票均未过半，两人将于11月1日在第二轮投票中对决。",
+    "content": "【保加利亚总统选举将进入第二轮投票】根据保加利亚中央选举委员会27日公布的结果，现任总统约托娃和前看守政府总理安德烈·古罗夫在总统选举投票中位居前两位，但得票均未过半，两人将于11月1日在第二轮投票中对决。",
+    "full_content": "【保加利亚总统选举将进入第二轮投票】根据保加利亚中央选举委员会27日公布的结果，现任总统约托娃和前看守政府总理安德烈·古罗夫在总统选举投票中位居前两位，但得票均未过半，两人将于11月1日在第二轮投票中对决。",
+    "sort_time": "1793125049037022",
+    "showTime": "2026-10-28 02:17:29",
+    "time": "2026-10-28 02:17:29",
+    "publish_time": "2026-10-28 02:17:29",
+    "raw_data": {
+      "code": "202610283910637022",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793125049037022",
+      "share": 0,
+      "showTime": "2026-10-28 02:17:29",
+      "stockList": [],
+      "summary": "【保加利亚总统选举将进入第二轮投票】根据保加利亚中央选举委员会27日公布的结果，现任总统约托娃和前看守政府总理安德烈·古罗夫在总统选举投票中位居前两位，但得票均未过半，两人将于11月1日在第二轮投票中对决。",
+      "title": "保加利亚总统选举将进入第二轮投票",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910637022.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a2998b3c8f2e272a",
+    "code": "202610283910636926",
+    "title": "俄罗斯将7名英国军工企业高管列入禁止入境名单",
+    "summary": "【俄罗斯将7名英国军工企业高管列入禁止入境名单】俄罗斯外交部27日发表声明说，为回应英国当局的敌对政策，俄罗斯决定将7名英国军工企业高管列入俄禁止入境名单。声明说，这7名高管向乌克兰提供武器和军事技术，且被用于深入俄罗斯境内实施打击，目标是给俄罗斯造成破坏。声明还提及，英国称其军工企业从中获得某种“国防红利”。",
+    "content": "【俄罗斯将7名英国军工企业高管列入禁止入境名单】俄罗斯外交部27日发表声明说，为回应英国当局的敌对政策，俄罗斯决定将7名英国军工企业高管列入俄禁止入境名单。声明说，这7名高管向乌克兰提供武器和军事技术，且被用于深入俄罗斯境内实施打击，目标是给俄罗斯造成破坏。声明还提及，英国称其军工企业从中获得某种“国防红利”。",
+    "full_content": "【俄罗斯将7名英国军工企业高管列入禁止入境名单】俄罗斯外交部27日发表声明说，为回应英国当局的敌对政策，俄罗斯决定将7名英国军工企业高管列入俄禁止入境名单。声明说，这7名高管向乌克兰提供武器和军事技术，且被用于深入俄罗斯境内实施打击，目标是给俄罗斯造成破坏。声明还提及，英国称其军工企业从中获得某种“国防红利”。",
+    "sort_time": "1793124444036926",
+    "showTime": "2026-10-28 02:07:24",
+    "time": "2026-10-28 02:07:24",
+    "publish_time": "2026-10-28 02:07:24",
+    "raw_data": {
+      "code": "202610283910636926",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793124444036926",
+      "share": 0,
+      "showTime": "2026-10-28 02:07:24",
+      "stockList": [
+        "90.BK0480"
+      ],
+      "summary": "【俄罗斯将7名英国军工企业高管列入禁止入境名单】俄罗斯外交部27日发表声明说，为回应英国当局的敌对政策，俄罗斯决定将7名英国军工企业高管列入俄禁止入境名单。声明说，这7名高管向乌克兰提供武器和军事技术，且被用于深入俄罗斯境内实施打击，目标是给俄罗斯造成破坏。声明还提及，英国称其军工企业从中获得某种“国防红利”。",
+      "title": "俄罗斯将7名英国军工企业高管列入禁止入境名单",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910636926.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0480"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "ab0881ef2241be3d",
+    "code": "202610283910636739",
+    "title": "美国证券交易委员会文件显示：波音(BA.N)777-8客机预计不会在2030年前进行首次交付",
+    "summary": "美国证券交易委员会文件显示，波音(BA.N)777-8客机预计不会在2030年前进行首次交付。",
+    "content": "美国证券交易委员会文件显示，波音(BA.N)777-8客机预计不会在2030年前进行首次交付。",
+    "full_content": "美国证券交易委员会文件显示，波音(BA.N)777-8客机预计不会在2030年前进行首次交付。",
+    "sort_time": "1793123883036739",
+    "showTime": "2026-10-28 01:58:03",
+    "time": "2026-10-28 01:58:03",
+    "publish_time": "2026-10-28 01:58:03",
+    "raw_data": {
+      "code": "202610283910636739",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1793123883036739",
+      "share": 0,
+      "showTime": "2026-10-28 01:58:03",
+      "stockList": [
+        "106.BA"
+      ],
+      "summary": "美国证券交易委员会文件显示，波音(BA.N)777-8客机预计不会在2030年前进行首次交付。",
+      "title": "美国证券交易委员会文件显示：波音(BA.N)777-8客机预计不会在2030年前进行首次交付",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910636739.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.BA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
+    }
+  },
+  {
+    "id": "64c35c8d00e039c2",
+    "code": "202610283910636666",
+    "title": "LME期铜收涨147美元",
+    "summary": "【LME期铜收涨147美元】LME期铜收涨147美元，报14474美元/吨。LME期铝收涨46美元，报3087美元/吨。LME期锌收涨28美元，报3842美元/吨。LME期铅收涨10美元，报1933美元/吨。LME期镍收涨68美元，报15629美元/吨。LME期锡收涨444美元，报51461美元/吨。LME期钴收平，报34620美元/吨。",
+    "content": "【LME期铜收涨147美元】LME期铜收涨147美元，报14474美元/吨。LME期铝收涨46美元，报3087美元/吨。LME期锌收涨28美元，报3842美元/吨。LME期铅收涨10美元，报1933美元/吨。LME期镍收涨68美元，报15629美元/吨。LME期锡收涨444美元，报51461美元/吨。LME期钴收平，报34620美元/吨。",
+    "full_content": "【LME期铜收涨147美元】LME期铜收涨147美元，报14474美元/吨。LME期铝收涨46美元，报3087美元/吨。LME期锌收涨28美元，报3842美元/吨。LME期铅收涨10美元，报1933美元/吨。LME期镍收涨68美元，报15629美元/吨。LME期锡收涨444美元，报51461美元/吨。LME期钴收平，报34620美元/吨。",
+    "sort_time": "1793123645036666",
+    "showTime": "2026-10-28 01:54:05",
+    "time": "2026-10-28 01:54:05",
+    "publish_time": "2026-10-28 01:54:05",
+    "raw_data": {
+      "code": "202610283910636666",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793123645036666",
+      "share": 1,
+      "showTime": "2026-10-28 01:54:05",
+      "stockList": [],
+      "summary": "【LME期铜收涨147美元】LME期铜收涨147美元，报14474美元/吨。LME期铝收涨46美元，报3087美元/吨。LME期锌收涨28美元，报3842美元/吨。LME期铅收涨10美元，报1933美元/吨。LME期镍收涨68美元，报15629美元/吨。LME期锡收涨444美元，报51461美元/吨。LME期钴收平，报34620美元/吨。",
+      "title": "LME期铜收涨147美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910636666.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "钴"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "36b1106b1faec056",
+    "code": "202610283910636537",
+    "title": "WTI原油日内跌幅一度达2.0% 最低报99.56美元/桶",
+    "summary": "WTI原油日内跌幅一度达2.0%，最低报99.56美元/桶。",
+    "content": "WTI原油日内跌幅一度达2.0%，最低报99.56美元/桶。",
+    "full_content": "WTI原油日内跌幅一度达2.0%，最低报99.56美元/桶。",
+    "sort_time": "1793122904036537",
+    "showTime": "2026-10-28 01:41:44",
+    "time": "2026-10-28 01:41:44",
+    "publish_time": "2026-10-28 01:41:44",
+    "raw_data": {
+      "code": "202610283910636537",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793122904036537",
+      "share": 0,
+      "showTime": "2026-10-28 01:41:44",
+      "stockList": [],
+      "summary": "WTI原油日内跌幅一度达2.0%，最低报99.56美元/桶。",
+      "title": "WTI原油日内跌幅一度达2.0% 最低报99.56美元/桶",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910636537.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "c63a7f20fa8a0921",
+    "code": "202610283910636443",
+    "title": "通用汽车据悉计划推出混合动力SUV",
+    "summary": "通用汽车据悉计划推出混合动力SUV。",
+    "content": "通用汽车据悉计划推出混合动力SUV。",
+    "full_content": "通用汽车据悉计划推出混合动力SUV。",
+    "sort_time": "1793122605036443",
+    "showTime": "2026-10-28 01:36:45",
+    "time": "2026-10-28 01:36:45",
+    "publish_time": "2026-10-28 01:36:45",
+    "raw_data": {
+      "code": "202610283910636443",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793122605036443",
+      "share": 0,
+      "showTime": "2026-10-28 01:36:45",
+      "stockList": [
+        "106.GM"
+      ],
+      "summary": "通用汽车据悉计划推出混合动力SUV。",
+      "title": "通用汽车据悉计划推出混合动力SUV",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910636443.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.GM"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ded36d9822f431c9",
+    "code": "202610283910635964",
+    "title": "意大利经济部长表示：预计评级机构将在未来几周确认意大利的评级 由于中东动荡评级上调不太可能",
+    "summary": "意大利经济部长表示，预计评级机构将在未来几周确认意大利的评级，由于中东动荡，评级上调不太可能。",
+    "content": "意大利经济部长表示，预计评级机构将在未来几周确认意大利的评级，由于中东动荡，评级上调不太可能。",
+    "full_content": "意大利经济部长表示，预计评级机构将在未来几周确认意大利的评级，由于中东动荡，评级上调不太可能。",
+    "sort_time": "1793122463035964",
+    "showTime": "2026-10-28 01:34:23",
+    "time": "2026-10-28 01:34:23",
+    "publish_time": "2026-10-28 01:34:23",
+    "raw_data": {
+      "code": "202610283910635964",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793122463035964",
+      "share": 0,
+      "showTime": "2026-10-28 01:34:23",
+      "stockList": [],
+      "summary": "意大利经济部长表示，预计评级机构将在未来几周确认意大利的评级，由于中东动荡，评级上调不太可能。",
+      "title": "意大利经济部长表示：预计评级机构将在未来几周确认意大利的评级 由于中东动荡评级上调不太可能",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910635964.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9d2f3406aff212d0",
+    "code": "202610283910634584",
+    "title": "美联储隔夜逆回购协议周二使用规模为2.26亿美元（交易对手2家） 上个交易日报2亿美元",
+    "summary": "美联储隔夜逆回购协议（RRP）周二使用规模为2.26亿美元（交易对手2家），上个交易日报2亿美元。",
+    "content": "美联储隔夜逆回购协议（RRP）周二使用规模为2.26亿美元（交易对手2家），上个交易日报2亿美元。",
+    "full_content": "美联储隔夜逆回购协议（RRP）周二使用规模为2.26亿美元（交易对手2家），上个交易日报2亿美元。",
+    "sort_time": "1793121922034584",
+    "showTime": "2026-10-28 01:25:22",
+    "time": "2026-10-28 01:25:22",
+    "publish_time": "2026-10-28 01:25:22",
+    "raw_data": {
+      "code": "202610283910634584",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793121922034584",
+      "share": 0,
+      "showTime": "2026-10-28 01:25:22",
+      "stockList": [],
+      "summary": "美联储隔夜逆回购协议（RRP）周二使用规模为2.26亿美元（交易对手2家），上个交易日报2亿美元。",
+      "title": "美联储隔夜逆回购协议周二使用规模为2.26亿美元（交易对手2家） 上个交易日报2亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910634584.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a3ae95542edf2a3a",
+    "code": "202610283910634259",
+    "title": "美国一家监管机构据悉正在调查预测市场运营商Polymarket是否违反了2022年禁止美国用户的协议",
+    "summary": "美国一家监管机构据悉正在调查预测市场运营商Polymarket是否违反了2022年禁止美国用户的协议。",
+    "content": "美国一家监管机构据悉正在调查预测市场运营商Polymarket是否违反了2022年禁止美国用户的协议。",
+    "full_content": "美国一家监管机构据悉正在调查预测市场运营商Polymarket是否违反了2022年禁止美国用户的协议。",
+    "sort_time": "1793121591034259",
+    "showTime": "2026-10-28 01:19:51",
+    "time": "2026-10-28 01:19:51",
+    "publish_time": "2026-10-28 01:19:51",
+    "raw_data": {
+      "code": "202610283910634259",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793121591034259",
+      "share": 0,
+      "showTime": "2026-10-28 01:19:51",
+      "stockList": [
+        "90.BK0736"
+      ],
+      "summary": "美国一家监管机构据悉正在调查预测市场运营商Polymarket是否违反了2022年禁止美国用户的协议。",
+      "title": "美国一家监管机构据悉正在调查预测市场运营商Polymarket是否违反了2022年禁止美国用户的协议",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910634259.html",
+    "category": "政策",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0736"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "69a9f223c6da7600",
+    "code": "202610283910633745",
+    "title": "捷蓝航空首席执行官表示：公司目前并未与其债权人进行谈判",
+    "summary": "捷蓝航空首席执行官表示，公司目前并未与其债权人进行谈判。",
+    "content": "捷蓝航空首席执行官表示，公司目前并未与其债权人进行谈判。",
+    "full_content": "捷蓝航空首席执行官表示，公司目前并未与其债权人进行谈判。",
+    "sort_time": "1793121256033745",
+    "showTime": "2026-10-28 01:14:16",
+    "time": "2026-10-28 01:14:16",
+    "publish_time": "2026-10-28 01:14:16",
+    "raw_data": {
+      "code": "202610283910633745",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793121256033745",
+      "share": 0,
+      "showTime": "2026-10-28 01:14:16",
+      "stockList": [
+        "105.JBLU"
+      ],
+      "summary": "捷蓝航空首席执行官表示，公司目前并未与其债权人进行谈判。",
+      "title": "捷蓝航空首席执行官表示：公司目前并未与其债权人进行谈判",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910633745.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.JBLU"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "8dd666d17326d2d0",
+    "code": "202610283910633389",
+    "title": "普京与佩泽希齐扬会晤 讨论中东局势",
+    "summary": "【普京与佩泽希齐扬会晤 讨论中东局势】据克里姆林宫网站10月27日消息，俄罗斯总统普京与伊朗总统佩泽希齐扬当天在莫斯科“天然气出口国论坛”峰会期间会晤。普京表示，双方就中东局势进行了交谈，希望局势朝着积极方向发展。普京还指出，俄伊双方今年前八个月贸易额增长10.4%，布什尔核电站建设仍在继续。",
+    "content": "【普京与佩泽希齐扬会晤 讨论中东局势】据克里姆林宫网站10月27日消息，俄罗斯总统普京与伊朗总统佩泽希齐扬当天在莫斯科“天然气出口国论坛”峰会期间会晤。普京表示，双方就中东局势进行了交谈，希望局势朝着积极方向发展。普京还指出，俄伊双方今年前八个月贸易额增长10.4%，布什尔核电站建设仍在继续。",
+    "full_content": "【普京与佩泽希齐扬会晤 讨论中东局势】据克里姆林宫网站10月27日消息，俄罗斯总统普京与伊朗总统佩泽希齐扬当天在莫斯科“天然气出口国论坛”峰会期间会晤。普京表示，双方就中东局势进行了交谈，希望局势朝着积极方向发展。普京还指出，俄伊双方今年前八个月贸易额增长10.4%，布什尔核电站建设仍在继续。",
+    "sort_time": "1793121202033389",
+    "showTime": "2026-10-28 01:13:22",
+    "time": "2026-10-28 01:13:22",
+    "publish_time": "2026-10-28 01:13:22",
+    "raw_data": {
+      "code": "202610283910633389",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1793121202033389",
+      "share": 0,
+      "showTime": "2026-10-28 01:13:22",
+      "stockList": [],
+      "summary": "【普京与佩泽希齐扬会晤 讨论中东局势】据克里姆林宫网站10月27日消息，俄罗斯总统普京与伊朗总统佩泽希齐扬当天在莫斯科“天然气出口国论坛”峰会期间会晤。普京表示，双方就中东局势进行了交谈，希望局势朝着积极方向发展。普京还指出，俄伊双方今年前八个月贸易额增长10.4%，布什尔核电站建设仍在继续。",
+      "title": "普京与佩泽希齐扬会晤 讨论中东局势",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910633389.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C109",
+          "name": "核能",
+          "matched_keyword": "核电站"
+        },
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C109",
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "d6b0d382679f27b9",
+    "code": "202610283910633034",
+    "title": "美国总统特朗普表示：1亿桶委内瑞拉石油“只是第一批”货",
+    "summary": "美国总统特朗普表示，1亿桶委内瑞拉石油“只是第一批”货。",
+    "content": "美国总统特朗普表示，1亿桶委内瑞拉石油“只是第一批”货。",
+    "full_content": "美国总统特朗普表示，1亿桶委内瑞拉石油“只是第一批”货。",
+    "sort_time": "1793120836033034",
+    "showTime": "2026-10-28 01:07:16",
+    "time": "2026-10-28 01:07:16",
+    "publish_time": "2026-10-28 01:07:16",
+    "raw_data": {
+      "code": "202610283910633034",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1793120836033034",
+      "share": 0,
+      "showTime": "2026-10-28 01:07:16",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "美国总统特朗普表示，1亿桶委内瑞拉石油“只是第一批”货。",
+      "title": "美国总统特朗普表示：1亿桶委内瑞拉石油“只是第一批”货",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910633034.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "de53342f9702e1ed",
+    "code": "202610283910632535",
+    "title": "氧化铝夜盘收涨1.73%",
+    "summary": "【氧化铝夜盘收涨1.73%】国际铜夜盘收涨0.6%，沪铜收涨0.72%，沪铝收涨0.79%，沪锌收涨0.37%，沪铅收涨0.92%，沪镍收跌0.14%，沪锡收涨0.49%。氧化铝夜盘收涨1.73%，铝合金收涨0.61%。不锈钢夜盘收跌0.07%。",
+    "content": "【氧化铝夜盘收涨1.73%】国际铜夜盘收涨0.6%，沪铜收涨0.72%，沪铝收涨0.79%，沪锌收涨0.37%，沪铅收涨0.92%，沪镍收跌0.14%，沪锡收涨0.49%。氧化铝夜盘收涨1.73%，铝合金收涨0.61%。不锈钢夜盘收跌0.07%。",
+    "full_content": "【氧化铝夜盘收涨1.73%】国际铜夜盘收涨0.6%，沪铜收涨0.72%，沪铝收涨0.79%，沪锌收涨0.37%，沪铅收涨0.92%，沪镍收跌0.14%，沪锡收涨0.49%。氧化铝夜盘收涨1.73%，铝合金收涨0.61%。不锈钢夜盘收跌0.07%。",
+    "sort_time": "1793120624032535",
+    "showTime": "2026-10-28 01:03:44",
+    "time": "2026-10-28 01:03:44",
+    "publish_time": "2026-10-28 01:03:44",
+    "raw_data": {
+      "code": "202610283910632535",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793120624032535",
+      "share": 1,
+      "showTime": "2026-10-28 01:03:44",
+      "stockList": [],
+      "summary": "【氧化铝夜盘收涨1.73%】国际铜夜盘收涨0.6%，沪铜收涨0.72%，沪铝收涨0.79%，沪锌收涨0.37%，沪铅收涨0.92%，沪镍收跌0.14%，沪锡收涨0.49%。氧化铝夜盘收涨1.73%，铝合金收涨0.61%。不锈钢夜盘收跌0.07%。",
+      "title": "氧化铝夜盘收涨1.73%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910632535.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "镍"
+        },
+        {
+          "id": "C504",
+          "name": "钢铁",
+          "matched_keyword": "不锈钢"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501",
+        "C504"
+      ]
+    }
+  },
+  {
+    "id": "33f09dc8c850e2ab",
+    "code": "202610283910632233",
+    "title": "美国财政部拍卖5年期国债中标利率为4.845% 略高于预售时的发行前收益率4.841%",
+    "summary": "美国财政部拍卖5年期国债，中标利率为4.845%，略高于预售时的发行前收益率4.841%。本次拍卖的投标倍数为2.33倍。",
+    "content": "美国财政部拍卖5年期国债，中标利率为4.845%，略高于预售时的发行前收益率4.841%。本次拍卖的投标倍数为2.33倍。",
+    "full_content": "美国财政部拍卖5年期国债，中标利率为4.845%，略高于预售时的发行前收益率4.841%。本次拍卖的投标倍数为2.33倍。",
+    "sort_time": "1793120604032233",
+    "showTime": "2026-10-28 01:03:24",
+    "time": "2026-10-28 01:03:24",
+    "publish_time": "2026-10-28 01:03:24",
+    "raw_data": {
+      "code": "202610283910632233",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793120604032233",
+      "share": 1,
+      "showTime": "2026-10-28 01:03:24",
+      "stockList": [],
+      "summary": "美国财政部拍卖5年期国债，中标利率为4.845%，略高于预售时的发行前收益率4.841%。本次拍卖的投标倍数为2.33倍。",
+      "title": "美国财政部拍卖5年期国债中标利率为4.845% 略高于预售时的发行前收益率4.841%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910632233.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b41dd3d467612f7a",
+    "code": "202610283910631835",
+    "title": "ASM国际三季度净利润3.081亿欧元 分析师预期3.023亿欧元",
+    "summary": "ASM国际三季度净利润3.081亿欧元，分析师预期3.023亿欧元。",
+    "content": "ASM国际三季度净利润3.081亿欧元，分析师预期3.023亿欧元。",
+    "full_content": "ASM国际三季度净利润3.081亿欧元，分析师预期3.023亿欧元。",
+    "sort_time": "1793120536031835",
+    "showTime": "2026-10-28 01:02:16",
+    "time": "2026-10-28 01:02:16",
+    "publish_time": "2026-10-28 01:02:16",
+    "raw_data": {
+      "code": "202610283910631835",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793120536031835",
+      "share": 0,
+      "showTime": "2026-10-28 01:02:16",
+      "stockList": [],
+      "summary": "ASM国际三季度净利润3.081亿欧元，分析师预期3.023亿欧元。",
+      "title": "ASM国际三季度净利润3.081亿欧元 分析师预期3.023亿欧元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910631835.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3008cd5288e07bff",
+    "code": "202610283910631163",
+    "title": "美光科技宣布在美国爱达荷州新增逾6700万美元社区投资 用于交通、住房和儿童领域",
+    "summary": "美光科技宣布在美国爱达荷州新增逾6700万美元社区投资，用于交通、住房和儿童领域。",
+    "content": "美光科技宣布在美国爱达荷州新增逾6700万美元社区投资，用于交通、住房和儿童领域。",
+    "full_content": "美光科技宣布在美国爱达荷州新增逾6700万美元社区投资，用于交通、住房和儿童领域。",
+    "sort_time": "1793120497031163",
+    "showTime": "2026-10-28 01:01:37",
+    "time": "2026-10-28 01:01:37",
+    "publish_time": "2026-10-28 01:01:37",
+    "raw_data": {
+      "code": "202610283910631163",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1793120497031163",
+      "share": 1,
+      "showTime": "2026-10-28 01:01:37",
+      "stockList": [
+        "105.MU"
+      ],
+      "summary": "美光科技宣布在美国爱达荷州新增逾6700万美元社区投资，用于交通、住房和儿童领域。",
+      "title": "美光科技宣布在美国爱达荷州新增逾6700万美元社区投资 用于交通、住房和儿童领域",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910631163.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MU"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "49287fbe00c32563",
+    "code": "202610283910629838",
+    "title": "AI融资焦虑或近顶峰 亿万富豪Novogratz预计信贷市场将趋稳",
+    "summary": "【AI融资焦虑或近顶峰 亿万富豪Novogratz预计信贷市场将趋稳】加密金融服务和人工智能数据中心运营商GalaxyDigitalInc.的亿万富豪创始人兼首席执行官MichaelNovogratz表示，全球信贷市场对AI支出的焦虑可能已接近缓解的转折点。",
+    "content": "【AI融资焦虑或近顶峰 亿万富豪Novogratz预计信贷市场将趋稳】加密金融服务和人工智能数据中心运营商GalaxyDigitalInc.的亿万富豪创始人兼首席执行官MichaelNovogratz表示，全球信贷市场对AI支出的焦虑可能已接近缓解的转折点。",
+    "full_content": "【AI融资焦虑或近顶峰 亿万富豪Novogratz预计信贷市场将趋稳】加密金融服务和人工智能数据中心运营商GalaxyDigitalInc.的亿万富豪创始人兼首席执行官MichaelNovogratz表示，全球信贷市场对AI支出的焦虑可能已接近缓解的转折点。",
+    "sort_time": "1793119804029838",
+    "showTime": "2026-10-28 00:50:04",
+    "time": "2026-10-28 00:50:04",
+    "publish_time": "2026-10-28 00:50:04",
+    "raw_data": {
+      "code": "202610283910629838",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1793119804029838",
+      "share": 0,
+      "showTime": "2026-10-28 00:50:04",
+      "stockList": [
+        "105.GLXY",
+        "90.BK0800"
+      ],
+      "summary": "【AI融资焦虑或近顶峰 亿万富豪Novogratz预计信贷市场将趋稳】加密金融服务和人工智能数据中心运营商GalaxyDigitalInc.的亿万富豪创始人兼首席执行官MichaelNovogratz表示，全球信贷市场对AI支出的焦虑可能已接近缓解的转折点。",
+      "title": "AI融资焦虑或近顶峰 亿万富豪Novogratz预计信贷市场将趋稳",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910629838.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GLXY",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "d529636f8eacf7f0",
+    "code": "202610283910629788",
+    "title": "伊朗、俄罗斯两国总统在莫斯科会晤",
+    "summary": "伊朗、俄罗斯两国总统在莫斯科会晤。",
+    "content": "伊朗、俄罗斯两国总统在莫斯科会晤。",
+    "full_content": "伊朗、俄罗斯两国总统在莫斯科会晤。",
+    "sort_time": "1793119542029788",
+    "showTime": "2026-10-28 00:45:42",
+    "time": "2026-10-28 00:45:42",
+    "publish_time": "2026-10-28 00:45:42",
+    "raw_data": {
+      "code": "202610283910629788",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793119542029788",
+      "share": 0,
+      "showTime": "2026-10-28 00:45:42",
+      "stockList": [],
+      "summary": "伊朗、俄罗斯两国总统在莫斯科会晤。",
+      "title": "伊朗、俄罗斯两国总统在莫斯科会晤",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910629788.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a37b7c3fb481f886",
+    "code": "202610283910629153",
+    "title": "欧洲主要股指收盘多数上涨",
+    "summary": "【欧洲主要股指收盘多数上涨】英国富时100指数跌0.75%，法国CAC40指数涨0.67%，德国DAX30指数涨0.77%，富时意大利MIB指数涨0.90%。",
+    "content": "【欧洲主要股指收盘多数上涨】英国富时100指数跌0.75%，法国CAC40指数涨0.67%，德国DAX30指数涨0.77%，富时意大利MIB指数涨0.90%。",
+    "full_content": "【欧洲主要股指收盘多数上涨】英国富时100指数跌0.75%，法国CAC40指数涨0.67%，德国DAX30指数涨0.77%，富时意大利MIB指数涨0.90%。",
+    "sort_time": "1793119272029153",
+    "showTime": "2026-10-28 00:41:12",
+    "time": "2026-10-28 00:41:12",
+    "publish_time": "2026-10-28 00:41:12",
+    "raw_data": {
+      "code": "202610283910629153",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1793119272029153",
+      "share": 0,
+      "showTime": "2026-10-28 00:41:12",
+      "stockList": [],
+      "summary": "【欧洲主要股指收盘多数上涨】英国富时100指数跌0.75%，法国CAC40指数涨0.67%，德国DAX30指数涨0.77%，富时意大利MIB指数涨0.90%。",
+      "title": "欧洲主要股指收盘多数上涨",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910629153.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ce07dc621e1e2966",
+    "code": "202610283910629022",
+    "title": "据贸易商透露：由于俄罗斯国内炼油厂提高加工量 俄罗斯11月从西部港口出口的石油量预计将减少10万至20万桶/日",
+    "summary": "据贸易商透露，由于俄罗斯国内炼油厂提高加工量，俄罗斯11月从西部港口出口的石油量预计将减少10万至20万桶/日。",
+    "content": "据贸易商透露，由于俄罗斯国内炼油厂提高加工量，俄罗斯11月从西部港口出口的石油量预计将减少10万至20万桶/日。",
+    "full_content": "据贸易商透露，由于俄罗斯国内炼油厂提高加工量，俄罗斯11月从西部港口出口的石油量预计将减少10万至20万桶/日。",
+    "sort_time": "1793119178029022",
+    "showTime": "2026-10-28 00:39:38",
+    "time": "2026-10-28 00:39:38",
+    "publish_time": "2026-10-28 00:39:38",
+    "raw_data": {
+      "code": "202610283910629022",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1793119178029022",
+      "share": 0,
+      "showTime": "2026-10-28 00:39:38",
+      "stockList": [
+        "90.BK1550",
+        "90.BK0484"
+      ],
+      "summary": "据贸易商透露，由于俄罗斯国内炼油厂提高加工量，俄罗斯11月从西部港口出口的石油量预计将减少10万至20万桶/日。",
+      "title": "据贸易商透露：由于俄罗斯国内炼油厂提高加工量 俄罗斯11月从西部港口出口的石油量预计将减少10万至20万桶/日",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910629022.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1550",
+      "90.BK0484"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "188dc98fd8a1277a",
+    "code": "202610283910628336",
+    "title": "乌克兰官员称阿列什基停火安排得到全面执行",
+    "summary": "【乌克兰官员称阿列什基停火安排得到全面执行】当地时间10月27日，乌克兰最高拉达人权专员卢比涅茨表示，截至当天17时30分，乌克兰和俄罗斯均遵守了阿列什基地区与人道主义任务有关指定区域的停火安排，双方均未发现违反停火约定的情况。卢比涅茨说，停火安排于当天基辅时间3时开始，将持续至11月1日22时59分。",
+    "content": "【乌克兰官员称阿列什基停火安排得到全面执行】当地时间10月27日，乌克兰最高拉达人权专员卢比涅茨表示，截至当天17时30分，乌克兰和俄罗斯均遵守了阿列什基地区与人道主义任务有关指定区域的停火安排，双方均未发现违反停火约定的情况。卢比涅茨说，停火安排于当天基辅时间3时开始，将持续至11月1日22时59分。",
+    "full_content": "【乌克兰官员称阿列什基停火安排得到全面执行】当地时间10月27日，乌克兰最高拉达人权专员卢比涅茨表示，截至当天17时30分，乌克兰和俄罗斯均遵守了阿列什基地区与人道主义任务有关指定区域的停火安排，双方均未发现违反停火约定的情况。卢比涅茨说，停火安排于当天基辅时间3时开始，将持续至11月1日22时59分。",
+    "sort_time": "1793119114028336",
+    "showTime": "2026-10-28 00:38:34",
+    "time": "2026-10-28 00:38:34",
+    "publish_time": "2026-10-28 00:38:34",
+    "raw_data": {
+      "code": "202610283910628336",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793119114028336",
+      "share": 0,
+      "showTime": "2026-10-28 00:38:34",
+      "stockList": [],
+      "summary": "【乌克兰官员称阿列什基停火安排得到全面执行】当地时间10月27日，乌克兰最高拉达人权专员卢比涅茨表示，截至当天17时30分，乌克兰和俄罗斯均遵守了阿列什基地区与人道主义任务有关指定区域的停火安排，双方均未发现违反停火约定的情况。卢比涅茨说，停火安排于当天基辅时间3时开始，将持续至11月1日22时59分。",
+      "title": "乌克兰官员称阿列什基停火安排得到全面执行",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910628336.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ed84626c5a684b65",
+    "code": "202610283910628287",
+    "title": "自10月中旬无人机袭击停止以来 俄罗斯炼油厂的原油加工量据悉增加了25%",
+    "summary": "自10月中旬无人机袭击停止以来，俄罗斯炼油厂的原油加工量据悉增加了25%。",
+    "content": "自10月中旬无人机袭击停止以来，俄罗斯炼油厂的原油加工量据悉增加了25%。",
+    "full_content": "自10月中旬无人机袭击停止以来，俄罗斯炼油厂的原油加工量据悉增加了25%。",
+    "sort_time": "1793118801028287",
+    "showTime": "2026-10-28 00:33:21",
+    "time": "2026-10-28 00:33:21",
+    "publish_time": "2026-10-28 00:33:21",
+    "raw_data": {
+      "code": "202610283910628287",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1793118801028287",
+      "share": 1,
+      "showTime": "2026-10-28 00:33:21",
+      "stockList": [
+        "90.BK0704"
+      ],
+      "summary": "自10月中旬无人机袭击停止以来，俄罗斯炼油厂的原油加工量据悉增加了25%。",
+      "title": "自10月中旬无人机袭击停止以来 俄罗斯炼油厂的原油加工量据悉增加了25%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910628287.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0704"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C205",
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "76195edd748a1930",
+    "code": "202610283910627688",
+    "title": "汉维科技：前三季度净利润同比增长744.37%",
+    "summary": "【汉维科技：前三季度净利润同比增长744.37%】汉维科技公告，2026年前三季度公司实现营业收入5.04亿元，同比增长10.34%；归属于上市公司股东的净利润1798万元，同比增长744.37%。",
+    "content": "【汉维科技：前三季度净利润同比增长744.37%】汉维科技公告，2026年前三季度公司实现营业收入5.04亿元，同比增长10.34%；归属于上市公司股东的净利润1798万元，同比增长744.37%。",
+    "full_content": "【汉维科技：前三季度净利润同比增长744.37%】汉维科技公告，2026年前三季度公司实现营业收入5.04亿元，同比增长10.34%；归属于上市公司股东的净利润1798万元，同比增长744.37%。",
+    "sort_time": "1793117927027688",
+    "showTime": "2026-10-28 00:18:47",
+    "time": "2026-10-28 00:18:47",
+    "publish_time": "2026-10-28 00:18:47",
+    "raw_data": {
+      "code": "202610283910627688",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117927027688",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:47",
+      "stockList": [
+        "0.920957",
+        "999.448015"
+      ],
+      "summary": "【汉维科技：前三季度净利润同比增长744.37%】汉维科技公告，2026年前三季度公司实现营业收入5.04亿元，同比增长10.34%；归属于上市公司股东的净利润1798万元，同比增长744.37%。",
+      "title": "汉维科技：前三季度净利润同比增长744.37%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627688.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.920957",
+      "999.448015"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "21653c2026760d3b",
+    "code": "202610283910627869",
+    "title": "坤博精工：前三季度净利润同比增长192.18%",
+    "summary": "【坤博精工：前三季度净利润同比增长192.18%】坤博精工公告，2026年前三季度公司实现营业收入1.18亿元，同比增长30.89%；归属于上市公司股东的净利润1324.94万元，同比增长192.18%。",
+    "content": "【坤博精工：前三季度净利润同比增长192.18%】坤博精工公告，2026年前三季度公司实现营业收入1.18亿元，同比增长30.89%；归属于上市公司股东的净利润1324.94万元，同比增长192.18%。",
+    "full_content": "【坤博精工：前三季度净利润同比增长192.18%】坤博精工公告，2026年前三季度公司实现营业收入1.18亿元，同比增长30.89%；归属于上市公司股东的净利润1324.94万元，同比增长192.18%。",
+    "sort_time": "1793117924027869",
+    "showTime": "2026-10-28 00:18:44",
+    "time": "2026-10-28 00:18:44",
+    "publish_time": "2026-10-28 00:18:44",
+    "raw_data": {
+      "code": "202610283910627869",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117924027869",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:44",
+      "stockList": [
+        "0.920570"
+      ],
+      "summary": "【坤博精工：前三季度净利润同比增长192.18%】坤博精工公告，2026年前三季度公司实现营业收入1.18亿元，同比增长30.89%；归属于上市公司股东的净利润1324.94万元，同比增长192.18%。",
+      "title": "坤博精工：前三季度净利润同比增长192.18%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627869.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.920570"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "199f62bdf6dea793",
+    "code": "202610283910627595",
+    "title": "艾融软件：股东孟庆有拟减持不超2%股份",
+    "summary": "【艾融软件：股东孟庆有拟减持不超2%股份】艾融软件公告，持股5%以上股东孟庆有拟自公告披露之日起30个交易日后的3个月内，通过集中竞价或大宗交易方式减持不高于4,182,908股，占总股本比例2%。",
+    "content": "【艾融软件：股东孟庆有拟减持不超2%股份】艾融软件公告，持股5%以上股东孟庆有拟自公告披露之日起30个交易日后的3个月内，通过集中竞价或大宗交易方式减持不高于4,182,908股，占总股本比例2%。",
+    "full_content": "【艾融软件：股东孟庆有拟减持不超2%股份】艾融软件公告，持股5%以上股东孟庆有拟自公告披露之日起30个交易日后的3个月内，通过集中竞价或大宗交易方式减持不高于4,182,908股，占总股本比例2%。",
+    "sort_time": "1793117921027595",
+    "showTime": "2026-10-28 00:18:41",
+    "time": "2026-10-28 00:18:41",
+    "publish_time": "2026-10-28 00:18:41",
+    "raw_data": {
+      "code": "202610283910627595",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1793117921027595",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:41",
+      "stockList": [
+        "0.920799",
+        "999.990685"
+      ],
+      "summary": "【艾融软件：股东孟庆有拟减持不超2%股份】艾融软件公告，持股5%以上股东孟庆有拟自公告披露之日起30个交易日后的3个月内，通过集中竞价或大宗交易方式减持不高于4,182,908股，占总股本比例2%。",
+      "title": "艾融软件：股东孟庆有拟减持不超2%股份",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627595.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.920799",
+      "999.990685"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "152e44032625c236",
+    "code": "202610283910627067",
+    "title": "科达自控：聘任付磊为总经理",
+    "summary": "【科达自控：聘任付磊为总经理】科达自控公告，公司于2026年10月26日召开董事会，审议通过聘任付磊为总经理，任职期限至第五届董事会届满之日止，自2026年10月26日起生效。",
+    "content": "【科达自控：聘任付磊为总经理】科达自控公告，公司于2026年10月26日召开董事会，审议通过聘任付磊为总经理，任职期限至第五届董事会届满之日止，自2026年10月26日起生效。",
+    "full_content": "【科达自控：聘任付磊为总经理】科达自控公告，公司于2026年10月26日召开董事会，审议通过聘任付磊为总经理，任职期限至第五届董事会届满之日止，自2026年10月26日起生效。",
+    "sort_time": "1793117918027067",
+    "showTime": "2026-10-28 00:18:38",
+    "time": "2026-10-28 00:18:38",
+    "publish_time": "2026-10-28 00:18:38",
+    "raw_data": {
+      "code": "202610283910627067",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117918027067",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:38",
+      "stockList": [
+        "0.920932"
+      ],
+      "summary": "【科达自控：聘任付磊为总经理】科达自控公告，公司于2026年10月26日召开董事会，审议通过聘任付磊为总经理，任职期限至第五届董事会届满之日止，自2026年10月26日起生效。",
+      "title": "科达自控：聘任付磊为总经理",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627067.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.920932"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f53ba3c37bfd0643",
+    "code": "202610283910627778",
+    "title": "新芝生物：前三季度净利润同比增长30.97%",
+    "summary": "【新芝生物：前三季度净利润同比增长30.97%】新芝生物公告，2026年前三季度实现营业收入1.42亿元，同比增长24.31%；归属于上市公司股东的净利润2712.17万元，同比增长30.97%。",
+    "content": "【新芝生物：前三季度净利润同比增长30.97%】新芝生物公告，2026年前三季度实现营业收入1.42亿元，同比增长24.31%；归属于上市公司股东的净利润2712.17万元，同比增长30.97%。",
+    "full_content": "【新芝生物：前三季度净利润同比增长30.97%】新芝生物公告，2026年前三季度实现营业收入1.42亿元，同比增长24.31%；归属于上市公司股东的净利润2712.17万元，同比增长30.97%。",
+    "sort_time": "1793117914027778",
+    "showTime": "2026-10-28 00:18:34",
+    "time": "2026-10-28 00:18:34",
+    "publish_time": "2026-10-28 00:18:34",
+    "raw_data": {
+      "code": "202610283910627778",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117914027778",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:34",
+      "stockList": [
+        "0.920685"
+      ],
+      "summary": "【新芝生物：前三季度净利润同比增长30.97%】新芝生物公告，2026年前三季度实现营业收入1.42亿元，同比增长24.31%；归属于上市公司股东的净利润2712.17万元，同比增长30.97%。",
+      "title": "新芝生物：前三季度净利润同比增长30.97%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627778.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.920685"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "18195f04d234cf4d",
+    "code": "202610283910627268",
+    "title": "科创新材：前三季度净利润同比增长126.15%",
+    "summary": "【科创新材：前三季度净利润同比增长126.15%】科创新材公告，2026年前三季度实现营业收入1.29亿元，同比增长45.10%；归属于上市公司股东的净利润2568.92万元，同比增长126.15%。",
+    "content": "【科创新材：前三季度净利润同比增长126.15%】科创新材公告，2026年前三季度实现营业收入1.29亿元，同比增长45.10%；归属于上市公司股东的净利润2568.92万元，同比增长126.15%。",
+    "full_content": "【科创新材：前三季度净利润同比增长126.15%】科创新材公告，2026年前三季度实现营业收入1.29亿元，同比增长45.10%；归属于上市公司股东的净利润2568.92万元，同比增长126.15%。",
+    "sort_time": "1793117911027268",
+    "showTime": "2026-10-28 00:18:31",
+    "time": "2026-10-28 00:18:31",
+    "publish_time": "2026-10-28 00:18:31",
+    "raw_data": {
+      "code": "202610283910627268",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117911027268",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:31",
+      "stockList": [
+        "0.920580"
+      ],
+      "summary": "【科创新材：前三季度净利润同比增长126.15%】科创新材公告，2026年前三季度实现营业收入1.29亿元，同比增长45.10%；归属于上市公司股东的净利润2568.92万元，同比增长126.15%。",
+      "title": "科创新材：前三季度净利润同比增长126.15%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627268.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.920580"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0a64a0cc21520003",
+    "code": "202610283910627359",
+    "title": "星图测控：前三季度净利润同比下降61.59%",
+    "summary": "【星图测控：前三季度净利润同比下降61.59%】星图测控公告，2026年前三季度公司实现营业收入1.40亿元，同比下降25.85%；归属于上市公司股东的净利润2415.73万元，同比下降61.59%。",
+    "content": "【星图测控：前三季度净利润同比下降61.59%】星图测控公告，2026年前三季度公司实现营业收入1.40亿元，同比下降25.85%；归属于上市公司股东的净利润2415.73万元，同比下降61.59%。",
+    "full_content": "【星图测控：前三季度净利润同比下降61.59%】星图测控公告，2026年前三季度公司实现营业收入1.40亿元，同比下降25.85%；归属于上市公司股东的净利润2415.73万元，同比下降61.59%。",
+    "sort_time": "1793117907027359",
+    "showTime": "2026-10-28 00:18:27",
+    "time": "2026-10-28 00:18:27",
+    "publish_time": "2026-10-28 00:18:27",
+    "raw_data": {
+      "code": "202610283910627359",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117907027359",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:27",
+      "stockList": [
+        "0.920116"
+      ],
+      "summary": "【星图测控：前三季度净利润同比下降61.59%】星图测控公告，2026年前三季度公司实现营业收入1.40亿元，同比下降25.85%；归属于上市公司股东的净利润2415.73万元，同比下降61.59%。",
+      "title": "星图测控：前三季度净利润同比下降61.59%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627359.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.920116"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a17ef871acc2415e",
+    "code": "202610283910626957",
+    "title": "欧康医药：前三季度净利润同比增长85.57%",
+    "summary": "【欧康医药：前三季度净利润同比增长85.57%】欧康医药公告，2026年前三季度实现营业收入2.02亿元，同比下降4.01%；归属于上市公司股东的净利润761.91万元，同比增长85.57%。",
+    "content": "【欧康医药：前三季度净利润同比增长85.57%】欧康医药公告，2026年前三季度实现营业收入2.02亿元，同比下降4.01%；归属于上市公司股东的净利润761.91万元，同比增长85.57%。",
+    "full_content": "【欧康医药：前三季度净利润同比增长85.57%】欧康医药公告，2026年前三季度实现营业收入2.02亿元，同比下降4.01%；归属于上市公司股东的净利润761.91万元，同比增长85.57%。",
+    "sort_time": "1793117903026957",
+    "showTime": "2026-10-28 00:18:23",
+    "time": "2026-10-28 00:18:23",
+    "publish_time": "2026-10-28 00:18:23",
+    "raw_data": {
+      "code": "202610283910626957",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117903026957",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:23",
+      "stockList": [
+        "0.920230"
+      ],
+      "summary": "【欧康医药：前三季度净利润同比增长85.57%】欧康医药公告，2026年前三季度实现营业收入2.02亿元，同比下降4.01%；归属于上市公司股东的净利润761.91万元，同比增长85.57%。",
+      "title": "欧康医药：前三季度净利润同比增长85.57%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910626957.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.920230"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f1f2267730420bca",
+    "code": "202610283910627177",
+    "title": "数字人：前三季度净亏损547.7万元",
+    "summary": "【数字人：前三季度净亏损547.7万元】数字人公告，2026年第三季度报告显示，公司前三季度实现营业收入5279.56万元，同比下降17.34%；归属于上市公司股东的净利润为-547.7万元。",
+    "content": "【数字人：前三季度净亏损547.7万元】数字人公告，2026年第三季度报告显示，公司前三季度实现营业收入5279.56万元，同比下降17.34%；归属于上市公司股东的净利润为-547.7万元。",
+    "full_content": "【数字人：前三季度净亏损547.7万元】数字人公告，2026年第三季度报告显示，公司前三季度实现营业收入5279.56万元，同比下降17.34%；归属于上市公司股东的净利润为-547.7万元。",
+    "sort_time": "1793117899027177",
+    "showTime": "2026-10-28 00:18:19",
+    "time": "2026-10-28 00:18:19",
+    "publish_time": "2026-10-28 00:18:19",
+    "raw_data": {
+      "code": "202610283910627177",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117899027177",
+      "share": 0,
+      "showTime": "2026-10-28 00:18:19",
+      "stockList": [
+        "0.920670"
+      ],
+      "summary": "【数字人：前三季度净亏损547.7万元】数字人公告，2026年第三季度报告显示，公司前三季度实现营业收入5279.56万元，同比下降17.34%；归属于上市公司股东的净利润为-547.7万元。",
+      "title": "数字人：前三季度净亏损547.7万元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627177.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.920670"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "53e1d55032270adb",
+    "code": "202610283910627482",
+    "title": "天马新材：前三季度净利润同比增长103.89%",
+    "summary": "【天马新材：前三季度净利润同比增长103.89%】天马新材公告，2026年前三季度实现营业收入2.02亿元，同比下降2.27%；归属于上市公司股东的净利润2182.16万元，同比增长103.89%。",
+    "content": "【天马新材：前三季度净利润同比增长103.89%】天马新材公告，2026年前三季度实现营业收入2.02亿元，同比下降2.27%；归属于上市公司股东的净利润2182.16万元，同比增长103.89%。",
+    "full_content": "【天马新材：前三季度净利润同比增长103.89%】天马新材公告，2026年前三季度实现营业收入2.02亿元，同比下降2.27%；归属于上市公司股东的净利润2182.16万元，同比增长103.89%。",
+    "sort_time": "1793117896027482",
+    "showTime": "2026-10-28 00:18:16",
+    "time": "2026-10-28 00:18:16",
+    "publish_time": "2026-10-28 00:18:16",
+    "raw_data": {
+      "code": "202610283910627482",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117896027482",
+      "share": 1,
+      "showTime": "2026-10-28 00:18:16",
+      "stockList": [
+        "0.920971"
+      ],
+      "summary": "【天马新材：前三季度净利润同比增长103.89%】天马新材公告，2026年前三季度实现营业收入2.02亿元，同比下降2.27%；归属于上市公司股东的净利润2182.16万元，同比增长103.89%。",
+      "title": "天马新材：前三季度净利润同比增长103.89%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910627482.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.920971"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "81d05109a2ecc0f3",
+    "code": "202610283910626475",
+    "title": "长鹰硬科：前三季度净利润同比增长622.44%",
+    "summary": "【长鹰硬科：前三季度净利润同比增长622.44%】长鹰硬科公告，2026年1-9月公司实现营业收入20.70亿元，同比增长149.61%；归属于上市公司股东的净利润4.70亿元，同比增长622.44%。",
+    "content": "【长鹰硬科：前三季度净利润同比增长622.44%】长鹰硬科公告，2026年1-9月公司实现营业收入20.70亿元，同比增长149.61%；归属于上市公司股东的净利润4.70亿元，同比增长622.44%。",
+    "full_content": "【长鹰硬科：前三季度净利润同比增长622.44%】长鹰硬科公告，2026年1-9月公司实现营业收入20.70亿元，同比增长149.61%；归属于上市公司股东的净利润4.70亿元，同比增长622.44%。",
+    "sort_time": "1793117865026475",
+    "showTime": "2026-10-28 00:17:45",
+    "time": "2026-10-28 00:17:45",
+    "publish_time": "2026-10-28 00:17:45",
+    "raw_data": {
+      "code": "202610283910626475",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117865026475",
+      "share": 0,
+      "showTime": "2026-10-28 00:17:45",
+      "stockList": [
+        "0.920238",
+        "999.139352"
+      ],
+      "summary": "【长鹰硬科：前三季度净利润同比增长622.44%】长鹰硬科公告，2026年1-9月公司实现营业收入20.70亿元，同比增长149.61%；归属于上市公司股东的净利润4.70亿元，同比增长622.44%。",
+      "title": "长鹰硬科：前三季度净利润同比增长622.44%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910626475.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.920238",
+      "999.139352"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "eaacc44d1c1b27ff",
+    "code": "202610283910626583",
+    "title": "科达自控：前三季度净亏损6333万元",
+    "summary": "【科达自控：前三季度净亏损6333万元】科达自控公告，2026年前三季度实现营业收入2.73亿元，同比增长33.31%；归属于上市公司股东的净利润为-6333.40万元。",
+    "content": "【科达自控：前三季度净亏损6333万元】科达自控公告，2026年前三季度实现营业收入2.73亿元，同比增长33.31%；归属于上市公司股东的净利润为-6333.40万元。",
+    "full_content": "【科达自控：前三季度净亏损6333万元】科达自控公告，2026年前三季度实现营业收入2.73亿元，同比增长33.31%；归属于上市公司股东的净利润为-6333.40万元。",
+    "sort_time": "1793117858026583",
+    "showTime": "2026-10-28 00:17:38",
+    "time": "2026-10-28 00:17:38",
+    "publish_time": "2026-10-28 00:17:38",
+    "raw_data": {
+      "code": "202610283910626583",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117858026583",
+      "share": 0,
+      "showTime": "2026-10-28 00:17:38",
+      "stockList": [
+        "0.920932"
+      ],
+      "summary": "【科达自控：前三季度净亏损6333万元】科达自控公告，2026年前三季度实现营业收入2.73亿元，同比增长33.31%；归属于上市公司股东的净利润为-6333.40万元。",
+      "title": "科达自控：前三季度净亏损6333万元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910626583.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.920932"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "80f09eddfd192eb9",
+    "code": "202610283910626311",
+    "title": "谷歌表示：向一小批受信任的测试者推出Genie 4",
+    "summary": "谷歌表示，向一小批受信任的测试者推出Genie4。",
+    "content": "谷歌表示，向一小批受信任的测试者推出Genie4。",
+    "full_content": "谷歌表示，向一小批受信任的测试者推出Genie4。",
+    "sort_time": "1793117784026311",
+    "showTime": "2026-10-28 00:16:24",
+    "time": "2026-10-28 00:16:24",
+    "publish_time": "2026-10-28 00:16:24",
+    "raw_data": {
+      "code": "202610283910626311",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117784026311",
+      "share": 0,
+      "showTime": "2026-10-28 00:16:24",
+      "stockList": [
+        "105.GOOGL"
+      ],
+      "summary": "谷歌表示，向一小批受信任的测试者推出Genie4。",
+      "title": "谷歌表示：向一小批受信任的测试者推出Genie 4",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910626311.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOGL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "69d4ffbb1974177a",
+    "code": "202610283910625845",
+    "title": "甲骨文与Snowflake扩大OCI上的原生AI和数据服务",
+    "summary": "【甲骨文与Snowflake扩大OCI上的原生AI和数据服务】甲骨文与云数据平台Snowflake宣布，Snowflake AI数据云将作为原生第一方服务在甲骨文云基础设施（OCI）上提供。客户可通过甲骨文直接购买和配置该服务，享受统一的定价和计费，并可使用甲骨文通用积分（Oracle Universal Credits）进行消费。",
+    "content": "【甲骨文与Snowflake扩大OCI上的原生AI和数据服务】甲骨文与云数据平台Snowflake宣布，Snowflake AI数据云将作为原生第一方服务在甲骨文云基础设施（OCI）上提供。客户可通过甲骨文直接购买和配置该服务，享受统一的定价和计费，并可使用甲骨文通用积分（Oracle Universal Credits）进行消费。",
+    "full_content": "【甲骨文与Snowflake扩大OCI上的原生AI和数据服务】甲骨文与云数据平台Snowflake宣布，Snowflake AI数据云将作为原生第一方服务在甲骨文云基础设施（OCI）上提供。客户可通过甲骨文直接购买和配置该服务，享受统一的定价和计费，并可使用甲骨文通用积分（Oracle Universal Credits）进行消费。",
+    "sort_time": "1793117561025845",
+    "showTime": "2026-10-28 00:12:41",
+    "time": "2026-10-28 00:12:41",
+    "publish_time": "2026-10-28 00:12:41",
+    "raw_data": {
+      "code": "202610283910625845",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117561025845",
+      "share": 0,
+      "showTime": "2026-10-28 00:12:41",
+      "stockList": [
+        "106.ORCL",
+        "106.SNOW"
+      ],
+      "summary": "【甲骨文与Snowflake扩大OCI上的原生AI和数据服务】甲骨文与云数据平台Snowflake宣布，Snowflake AI数据云将作为原生第一方服务在甲骨文云基础设施（OCI）上提供。客户可通过甲骨文直接购买和配置该服务，享受统一的定价和计费，并可使用甲骨文通用积分（Oracle Universal Credits）进行消费。",
+      "title": "甲骨文与Snowflake扩大OCI上的原生AI和数据服务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910625845.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.ORCL",
+      "106.SNOW"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "111cc287548a9c52",
+    "code": "202610283910625969",
+    "title": "英特尔与甲骨文计划扩大合作 以支持甲骨文云基础设施上的企业级和智能体AI",
+    "summary": "【英特尔与甲骨文计划扩大合作 以支持甲骨文云基础设施上的企业级和智能体AI】英特尔与甲骨文宣布计划开展一项多年期合作，以扩大英特尔至强（Xeon）处理器在甲骨文云基础设施（OCI）上的部署，从而满足企业应用、智能体AI（Agentic AI） 和推理日益增长的需求。双方将协调路线图和产能规划，合作范围将覆盖当前及未来的至强平台，包括基于英特尔下一代服务器处理器（代号Diamond Rapids）的计划中OCI X14实例。",
+    "content": "【英特尔与甲骨文计划扩大合作 以支持甲骨文云基础设施上的企业级和智能体AI】英特尔与甲骨文宣布计划开展一项多年期合作，以扩大英特尔至强（Xeon）处理器在甲骨文云基础设施（OCI）上的部署，从而满足企业应用、智能体AI（Agentic AI） 和推理日益增长的需求。双方将协调路线图和产能规划，合作范围将覆盖当前及未来的至强平台，包括基于英特尔下一代服务器处理器（代号Diamond Rapids）的计划中OCI X14实例。",
+    "full_content": "【英特尔与甲骨文计划扩大合作 以支持甲骨文云基础设施上的企业级和智能体AI】英特尔与甲骨文宣布计划开展一项多年期合作，以扩大英特尔至强（Xeon）处理器在甲骨文云基础设施（OCI）上的部署，从而满足企业应用、智能体AI（Agentic AI） 和推理日益增长的需求。双方将协调路线图和产能规划，合作范围将覆盖当前及未来的至强平台，包括基于英特尔下一代服务器处理器（代号Diamond Rapids）的计划中OCI X14实例。",
+    "sort_time": "1793117517025969",
+    "showTime": "2026-10-28 00:11:57",
+    "time": "2026-10-28 00:11:57",
+    "publish_time": "2026-10-28 00:11:57",
+    "raw_data": {
+      "code": "202610283910625969",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117517025969",
+      "share": 0,
+      "showTime": "2026-10-28 00:11:57",
+      "stockList": [
+        "105.INTC",
+        "106.ORCL"
+      ],
+      "summary": "【英特尔与甲骨文计划扩大合作 以支持甲骨文云基础设施上的企业级和智能体AI】英特尔与甲骨文宣布计划开展一项多年期合作，以扩大英特尔至强（Xeon）处理器在甲骨文云基础设施（OCI）上的部署，从而满足企业应用、智能体AI（Agentic AI） 和推理日益增长的需求。双方将协调路线图和产能规划，合作范围将覆盖当前及未来的至强平台，包括基于英特尔下一代服务器处理器（代号Diamond Rapids）的计划中OCI X14实例。",
+      "title": "英特尔与甲骨文计划扩大合作 以支持甲骨文云基础设施上的企业级和智能体AI",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910625969.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "105.INTC",
+      "106.ORCL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "服务器"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "d7368a2f15922f49",
+    "code": "202610283910625294",
+    "title": "巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金",
+    "summary": "【巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金】巴西联邦最高法院法官弗拉维奥·迪诺27日裁定，要求巴西联邦警察就总统选举中败选的自由党候选人博索纳罗在竞选活动中涉嫌接受外国资金和操纵社交媒体展开调查。",
+    "content": "【巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金】巴西联邦最高法院法官弗拉维奥·迪诺27日裁定，要求巴西联邦警察就总统选举中败选的自由党候选人博索纳罗在竞选活动中涉嫌接受外国资金和操纵社交媒体展开调查。",
+    "full_content": "【巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金】巴西联邦最高法院法官弗拉维奥·迪诺27日裁定，要求巴西联邦警察就总统选举中败选的自由党候选人博索纳罗在竞选活动中涉嫌接受外国资金和操纵社交媒体展开调查。",
+    "sort_time": "1793117441025294",
+    "showTime": "2026-10-28 00:10:41",
+    "time": "2026-10-28 00:10:41",
+    "publish_time": "2026-10-28 00:10:41",
+    "raw_data": {
+      "code": "202610283910625294",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1793117441025294",
+      "share": 0,
+      "showTime": "2026-10-28 00:10:41",
+      "stockList": [],
+      "summary": "【巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金】巴西联邦最高法院法官弗拉维奥·迪诺27日裁定，要求巴西联邦警察就总统选举中败选的自由党候选人博索纳罗在竞选活动中涉嫌接受外国资金和操纵社交媒体展开调查。",
+      "title": "巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910625294.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C701",
+          "name": "国企改革",
+          "matched_keyword": "国资"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C701"
+      ]
+    }
+  },
+  {
+    "id": "6999e0d9988db15e",
+    "code": "202610283910624897",
+    "title": "甲骨文将谷歌TPU引入甲骨文云基础设施",
+    "summary": "甲骨文与谷歌宣布，谷歌的张量处理单元（TPU）将首次在谷歌以外的超大规模云平台——甲骨文云基础设施（OCI）上提供。OCI将负责提供电力、冷却和数据中心网络，以大规模部署谷歌TPU。",
+    "content": "甲骨文与谷歌宣布，谷歌的张量处理单元（TPU）将首次在谷歌以外的超大规模云平台——甲骨文云基础设施（OCI）上提供。OCI将负责提供电力、冷却和数据中心网络，以大规模部署谷歌TPU。",
+    "full_content": "甲骨文与谷歌宣布，谷歌的张量处理单元（TPU）将首次在谷歌以外的超大规模云平台——甲骨文云基础设施（OCI）上提供。OCI将负责提供电力、冷却和数据中心网络，以大规模部署谷歌TPU。",
+    "sort_time": "1793117201024897",
+    "showTime": "2026-10-28 00:06:41",
+    "time": "2026-10-28 00:06:41",
+    "publish_time": "2026-10-28 00:06:41",
+    "raw_data": {
+      "code": "202610283910624897",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1793117201024897",
+      "share": 0,
+      "showTime": "2026-10-28 00:06:41",
+      "stockList": [
+        "106.ORCL",
+        "150.014238"
+      ],
+      "summary": "甲骨文与谷歌宣布，谷歌的张量处理单元（TPU）将首次在谷歌以外的超大规模云平台——甲骨文云基础设施（OCI）上提供。OCI将负责提供电力、冷却和数据中心网络，以大规模部署谷歌TPU。",
+      "title": "甲骨文将谷歌TPU引入甲骨文云基础设施",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910624897.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.ORCL",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "8cd8c80f56d94259",
+    "code": "202610283910624636",
+    "title": "OpenAI宣布扩大与甲骨文的合作伙伴关系 将甲骨文的企业应用引入ChatGPT平台",
+    "summary": "OpenAI宣布扩大与甲骨文的合作伙伴关系，将甲骨文的企业应用引入ChatGPT平台。",
+    "content": "OpenAI宣布扩大与甲骨文的合作伙伴关系，将甲骨文的企业应用引入ChatGPT平台。",
+    "full_content": "OpenAI宣布扩大与甲骨文的合作伙伴关系，将甲骨文的企业应用引入ChatGPT平台。",
+    "sort_time": "1793117122024636",
+    "showTime": "2026-10-28 00:05:22",
+    "time": "2026-10-28 00:05:22",
+    "publish_time": "2026-10-28 00:05:22",
+    "raw_data": {
+      "code": "202610283910624636",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1793117122024636",
+      "share": 0,
+      "showTime": "2026-10-28 00:05:22",
+      "stockList": [
+        "106.ORCL",
+        "90.BK1126"
+      ],
+      "summary": "OpenAI宣布扩大与甲骨文的合作伙伴关系，将甲骨文的企业应用引入ChatGPT平台。",
+      "title": "OpenAI宣布扩大与甲骨文的合作伙伴关系 将甲骨文的企业应用引入ChatGPT平台",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910624636.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.ORCL",
+      "90.BK1126"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "ChatGPT"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "65da87386dbdcf3a",
+    "code": "202610283910623435",
+    "title": "英伟达与甲骨文宣布扩大合作",
+    "summary": "英伟达与甲骨文宣布，计划将甲骨文云基础设施（OCI）的超级集群扩展至基于NVIDIAVeraRubinNVL72系统的多吉瓦规模，以满足AI训练、推理和智能体应用不断增长的需求。同时，NVIDIAVeraRubinNVL72系统和NVIDIAVeraCPU现已在OCI上全面可用。此次合作扩大的核心在于，为客户提供同时覆盖两类工作负载的基础设施：一类是GPU密集型的前沿模型训练与推理，另一类是智能体在模型调用之间执行的CPU密集型任务（如执行工具、测试代码、检索数据）。客户可以独立扩展CPU和GPU资源，使算力配置与工作负载精准匹配，从而减少闲置容量、提升基础设施利用率。",
+    "content": "英伟达与甲骨文宣布，计划将甲骨文云基础设施（OCI）的超级集群扩展至基于NVIDIAVeraRubinNVL72系统的多吉瓦规模，以满足AI训练、推理和智能体应用不断增长的需求。同时，NVIDIAVeraRubinNVL72系统和NVIDIAVeraCPU现已在OCI上全面可用。此次合作扩大的核心在于，为客户提供同时覆盖两类工作负载的基础设施：一类是GPU密集型的前沿模型训练与推理，另一类是智能体在模型调用之间执行的CPU密集型任务（如执行工具、测试代码、检索数据）。客户可以独立扩展CPU和GPU资源，使算力配置与工作负载精准匹配，从而减少闲置容量、提升基础设施利用率。",
+    "full_content": "英伟达与甲骨文宣布，计划将甲骨文云基础设施（OCI）的超级集群扩展至基于NVIDIAVeraRubinNVL72系统的多吉瓦规模，以满足AI训练、推理和智能体应用不断增长的需求。同时，NVIDIAVeraRubinNVL72系统和NVIDIAVeraCPU现已在OCI上全面可用。此次合作扩大的核心在于，为客户提供同时覆盖两类工作负载的基础设施：一类是GPU密集型的前沿模型训练与推理，另一类是智能体在模型调用之间执行的CPU密集型任务（如执行工具、测试代码、检索数据）。客户可以独立扩展CPU和GPU资源，使算力配置与工作负载精准匹配，从而减少闲置容量、提升基础设施利用率。",
+    "sort_time": "1793117005023435",
+    "showTime": "2026-10-28 00:03:25",
+    "time": "2026-10-28 00:03:25",
+    "publish_time": "2026-10-28 00:03:25",
+    "raw_data": {
+      "code": "202610283910623435",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793117005023435",
+      "share": 0,
+      "showTime": "2026-10-28 00:03:25",
+      "stockList": [
+        "105.NVDA",
+        "106.ORCL"
+      ],
+      "summary": "英伟达与甲骨文宣布，计划将甲骨文云基础设施（OCI）的超级集群扩展至基于NVIDIAVeraRubinNVL72系统的多吉瓦规模，以满足AI训练、推理和智能体应用不断增长的需求。同时，NVIDIAVeraRubinNVL72系统和NVIDIAVeraCPU现已在OCI上全面可用。此次合作扩大的核心在于，为客户提供同时覆盖两类工作负载的基础设施：一类是GPU密集型的前沿模型训练与推理，另一类是智能体在模型调用之间执行的CPU密集型任务（如执行工具、测试代码、检索数据）。客户可以独立扩展CPU和GPU资源，使算力配置与工作负载精准匹配，从而减少闲置容量、提升基础设施利用率。",
+      "title": "英伟达与甲骨文宣布扩大合作",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910623435.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "105.NVDA",
+      "106.ORCL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "CPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "19ecaf4dbde0735d",
+    "code": "202610283910623657",
+    "title": "甲骨文与Cerebras在声明中宣布建立合作伙伴关系 甲骨文将在其AI数据中心使用Cerebras的设备",
+    "summary": "甲骨文与Cerebras在声明中宣布建立合作伙伴关系。甲骨文将在其AI数据中心使用Cerebras的设备。",
+    "content": "甲骨文与Cerebras在声明中宣布建立合作伙伴关系。甲骨文将在其AI数据中心使用Cerebras的设备。",
+    "full_content": "甲骨文与Cerebras在声明中宣布建立合作伙伴关系。甲骨文将在其AI数据中心使用Cerebras的设备。",
+    "sort_time": "1793116912023657",
+    "showTime": "2026-10-28 00:01:52",
+    "time": "2026-10-28 00:01:52",
+    "publish_time": "2026-10-28 00:01:52",
+    "raw_data": {
+      "code": "202610283910623657",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1793116912023657",
+      "share": 4,
+      "showTime": "2026-10-28 00:01:52",
+      "stockList": [
+        "106.ORCL",
+        "105.CBRS"
+      ],
+      "summary": "甲骨文与Cerebras在声明中宣布建立合作伙伴关系。甲骨文将在其AI数据中心使用Cerebras的设备。",
+      "title": "甲骨文与Cerebras在声明中宣布建立合作伙伴关系 甲骨文将在其AI数据中心使用Cerebras的设备",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910623657.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.ORCL",
+      "105.CBRS"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "de07125276a95500",
+    "code": "202610283910622729",
+    "title": "叙利亚过渡政府谴责约旦军队空袭叙南部",
+    "summary": "【叙利亚过渡政府谴责约旦军队空袭叙南部】叙利亚过渡政府27日谴责约旦军队26日空袭叙南部多地，称行动前未与叙方协调，对叙领空构成“不可接受的侵犯”。叙过渡政府应急与灾害管理部称，约旦空军26日晚袭击德拉省和苏韦达省多地，致7人死亡、3人受伤。",
+    "content": "【叙利亚过渡政府谴责约旦军队空袭叙南部】叙利亚过渡政府27日谴责约旦军队26日空袭叙南部多地，称行动前未与叙方协调，对叙领空构成“不可接受的侵犯”。叙过渡政府应急与灾害管理部称，约旦空军26日晚袭击德拉省和苏韦达省多地，致7人死亡、3人受伤。",
+    "full_content": "【叙利亚过渡政府谴责约旦军队空袭叙南部】叙利亚过渡政府27日谴责约旦军队26日空袭叙南部多地，称行动前未与叙方协调，对叙领空构成“不可接受的侵犯”。叙过渡政府应急与灾害管理部称，约旦空军26日晚袭击德拉省和苏韦达省多地，致7人死亡、3人受伤。",
+    "sort_time": "1793116848022729",
+    "showTime": "2026-10-28 00:00:48",
+    "time": "2026-10-28 00:00:48",
+    "publish_time": "2026-10-28 00:00:48",
+    "raw_data": {
+      "code": "202610283910622729",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1793116848022729",
+      "share": 0,
+      "showTime": "2026-10-28 00:00:48",
+      "stockList": [],
+      "summary": "【叙利亚过渡政府谴责约旦军队空袭叙南部】叙利亚过渡政府27日谴责约旦军队26日空袭叙南部多地，称行动前未与叙方协调，对叙领空构成“不可接受的侵犯”。叙过渡政府应急与灾害管理部称，约旦空军26日晚袭击德拉省和苏韦达省多地，致7人死亡、3人受伤。",
+      "title": "叙利亚过渡政府谴责约旦军队空袭叙南部",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610283910622729.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1674269ca14a0f2b",
+    "code": "202610273910621798",
+    "title": "章建平及其妻方文艳三季度持仓变动曝光：新进成为4家A股上市公司十大股东",
+    "summary": "【章建平及其妻方文艳三季度持仓变动曝光：新进成为4家A股上市公司十大股东】随着A股上市公司2026年三季报持续披露，章建平及其妻方文艳的持仓动向逐渐清晰。据财联社不完全统计，截至发稿，截止三季度末，章建平作为第三大股东增仓云南锗业、新进成为东材科技第三大股东持股2.94%、退出科翔股份前十大股东名单；方文艳新进成为方正科技第七大股东持股0.92%、新进成为华正新材第二大股东持股4.96%、新进成为科翔股份第八大股东持股1.63%。",
+    "content": "【章建平及其妻方文艳三季度持仓变动曝光：新进成为4家A股上市公司十大股东】随着A股上市公司2026年三季报持续披露，章建平及其妻方文艳的持仓动向逐渐清晰。据财联社不完全统计，截至发稿，截止三季度末，章建平作为第三大股东增仓云南锗业、新进成为东材科技第三大股东持股2.94%、退出科翔股份前十大股东名单；方文艳新进成为方正科技第七大股东持股0.92%、新进成为华正新材第二大股东持股4.96%、新进成为科翔股份第八大股东持股1.63%。",
+    "full_content": "【章建平及其妻方文艳三季度持仓变动曝光：新进成为4家A股上市公司十大股东】随着A股上市公司2026年三季报持续披露，章建平及其妻方文艳的持仓动向逐渐清晰。据财联社不完全统计，截至发稿，截止三季度末，章建平作为第三大股东增仓云南锗业、新进成为东材科技第三大股东持股2.94%、退出科翔股份前十大股东名单；方文艳新进成为方正科技第七大股东持股0.92%、新进成为华正新材第二大股东持股4.96%、新进成为科翔股份第八大股东持股1.63%。",
+    "sort_time": "1793116781021798",
+    "showTime": "2026-10-27 23:59:41",
+    "time": "2026-10-27 23:59:41",
+    "publish_time": "2026-10-27 23:59:41",
+    "raw_data": {
+      "code": "202610273910621798",
+      "image": [],
+      "pinglun_Num": 24,
+      "realSort": "1793116781021798",
+      "share": 23,
+      "showTime": "2026-10-27 23:59:41",
+      "stockList": [
+        "0.002428",
+        "0.300903"
+      ],
+      "summary": "【章建平及其妻方文艳三季度持仓变动曝光：新进成为4家A股上市公司十大股东】随着A股上市公司2026年三季报持续披露，章建平及其妻方文艳的持仓动向逐渐清晰。据财联社不完全统计，截至发稿，截止三季度末，章建平作为第三大股东增仓云南锗业、新进成为东材科技第三大股东持股2.94%、退出科翔股份前十大股东名单；方文艳新进成为方正科技第七大股东持股0.92%、新进成为华正新材第二大股东持股4.96%、新进成为科翔股份第八大股东持股1.63%。",
+      "title": "章建平及其妻方文艳三季度持仓变动曝光：新进成为4家A股上市公司十大股东",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610273910621798.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.002428",
+      "0.300903"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 24,
+    "share_count": 23,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a946e3bdf8b066da",
+    "code": "202610273910620875",
+    "title": "俄乌在阿列什基停火至11月1日",
+    "summary": "【俄乌在阿列什基停火至11月1日】俄罗斯人权事务专员10月27日表示，赫尔松地区阿列什基的临时停火从莫斯科时间当天4:00（北京时间9:00）开始，持续至11月1日22:59（北京时间11月2日3:59）。这与乌克兰方面稍早前表示的停火时段一致。据称截至目前俄乌双方均未记录到违反停火的情况。",
+    "content": "【俄乌在阿列什基停火至11月1日】俄罗斯人权事务专员10月27日表示，赫尔松地区阿列什基的临时停火从莫斯科时间当天4:00（北京时间9:00）开始，持续至11月1日22:59（北京时间11月2日3:59）。这与乌克兰方面稍早前表示的停火时段一致。据称截至目前俄乌双方均未记录到违反停火的情况。",
+    "full_content": "【俄乌在阿列什基停火至11月1日】俄罗斯人权事务专员10月27日表示，赫尔松地区阿列什基的临时停火从莫斯科时间当天4:00（北京时间9:00）开始，持续至11月1日22:59（北京时间11月2日3:59）。这与乌克兰方面稍早前表示的停火时段一致。据称截至目前俄乌双方均未记录到违反停火的情况。",
+    "sort_time": "1793116427020875",
+    "showTime": "2026-10-27 23:53:47",
+    "time": "2026-10-27 23:53:47",
+    "publish_time": "2026-10-27 23:53:47",
+    "raw_data": {
+      "code": "202610273910620875",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1793116427020875",
+      "share": 1,
+      "showTime": "2026-10-27 23:53:47",
+      "stockList": [],
+      "summary": "【俄乌在阿列什基停火至11月1日】俄罗斯人权事务专员10月27日表示，赫尔松地区阿列什基的临时停火从莫斯科时间当天4:00（北京时间9:00）开始，持续至11月1日22:59（北京时间11月2日3:59）。这与乌克兰方面稍早前表示的停火时段一致。据称截至目前俄乌双方均未记录到违反停火的情况。",
+      "title": "俄乌在阿列什基停火至11月1日",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610273910620875.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e671b56cfe3b2c39",
+    "code": "202610273910619858",
+    "title": "美股AI硬件板块集体走高 费城半导体指数涨3%",
+    "summary": "【美股AI硬件板块集体走高 费城半导体指数涨3%】美股AI硬件板块普遍上涨，费城半导体指数涨3.00%。个股方面，AMD涨5.41%，博通涨3.85%，英特尔涨3.53%，台积电涨3.07%，英伟达涨1.21%，美光科技涨2.71%，SK海力士涨2.33%。存储及数据存储板块表现突出，西部数据涨7.86%，希捷科技涨6.04%；光通信板块中，Lumentum涨7.01%，Coherent涨5.91%。三倍做多半导体ETF-Direxion涨9.60%。",
+    "content": "【美股AI硬件板块集体走高 费城半导体指数涨3%】美股AI硬件板块普遍上涨，费城半导体指数涨3.00%。个股方面，AMD涨5.41%，博通涨3.85%，英特尔涨3.53%，台积电涨3.07%，英伟达涨1.21%，美光科技涨2.71%，SK海力士涨2.33%。存储及数据存储板块表现突出，西部数据涨7.86%，希捷科技涨6.04%；光通信板块中，Lumentum涨7.01%，Coherent涨5.91%。三倍做多半导体ETF-Direxion涨9.60%。",
+    "full_content": "【美股AI硬件板块集体走高 费城半导体指数涨3%】美股AI硬件板块普遍上涨，费城半导体指数涨3.00%。个股方面，AMD涨5.41%，博通涨3.85%，英特尔涨3.53%，台积电涨3.07%，英伟达涨1.21%，美光科技涨2.71%，SK海力士涨2.33%。存储及数据存储板块表现突出，西部数据涨7.86%，希捷科技涨6.04%；光通信板块中，Lumentum涨7.01%，Coherent涨5.91%。三倍做多半导体ETF-Direxion涨9.60%。",
+    "sort_time": "1793116101019858",
+    "showTime": "2026-10-27 23:48:21",
+    "time": "2026-10-27 23:48:21",
+    "publish_time": "2026-10-27 23:48:21",
+    "raw_data": {
+      "code": "202610273910619858",
+      "image": [],
+      "pinglun_Num": 75,
+      "realSort": "1793116101019858",
+      "share": 17,
+      "showTime": "2026-10-27 23:48:21",
+      "stockList": [
+        "90.BK1036",
+        "90.BK0459"
+      ],
+      "summary": "【美股AI硬件板块集体走高 费城半导体指数涨3%】美股AI硬件板块普遍上涨，费城半导体指数涨3.00%。个股方面，AMD涨5.41%，博通涨3.85%，英特尔涨3.53%，台积电涨3.07%，英伟达涨1.21%，美光科技涨2.71%，SK海力士涨2.33%。存储及数据存储板块表现突出，西部数据涨7.86%，希捷科技涨6.04%；光通信板块中，Lumentum涨7.01%，Coherent涨5.91%。三倍做多半导体ETF-Direxion涨9.60%。",
+      "title": "美股AI硬件板块集体走高 费城半导体指数涨3%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610273910619858.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK1036",
+      "90.BK0459"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 75,
+    "share_count": 17,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "ETF"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "光通信"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I020201"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002",
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "8fc23ffd095104f7",
+    "code": "202610273910617077",
+    "title": "巴拿马科伊瓦岛附近海域发生5.7级地震",
+    "summary": "【巴拿马科伊瓦岛附近海域发生5.7级地震】据巴拿马大学地球科学研究所发布的初步地震监测报告，当地时间10月27日上午10时26分，巴拿马科伊瓦岛东北方向约19公里处海域发生5.7级地震，震源深度约5公里。",
+    "content": "【巴拿马科伊瓦岛附近海域发生5.7级地震】据巴拿马大学地球科学研究所发布的初步地震监测报告，当地时间10月27日上午10时26分，巴拿马科伊瓦岛东北方向约19公里处海域发生5.7级地震，震源深度约5公里。",
+    "full_content": "【巴拿马科伊瓦岛附近海域发生5.7级地震】据巴拿马大学地球科学研究所发布的初步地震监测报告，当地时间10月27日上午10时26分，巴拿马科伊瓦岛东北方向约19公里处海域发生5.7级地震，震源深度约5公里。",
+    "sort_time": "1793115712017077",
+    "showTime": "2026-10-27 23:41:52",
+    "time": "2026-10-27 23:41:52",
+    "publish_time": "2026-10-27 23:41:52",
+    "raw_data": {
+      "code": "202610273910617077",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1793115712017077",
+      "share": 0,
+      "showTime": "2026-10-27 23:41:52",
+      "stockList": [],
+      "summary": "【巴拿马科伊瓦岛附近海域发生5.7级地震】据巴拿马大学地球科学研究所发布的初步地震监测报告，当地时间10月27日上午10时26分，巴拿马科伊瓦岛东北方向约19公里处海域发生5.7级地震，震源深度约5公里。",
+      "title": "巴拿马科伊瓦岛附近海域发生5.7级地震",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202610273910617077.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
     "id": "721a8e536d613bfe",
     "code": "202610273910497583",
     "title": "沙特最大石油出口码头附近火势受控 此前当地遇袭",
