@@ -1,5 +1,2295 @@
 [
   {
+    "id": "1a92448dd29e367a",
+    "code": "202611103926630278",
+    "title": "Anthropic将于周二启动纳斯达克IPO的营销活动",
+    "summary": "Anthropic将于周二启动纳斯达克IPO的营销活动。",
+    "content": "Anthropic将于周二启动纳斯达克IPO的营销活动。",
+    "full_content": "Anthropic将于周二启动纳斯达克IPO的营销活动。",
+    "sort_time": "1794254398030278",
+    "showTime": "2026-11-10 03:59:58",
+    "time": "2026-11-10 03:59:58",
+    "publish_time": "2026-11-10 03:59:58",
+    "raw_data": {
+      "code": "202611103926630278",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794254398030278",
+      "share": 0,
+      "showTime": "2026-11-10 03:59:58",
+      "stockList": [
+        "90.BK0697"
+      ],
+      "summary": "Anthropic将于周二启动纳斯达克IPO的营销活动。",
+      "title": "Anthropic将于周二启动纳斯达克IPO的营销活动",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926630278.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "47ebdf21a6e3707d",
+    "code": "202611103926630139",
+    "title": "日元兑美元上涨0.5% 至157.68",
+    "summary": "日元兑美元上涨0.5%，至157.68。",
+    "content": "日元兑美元上涨0.5%，至157.68。",
+    "full_content": "日元兑美元上涨0.5%，至157.68。",
+    "sort_time": "1794253848030139",
+    "showTime": "2026-11-10 03:50:48",
+    "time": "2026-11-10 03:50:48",
+    "publish_time": "2026-11-10 03:50:48",
+    "raw_data": {
+      "code": "202611103926630139",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794253848030139",
+      "share": 0,
+      "showTime": "2026-11-10 03:50:48",
+      "stockList": [],
+      "summary": "日元兑美元上涨0.5%，至157.68。",
+      "title": "日元兑美元上涨0.5% 至157.68",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926630139.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "77bdd1d6229f65ff",
+    "code": "202611103926630068",
+    "title": "国际油价短线走低",
+    "summary": "国际油价短线走低，截至目前，WTI原油期货价格跌5.73%，报85.625美元/桶；布伦特原油期货价格跌7.11%，报91.325美元/桶。",
+    "content": "国际油价短线走低，截至目前，WTI原油期货价格跌5.73%，报85.625美元/桶；布伦特原油期货价格跌7.11%，报91.325美元/桶。",
+    "full_content": "国际油价短线走低，截至目前，WTI原油期货价格跌5.73%，报85.625美元/桶；布伦特原油期货价格跌7.11%，报91.325美元/桶。",
+    "sort_time": "1794253629030068",
+    "showTime": "2026-11-10 03:47:09",
+    "time": "2026-11-10 03:47:09",
+    "publish_time": "2026-11-10 03:47:09",
+    "raw_data": {
+      "code": "202611103926630068",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794253629030068",
+      "share": 2,
+      "showTime": "2026-11-10 03:47:09",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "国际油价短线走低，截至目前，WTI原油期货价格跌5.73%，报85.625美元/桶；布伦特原油期货价格跌7.11%，报91.325美元/桶。",
+      "title": "国际油价短线走低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926630068.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "b5b21eeefad8f283",
+    "code": "202611103926629935",
+    "title": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙",
+    "summary": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙。",
+    "content": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙。",
+    "full_content": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙。",
+    "sort_time": "1794253549029935",
+    "showTime": "2026-11-10 03:45:49",
+    "time": "2026-11-10 03:45:49",
+    "publish_time": "2026-11-10 03:45:49",
+    "raw_data": {
+      "code": "202611103926629935",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794253549029935",
+      "share": 0,
+      "showTime": "2026-11-10 03:45:49",
+      "stockList": [],
+      "summary": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙。",
+      "title": "美国最高法院允许特朗普政府继续在大弯地区建设边境墙",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926629935.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7817c2357293b1f4",
+    "code": "202611103926629323",
+    "title": "美股三大指数涨幅扩大",
+    "summary": "美股三大指数涨幅扩大，截至目前，道琼斯指数涨2.43%，标普500指数涨2.61%，纳斯达克综合指数涨3.02%。",
+    "content": "美股三大指数涨幅扩大，截至目前，道琼斯指数涨2.43%，标普500指数涨2.61%，纳斯达克综合指数涨3.02%。",
+    "full_content": "美股三大指数涨幅扩大，截至目前，道琼斯指数涨2.43%，标普500指数涨2.61%，纳斯达克综合指数涨3.02%。",
+    "sort_time": "1794253332029323",
+    "showTime": "2026-11-10 03:42:12",
+    "time": "2026-11-10 03:42:12",
+    "publish_time": "2026-11-10 03:42:12",
+    "raw_data": {
+      "code": "202611103926629323",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1794253332029323",
+      "share": 2,
+      "showTime": "2026-11-10 03:42:12",
+      "stockList": [],
+      "summary": "美股三大指数涨幅扩大，截至目前，道琼斯指数涨2.43%，标普500指数涨2.61%，纳斯达克综合指数涨3.02%。",
+      "title": "美股三大指数涨幅扩大",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926629323.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "250bb3eb8bda5863",
+    "code": "202611103926627595",
+    "title": "土耳其西部钢铁厂爆炸遇难人数升至16人",
+    "summary": "【土耳其西部钢铁厂爆炸遇难人数升至16人】土耳其总统埃尔多安9日表示，该国西部伊兹密尔省一家钢铁厂发生大规模爆炸，遇难人数已升至16人。埃尔多安在内阁会议后的新闻发布会上表示，已对此次爆炸展开调查，将仔细查明事故原因、经过以及责任人。",
+    "content": "【土耳其西部钢铁厂爆炸遇难人数升至16人】土耳其总统埃尔多安9日表示，该国西部伊兹密尔省一家钢铁厂发生大规模爆炸，遇难人数已升至16人。埃尔多安在内阁会议后的新闻发布会上表示，已对此次爆炸展开调查，将仔细查明事故原因、经过以及责任人。",
+    "full_content": "【土耳其西部钢铁厂爆炸遇难人数升至16人】土耳其总统埃尔多安9日表示，该国西部伊兹密尔省一家钢铁厂发生大规模爆炸，遇难人数已升至16人。埃尔多安在内阁会议后的新闻发布会上表示，已对此次爆炸展开调查，将仔细查明事故原因、经过以及责任人。",
+    "sort_time": "1794252550027595",
+    "showTime": "2026-11-10 03:29:10",
+    "time": "2026-11-10 03:29:10",
+    "publish_time": "2026-11-10 03:29:10",
+    "raw_data": {
+      "code": "202611103926627595",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794252550027595",
+      "share": 0,
+      "showTime": "2026-11-10 03:29:10",
+      "stockList": [
+        "90.BK0479",
+        "1007.BK000043"
+      ],
+      "summary": "【土耳其西部钢铁厂爆炸遇难人数升至16人】土耳其总统埃尔多安9日表示，该国西部伊兹密尔省一家钢铁厂发生大规模爆炸，遇难人数已升至16人。埃尔多安在内阁会议后的新闻发布会上表示，已对此次爆炸展开调查，将仔细查明事故原因、经过以及责任人。",
+      "title": "土耳其西部钢铁厂爆炸遇难人数升至16人",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926627595.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0479",
+      "1007.BK000043"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C504",
+          "name": "钢铁",
+          "matched_keyword": "钢铁"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C504"
+      ]
+    }
+  },
+  {
+    "id": "9eafc6dd06f4cec5",
+    "code": "202611103926627452",
+    "title": "伊朗外交部：伊方“两日计划”仍有效 美国应认真考虑",
+    "summary": "【伊朗外交部：伊方“两日计划”仍有效 美国应认真考虑】伊朗外交部发言人巴加埃9日就地区局势、伊美关系等举行发布会。巴加埃强调，伊朗提出的“两日计划”仍有效，该方案旨在恢复霍尔木兹海峡和波斯湾的安全，美国应认真考虑。",
+    "content": "【伊朗外交部：伊方“两日计划”仍有效 美国应认真考虑】伊朗外交部发言人巴加埃9日就地区局势、伊美关系等举行发布会。巴加埃强调，伊朗提出的“两日计划”仍有效，该方案旨在恢复霍尔木兹海峡和波斯湾的安全，美国应认真考虑。",
+    "full_content": "【伊朗外交部：伊方“两日计划”仍有效 美国应认真考虑】伊朗外交部发言人巴加埃9日就地区局势、伊美关系等举行发布会。巴加埃强调，伊朗提出的“两日计划”仍有效，该方案旨在恢复霍尔木兹海峡和波斯湾的安全，美国应认真考虑。",
+    "sort_time": "1794252473027452",
+    "showTime": "2026-11-10 03:27:53",
+    "time": "2026-11-10 03:27:53",
+    "publish_time": "2026-11-10 03:27:53",
+    "raw_data": {
+      "code": "202611103926627452",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794252473027452",
+      "share": 0,
+      "showTime": "2026-11-10 03:27:53",
+      "stockList": [],
+      "summary": "【伊朗外交部：伊方“两日计划”仍有效 美国应认真考虑】伊朗外交部发言人巴加埃9日就地区局势、伊美关系等举行发布会。巴加埃强调，伊朗提出的“两日计划”仍有效，该方案旨在恢复霍尔木兹海峡和波斯湾的安全，美国应认真考虑。",
+      "title": "伊朗外交部：伊方“两日计划”仍有效 美国应认真考虑",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926627452.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "dfeed5f5893a43ab",
+    "code": "202611103926627220",
+    "title": "美国劳工统计局将不会发布10月CPI及核心CPI的12个月同比数据",
+    "summary": "美国劳工统计局将不会发布10月CPI及核心CPI的12个月同比数据。因2025年美国政府停摆导致基期数据缺失，无法追溯采集，市场只能依赖环比数据判断通胀情况。",
+    "content": "美国劳工统计局将不会发布10月CPI及核心CPI的12个月同比数据。因2025年美国政府停摆导致基期数据缺失，无法追溯采集，市场只能依赖环比数据判断通胀情况。",
+    "full_content": "美国劳工统计局将不会发布10月CPI及核心CPI的12个月同比数据。因2025年美国政府停摆导致基期数据缺失，无法追溯采集，市场只能依赖环比数据判断通胀情况。",
+    "sort_time": "1794251654027220",
+    "showTime": "2026-11-10 03:14:14",
+    "time": "2026-11-10 03:14:14",
+    "publish_time": "2026-11-10 03:14:14",
+    "raw_data": {
+      "code": "202611103926627220",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794251654027220",
+      "share": 0,
+      "showTime": "2026-11-10 03:14:14",
+      "stockList": [],
+      "summary": "美国劳工统计局将不会发布10月CPI及核心CPI的12个月同比数据。因2025年美国政府停摆导致基期数据缺失，无法追溯采集，市场只能依赖环比数据判断通胀情况。",
+      "title": "美国劳工统计局将不会发布10月CPI及核心CPI的12个月同比数据",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926627220.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "79b0c9944cce9dac",
+    "code": "202611103926626768",
+    "title": "百事公司据悉正在北美裁减约1000个工作岗位",
+    "summary": "百事公司据悉正在北美裁减约1000个工作岗位。",
+    "content": "百事公司据悉正在北美裁减约1000个工作岗位。",
+    "full_content": "百事公司据悉正在北美裁减约1000个工作岗位。",
+    "sort_time": "1794251247026768",
+    "showTime": "2026-11-10 03:07:27",
+    "time": "2026-11-10 03:07:27",
+    "publish_time": "2026-11-10 03:07:27",
+    "raw_data": {
+      "code": "202611103926626768",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794251247026768",
+      "share": 0,
+      "showTime": "2026-11-10 03:07:27",
+      "stockList": [
+        "105.PEP"
+      ],
+      "summary": "百事公司据悉正在北美裁减约1000个工作岗位。",
+      "title": "百事公司据悉正在北美裁减约1000个工作岗位",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926626768.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.PEP"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ebd75d238e4fbdb7",
+    "code": "202611103926625835",
+    "title": "恒生指数主连夜盘收跌0.01% 恒生科技指数主连夜盘收跌0.15%",
+    "summary": "恒生指数主连夜盘收跌0.01%，报24506点。恒生科技指数主连夜盘收跌0.15%，报4047点。",
+    "content": "恒生指数主连夜盘收跌0.01%，报24506点。恒生科技指数主连夜盘收跌0.15%，报4047点。",
+    "full_content": "恒生指数主连夜盘收跌0.01%，报24506点。恒生科技指数主连夜盘收跌0.15%，报4047点。",
+    "sort_time": "1794250964025835",
+    "showTime": "2026-11-10 03:02:44",
+    "time": "2026-11-10 03:02:44",
+    "publish_time": "2026-11-10 03:02:44",
+    "raw_data": {
+      "code": "202611103926625835",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794250964025835",
+      "share": 0,
+      "showTime": "2026-11-10 03:02:44",
+      "stockList": [],
+      "summary": "恒生指数主连夜盘收跌0.01%，报24506点。恒生科技指数主连夜盘收跌0.15%，报4047点。",
+      "title": "恒生指数主连夜盘收跌0.01% 恒生科技指数主连夜盘收跌0.15%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926625835.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4b534fb748e45a46",
+    "code": "202611103926625612",
+    "title": "Anthropic在IPO前发布新的Fable、MythosAI模型",
+    "summary": "Anthropic在IPO前发布新的Fable、MythosAI模型。",
+    "content": "Anthropic在IPO前发布新的Fable、MythosAI模型。",
+    "full_content": "Anthropic在IPO前发布新的Fable、MythosAI模型。",
+    "sort_time": "1794250912025612",
+    "showTime": "2026-11-10 03:01:52",
+    "time": "2026-11-10 03:01:52",
+    "publish_time": "2026-11-10 03:01:52",
+    "raw_data": {
+      "code": "202611103926625612",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794250912025612",
+      "share": 0,
+      "showTime": "2026-11-10 03:01:52",
+      "stockList": [
+        "90.BK0697"
+      ],
+      "summary": "Anthropic在IPO前发布新的Fable、MythosAI模型。",
+      "title": "Anthropic在IPO前发布新的Fable、MythosAI模型",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926625612.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0697"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "36f596196384ab5f",
+    "code": "202611103926624619",
+    "title": "SpaceX计划在其位于得克萨斯州星基地的公司城镇建设一座燃气发电厂和超级算力设施",
+    "summary": "SpaceX计划在其位于得克萨斯州星基地的公司城镇建设一座燃气发电厂和超级算力设施。该项目初期阶段的估计投资为240亿美元。",
+    "content": "SpaceX计划在其位于得克萨斯州星基地的公司城镇建设一座燃气发电厂和超级算力设施。该项目初期阶段的估计投资为240亿美元。",
+    "full_content": "SpaceX计划在其位于得克萨斯州星基地的公司城镇建设一座燃气发电厂和超级算力设施。该项目初期阶段的估计投资为240亿美元。",
+    "sort_time": "1794250614024619",
+    "showTime": "2026-11-10 02:56:54",
+    "time": "2026-11-10 02:56:54",
+    "publish_time": "2026-11-10 02:56:54",
+    "raw_data": {
+      "code": "202611103926624619",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794250614024619",
+      "share": 0,
+      "showTime": "2026-11-10 02:56:54",
+      "stockList": [
+        "105.SPCX",
+        "90.BK1028"
+      ],
+      "summary": "SpaceX计划在其位于得克萨斯州星基地的公司城镇建设一座燃气发电厂和超级算力设施。该项目初期阶段的估计投资为240亿美元。",
+      "title": "SpaceX计划在其位于得克萨斯州星基地的公司城镇建设一座燃气发电厂和超级算力设施",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926624619.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SPCX",
+      "90.BK1028"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "算力"
+        },
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "燃气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C011",
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "ddae6d4656648406",
+    "code": "202611103926622519",
+    "title": "美国防长海格塞斯再次面临弹劾动议 众议院最快周三表决",
+    "summary": "【美国防长海格塞斯再次面临弹劾动议 众议院最快周三表决】美国共和党众议员Thomas Massie最快将于周一提出弹劾国防部长海格塞斯的动议。Massie在社交媒体上公布了列举对海格塞斯指控的决议案，并计划在众议院周一中午12点开会后再次提出弹劾条款。此举将推动众议院最早于周三就该动议进行全院表决。",
+    "content": "【美国防长海格塞斯再次面临弹劾动议 众议院最快周三表决】美国共和党众议员Thomas Massie最快将于周一提出弹劾国防部长海格塞斯的动议。Massie在社交媒体上公布了列举对海格塞斯指控的决议案，并计划在众议院周一中午12点开会后再次提出弹劾条款。此举将推动众议院最早于周三就该动议进行全院表决。",
+    "full_content": "【美国防长海格塞斯再次面临弹劾动议 众议院最快周三表决】美国共和党众议员Thomas Massie最快将于周一提出弹劾国防部长海格塞斯的动议。Massie在社交媒体上公布了列举对海格塞斯指控的决议案，并计划在众议院周一中午12点开会后再次提出弹劾条款。此举将推动众议院最早于周三就该动议进行全院表决。",
+    "sort_time": "1794249715022519",
+    "showTime": "2026-11-10 02:41:55",
+    "time": "2026-11-10 02:41:55",
+    "publish_time": "2026-11-10 02:41:55",
+    "raw_data": {
+      "code": "202611103926622519",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794249715022519",
+      "share": 0,
+      "showTime": "2026-11-10 02:41:55",
+      "stockList": [],
+      "summary": "【美国防长海格塞斯再次面临弹劾动议 众议院最快周三表决】美国共和党众议员Thomas Massie最快将于周一提出弹劾国防部长海格塞斯的动议。Massie在社交媒体上公布了列举对海格塞斯指控的决议案，并计划在众议院周一中午12点开会后再次提出弹劾条款。此举将推动众议院最早于周三就该动议进行全院表决。",
+      "title": "美国防长海格塞斯再次面临弹劾动议 众议院最快周三表决",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926622519.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "国防"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "ff6fc1199280f46e",
+    "code": "202611103926622787",
+    "title": "特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5%",
+    "summary": "【特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5%】美国总统特朗普淡化对伊朗发动新一轮大规模军事打击的可能性后，国际原油期货价格9日早盘显著下跌，跌幅一度超5%，随后有所收窄。",
+    "content": "【特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5%】美国总统特朗普淡化对伊朗发动新一轮大规模军事打击的可能性后，国际原油期货价格9日早盘显著下跌，跌幅一度超5%，随后有所收窄。",
+    "full_content": "【特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5%】美国总统特朗普淡化对伊朗发动新一轮大规模军事打击的可能性后，国际原油期货价格9日早盘显著下跌，跌幅一度超5%，随后有所收窄。",
+    "sort_time": "1794249491022787",
+    "showTime": "2026-11-10 02:38:11",
+    "time": "2026-11-10 02:38:11",
+    "publish_time": "2026-11-10 02:38:11",
+    "raw_data": {
+      "code": "202611103926622787",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1794249491022787",
+      "share": 0,
+      "showTime": "2026-11-10 02:38:11",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "【特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5%】美国总统特朗普淡化对伊朗发动新一轮大规模军事打击的可能性后，国际原油期货价格9日早盘显著下跌，跌幅一度超5%，随后有所收窄。",
+      "title": "特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926622787.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "b465698efc6fdc7e",
+    "code": "202611103926622910",
+    "title": "塞内加尔北部沉船事故死亡人数升至39人",
+    "summary": "【塞内加尔北部沉船事故死亡人数升至39人】当地时间11月9日，塞内加尔有关部门当天公布的最新搜救情况显示，该国北部卢加大区凯贝梅尔省附近海域发生的沉船事故已造成39人死亡，目前仅发现一名幸存者，搜救工作仍在继续。",
+    "content": "【塞内加尔北部沉船事故死亡人数升至39人】当地时间11月9日，塞内加尔有关部门当天公布的最新搜救情况显示，该国北部卢加大区凯贝梅尔省附近海域发生的沉船事故已造成39人死亡，目前仅发现一名幸存者，搜救工作仍在继续。",
+    "full_content": "【塞内加尔北部沉船事故死亡人数升至39人】当地时间11月9日，塞内加尔有关部门当天公布的最新搜救情况显示，该国北部卢加大区凯贝梅尔省附近海域发生的沉船事故已造成39人死亡，目前仅发现一名幸存者，搜救工作仍在继续。",
+    "sort_time": "1794249264022910",
+    "showTime": "2026-11-10 02:34:24",
+    "time": "2026-11-10 02:34:24",
+    "publish_time": "2026-11-10 02:34:24",
+    "raw_data": {
+      "code": "202611103926622910",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794249264022910",
+      "share": 0,
+      "showTime": "2026-11-10 02:34:24",
+      "stockList": [],
+      "summary": "【塞内加尔北部沉船事故死亡人数升至39人】当地时间11月9日，塞内加尔有关部门当天公布的最新搜救情况显示，该国北部卢加大区凯贝梅尔省附近海域发生的沉船事故已造成39人死亡，目前仅发现一名幸存者，搜救工作仍在继续。",
+      "title": "塞内加尔北部沉船事故死亡人数升至39人",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926622910.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "643e16829e3ff6fb",
+    "code": "202611103926621216",
+    "title": "ADNOC Drilling获得科威特石油公司授予的合同",
+    "summary": "ADNOC Drilling获得科威特石油公司授予的合同，最高总价值约3.136亿美元。",
+    "content": "ADNOC Drilling获得科威特石油公司授予的合同，最高总价值约3.136亿美元。",
+    "full_content": "ADNOC Drilling获得科威特石油公司授予的合同，最高总价值约3.136亿美元。",
+    "sort_time": "1794249256021216",
+    "showTime": "2026-11-10 02:34:16",
+    "time": "2026-11-10 02:34:16",
+    "publish_time": "2026-11-10 02:34:16",
+    "raw_data": {
+      "code": "202611103926621216",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794249256021216",
+      "share": 0,
+      "showTime": "2026-11-10 02:34:16",
+      "stockList": [],
+      "summary": "ADNOC Drilling获得科威特石油公司授予的合同，最高总价值约3.136亿美元。",
+      "title": "ADNOC Drilling获得科威特石油公司授予的合同",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926621216.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "7a3fa1bd93da2b20",
+    "code": "202611103926622822",
+    "title": "联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口",
+    "summary": "【联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口】当地时间11月9日，中国常驻联合国副代表孙磊大使在安理会乌克兰问题公开会上发言指出，当前乌克兰问题正迎来谈判解决的关键时刻，国际社会呼唤和平、鼓励和谈的呼声愈发强烈，近期各重要利益攸关方开展了一系列互动接触，释放了一些积极信号，中方支持通向和平的努力，希望有关各方相向而行，维持积极势头，推动危机早日实现政治解决。",
+    "content": "【联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口】当地时间11月9日，中国常驻联合国副代表孙磊大使在安理会乌克兰问题公开会上发言指出，当前乌克兰问题正迎来谈判解决的关键时刻，国际社会呼唤和平、鼓励和谈的呼声愈发强烈，近期各重要利益攸关方开展了一系列互动接触，释放了一些积极信号，中方支持通向和平的努力，希望有关各方相向而行，维持积极势头，推动危机早日实现政治解决。",
+    "full_content": "【联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口】当地时间11月9日，中国常驻联合国副代表孙磊大使在安理会乌克兰问题公开会上发言指出，当前乌克兰问题正迎来谈判解决的关键时刻，国际社会呼唤和平、鼓励和谈的呼声愈发强烈，近期各重要利益攸关方开展了一系列互动接触，释放了一些积极信号，中方支持通向和平的努力，希望有关各方相向而行，维持积极势头，推动危机早日实现政治解决。",
+    "sort_time": "1794249240022822",
+    "showTime": "2026-11-10 02:34:00",
+    "time": "2026-11-10 02:34:00",
+    "publish_time": "2026-11-10 02:34:00",
+    "raw_data": {
+      "code": "202611103926622822",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794249240022822",
+      "share": 1,
+      "showTime": "2026-11-10 02:34:00",
+      "stockList": [],
+      "summary": "【联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口】当地时间11月9日，中国常驻联合国副代表孙磊大使在安理会乌克兰问题公开会上发言指出，当前乌克兰问题正迎来谈判解决的关键时刻，国际社会呼唤和平、鼓励和谈的呼声愈发强烈，近期各重要利益攸关方开展了一系列互动接触，释放了一些积极信号，中方支持通向和平的努力，希望有关各方相向而行，维持积极势头，推动危机早日实现政治解决。",
+      "title": "联合国安理会举行乌克兰公开会 中方呼吁抓住和谈窗口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926622822.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "bd3132bf9ae12380",
+    "code": "202611103926621040",
+    "title": "上期所原油期货2612合约夜盘收跌3.62% 沪金夜盘收涨0.6% 沪银收涨0.61%",
+    "summary": "上期所原油期货2612合约夜盘收跌3.62%，报614.40元人民币/桶。沪金夜盘收涨0.6%，沪银收涨0.61%。",
+    "content": "上期所原油期货2612合约夜盘收跌3.62%，报614.40元人民币/桶。沪金夜盘收涨0.6%，沪银收涨0.61%。",
+    "full_content": "上期所原油期货2612合约夜盘收跌3.62%，报614.40元人民币/桶。沪金夜盘收涨0.6%，沪银收涨0.61%。",
+    "sort_time": "1794249128021040",
+    "showTime": "2026-11-10 02:32:08",
+    "time": "2026-11-10 02:32:08",
+    "publish_time": "2026-11-10 02:32:08",
+    "raw_data": {
+      "code": "202611103926621040",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794249128021040",
+      "share": 0,
+      "showTime": "2026-11-10 02:32:08",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "上期所原油期货2612合约夜盘收跌3.62%，报614.40元人民币/桶。沪金夜盘收涨0.6%，沪银收涨0.61%。",
+      "title": "上期所原油期货2612合约夜盘收跌3.62% 沪金夜盘收涨0.6% 沪银收涨0.61%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926621040.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "e1bca57d8e37c370",
+    "code": "202611103926620947",
+    "title": "黄仁勋已不再出现在周一举行的Anthropic CEO论坛议程中",
+    "summary": "黄仁勋已不再出现在周一举行的Anthropic CEO论坛议程中。",
+    "content": "黄仁勋已不再出现在周一举行的Anthropic CEO论坛议程中。",
+    "full_content": "黄仁勋已不再出现在周一举行的Anthropic CEO论坛议程中。",
+    "sort_time": "1794249099020947",
+    "showTime": "2026-11-10 02:31:39",
+    "time": "2026-11-10 02:31:39",
+    "publish_time": "2026-11-10 02:31:39",
+    "raw_data": {
+      "code": "202611103926620947",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1794249099020947",
+      "share": 0,
+      "showTime": "2026-11-10 02:31:39",
+      "stockList": [
+        "105.NVDA"
+      ],
+      "summary": "黄仁勋已不再出现在周一举行的Anthropic CEO论坛议程中。",
+      "title": "黄仁勋已不再出现在周一举行的Anthropic CEO论坛议程中",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926620947.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 8,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7a84d8a25fe93efd",
+    "code": "202611103926619996",
+    "title": "10月份物价运行继续回暖",
+    "summary": "【10月份物价运行继续回暖】11月9日，国家统计局发布数据显示，10月份，居民消费价格指数（CPI）环比持平，同比上涨0.7%，涨幅比9月份回落0.2个百分点；工业生产者出厂价格指数（PPI）环比上涨0.7%，涨幅比9月份回落0.5个百分点，同比上涨5.7%，涨幅比9月份扩大0.7个百分点。",
+    "content": "【10月份物价运行继续回暖】11月9日，国家统计局发布数据显示，10月份，居民消费价格指数（CPI）环比持平，同比上涨0.7%，涨幅比9月份回落0.2个百分点；工业生产者出厂价格指数（PPI）环比上涨0.7%，涨幅比9月份回落0.5个百分点，同比上涨5.7%，涨幅比9月份扩大0.7个百分点。",
+    "full_content": "【10月份物价运行继续回暖】11月9日，国家统计局发布数据显示，10月份，居民消费价格指数（CPI）环比持平，同比上涨0.7%，涨幅比9月份回落0.2个百分点；工业生产者出厂价格指数（PPI）环比上涨0.7%，涨幅比9月份回落0.5个百分点，同比上涨5.7%，涨幅比9月份扩大0.7个百分点。",
+    "sort_time": "1794248923019996",
+    "showTime": "2026-11-10 02:28:43",
+    "time": "2026-11-10 02:28:43",
+    "publish_time": "2026-11-10 02:28:43",
+    "raw_data": {
+      "code": "202611103926619996",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794248923019996",
+      "share": 0,
+      "showTime": "2026-11-10 02:28:43",
+      "stockList": [
+        "90.BK0800",
+        "150.012341"
+      ],
+      "summary": "【10月份物价运行继续回暖】11月9日，国家统计局发布数据显示，10月份，居民消费价格指数（CPI）环比持平，同比上涨0.7%，涨幅比9月份回落0.2个百分点；工业生产者出厂价格指数（PPI）环比上涨0.7%，涨幅比9月份回落0.5个百分点，同比上涨5.7%，涨幅比9月份扩大0.7个百分点。",
+      "title": "10月份物价运行继续回暖",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926619996.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0800",
+      "150.012341"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "92552b536404e3e8",
+    "code": "202611103926620723",
+    "title": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元 上个交易日报1.5亿美元",
+    "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元，上个交易日报1.5亿美元。",
+    "content": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元，上个交易日报1.5亿美元。",
+    "full_content": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元，上个交易日报1.5亿美元。",
+    "sort_time": "1794248176020723",
+    "showTime": "2026-11-10 02:16:16",
+    "time": "2026-11-10 02:16:16",
+    "publish_time": "2026-11-10 02:16:16",
+    "raw_data": {
+      "code": "202611103926620723",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794248176020723",
+      "share": 0,
+      "showTime": "2026-11-10 02:16:16",
+      "stockList": [],
+      "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元，上个交易日报1.5亿美元。",
+      "title": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元 上个交易日报1.5亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926620723.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "05314fbbeb97d348",
+    "code": "202611103926620659",
+    "title": "美国财政部拍卖580亿美元三年期国债 得标利率4.627%",
+    "summary": "美国财政部拍卖580亿美元三年期国债，得标利率4.627%（10月6日为4.932%、2006年以来最高），投标倍数2.53（前次为2.62）。美国财政部拍卖六周期国债，得标利率3.990%，投标倍数2.59。",
+    "content": "美国财政部拍卖580亿美元三年期国债，得标利率4.627%（10月6日为4.932%、2006年以来最高），投标倍数2.53（前次为2.62）。美国财政部拍卖六周期国债，得标利率3.990%，投标倍数2.59。",
+    "full_content": "美国财政部拍卖580亿美元三年期国债，得标利率4.627%（10月6日为4.932%、2006年以来最高），投标倍数2.53（前次为2.62）。美国财政部拍卖六周期国债，得标利率3.990%，投标倍数2.59。",
+    "sort_time": "1794248079020659",
+    "showTime": "2026-11-10 02:14:39",
+    "time": "2026-11-10 02:14:39",
+    "publish_time": "2026-11-10 02:14:39",
+    "raw_data": {
+      "code": "202611103926620659",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794248079020659",
+      "share": 0,
+      "showTime": "2026-11-10 02:14:39",
+      "stockList": [],
+      "summary": "美国财政部拍卖580亿美元三年期国债，得标利率4.627%（10月6日为4.932%、2006年以来最高），投标倍数2.53（前次为2.62）。美国财政部拍卖六周期国债，得标利率3.990%，投标倍数2.59。",
+      "title": "美国财政部拍卖580亿美元三年期国债 得标利率4.627%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926620659.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "21e10dad152656d2",
+    "code": "202611103926620534",
+    "title": "意大利内阁已批准一项旨在降低能源账单的天然气价格上限法令",
+    "summary": "意大利内阁已批准一项旨在降低能源账单的天然气价格上限法令。",
+    "content": "意大利内阁已批准一项旨在降低能源账单的天然气价格上限法令。",
+    "full_content": "意大利内阁已批准一项旨在降低能源账单的天然气价格上限法令。",
+    "sort_time": "1794247960020534",
+    "showTime": "2026-11-10 02:12:40",
+    "time": "2026-11-10 02:12:40",
+    "publish_time": "2026-11-10 02:12:40",
+    "raw_data": {
+      "code": "202611103926620534",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794247960020534",
+      "share": 0,
+      "showTime": "2026-11-10 02:12:40",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "意大利内阁已批准一项旨在降低能源账单的天然气价格上限法令。",
+      "title": "意大利内阁已批准一项旨在降低能源账单的天然气价格上限法令",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926620534.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "9138de8aad900f54",
+    "code": "202611103926618751",
+    "title": "LME期铜收涨128美元",
+    "summary": "【LME期铜收涨128美元】LME期铜收涨128美元，报13896美元/吨。LME期铝收涨4美元，报3066美元/吨。LME期锌收涨20美元，报3731美元/吨。LME期铅收平，报1886美元/吨。LME期镍收跌128美元，报16225美元/吨。LME期锡收跌28美元，报46439美元/吨。LME期钴收平，报33525美元/吨。",
+    "content": "【LME期铜收涨128美元】LME期铜收涨128美元，报13896美元/吨。LME期铝收涨4美元，报3066美元/吨。LME期锌收涨20美元，报3731美元/吨。LME期铅收平，报1886美元/吨。LME期镍收跌128美元，报16225美元/吨。LME期锡收跌28美元，报46439美元/吨。LME期钴收平，报33525美元/吨。",
+    "full_content": "【LME期铜收涨128美元】LME期铜收涨128美元，报13896美元/吨。LME期铝收涨4美元，报3066美元/吨。LME期锌收涨20美元，报3731美元/吨。LME期铅收平，报1886美元/吨。LME期镍收跌128美元，报16225美元/吨。LME期锡收跌28美元，报46439美元/吨。LME期钴收平，报33525美元/吨。",
+    "sort_time": "1794247084018751",
+    "showTime": "2026-11-10 01:58:04",
+    "time": "2026-11-10 01:58:04",
+    "publish_time": "2026-11-10 01:58:04",
+    "raw_data": {
+      "code": "202611103926618751",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794247084018751",
+      "share": 0,
+      "showTime": "2026-11-10 01:58:04",
+      "stockList": [],
+      "summary": "【LME期铜收涨128美元】LME期铜收涨128美元，报13896美元/吨。LME期铝收涨4美元，报3066美元/吨。LME期锌收涨20美元，报3731美元/吨。LME期铅收平，报1886美元/吨。LME期镍收跌128美元，报16225美元/吨。LME期锡收跌28美元，报46439美元/吨。LME期钴收平，报33525美元/吨。",
+      "title": "LME期铜收涨128美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926618751.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "钴"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "19c66abc9f955570",
+    "code": "202611103926606879",
+    "title": "今飞凯达、华银电力同日披露：定增募资额拟“缩水”",
+    "summary": "【今飞凯达、华银电力同日披露：定增募资额拟“缩水”】11月9日盘后，今飞凯达（002863.SZ，股价4.49元，市值26.92亿元）披露“2026年度以简易程序向特定对象发行股票预案（二次修订稿）”。无独有偶，华银电力（600744.SH，股价5.74元，市值116.59亿元）同日披露“调整公司2025年度向特定对象发行A股股票方案的公告”。",
+    "content": "【今飞凯达、华银电力同日披露：定增募资额拟“缩水”】11月9日盘后，今飞凯达（002863.SZ，股价4.49元，市值26.92亿元）披露“2026年度以简易程序向特定对象发行股票预案（二次修订稿）”。无独有偶，华银电力（600744.SH，股价5.74元，市值116.59亿元）同日披露“调整公司2025年度向特定对象发行A股股票方案的公告”。",
+    "full_content": "【今飞凯达、华银电力同日披露：定增募资额拟“缩水”】11月9日盘后，今飞凯达（002863.SZ，股价4.49元，市值26.92亿元）披露“2026年度以简易程序向特定对象发行股票预案（二次修订稿）”。无独有偶，华银电力（600744.SH，股价5.74元，市值116.59亿元）同日披露“调整公司2025年度向特定对象发行A股股票方案的公告”。",
+    "sort_time": "1794246321006879",
+    "showTime": "2026-11-10 01:45:21",
+    "time": "2026-11-10 01:45:21",
+    "publish_time": "2026-11-10 01:45:21",
+    "raw_data": {
+      "code": "202611103926606879",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794246321006879",
+      "share": 0,
+      "showTime": "2026-11-10 01:45:21",
+      "stockList": [
+        "0.002863",
+        "1.600744"
+      ],
+      "summary": "【今飞凯达、华银电力同日披露：定增募资额拟“缩水”】11月9日盘后，今飞凯达（002863.SZ，股价4.49元，市值26.92亿元）披露“2026年度以简易程序向特定对象发行股票预案（二次修订稿）”。无独有偶，华银电力（600744.SH，股价5.74元，市值116.59亿元）同日披露“调整公司2025年度向特定对象发行A股股票方案的公告”。",
+      "title": "今飞凯达、华银电力同日披露：定增募资额拟“缩水”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926606879.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.002863",
+      "1.600744"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d616563de91fd689",
+    "code": "202611103926617697",
+    "title": "里士满联储行长暗示加息方向明确 但步伐需要谨慎",
+    "summary": "【里士满联储行长暗示加息方向明确 但步伐需要谨慎】里士满联储行长汤姆·巴尔金暗示，强劲的需求和居高不下的通胀意味着利率仍需进一步上调，不过他警告，任何加息都需要以谨慎的步伐进行。巴尔金在一场概述其经济看法的演讲中称企业利润表现亮眼，在失业率处于或低于4.5%的时间创纪录之际，消费者仍在继续支出。不过，他对消费的强劲表现能够持续多久提出警告，指出企业和家庭仍在抱怨成本上涨。这意味着对决策者而言，政策方向已经明确，但行动速度尚未确定。",
+    "content": "【里士满联储行长暗示加息方向明确 但步伐需要谨慎】里士满联储行长汤姆·巴尔金暗示，强劲的需求和居高不下的通胀意味着利率仍需进一步上调，不过他警告，任何加息都需要以谨慎的步伐进行。巴尔金在一场概述其经济看法的演讲中称企业利润表现亮眼，在失业率处于或低于4.5%的时间创纪录之际，消费者仍在继续支出。不过，他对消费的强劲表现能够持续多久提出警告，指出企业和家庭仍在抱怨成本上涨。这意味着对决策者而言，政策方向已经明确，但行动速度尚未确定。",
+    "full_content": "【里士满联储行长暗示加息方向明确 但步伐需要谨慎】里士满联储行长汤姆·巴尔金暗示，强劲的需求和居高不下的通胀意味着利率仍需进一步上调，不过他警告，任何加息都需要以谨慎的步伐进行。巴尔金在一场概述其经济看法的演讲中称企业利润表现亮眼，在失业率处于或低于4.5%的时间创纪录之际，消费者仍在继续支出。不过，他对消费的强劲表现能够持续多久提出警告，指出企业和家庭仍在抱怨成本上涨。这意味着对决策者而言，政策方向已经明确，但行动速度尚未确定。",
+    "sort_time": "1794245898017697",
+    "showTime": "2026-11-10 01:38:18",
+    "time": "2026-11-10 01:38:18",
+    "publish_time": "2026-11-10 01:38:18",
+    "raw_data": {
+      "code": "202611103926617697",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794245898017697",
+      "share": 0,
+      "showTime": "2026-11-10 01:38:18",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "【里士满联储行长暗示加息方向明确 但步伐需要谨慎】里士满联储行长汤姆·巴尔金暗示，强劲的需求和居高不下的通胀意味着利率仍需进一步上调，不过他警告，任何加息都需要以谨慎的步伐进行。巴尔金在一场概述其经济看法的演讲中称企业利润表现亮眼，在失业率处于或低于4.5%的时间创纪录之际，消费者仍在继续支出。不过，他对消费的强劲表现能够持续多久提出警告，指出企业和家庭仍在抱怨成本上涨。这意味着对决策者而言，政策方向已经明确，但行动速度尚未确定。",
+      "title": "里士满联储行长暗示加息方向明确 但步伐需要谨慎",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926617697.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "71ee9fd994cd0288",
+    "code": "202611103926617782",
+    "title": "芝加哥联储行长警告经济过热风险 称必须应对通胀问题",
+    "summary": "【芝加哥联储行长警告经济过热风险 称必须应对通胀问题】芝加哥联储行长奥斯坦·古尔斯比表示，政策制定者需要应对人工智能建设可能导致的经济过热，以及不断扩大的通胀压力。“我们必须正视使命中成本和通胀方面未能达标的问题，”古尔斯比周一在芝加哥的一场活动上表示。",
+    "content": "【芝加哥联储行长警告经济过热风险 称必须应对通胀问题】芝加哥联储行长奥斯坦·古尔斯比表示，政策制定者需要应对人工智能建设可能导致的经济过热，以及不断扩大的通胀压力。“我们必须正视使命中成本和通胀方面未能达标的问题，”古尔斯比周一在芝加哥的一场活动上表示。",
+    "full_content": "【芝加哥联储行长警告经济过热风险 称必须应对通胀问题】芝加哥联储行长奥斯坦·古尔斯比表示，政策制定者需要应对人工智能建设可能导致的经济过热，以及不断扩大的通胀压力。“我们必须正视使命中成本和通胀方面未能达标的问题，”古尔斯比周一在芝加哥的一场活动上表示。",
+    "sort_time": "1794245806017782",
+    "showTime": "2026-11-10 01:36:46",
+    "time": "2026-11-10 01:36:46",
+    "publish_time": "2026-11-10 01:36:46",
+    "raw_data": {
+      "code": "202611103926617782",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794245806017782",
+      "share": 0,
+      "showTime": "2026-11-10 01:36:46",
+      "stockList": [],
+      "summary": "【芝加哥联储行长警告经济过热风险 称必须应对通胀问题】芝加哥联储行长奥斯坦·古尔斯比表示，政策制定者需要应对人工智能建设可能导致的经济过热，以及不断扩大的通胀压力。“我们必须正视使命中成本和通胀方面未能达标的问题，”古尔斯比周一在芝加哥的一场活动上表示。",
+      "title": "芝加哥联储行长警告经济过热风险 称必须应对通胀问题",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926617782.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "d479fad8c55e4ca9",
+    "code": "202611103926617573",
+    "title": "联合国气候负责人警告：气候危机已演变为“大流行病级别”的全球健康危机",
+    "summary": "【联合国气候负责人警告：气候危机已演变为“大流行病级别”的全球健康危机】联合国气候变化事务负责人警告称，随着气候变化对全球公共卫生构成日益严峻的威胁，各国必须加强对医疗卫生体系的保护。",
+    "content": "【联合国气候负责人警告：气候危机已演变为“大流行病级别”的全球健康危机】联合国气候变化事务负责人警告称，随着气候变化对全球公共卫生构成日益严峻的威胁，各国必须加强对医疗卫生体系的保护。",
+    "full_content": "【联合国气候负责人警告：气候危机已演变为“大流行病级别”的全球健康危机】联合国气候变化事务负责人警告称，随着气候变化对全球公共卫生构成日益严峻的威胁，各国必须加强对医疗卫生体系的保护。",
+    "sort_time": "1794245040017573",
+    "showTime": "2026-11-10 01:24:00",
+    "time": "2026-11-10 01:24:00",
+    "publish_time": "2026-11-10 01:24:00",
+    "raw_data": {
+      "code": "202611103926617573",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1794245040017573",
+      "share": 5,
+      "showTime": "2026-11-10 01:24:00",
+      "stockList": [
+        "90.BK0800",
+        "0.159891"
+      ],
+      "summary": "【联合国气候负责人警告：气候危机已演变为“大流行病级别”的全球健康危机】联合国气候变化事务负责人警告称，随着气候变化对全球公共卫生构成日益严峻的威胁，各国必须加强对医疗卫生体系的保护。",
+      "title": "联合国气候负责人警告：气候危机已演变为“大流行病级别”的全球健康危机",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926617573.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "0.159891"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 5,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d0e4d77f77d42084",
+    "code": "202611103926617442",
+    "title": "一艘油轮在阿曼附近海域遇袭起火 船员被迫撤离",
+    "summary": "【一艘油轮在阿曼附近海域遇袭起火 船员被迫撤离】当地时间9日，英国海上贸易行动办公室发布最新通报称，当地时间11月7日19时20分，阿曼哈萨卜西北方向约8海里处发生一起海上安全事件。通报称，据军方报告，一艘油轮起火，船员被迫撤离。",
+    "content": "【一艘油轮在阿曼附近海域遇袭起火 船员被迫撤离】当地时间9日，英国海上贸易行动办公室发布最新通报称，当地时间11月7日19时20分，阿曼哈萨卜西北方向约8海里处发生一起海上安全事件。通报称，据军方报告，一艘油轮起火，船员被迫撤离。",
+    "full_content": "【一艘油轮在阿曼附近海域遇袭起火 船员被迫撤离】当地时间9日，英国海上贸易行动办公室发布最新通报称，当地时间11月7日19时20分，阿曼哈萨卜西北方向约8海里处发生一起海上安全事件。通报称，据军方报告，一艘油轮起火，船员被迫撤离。",
+    "sort_time": "1794244724017442",
+    "showTime": "2026-11-10 01:18:44",
+    "time": "2026-11-10 01:18:44",
+    "publish_time": "2026-11-10 01:18:44",
+    "raw_data": {
+      "code": "202611103926617442",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794244724017442",
+      "share": 0,
+      "showTime": "2026-11-10 01:18:44",
+      "stockList": [],
+      "summary": "【一艘油轮在阿曼附近海域遇袭起火 船员被迫撤离】当地时间9日，英国海上贸易行动办公室发布最新通报称，当地时间11月7日19时20分，阿曼哈萨卜西北方向约8海里处发生一起海上安全事件。通报称，据军方报告，一艘油轮起火，船员被迫撤离。",
+      "title": "一艘油轮在阿曼附近海域遇袭起火 船员被迫撤离",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926617442.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "94b10f03def771ce",
+    "code": "202611103926617372",
+    "title": "道指涨幅扩大至2%",
+    "summary": "【道指涨幅扩大至2%】美股三大指数涨幅扩大，道琼斯指数涨2.04%，标普500指数涨2.29%，纳斯达克综合指数涨2.65%。",
+    "content": "【道指涨幅扩大至2%】美股三大指数涨幅扩大，道琼斯指数涨2.04%，标普500指数涨2.29%，纳斯达克综合指数涨2.65%。",
+    "full_content": "【道指涨幅扩大至2%】美股三大指数涨幅扩大，道琼斯指数涨2.04%，标普500指数涨2.29%，纳斯达克综合指数涨2.65%。",
+    "sort_time": "1794244336017372",
+    "showTime": "2026-11-10 01:12:16",
+    "time": "2026-11-10 01:12:16",
+    "publish_time": "2026-11-10 01:12:16",
+    "raw_data": {
+      "code": "202611103926617372",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1794244336017372",
+      "share": 1,
+      "showTime": "2026-11-10 01:12:16",
+      "stockList": [],
+      "summary": "【道指涨幅扩大至2%】美股三大指数涨幅扩大，道琼斯指数涨2.04%，标普500指数涨2.29%，纳斯达克综合指数涨2.65%。",
+      "title": "道指涨幅扩大至2%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926617372.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 11,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "45633ae21cfe084e",
+    "code": "202611103926615797",
+    "title": "不锈钢夜盘收跌1.41%",
+    "summary": "【不锈钢夜盘收跌1.41%】国际铜夜盘收涨0.78%，沪铜收涨0.5%，沪铝收跌0.22%，沪锌收跌0.38%，沪铅收涨0.22%，沪镍收跌0.63%，沪锡收跌0.37%。氧化铝夜盘收涨0.57%，铝合金收跌0.38%。不锈钢夜盘收跌1.41%。",
+    "content": "【不锈钢夜盘收跌1.41%】国际铜夜盘收涨0.78%，沪铜收涨0.5%，沪铝收跌0.22%，沪锌收跌0.38%，沪铅收涨0.22%，沪镍收跌0.63%，沪锡收跌0.37%。氧化铝夜盘收涨0.57%，铝合金收跌0.38%。不锈钢夜盘收跌1.41%。",
+    "full_content": "【不锈钢夜盘收跌1.41%】国际铜夜盘收涨0.78%，沪铜收涨0.5%，沪铝收跌0.22%，沪锌收跌0.38%，沪铅收涨0.22%，沪镍收跌0.63%，沪锡收跌0.37%。氧化铝夜盘收涨0.57%，铝合金收跌0.38%。不锈钢夜盘收跌1.41%。",
+    "sort_time": "1794243773015797",
+    "showTime": "2026-11-10 01:02:53",
+    "time": "2026-11-10 01:02:53",
+    "publish_time": "2026-11-10 01:02:53",
+    "raw_data": {
+      "code": "202611103926615797",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794243773015797",
+      "share": 0,
+      "showTime": "2026-11-10 01:02:53",
+      "stockList": [
+        "90.BK0479"
+      ],
+      "summary": "【不锈钢夜盘收跌1.41%】国际铜夜盘收涨0.78%，沪铜收涨0.5%，沪铝收跌0.22%，沪锌收跌0.38%，沪铅收涨0.22%，沪镍收跌0.63%，沪锡收跌0.37%。氧化铝夜盘收涨0.57%，铝合金收跌0.38%。不锈钢夜盘收跌1.41%。",
+      "title": "不锈钢夜盘收跌1.41%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926615797.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0479"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "镍"
+        },
+        {
+          "id": "C504",
+          "name": "钢铁",
+          "matched_keyword": "不锈钢"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501",
+        "C504"
+      ]
+    }
+  },
+  {
+    "id": "04e8e7bdb4d23822",
+    "code": "202611103926615527",
+    "title": "法国就网络攻击事件召见伊朗大使 警告将实施制裁",
+    "summary": "【法国就网络攻击事件召见伊朗大使 警告将实施制裁】当地时间11月9日，法国外长巴罗表示，伊朗伊斯兰革命卫队是此前针对法国超市冷藏系统网络攻击的幕后实施者。法国已召见伊朗驻法国大使，伊朗将因此面临后果，包括欧盟层面的制裁。",
+    "content": "【法国就网络攻击事件召见伊朗大使 警告将实施制裁】当地时间11月9日，法国外长巴罗表示，伊朗伊斯兰革命卫队是此前针对法国超市冷藏系统网络攻击的幕后实施者。法国已召见伊朗驻法国大使，伊朗将因此面临后果，包括欧盟层面的制裁。",
+    "full_content": "【法国就网络攻击事件召见伊朗大使 警告将实施制裁】当地时间11月9日，法国外长巴罗表示，伊朗伊斯兰革命卫队是此前针对法国超市冷藏系统网络攻击的幕后实施者。法国已召见伊朗驻法国大使，伊朗将因此面临后果，包括欧盟层面的制裁。",
+    "sort_time": "1794243542015527",
+    "showTime": "2026-11-10 00:59:02",
+    "time": "2026-11-10 00:59:02",
+    "publish_time": "2026-11-10 00:59:02",
+    "raw_data": {
+      "code": "202611103926615527",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1794243542015527",
+      "share": 1,
+      "showTime": "2026-11-10 00:59:02",
+      "stockList": [
+        "90.BK0655"
+      ],
+      "summary": "【法国就网络攻击事件召见伊朗大使 警告将实施制裁】当地时间11月9日，法国外长巴罗表示，伊朗伊斯兰革命卫队是此前针对法国超市冷藏系统网络攻击的幕后实施者。法国已召见伊朗驻法国大使，伊朗将因此面临后果，包括欧盟层面的制裁。",
+      "title": "法国就网络攻击事件召见伊朗大使 警告将实施制裁",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926615527.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0655"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C605",
+          "name": "零售",
+          "matched_keyword": "超市"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C605"
+      ]
+    }
+  },
+  {
+    "id": "d74f48257b65b743",
+    "code": "202611103926614642",
+    "title": "美国财政部拍卖国债 三个月期国债得标利率4.060% 拍卖六个月期国债得标利率4.145%",
+    "summary": "美国财政部拍卖三个月期国债，得标利率4.060%，投标倍数2.67；拍卖六个月期国债，得标利率4.145%，投标倍数2.92。",
+    "content": "美国财政部拍卖三个月期国债，得标利率4.060%，投标倍数2.67；拍卖六个月期国债，得标利率4.145%，投标倍数2.92。",
+    "full_content": "美国财政部拍卖三个月期国债，得标利率4.060%，投标倍数2.67；拍卖六个月期国债，得标利率4.145%，投标倍数2.92。",
+    "sort_time": "1794242478014642",
+    "showTime": "2026-11-10 00:41:18",
+    "time": "2026-11-10 00:41:18",
+    "publish_time": "2026-11-10 00:41:18",
+    "raw_data": {
+      "code": "202611103926614642",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794242478014642",
+      "share": 0,
+      "showTime": "2026-11-10 00:41:18",
+      "stockList": [],
+      "summary": "美国财政部拍卖三个月期国债，得标利率4.060%，投标倍数2.67；拍卖六个月期国债，得标利率4.145%，投标倍数2.92。",
+      "title": "美国财政部拍卖国债 三个月期国债得标利率4.060% 拍卖六个月期国债得标利率4.145%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926614642.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e87fa7df264d3f7b",
+    "code": "202611103926614138",
+    "title": "欧洲主要股指收盘集体上涨",
+    "summary": "【欧洲主要股指收盘集体上涨】欧洲主要股指收盘集体上涨，英国富时100指数涨1.02%，法国CAC40指数涨1.20%，德国DAX30指数涨1.72%，富时意大利MIB指数涨2.69%。",
+    "content": "【欧洲主要股指收盘集体上涨】欧洲主要股指收盘集体上涨，英国富时100指数涨1.02%，法国CAC40指数涨1.20%，德国DAX30指数涨1.72%，富时意大利MIB指数涨2.69%。",
+    "full_content": "【欧洲主要股指收盘集体上涨】欧洲主要股指收盘集体上涨，英国富时100指数涨1.02%，法国CAC40指数涨1.20%，德国DAX30指数涨1.72%，富时意大利MIB指数涨2.69%。",
+    "sort_time": "1794242231014138",
+    "showTime": "2026-11-10 00:37:11",
+    "time": "2026-11-10 00:37:11",
+    "publish_time": "2026-11-10 00:37:11",
+    "raw_data": {
+      "code": "202611103926614138",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794242231014138",
+      "share": 0,
+      "showTime": "2026-11-10 00:37:11",
+      "stockList": [],
+      "summary": "【欧洲主要股指收盘集体上涨】欧洲主要股指收盘集体上涨，英国富时100指数涨1.02%，法国CAC40指数涨1.20%，德国DAX30指数涨1.72%，富时意大利MIB指数涨2.69%。",
+      "title": "欧洲主要股指收盘集体上涨",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926614138.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "25ae371d0725e5b7",
+    "code": "202611103926612393",
+    "title": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话",
+    "summary": "【何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话】中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰，与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜9日在加拿大温哥华共同主持第二次中加经济财金战略对话。",
+    "content": "【何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话】中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰，与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜9日在加拿大温哥华共同主持第二次中加经济财金战略对话。",
+    "full_content": "【何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话】中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰，与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜9日在加拿大温哥华共同主持第二次中加经济财金战略对话。",
+    "sort_time": "1794241874012393",
+    "showTime": "2026-11-10 00:31:14",
+    "time": "2026-11-10 00:31:14",
+    "publish_time": "2026-11-10 00:31:14",
+    "raw_data": {
+      "code": "202611103926612393",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794241874012393",
+      "share": 0,
+      "showTime": "2026-11-10 00:31:14",
+      "stockList": [
+        "90.BK0484"
+      ],
+      "summary": "【何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话】中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰，与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜9日在加拿大温哥华共同主持第二次中加经济财金战略对话。",
+      "title": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926612393.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0484"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "fb38272da5de8cee",
+    "code": "202611103926612461",
+    "title": "美国上周战略石油储备中的原油库存降至2.795亿桶 为1982年以来的最低水平",
+    "summary": "美国上周战略石油储备中的原油库存降至2.795亿桶，为1982年以来的最低水平。",
+    "content": "美国上周战略石油储备中的原油库存降至2.795亿桶，为1982年以来的最低水平。",
+    "full_content": "美国上周战略石油储备中的原油库存降至2.795亿桶，为1982年以来的最低水平。",
+    "sort_time": "1794241851012461",
+    "showTime": "2026-11-10 00:30:51",
+    "time": "2026-11-10 00:30:51",
+    "publish_time": "2026-11-10 00:30:51",
+    "raw_data": {
+      "code": "202611103926612461",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1794241851012461",
+      "share": 2,
+      "showTime": "2026-11-10 00:30:51",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "美国上周战略石油储备中的原油库存降至2.795亿桶，为1982年以来的最低水平。",
+      "title": "美国上周战略石油储备中的原油库存降至2.795亿桶 为1982年以来的最低水平",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926612461.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "aecdc4a97913621d",
+    "code": "202611103926612297",
+    "title": "高盛首席执行官表示：他对美国数据中心与算力容量仍将获得大量投资持乐观态度",
+    "summary": "高盛首席执行官表示，他对美国数据中心与算力容量仍将获得大量投资持乐观态度。",
+    "content": "高盛首席执行官表示，他对美国数据中心与算力容量仍将获得大量投资持乐观态度。",
+    "full_content": "高盛首席执行官表示，他对美国数据中心与算力容量仍将获得大量投资持乐观态度。",
+    "sort_time": "1794241657012297",
+    "showTime": "2026-11-10 00:27:37",
+    "time": "2026-11-10 00:27:37",
+    "publish_time": "2026-11-10 00:27:37",
+    "raw_data": {
+      "code": "202611103926612297",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794241657012297",
+      "share": 1,
+      "showTime": "2026-11-10 00:27:37",
+      "stockList": [
+        "90.BK0922",
+        "90.BK1134"
+      ],
+      "summary": "高盛首席执行官表示，他对美国数据中心与算力容量仍将获得大量投资持乐观态度。",
+      "title": "高盛首席执行官表示：他对美国数据中心与算力容量仍将获得大量投资持乐观态度",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926612297.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0922",
+      "90.BK1134"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "算力"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C006",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "2fd9717bf6a4fb8e",
+    "code": "202611103926611563",
+    "title": "2026广州轨道交通周启动 向全球开放千亿级产业场景，广州地铁两段线路年底开通",
+    "summary": "【2026广州轨道交通周启动 向全球开放千亿级产业场景，广州地铁两段线路年底开通】11月8日，2026广州轨道交通周启动会在广州举办，标志着2026轨道交通周正式启动。据悉，今年年底，广州地铁将开通十三号线二期西段、十二号线中段，广州地铁运营里程将迈上800公里新台阶。",
+    "content": "【2026广州轨道交通周启动 向全球开放千亿级产业场景，广州地铁两段线路年底开通】11月8日，2026广州轨道交通周启动会在广州举办，标志着2026轨道交通周正式启动。据悉，今年年底，广州地铁将开通十三号线二期西段、十二号线中段，广州地铁运营里程将迈上800公里新台阶。",
+    "full_content": "【2026广州轨道交通周启动 向全球开放千亿级产业场景，广州地铁两段线路年底开通】11月8日，2026广州轨道交通周启动会在广州举办，标志着2026轨道交通周正式启动。据悉，今年年底，广州地铁将开通十三号线二期西段、十二号线中段，广州地铁运营里程将迈上800公里新台阶。",
+    "sort_time": "1794241397011563",
+    "showTime": "2026-11-10 00:23:17",
+    "time": "2026-11-10 00:23:17",
+    "publish_time": "2026-11-10 00:23:17",
+    "raw_data": {
+      "code": "202611103926611563",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794241397011563",
+      "share": 0,
+      "showTime": "2026-11-10 00:23:17",
+      "stockList": [
+        "90.BK0429"
+      ],
+      "summary": "【2026广州轨道交通周启动 向全球开放千亿级产业场景，广州地铁两段线路年底开通】11月8日，2026广州轨道交通周启动会在广州举办，标志着2026轨道交通周正式启动。据悉，今年年底，广州地铁将开通十三号线二期西段、十二号线中段，广州地铁运营里程将迈上800公里新台阶。",
+      "title": "2026广州轨道交通周启动 向全球开放千亿级产业场景 广州地铁两段线路年底开通",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926611563.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0429"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "92c44f564e3e7d3c",
+    "code": "202611103926611426",
+    "title": "摩根士丹利将澜起科技A股评级下调至平配 目标价180元",
+    "summary": "摩根士丹利将澜起科技A股评级下调至平配，目标价180元。",
+    "content": "摩根士丹利将澜起科技A股评级下调至平配，目标价180元。",
+    "full_content": "摩根士丹利将澜起科技A股评级下调至平配，目标价180元。",
+    "sort_time": "1794241004011426",
+    "showTime": "2026-11-10 00:16:44",
+    "time": "2026-11-10 00:16:44",
+    "publish_time": "2026-11-10 00:16:44",
+    "raw_data": {
+      "code": "202611103926611426",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1794241004011426",
+      "share": 2,
+      "showTime": "2026-11-10 00:16:44",
+      "stockList": [
+        "1.688008",
+        "116.06809"
+      ],
+      "summary": "摩根士丹利将澜起科技A股评级下调至平配，目标价180元。",
+      "title": "摩根士丹利将澜起科技A股评级下调至平配 目标价180元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926611426.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.688008",
+      "116.06809"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 8,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5a9024d889e0ceb0",
+    "code": "202611103926610630",
+    "title": "沙特能源部一位消息人士表示 东西输油管道在麦地那地区遭到袭击",
+    "summary": "【沙特能源部一位消息人士表示 东西输油管道在麦地那地区遭到袭击】沙特能源部一位消息人士表示，东西输油管道在麦地那地区遭到袭击。管道遭袭引发局部火灾，火势已被扑灭，无人员伤亡，管道运营未受影响。",
+    "content": "【沙特能源部一位消息人士表示 东西输油管道在麦地那地区遭到袭击】沙特能源部一位消息人士表示，东西输油管道在麦地那地区遭到袭击。管道遭袭引发局部火灾，火势已被扑灭，无人员伤亡，管道运营未受影响。",
+    "full_content": "【沙特能源部一位消息人士表示 东西输油管道在麦地那地区遭到袭击】沙特能源部一位消息人士表示，东西输油管道在麦地那地区遭到袭击。管道遭袭引发局部火灾，火势已被扑灭，无人员伤亡，管道运营未受影响。",
+    "sort_time": "1794240836010630",
+    "showTime": "2026-11-10 00:13:56",
+    "time": "2026-11-10 00:13:56",
+    "publish_time": "2026-11-10 00:13:56",
+    "raw_data": {
+      "code": "202611103926610630",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1794240836010630",
+      "share": 0,
+      "showTime": "2026-11-10 00:13:56",
+      "stockList": [],
+      "summary": "【沙特能源部一位消息人士表示 东西输油管道在麦地那地区遭到袭击】沙特能源部一位消息人士表示，东西输油管道在麦地那地区遭到袭击。管道遭袭引发局部火灾，火势已被扑灭，无人员伤亡，管道运营未受影响。",
+      "title": "沙特能源部一位消息人士表示 东西输油管道在麦地那地区遭到袭击",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926610630.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "17eac860bd006f5c",
+    "code": "202611103926609093",
+    "title": "本田将斥资30亿美元在俄亥俄州建设新的混合动力汽车工厂",
+    "summary": "【本田将斥资30亿美元在俄亥俄州建设新的混合动力汽车工厂】本田宣布，将投资30亿美元在美国俄亥俄州建设一座新的汽车工厂，并对俄亥俄州、阿拉巴马州和佐治亚州的多处生产设施进行战略投资，以扩大美国混合动力汽车及相关发动机、混合动力系统产能。",
+    "content": "【本田将斥资30亿美元在俄亥俄州建设新的混合动力汽车工厂】本田宣布，将投资30亿美元在美国俄亥俄州建设一座新的汽车工厂，并对俄亥俄州、阿拉巴马州和佐治亚州的多处生产设施进行战略投资，以扩大美国混合动力汽车及相关发动机、混合动力系统产能。",
+    "full_content": "【本田将斥资30亿美元在俄亥俄州建设新的混合动力汽车工厂】本田宣布，将投资30亿美元在美国俄亥俄州建设一座新的汽车工厂，并对俄亥俄州、阿拉巴马州和佐治亚州的多处生产设施进行战略投资，以扩大美国混合动力汽车及相关发动机、混合动力系统产能。",
+    "sort_time": "1794240539009093",
+    "showTime": "2026-11-10 00:08:59",
+    "time": "2026-11-10 00:08:59",
+    "publish_time": "2026-11-10 00:08:59",
+    "raw_data": {
+      "code": "202611103926609093",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794240539009093",
+      "share": 2,
+      "showTime": "2026-11-10 00:08:59",
+      "stockList": [
+        "176.7267",
+        "90.BK1211"
+      ],
+      "summary": "【本田将斥资30亿美元在俄亥俄州建设新的混合动力汽车工厂】本田宣布，将投资30亿美元在美国俄亥俄州建设一座新的汽车工厂，并对俄亥俄州、阿拉巴马州和佐治亚州的多处生产设施进行战略投资，以扩大美国混合动力汽车及相关发动机、混合动力系统产能。",
+      "title": "本田将斥资30亿美元在俄亥俄州建设新的混合动力汽车工厂",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926609093.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "176.7267",
+      "90.BK1211"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "72ff2a563faf6934",
+    "code": "202611103926606371",
+    "title": "富时中国A50指数期货涨约1% 报13031.0点",
+    "summary": "富时中国A50指数期货涨约1%，报13031.0点。",
+    "content": "富时中国A50指数期货涨约1%，报13031.0点。",
+    "full_content": "富时中国A50指数期货涨约1%，报13031.0点。",
+    "sort_time": "1794240315006371",
+    "showTime": "2026-11-10 00:05:15",
+    "time": "2026-11-10 00:05:15",
+    "publish_time": "2026-11-10 00:05:15",
+    "raw_data": {
+      "code": "202611103926606371",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1794240315006371",
+      "share": 1,
+      "showTime": "2026-11-10 00:05:15",
+      "stockList": [],
+      "summary": "富时中国A50指数期货涨约1%，报13031.0点。",
+      "title": "富时中国A50指数期货涨约1% 报13031.0点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926606371.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ad762ce57ef3f927",
+    "code": "202611103926606286",
+    "title": "美国10月纽约联储1年通胀预期为3.9% 预期3.78% 前值3.90%",
+    "summary": "美国10月纽约联储1年通胀预期为3.9%，预期3.78%，前值3.90%。",
+    "content": "美国10月纽约联储1年通胀预期为3.9%，预期3.78%，前值3.90%。",
+    "full_content": "美国10月纽约联储1年通胀预期为3.9%，预期3.78%，前值3.90%。",
+    "sort_time": "1794240094006286",
+    "showTime": "2026-11-10 00:01:34",
+    "time": "2026-11-10 00:01:34",
+    "publish_time": "2026-11-10 00:01:34",
+    "raw_data": {
+      "code": "202611103926606286",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794240094006286",
+      "share": 0,
+      "showTime": "2026-11-10 00:01:34",
+      "stockList": [],
+      "summary": "美国10月纽约联储1年通胀预期为3.9%，预期3.78%，前值3.90%。",
+      "title": "美国10月纽约联储1年通胀预期为3.9% 预期3.78% 前值3.90%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611103926606286.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "dd3729aa865386b8",
+    "code": "202611093926606141",
+    "title": "裕信银行据悉将获得欧盟反垄断机构对其收购德国商业银行的无条件批准",
+    "summary": "裕信银行据悉将获得欧盟反垄断机构对其收购德国商业银行的无条件批准。",
+    "content": "裕信银行据悉将获得欧盟反垄断机构对其收购德国商业银行的无条件批准。",
+    "full_content": "裕信银行据悉将获得欧盟反垄断机构对其收购德国商业银行的无条件批准。",
+    "sort_time": "1794239901006141",
+    "showTime": "2026-11-09 23:58:21",
+    "time": "2026-11-09 23:58:21",
+    "publish_time": "2026-11-09 23:58:21",
+    "raw_data": {
+      "code": "202611093926606141",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794239901006141",
+      "share": 0,
+      "showTime": "2026-11-09 23:58:21",
+      "stockList": [
+        "90.BK1283",
+        "90.BK0475"
+      ],
+      "summary": "裕信银行据悉将获得欧盟反垄断机构对其收购德国商业银行的无条件批准。",
+      "title": "裕信银行据悉将获得欧盟反垄断机构对其收购德国商业银行的无条件批准",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611093926606141.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "90.BK0475"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "商业银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "商业银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "2ced1c5b5633d2e2",
+    "code": "202611093926605793",
+    "title": "美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地",
+    "summary": "【美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地】费城半导体指数涨幅扩大至6.4%，报9958.16点，较11月5日暴跌日收盘价已反弹10%。AMD涨10.84%，Coherent涨16.44%，Lumentum涨13%，迈威尔科技涨10.45%，应用材料涨9.88%，博通涨8.61%，西部数据涨8.35%，希捷科技涨8.90%。不过，英伟达逆势下跌3.87%。",
+    "content": "【美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地】费城半导体指数涨幅扩大至6.4%，报9958.16点，较11月5日暴跌日收盘价已反弹10%。AMD涨10.84%，Coherent涨16.44%，Lumentum涨13%，迈威尔科技涨10.45%，应用材料涨9.88%，博通涨8.61%，西部数据涨8.35%，希捷科技涨8.90%。不过，英伟达逆势下跌3.87%。",
+    "full_content": "【美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地】费城半导体指数涨幅扩大至6.4%，报9958.16点，较11月5日暴跌日收盘价已反弹10%。AMD涨10.84%，Coherent涨16.44%，Lumentum涨13%，迈威尔科技涨10.45%，应用材料涨9.88%，博通涨8.61%，西部数据涨8.35%，希捷科技涨8.90%。不过，英伟达逆势下跌3.87%。",
+    "sort_time": "1794239674005793",
+    "showTime": "2026-11-09 23:54:34",
+    "time": "2026-11-09 23:54:34",
+    "publish_time": "2026-11-09 23:54:34",
+    "raw_data": {
+      "code": "202611093926605793",
+      "image": [],
+      "pinglun_Num": 17,
+      "realSort": "1794239674005793",
+      "share": 16,
+      "showTime": "2026-11-09 23:54:34",
+      "stockList": [
+        "90.BK1036",
+        "90.BK0459"
+      ],
+      "summary": "【美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地】费城半导体指数涨幅扩大至6.4%，报9958.16点，较11月5日暴跌日收盘价已反弹10%。AMD涨10.84%，Coherent涨16.44%，Lumentum涨13%，迈威尔科技涨10.45%，应用材料涨9.88%，博通涨8.61%，西部数据涨8.35%，希捷科技涨8.90%。不过，英伟达逆势下跌3.87%。",
+      "title": "美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611093926605793.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK1036",
+      "90.BK0459"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 17,
+    "share_count": 16,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "a3b86b0ca744bd6c",
+    "code": "202611093926605694",
+    "title": "联合健康据称已以每股28美元报价收购Surgery Partners",
+    "summary": "联合健康据称已以每股28美元报价收购Surgery Partners，Surgery Partners股价短线拉升涨超14%。",
+    "content": "联合健康据称已以每股28美元报价收购Surgery Partners，Surgery Partners股价短线拉升涨超14%。",
+    "full_content": "联合健康据称已以每股28美元报价收购Surgery Partners，Surgery Partners股价短线拉升涨超14%。",
+    "sort_time": "1794239564005694",
+    "showTime": "2026-11-09 23:52:44",
+    "time": "2026-11-09 23:52:44",
+    "publish_time": "2026-11-09 23:52:44",
+    "raw_data": {
+      "code": "202611093926605694",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794239564005694",
+      "share": 0,
+      "showTime": "2026-11-09 23:52:44",
+      "stockList": [
+        "106.UNH"
+      ],
+      "summary": "联合健康据称已以每股28美元报价收购Surgery Partners，Surgery Partners股价短线拉升涨超14%。",
+      "title": "联合健康据称已以每股28美元报价收购Surgery Partners",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611093926605694.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.UNH"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9c66a2a69b4816b0",
+    "code": "202611093926605526",
+    "title": "纳斯达克100指数涨幅扩大至3%",
+    "summary": "截至发稿，纳斯达克100指数涨幅扩大至3%。",
+    "content": "截至发稿，纳斯达克100指数涨幅扩大至3%。",
+    "full_content": "截至发稿，纳斯达克100指数涨幅扩大至3%。",
+    "sort_time": "1794239531005526",
+    "showTime": "2026-11-09 23:52:11",
+    "time": "2026-11-09 23:52:11",
+    "publish_time": "2026-11-09 23:52:11",
+    "raw_data": {
+      "code": "202611093926605526",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1794239531005526",
+      "share": 0,
+      "showTime": "2026-11-09 23:52:11",
+      "stockList": [],
+      "summary": "截至发稿，纳斯达克100指数涨幅扩大至3%。",
+      "title": "纳斯达克100指数涨幅扩大至3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611093926605526.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "4ee8077fe2bf8841",
+    "code": "202611093926605059",
+    "title": "标普500指数涨幅扩大至2.0% 纳斯达克指数涨2.5%",
+    "summary": "标普500指数涨幅扩大，现涨2.0%，最新报7524.15点。道琼斯指数涨1.65%，纳斯达克综合指数涨2.5%。",
+    "content": "标普500指数涨幅扩大，现涨2.0%，最新报7524.15点。道琼斯指数涨1.65%，纳斯达克综合指数涨2.5%。",
+    "full_content": "标普500指数涨幅扩大，现涨2.0%，最新报7524.15点。道琼斯指数涨1.65%，纳斯达克综合指数涨2.5%。",
+    "sort_time": "1794239354005059",
+    "showTime": "2026-11-09 23:49:14",
+    "time": "2026-11-09 23:49:14",
+    "publish_time": "2026-11-09 23:49:14",
+    "raw_data": {
+      "code": "202611093926605059",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1794239354005059",
+      "share": 7,
+      "showTime": "2026-11-09 23:49:14",
+      "stockList": [],
+      "summary": "标普500指数涨幅扩大，现涨2.0%，最新报7524.15点。道琼斯指数涨1.65%，纳斯达克综合指数涨2.5%。",
+      "title": "标普500指数涨幅扩大至2.0% 纳斯达克指数涨2.5%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611093926605059.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 7,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6a1e4ac5ea1c224d",
+    "code": "202611093926603136",
+    "title": "美国国务院称：国务卿鲁比奥呼吁停止欧盟针对美国公司的优惠措施和过度监管",
+    "summary": "美国国务院称，国务卿鲁比奥呼吁停止欧盟针对美国公司的优惠措施和过度监管。",
+    "content": "美国国务院称，国务卿鲁比奥呼吁停止欧盟针对美国公司的优惠措施和过度监管。",
+    "full_content": "美国国务院称，国务卿鲁比奥呼吁停止欧盟针对美国公司的优惠措施和过度监管。",
+    "sort_time": "1794238946003136",
+    "showTime": "2026-11-09 23:42:26",
+    "time": "2026-11-09 23:42:26",
+    "publish_time": "2026-11-09 23:42:26",
+    "raw_data": {
+      "code": "202611093926603136",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1794238946003136",
+      "share": 0,
+      "showTime": "2026-11-09 23:42:26",
+      "stockList": [],
+      "summary": "美国国务院称，国务卿鲁比奥呼吁停止欧盟针对美国公司的优惠措施和过度监管。",
+      "title": "美国国务院称：国务卿鲁比奥呼吁停止欧盟针对美国公司的优惠措施和过度监管",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611093926603136.html",
+    "category": "政策",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2f7306972e4d8ad4",
+    "code": "202611093926602644",
+    "title": "日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施",
+    "summary": "【日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施】日本软银集团与Grab签署联合开发协议，将在马来西亚开发人工智能基础设施。软银集团将在人工智能领域投资10亿美元，Grab投资7.5亿美元，Petros投资1亿美元。",
+    "content": "【日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施】日本软银集团与Grab签署联合开发协议，将在马来西亚开发人工智能基础设施。软银集团将在人工智能领域投资10亿美元，Grab投资7.5亿美元，Petros投资1亿美元。",
+    "full_content": "【日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施】日本软银集团与Grab签署联合开发协议，将在马来西亚开发人工智能基础设施。软银集团将在人工智能领域投资10亿美元，Grab投资7.5亿美元，Petros投资1亿美元。",
+    "sort_time": "1794238740002644",
+    "showTime": "2026-11-09 23:39:00",
+    "time": "2026-11-09 23:39:00",
+    "publish_time": "2026-11-09 23:39:00",
+    "raw_data": {
+      "code": "202611093926602644",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794238740002644",
+      "share": 2,
+      "showTime": "2026-11-09 23:39:00",
+      "stockList": [
+        "176.9984",
+        "90.BK0800"
+      ],
+      "summary": "【日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施】日本软银集团与Grab签署联合开发协议，将在马来西亚开发人工智能基础设施。软银集团将在人工智能领域投资10亿美元，Grab投资7.5亿美元，Petros投资1亿美元。",
+      "title": "日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611093926602644.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "176.9984",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
     "id": "3cc6b0be5e2ccd80",
     "code": "202611093926334872",
     "title": "欧洲央行行长候选人诺特：不排除设计新工具应对未来危机",
