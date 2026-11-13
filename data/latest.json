@@ -1,38 +1,89 @@
 [
   {
-    "id": "422ce836f17ab4e7",
-    "code": "202611143931059386",
-    "title": "Cerebras联席CEO表示：与行业其他公司一样 其数据中心建设也出现了延迟",
-    "summary": "Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。",
-    "content": "Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。",
-    "full_content": "Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。",
-    "sort_time": "1794587018059386",
-    "showTime": "2026-11-14 00:23:38",
-    "time": "2026-11-14 00:23:38",
-    "publish_time": "2026-11-14 00:23:38",
+    "id": "dc0e73981b47f98f",
+    "code": "202611143931096466",
+    "title": "美国国家气象局表示 该机构正遭遇全国范围的互联网与通信问题",
+    "summary": "美国国家气象局表示，该机构正遭遇全国范围的互联网与通信问题，技术人员正在积极处理，以尽快恢复。",
+    "content": "美国国家气象局表示，该机构正遭遇全国范围的互联网与通信问题，技术人员正在积极处理，以尽快恢复。",
+    "full_content": "美国国家气象局表示，该机构正遭遇全国范围的互联网与通信问题，技术人员正在积极处理，以尽快恢复。",
+    "sort_time": "1794607412096466",
+    "showTime": "2026-11-14 06:03:32",
+    "time": "2026-11-14 06:03:32",
+    "publish_time": "2026-11-14 06:03:32",
     "raw_data": {
-      "code": "202611143931059386",
+      "code": "202611143931096466",
       "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794587018059386",
+      "pinglun_Num": 1,
+      "realSort": "1794607412096466",
       "share": 0,
-      "showTime": "2026-11-14 00:23:38",
+      "showTime": "2026-11-14 06:03:32",
       "stockList": [
-        "105.CBRS",
-        "90.BK0922"
+        "90.BK0448",
+        "90.BK1215"
       ],
-      "summary": "Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。",
-      "title": "Cerebras联席CEO表示：与行业其他公司一样 其数据中心建设也出现了延迟",
-      "titleColor": 0
+      "summary": "美国国家气象局表示，该机构正遭遇全国范围的互联网与通信问题，技术人员正在积极处理，以尽快恢复。",
+      "title": "美国国家气象局表示 该机构正遭遇全国范围的互联网与通信问题",
+      "titleColor": 3
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611143931059386.html",
-    "category": "行业",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931096466.html",
+    "category": "其他",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "105.CBRS",
-      "90.BK0922"
+      "90.BK0448",
+      "90.BK1215"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "通信"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "5a9aa5267c491ce9",
+    "code": "202611143931095594",
+    "title": "高盛预计美元在2027年走软",
+    "summary": "【高盛预计美元在2027年走软】高盛策略师预计，在2026年“强劲但分化”的表现之后，美元将在2027年走软。他们认为，此前支撑美元的三大因素——通胀、对能源价格的相对韧性以及蓬勃的AI相关投资——将转为拖累。策略师在周五的报告中指出，稳健的经济活动、通胀风险上升与持续的政治不确定性仍指向美元对G10货币进一步走强，但有限的分化与较高的起点意味着外汇目前只能扮演辅助角色。",
+    "content": "【高盛预计美元在2027年走软】高盛策略师预计，在2026年“强劲但分化”的表现之后，美元将在2027年走软。他们认为，此前支撑美元的三大因素——通胀、对能源价格的相对韧性以及蓬勃的AI相关投资——将转为拖累。策略师在周五的报告中指出，稳健的经济活动、通胀风险上升与持续的政治不确定性仍指向美元对G10货币进一步走强，但有限的分化与较高的起点意味着外汇目前只能扮演辅助角色。",
+    "full_content": "【高盛预计美元在2027年走软】高盛策略师预计，在2026年“强劲但分化”的表现之后，美元将在2027年走软。他们认为，此前支撑美元的三大因素——通胀、对能源价格的相对韧性以及蓬勃的AI相关投资——将转为拖累。策略师在周五的报告中指出，稳健的经济活动、通胀风险上升与持续的政治不确定性仍指向美元对G10货币进一步走强，但有限的分化与较高的起点意味着外汇目前只能扮演辅助角色。",
+    "sort_time": "1794607299095594",
+    "showTime": "2026-11-14 06:01:39",
+    "time": "2026-11-14 06:01:39",
+    "publish_time": "2026-11-14 06:01:39",
+    "raw_data": {
+      "code": "202611143931095594",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794607299095594",
+      "share": 0,
+      "showTime": "2026-11-14 06:01:39",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "【高盛预计美元在2027年走软】高盛策略师预计，在2026年“强劲但分化”的表现之后，美元将在2027年走软。他们认为，此前支撑美元的三大因素——通胀、对能源价格的相对韧性以及蓬勃的AI相关投资——将转为拖累。策略师在周五的报告中指出，稳健的经济活动、通胀风险上升与持续的政治不确定性仍指向美元对G10货币进一步走强，但有限的分化与较高的起点意味着外汇目前只能扮演辅助角色。",
+      "title": "高盛预计美元在2027年走软",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931095594.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
     ],
     "has_stock_mention": true,
     "comment_count": 0,
@@ -41,48 +92,203 @@
       "industries": [],
       "concepts": [
         {
-          "id": "C006",
-          "name": "大数据",
-          "matched_keyword": "数据中心"
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
         }
       ],
       "industry_ids": [],
       "concept_ids": [
-        "C006"
+        "C001"
       ]
     }
   },
   {
-    "id": "df2a2a0e15b09abe",
-    "code": "202611143931058966",
-    "title": "欧洲央行管委兼德国央行行长Nagel表示：欧洲央行再次行动的可能性很高",
-    "summary": "欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。",
-    "content": "欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。",
-    "full_content": "欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。",
-    "sort_time": "1794586955058966",
-    "showTime": "2026-11-14 00:22:35",
-    "time": "2026-11-14 00:22:35",
-    "publish_time": "2026-11-14 00:22:35",
+    "id": "239f31dc62e2520a",
+    "code": "202611143931092947",
+    "title": "Anthropic表示 影响微软365连接器的错误已经解决",
+    "summary": "Anthropic表示，影响微软365连接器的错误已经解决。",
+    "content": "Anthropic表示，影响微软365连接器的错误已经解决。",
+    "full_content": "Anthropic表示，影响微软365连接器的错误已经解决。",
+    "sort_time": "1794606839092947",
+    "showTime": "2026-11-14 05:53:59",
+    "time": "2026-11-14 05:53:59",
+    "publish_time": "2026-11-14 05:53:59",
     "raw_data": {
-      "code": "202611143931058966",
+      "code": "202611143931092947",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1794586955058966",
+      "realSort": "1794606839092947",
       "share": 0,
-      "showTime": "2026-11-14 00:22:35",
-      "stockList": [],
-      "summary": "欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。",
-      "title": "欧洲央行管委兼德国央行行长Nagel表示：欧洲央行再次行动的可能性很高",
+      "showTime": "2026-11-14 05:53:59",
+      "stockList": [
+        "105.MSFT"
+      ],
+      "summary": "Anthropic表示，影响微软365连接器的错误已经解决。",
+      "title": "Anthropic表示 影响微软365连接器的错误已经解决",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611143931058966.html",
-    "category": "宏观",
-    "importance": 5,
+    "url": "https://kuaixun.eastmoney.com/news/202611143931092947.html",
+    "category": "其他",
+    "importance": 6,
     "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
+    "related_stocks": [
+      "105.MSFT"
+    ],
+    "has_stock_mention": true,
     "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9bdb0bbe9a5f16fd",
+    "code": "202611143931092661",
+    "title": "美股航空股盘后走弱",
+    "summary": "【美股航空股盘后走弱】美股航空股盘后走弱，联合大陆航空、美国航空、美国西南航空、达美航空跌超1%。此前，美国联邦航空管理局因通信问题发布地面停飞令。",
+    "content": "【美股航空股盘后走弱】美股航空股盘后走弱，联合大陆航空、美国航空、美国西南航空、达美航空跌超1%。此前，美国联邦航空管理局因通信问题发布地面停飞令。",
+    "full_content": "【美股航空股盘后走弱】美股航空股盘后走弱，联合大陆航空、美国航空、美国西南航空、达美航空跌超1%。此前，美国联邦航空管理局因通信问题发布地面停飞令。",
+    "sort_time": "1794606456092661",
+    "showTime": "2026-11-14 05:47:36",
+    "time": "2026-11-14 05:47:36",
+    "publish_time": "2026-11-14 05:47:36",
+    "raw_data": {
+      "code": "202611143931092661",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794606456092661",
+      "share": 1,
+      "showTime": "2026-11-14 05:47:36",
+      "stockList": [
+        "106.LUV"
+      ],
+      "summary": "【美股航空股盘后走弱】美股航空股盘后走弱，联合大陆航空、美国航空、美国西南航空、达美航空跌超1%。此前，美国联邦航空管理局因通信问题发布地面停飞令。",
+      "title": "美股航空股盘后走弱",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931092661.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.LUV"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "通信"
+        },
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        },
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "空管"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C004",
+        "C201",
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "991be36facc32534",
+    "code": "202611143931091844",
+    "title": "美联航表示 地面停飞令实施期间 新的国内航班不会起飞",
+    "summary": "美联航表示，地面停飞令实施期间，新的国内航班不会起飞。",
+    "content": "美联航表示，地面停飞令实施期间，新的国内航班不会起飞。",
+    "full_content": "美联航表示，地面停飞令实施期间，新的国内航班不会起飞。",
+    "sort_time": "1794606248091844",
+    "showTime": "2026-11-14 05:44:08",
+    "time": "2026-11-14 05:44:08",
+    "publish_time": "2026-11-14 05:44:08",
+    "raw_data": {
+      "code": "202611143931091844",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794606248091844",
+      "share": 0,
+      "showTime": "2026-11-14 05:44:08",
+      "stockList": [
+        "105.UAL"
+      ],
+      "summary": "美联航表示，地面停飞令实施期间，新的国内航班不会起飞。",
+      "title": "美联航表示 地面停飞令实施期间 新的国内航班不会起飞",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931091844.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.UAL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5d92e8001b049d50",
+    "code": "202611143931088443",
+    "title": "美国的银行存款在最新一周增加了565亿美元",
+    "summary": "美国的银行存款在最新一周增加了565亿美元。",
+    "content": "美国的银行存款在最新一周增加了565亿美元。",
+    "full_content": "美国的银行存款在最新一周增加了565亿美元。",
+    "sort_time": "1794605354088443",
+    "showTime": "2026-11-14 05:29:14",
+    "time": "2026-11-14 05:29:14",
+    "publish_time": "2026-11-14 05:29:14",
+    "raw_data": {
+      "code": "202611143931088443",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794605354088443",
+      "share": 0,
+      "showTime": "2026-11-14 05:29:14",
+      "stockList": [
+        "90.BK1283",
+        "0.161121"
+      ],
+      "summary": "美国的银行存款在最新一周增加了565亿美元。",
+      "title": "美国的银行存款在最新一周增加了565亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931088443.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1283",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -91,14 +297,14 @@
           "name": "银行",
           "level1": "金融业",
           "level2": "货币金融服务",
-          "matched_keyword": "央行"
+          "matched_keyword": "银行"
         }
       ],
       "concepts": [
         {
           "id": "C402",
           "name": "银行",
-          "matched_keyword": "央行"
+          "matched_keyword": "银行"
         }
       ],
       "industry_ids": [
@@ -110,39 +316,82 @@
     }
   },
   {
-    "id": "55aac2d2fb5ab84c",
-    "code": "202611143931056455",
-    "title": "Anthropic表示：影响多个产品的问题已经解决",
-    "summary": "Anthropic表示，影响多个产品的问题已经解决。",
-    "content": "Anthropic表示，影响多个产品的问题已经解决。",
-    "full_content": "Anthropic表示，影响多个产品的问题已经解决。",
-    "sort_time": "1794586268056455",
-    "showTime": "2026-11-14 00:11:08",
-    "time": "2026-11-14 00:11:08",
-    "publish_time": "2026-11-14 00:11:08",
+    "id": "5471cea7ce2e1393",
+    "code": "202611143931089270",
+    "title": "国际油价13日涨跌不一",
+    "summary": "【国际油价13日涨跌不一】截至当天收盘，纽约商品交易所12月交货的轻质原油期货价格下跌18美分，收于每桶88.56美元，跌幅为0.2%；1月交货的伦敦布伦特原油期货价格上涨2美分，收于每桶95.84美元，涨幅为0.02%。",
+    "content": "【国际油价13日涨跌不一】截至当天收盘，纽约商品交易所12月交货的轻质原油期货价格下跌18美分，收于每桶88.56美元，跌幅为0.2%；1月交货的伦敦布伦特原油期货价格上涨2美分，收于每桶95.84美元，涨幅为0.02%。",
+    "full_content": "【国际油价13日涨跌不一】截至当天收盘，纽约商品交易所12月交货的轻质原油期货价格下跌18美分，收于每桶88.56美元，跌幅为0.2%；1月交货的伦敦布伦特原油期货价格上涨2美分，收于每桶95.84美元，涨幅为0.02%。",
+    "sort_time": "1794605324089270",
+    "showTime": "2026-11-14 05:28:44",
+    "time": "2026-11-14 05:28:44",
+    "publish_time": "2026-11-14 05:28:44",
     "raw_data": {
-      "code": "202611143931056455",
+      "code": "202611143931089270",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1794586268056455",
+      "realSort": "1794605324089270",
       "share": 0,
-      "showTime": "2026-11-14 00:11:08",
-      "stockList": [
-        "105.ANT"
-      ],
-      "summary": "Anthropic表示，影响多个产品的问题已经解决。",
-      "title": "Anthropic表示：影响多个产品的问题已经解决",
+      "showTime": "2026-11-14 05:28:44",
+      "stockList": [],
+      "summary": "【国际油价13日涨跌不一】截至当天收盘，纽约商品交易所12月交货的轻质原油期货价格下跌18美分，收于每桶88.56美元，跌幅为0.2%；1月交货的伦敦布伦特原油期货价格上涨2美分，收于每桶95.84美元，涨幅为0.02%。",
+      "title": "国际油价13日涨跌不一",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611143931056455.html",
-    "category": "其他",
-    "importance": 6,
+    "url": "https://kuaixun.eastmoney.com/news/202611143931089270.html",
+    "category": "期货",
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT"
-    ],
-    "has_stock_mention": true,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "92819a19bf500833",
+    "code": "202611143931086940",
+    "title": "富时中国A50指数期货夜盘收涨0.01%",
+    "summary": "富时中国A50指数期货夜盘收涨0.01%。",
+    "content": "富时中国A50指数期货夜盘收涨0.01%。",
+    "full_content": "富时中国A50指数期货夜盘收涨0.01%。",
+    "sort_time": "1794604844086940",
+    "showTime": "2026-11-14 05:20:44",
+    "time": "2026-11-14 05:20:44",
+    "publish_time": "2026-11-14 05:20:44",
+    "raw_data": {
+      "code": "202611143931086940",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794604844086940",
+      "share": 0,
+      "showTime": "2026-11-14 05:20:44",
+      "stockList": [],
+      "summary": "富时中国A50指数期货夜盘收涨0.01%。",
+      "title": "富时中国A50指数期货夜盘收涨0.01%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931086940.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 0,
     "share_count": 0,
     "tags": {
@@ -153,36 +402,89 @@
     }
   },
   {
-    "id": "a845bc8df3660a3d",
-    "code": "202611143931056229",
-    "title": "美国上诉法院表示：特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金",
-    "summary": "美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。",
-    "content": "美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。",
-    "full_content": "美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。",
-    "sort_time": "1794586177056229",
-    "showTime": "2026-11-14 00:09:37",
-    "time": "2026-11-14 00:09:37",
-    "publish_time": "2026-11-14 00:09:37",
+    "id": "628f48c592cf0da6",
+    "code": "202611143931086732",
+    "title": "据13F文件 Icahn Enterprises第三季度清仓捷蓝航空与美国电力",
+    "summary": "据13F文件，Icahn Enterprises第三季度清仓捷蓝航空与美国电力，减持EchoStar、国际香精香料及Bausch + Lomb，增持SandRidge Energy与Icahn Enterprises。",
+    "content": "据13F文件，Icahn Enterprises第三季度清仓捷蓝航空与美国电力，减持EchoStar、国际香精香料及Bausch + Lomb，增持SandRidge Energy与Icahn Enterprises。",
+    "full_content": "据13F文件，Icahn Enterprises第三季度清仓捷蓝航空与美国电力，减持EchoStar、国际香精香料及Bausch + Lomb，增持SandRidge Energy与Icahn Enterprises。",
+    "sort_time": "1794604780086732",
+    "showTime": "2026-11-14 05:19:40",
+    "time": "2026-11-14 05:19:40",
+    "publish_time": "2026-11-14 05:19:40",
     "raw_data": {
-      "code": "202611143931056229",
+      "code": "202611143931086732",
       "image": [],
       "pinglun_Num": 1,
-      "realSort": "1794586177056229",
+      "realSort": "1794604780086732",
       "share": 0,
-      "showTime": "2026-11-14 00:09:37",
-      "stockList": [],
-      "summary": "美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。",
-      "title": "美国上诉法院表示：特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金",
+      "showTime": "2026-11-14 05:19:40",
+      "stockList": [
+        "105.JBLU",
+        "105.AEP"
+      ],
+      "summary": "据13F文件，Icahn Enterprises第三季度清仓捷蓝航空与美国电力，减持EchoStar、国际香精香料及Bausch + Lomb，增持SandRidge Energy与Icahn Enterprises。",
+      "title": "据13F文件 Icahn Enterprises第三季度清仓捷蓝航空与美国电力",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611143931056229.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931086732.html",
     "category": "其他",
-    "importance": 5,
+    "importance": 6,
     "sentiment": "neutral",
+    "related_stocks": [
+      "105.JBLU",
+      "105.AEP"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201"
+      ]
+    }
+  },
+  {
+    "id": "5f7edbe47dede387",
+    "code": "202611143931084792",
+    "title": "美国国债跌幅收窄 10年期收益率上涨2个基点 至5.15%",
+    "summary": "美国国债跌幅收窄，10年期收益率上涨2个基点，至5.15%。",
+    "content": "美国国债跌幅收窄，10年期收益率上涨2个基点，至5.15%。",
+    "full_content": "美国国债跌幅收窄，10年期收益率上涨2个基点，至5.15%。",
+    "sort_time": "1794604219084792",
+    "showTime": "2026-11-14 05:10:19",
+    "time": "2026-11-14 05:10:19",
+    "publish_time": "2026-11-14 05:10:19",
+    "raw_data": {
+      "code": "202611143931084792",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794604219084792",
+      "share": 0,
+      "showTime": "2026-11-14 05:10:19",
+      "stockList": [],
+      "summary": "美国国债跌幅收窄，10年期收益率上涨2个基点，至5.15%。",
+      "title": "美国国债跌幅收窄 10年期收益率上涨2个基点 至5.15%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931084792.html",
+    "category": "债券",
+    "importance": 5,
+    "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 1,
+    "comment_count": 0,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -192,37 +494,180 @@
     }
   },
   {
-    "id": "790632372d3380e3",
-    "code": "202611143931054813",
-    "title": "纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%",
-    "summary": "【纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%】纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。",
-    "content": "【纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%】纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。",
-    "full_content": "【纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%】纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。",
-    "sort_time": "1794586078054813",
-    "showTime": "2026-11-14 00:07:58",
-    "time": "2026-11-14 00:07:58",
-    "publish_time": "2026-11-14 00:07:58",
+    "id": "4af7e04eb22144cf",
+    "code": "202611143931083637",
+    "title": "美国联邦航空管理局以特殊情况为由发布地面停飞令",
+    "summary": "美国联邦航空管理局以特殊情况为由发布地面停飞令，所有机场地面停飞，直至另行通知。",
+    "content": "美国联邦航空管理局以特殊情况为由发布地面停飞令，所有机场地面停飞，直至另行通知。",
+    "full_content": "美国联邦航空管理局以特殊情况为由发布地面停飞令，所有机场地面停飞，直至另行通知。",
+    "sort_time": "1794603957083637",
+    "showTime": "2026-11-14 05:05:57",
+    "time": "2026-11-14 05:05:57",
+    "publish_time": "2026-11-14 05:05:57",
     "raw_data": {
-      "code": "202611143931054813",
+      "code": "202611143931083637",
       "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1794586078054813",
-      "share": 4,
-      "showTime": "2026-11-14 00:07:58",
+      "pinglun_Num": 3,
+      "realSort": "1794603957083637",
+      "share": 2,
+      "showTime": "2026-11-14 05:05:57",
       "stockList": [],
-      "summary": "【纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%】纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。",
-      "title": "纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%",
-      "titleColor": 3
+      "summary": "美国联邦航空管理局以特殊情况为由发布地面停飞令，所有机场地面停飞，直至另行通知。",
+      "title": "美国联邦航空管理局以特殊情况为由发布地面停飞令",
+      "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611143931054813.html",
-    "category": "科技",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931083637.html",
+    "category": "其他",
     "importance": 5,
-    "sentiment": "bearish",
+    "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 4,
+    "comment_count": 3,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C201",
+          "name": "军工",
+          "matched_keyword": "航空"
+        },
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "空管"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C201",
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "9aec25a19c4d0259",
+    "code": "202611143931083139",
+    "title": "标普确认意大利BBB+/A-评级 前景展望正面",
+    "summary": "标普确认意大利BBB+/A-评级，前景展望正面。",
+    "content": "标普确认意大利BBB+/A-评级，前景展望正面。",
+    "full_content": "标普确认意大利BBB+/A-评级，前景展望正面。",
+    "sort_time": "1794603908083139",
+    "showTime": "2026-11-14 05:05:08",
+    "time": "2026-11-14 05:05:08",
+    "publish_time": "2026-11-14 05:05:08",
+    "raw_data": {
+      "code": "202611143931083139",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794603908083139",
+      "share": 0,
+      "showTime": "2026-11-14 05:05:08",
+      "stockList": [],
+      "summary": "标普确认意大利BBB+/A-评级，前景展望正面。",
+      "title": "标普确认意大利BBB+/A-评级 前景展望正面",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931083139.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0ba51df0ae3c6b4a",
+    "code": "202611143931082853",
+    "title": "美联储发布金融稳定报告 称资产价格高企存在风险 部分由AI推动",
+    "summary": "美联储发布金融稳定报告，称资产价格高企存在风险，部分由AI推动。",
+    "content": "美联储发布金融稳定报告，称资产价格高企存在风险，部分由AI推动。",
+    "full_content": "美联储发布金融稳定报告，称资产价格高企存在风险，部分由AI推动。",
+    "sort_time": "1794603799082853",
+    "showTime": "2026-11-14 05:03:19",
+    "time": "2026-11-14 05:03:19",
+    "publish_time": "2026-11-14 05:03:19",
+    "raw_data": {
+      "code": "202611143931082853",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794603799082853",
+      "share": 1,
+      "showTime": "2026-11-14 05:03:19",
+      "stockList": [
+        "90.BK0800"
+      ],
+      "summary": "美联储发布金融稳定报告，称资产价格高企存在风险，部分由AI推动。",
+      "title": "美联储发布金融稳定报告 称资产价格高企存在风险 部分由AI推动",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931082853.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "5f2220f163f4aca4",
+    "code": "202611143931082195",
+    "title": "纳指收跌0.9% 英伟达跌2%",
+    "summary": "【纳指收跌0.9% 英伟达跌2%】美股三大指数收盘涨跌不一，道指涨0.1%，纳指跌0.91%，标普500指数跌0.4%。芯片股下挫，费城半导体指数跌3.43%，AMD跌超8%，闪迪、西部数据跌超5%，博通、ARM跌超4%，拉姆研究、希捷科技跌超3%。美股“科技七巨头”涨跌不一，Meta Platforms涨2.90%，苹果涨0.39%，微软涨0.17%，亚马逊跌0.29%，谷歌跌0.96%，特斯拉跌1.82%，英伟达跌2%。",
+    "content": "【纳指收跌0.9% 英伟达跌2%】美股三大指数收盘涨跌不一，道指涨0.1%，纳指跌0.91%，标普500指数跌0.4%。芯片股下挫，费城半导体指数跌3.43%，AMD跌超8%，闪迪、西部数据跌超5%，博通、ARM跌超4%，拉姆研究、希捷科技跌超3%。美股“科技七巨头”涨跌不一，Meta Platforms涨2.90%，苹果涨0.39%，微软涨0.17%，亚马逊跌0.29%，谷歌跌0.96%，特斯拉跌1.82%，英伟达跌2%。",
+    "full_content": "【纳指收跌0.9% 英伟达跌2%】美股三大指数收盘涨跌不一，道指涨0.1%，纳指跌0.91%，标普500指数跌0.4%。芯片股下挫，费城半导体指数跌3.43%，AMD跌超8%，闪迪、西部数据跌超5%，博通、ARM跌超4%，拉姆研究、希捷科技跌超3%。美股“科技七巨头”涨跌不一，Meta Platforms涨2.90%，苹果涨0.39%，微软涨0.17%，亚马逊跌0.29%，谷歌跌0.96%，特斯拉跌1.82%，英伟达跌2%。",
+    "sort_time": "1794603684082195",
+    "showTime": "2026-11-14 05:01:24",
+    "time": "2026-11-14 05:01:24",
+    "publish_time": "2026-11-14 05:01:24",
+    "raw_data": {
+      "code": "202611143931082195",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794603684082195",
+      "share": 3,
+      "showTime": "2026-11-14 05:01:24",
+      "stockList": [],
+      "summary": "【纳指收跌0.9% 英伟达跌2%】美股三大指数收盘涨跌不一，道指涨0.1%，纳指跌0.91%，标普500指数跌0.4%。芯片股下挫，费城半导体指数跌3.43%，AMD跌超8%，闪迪、西部数据跌超5%，博通、ARM跌超4%，拉姆研究、希捷科技跌超3%。美股“科技七巨头”涨跌不一，Meta Platforms涨2.90%，苹果涨0.39%，微软涨0.17%，亚马逊跌0.29%，谷歌跌0.96%，特斯拉跌1.82%，英伟达跌2%。",
+      "title": "纳指收跌0.9% 英伟达跌2%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931082195.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 3,
     "tags": {
       "industries": [
         {
@@ -230,7 +675,7 @@
           "name": "半导体",
           "level1": "制造业",
           "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
+          "matched_keyword": "芯片"
         },
         {
           "id": "I010103",
@@ -250,6 +695,16 @@
           "id": "C009",
           "name": "元宇宙",
           "matched_keyword": "AR"
+        },
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        },
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
         }
       ],
       "industry_ids": [
@@ -258,214 +713,150 @@
       ],
       "concept_ids": [
         "C002",
-        "C009"
+        "C009",
+        "C805",
+        "C807"
       ]
     }
   },
   {
-    "id": "b050180faf78238d",
-    "code": "202611143931054612",
-    "title": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%",
-    "summary": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。",
-    "content": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。",
-    "full_content": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。",
-    "sort_time": "1794585884054612",
-    "showTime": "2026-11-14 00:04:44",
-    "time": "2026-11-14 00:04:44",
-    "publish_time": "2026-11-14 00:04:44",
+    "id": "4b1d2f86832941e1",
+    "code": "202611143931082592",
+    "title": "纳斯达克中国金龙指数收涨0.80%",
+    "summary": "【纳斯达克中国金龙指数收涨0.80%】陆金所控股涨9.57%，霸王茶姬涨6.37%，老虎证券涨5.87%，万物新生涨5.44%，信也科技涨4.96%。",
+    "content": "【纳斯达克中国金龙指数收涨0.80%】陆金所控股涨9.57%，霸王茶姬涨6.37%，老虎证券涨5.87%，万物新生涨5.44%，信也科技涨4.96%。",
+    "full_content": "【纳斯达克中国金龙指数收涨0.80%】陆金所控股涨9.57%，霸王茶姬涨6.37%，老虎证券涨5.87%，万物新生涨5.44%，信也科技涨4.96%。",
+    "sort_time": "1794603646082592",
+    "showTime": "2026-11-14 05:00:46",
+    "time": "2026-11-14 05:00:46",
+    "publish_time": "2026-11-14 05:00:46",
     "raw_data": {
-      "code": "202611143931054612",
+      "code": "202611143931082592",
       "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794585884054612",
+      "pinglun_Num": 0,
+      "realSort": "1794603646082592",
       "share": 0,
-      "showTime": "2026-11-14 00:04:44",
-      "stockList": [],
-      "summary": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。",
-      "title": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611143931054612.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "64ebeaabdb01c1d9",
-    "code": "202611133931053973",
-    "title": "现货白银日内跌幅扩大至2% 报49.04美元/盎司",
-    "summary": "现货白银日内跌幅扩大至2%，报49.04美元/盎司。",
-    "content": "现货白银日内跌幅扩大至2%，报49.04美元/盎司。",
-    "full_content": "现货白银日内跌幅扩大至2%，报49.04美元/盎司。",
-    "sort_time": "1794585339053973",
-    "showTime": "2026-11-13 23:55:39",
-    "time": "2026-11-13 23:55:39",
-    "publish_time": "2026-11-13 23:55:39",
-    "raw_data": {
-      "code": "202611133931053973",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794585339053973",
-      "share": 0,
-      "showTime": "2026-11-13 23:55:39",
+      "showTime": "2026-11-14 05:00:46",
       "stockList": [
-        "90.BK1616"
+        "105.CHA",
+        "106.LU"
       ],
-      "summary": "现货白银日内跌幅扩大至2%，报49.04美元/盎司。",
-      "title": "现货白银日内跌幅扩大至2% 报49.04美元/盎司",
+      "summary": "【纳斯达克中国金龙指数收涨0.80%】陆金所控股涨9.57%，霸王茶姬涨6.37%，老虎证券涨5.87%，万物新生涨5.44%，信也科技涨4.96%。",
+      "title": "纳斯达克中国金龙指数收涨0.80%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931053973.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1616"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "f909f82ca8307ad6",
-    "code": "202611133931052739",
-    "title": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元",
-    "summary": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元。",
-    "content": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元。",
-    "full_content": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元。",
-    "sort_time": "1794585270052739",
-    "showTime": "2026-11-13 23:54:30",
-    "time": "2026-11-13 23:54:30",
-    "publish_time": "2026-11-13 23:54:30",
-    "raw_data": {
-      "code": "202611133931052739",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794585270052739",
-      "share": 0,
-      "showTime": "2026-11-13 23:54:30",
-      "stockList": [
-        "106.BRK_A",
-        "106.BRK_B"
-      ],
-      "summary": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元。",
-      "title": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931052739.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931082592.html",
     "category": "其他",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "106.BRK_A",
-      "106.BRK_B"
+      "105.CHA",
+      "106.LU"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 0,
     "share_count": 0,
     "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "bf0c4118fde56459",
-    "code": "202611133931052910",
-    "title": "Anthropic表示：Claude.ai、Claude API与Claude Code的错误率已处于正常水平 公司将继续进行监控",
-    "summary": "Anthropic表示，Claude.ai、Claude API与Claude Code的错误率已处于正常水平，公司将继续进行监控。",
-    "content": "Anthropic表示，Claude.ai、Claude API与Claude Code的错误率已处于正常水平，公司将继续进行监控。",
-    "full_content": "Anthropic表示，Claude.ai、Claude API与Claude Code的错误率已处于正常水平，公司将继续进行监控。",
-    "sort_time": "1794585198052910",
-    "showTime": "2026-11-13 23:53:18",
-    "time": "2026-11-13 23:53:18",
-    "publish_time": "2026-11-13 23:53:18",
-    "raw_data": {
-      "code": "202611133931052910",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794585198052910",
-      "share": 0,
-      "showTime": "2026-11-13 23:53:18",
-      "stockList": [
-        "105.ANT",
-        "90.BK0800"
+      "industries": [
+        {
+          "id": "I020102",
+          "name": "证券",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "证券"
+        }
       ],
-      "summary": "Anthropic表示，Claude.ai、Claude API与Claude Code的错误率已处于正常水平，公司将继续进行监控。",
-      "title": "Anthropic表示：Claude.ai、Claude API与Claude Code的错误率已处于正常水平 公司将继续进行监控",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931052910.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT",
-      "90.BK0800"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
+      "concepts": [
+        {
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
+        }
+      ],
+      "industry_ids": [
+        "I020102"
+      ],
+      "concept_ids": [
+        "C401"
+      ]
     }
   },
   {
-    "id": "b5cb3e9adf191992",
-    "code": "202611133931051498",
-    "title": "美军中央司令部否认在巴林雷达遭伊朗袭击",
-    "summary": "【美军中央司令部否认在巴林雷达遭伊朗袭击】当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
-    "content": "【美军中央司令部否认在巴林雷达遭伊朗袭击】当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
-    "full_content": "【美军中央司令部否认在巴林雷达遭伊朗袭击】当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
-    "sort_time": "1794584958051498",
-    "showTime": "2026-11-13 23:49:18",
-    "time": "2026-11-13 23:49:18",
-    "publish_time": "2026-11-13 23:49:18",
+    "id": "e297b457eb639f1a",
+    "code": "202611143931081860",
+    "title": "伊朗称两艘油轮在霍尔木兹海峡发生爆炸",
+    "summary": "【伊朗称两艘油轮在霍尔木兹海峡发生爆炸】当地时间14日凌晨，伊朗伊斯兰革命卫队海军表示，不久前有两艘油轮在霍尔木兹海峡试图通过未经伊朗授权的航线航行，其间关闭了雷达和定位系统，随后触碰水雷，引发爆炸与火灾。",
+    "content": "【伊朗称两艘油轮在霍尔木兹海峡发生爆炸】当地时间14日凌晨，伊朗伊斯兰革命卫队海军表示，不久前有两艘油轮在霍尔木兹海峡试图通过未经伊朗授权的航线航行，其间关闭了雷达和定位系统，随后触碰水雷，引发爆炸与火灾。",
+    "full_content": "【伊朗称两艘油轮在霍尔木兹海峡发生爆炸】当地时间14日凌晨，伊朗伊斯兰革命卫队海军表示，不久前有两艘油轮在霍尔木兹海峡试图通过未经伊朗授权的航线航行，其间关闭了雷达和定位系统，随后触碰水雷，引发爆炸与火灾。",
+    "sort_time": "1794603439081860",
+    "showTime": "2026-11-14 04:57:19",
+    "time": "2026-11-14 04:57:19",
+    "publish_time": "2026-11-14 04:57:19",
     "raw_data": {
-      "code": "202611133931051498",
+      "code": "202611143931081860",
       "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794584958051498",
-      "share": 2,
-      "showTime": "2026-11-13 23:49:18",
+      "pinglun_Num": 5,
+      "realSort": "1794603439081860",
+      "share": 0,
+      "showTime": "2026-11-14 04:57:19",
       "stockList": [],
-      "summary": "【美军中央司令部否认在巴林雷达遭伊朗袭击】当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
-      "title": "美军中央司令部否认在巴林雷达遭伊朗袭击",
+      "summary": "【伊朗称两艘油轮在霍尔木兹海峡发生爆炸】当地时间14日凌晨，伊朗伊斯兰革命卫队海军表示，不久前有两艘油轮在霍尔木兹海峡试图通过未经伊朗授权的航线航行，其间关闭了雷达和定位系统，随后触碰水雷，引发爆炸与火灾。",
+      "title": "伊朗称两艘油轮在霍尔木兹海峡发生爆炸",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931051498.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931081860.html",
     "category": "其他",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 2,
+    "comment_count": 5,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1d450d060e1c48e9",
+    "code": "202611143931081693",
+    "title": "驻英美军基地出现疑似非法无人机活动 基地人员紧急避险",
+    "summary": "【驻英美军基地出现疑似非法无人机活动 基地人员紧急避险】当地时间11月13日晚，位于英国萨福克郡的莱肯希思皇家空军基地出现疑似未经授权的无人机活动，驻扎在该基地的美军人员一度被要求就地避险。美国空军发言人表示，当晚，美军安全部队针对基地上空的无人机活动采取了应对措施，事件未对人员、飞机或基础设施造成影响。",
+    "content": "【驻英美军基地出现疑似非法无人机活动 基地人员紧急避险】当地时间11月13日晚，位于英国萨福克郡的莱肯希思皇家空军基地出现疑似未经授权的无人机活动，驻扎在该基地的美军人员一度被要求就地避险。美国空军发言人表示，当晚，美军安全部队针对基地上空的无人机活动采取了应对措施，事件未对人员、飞机或基础设施造成影响。",
+    "full_content": "【驻英美军基地出现疑似非法无人机活动 基地人员紧急避险】当地时间11月13日晚，位于英国萨福克郡的莱肯希思皇家空军基地出现疑似未经授权的无人机活动，驻扎在该基地的美军人员一度被要求就地避险。美国空军发言人表示，当晚，美军安全部队针对基地上空的无人机活动采取了应对措施，事件未对人员、飞机或基础设施造成影响。",
+    "sort_time": "1794603278081693",
+    "showTime": "2026-11-14 04:54:38",
+    "time": "2026-11-14 04:54:38",
+    "publish_time": "2026-11-14 04:54:38",
+    "raw_data": {
+      "code": "202611143931081693",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794603278081693",
+      "share": 0,
+      "showTime": "2026-11-14 04:54:38",
+      "stockList": [
+        "90.BK0704"
+      ],
+      "summary": "【驻英美军基地出现疑似非法无人机活动 基地人员紧急避险】当地时间11月13日晚，位于英国萨福克郡的莱肯希思皇家空军基地出现疑似未经授权的无人机活动，驻扎在该基地的美军人员一度被要求就地避险。美国空军发言人表示，当晚，美军安全部队针对基地上空的无人机活动采取了应对措施，事件未对人员、飞机或基础设施造成影响。",
+      "title": "驻英美军基地出现疑似非法无人机活动 基地人员紧急避险",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931081693.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0704"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [
@@ -482,79 +873,36 @@
     }
   },
   {
-    "id": "d5aec991b4f383c4",
-    "code": "202611133931050495",
-    "title": "微软称服务恢复取得令人鼓舞的进展",
-    "summary": "微软称服务恢复取得令人鼓舞的进展。",
-    "content": "微软称服务恢复取得令人鼓舞的进展。",
-    "full_content": "微软称服务恢复取得令人鼓舞的进展。",
-    "sort_time": "1794584745050495",
-    "showTime": "2026-11-13 23:45:45",
-    "time": "2026-11-13 23:45:45",
-    "publish_time": "2026-11-13 23:45:45",
+    "id": "ebc9127eeebcb25b",
+    "code": "202611143931081740",
+    "title": "美元指数13日上涨",
+    "summary": "【美元指数13日上涨】美元指数13日上涨。衡量美元对六种主要货币的美元指数当天上涨0.23%，在汇市尾市收于103.412。截至纽约汇市尾市，1欧元兑换1.1023美元，低于前一交易日的1.1056美元；1英镑兑换1.3210美元，低于前一交易日的1.3236美元。",
+    "content": "【美元指数13日上涨】美元指数13日上涨。衡量美元对六种主要货币的美元指数当天上涨0.23%，在汇市尾市收于103.412。截至纽约汇市尾市，1欧元兑换1.1023美元，低于前一交易日的1.1056美元；1英镑兑换1.3210美元，低于前一交易日的1.3236美元。",
+    "full_content": "【美元指数13日上涨】美元指数13日上涨。衡量美元对六种主要货币的美元指数当天上涨0.23%，在汇市尾市收于103.412。截至纽约汇市尾市，1欧元兑换1.1023美元，低于前一交易日的1.1056美元；1英镑兑换1.3210美元，低于前一交易日的1.3236美元。",
+    "sort_time": "1794603259081740",
+    "showTime": "2026-11-14 04:54:19",
+    "time": "2026-11-14 04:54:19",
+    "publish_time": "2026-11-14 04:54:19",
     "raw_data": {
-      "code": "202611133931050495",
+      "code": "202611143931081740",
       "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794584745050495",
-      "share": 1,
-      "showTime": "2026-11-13 23:45:45",
-      "stockList": [
-        "105.MSFT"
-      ],
-      "summary": "微软称服务恢复取得令人鼓舞的进展。",
-      "title": "微软称服务恢复取得令人鼓舞的进展",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931050495.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.MSFT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "738f22ee724366ff",
-    "code": "202611133931050568",
-    "title": "美联储官员柯林斯表示：数据显示通胀过高 且范围正在扩大",
-    "summary": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
-    "content": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
-    "full_content": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
-    "sort_time": "1794584728050568",
-    "showTime": "2026-11-13 23:45:28",
-    "time": "2026-11-13 23:45:28",
-    "publish_time": "2026-11-13 23:45:28",
-    "raw_data": {
-      "code": "202611133931050568",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1794584728050568",
+      "pinglun_Num": 0,
+      "realSort": "1794603259081740",
       "share": 0,
-      "showTime": "2026-11-13 23:45:28",
+      "showTime": "2026-11-14 04:54:19",
       "stockList": [],
-      "summary": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
-      "title": "美联储官员柯林斯表示：数据显示通胀过高 且范围正在扩大",
+      "summary": "【美元指数13日上涨】美元指数13日上涨。衡量美元对六种主要货币的美元指数当天上涨0.23%，在汇市尾市收于103.412。截至纽约汇市尾市，1欧元兑换1.1023美元，低于前一交易日的1.1056美元；1英镑兑换1.3210美元，低于前一交易日的1.3236美元。",
+      "title": "美元指数13日上涨",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931050568.html",
-    "category": "宏观",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931081740.html",
+    "category": "其他",
     "importance": 5,
-    "sentiment": "neutral",
+    "sentiment": "bullish",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 0,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -564,105 +912,159 @@
     }
   },
   {
-    "id": "b434038f66757395",
-    "code": "202611133931048087",
-    "title": "美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%",
-    "summary": "【美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%】美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台积电跌3.18%。三倍做多半导体ETF-Direxion跌18.99%。",
-    "content": "【美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%】美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台积电跌3.18%。三倍做多半导体ETF-Direxion跌18.99%。",
-    "full_content": "【美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%】美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台积电跌3.18%。三倍做多半导体ETF-Direxion跌18.99%。",
-    "sort_time": "1794584336048087",
-    "showTime": "2026-11-13 23:38:56",
-    "time": "2026-11-13 23:38:56",
-    "publish_time": "2026-11-13 23:38:56",
+    "id": "09bfcd2df2072ba0",
+    "code": "202611143931081176",
+    "title": "伊朗革命卫队海军表示 两艘油轮在试图通过霍尔木兹海峡时触雷 随后发生爆炸并起火",
+    "summary": "伊朗革命卫队海军表示，两艘油轮在试图通过霍尔木兹海峡时触雷，随后发生爆炸并起火。",
+    "content": "伊朗革命卫队海军表示，两艘油轮在试图通过霍尔木兹海峡时触雷，随后发生爆炸并起火。",
+    "full_content": "伊朗革命卫队海军表示，两艘油轮在试图通过霍尔木兹海峡时触雷，随后发生爆炸并起火。",
+    "sort_time": "1794602966081176",
+    "showTime": "2026-11-14 04:49:26",
+    "time": "2026-11-14 04:49:26",
+    "publish_time": "2026-11-14 04:49:26",
     "raw_data": {
-      "code": "202611133931048087",
+      "code": "202611143931081176",
       "image": [],
-      "pinglun_Num": 23,
-      "realSort": "1794584336048087",
-      "share": 30,
-      "showTime": "2026-11-13 23:38:56",
-      "stockList": [
-        "0.159813"
-      ],
-      "summary": "【美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%】美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台积电跌3.18%。三倍做多半导体ETF-Direxion跌18.99%。",
-      "title": "美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931048087.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159813"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 23,
-    "share_count": 30,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "ETF"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101",
-        "I020201"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "ea4d482e7a16b7f4",
-    "code": "202611133931046920",
-    "title": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元",
-    "summary": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元。",
-    "content": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元。",
-    "full_content": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元。",
-    "sort_time": "1794584052046920",
-    "showTime": "2026-11-13 23:34:12",
-    "time": "2026-11-13 23:34:12",
-    "publish_time": "2026-11-13 23:34:12",
-    "raw_data": {
-      "code": "202611133931046920",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794584052046920",
+      "pinglun_Num": 4,
+      "realSort": "1794602966081176",
       "share": 0,
-      "showTime": "2026-11-13 23:34:12",
+      "showTime": "2026-11-14 04:49:26",
       "stockList": [],
-      "summary": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元。",
-      "title": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元",
+      "summary": "伊朗革命卫队海军表示，两艘油轮在试图通过霍尔木兹海峡时触雷，随后发生爆炸并起火。",
+      "title": "伊朗革命卫队海军表示 两艘油轮在试图通过霍尔木兹海峡时触雷 随后发生爆炸并起火",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931046920.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931081176.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "de31c7011d0ae579",
+    "code": "202611143931080516",
+    "title": "桑坦德上调美联储加息预期 料12月和明年3月各加息25个基点",
+    "summary": "【桑坦德上调美联储加息预期 料12月和明年3月各加息25个基点】桑坦德的美国首席经济学家Stephen Stanley上调了对美联储加息的预期，理由是通胀压力加剧。他将对美联储政策的预测调整为12月和明年3月各加息25个基点，此前预计仅12月加息，2027年不会采取行动。",
+    "content": "【桑坦德上调美联储加息预期 料12月和明年3月各加息25个基点】桑坦德的美国首席经济学家Stephen Stanley上调了对美联储加息的预期，理由是通胀压力加剧。他将对美联储政策的预测调整为12月和明年3月各加息25个基点，此前预计仅12月加息，2027年不会采取行动。",
+    "full_content": "【桑坦德上调美联储加息预期 料12月和明年3月各加息25个基点】桑坦德的美国首席经济学家Stephen Stanley上调了对美联储加息的预期，理由是通胀压力加剧。他将对美联储政策的预测调整为12月和明年3月各加息25个基点，此前预计仅12月加息，2027年不会采取行动。",
+    "sort_time": "1794602482080516",
+    "showTime": "2026-11-14 04:41:22",
+    "time": "2026-11-14 04:41:22",
+    "publish_time": "2026-11-14 04:41:22",
+    "raw_data": {
+      "code": "202611143931080516",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794602482080516",
+      "share": 2,
+      "showTime": "2026-11-14 04:41:22",
+      "stockList": [],
+      "summary": "【桑坦德上调美联储加息预期 料12月和明年3月各加息25个基点】桑坦德的美国首席经济学家Stephen Stanley上调了对美联储加息的预期，理由是通胀压力加剧。他将对美联储政策的预测调整为12月和明年3月各加息25个基点，此前预计仅12月加息，2027年不会采取行动。",
+      "title": "桑坦德上调美联储加息预期 料12月和明年3月各加息25个基点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931080516.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3c1ccadcab609ea2",
+    "code": "202611143931079694",
+    "title": "也门胡塞武装表示 其袭击了沙特阿拉伯东西输油管道的泵站",
+    "summary": "也门胡塞武装表示，其袭击了沙特阿拉伯东西输油管道的泵站。",
+    "content": "也门胡塞武装表示，其袭击了沙特阿拉伯东西输油管道的泵站。",
+    "full_content": "也门胡塞武装表示，其袭击了沙特阿拉伯东西输油管道的泵站。",
+    "sort_time": "1794602205079694",
+    "showTime": "2026-11-14 04:36:45",
+    "time": "2026-11-14 04:36:45",
+    "publish_time": "2026-11-14 04:36:45",
+    "raw_data": {
+      "code": "202611143931079694",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794602205079694",
+      "share": 0,
+      "showTime": "2026-11-14 04:36:45",
+      "stockList": [],
+      "summary": "也门胡塞武装表示，其袭击了沙特阿拉伯东西输油管道的泵站。",
+      "title": "也门胡塞武装表示 其袭击了沙特阿拉伯东西输油管道的泵站",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931079694.html",
     "category": "其他",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
     "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "37d45dce82627a56",
+    "code": "202611143931079056",
+    "title": "英伟达第三季获嘉实基金增持 稳居头号重仓股之位",
+    "summary": "【英伟达第三季获嘉实基金增持 稳居头号重仓股之位】嘉实基金的13F申报文件显示，该机构第三季增持英伟达，令该股在其资产中的占比升至7.1%。中概股方面，嘉实基金增持阿里巴巴，清仓贝壳和万国数据。",
+    "content": "【英伟达第三季获嘉实基金增持 稳居头号重仓股之位】嘉实基金的13F申报文件显示，该机构第三季增持英伟达，令该股在其资产中的占比升至7.1%。中概股方面，嘉实基金增持阿里巴巴，清仓贝壳和万国数据。",
+    "full_content": "【英伟达第三季获嘉实基金增持 稳居头号重仓股之位】嘉实基金的13F申报文件显示，该机构第三季增持英伟达，令该股在其资产中的占比升至7.1%。中概股方面，嘉实基金增持阿里巴巴，清仓贝壳和万国数据。",
+    "sort_time": "1794601550079056",
+    "showTime": "2026-11-14 04:25:50",
+    "time": "2026-11-14 04:25:50",
+    "publish_time": "2026-11-14 04:25:50",
+    "raw_data": {
+      "code": "202611143931079056",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1794601550079056",
+      "share": 0,
+      "showTime": "2026-11-14 04:25:50",
+      "stockList": [
+        "105.NVDA",
+        "90.BK1161"
+      ],
+      "summary": "【英伟达第三季获嘉实基金增持 稳居头号重仓股之位】嘉实基金的13F申报文件显示，该机构第三季增持英伟达，令该股在其资产中的占比升至7.1%。中概股方面，嘉实基金增持阿里巴巴，清仓贝壳和万国数据。",
+      "title": "英伟达第三季获嘉实基金增持 稳居头号重仓股之位",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931079056.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.NVDA",
+      "90.BK1161"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
     "share_count": 0,
     "tags": {
       "industries": [
@@ -682,176 +1084,41 @@
     }
   },
   {
-    "id": "3f117906fa62118f",
-    "code": "202611133931046320",
-    "title": "美国至上周EIA天然气库存增加610亿立方英尺",
-    "summary": "【美国至上周EIA天然气库存增加610亿立方英尺】美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
-    "content": "【美国至上周EIA天然气库存增加610亿立方英尺】美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
-    "full_content": "【美国至上周EIA天然气库存增加610亿立方英尺】美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
-    "sort_time": "1794583846046320",
-    "showTime": "2026-11-13 23:30:46",
-    "time": "2026-11-13 23:30:46",
-    "publish_time": "2026-11-13 23:30:46",
+    "id": "74d7a08377c0470f",
+    "code": "202611143931078035",
+    "title": "微软表示 目前尚无法给出全面恢复的时间安排",
+    "summary": "微软表示，目前尚无法给出全面恢复的时间安排。",
+    "content": "微软表示，目前尚无法给出全面恢复的时间安排。",
+    "full_content": "微软表示，目前尚无法给出全面恢复的时间安排。",
+    "sort_time": "1794600393078035",
+    "showTime": "2026-11-14 04:06:33",
+    "time": "2026-11-14 04:06:33",
+    "publish_time": "2026-11-14 04:06:33",
     "raw_data": {
-      "code": "202611133931046320",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794583846046320",
-      "share": 0,
-      "showTime": "2026-11-13 23:30:46",
-      "stockList": [
-        "90.BK1028",
-        "90.BK0427"
-      ],
-      "summary": "【美国至上周EIA天然气库存增加610亿立方英尺】美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
-      "title": "美国至上周EIA天然气库存增加610亿立方英尺",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931046320.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1028",
-      "90.BK0427"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
-    }
-  },
-  {
-    "id": "1b5a6d4cf4ee05c6",
-    "code": "202611133931044913",
-    "title": "纳斯达克综合指数向下跌破25000点 最新报24918.71点",
-    "summary": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
-    "content": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
-    "full_content": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
-    "sort_time": "1794583527044913",
-    "showTime": "2026-11-13 23:25:27",
-    "time": "2026-11-13 23:25:27",
-    "publish_time": "2026-11-13 23:25:27",
-    "raw_data": {
-      "code": "202611133931044913",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1794583527044913",
-      "share": 3,
-      "showTime": "2026-11-13 23:25:27",
-      "stockList": [],
-      "summary": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
-      "title": "纳斯达克综合指数向下跌破25000点 最新报24918.71点",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931044913.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d8c0cdc2675cd5ab",
-    "code": "202611133931044051",
-    "title": "LME伦铜跌幅扩大 现跌1%",
-    "summary": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
-    "content": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
-    "full_content": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
-    "sort_time": "1794583322044051",
-    "showTime": "2026-11-13 23:22:02",
-    "time": "2026-11-13 23:22:02",
-    "publish_time": "2026-11-13 23:22:02",
-    "raw_data": {
-      "code": "202611133931044051",
+      "code": "202611143931078035",
       "image": [],
       "pinglun_Num": 2,
-      "realSort": "1794583322044051",
-      "share": 2,
-      "showTime": "2026-11-13 23:22:02",
-      "stockList": [],
-      "summary": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
-      "title": "LME伦铜跌幅扩大 现跌1%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931044051.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C501",
-          "name": "有色金属",
-          "matched_keyword": "铜"
-        }
+      "realSort": "1794600393078035",
+      "share": 0,
+      "showTime": "2026-11-14 04:06:33",
+      "stockList": [
+        "105.MSFT"
       ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "d6e4754552a3c521",
-    "code": "202611133931041170",
-    "title": "标普500指数跌幅扩大至1.1% 纳斯达克综合指数跌1.62%",
-    "summary": "标普500指数跌幅扩大至1.1%，纳斯达克综合指数跌1.62%。",
-    "content": "标普500指数跌幅扩大至1.1%，纳斯达克综合指数跌1.62%。",
-    "full_content": "标普500指数跌幅扩大至1.1%，纳斯达克综合指数跌1.62%。",
-    "sort_time": "1794582928041170",
-    "showTime": "2026-11-13 23:15:28",
-    "time": "2026-11-13 23:15:28",
-    "publish_time": "2026-11-13 23:15:28",
-    "raw_data": {
-      "code": "202611133931041170",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1794582928041170",
-      "share": 2,
-      "showTime": "2026-11-13 23:15:28",
-      "stockList": [],
-      "summary": "标普500指数跌幅扩大至1.1%，纳斯达克综合指数跌1.62%。",
-      "title": "标普500指数跌幅扩大至1.1% 纳斯达克综合指数跌1.62%",
+      "summary": "微软表示，目前尚无法给出全面恢复的时间安排。",
+      "title": "微软表示 目前尚无法给出全面恢复的时间安排",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931041170.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931078035.html",
     "category": "其他",
-    "importance": 5,
+    "importance": 6,
     "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 2,
+    "related_stocks": [
+      "105.MSFT"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -860,437 +1127,383 @@
     }
   },
   {
-    "id": "5e3b386e89931549",
-    "code": "202611133931040925",
-    "title": "英伟达股价跌幅扩大至3.3%",
-    "summary": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
-    "content": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
-    "full_content": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
-    "sort_time": "1794582722040925",
-    "showTime": "2026-11-13 23:12:02",
-    "time": "2026-11-13 23:12:02",
-    "publish_time": "2026-11-13 23:12:02",
+    "id": "dac1415f37c4f3eb",
+    "code": "202611143931077919",
+    "title": "美联储公布了11月至12月的短期国债购买计划",
+    "summary": "美联储公布了11月至12月的短期国债购买计划，将准备金管理购买的暂停期延长至12月中旬；同时，美联储将购买140亿美元的短期国债，用于抵押贷款支持证券（MBS）的再投资。",
+    "content": "美联储公布了11月至12月的短期国债购买计划，将准备金管理购买的暂停期延长至12月中旬；同时，美联储将购买140亿美元的短期国债，用于抵押贷款支持证券（MBS）的再投资。",
+    "full_content": "美联储公布了11月至12月的短期国债购买计划，将准备金管理购买的暂停期延长至12月中旬；同时，美联储将购买140亿美元的短期国债，用于抵押贷款支持证券（MBS）的再投资。",
+    "sort_time": "1794600342077919",
+    "showTime": "2026-11-14 04:05:42",
+    "time": "2026-11-14 04:05:42",
+    "publish_time": "2026-11-14 04:05:42",
     "raw_data": {
-      "code": "202611133931040925",
+      "code": "202611143931077919",
       "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1794582722040925",
-      "share": 6,
-      "showTime": "2026-11-13 23:12:02",
-      "stockList": [
-        "105.NVDA",
-        "90.BK1161"
-      ],
-      "summary": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
-      "title": "英伟达股价跌幅扩大至3.3%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931040925.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "bearish",
-    "related_stocks": [
-      "105.NVDA",
-      "90.BK1161"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 6,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "76eeb182aed6df92",
-    "code": "202611133931037285",
-    "title": "OpenAI推出ChatGPT Wallet 支持智能体代理支付",
-    "summary": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满18岁，并通过生物识别验证批准交易。",
-    "content": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满18岁，并通过生物识别验证批准交易。",
-    "full_content": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满18岁，并通过生物识别验证批准交易。",
-    "sort_time": "1794582514037285",
-    "showTime": "2026-11-13 23:08:34",
-    "time": "2026-11-13 23:08:34",
-    "publish_time": "2026-11-13 23:08:34",
-    "raw_data": {
-      "code": "202611133931037285",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1794582514037285",
+      "pinglun_Num": 0,
+      "realSort": "1794600342077919",
       "share": 0,
-      "showTime": "2026-11-13 23:08:34",
+      "showTime": "2026-11-14 04:05:42",
       "stockList": [
-        "90.BK1126",
-        "0.161121"
+        "0.161027",
+        "150.161027"
       ],
-      "summary": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满18岁，并通过生物识别验证批准交易。",
-      "title": "OpenAI推出ChatGPT Wallet 支持智能体代理支付",
+      "summary": "美联储公布了11月至12月的短期国债购买计划，将准备金管理购买的暂停期延长至12月中旬；同时，美联储将购买140亿美元的短期国债，用于抵押贷款支持证券（MBS）的再投资。",
+      "title": "美联储公布了11月至12月的短期国债购买计划",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931037285.html",
-    "category": "科技",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931077919.html",
+    "category": "债券",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK1126",
-      "0.161121"
+      "0.161027",
+      "150.161027"
     ],
     "has_stock_mention": true,
-    "comment_count": 7,
+    "comment_count": 0,
     "share_count": 0,
     "tags": {
       "industries": [
         {
-          "id": "I020101",
-          "name": "银行",
+          "id": "I020102",
+          "name": "证券",
           "level1": "金融业",
           "level2": "货币金融服务",
-          "matched_keyword": "银行"
+          "matched_keyword": "证券"
         }
       ],
       "concepts": [
         {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "ChatGPT"
-        },
-        {
-          "id": "C402",
-          "name": "银行",
-          "matched_keyword": "银行"
-        },
-        {
-          "id": "C601",
-          "name": "白酒",
-          "matched_keyword": "酒"
-        },
-        {
-          "id": "C604",
-          "name": "旅游",
-          "matched_keyword": "酒店"
+          "id": "C401",
+          "name": "券商",
+          "matched_keyword": "证券"
         }
       ],
       "industry_ids": [
-        "I020101"
+        "I020102"
       ],
       "concept_ids": [
-        "C001",
-        "C402",
-        "C601",
-        "C604"
+        "C401"
       ]
     }
   },
   {
-    "id": "a3657379c819fe85",
-    "code": "202611133931034640",
-    "title": "美股半导体板块集体走低 费城半导体指数跌4.3%",
-    "summary": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体ETF-Direxion跌13.63%。",
-    "content": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体ETF-Direxion跌13.63%。",
-    "full_content": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体ETF-Direxion跌13.63%。",
-    "sort_time": "1794582345034640",
-    "showTime": "2026-11-13 23:05:45",
-    "time": "2026-11-13 23:05:45",
-    "publish_time": "2026-11-13 23:05:45",
+    "id": "93fa01fe7a5afe00",
+    "code": "202611143931077472",
+    "title": "也门胡塞武装：沙特主导的联军对也门发动85次袭击",
+    "summary": "【也门胡塞武装：沙特主导的联军对也门发动85次袭击】当地时间13日晚，也门胡塞武装发布声明称。过去24小时内，沙特主导的联军对也门拉赫季省、塔伊兹省、萨达省、焦夫省、马里卜省和阿姆兰省发动了85次空袭和导弹袭击。",
+    "content": "【也门胡塞武装：沙特主导的联军对也门发动85次袭击】当地时间13日晚，也门胡塞武装发布声明称。过去24小时内，沙特主导的联军对也门拉赫季省、塔伊兹省、萨达省、焦夫省、马里卜省和阿姆兰省发动了85次空袭和导弹袭击。",
+    "full_content": "【也门胡塞武装：沙特主导的联军对也门发动85次袭击】当地时间13日晚，也门胡塞武装发布声明称。过去24小时内，沙特主导的联军对也门拉赫季省、塔伊兹省、萨达省、焦夫省、马里卜省和阿姆兰省发动了85次空袭和导弹袭击。",
+    "sort_time": "1794600221077472",
+    "showTime": "2026-11-14 04:03:41",
+    "time": "2026-11-14 04:03:41",
+    "publish_time": "2026-11-14 04:03:41",
     "raw_data": {
-      "code": "202611133931034640",
+      "code": "202611143931077472",
       "image": [],
-      "pinglun_Num": 16,
-      "realSort": "1794582345034640",
-      "share": 12,
-      "showTime": "2026-11-13 23:05:45",
-      "stockList": [
-        "90.BK1036",
-        "90.BK0459"
-      ],
-      "summary": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体ETF-Direxion跌13.63%。",
-      "title": "美股半导体板块集体走低 费城半导体指数跌4.3%",
+      "pinglun_Num": 0,
+      "realSort": "1794600221077472",
+      "share": 0,
+      "showTime": "2026-11-14 04:03:41",
+      "stockList": [],
+      "summary": "【也门胡塞武装：沙特主导的联军对也门发动85次袭击】当地时间13日晚，也门胡塞武装发布声明称。过去24小时内，沙特主导的联军对也门拉赫季省、塔伊兹省、萨达省、焦夫省、马里卜省和阿姆兰省发动了85次空袭和导弹袭击。",
+      "title": "也门胡塞武装：沙特主导的联军对也门发动85次袭击",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931034640.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "bearish",
-    "related_stocks": [
-      "90.BK1036",
-      "90.BK0459"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 16,
-    "share_count": 12,
+    "url": "https://kuaixun.eastmoney.com/news/202611143931077472.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
     "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        },
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "ETF"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101",
-        "I020201"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
     }
   },
   {
-    "id": "fc4a6d39273ec7c4",
-    "code": "202611133931031512",
-    "title": "Anthropic称：Claude.AI和Claude API正在恢复",
-    "summary": "【Anthropic称：Claude.AI和Claude API正在恢复】Anthropic称，Claude.AI和Claude API正在恢复；在继续处理相关问题的过程中，错误可能会再次出现。",
-    "content": "【Anthropic称：Claude.AI和Claude API正在恢复】Anthropic称，Claude.AI和Claude API正在恢复；在继续处理相关问题的过程中，错误可能会再次出现。",
-    "full_content": "【Anthropic称：Claude.AI和Claude API正在恢复】Anthropic称，Claude.AI和Claude API正在恢复；在继续处理相关问题的过程中，错误可能会再次出现。",
-    "sort_time": "1794581915031512",
-    "showTime": "2026-11-13 22:58:35",
-    "time": "2026-11-13 22:58:35",
-    "publish_time": "2026-11-13 22:58:35",
+    "id": "440da04f20743100",
+    "code": "202611143931077315",
+    "title": "以军总参谋长主张暂缓对伊朗动武 多名以高官反对",
+    "summary": "【以军总参谋长主张暂缓对伊朗动武 多名以高官反对】当地时间13日，据以色列方面消息，在是否立即重启对伊朗军事行动的问题上，以军总参谋长扎米尔立场孤立，遭到以色列总理内塔尼亚胡及多名由其任命的高级安全官员反对。",
+    "content": "【以军总参谋长主张暂缓对伊朗动武 多名以高官反对】当地时间13日，据以色列方面消息，在是否立即重启对伊朗军事行动的问题上，以军总参谋长扎米尔立场孤立，遭到以色列总理内塔尼亚胡及多名由其任命的高级安全官员反对。",
+    "full_content": "【以军总参谋长主张暂缓对伊朗动武 多名以高官反对】当地时间13日，据以色列方面消息，在是否立即重启对伊朗军事行动的问题上，以军总参谋长扎米尔立场孤立，遭到以色列总理内塔尼亚胡及多名由其任命的高级安全官员反对。",
+    "sort_time": "1794600151077315",
+    "showTime": "2026-11-14 04:02:31",
+    "time": "2026-11-14 04:02:31",
+    "publish_time": "2026-11-14 04:02:31",
     "raw_data": {
-      "code": "202611133931031512",
+      "code": "202611143931077315",
       "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794581915031512",
-      "share": 2,
-      "showTime": "2026-11-13 22:58:35",
-      "stockList": [
-        "105.ANT",
-        "90.BK0800"
-      ],
-      "summary": "【Anthropic称：Claude.AI和Claude API正在恢复】Anthropic称，Claude.AI和Claude API正在恢复；在继续处理相关问题的过程中，错误可能会再次出现。",
-      "title": "Anthropic称：Claude.AI和Claude API正在恢复",
+      "pinglun_Num": 0,
+      "realSort": "1794600151077315",
+      "share": 0,
+      "showTime": "2026-11-14 04:02:31",
+      "stockList": [],
+      "summary": "【以军总参谋长主张暂缓对伊朗动武 多名以高官反对】当地时间13日，据以色列方面消息，在是否立即重启对伊朗军事行动的问题上，以军总参谋长扎米尔立场孤立，遭到以色列总理内塔尼亚胡及多名由其任命的高级安全官员反对。",
+      "title": "以军总参谋长主张暂缓对伊朗动武 多名以高官反对",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931031512.html",
-    "category": "科技",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931077315.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "770b65f41b072512",
+    "code": "202611143931077235",
+    "title": "英国海事机构：美伊冲突相关海上安全事件增至163起",
+    "summary": "【英国海事机构：美伊冲突相关海上安全事件增至163起】当地时间11月13日，英国海上贸易行动办公室（UKMTO）发布最新一期海上安全周报称，今年以来，其监测区域内与伊朗和美国冲突相关的海上安全事件累计达163起，较11月6日公布的数据增加8起。",
+    "content": "【英国海事机构：美伊冲突相关海上安全事件增至163起】当地时间11月13日，英国海上贸易行动办公室（UKMTO）发布最新一期海上安全周报称，今年以来，其监测区域内与伊朗和美国冲突相关的海上安全事件累计达163起，较11月6日公布的数据增加8起。",
+    "full_content": "【英国海事机构：美伊冲突相关海上安全事件增至163起】当地时间11月13日，英国海上贸易行动办公室（UKMTO）发布最新一期海上安全周报称，今年以来，其监测区域内与伊朗和美国冲突相关的海上安全事件累计达163起，较11月6日公布的数据增加8起。",
+    "sort_time": "1794599819077235",
+    "showTime": "2026-11-14 03:56:59",
+    "time": "2026-11-14 03:56:59",
+    "publish_time": "2026-11-14 03:56:59",
+    "raw_data": {
+      "code": "202611143931077235",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794599819077235",
+      "share": 0,
+      "showTime": "2026-11-14 03:56:59",
+      "stockList": [],
+      "summary": "【英国海事机构：美伊冲突相关海上安全事件增至163起】当地时间11月13日，英国海上贸易行动办公室（UKMTO）发布最新一期海上安全周报称，今年以来，其监测区域内与伊朗和美国冲突相关的海上安全事件累计达163起，较11月6日公布的数据增加8起。",
+      "title": "英国海事机构：美伊冲突相关海上安全事件增至163起",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931077235.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "34db4bf130b1d723",
+    "code": "202611143931077175",
+    "title": "Meta据悉正在员工内部测试一款新的预测市场应用",
+    "summary": "Meta据悉正在员工内部测试一款新的预测市场应用。",
+    "content": "Meta据悉正在员工内部测试一款新的预测市场应用。",
+    "full_content": "Meta据悉正在员工内部测试一款新的预测市场应用。",
+    "sort_time": "1794599545077175",
+    "showTime": "2026-11-14 03:52:25",
+    "time": "2026-11-14 03:52:25",
+    "publish_time": "2026-11-14 03:52:25",
+    "raw_data": {
+      "code": "202611143931077175",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794599545077175",
+      "share": 0,
+      "showTime": "2026-11-14 03:52:25",
+      "stockList": [
+        "105.META"
+      ],
+      "summary": "Meta据悉正在员工内部测试一款新的预测市场应用。",
+      "title": "Meta据悉正在员工内部测试一款新的预测市场应用",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931077175.html",
+    "category": "其他",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "105.ANT",
-      "90.BK0800"
+      "105.META"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "16df93953cb3d7e2",
+    "code": "202611143931077050",
+    "title": "哈塞特称有关他将离开白宫的报道“不属实”",
+    "summary": "哈塞特称有关他将离开白宫的报道“不属实”。",
+    "content": "哈塞特称有关他将离开白宫的报道“不属实”。",
+    "full_content": "哈塞特称有关他将离开白宫的报道“不属实”。",
+    "sort_time": "1794599269077050",
+    "showTime": "2026-11-14 03:47:49",
+    "time": "2026-11-14 03:47:49",
+    "publish_time": "2026-11-14 03:47:49",
+    "raw_data": {
+      "code": "202611143931077050",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794599269077050",
+      "share": 0,
+      "showTime": "2026-11-14 03:47:49",
+      "stockList": [],
+      "summary": "哈塞特称有关他将离开白宫的报道“不属实”。",
+      "title": "哈塞特称有关他将离开白宫的报道“不属实”",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931077050.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "9ec2d9bfd6549fe1",
+    "code": "202611143931076927",
+    "title": "英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%",
+    "summary": "【英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%】英仕曼集团的Matthew Rowe表示，他越来越担心美国经济陷入滞胀，并认为这一风险可能推动10年期美国国债收益率在明年初升至5.5%。管理着2,710亿美元资产的英仕曼集团的高级投资组合经理兼解决方案部门董事总经理Rowe表示，随着美联储将利率推高至足以引发温和衰退的水平，各期限债券收益率可能继续上升。",
+    "content": "【英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%】英仕曼集团的Matthew Rowe表示，他越来越担心美国经济陷入滞胀，并认为这一风险可能推动10年期美国国债收益率在明年初升至5.5%。管理着2,710亿美元资产的英仕曼集团的高级投资组合经理兼解决方案部门董事总经理Rowe表示，随着美联储将利率推高至足以引发温和衰退的水平，各期限债券收益率可能继续上升。",
+    "full_content": "【英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%】英仕曼集团的Matthew Rowe表示，他越来越担心美国经济陷入滞胀，并认为这一风险可能推动10年期美国国债收益率在明年初升至5.5%。管理着2,710亿美元资产的英仕曼集团的高级投资组合经理兼解决方案部门董事总经理Rowe表示，随着美联储将利率推高至足以引发温和衰退的水平，各期限债券收益率可能继续上升。",
+    "sort_time": "1794599164076927",
+    "showTime": "2026-11-14 03:46:04",
+    "time": "2026-11-14 03:46:04",
+    "publish_time": "2026-11-14 03:46:04",
+    "raw_data": {
+      "code": "202611143931076927",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794599164076927",
+      "share": 2,
+      "showTime": "2026-11-14 03:46:04",
+      "stockList": [],
+      "summary": "【英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%】英仕曼集团的Matthew Rowe表示，他越来越担心美国经济陷入滞胀，并认为这一风险可能推动10年期美国国债收益率在明年初升至5.5%。管理着2,710亿美元资产的英仕曼集团的高级投资组合经理兼解决方案部门董事总经理Rowe表示，随着美联储将利率推高至足以引发温和衰退的水平，各期限债券收益率可能继续上升。",
+      "title": "英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931076927.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
     "share_count": 2,
     "tags": {
       "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        }
-      ],
+      "concepts": [],
       "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
+      "concept_ids": []
     }
   },
   {
-    "id": "4ffecdfb5e7d1b31",
-    "code": "202611133931025977",
-    "title": "费城半导体指数跌逾3% 成分股AMD跌逾6%",
-    "summary": "【费城半导体指数跌逾3% 成分股AMD跌逾6%】11月13日，费城半导体指数跌逾3%，成分股AMD跌逾6%，Coherent、博通、迈威尔科技跌约5%，英特尔跌逾3%，英伟达跌逾2%。",
-    "content": "【费城半导体指数跌逾3% 成分股AMD跌逾6%】11月13日，费城半导体指数跌逾3%，成分股AMD跌逾6%，Coherent、博通、迈威尔科技跌约5%，英特尔跌逾3%，英伟达跌逾2%。",
-    "full_content": "【费城半导体指数跌逾3% 成分股AMD跌逾6%】11月13日，费城半导体指数跌逾3%，成分股AMD跌逾6%，Coherent、博通、迈威尔科技跌约5%，英特尔跌逾3%，英伟达跌逾2%。",
-    "sort_time": "1794581612025977",
-    "showTime": "2026-11-13 22:53:32",
-    "time": "2026-11-13 22:53:32",
-    "publish_time": "2026-11-13 22:53:32",
+    "id": "d569975c0d4081f3",
+    "code": "202611143931076820",
+    "title": "阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理",
+    "summary": "【阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理】当地时间11月13日，圣普总统卡洛斯·诺瓦签署总统令，任命阿梅里科·拉莫斯为新一届政府总理。这是拉莫斯继2025年1月首次出任总理后再次获任该职。拉莫斯来自民主独立行动党（ADI）。",
+    "content": "【阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理】当地时间11月13日，圣普总统卡洛斯·诺瓦签署总统令，任命阿梅里科·拉莫斯为新一届政府总理。这是拉莫斯继2025年1月首次出任总理后再次获任该职。拉莫斯来自民主独立行动党（ADI）。",
+    "full_content": "【阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理】当地时间11月13日，圣普总统卡洛斯·诺瓦签署总统令，任命阿梅里科·拉莫斯为新一届政府总理。这是拉莫斯继2025年1月首次出任总理后再次获任该职。拉莫斯来自民主独立行动党（ADI）。",
+    "sort_time": "1794598453076820",
+    "showTime": "2026-11-14 03:34:13",
+    "time": "2026-11-14 03:34:13",
+    "publish_time": "2026-11-14 03:34:13",
     "raw_data": {
-      "code": "202611133931025977",
+      "code": "202611143931076820",
       "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1794581612025977",
-      "share": 4,
-      "showTime": "2026-11-13 22:53:32",
-      "stockList": [
-        "90.BK1036",
-        "90.BK0459"
-      ],
-      "summary": "【费城半导体指数跌逾3% 成分股AMD跌逾6%】11月13日，费城半导体指数跌逾3%，成分股AMD跌逾6%，Coherent、博通、迈威尔科技跌约5%，英特尔跌逾3%，英伟达跌逾2%。",
-      "title": "费城半导体指数跌逾3% 成分股AMD跌逾6%",
+      "pinglun_Num": 0,
+      "realSort": "1794598453076820",
+      "share": 0,
+      "showTime": "2026-11-14 03:34:13",
+      "stockList": [],
+      "summary": "【阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理】当地时间11月13日，圣普总统卡洛斯·诺瓦签署总统令，任命阿梅里科·拉莫斯为新一届政府总理。这是拉莫斯继2025年1月首次出任总理后再次获任该职。拉莫斯来自民主独立行动党（ADI）。",
+      "title": "阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931025977.html",
-    "category": "科技",
-    "importance": 6,
+    "url": "https://kuaixun.eastmoney.com/news/202611143931076820.html",
+    "category": "其他",
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1036",
-      "90.BK0459"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 4,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
     "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
     }
   },
   {
-    "id": "4a228cad6bb88d83",
-    "code": "202611133931024367",
-    "title": "费城半导体指数跌幅扩大至2%，AMD跌超5%",
-    "summary": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
-    "content": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
-    "full_content": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
-    "sort_time": "1794581196024367",
-    "showTime": "2026-11-13 22:46:36",
-    "time": "2026-11-13 22:46:36",
-    "publish_time": "2026-11-13 22:46:36",
+    "id": "87412b9f698b9c7d",
+    "code": "202611143931076747",
+    "title": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司",
+    "summary": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司。",
+    "content": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司。",
+    "full_content": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司。",
+    "sort_time": "1794598066076747",
+    "showTime": "2026-11-14 03:27:46",
+    "time": "2026-11-14 03:27:46",
+    "publish_time": "2026-11-14 03:27:46",
     "raw_data": {
-      "code": "202611133931024367",
+      "code": "202611143931076747",
       "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1794581196024367",
-      "share": 2,
-      "showTime": "2026-11-13 22:46:36",
-      "stockList": [
-        "105.AMD",
-        "90.BK1036"
-      ],
-      "summary": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
-      "title": "费城半导体指数跌幅扩大至2%，AMD跌超5%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931024367.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "bearish",
-    "related_stocks": [
-      "105.AMD",
-      "90.BK1036"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 2,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "f76201bf7360dc0f",
-    "code": "202611133931018279",
-    "title": "英伟达股价跌幅扩大至2%",
-    "summary": "英伟达股价跌幅扩大至2%，报162.935美元/股，总市值报3.93万亿美元。英伟达盘初一度曾上涨1.6%。",
-    "content": "英伟达股价跌幅扩大至2%，报162.935美元/股，总市值报3.93万亿美元。英伟达盘初一度曾上涨1.6%。",
-    "full_content": "英伟达股价跌幅扩大至2%，报162.935美元/股，总市值报3.93万亿美元。英伟达盘初一度曾上涨1.6%。",
-    "sort_time": "1794580952018279",
-    "showTime": "2026-11-13 22:42:32",
-    "time": "2026-11-13 22:42:32",
-    "publish_time": "2026-11-13 22:42:32",
-    "raw_data": {
-      "code": "202611133931018279",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1794580952018279",
-      "share": 3,
-      "showTime": "2026-11-13 22:42:32",
+      "pinglun_Num": 0,
+      "realSort": "1794598066076747",
+      "share": 0,
+      "showTime": "2026-11-14 03:27:46",
       "stockList": [
         "105.NVDA",
         "90.BK1161"
       ],
-      "summary": "英伟达股价跌幅扩大至2%，报162.935美元/股，总市值报3.93万亿美元。英伟达盘初一度曾上涨1.6%。",
-      "title": "英伟达股价跌幅扩大至2%",
+      "summary": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司。",
+      "title": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931018279.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931076747.html",
     "category": "其他",
     "importance": 6,
-    "sentiment": "bullish",
+    "sentiment": "neutral",
     "related_stocks": [
       "105.NVDA",
       "90.BK1161"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
-    "share_count": 3,
+    "comment_count": 0,
+    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1299,37 +1512,37 @@
     }
   },
   {
-    "id": "ce00adcc21a0ad29",
-    "code": "202611133931016361",
-    "title": "英伟达高开低走 迅速跌超1%",
-    "summary": "英伟达高开低走，迅速跌超1%，盘初一度曾上涨1.6%。",
-    "content": "英伟达高开低走，迅速跌超1%，盘初一度曾上涨1.6%。",
-    "full_content": "英伟达高开低走，迅速跌超1%，盘初一度曾上涨1.6%。",
-    "sort_time": "1794580625016361",
-    "showTime": "2026-11-13 22:37:05",
-    "time": "2026-11-13 22:37:05",
-    "publish_time": "2026-11-13 22:37:05",
+    "id": "02afc303f64d7e74",
+    "code": "202611143931076437",
+    "title": "美国白宫经济顾问哈塞特据悉预计将离开白宫 贝森特或Zervos可能接任",
+    "summary": "美国白宫经济顾问哈塞特据悉预计将离开白宫，贝森特或Zervos可能接任。哈塞特预计将在未来几周内离职。",
+    "content": "美国白宫经济顾问哈塞特据悉预计将离开白宫，贝森特或Zervos可能接任。哈塞特预计将在未来几周内离职。",
+    "full_content": "美国白宫经济顾问哈塞特据悉预计将离开白宫，贝森特或Zervos可能接任。哈塞特预计将在未来几周内离职。",
+    "sort_time": "1794597241076437",
+    "showTime": "2026-11-14 03:14:01",
+    "time": "2026-11-14 03:14:01",
+    "publish_time": "2026-11-14 03:14:01",
     "raw_data": {
-      "code": "202611133931016361",
+      "code": "202611143931076437",
       "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1794580625016361",
-      "share": 2,
-      "showTime": "2026-11-13 22:37:05",
+      "pinglun_Num": 0,
+      "realSort": "1794597241076437",
+      "share": 1,
+      "showTime": "2026-11-14 03:14:01",
       "stockList": [],
-      "summary": "英伟达高开低走，迅速跌超1%，盘初一度曾上涨1.6%。",
-      "title": "英伟达高开低走 迅速跌超1%",
+      "summary": "美国白宫经济顾问哈塞特据悉预计将离开白宫，贝森特或Zervos可能接任。哈塞特预计将在未来几周内离职。",
+      "title": "美国白宫经济顾问哈塞特据悉预计将离开白宫 贝森特或Zervos可能接任",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931016361.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931076437.html",
     "category": "其他",
     "importance": 5,
-    "sentiment": "bullish",
+    "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 2,
+    "comment_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1338,205 +1551,42 @@
     }
   },
   {
-    "id": "d077564b399625bf",
-    "code": "202611133931010148",
-    "title": "苹果股价升至360美元/股 再次续刷记录新高",
-    "summary": "【苹果股价升至360美元/股 再次续刷记录新高】苹果股价上涨1.44%，报360.005美元/股，续刷记录新高，总市值报5.23万亿美元。",
-    "content": "【苹果股价升至360美元/股 再次续刷记录新高】苹果股价上涨1.44%，报360.005美元/股，续刷记录新高，总市值报5.23万亿美元。",
-    "full_content": "【苹果股价升至360美元/股 再次续刷记录新高】苹果股价上涨1.44%，报360.005美元/股，续刷记录新高，总市值报5.23万亿美元。",
-    "sort_time": "1794580454010148",
-    "showTime": "2026-11-13 22:34:14",
-    "time": "2026-11-13 22:34:14",
-    "publish_time": "2026-11-13 22:34:14",
+    "id": "79469d3e2e1bd2fb",
+    "code": "202611143931076073",
+    "title": "美国议员就宕机事件向微软索要信息",
+    "summary": "美国议员就宕机事件向微软索要信息。",
+    "content": "美国议员就宕机事件向微软索要信息。",
+    "full_content": "美国议员就宕机事件向微软索要信息。",
+    "sort_time": "1794596367076073",
+    "showTime": "2026-11-14 02:59:27",
+    "time": "2026-11-14 02:59:27",
+    "publish_time": "2026-11-14 02:59:27",
     "raw_data": {
-      "code": "202611133931010148",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1794580454010148",
-      "share": 7,
-      "showTime": "2026-11-13 22:34:14",
-      "stockList": [
-        "105.AAPL"
-      ],
-      "summary": "【苹果股价升至360美元/股 再次续刷记录新高】苹果股价上涨1.44%，报360.005美元/股，续刷记录新高，总市值报5.23万亿美元。",
-      "title": "苹果股价升至360美元/股 再次续刷记录新高",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931010148.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "105.AAPL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 7,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "9cbaa49da892a944",
-    "code": "202611133931010458",
-    "title": "AI芯片公司Cerebras大涨超18%",
-    "summary": "【AI芯片公司Cerebras大涨超18%】AI芯片公司Cerebras大涨超18%，第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。",
-    "content": "【AI芯片公司Cerebras大涨超18%】AI芯片公司Cerebras大涨超18%，第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。",
-    "full_content": "【AI芯片公司Cerebras大涨超18%】AI芯片公司Cerebras大涨超18%，第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。",
-    "sort_time": "1794580397010458",
-    "showTime": "2026-11-13 22:33:17",
-    "time": "2026-11-13 22:33:17",
-    "publish_time": "2026-11-13 22:33:17",
-    "raw_data": {
-      "code": "202611133931010458",
+      "code": "202611143931076073",
       "image": [],
       "pinglun_Num": 1,
-      "realSort": "1794580397010458",
+      "realSort": "1794596367076073",
       "share": 0,
-      "showTime": "2026-11-13 22:33:17",
-      "stockList": [],
-      "summary": "【AI芯片公司Cerebras大涨超18%】AI芯片公司Cerebras大涨超18%，第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。",
-      "title": "AI芯片公司Cerebras大涨超18%",
+      "showTime": "2026-11-14 02:59:27",
+      "stockList": [
+        "105.MSFT"
+      ],
+      "summary": "美国议员就宕机事件向微软索要信息。",
+      "title": "美国议员就宕机事件向微软索要信息",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931010458.html",
-    "category": "公司",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
+    "url": "https://kuaixun.eastmoney.com/news/202611143931076073.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MSFT"
+    ],
+    "has_stock_mention": true,
     "comment_count": 1,
     "share_count": 0,
     "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C001",
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "253f5df0de58d0a1",
-    "code": "202611133931007134",
-    "title": "美股三大股指小幅高开 英伟达反弹1.6%",
-    "summary": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2.33%，Meta股价上涨0.42%。",
-    "content": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2.33%，Meta股价上涨0.42%。",
-    "full_content": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2.33%，Meta股价上涨0.42%。",
-    "sort_time": "1794580265007134",
-    "showTime": "2026-11-13 22:31:05",
-    "time": "2026-11-13 22:31:05",
-    "publish_time": "2026-11-13 22:31:05",
-    "raw_data": {
-      "code": "202611133931007134",
-      "image": [],
-      "pinglun_Num": 8,
-      "realSort": "1794580265007134",
-      "share": 1,
-      "showTime": "2026-11-13 22:31:05",
-      "stockList": [],
-      "summary": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2.33%，Meta股价上涨0.42%。",
-      "title": "美股三大股指小幅高开 英伟达反弹1.6%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931007134.html",
-    "category": "股市",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 8,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C807",
-          "name": "苹果概念",
-          "matched_keyword": "苹果"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C807"
-      ]
-    }
-  },
-  {
-    "id": "084a5aa2da2073c2",
-    "code": "202611133931004768",
-    "title": "广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同",
-    "summary": "【广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同】据广电运通消息，11月13日，广电运通成员企业运通国际与孟加拉国合作伙伴Zara Zaman Technology Ltd.签署金额超1200万美元的采购合同。",
-    "content": "【广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同】据广电运通消息，11月13日，广电运通成员企业运通国际与孟加拉国合作伙伴Zara Zaman Technology Ltd.签署金额超1200万美元的采购合同。",
-    "full_content": "【广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同】据广电运通消息，11月13日，广电运通成员企业运通国际与孟加拉国合作伙伴Zara Zaman Technology Ltd.签署金额超1200万美元的采购合同。",
-    "sort_time": "1794579960004768",
-    "showTime": "2026-11-13 22:26:00",
-    "time": "2026-11-13 22:26:00",
-    "publish_time": "2026-11-13 22:26:00",
-    "raw_data": {
-      "code": "202611133931004768",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794579960004768",
-      "share": 1,
-      "showTime": "2026-11-13 22:26:00",
-      "stockList": [
-        "0.002152",
-        "1007.BK000199"
-      ],
-      "summary": "【广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同】据广电运通消息，11月13日，广电运通成员企业运通国际与孟加拉国合作伙伴Zara Zaman Technology Ltd.签署金额超1200万美元的采购合同。",
-      "title": "广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931004768.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.002152",
-      "1007.BK000199"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 1,
-    "tags": {
       "industries": [],
       "concepts": [],
       "industry_ids": [],
@@ -1544,36 +1594,36 @@
     }
   },
   {
-    "id": "cb138641bd2d6b19",
-    "code": "202611133931002716",
-    "title": "DeepSeek发布全家桶应用API",
-    "summary": "【DeepSeek发布全家桶应用API】11月13日，DeepSeek正式开放全家桶应用API。在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用。",
-    "content": "【DeepSeek发布全家桶应用API】11月13日，DeepSeek正式开放全家桶应用API。在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用。",
-    "full_content": "【DeepSeek发布全家桶应用API】11月13日，DeepSeek正式开放全家桶应用API。在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用。",
-    "sort_time": "1794579878002716",
-    "showTime": "2026-11-13 22:24:38",
-    "time": "2026-11-13 22:24:38",
-    "publish_time": "2026-11-13 22:24:38",
+    "id": "523efccd2ef2d534",
+    "code": "202611143931075942",
+    "title": "高盛将巴西股票评级下调至中性",
+    "summary": "高盛将巴西股票评级下调至中性。",
+    "content": "高盛将巴西股票评级下调至中性。",
+    "full_content": "高盛将巴西股票评级下调至中性。",
+    "sort_time": "1794595587075942",
+    "showTime": "2026-11-14 02:46:27",
+    "time": "2026-11-14 02:46:27",
+    "publish_time": "2026-11-14 02:46:27",
     "raw_data": {
-      "code": "202611133931002716",
+      "code": "202611143931075942",
       "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1794579878002716",
+      "pinglun_Num": 0,
+      "realSort": "1794595587075942",
       "share": 1,
-      "showTime": "2026-11-13 22:24:38",
+      "showTime": "2026-11-14 02:46:27",
       "stockList": [],
-      "summary": "【DeepSeek发布全家桶应用API】11月13日，DeepSeek正式开放全家桶应用API。在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用。",
-      "title": "DeepSeek发布全家桶应用API",
+      "summary": "高盛将巴西股票评级下调至中性。",
+      "title": "高盛将巴西股票评级下调至中性",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133931002716.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931075942.html",
     "category": "其他",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
+    "comment_count": 0,
     "share_count": 1,
     "tags": {
       "industries": [],
@@ -1583,163 +1633,42 @@
     }
   },
   {
-    "id": "cb7b77190cb05004",
-    "code": "202611133930998994",
-    "title": "瑞银给予海光信息中性的初始评级",
-    "summary": "【瑞银给予海光信息中性的初始评级】瑞银给予海光信息中性的初始评级，目标价215元人民币。",
-    "content": "【瑞银给予海光信息中性的初始评级】瑞银给予海光信息中性的初始评级，目标价215元人民币。",
-    "full_content": "【瑞银给予海光信息中性的初始评级】瑞银给予海光信息中性的初始评级，目标价215元人民币。",
-    "sort_time": "1794579496098994",
-    "showTime": "2026-11-13 22:18:16",
-    "time": "2026-11-13 22:18:16",
-    "publish_time": "2026-11-13 22:18:16",
+    "id": "83e18322bba431eb",
+    "code": "202611143931075881",
+    "title": "微软就全球服务中断道歉 称故障非网络攻击所致",
+    "summary": "【微软就全球服务中断道歉 称故障非网络攻击所致】当地时间11月13日，微软公司就导致数百万用户受影响的全球性服务中断事件深表歉意。微软表示，此次故障“与网络攻击或人工智能/智能体（AI agents）无关”，而是由早先一次“网络容量升级”引发。",
+    "content": "【微软就全球服务中断道歉 称故障非网络攻击所致】当地时间11月13日，微软公司就导致数百万用户受影响的全球性服务中断事件深表歉意。微软表示，此次故障“与网络攻击或人工智能/智能体（AI agents）无关”，而是由早先一次“网络容量升级”引发。",
+    "full_content": "【微软就全球服务中断道歉 称故障非网络攻击所致】当地时间11月13日，微软公司就导致数百万用户受影响的全球性服务中断事件深表歉意。微软表示，此次故障“与网络攻击或人工智能/智能体（AI agents）无关”，而是由早先一次“网络容量升级”引发。",
+    "sort_time": "1794595427075881",
+    "showTime": "2026-11-14 02:43:47",
+    "time": "2026-11-14 02:43:47",
+    "publish_time": "2026-11-14 02:43:47",
     "raw_data": {
-      "code": "202611133930998994",
+      "code": "202611143931075881",
       "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1794579496098994",
-      "share": 1,
-      "showTime": "2026-11-13 22:18:16",
-      "stockList": [
-        "1.688041"
-      ],
-      "summary": "【瑞银给予海光信息中性的初始评级】瑞银给予海光信息中性的初始评级，目标价215元人民币。",
-      "title": "瑞银给予海光信息中性的初始评级",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930998994.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.688041"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "cebcf5d6dcaf1283",
-    "code": "202611133930994582",
-    "title": "美联储柯林斯：加息可能损害住房可负担性",
-    "summary": "【美联储柯林斯：加息可能损害住房可负担性】美联储柯林斯表示，加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
-    "content": "【美联储柯林斯：加息可能损害住房可负担性】美联储柯林斯表示，加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
-    "full_content": "【美联储柯林斯：加息可能损害住房可负担性】美联储柯林斯表示，加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
-    "sort_time": "1794579176094582",
-    "showTime": "2026-11-13 22:12:56",
-    "time": "2026-11-13 22:12:56",
-    "publish_time": "2026-11-13 22:12:56",
-    "raw_data": {
-      "code": "202611133930994582",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1794579176094582",
-      "share": 2,
-      "showTime": "2026-11-13 22:12:56",
-      "stockList": [],
-      "summary": "【美联储柯林斯：加息可能损害住房可负担性】美联储柯林斯表示，加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
-      "title": "美联储柯林斯：加息可能损害住房可负担性",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930994582.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 12,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a972105d7eb5cf09",
-    "code": "202611133930993721",
-    "title": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力",
-    "summary": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力。",
-    "content": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力。",
-    "full_content": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力。",
-    "sort_time": "1794579146093721",
-    "showTime": "2026-11-13 22:12:26",
-    "time": "2026-11-13 22:12:26",
-    "publish_time": "2026-11-13 22:12:26",
-    "raw_data": {
-      "code": "202611133930993721",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1794579146093721",
+      "pinglun_Num": 3,
+      "realSort": "1794595427075881",
       "share": 0,
-      "showTime": "2026-11-13 22:12:26",
-      "stockList": [],
-      "summary": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力。",
-      "title": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930993721.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6eaa134945b5d9d1",
-    "code": "202611133930993618",
-    "title": "报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品",
-    "summary": "【报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品】据报道，SpaceX旗下人工智能团队上周裁撤了约60名负责Grok Imagine图像及视频生成工具的员工，仅留下少数人员维持该产品运营。",
-    "content": "【报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品】据报道，SpaceX旗下人工智能团队上周裁撤了约60名负责Grok Imagine图像及视频生成工具的员工，仅留下少数人员维持该产品运营。",
-    "full_content": "【报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品】据报道，SpaceX旗下人工智能团队上周裁撤了约60名负责Grok Imagine图像及视频生成工具的员工，仅留下少数人员维持该产品运营。",
-    "sort_time": "1794579057093618",
-    "showTime": "2026-11-13 22:10:57",
-    "time": "2026-11-13 22:10:57",
-    "publish_time": "2026-11-13 22:10:57",
-    "raw_data": {
-      "code": "202611133930993618",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794579057093618",
-      "share": 0,
-      "showTime": "2026-11-13 22:10:57",
+      "showTime": "2026-11-14 02:43:47",
       "stockList": [
-        "105.SPCX",
-        "150.012322"
+        "0.161631",
+        "1.515980"
       ],
-      "summary": "【报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品】据报道，SpaceX旗下人工智能团队上周裁撤了约60名负责Grok Imagine图像及视频生成工具的员工，仅留下少数人员维持该产品运营。",
-      "title": "报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品",
+      "summary": "【微软就全球服务中断道歉 称故障非网络攻击所致】当地时间11月13日，微软公司就导致数百万用户受影响的全球性服务中断事件深表歉意。微软表示，此次故障“与网络攻击或人工智能/智能体（AI agents）无关”，而是由早先一次“网络容量升级”引发。",
+      "title": "微软就全球服务中断道歉 称故障非网络攻击所致",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930993618.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931075881.html",
     "category": "科技",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "105.SPCX",
-      "150.012322"
+      "0.161631",
+      "1.515980"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
+    "comment_count": 3,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1757,37 +1686,517 @@
     }
   },
   {
-    "id": "34900f5bef929242",
-    "code": "202611133930988581",
-    "title": "美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点",
-    "summary": "【美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点】美国银行全球研究部（BofA Global Research）将2027年1月美联储加息25个基点纳入预测，目前预计美联储将在2026年12月、2027年1月和3月分别加息25个基点。",
-    "content": "【美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点】美国银行全球研究部（BofA Global Research）将2027年1月美联储加息25个基点纳入预测，目前预计美联储将在2026年12月、2027年1月和3月分别加息25个基点。",
-    "full_content": "【美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点】美国银行全球研究部（BofA Global Research）将2027年1月美联储加息25个基点纳入预测，目前预计美联储将在2026年12月、2027年1月和3月分别加息25个基点。",
-    "sort_time": "1794578737088581",
-    "showTime": "2026-11-13 22:05:37",
-    "time": "2026-11-13 22:05:37",
-    "publish_time": "2026-11-13 22:05:37",
+    "id": "228c030ea6dcd2ab",
+    "code": "202611143931075171",
+    "title": "上期所原油期货2701合约夜盘收涨1.63% 沪金夜盘收跌0.21% 沪银收跌2.16%",
+    "summary": "上期所原油期货2701合约夜盘收涨1.63%，报617元人民币/桶。沪金夜盘收跌0.21%，沪银收跌2.16%。",
+    "content": "上期所原油期货2701合约夜盘收涨1.63%，报617元人民币/桶。沪金夜盘收跌0.21%，沪银收跌2.16%。",
+    "full_content": "上期所原油期货2701合约夜盘收涨1.63%，报617元人民币/桶。沪金夜盘收跌0.21%，沪银收跌2.16%。",
+    "sort_time": "1794594849075171",
+    "showTime": "2026-11-14 02:34:09",
+    "time": "2026-11-14 02:34:09",
+    "publish_time": "2026-11-14 02:34:09",
     "raw_data": {
-      "code": "202611133930988581",
+      "code": "202611143931075171",
       "image": [],
-      "pinglun_Num": 26,
-      "realSort": "1794578737088581",
-      "share": 13,
-      "showTime": "2026-11-13 22:05:37",
-      "stockList": [],
-      "summary": "【美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点】美国银行全球研究部（BofA Global Research）将2027年1月美联储加息25个基点纳入预测，目前预计美联储将在2026年12月、2027年1月和3月分别加息25个基点。",
-      "title": "美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点",
+      "pinglun_Num": 0,
+      "realSort": "1794594849075171",
+      "share": 0,
+      "showTime": "2026-11-14 02:34:09",
+      "stockList": [
+        "90.BK1361"
+      ],
+      "summary": "上期所原油期货2701合约夜盘收涨1.63%，报617元人民币/桶。沪金夜盘收跌0.21%，沪银收跌2.16%。",
+      "title": "上期所原油期货2701合约夜盘收涨1.63% 沪金夜盘收跌0.21% 沪银收跌2.16%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930988581.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931075171.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1361"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "6b09b2635e38d2c6",
+    "code": "202611143931074684",
+    "title": "五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判",
+    "summary": "【五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判】当地时间11月13日，欧盟领导人非正式会议在爱尔兰首都都柏林举行。欧洲理事会主席科斯塔在会议结束后表示，欧盟各成员国领导人当天一致同意，德国、法国、意大利、波兰、英国和欧盟各机构将代表欧洲参与乌克兰问题谈判。",
+    "content": "【五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判】当地时间11月13日，欧盟领导人非正式会议在爱尔兰首都都柏林举行。欧洲理事会主席科斯塔在会议结束后表示，欧盟各成员国领导人当天一致同意，德国、法国、意大利、波兰、英国和欧盟各机构将代表欧洲参与乌克兰问题谈判。",
+    "full_content": "【五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判】当地时间11月13日，欧盟领导人非正式会议在爱尔兰首都都柏林举行。欧洲理事会主席科斯塔在会议结束后表示，欧盟各成员国领导人当天一致同意，德国、法国、意大利、波兰、英国和欧盟各机构将代表欧洲参与乌克兰问题谈判。",
+    "sort_time": "1794594156074684",
+    "showTime": "2026-11-14 02:22:36",
+    "time": "2026-11-14 02:22:36",
+    "publish_time": "2026-11-14 02:22:36",
+    "raw_data": {
+      "code": "202611143931074684",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1794594156074684",
+      "share": 0,
+      "showTime": "2026-11-14 02:22:36",
+      "stockList": [],
+      "summary": "【五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判】当地时间11月13日，欧盟领导人非正式会议在爱尔兰首都都柏林举行。欧洲理事会主席科斯塔在会议结束后表示，欧盟各成员国领导人当天一致同意，德国、法国、意大利、波兰、英国和欧盟各机构将代表欧洲参与乌克兰问题谈判。",
+      "title": "五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931074684.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a1eb98d2a886b07a",
+    "code": "202611143931073374",
+    "title": "美国本周石油钻井数463口 前值463口",
+    "summary": "美国本周石油钻井数463口，前值463口。",
+    "content": "美国本周石油钻井数463口，前值463口。",
+    "full_content": "美国本周石油钻井数463口，前值463口。",
+    "sort_time": "1794593517073374",
+    "showTime": "2026-11-14 02:11:57",
+    "time": "2026-11-14 02:11:57",
+    "publish_time": "2026-11-14 02:11:57",
+    "raw_data": {
+      "code": "202611143931073374",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794593517073374",
+      "share": 0,
+      "showTime": "2026-11-14 02:11:57",
+      "stockList": [
+        "90.BK0464"
+      ],
+      "summary": "美国本周石油钻井数463口，前值463口。",
+      "title": "美国本周石油钻井数463口 前值463口",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931073374.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "1427cc37b8cff022",
+    "code": "202611143931073224",
+    "title": "美银经济学家将第三次加息加入其对美联储的预期 时点指向2027年3月前",
+    "summary": "美银经济学家将第三次加息加入其对美联储的预期，时点指向2027年3月前。",
+    "content": "美银经济学家将第三次加息加入其对美联储的预期，时点指向2027年3月前。",
+    "full_content": "美银经济学家将第三次加息加入其对美联储的预期，时点指向2027年3月前。",
+    "sort_time": "1794593317073224",
+    "showTime": "2026-11-14 02:08:37",
+    "time": "2026-11-14 02:08:37",
+    "publish_time": "2026-11-14 02:08:37",
+    "raw_data": {
+      "code": "202611143931073224",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794593317073224",
+      "share": 0,
+      "showTime": "2026-11-14 02:08:37",
+      "stockList": [],
+      "summary": "美银经济学家将第三次加息加入其对美联储的预期，时点指向2027年3月前。",
+      "title": "美银经济学家将第三次加息加入其对美联储的预期 时点指向2027年3月前",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931073224.html",
     "category": "国际",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 26,
-    "share_count": 13,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1860236ea771cd41",
+    "code": "202611143931073184",
+    "title": "LME期铜收跌189美元",
+    "summary": "【LME期铜收跌189美元】LME期铜收跌189美元，报13399美元/吨。LME期铝收跌20美元，报3010美元/吨。LME期锌收跌6美元，报3710美元/吨。LME期铅收涨8美元，报1894美元/吨。LME期镍收跌241美元，报15985美元/吨。LME期锡收涨48美元，报46700美元/吨。LME期钴收平，报33525美元/吨。",
+    "content": "【LME期铜收跌189美元】LME期铜收跌189美元，报13399美元/吨。LME期铝收跌20美元，报3010美元/吨。LME期锌收跌6美元，报3710美元/吨。LME期铅收涨8美元，报1894美元/吨。LME期镍收跌241美元，报15985美元/吨。LME期锡收涨48美元，报46700美元/吨。LME期钴收平，报33525美元/吨。",
+    "full_content": "【LME期铜收跌189美元】LME期铜收跌189美元，报13399美元/吨。LME期铝收跌20美元，报3010美元/吨。LME期锌收跌6美元，报3710美元/吨。LME期铅收涨8美元，报1894美元/吨。LME期镍收跌241美元，报15985美元/吨。LME期锡收涨48美元，报46700美元/吨。LME期钴收平，报33525美元/吨。",
+    "sort_time": "1794592405073184",
+    "showTime": "2026-11-14 01:53:25",
+    "time": "2026-11-14 01:53:25",
+    "publish_time": "2026-11-14 01:53:25",
+    "raw_data": {
+      "code": "202611143931073184",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794592405073184",
+      "share": 0,
+      "showTime": "2026-11-14 01:53:25",
+      "stockList": [],
+      "summary": "【LME期铜收跌189美元】LME期铜收跌189美元，报13399美元/吨。LME期铝收跌20美元，报3010美元/吨。LME期锌收跌6美元，报3710美元/吨。LME期铅收涨8美元，报1894美元/吨。LME期镍收跌241美元，报15985美元/吨。LME期锡收涨48美元，报46700美元/吨。LME期钴收平，报33525美元/吨。",
+      "title": "LME期铜收跌189美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931073184.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "钴"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "d95fe8e7ae4add95",
+    "code": "202611143931072816",
+    "title": "特朗普将针对石油和化肥运输的航运豁免延长90天",
+    "summary": "特朗普将针对石油和化肥运输的航运豁免延长90天。",
+    "content": "特朗普将针对石油和化肥运输的航运豁免延长90天。",
+    "full_content": "特朗普将针对石油和化肥运输的航运豁免延长90天。",
+    "sort_time": "1794592214072816",
+    "showTime": "2026-11-14 01:50:14",
+    "time": "2026-11-14 01:50:14",
+    "publish_time": "2026-11-14 01:50:14",
+    "raw_data": {
+      "code": "202611143931072816",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794592214072816",
+      "share": 0,
+      "showTime": "2026-11-14 01:50:14",
+      "stockList": [
+        "90.BK0464",
+        "90.BK0731"
+      ],
+      "summary": "特朗普将针对石油和化肥运输的航运豁免延长90天。",
+      "title": "特朗普将针对石油和化肥运输的航运豁免延长90天",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931072816.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0464",
+      "90.BK0731"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        },
+        {
+          "id": "C508",
+          "name": "化工",
+          "matched_keyword": "化肥"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506",
+        "C508"
+      ]
+    }
+  },
+  {
+    "id": "cbeaeea716a2cc18",
+    "code": "202611143931072943",
+    "title": "欧盟委员会主席冯德莱恩表示：计算领域至少需要5000亿欧元投资",
+    "summary": "欧盟委员会主席冯德莱恩表示，计算领域至少需要5000亿欧元投资。下一份欧洲预算将反映这一需求以及人工智能雄心。",
+    "content": "欧盟委员会主席冯德莱恩表示，计算领域至少需要5000亿欧元投资。下一份欧洲预算将反映这一需求以及人工智能雄心。",
+    "full_content": "欧盟委员会主席冯德莱恩表示，计算领域至少需要5000亿欧元投资。下一份欧洲预算将反映这一需求以及人工智能雄心。",
+    "sort_time": "1794591997072943",
+    "showTime": "2026-11-14 01:46:37",
+    "time": "2026-11-14 01:46:37",
+    "publish_time": "2026-11-14 01:46:37",
+    "raw_data": {
+      "code": "202611143931072943",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1794591997072943",
+      "share": 2,
+      "showTime": "2026-11-14 01:46:37",
+      "stockList": [
+        "0.161631",
+        "1.515980"
+      ],
+      "summary": "欧盟委员会主席冯德莱恩表示，计算领域至少需要5000亿欧元投资。下一份欧洲预算将反映这一需求以及人工智能雄心。",
+      "title": "欧盟委员会主席冯德莱恩表示：计算领域至少需要5000亿欧元投资",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931072943.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.161631",
+      "1.515980"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 4,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "9618d7eca999d0e9",
+    "code": "202611143931072620",
+    "title": "阿根廷大首都区发生燃气爆炸致20余人受伤",
+    "summary": "【阿根廷大首都区发生燃气爆炸致20余人受伤】当地时间11月13日，阿根廷布宜诺斯艾利斯省拉努斯市发生燃气爆炸，致20余人受伤，6人伤势严重。据阿根廷方面消息，当地时间13日10时左右，拉努斯市一栋建筑因管道爆裂导致燃气泄漏，随后发生爆炸和火灾。至少20余人受伤，其中6人伤势严重，已被送往附近医院。",
+    "content": "【阿根廷大首都区发生燃气爆炸致20余人受伤】当地时间11月13日，阿根廷布宜诺斯艾利斯省拉努斯市发生燃气爆炸，致20余人受伤，6人伤势严重。据阿根廷方面消息，当地时间13日10时左右，拉努斯市一栋建筑因管道爆裂导致燃气泄漏，随后发生爆炸和火灾。至少20余人受伤，其中6人伤势严重，已被送往附近医院。",
+    "full_content": "【阿根廷大首都区发生燃气爆炸致20余人受伤】当地时间11月13日，阿根廷布宜诺斯艾利斯省拉努斯市发生燃气爆炸，致20余人受伤，6人伤势严重。据阿根廷方面消息，当地时间13日10时左右，拉努斯市一栋建筑因管道爆裂导致燃气泄漏，随后发生爆炸和火灾。至少20余人受伤，其中6人伤势严重，已被送往附近医院。",
+    "sort_time": "1794591731072620",
+    "showTime": "2026-11-14 01:42:11",
+    "time": "2026-11-14 01:42:11",
+    "publish_time": "2026-11-14 01:42:11",
+    "raw_data": {
+      "code": "202611143931072620",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794591731072620",
+      "share": 0,
+      "showTime": "2026-11-14 01:42:11",
+      "stockList": [
+        "90.BK1028",
+        "90.BK1381"
+      ],
+      "summary": "【阿根廷大首都区发生燃气爆炸致20余人受伤】当地时间11月13日，阿根廷布宜诺斯艾利斯省拉努斯市发生燃气爆炸，致20余人受伤，6人伤势严重。据阿根廷方面消息，当地时间13日10时左右，拉努斯市一栋建筑因管道爆裂导致燃气泄漏，随后发生爆炸和火灾。至少20余人受伤，其中6人伤势严重，已被送往附近医院。",
+      "title": "阿根廷大首都区发生燃气爆炸致20余人受伤",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931072620.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK1381"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C304",
+          "name": "医疗服务",
+          "matched_keyword": "医院"
+        },
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "燃气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C304",
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "104ca1afe7a36eb9",
+    "code": "202611143931068544",
+    "title": "亚马逊在北美地区的首份工会合同已在加拿大通过强制仲裁方式确立",
+    "summary": "亚马逊在北美地区的首份工会合同已在加拿大通过强制仲裁方式确立。",
+    "content": "亚马逊在北美地区的首份工会合同已在加拿大通过强制仲裁方式确立。",
+    "full_content": "亚马逊在北美地区的首份工会合同已在加拿大通过强制仲裁方式确立。",
+    "sort_time": "1794590918068544",
+    "showTime": "2026-11-14 01:28:38",
+    "time": "2026-11-14 01:28:38",
+    "publish_time": "2026-11-14 01:28:38",
+    "raw_data": {
+      "code": "202611143931068544",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794590918068544",
+      "share": 0,
+      "showTime": "2026-11-14 01:28:38",
+      "stockList": [
+        "105.AMZN"
+      ],
+      "summary": "亚马逊在北美地区的首份工会合同已在加拿大通过强制仲裁方式确立。",
+      "title": "亚马逊在北美地区的首份工会合同已在加拿大通过强制仲裁方式确立",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931068544.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AMZN"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a5204e8e5a1eb82a",
+    "code": "202611143931066328",
+    "title": "旧金山联储行长戴利表示：美国经济的关键问题是通胀",
+    "summary": "旧金山联储行长戴利表示，美国经济的关键问题是通胀。",
+    "content": "旧金山联储行长戴利表示，美国经济的关键问题是通胀。",
+    "full_content": "旧金山联储行长戴利表示，美国经济的关键问题是通胀。",
+    "sort_time": "1794590115066328",
+    "showTime": "2026-11-14 01:15:15",
+    "time": "2026-11-14 01:15:15",
+    "publish_time": "2026-11-14 01:15:15",
+    "raw_data": {
+      "code": "202611143931066328",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1794590115066328",
+      "share": 0,
+      "showTime": "2026-11-14 01:15:15",
+      "stockList": [],
+      "summary": "旧金山联储行长戴利表示，美国经济的关键问题是通胀。",
+      "title": "旧金山联储行长戴利表示：美国经济的关键问题是通胀",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931066328.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 5,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f068de0c5fb45c3e",
+    "code": "202611143931064735",
+    "title": "巴克莱计划在其投资银行部门裁减约200个工作岗位 裁员将影响其在纽约和伦敦的职位",
+    "summary": "巴克莱计划在其投资银行部门裁减约200个工作岗位，裁员将影响其在纽约和伦敦的职位。",
+    "content": "巴克莱计划在其投资银行部门裁减约200个工作岗位，裁员将影响其在纽约和伦敦的职位。",
+    "full_content": "巴克莱计划在其投资银行部门裁减约200个工作岗位，裁员将影响其在纽约和伦敦的职位。",
+    "sort_time": "1794589820064735",
+    "showTime": "2026-11-14 01:10:20",
+    "time": "2026-11-14 01:10:20",
+    "publish_time": "2026-11-14 01:10:20",
+    "raw_data": {
+      "code": "202611143931064735",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794589820064735",
+      "share": 0,
+      "showTime": "2026-11-14 01:10:20",
+      "stockList": [],
+      "summary": "巴克莱计划在其投资银行部门裁减约200个工作岗位，裁员将影响其在纽约和伦敦的职位。",
+      "title": "巴克莱计划在其投资银行部门裁减约200个工作岗位 裁员将影响其在纽约和伦敦的职位",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931064735.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
     "tags": {
       "industries": [
         {
@@ -1814,99 +2223,30 @@
     }
   },
   {
-    "id": "16191575f69f895d",
-    "code": "202611133930982796",
-    "title": "Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展",
-    "summary": "【Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展】Marvell宣布将在11月15日至20日举行的Supercomputing 2026大会上展示面向AI基础设施的互联及内存技术，涵盖光互联、CXL内存扩展、交换芯片及高速电缆等领域。",
-    "content": "【Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展】Marvell宣布将在11月15日至20日举行的Supercomputing 2026大会上展示面向AI基础设施的互联及内存技术，涵盖光互联、CXL内存扩展、交换芯片及高速电缆等领域。",
-    "full_content": "【Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展】Marvell宣布将在11月15日至20日举行的Supercomputing 2026大会上展示面向AI基础设施的互联及内存技术，涵盖光互联、CXL内存扩展、交换芯片及高速电缆等领域。",
-    "sort_time": "1794578538082796",
-    "showTime": "2026-11-13 22:02:18",
-    "time": "2026-11-13 22:02:18",
-    "publish_time": "2026-11-13 22:02:18",
+    "id": "7b0bc715fbfb4b2e",
+    "code": "202611143931064435",
+    "title": "秘鲁西南部近海发生5.7级地震",
+    "summary": "【秘鲁西南部近海发生5.7级地震】根据欧洲-地中海地震中心报告，当地时间13日11时43分，秘鲁西南部近海发生5.7级地震，震源深度31公里。目前暂无海啸预警报告。",
+    "content": "【秘鲁西南部近海发生5.7级地震】根据欧洲-地中海地震中心报告，当地时间13日11时43分，秘鲁西南部近海发生5.7级地震，震源深度31公里。目前暂无海啸预警报告。",
+    "full_content": "【秘鲁西南部近海发生5.7级地震】根据欧洲-地中海地震中心报告，当地时间13日11时43分，秘鲁西南部近海发生5.7级地震，震源深度31公里。目前暂无海啸预警报告。",
+    "sort_time": "1794589722064435",
+    "showTime": "2026-11-14 01:08:42",
+    "time": "2026-11-14 01:08:42",
+    "publish_time": "2026-11-14 01:08:42",
     "raw_data": {
-      "code": "202611133930982796",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794578538082796",
-      "share": 0,
-      "showTime": "2026-11-13 22:02:18",
-      "stockList": [
-        "105.MRVL",
-        "90.BK0800"
-      ],
-      "summary": "【Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展】Marvell宣布将在11月15日至20日举行的Supercomputing 2026大会上展示面向AI基础设施的互联及内存技术，涵盖光互联、CXL内存扩展、交换芯片及高速电缆等领域。",
-      "title": "Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930982796.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.MRVL",
-      "90.BK0800"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C001",
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "ef18cafe1dde3d51",
-    "code": "202611133930983124",
-    "title": "王毅同韩国外长赵显会谈",
-    "summary": "【王毅同韩国外长赵显会谈】据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
-    "content": "【王毅同韩国外长赵显会谈】据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
-    "full_content": "【王毅同韩国外长赵显会谈】据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
-    "sort_time": "1794578479083124",
-    "showTime": "2026-11-13 22:01:19",
-    "time": "2026-11-13 22:01:19",
-    "publish_time": "2026-11-13 22:01:19",
-    "raw_data": {
-      "code": "202611133930983124",
+      "code": "202611143931064435",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1794578479083124",
+      "realSort": "1794589722064435",
       "share": 0,
-      "showTime": "2026-11-13 22:01:19",
+      "showTime": "2026-11-14 01:08:42",
       "stockList": [],
-      "summary": "【王毅同韩国外长赵显会谈】据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
-      "title": "王毅同韩国外长赵显会谈",
+      "summary": "【秘鲁西南部近海发生5.7级地震】根据欧洲-地中海地震中心报告，当地时间13日11时43分，秘鲁西南部近海发生5.7级地震，震源深度31公里。目前暂无海啸预警报告。",
+      "title": "秘鲁西南部近海发生5.7级地震",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930983124.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931064435.html",
     "category": "其他",
     "importance": 5,
     "sentiment": "neutral",
@@ -1922,597 +2262,99 @@
     }
   },
   {
-    "id": "6c2eaf6e441df491",
-    "code": "202611133930982863",
-    "title": "天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工",
-    "summary": "【天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工】据天齐锂业消息，11月12日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目竣工仪式在重庆市铜梁区举行。该项目是全国首个全自动电池级金属锂工厂，集大型化、自动化、节能化于一体。项目投产后，天齐锂业重庆金属锂总产能将提升至1600吨/年。",
-    "content": "【天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工】据天齐锂业消息，11月12日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目竣工仪式在重庆市铜梁区举行。该项目是全国首个全自动电池级金属锂工厂，集大型化、自动化、节能化于一体。项目投产后，天齐锂业重庆金属锂总产能将提升至1600吨/年。",
-    "full_content": "【天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工】据天齐锂业消息，11月12日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目竣工仪式在重庆市铜梁区举行。该项目是全国首个全自动电池级金属锂工厂，集大型化、自动化、节能化于一体。项目投产后，天齐锂业重庆金属锂总产能将提升至1600吨/年。",
-    "sort_time": "1794578475082863",
-    "showTime": "2026-11-13 22:01:15",
-    "time": "2026-11-13 22:01:15",
-    "publish_time": "2026-11-13 22:01:15",
+    "id": "d083136e38a2ee51",
+    "code": "202611143931063945",
+    "title": "SpaceX表示：星舰第15次飞行正准备最早于11月13日发射 尚待监管批准",
+    "summary": "SpaceX表示，星舰第15次飞行正准备最早于11月13日发射，尚待监管批准。",
+    "content": "SpaceX表示，星舰第15次飞行正准备最早于11月13日发射，尚待监管批准。",
+    "full_content": "SpaceX表示，星舰第15次飞行正准备最早于11月13日发射，尚待监管批准。",
+    "sort_time": "1794589469063945",
+    "showTime": "2026-11-14 01:04:29",
+    "time": "2026-11-14 01:04:29",
+    "publish_time": "2026-11-14 01:04:29",
     "raw_data": {
-      "code": "202611133930982863",
+      "code": "202611143931063945",
       "image": [],
-      "pinglun_Num": 10,
-      "realSort": "1794578475082863",
-      "share": 1,
-      "showTime": "2026-11-13 22:01:15",
+      "pinglun_Num": 4,
+      "realSort": "1794589469063945",
+      "share": 0,
+      "showTime": "2026-11-14 01:04:29",
       "stockList": [
-        "0.002466",
-        "116.09696"
+        "105.SPCX"
       ],
-      "summary": "【天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工】据天齐锂业消息，11月12日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目竣工仪式在重庆市铜梁区举行。该项目是全国首个全自动电池级金属锂工厂，集大型化、自动化、节能化于一体。项目投产后，天齐锂业重庆金属锂总产能将提升至1600吨/年。",
-      "title": "天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工",
+      "summary": "SpaceX表示，星舰第15次飞行正准备最早于11月13日发射，尚待监管批准。",
+      "title": "SpaceX表示：星舰第15次飞行正准备最早于11月13日发射 尚待监管批准",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930982863.html",
-    "category": "期货",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931063945.html",
+    "category": "政策",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "0.002466",
-      "116.09696"
+      "105.SPCX"
     ],
     "has_stock_mention": true,
-    "comment_count": 10,
-    "share_count": 1,
+    "comment_count": 4,
+    "share_count": 0,
     "tags": {
-      "industries": [
-        {
-          "id": "I010201",
-          "name": "锂离子电池制造",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "锂电"
-        }
-      ],
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "20b2b670b4d3f955",
+    "code": "202611143931063798",
+    "title": "沪铅夜盘收涨1.37%",
+    "summary": "【沪铅夜盘收涨1.37%】国际铜夜盘收跌0.48%，沪铜收跌0.62%，沪铝收跌0.18%，沪锌收跌1.05%，沪铅收涨1.37%，沪镍收跌1.47%，沪锡收跌0.31%。氧化铝夜盘收跌2.32%，铝合金收跌0.02%。不锈钢夜盘收跌0.25%。",
+    "content": "【沪铅夜盘收涨1.37%】国际铜夜盘收跌0.48%，沪铜收跌0.62%，沪铝收跌0.18%，沪锌收跌1.05%，沪铅收涨1.37%，沪镍收跌1.47%，沪锡收跌0.31%。氧化铝夜盘收跌2.32%，铝合金收跌0.02%。不锈钢夜盘收跌0.25%。",
+    "full_content": "【沪铅夜盘收涨1.37%】国际铜夜盘收跌0.48%，沪铜收跌0.62%，沪铝收跌0.18%，沪锌收跌1.05%，沪铅收涨1.37%，沪镍收跌1.47%，沪锡收跌0.31%。氧化铝夜盘收跌2.32%，铝合金收跌0.02%。不锈钢夜盘收跌0.25%。",
+    "sort_time": "1794589351063798",
+    "showTime": "2026-11-14 01:02:31",
+    "time": "2026-11-14 01:02:31",
+    "publish_time": "2026-11-14 01:02:31",
+    "raw_data": {
+      "code": "202611143931063798",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794589351063798",
+      "share": 0,
+      "showTime": "2026-11-14 01:02:31",
+      "stockList": [],
+      "summary": "【沪铅夜盘收涨1.37%】国际铜夜盘收跌0.48%，沪铜收跌0.62%，沪铝收跌0.18%，沪锌收跌1.05%，沪铅收涨1.37%，沪镍收跌1.47%，沪锡收跌0.31%。氧化铝夜盘收跌2.32%，铝合金收跌0.02%。不锈钢夜盘收跌0.25%。",
+      "title": "沪铅夜盘收涨1.37%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931063798.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
       "concepts": [
-        {
-          "id": "C102",
-          "name": "锂电池",
-          "matched_keyword": "锂电"
-        },
         {
           "id": "C501",
           "name": "有色金属",
-          "matched_keyword": "铜"
-        }
-      ],
-      "industry_ids": [
-        "I010201"
-      ],
-      "concept_ids": [
-        "C102",
-        "C501"
-      ]
-    }
-  },
-  {
-    "id": "cec6dd9f1b879bdc",
-    "code": "202611133930979929",
-    "title": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回",
-    "summary": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回。",
-    "content": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回。",
-    "full_content": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回。",
-    "sort_time": "1794578354079929",
-    "showTime": "2026-11-13 21:59:14",
-    "time": "2026-11-13 21:59:14",
-    "publish_time": "2026-11-13 21:59:14",
-    "raw_data": {
-      "code": "202611133930979929",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1794578354079929",
-      "share": 3,
-      "showTime": "2026-11-13 21:59:14",
-      "stockList": [],
-      "summary": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回。",
-      "title": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930979929.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a550a08d215c8b49",
-    "code": "202611133930976516",
-    "title": "美银全球研究下调应用材料目标价",
-    "summary": "【美银全球研究下调应用材料目标价】美银全球研究将应用材料目标价从650美元下调至520美元。",
-    "content": "【美银全球研究下调应用材料目标价】美银全球研究将应用材料目标价从650美元下调至520美元。",
-    "full_content": "【美银全球研究下调应用材料目标价】美银全球研究将应用材料目标价从650美元下调至520美元。",
-    "sort_time": "1794578111076516",
-    "showTime": "2026-11-13 21:55:11",
-    "time": "2026-11-13 21:55:11",
-    "publish_time": "2026-11-13 21:55:11",
-    "raw_data": {
-      "code": "202611133930976516",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794578111076516",
-      "share": 0,
-      "showTime": "2026-11-13 21:55:11",
-      "stockList": [
-        "105.AMAT"
-      ],
-      "summary": "【美银全球研究下调应用材料目标价】美银全球研究将应用材料目标价从650美元下调至520美元。",
-      "title": "美银全球研究下调应用材料目标价",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930976516.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.AMAT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "068ade7d97b282a6",
-    "code": "202611133930970946",
-    "title": "布伦特原油期货价格涨超1%",
-    "summary": "【布伦特原油期货价格涨超1%】WTI原油期货价格涨0.69%，报89.354美元/桶；布伦特原油期货价格涨1.04%，报96.815美元/桶。",
-    "content": "【布伦特原油期货价格涨超1%】WTI原油期货价格涨0.69%，报89.354美元/桶；布伦特原油期货价格涨1.04%，报96.815美元/桶。",
-    "full_content": "【布伦特原油期货价格涨超1%】WTI原油期货价格涨0.69%，报89.354美元/桶；布伦特原油期货价格涨1.04%，报96.815美元/桶。",
-    "sort_time": "1794577864070946",
-    "showTime": "2026-11-13 21:51:04",
-    "time": "2026-11-13 21:51:04",
-    "publish_time": "2026-11-13 21:51:04",
-    "raw_data": {
-      "code": "202611133930970946",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1794577864070946",
-      "share": 3,
-      "showTime": "2026-11-13 21:51:04",
-      "stockList": [],
-      "summary": "【布伦特原油期货价格涨超1%】WTI原油期货价格涨0.69%，报89.354美元/桶；布伦特原油期货价格涨1.04%，报96.815美元/桶。",
-      "title": "布伦特原油期货价格涨超1%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930970946.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "原油"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C506"
-      ]
-    }
-  },
-  {
-    "id": "5adfc8c3071a1c2b",
-    "code": "202611133930967189",
-    "title": "Anthropic称正在调查性能下降的问题",
-    "summary": "Anthropic称正在调查性能下降的问题。",
-    "content": "Anthropic称正在调查性能下降的问题。",
-    "full_content": "Anthropic称正在调查性能下降的问题。",
-    "sort_time": "1794577414067189",
-    "showTime": "2026-11-13 21:43:34",
-    "time": "2026-11-13 21:43:34",
-    "publish_time": "2026-11-13 21:43:34",
-    "raw_data": {
-      "code": "202611133930967189",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1794577414067189",
-      "share": 4,
-      "showTime": "2026-11-13 21:43:34",
-      "stockList": [],
-      "summary": "Anthropic称正在调查性能下降的问题。",
-      "title": "Anthropic称正在调查性能下降的问题",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930967189.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a9f8fb3a38406a77",
-    "code": "202611133930966282",
-    "title": "韩国考虑拨专款打击AI作弊行为",
-    "summary": "【韩国考虑拨专款打击AI作弊行为】由于担心考生利用人工智能（AI）眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。韩国最大在野党国民力量党议员金渭相近日提议，在2027年度预算中增加约65.7亿韩元（1美元约合1336韩元）经费，用于采购无线电信号探测设备并安排专职人员，防范国家资格考试中的AI作弊行为。",
-    "content": "【韩国考虑拨专款打击AI作弊行为】由于担心考生利用人工智能（AI）眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。韩国最大在野党国民力量党议员金渭相近日提议，在2027年度预算中增加约65.7亿韩元（1美元约合1336韩元）经费，用于采购无线电信号探测设备并安排专职人员，防范国家资格考试中的AI作弊行为。",
-    "full_content": "【韩国考虑拨专款打击AI作弊行为】由于担心考生利用人工智能（AI）眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。韩国最大在野党国民力量党议员金渭相近日提议，在2027年度预算中增加约65.7亿韩元（1美元约合1336韩元）经费，用于采购无线电信号探测设备并安排专职人员，防范国家资格考试中的AI作弊行为。",
-    "sort_time": "1794577410066282",
-    "showTime": "2026-11-13 21:43:30",
-    "time": "2026-11-13 21:43:30",
-    "publish_time": "2026-11-13 21:43:30",
-    "raw_data": {
-      "code": "202611133930966282",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794577410066282",
-      "share": 0,
-      "showTime": "2026-11-13 21:43:30",
-      "stockList": [
-        "90.BK0800",
-        "0.161631"
-      ],
-      "summary": "【韩国考虑拨专款打击AI作弊行为】由于担心考生利用人工智能（AI）眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。韩国最大在野党国民力量党议员金渭相近日提议，在2027年度预算中增加约65.7亿韩元（1美元约合1336韩元）经费，用于采购无线电信号探测设备并安排专职人员，防范国家资格考试中的AI作弊行为。",
-      "title": "韩国考虑拨专款打击AI作弊行为",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930966282.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0800",
-      "0.161631"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "a1a71639c9c4d507",
-    "code": "202611133930964924",
-    "title": "小鹏汽车：2027年计划面向英国导入5款全新右舵车型",
-    "summary": "【小鹏汽车：2027年计划面向英国导入5款全新右舵车型】小鹏汽车表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。",
-    "content": "【小鹏汽车：2027年计划面向英国导入5款全新右舵车型】小鹏汽车表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。",
-    "full_content": "【小鹏汽车：2027年计划面向英国导入5款全新右舵车型】小鹏汽车表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。",
-    "sort_time": "1794577327064924",
-    "showTime": "2026-11-13 21:42:07",
-    "time": "2026-11-13 21:42:07",
-    "publish_time": "2026-11-13 21:42:07",
-    "raw_data": {
-      "code": "202611133930964924",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1794577327064924",
-      "share": 0,
-      "showTime": "2026-11-13 21:42:07",
-      "stockList": [
-        "116.09868",
-        "106.XPEV"
-      ],
-      "summary": "【小鹏汽车：2027年计划面向英国导入5款全新右舵车型】小鹏汽车表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。",
-      "title": "小鹏汽车：2027年计划面向英国导入5款全新右舵车型",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930964924.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "116.09868",
-      "106.XPEV"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C605",
-          "name": "零售",
-          "matched_keyword": "零售"
-        }
-      ],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": [
-        "C605"
-      ]
-    }
-  },
-  {
-    "id": "75e1229d18a02d8c",
-    "code": "202611133930965781",
-    "title": "美联储古尔斯比：美国通胀朝着错误的方向发展",
-    "summary": "【美联储古尔斯比：美国通胀朝着错误的方向发展】美联储的古尔斯比表示，美国通胀是广泛的，且朝着错误的方向发展；美联储在通胀方面“还有工作要做”，通胀将决定利率路径。不应因为没有出现工资通胀就感到安心，美联储在评估劳动力市场对通胀的影响时需要谨慎，因为工资是价格压力的滞后指标。并表示，人工智能建设正在能源成本之上推动经济升温。",
-    "content": "【美联储古尔斯比：美国通胀朝着错误的方向发展】美联储的古尔斯比表示，美国通胀是广泛的，且朝着错误的方向发展；美联储在通胀方面“还有工作要做”，通胀将决定利率路径。不应因为没有出现工资通胀就感到安心，美联储在评估劳动力市场对通胀的影响时需要谨慎，因为工资是价格压力的滞后指标。并表示，人工智能建设正在能源成本之上推动经济升温。",
-    "full_content": "【美联储古尔斯比：美国通胀朝着错误的方向发展】美联储的古尔斯比表示，美国通胀是广泛的，且朝着错误的方向发展；美联储在通胀方面“还有工作要做”，通胀将决定利率路径。不应因为没有出现工资通胀就感到安心，美联储在评估劳动力市场对通胀的影响时需要谨慎，因为工资是价格压力的滞后指标。并表示，人工智能建设正在能源成本之上推动经济升温。",
-    "sort_time": "1794577276065781",
-    "showTime": "2026-11-13 21:41:16",
-    "time": "2026-11-13 21:41:16",
-    "publish_time": "2026-11-13 21:41:16",
-    "raw_data": {
-      "code": "202611133930965781",
-      "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1794577276065781",
-      "share": 0,
-      "showTime": "2026-11-13 21:41:16",
-      "stockList": [],
-      "summary": "【美联储古尔斯比：美国通胀朝着错误的方向发展】美联储的古尔斯比表示，美国通胀是广泛的，且朝着错误的方向发展；美联储在通胀方面“还有工作要做”，通胀将决定利率路径。不应因为没有出现工资通胀就感到安心，美联储在评估劳动力市场对通胀的影响时需要谨慎，因为工资是价格压力的滞后指标。并表示，人工智能建设正在能源成本之上推动经济升温。",
-      "title": "美联储古尔斯比：美国通胀朝着错误的方向发展",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930965781.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 11,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "6a2454cd41269a40",
-    "code": "202611133930965143",
-    "title": "中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响",
-    "summary": "【中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响】中富通(300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务机器人能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。",
-    "content": "【中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响】中富通(300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务机器人能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。",
-    "full_content": "【中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响】中富通(300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务机器人能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。",
-    "sort_time": "1794577200065143",
-    "showTime": "2026-11-13 21:40:00",
-    "time": "2026-11-13 21:40:00",
-    "publish_time": "2026-11-13 21:40:00",
-    "raw_data": {
-      "code": "202611133930965143",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1794577200065143",
-      "share": 0,
-      "showTime": "2026-11-13 21:40:00",
-      "stockList": [
-        "0.300560",
-        "90.BK1408"
-      ],
-      "summary": "【中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响】中富通(300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务机器人能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。",
-      "title": "中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930965143.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300560",
-      "90.BK1408"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
+          "matched_keyword": "镍"
         },
         {
-          "id": "C012",
-          "name": "机器人",
-          "matched_keyword": "机器人"
+          "id": "C504",
+          "name": "钢铁",
+          "matched_keyword": "不锈钢"
         }
       ],
       "industry_ids": [],
       "concept_ids": [
-        "C001",
-        "C012"
+        "C501",
+        "C504"
       ]
-    }
-  },
-  {
-    "id": "d1bd0a3e8218d143",
-    "code": "202611133930961217",
-    "title": "花旗集团下调思科目标价",
-    "summary": "【花旗集团下调思科目标价】花旗集团将思科目标价从139美元下调至120美元。",
-    "content": "【花旗集团下调思科目标价】花旗集团将思科目标价从139美元下调至120美元。",
-    "full_content": "【花旗集团下调思科目标价】花旗集团将思科目标价从139美元下调至120美元。",
-    "sort_time": "1794577085061217",
-    "showTime": "2026-11-13 21:38:05",
-    "time": "2026-11-13 21:38:05",
-    "publish_time": "2026-11-13 21:38:05",
-    "raw_data": {
-      "code": "202611133930961217",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794577085061217",
-      "share": 0,
-      "showTime": "2026-11-13 21:38:05",
-      "stockList": [
-        "105.CSCO"
-      ],
-      "summary": "【花旗集团下调思科目标价】花旗集团将思科目标价从139美元下调至120美元。",
-      "title": "花旗集团下调思科目标价",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930961217.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.CSCO"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "45e61ddae90d2665",
-    "code": "202611133930949818",
-    "title": "国际金银小幅拉涨 现货黄金价格涨0.62%",
-    "summary": "【国际金银小幅拉涨 现货黄金价格涨0.62%】国际金银小幅拉涨，现货黄金价格涨0.62%，报3901.35美元/盎司；现货白银价格涨0.38%，报50.23美元/盎司。",
-    "content": "【国际金银小幅拉涨 现货黄金价格涨0.62%】国际金银小幅拉涨，现货黄金价格涨0.62%，报3901.35美元/盎司；现货白银价格涨0.38%，报50.23美元/盎司。",
-    "full_content": "【国际金银小幅拉涨 现货黄金价格涨0.62%】国际金银小幅拉涨，现货黄金价格涨0.62%，报3901.35美元/盎司；现货白银价格涨0.38%，报50.23美元/盎司。",
-    "sort_time": "1794576947049818",
-    "showTime": "2026-11-13 21:35:47",
-    "time": "2026-11-13 21:35:47",
-    "publish_time": "2026-11-13 21:35:47",
-    "raw_data": {
-      "code": "202611133930949818",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1794576947049818",
-      "share": 3,
-      "showTime": "2026-11-13 21:35:47",
-      "stockList": [
-        "90.BK0732",
-        "90.BK1617"
-      ],
-      "summary": "【国际金银小幅拉涨 现货黄金价格涨0.62%】国际金银小幅拉涨，现货黄金价格涨0.62%，报3901.35美元/盎司；现货白银价格涨0.38%，报50.23美元/盎司。",
-      "title": "国际金银小幅拉涨 现货黄金价格涨0.62%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930949818.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0732",
-      "90.BK1617"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
-    }
-  },
-  {
-    "id": "ad132c9f51d492d1",
-    "code": "202611133930959444",
-    "title": "交易员下调对美联储收紧政策的预期",
-    "summary": "PPI报告公布后，交易员下调对美联储收紧政策的预期。",
-    "content": "PPI报告公布后，交易员下调对美联储收紧政策的预期。",
-    "full_content": "PPI报告公布后，交易员下调对美联储收紧政策的预期。",
-    "sort_time": "1794576933059444",
-    "showTime": "2026-11-13 21:35:33",
-    "time": "2026-11-13 21:35:33",
-    "publish_time": "2026-11-13 21:35:33",
-    "raw_data": {
-      "code": "202611133930959444",
-      "image": [],
-      "pinglun_Num": 86,
-      "realSort": "1794576933059444",
-      "share": 32,
-      "showTime": "2026-11-13 21:35:33",
-      "stockList": [],
-      "summary": "PPI报告公布后，交易员下调对美联储收紧政策的预期。",
-      "title": "交易员下调对美联储收紧政策的预期",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930959444.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 86,
-    "share_count": 32,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
     }
   }
 ]
