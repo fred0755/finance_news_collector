@@ -1,189 +1,146 @@
 [
   {
-    "id": "9211ed18166d68d9",
-    "code": "202611133930696286",
-    "title": "美国国家公路交通安全管理局：宝马申请召回约72万辆汽车",
-    "summary": "【美国国家公路交通安全管理局：宝马申请召回约72万辆汽车】11月13日，美国国家公路交通安全管理局（NHTSA）在线提交的召回通知显示，宝马北美公司正在召回720,796辆汽车。",
-    "content": "【美国国家公路交通安全管理局：宝马申请召回约72万辆汽车】11月13日，美国国家公路交通安全管理局（NHTSA）在线提交的召回通知显示，宝马北美公司正在召回720,796辆汽车。",
-    "full_content": "【美国国家公路交通安全管理局：宝马申请召回约72万辆汽车】11月13日，美国国家公路交通安全管理局（NHTSA）在线提交的召回通知显示，宝马北美公司正在召回720,796辆汽车。",
-    "sort_time": "1794557476096286",
-    "showTime": "2026-11-13 16:11:16",
-    "time": "2026-11-13 16:11:16",
-    "publish_time": "2026-11-13 16:11:16",
+    "id": "422ce836f17ab4e7",
+    "code": "202611143931059386",
+    "title": "Cerebras联席CEO表示：与行业其他公司一样 其数据中心建设也出现了延迟",
+    "summary": "Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。",
+    "content": "Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。",
+    "full_content": "Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。",
+    "sort_time": "1794587018059386",
+    "showTime": "2026-11-14 00:23:38",
+    "time": "2026-11-14 00:23:38",
+    "publish_time": "2026-11-14 00:23:38",
     "raw_data": {
-      "code": "202611133930696286",
+      "code": "202611143931059386",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1794557476096286",
+      "realSort": "1794587018059386",
       "share": 0,
-      "showTime": "2026-11-13 16:11:16",
+      "showTime": "2026-11-14 00:23:38",
       "stockList": [
-        "90.BK1211"
+        "105.CBRS",
+        "90.BK0922"
       ],
-      "summary": "【美国国家公路交通安全管理局：宝马申请召回约72万辆汽车】11月13日，美国国家公路交通安全管理局（NHTSA）在线提交的召回通知显示，宝马北美公司正在召回720,796辆汽车。",
-      "title": "美国国家公路交通安全管理局：宝马申请召回约72万辆汽车",
+      "summary": "Cerebras联席CEO表示，与行业其他公司一样，其数据中心建设也出现了延迟。",
+      "title": "Cerebras联席CEO表示：与行业其他公司一样 其数据中心建设也出现了延迟",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930696286.html",
-    "category": "其他",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931059386.html",
+    "category": "行业",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK1211"
+      "105.CBRS",
+      "90.BK0922"
     ],
     "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "df2a2a0e15b09abe",
+    "code": "202611143931058966",
+    "title": "欧洲央行管委兼德国央行行长Nagel表示：欧洲央行再次行动的可能性很高",
+    "summary": "欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。",
+    "content": "欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。",
+    "full_content": "欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。",
+    "sort_time": "1794586955058966",
+    "showTime": "2026-11-14 00:22:35",
+    "time": "2026-11-14 00:22:35",
+    "publish_time": "2026-11-14 00:22:35",
+    "raw_data": {
+      "code": "202611143931058966",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794586955058966",
+      "share": 0,
+      "showTime": "2026-11-14 00:22:35",
+      "stockList": [],
+      "summary": "欧洲央行管委兼德国央行行长Nagel表示，欧洲央行再次行动的可能性很高。",
+      "title": "欧洲央行管委兼德国央行行长Nagel表示：欧洲央行再次行动的可能性很高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931058966.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
     "comment_count": 0,
     "share_count": 0,
     "tags": {
       "industries": [
         {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "央行"
         }
       ],
-      "concepts": [],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "157719ddb379a3dd",
-    "code": "202611133930699187",
-    "title": "广期所：氢氧化锂期货合约自11月26日起上市交易",
-    "summary": "【广期所：氢氧化锂期货合约自11月26日起上市交易】11月13日，广期所发布通知，氢氧化锂期货合约自2026年11月26日（星期四）起上市交易。",
-    "content": "【广期所：氢氧化锂期货合约自11月26日起上市交易】11月13日，广期所发布通知，氢氧化锂期货合约自2026年11月26日（星期四）起上市交易。",
-    "full_content": "【广期所：氢氧化锂期货合约自11月26日起上市交易】11月13日，广期所发布通知，氢氧化锂期货合约自2026年11月26日（星期四）起上市交易。",
-    "sort_time": "1794557463099187",
-    "showTime": "2026-11-13 16:11:03",
-    "time": "2026-11-13 16:11:03",
-    "publish_time": "2026-11-13 16:11:03",
-    "raw_data": {
-      "code": "202611133930699187",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794557463099187",
-      "share": 0,
-      "showTime": "2026-11-13 16:11:03",
-      "stockList": [
-        "0.159001"
-      ],
-      "summary": "【广期所：氢氧化锂期货合约自11月26日起上市交易】11月13日，广期所发布通知，氢氧化锂期货合约自2026年11月26日（星期四）起上市交易。",
-      "title": "广期所：氢氧化锂期货合约自11月26日起上市交易",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930699187.html",
-    "category": "期货",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159001"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "002a5f391b7a1eea",
-    "code": "202611133930694423",
-    "title": "11月13日港股收盘：恒指跌1.55% 恒生科技指数跌3.02%",
-    "summary": "【11月13日港股收盘：恒指跌1.55% 恒生科技指数跌3.02%】恒生指数收报23637.6点，跌370.95点，跌幅1.55%；恒生科技指数收报3813.19点，跌118.74点，跌幅3.02%。恒生指数成分股中中国石油股份、舜宇光学科技、中国石油化工股份涨幅居前，龙湖集团、联想集团、华虹宏力跌幅靠前。",
-    "content": "【11月13日港股收盘：恒指跌1.55% 恒生科技指数跌3.02%】恒生指数收报23637.6点，跌370.95点，跌幅1.55%；恒生科技指数收报3813.19点，跌118.74点，跌幅3.02%。恒生指数成分股中中国石油股份、舜宇光学科技、中国石油化工股份涨幅居前，龙湖集团、联想集团、华虹宏力跌幅靠前。",
-    "full_content": "【11月13日港股收盘：恒指跌1.55% 恒生科技指数跌3.02%】恒生指数收报23637.6点，跌370.95点，跌幅1.55%；恒生科技指数收报3813.19点，跌118.74点，跌幅3.02%。恒生指数成分股中中国石油股份、舜宇光学科技、中国石油化工股份涨幅居前，龙湖集团、联想集团、华虹宏力跌幅靠前。",
-    "sort_time": "1794557409094423",
-    "showTime": "2026-11-13 16:10:09",
-    "time": "2026-11-13 16:10:09",
-    "publish_time": "2026-11-13 16:10:09",
-    "raw_data": {
-      "code": "202611133930694423",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1794557409094423",
-      "share": 13,
-      "showTime": "2026-11-13 16:10:09",
-      "stockList": [
-        "999.526887"
-      ],
-      "summary": "【11月13日港股收盘：恒指跌1.55% 恒生科技指数跌3.02%】恒生指数收报23637.6点，跌370.95点，跌幅1.55%；恒生科技指数收报3813.19点，跌118.74点，跌幅3.02%。恒生指数成分股中中国石油股份、舜宇光学科技、中国石油化工股份涨幅居前，龙湖集团、联想集团、华虹宏力跌幅靠前。",
-      "title": "11月13日港股收盘：恒指跌1.55% 恒生科技指数跌3.02%",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930694423.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "999.526887"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 13,
-    "tags": {
-      "industries": [],
       "concepts": [
         {
-          "id": "C506",
-          "name": "石油",
-          "matched_keyword": "石油"
-        },
-        {
-          "id": "C508",
-          "name": "化工",
-          "matched_keyword": "化工"
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "央行"
         }
       ],
-      "industry_ids": [],
+      "industry_ids": [
+        "I020101"
+      ],
       "concept_ids": [
-        "C506",
-        "C508"
+        "C402"
       ]
     }
   },
   {
-    "id": "f6cc8e65ef1a1aff",
-    "code": "202611133930693570",
-    "title": "昂立教育：副总裁刘清源因个人职业发展规划调整辞职",
-    "summary": "【昂立教育：副总裁刘清源因个人职业发展规划调整辞职】昂立教育11月13日公告，公司近日收到公司副总裁刘清源的书面辞职申请。刘清源因个人职业发展规划调整，申请辞去副总裁职务，辞职后，其将不再担任公司及下属公司任何职务。",
-    "content": "【昂立教育：副总裁刘清源因个人职业发展规划调整辞职】昂立教育11月13日公告，公司近日收到公司副总裁刘清源的书面辞职申请。刘清源因个人职业发展规划调整，申请辞去副总裁职务，辞职后，其将不再担任公司及下属公司任何职务。",
-    "full_content": "【昂立教育：副总裁刘清源因个人职业发展规划调整辞职】昂立教育11月13日公告，公司近日收到公司副总裁刘清源的书面辞职申请。刘清源因个人职业发展规划调整，申请辞去副总裁职务，辞职后，其将不再担任公司及下属公司任何职务。",
-    "sort_time": "1794557201093570",
-    "showTime": "2026-11-13 16:06:41",
-    "time": "2026-11-13 16:06:41",
-    "publish_time": "2026-11-13 16:06:41",
+    "id": "55aac2d2fb5ab84c",
+    "code": "202611143931056455",
+    "title": "Anthropic表示：影响多个产品的问题已经解决",
+    "summary": "Anthropic表示，影响多个产品的问题已经解决。",
+    "content": "Anthropic表示，影响多个产品的问题已经解决。",
+    "full_content": "Anthropic表示，影响多个产品的问题已经解决。",
+    "sort_time": "1794586268056455",
+    "showTime": "2026-11-14 00:11:08",
+    "time": "2026-11-14 00:11:08",
+    "publish_time": "2026-11-14 00:11:08",
     "raw_data": {
-      "code": "202611133930693570",
+      "code": "202611143931056455",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1794557201093570",
+      "realSort": "1794586268056455",
       "share": 0,
-      "showTime": "2026-11-13 16:06:41",
+      "showTime": "2026-11-14 00:11:08",
       "stockList": [
-        "1.600661"
+        "105.ANT"
       ],
-      "summary": "【昂立教育：副总裁刘清源因个人职业发展规划调整辞职】昂立教育11月13日公告，公司近日收到公司副总裁刘清源的书面辞职申请。刘清源因个人职业发展规划调整，申请辞去副总裁职务，辞职后，其将不再担任公司及下属公司任何职务。",
-      "title": "昂立教育：副总裁刘清源因个人职业发展规划调整辞职",
+      "summary": "Anthropic表示，影响多个产品的问题已经解决。",
+      "title": "Anthropic表示：影响多个产品的问题已经解决",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930693570.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931056455.html",
     "category": "其他",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "1.600661"
+      "105.ANT"
     ],
     "has_stock_mention": true,
     "comment_count": 0,
@@ -196,41 +153,965 @@
     }
   },
   {
-    "id": "7ed70b6bb842446f",
-    "code": "202611133930692945",
-    "title": "马斯克称黄仁勋将永远被铭记",
-    "summary": "【马斯克称黄仁勋将永远被铭记】北京时间12日晚间，英伟达宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。13日，有网友在X平台上分享2023年传记电影《AIR》（气垫传奇）中的台词“你将永远被铭记，因为有些东西是永恒的”。马斯克回应：“老黄（Jensen）。”",
-    "content": "【马斯克称黄仁勋将永远被铭记】北京时间12日晚间，英伟达宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。13日，有网友在X平台上分享2023年传记电影《AIR》（气垫传奇）中的台词“你将永远被铭记，因为有些东西是永恒的”。马斯克回应：“老黄（Jensen）。”",
-    "full_content": "【马斯克称黄仁勋将永远被铭记】北京时间12日晚间，英伟达宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。13日，有网友在X平台上分享2023年传记电影《AIR》（气垫传奇）中的台词“你将永远被铭记，因为有些东西是永恒的”。马斯克回应：“老黄（Jensen）。”",
-    "sort_time": "1794557191092945",
-    "showTime": "2026-11-13 16:06:31",
-    "time": "2026-11-13 16:06:31",
-    "publish_time": "2026-11-13 16:06:31",
+    "id": "a845bc8df3660a3d",
+    "code": "202611143931056229",
+    "title": "美国上诉法院表示：特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金",
+    "summary": "美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。",
+    "content": "美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。",
+    "full_content": "美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。",
+    "sort_time": "1794586177056229",
+    "showTime": "2026-11-14 00:09:37",
+    "time": "2026-11-14 00:09:37",
+    "publish_time": "2026-11-14 00:09:37",
     "raw_data": {
-      "code": "202611133930692945",
+      "code": "202611143931056229",
       "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1794557191092945",
-      "share": 1,
-      "showTime": "2026-11-13 16:06:31",
-      "stockList": [
-        "105.NVDA"
-      ],
-      "summary": "【马斯克称黄仁勋将永远被铭记】北京时间12日晚间，英伟达宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。13日，有网友在X平台上分享2023年传记电影《AIR》（气垫传奇）中的台词“你将永远被铭记，因为有些东西是永恒的”。马斯克回应：“老黄（Jensen）。”",
-      "title": "马斯克称黄仁勋将永远被铭记",
+      "pinglun_Num": 1,
+      "realSort": "1794586177056229",
+      "share": 0,
+      "showTime": "2026-11-14 00:09:37",
+      "stockList": [],
+      "summary": "美国上诉法院表示，特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金。",
+      "title": "美国上诉法院表示：特朗普政府不能因纽约州商业驾照问题扣留7350万美元公路资金",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930692945.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931056229.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "790632372d3380e3",
+    "code": "202611143931054813",
+    "title": "纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%",
+    "summary": "【纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%】纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。",
+    "content": "【纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%】纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。",
+    "full_content": "【纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%】纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。",
+    "sort_time": "1794586078054813",
+    "showTime": "2026-11-14 00:07:58",
+    "time": "2026-11-14 00:07:58",
+    "publish_time": "2026-11-14 00:07:58",
+    "raw_data": {
+      "code": "202611143931054813",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1794586078054813",
+      "share": 4,
+      "showTime": "2026-11-14 00:07:58",
+      "stockList": [],
+      "summary": "【纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%】纳斯达克100指数下跌2.4%至盘中低点，标普500指数下跌1.1%。费城半导体指数跌幅扩大至6.4%，AMD跌超10%，闪迪跌超9%，ARM跌超8%，西部数据、应用材料、博通跌超7%。",
+      "title": "纳斯达克100指数下跌2.4%至盘中低点 费城半导体指数跌6.4%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931054813.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 4,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "AR"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "C009",
+          "name": "元宇宙",
+          "matched_keyword": "AR"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I010103"
+      ],
+      "concept_ids": [
+        "C002",
+        "C009"
+      ]
+    }
+  },
+  {
+    "id": "b050180faf78238d",
+    "code": "202611143931054612",
+    "title": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%",
+    "summary": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。",
+    "content": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。",
+    "full_content": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。",
+    "sort_time": "1794585884054612",
+    "showTime": "2026-11-14 00:04:44",
+    "time": "2026-11-14 00:04:44",
+    "publish_time": "2026-11-14 00:04:44",
+    "raw_data": {
+      "code": "202611143931054612",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794585884054612",
+      "share": 0,
+      "showTime": "2026-11-14 00:04:44",
+      "stockList": [],
+      "summary": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%。",
+      "title": "俄罗斯第三季度国内生产总值同比增长1.0%，高于预估的0.9%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611143931054612.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "64ebeaabdb01c1d9",
+    "code": "202611133931053973",
+    "title": "现货白银日内跌幅扩大至2% 报49.04美元/盎司",
+    "summary": "现货白银日内跌幅扩大至2%，报49.04美元/盎司。",
+    "content": "现货白银日内跌幅扩大至2%，报49.04美元/盎司。",
+    "full_content": "现货白银日内跌幅扩大至2%，报49.04美元/盎司。",
+    "sort_time": "1794585339053973",
+    "showTime": "2026-11-13 23:55:39",
+    "time": "2026-11-13 23:55:39",
+    "publish_time": "2026-11-13 23:55:39",
+    "raw_data": {
+      "code": "202611133931053973",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794585339053973",
+      "share": 0,
+      "showTime": "2026-11-13 23:55:39",
+      "stockList": [
+        "90.BK1616"
+      ],
+      "summary": "现货白银日内跌幅扩大至2%，报49.04美元/盎司。",
+      "title": "现货白银日内跌幅扩大至2% 报49.04美元/盎司",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931053973.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1616"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "f909f82ca8307ad6",
+    "code": "202611133931052739",
+    "title": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元",
+    "summary": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元。",
+    "content": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元。",
+    "full_content": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元。",
+    "sort_time": "1794585270052739",
+    "showTime": "2026-11-13 23:54:30",
+    "time": "2026-11-13 23:54:30",
+    "publish_time": "2026-11-13 23:54:30",
+    "raw_data": {
+      "code": "202611133931052739",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794585270052739",
+      "share": 0,
+      "showTime": "2026-11-13 23:54:30",
+      "stockList": [
+        "106.BRK_A",
+        "106.BRK_B"
+      ],
+      "summary": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元。",
+      "title": "TD Cowen将伯克希尔哈撒韦B股的目标价从529美元上调至556美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931052739.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.BRK_A",
+      "106.BRK_B"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "bf0c4118fde56459",
+    "code": "202611133931052910",
+    "title": "Anthropic表示：Claude.ai、Claude API与Claude Code的错误率已处于正常水平 公司将继续进行监控",
+    "summary": "Anthropic表示，Claude.ai、Claude API与Claude Code的错误率已处于正常水平，公司将继续进行监控。",
+    "content": "Anthropic表示，Claude.ai、Claude API与Claude Code的错误率已处于正常水平，公司将继续进行监控。",
+    "full_content": "Anthropic表示，Claude.ai、Claude API与Claude Code的错误率已处于正常水平，公司将继续进行监控。",
+    "sort_time": "1794585198052910",
+    "showTime": "2026-11-13 23:53:18",
+    "time": "2026-11-13 23:53:18",
+    "publish_time": "2026-11-13 23:53:18",
+    "raw_data": {
+      "code": "202611133931052910",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794585198052910",
+      "share": 0,
+      "showTime": "2026-11-13 23:53:18",
+      "stockList": [
+        "105.ANT",
+        "90.BK0800"
+      ],
+      "summary": "Anthropic表示，Claude.ai、Claude API与Claude Code的错误率已处于正常水平，公司将继续进行监控。",
+      "title": "Anthropic表示：Claude.ai、Claude API与Claude Code的错误率已处于正常水平 公司将继续进行监控",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931052910.html",
     "category": "科技",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "105.NVDA"
+      "105.ANT",
+      "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b5cb3e9adf191992",
+    "code": "202611133931051498",
+    "title": "美军中央司令部否认在巴林雷达遭伊朗袭击",
+    "summary": "【美军中央司令部否认在巴林雷达遭伊朗袭击】当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
+    "content": "【美军中央司令部否认在巴林雷达遭伊朗袭击】当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
+    "full_content": "【美军中央司令部否认在巴林雷达遭伊朗袭击】当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
+    "sort_time": "1794584958051498",
+    "showTime": "2026-11-13 23:49:18",
+    "time": "2026-11-13 23:49:18",
+    "publish_time": "2026-11-13 23:49:18",
+    "raw_data": {
+      "code": "202611133931051498",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794584958051498",
+      "share": 2,
+      "showTime": "2026-11-13 23:49:18",
+      "stockList": [],
+      "summary": "【美军中央司令部否认在巴林雷达遭伊朗袭击】当地时间11月13日，美军中央司令部在社交媒体发帖，否认在巴林境内的预警雷达遭伊朗袭击。美军称，“事实是伊朗伊斯兰革命卫队向巴林发射了两架单向攻击无人机，但均被击落，未造成人员伤亡或财产损失。”",
+      "title": "美军中央司令部否认在巴林雷达遭伊朗袭击",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931051498.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C205",
+          "name": "低空经济",
+          "matched_keyword": "无人机"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C205"
+      ]
+    }
+  },
+  {
+    "id": "d5aec991b4f383c4",
+    "code": "202611133931050495",
+    "title": "微软称服务恢复取得令人鼓舞的进展",
+    "summary": "微软称服务恢复取得令人鼓舞的进展。",
+    "content": "微软称服务恢复取得令人鼓舞的进展。",
+    "full_content": "微软称服务恢复取得令人鼓舞的进展。",
+    "sort_time": "1794584745050495",
+    "showTime": "2026-11-13 23:45:45",
+    "time": "2026-11-13 23:45:45",
+    "publish_time": "2026-11-13 23:45:45",
+    "raw_data": {
+      "code": "202611133931050495",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794584745050495",
+      "share": 1,
+      "showTime": "2026-11-13 23:45:45",
+      "stockList": [
+        "105.MSFT"
+      ],
+      "summary": "微软称服务恢复取得令人鼓舞的进展。",
+      "title": "微软称服务恢复取得令人鼓舞的进展",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931050495.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.MSFT"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
     "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "738f22ee724366ff",
+    "code": "202611133931050568",
+    "title": "美联储官员柯林斯表示：数据显示通胀过高 且范围正在扩大",
+    "summary": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
+    "content": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
+    "full_content": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
+    "sort_time": "1794584728050568",
+    "showTime": "2026-11-13 23:45:28",
+    "time": "2026-11-13 23:45:28",
+    "publish_time": "2026-11-13 23:45:28",
+    "raw_data": {
+      "code": "202611133931050568",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1794584728050568",
+      "share": 0,
+      "showTime": "2026-11-13 23:45:28",
+      "stockList": [],
+      "summary": "美联储官员柯林斯表示，数据显示通胀过高，且范围正在扩大；谨慎调整政策是恰当的。",
+      "title": "美联储官员柯林斯表示：数据显示通胀过高 且范围正在扩大",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931050568.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "b434038f66757395",
+    "code": "202611133931048087",
+    "title": "美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%",
+    "summary": "【美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%】美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台积电跌3.18%。三倍做多半导体ETF-Direxion跌18.99%。",
+    "content": "【美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%】美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台积电跌3.18%。三倍做多半导体ETF-Direxion跌18.99%。",
+    "full_content": "【美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%】美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台积电跌3.18%。三倍做多半导体ETF-Direxion跌18.99%。",
+    "sort_time": "1794584336048087",
+    "showTime": "2026-11-13 23:38:56",
+    "time": "2026-11-13 23:38:56",
+    "publish_time": "2026-11-13 23:38:56",
+    "raw_data": {
+      "code": "202611133931048087",
+      "image": [],
+      "pinglun_Num": 23,
+      "realSort": "1794584336048087",
+      "share": 30,
+      "showTime": "2026-11-13 23:38:56",
+      "stockList": [
+        "0.159813"
+      ],
+      "summary": "【美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%】美股半导体板块跌幅进一步扩大，费城半导体指数跌6.05%。成分股方面，AMD跌10.24%，闪迪跌9.19%，迈威尔科技跌9.12%，Coherent跌9.95%，Lumentum跌8.67%，应用材料跌6.66%，博通跌6.72%，英伟达跌4.22%，美光科技跌5.37%，台积电跌3.18%。三倍做多半导体ETF-Direxion跌18.99%。",
+      "title": "美股半导体板块跌幅扩大：费城半导体指数跌6% AMD跌10%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931048087.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159813"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 23,
+    "share_count": 30,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "ETF"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I020201"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "ea4d482e7a16b7f4",
+    "code": "202611133931046920",
+    "title": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元",
+    "summary": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元。",
+    "content": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元。",
+    "full_content": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元。",
+    "sort_time": "1794584052046920",
+    "showTime": "2026-11-13 23:34:12",
+    "time": "2026-11-13 23:34:12",
+    "publish_time": "2026-11-13 23:34:12",
+    "raw_data": {
+      "code": "202611133931046920",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794584052046920",
+      "share": 0,
+      "showTime": "2026-11-13 23:34:12",
+      "stockList": [],
+      "summary": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元。",
+      "title": "加拿大将通过战略应对基金投资本田北美公司3.13亿加元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931046920.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3f117906fa62118f",
+    "code": "202611133931046320",
+    "title": "美国至上周EIA天然气库存增加610亿立方英尺",
+    "summary": "【美国至上周EIA天然气库存增加610亿立方英尺】美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
+    "content": "【美国至上周EIA天然气库存增加610亿立方英尺】美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
+    "full_content": "【美国至上周EIA天然气库存增加610亿立方英尺】美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
+    "sort_time": "1794583846046320",
+    "showTime": "2026-11-13 23:30:46",
+    "time": "2026-11-13 23:30:46",
+    "publish_time": "2026-11-13 23:30:46",
+    "raw_data": {
+      "code": "202611133931046320",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794583846046320",
+      "share": 0,
+      "showTime": "2026-11-13 23:30:46",
+      "stockList": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
+      "summary": "【美国至上周EIA天然气库存增加610亿立方英尺】美国至上周EIA天然气库存增加610亿立方英尺，预期660亿立方英尺，前值770亿立方英尺。",
+      "title": "美国至上周EIA天然气库存增加610亿立方英尺",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931046320.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1028",
+      "90.BK0427"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C507",
+          "name": "天然气",
+          "matched_keyword": "天然气"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C507"
+      ]
+    }
+  },
+  {
+    "id": "1b5a6d4cf4ee05c6",
+    "code": "202611133931044913",
+    "title": "纳斯达克综合指数向下跌破25000点 最新报24918.71点",
+    "summary": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
+    "content": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
+    "full_content": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
+    "sort_time": "1794583527044913",
+    "showTime": "2026-11-13 23:25:27",
+    "time": "2026-11-13 23:25:27",
+    "publish_time": "2026-11-13 23:25:27",
+    "raw_data": {
+      "code": "202611133931044913",
+      "image": [],
+      "pinglun_Num": 8,
+      "realSort": "1794583527044913",
+      "share": 3,
+      "showTime": "2026-11-13 23:25:27",
+      "stockList": [],
+      "summary": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
+      "title": "纳斯达克综合指数向下跌破25000点 最新报24918.71点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931044913.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bearish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d8c0cdc2675cd5ab",
+    "code": "202611133931044051",
+    "title": "LME伦铜跌幅扩大 现跌1%",
+    "summary": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
+    "content": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
+    "full_content": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
+    "sort_time": "1794583322044051",
+    "showTime": "2026-11-13 23:22:02",
+    "time": "2026-11-13 23:22:02",
+    "publish_time": "2026-11-13 23:22:02",
+    "raw_data": {
+      "code": "202611133931044051",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794583322044051",
+      "share": 2,
+      "showTime": "2026-11-13 23:22:02",
+      "stockList": [],
+      "summary": "LME伦铜跌幅扩大，现跌1%，最新报13450.89美元/吨。",
+      "title": "LME伦铜跌幅扩大 现跌1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931044051.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "铜"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "d6e4754552a3c521",
+    "code": "202611133931041170",
+    "title": "标普500指数跌幅扩大至1.1% 纳斯达克综合指数跌1.62%",
+    "summary": "标普500指数跌幅扩大至1.1%，纳斯达克综合指数跌1.62%。",
+    "content": "标普500指数跌幅扩大至1.1%，纳斯达克综合指数跌1.62%。",
+    "full_content": "标普500指数跌幅扩大至1.1%，纳斯达克综合指数跌1.62%。",
+    "sort_time": "1794582928041170",
+    "showTime": "2026-11-13 23:15:28",
+    "time": "2026-11-13 23:15:28",
+    "publish_time": "2026-11-13 23:15:28",
+    "raw_data": {
+      "code": "202611133931041170",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1794582928041170",
+      "share": 2,
+      "showTime": "2026-11-13 23:15:28",
+      "stockList": [],
+      "summary": "标普500指数跌幅扩大至1.1%，纳斯达克综合指数跌1.62%。",
+      "title": "标普500指数跌幅扩大至1.1% 纳斯达克综合指数跌1.62%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931041170.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5e3b386e89931549",
+    "code": "202611133931040925",
+    "title": "英伟达股价跌幅扩大至3.3%",
+    "summary": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
+    "content": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
+    "full_content": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
+    "sort_time": "1794582722040925",
+    "showTime": "2026-11-13 23:12:02",
+    "time": "2026-11-13 23:12:02",
+    "publish_time": "2026-11-13 23:12:02",
+    "raw_data": {
+      "code": "202611133931040925",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1794582722040925",
+      "share": 6,
+      "showTime": "2026-11-13 23:12:02",
+      "stockList": [
+        "105.NVDA",
+        "90.BK1161"
+      ],
+      "summary": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
+      "title": "英伟达股价跌幅扩大至3.3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931040925.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "105.NVDA",
+      "90.BK1161"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 6,
+    "share_count": 6,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "76eeb182aed6df92",
+    "code": "202611133931037285",
+    "title": "OpenAI推出ChatGPT Wallet 支持智能体代理支付",
+    "summary": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满18岁，并通过生物识别验证批准交易。",
+    "content": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满18岁，并通过生物识别验证批准交易。",
+    "full_content": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满18岁，并通过生物识别验证批准交易。",
+    "sort_time": "1794582514037285",
+    "showTime": "2026-11-13 23:08:34",
+    "time": "2026-11-13 23:08:34",
+    "publish_time": "2026-11-13 23:08:34",
+    "raw_data": {
+      "code": "202611133931037285",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1794582514037285",
+      "share": 0,
+      "showTime": "2026-11-13 23:08:34",
+      "stockList": [
+        "90.BK1126",
+        "0.161121"
+      ],
+      "summary": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满18岁，并通过生物识别验证批准交易。",
+      "title": "OpenAI推出ChatGPT Wallet 支持智能体代理支付",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931037285.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1126",
+      "0.161121"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "ChatGPT"
+        },
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "C601",
+          "name": "白酒",
+          "matched_keyword": "酒"
+        },
+        {
+          "id": "C604",
+          "name": "旅游",
+          "matched_keyword": "酒店"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C402",
+        "C601",
+        "C604"
+      ]
+    }
+  },
+  {
+    "id": "a3657379c819fe85",
+    "code": "202611133931034640",
+    "title": "美股半导体板块集体走低 费城半导体指数跌4.3%",
+    "summary": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体ETF-Direxion跌13.63%。",
+    "content": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体ETF-Direxion跌13.63%。",
+    "full_content": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体ETF-Direxion跌13.63%。",
+    "sort_time": "1794582345034640",
+    "showTime": "2026-11-13 23:05:45",
+    "time": "2026-11-13 23:05:45",
+    "publish_time": "2026-11-13 23:05:45",
+    "raw_data": {
+      "code": "202611133931034640",
+      "image": [],
+      "pinglun_Num": 16,
+      "realSort": "1794582345034640",
+      "share": 12,
+      "showTime": "2026-11-13 23:05:45",
+      "stockList": [
+        "90.BK1036",
+        "90.BK0459"
+      ],
+      "summary": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体ETF-Direxion跌13.63%。",
+      "title": "美股半导体板块集体走低 费城半导体指数跌4.3%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931034640.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK1036",
+      "90.BK0459"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 16,
+    "share_count": 12,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "ETF"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I020201"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "fc4a6d39273ec7c4",
+    "code": "202611133931031512",
+    "title": "Anthropic称：Claude.AI和Claude API正在恢复",
+    "summary": "【Anthropic称：Claude.AI和Claude API正在恢复】Anthropic称，Claude.AI和Claude API正在恢复；在继续处理相关问题的过程中，错误可能会再次出现。",
+    "content": "【Anthropic称：Claude.AI和Claude API正在恢复】Anthropic称，Claude.AI和Claude API正在恢复；在继续处理相关问题的过程中，错误可能会再次出现。",
+    "full_content": "【Anthropic称：Claude.AI和Claude API正在恢复】Anthropic称，Claude.AI和Claude API正在恢复；在继续处理相关问题的过程中，错误可能会再次出现。",
+    "sort_time": "1794581915031512",
+    "showTime": "2026-11-13 22:58:35",
+    "time": "2026-11-13 22:58:35",
+    "publish_time": "2026-11-13 22:58:35",
+    "raw_data": {
+      "code": "202611133931031512",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794581915031512",
+      "share": 2,
+      "showTime": "2026-11-13 22:58:35",
+      "stockList": [
+        "105.ANT",
+        "90.BK0800"
+      ],
+      "summary": "【Anthropic称：Claude.AI和Claude API正在恢复】Anthropic称，Claude.AI和Claude API正在恢复；在继续处理相关问题的过程中，错误可能会再次出现。",
+      "title": "Anthropic称：Claude.AI和Claude API正在恢复",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931031512.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.ANT",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
@@ -247,620 +1128,298 @@
     }
   },
   {
-    "id": "17d82224e62cf73f",
-    "code": "202611133930691798",
-    "title": "欧洲主要股指小幅低开",
-    "summary": "【欧洲主要股指小幅低开】欧洲斯托克指数开盘下跌0.24%，英国富时100指数下跌0.16%，法国CAC40指数下跌0.2%。",
-    "content": "【欧洲主要股指小幅低开】欧洲斯托克指数开盘下跌0.24%，英国富时100指数下跌0.16%，法国CAC40指数下跌0.2%。",
-    "full_content": "【欧洲主要股指小幅低开】欧洲斯托克指数开盘下跌0.24%，英国富时100指数下跌0.16%，法国CAC40指数下跌0.2%。",
-    "sort_time": "1794556998091798",
-    "showTime": "2026-11-13 16:03:18",
-    "time": "2026-11-13 16:03:18",
-    "publish_time": "2026-11-13 16:03:18",
+    "id": "4ffecdfb5e7d1b31",
+    "code": "202611133931025977",
+    "title": "费城半导体指数跌逾3% 成分股AMD跌逾6%",
+    "summary": "【费城半导体指数跌逾3% 成分股AMD跌逾6%】11月13日，费城半导体指数跌逾3%，成分股AMD跌逾6%，Coherent、博通、迈威尔科技跌约5%，英特尔跌逾3%，英伟达跌逾2%。",
+    "content": "【费城半导体指数跌逾3% 成分股AMD跌逾6%】11月13日，费城半导体指数跌逾3%，成分股AMD跌逾6%，Coherent、博通、迈威尔科技跌约5%，英特尔跌逾3%，英伟达跌逾2%。",
+    "full_content": "【费城半导体指数跌逾3% 成分股AMD跌逾6%】11月13日，费城半导体指数跌逾3%，成分股AMD跌逾6%，Coherent、博通、迈威尔科技跌约5%，英特尔跌逾3%，英伟达跌逾2%。",
+    "sort_time": "1794581612025977",
+    "showTime": "2026-11-13 22:53:32",
+    "time": "2026-11-13 22:53:32",
+    "publish_time": "2026-11-13 22:53:32",
     "raw_data": {
-      "code": "202611133930691798",
+      "code": "202611133931025977",
       "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1794556998091798",
-      "share": 0,
-      "showTime": "2026-11-13 16:03:18",
-      "stockList": [],
-      "summary": "【欧洲主要股指小幅低开】欧洲斯托克指数开盘下跌0.24%，英国富时100指数下跌0.16%，法国CAC40指数下跌0.2%。",
-      "title": "欧洲主要股指小幅低开",
+      "pinglun_Num": 6,
+      "realSort": "1794581612025977",
+      "share": 4,
+      "showTime": "2026-11-13 22:53:32",
+      "stockList": [
+        "90.BK1036",
+        "90.BK0459"
+      ],
+      "summary": "【费城半导体指数跌逾3% 成分股AMD跌逾6%】11月13日，费城半导体指数跌逾3%，成分股AMD跌逾6%，Coherent、博通、迈威尔科技跌约5%，英特尔跌逾3%，英伟达跌逾2%。",
+      "title": "费城半导体指数跌逾3% 成分股AMD跌逾6%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930691798.html",
-    "category": "其他",
-    "importance": 5,
+    "url": "https://kuaixun.eastmoney.com/news/202611133931025977.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1036",
+      "90.BK0459"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 6,
+    "share_count": 4,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "4a228cad6bb88d83",
+    "code": "202611133931024367",
+    "title": "费城半导体指数跌幅扩大至2%，AMD跌超5%",
+    "summary": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
+    "content": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
+    "full_content": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
+    "sort_time": "1794581196024367",
+    "showTime": "2026-11-13 22:46:36",
+    "time": "2026-11-13 22:46:36",
+    "publish_time": "2026-11-13 22:46:36",
+    "raw_data": {
+      "code": "202611133931024367",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1794581196024367",
+      "share": 2,
+      "showTime": "2026-11-13 22:46:36",
+      "stockList": [
+        "105.AMD",
+        "90.BK1036"
+      ],
+      "summary": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
+      "title": "费城半导体指数跌幅扩大至2%，AMD跌超5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931024367.html",
+    "category": "科技",
+    "importance": 6,
     "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "533efdd654a523ba",
-    "code": "202611133930692513",
-    "title": "华侨城A：10月实现合同销售金额5.7亿元",
-    "summary": "【华侨城A：10月实现合同销售金额5.7亿元】华侨城A(000069)11月13日公告，10月，公司实现合同销售面积5.3万平方米，合同销售金额5.7亿元。1—10月，公司累计实现合同销售面积60.9万平方米，合同销售金额80.5亿元。",
-    "content": "【华侨城A：10月实现合同销售金额5.7亿元】华侨城A(000069)11月13日公告，10月，公司实现合同销售面积5.3万平方米，合同销售金额5.7亿元。1—10月，公司累计实现合同销售面积60.9万平方米，合同销售金额80.5亿元。",
-    "full_content": "【华侨城A：10月实现合同销售金额5.7亿元】华侨城A(000069)11月13日公告，10月，公司实现合同销售面积5.3万平方米，合同销售金额5.7亿元。1—10月，公司累计实现合同销售面积60.9万平方米，合同销售金额80.5亿元。",
-    "sort_time": "1794556986092513",
-    "showTime": "2026-11-13 16:03:06",
-    "time": "2026-11-13 16:03:06",
-    "publish_time": "2026-11-13 16:03:06",
-    "raw_data": {
-      "code": "202611133930692513",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794556986092513",
-      "share": 0,
-      "showTime": "2026-11-13 16:03:06",
-      "stockList": [
-        "0.000069"
-      ],
-      "summary": "【华侨城A：10月实现合同销售金额5.7亿元】华侨城A(000069)11月13日公告，10月，公司实现合同销售面积5.3万平方米，合同销售金额5.7亿元。1—10月，公司累计实现合同销售面积60.9万平方米，合同销售金额80.5亿元。",
-      "title": "华侨城A：10月实现合同销售金额5.7亿元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930692513.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
     "related_stocks": [
-      "0.000069"
+      "105.AMD",
+      "90.BK1036"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
+    "comment_count": 5,
+    "share_count": 2,
     "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "15b077e7fe0b10a7",
-    "code": "202611133930691872",
-    "title": "春秋航空：10月旅客周转量同比增长8.47%",
-    "summary": "【春秋航空：10月旅客周转量同比增长8.47%】春秋航空(601021)11月13日公告，10月运输周转量5.05亿吨公里，同比增长8.46%；旅客周转量54.91亿人公里，同比增长8.47%；货邮周转量1907.77万吨公里，同比增长3.58%。",
-    "content": "【春秋航空：10月旅客周转量同比增长8.47%】春秋航空(601021)11月13日公告，10月运输周转量5.05亿吨公里，同比增长8.46%；旅客周转量54.91亿人公里，同比增长8.47%；货邮周转量1907.77万吨公里，同比增长3.58%。",
-    "full_content": "【春秋航空：10月旅客周转量同比增长8.47%】春秋航空(601021)11月13日公告，10月运输周转量5.05亿吨公里，同比增长8.46%；旅客周转量54.91亿人公里，同比增长8.47%；货邮周转量1907.77万吨公里，同比增长3.58%。",
-    "sort_time": "1794556830091872",
-    "showTime": "2026-11-13 16:00:30",
-    "time": "2026-11-13 16:00:30",
-    "publish_time": "2026-11-13 16:00:30",
-    "raw_data": {
-      "code": "202611133930691872",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794556830091872",
-      "share": 0,
-      "showTime": "2026-11-13 16:00:30",
-      "stockList": [
-        "1.601021"
-      ],
-      "summary": "【春秋航空：10月旅客周转量同比增长8.47%】春秋航空(601021)11月13日公告，10月运输周转量5.05亿吨公里，同比增长8.46%；旅客周转量54.91亿人公里，同比增长8.47%；货邮周转量1907.77万吨公里，同比增长3.58%。",
-      "title": "春秋航空：10月旅客周转量同比增长8.47%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930691872.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "1.601021"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
+      "industries": [
         {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "航空"
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
         }
       ],
-      "industry_ids": [],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
       "concept_ids": [
-        "C201"
+        "C002"
       ]
     }
   },
   {
-    "id": "adad96417926c1fa",
-    "code": "202611133930689414",
-    "title": "金开新能：拟收购赫章电力60%股权并投建威赫煤电项目",
-    "summary": "【金开新能：拟收购赫章电力60%股权并投建威赫煤电项目】11月13日，金开新能(600821.SH)公告称，公司全资子公司金开贵州拟收购贵阳能源集团赫章电力有限公司不低于60%股权，关联方津融国金拟收购7.5%股权，合计持股不低于67.5%。标的公司持有在建贵州威赫2×660MW超超临界循环流化床煤电项目，总装机容量1320MW。按收购60%股权测算，公司应承担出资总额预计为9.61亿元，若按最高收购100%股权计算，涉及金额最高不超过16.02亿元。",
-    "content": "【金开新能：拟收购赫章电力60%股权并投建威赫煤电项目】11月13日，金开新能(600821.SH)公告称，公司全资子公司金开贵州拟收购贵阳能源集团赫章电力有限公司不低于60%股权，关联方津融国金拟收购7.5%股权，合计持股不低于67.5%。标的公司持有在建贵州威赫2×660MW超超临界循环流化床煤电项目，总装机容量1320MW。按收购60%股权测算，公司应承担出资总额预计为9.61亿元，若按最高收购100%股权计算，涉及金额最高不超过16.02亿元。",
-    "full_content": "【金开新能：拟收购赫章电力60%股权并投建威赫煤电项目】11月13日，金开新能(600821.SH)公告称，公司全资子公司金开贵州拟收购贵阳能源集团赫章电力有限公司不低于60%股权，关联方津融国金拟收购7.5%股权，合计持股不低于67.5%。标的公司持有在建贵州威赫2×660MW超超临界循环流化床煤电项目，总装机容量1320MW。按收购60%股权测算，公司应承担出资总额预计为9.61亿元，若按最高收购100%股权计算，涉及金额最高不超过16.02亿元。",
-    "sort_time": "1794556671089414",
-    "showTime": "2026-11-13 15:57:51",
-    "time": "2026-11-13 15:57:51",
-    "publish_time": "2026-11-13 15:57:51",
+    "id": "f76201bf7360dc0f",
+    "code": "202611133931018279",
+    "title": "英伟达股价跌幅扩大至2%",
+    "summary": "英伟达股价跌幅扩大至2%，报162.935美元/股，总市值报3.93万亿美元。英伟达盘初一度曾上涨1.6%。",
+    "content": "英伟达股价跌幅扩大至2%，报162.935美元/股，总市值报3.93万亿美元。英伟达盘初一度曾上涨1.6%。",
+    "full_content": "英伟达股价跌幅扩大至2%，报162.935美元/股，总市值报3.93万亿美元。英伟达盘初一度曾上涨1.6%。",
+    "sort_time": "1794580952018279",
+    "showTime": "2026-11-13 22:42:32",
+    "time": "2026-11-13 22:42:32",
+    "publish_time": "2026-11-13 22:42:32",
     "raw_data": {
-      "code": "202611133930689414",
+      "code": "202611133931018279",
       "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794556671089414",
-      "share": 1,
-      "showTime": "2026-11-13 15:57:51",
-      "stockList": [
-        "1.600821",
-        "90.BK0428"
-      ],
-      "summary": "【金开新能：拟收购赫章电力60%股权并投建威赫煤电项目】11月13日，金开新能(600821.SH)公告称，公司全资子公司金开贵州拟收购贵阳能源集团赫章电力有限公司不低于60%股权，关联方津融国金拟收购7.5%股权，合计持股不低于67.5%。标的公司持有在建贵州威赫2×660MW超超临界循环流化床煤电项目，总装机容量1320MW。按收购60%股权测算，公司应承担出资总额预计为9.61亿元，若按最高收购100%股权计算，涉及金额最高不超过16.02亿元。",
-      "title": "金开新能：拟收购赫章电力60%股权并投建威赫煤电项目",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930689414.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.600821",
-      "90.BK0428"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "59c955daf68c9671",
-    "code": "202611133930689322",
-    "title": "商汤科技在北京成立京谷科技公司 注册资本1000万元",
-    "summary": "【商汤科技在北京成立京谷科技公司 注册资本1000万元】天眼查App显示，近日，北京商汤京谷科技有限公司成立，法定代表人为马堃，注册资本1000万元人民币，经营范围包括软件开发、信息系统集成服务、数字内容制作服务等。股东信息显示，该公司由上海商汤智能科技有限公司全资持股。",
-    "content": "【商汤科技在北京成立京谷科技公司 注册资本1000万元】天眼查App显示，近日，北京商汤京谷科技有限公司成立，法定代表人为马堃，注册资本1000万元人民币，经营范围包括软件开发、信息系统集成服务、数字内容制作服务等。股东信息显示，该公司由上海商汤智能科技有限公司全资持股。",
-    "full_content": "【商汤科技在北京成立京谷科技公司 注册资本1000万元】天眼查App显示，近日，北京商汤京谷科技有限公司成立，法定代表人为马堃，注册资本1000万元人民币，经营范围包括软件开发、信息系统集成服务、数字内容制作服务等。股东信息显示，该公司由上海商汤智能科技有限公司全资持股。",
-    "sort_time": "1794556648089322",
-    "showTime": "2026-11-13 15:57:28",
-    "time": "2026-11-13 15:57:28",
-    "publish_time": "2026-11-13 15:57:28",
-    "raw_data": {
-      "code": "202611133930689322",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794556648089322",
-      "share": 0,
-      "showTime": "2026-11-13 15:57:28",
-      "stockList": [
-        "116.00020",
-        "116.80020"
-      ],
-      "summary": "【商汤科技在北京成立京谷科技公司 注册资本1000万元】天眼查App显示，近日，北京商汤京谷科技有限公司成立，法定代表人为马堃，注册资本1000万元人民币，经营范围包括软件开发、信息系统集成服务、数字内容制作服务等。股东信息显示，该公司由上海商汤智能科技有限公司全资持股。",
-      "title": "商汤科技在北京成立京谷科技公司 注册资本1000万元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930689322.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "116.00020",
-      "116.80020"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "b718193cd79ffdb6",
-    "code": "202611133930691324",
-    "title": "瑞纳智能：中标2.02亿元供热计量节能改造项目",
-    "summary": "【瑞纳智能：中标2.02亿元供热计量节能改造项目】11月13日，瑞纳智能(301129.SZ)公告称，公司收到乌鲁木齐热力(集团)有限公司发出的《中标通知书》，确定为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务的中标人，中标价为2.02亿元。",
-    "content": "【瑞纳智能：中标2.02亿元供热计量节能改造项目】11月13日，瑞纳智能(301129.SZ)公告称，公司收到乌鲁木齐热力(集团)有限公司发出的《中标通知书》，确定为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务的中标人，中标价为2.02亿元。",
-    "full_content": "【瑞纳智能：中标2.02亿元供热计量节能改造项目】11月13日，瑞纳智能(301129.SZ)公告称，公司收到乌鲁木齐热力(集团)有限公司发出的《中标通知书》，确定为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务的中标人，中标价为2.02亿元。",
-    "sort_time": "1794556640091324",
-    "showTime": "2026-11-13 15:57:20",
-    "time": "2026-11-13 15:57:20",
-    "publish_time": "2026-11-13 15:57:20",
-    "raw_data": {
-      "code": "202611133930691324",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794556640091324",
-      "share": 0,
-      "showTime": "2026-11-13 15:57:20",
-      "stockList": [
-        "0.301129"
-      ],
-      "summary": "【瑞纳智能：中标2.02亿元供热计量节能改造项目】11月13日，瑞纳智能(301129.SZ)公告称，公司收到乌鲁木齐热力(集团)有限公司发出的《中标通知书》，确定为乌鲁木齐市2026年供热计量节能改造项目有线平衡阀管段采购及服务的中标人，中标价为2.02亿元。",
-      "title": "瑞纳智能：中标2.02亿元供热计量节能改造项目",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930691324.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.301129"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "4c1ab56b406e2a76",
-    "code": "202611133930685753",
-    "title": "存储紧缺下涨价潮范围扩大 大疆将于11月18日起调整部分产品建议零售价",
-    "summary": "【存储紧缺下涨价潮范围扩大 大疆将于11月18日起调整部分产品建议零售价】大疆今日上午宣布，将于11月18日起调整部分在售的手持云台相机、拇指相机产品的建议零售价，为消费者留出缓冲期。",
-    "content": "【存储紧缺下涨价潮范围扩大 大疆将于11月18日起调整部分产品建议零售价】大疆今日上午宣布，将于11月18日起调整部分在售的手持云台相机、拇指相机产品的建议零售价，为消费者留出缓冲期。",
-    "full_content": "【存储紧缺下涨价潮范围扩大 大疆将于11月18日起调整部分产品建议零售价】大疆今日上午宣布，将于11月18日起调整部分在售的手持云台相机、拇指相机产品的建议零售价，为消费者留出缓冲期。",
-    "sort_time": "1794556346085753",
-    "showTime": "2026-11-13 15:52:26",
-    "time": "2026-11-13 15:52:26",
-    "publish_time": "2026-11-13 15:52:26",
-    "raw_data": {
-      "code": "202611133930685753",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794556346085753",
-      "share": 5,
-      "showTime": "2026-11-13 15:52:26",
-      "stockList": [
-        "90.BK0704"
-      ],
-      "summary": "【存储紧缺下涨价潮范围扩大 大疆将于11月18日起调整部分产品建议零售价】大疆今日上午宣布，将于11月18日起调整部分在售的手持云台相机、拇指相机产品的建议零售价，为消费者留出缓冲期。",
-      "title": "存储紧缺下涨价潮范围扩大 大疆将于11月18日起调整部分产品建议零售价",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930685753.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0704"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C605",
-          "name": "零售",
-          "matched_keyword": "零售"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C605"
-      ]
-    }
-  },
-  {
-    "id": "ac3e8c2114fb70c0",
-    "code": "202611133930685113",
-    "title": "离岸信托个人所得税政策口径问答",
-    "summary": "【离岸信托个人所得税政策口径问答】财政部官网发布离岸信托个人所得税政策口径问答。",
-    "content": "【离岸信托个人所得税政策口径问答】财政部官网发布离岸信托个人所得税政策口径问答。",
-    "full_content": "【离岸信托个人所得税政策口径问答】财政部官网发布离岸信托个人所得税政策口径问答。",
-    "sort_time": "1794556341085113",
-    "showTime": "2026-11-13 15:52:21",
-    "time": "2026-11-13 15:52:21",
-    "publish_time": "2026-11-13 15:52:21",
-    "raw_data": {
-      "code": "202611133930685113",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1794556341085113",
+      "pinglun_Num": 5,
+      "realSort": "1794580952018279",
       "share": 3,
-      "showTime": "2026-11-13 15:52:21",
-      "stockList": [],
-      "summary": "【离岸信托个人所得税政策口径问答】财政部官网发布离岸信托个人所得税政策口径问答。",
-      "title": "离岸信托个人所得税政策口径问答",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930685113.html",
-    "category": "政策",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C404",
-          "name": "信托",
-          "matched_keyword": "信托"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C404"
-      ]
-    }
-  },
-  {
-    "id": "3140bdba8f2964dc",
-    "code": "202611133930685425",
-    "title": "余承东：问界进入新的合作阶段",
-    "summary": "【余承东：问界进入新的合作阶段】华为常务董事、产品投资评审委员会主任、终端BG董事长余承东今日表示，问界是鸿蒙智行第一个合作品牌，也即将进入新的合作阶段。",
-    "content": "【余承东：问界进入新的合作阶段】华为常务董事、产品投资评审委员会主任、终端BG董事长余承东今日表示，问界是鸿蒙智行第一个合作品牌，也即将进入新的合作阶段。",
-    "full_content": "【余承东：问界进入新的合作阶段】华为常务董事、产品投资评审委员会主任、终端BG董事长余承东今日表示，问界是鸿蒙智行第一个合作品牌，也即将进入新的合作阶段。",
-    "sort_time": "1794556319085425",
-    "showTime": "2026-11-13 15:51:59",
-    "time": "2026-11-13 15:51:59",
-    "publish_time": "2026-11-13 15:51:59",
-    "raw_data": {
-      "code": "202611133930685425",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1794556319085425",
-      "share": 0,
-      "showTime": "2026-11-13 15:51:59",
-      "stockList": [
-        "1.601127",
-        "116.09927"
-      ],
-      "summary": "【余承东：问界进入新的合作阶段】华为常务董事、产品投资评审委员会主任、终端BG董事长余承东今日表示，问界是鸿蒙智行第一个合作品牌，也即将进入新的合作阶段。",
-      "title": "余承东：问界进入新的合作阶段",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930685425.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.601127",
-      "116.09927"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C806",
-          "name": "华为概念",
-          "matched_keyword": "鸿蒙"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C806"
-      ]
-    }
-  },
-  {
-    "id": "dc8437c00d979530",
-    "code": "202611133930685570",
-    "title": "高盛预测10年期美债收益率将于2027年降至4.6%",
-    "summary": "【高盛预测10年期美债收益率将于2027年降至4.6%】高盛集团称，因预期美债被用作对冲工具的吸引力将上升且通胀温和，10年期美国国债收益率到2027年底料将降至4.6%，这低于市场普遍预期。",
-    "content": "【高盛预测10年期美债收益率将于2027年降至4.6%】高盛集团称，因预期美债被用作对冲工具的吸引力将上升且通胀温和，10年期美国国债收益率到2027年底料将降至4.6%，这低于市场普遍预期。",
-    "full_content": "【高盛预测10年期美债收益率将于2027年降至4.6%】高盛集团称，因预期美债被用作对冲工具的吸引力将上升且通胀温和，10年期美国国债收益率到2027年底料将降至4.6%，这低于市场普遍预期。",
-    "sort_time": "1794556261085570",
-    "showTime": "2026-11-13 15:51:01",
-    "time": "2026-11-13 15:51:01",
-    "publish_time": "2026-11-13 15:51:01",
-    "raw_data": {
-      "code": "202611133930685570",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794556261085570",
-      "share": 0,
-      "showTime": "2026-11-13 15:51:01",
-      "stockList": [],
-      "summary": "【高盛预测10年期美债收益率将于2027年降至4.6%】高盛集团称，因预期美债被用作对冲工具的吸引力将上升且通胀温和，10年期美国国债收益率到2027年底料将降至4.6%，这低于市场普遍预期。",
-      "title": "高盛预测10年期美债收益率将于2027年降至4.6%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930685570.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "304dae037b3f56e2",
-    "code": "202611133930685253",
-    "title": "中期协：10月全国期货市场成交额同比增长10.71%",
-    "summary": "【中期协：10月全国期货市场成交额同比增长10.71%】中期协发布的2026年10月全国期货市场交易情况简报显示，10月全国期货市场成交量为9.05亿手，成交额为67.78万亿元，同比分别增长50.08%和10.71%。1—10月全国期货市场累计成交量为92.89亿手，累计成交额为806.32万亿元，同比分别增长26.32%和32.44%。",
-    "content": "【中期协：10月全国期货市场成交额同比增长10.71%】中期协发布的2026年10月全国期货市场交易情况简报显示，10月全国期货市场成交量为9.05亿手，成交额为67.78万亿元，同比分别增长50.08%和10.71%。1—10月全国期货市场累计成交量为92.89亿手，累计成交额为806.32万亿元，同比分别增长26.32%和32.44%。",
-    "full_content": "【中期协：10月全国期货市场成交额同比增长10.71%】中期协发布的2026年10月全国期货市场交易情况简报显示，10月全国期货市场成交量为9.05亿手，成交额为67.78万亿元，同比分别增长50.08%和10.71%。1—10月全国期货市场累计成交量为92.89亿手，累计成交额为806.32万亿元，同比分别增长26.32%和32.44%。",
-    "sort_time": "1794556200085253",
-    "showTime": "2026-11-13 15:50:00",
-    "time": "2026-11-13 15:50:00",
-    "publish_time": "2026-11-13 15:50:00",
-    "raw_data": {
-      "code": "202611133930685253",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794556200085253",
-      "share": 0,
-      "showTime": "2026-11-13 15:50:00",
-      "stockList": [],
-      "summary": "【中期协：10月全国期货市场成交额同比增长10.71%】中期协发布的2026年10月全国期货市场交易情况简报显示，10月全国期货市场成交量为9.05亿手，成交额为67.78万亿元，同比分别增长50.08%和10.71%。1—10月全国期货市场累计成交量为92.89亿手，累计成交额为806.32万亿元，同比分别增长26.32%和32.44%。",
-      "title": "中期协：10月全国期货市场成交额同比增长10.71%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930685253.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ba0d91398423536f",
-    "code": "202611133930682989",
-    "title": "法国10月CPI同比增长3.4% 预期3.4%",
-    "summary": "【法国10月CPI同比增长3.4% 预期3.4%】法国10月CPI同比增长3.4%，预期3.4%；10月CPI环比增长0.4%，预期0.4%。",
-    "content": "【法国10月CPI同比增长3.4% 预期3.4%】法国10月CPI同比增长3.4%，预期3.4%；10月CPI环比增长0.4%，预期0.4%。",
-    "full_content": "【法国10月CPI同比增长3.4% 预期3.4%】法国10月CPI同比增长3.4%，预期3.4%；10月CPI环比增长0.4%，预期0.4%。",
-    "sort_time": "1794556070082989",
-    "showTime": "2026-11-13 15:47:50",
-    "time": "2026-11-13 15:47:50",
-    "publish_time": "2026-11-13 15:47:50",
-    "raw_data": {
-      "code": "202611133930682989",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794556070082989",
-      "share": 0,
-      "showTime": "2026-11-13 15:47:50",
-      "stockList": [],
-      "summary": "【法国10月CPI同比增长3.4% 预期3.4%】法国10月CPI同比增长3.4%，预期3.4%；10月CPI环比增长0.4%，预期0.4%。",
-      "title": "法国10月CPI同比增长3.4% 预期3.4%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930682989.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "245a2d2d9aa2f02d",
-    "code": "202611133930682264",
-    "title": "高盛：2027年末标普500指数看至8700点 看好美国、日本股市",
-    "summary": "【高盛：2027年末标普500指数看至8700点 看好美国、日本股市】高盛策略师认为，尽管盈利增速放缓，但随着估值回落、债券收益率、油价与通胀趋于缓和，美股牛市将延续至2027年。",
-    "content": "【高盛：2027年末标普500指数看至8700点 看好美国、日本股市】高盛策略师认为，尽管盈利增速放缓，但随着估值回落、债券收益率、油价与通胀趋于缓和，美股牛市将延续至2027年。",
-    "full_content": "【高盛：2027年末标普500指数看至8700点 看好美国、日本股市】高盛策略师认为，尽管盈利增速放缓，但随着估值回落、债券收益率、油价与通胀趋于缓和，美股牛市将延续至2027年。",
-    "sort_time": "1794555908082264",
-    "showTime": "2026-11-13 15:45:08",
-    "time": "2026-11-13 15:45:08",
-    "publish_time": "2026-11-13 15:45:08",
-    "raw_data": {
-      "code": "202611133930682264",
-      "image": [],
-      "pinglun_Num": 13,
-      "realSort": "1794555908082264",
-      "share": 6,
-      "showTime": "2026-11-13 15:45:08",
-      "stockList": [
-        "90.BK0464"
-      ],
-      "summary": "【高盛：2027年末标普500指数看至8700点 看好美国、日本股市】高盛策略师认为，尽管盈利增速放缓，但随着估值回落、债券收益率、油价与通胀趋于缓和，美股牛市将延续至2027年。",
-      "title": "高盛：2027年末标普500指数看至8700点 看好美国、日本股市",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930682264.html",
-    "category": "宏观",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "90.BK0464"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 13,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6adeb0050dca0645",
-    "code": "202611133930683262",
-    "title": "没有黄仁勋的英伟达 还能守住芯片霸主地位吗？",
-    "summary": "【没有黄仁勋的英伟达 还能守住芯片霸主地位吗？】11月12日，英伟达迎来临时CEO，正式的CEO人选尚未定下。这家全球最大的AI芯片公司的管理层动荡，成为影响近期AI芯片领域走向的重要变量之一。",
-    "content": "【没有黄仁勋的英伟达 还能守住芯片霸主地位吗？】11月12日，英伟达迎来临时CEO，正式的CEO人选尚未定下。这家全球最大的AI芯片公司的管理层动荡，成为影响近期AI芯片领域走向的重要变量之一。",
-    "full_content": "【没有黄仁勋的英伟达 还能守住芯片霸主地位吗？】11月12日，英伟达迎来临时CEO，正式的CEO人选尚未定下。这家全球最大的AI芯片公司的管理层动荡，成为影响近期AI芯片领域走向的重要变量之一。",
-    "sort_time": "1794555890083262",
-    "showTime": "2026-11-13 15:44:50",
-    "time": "2026-11-13 15:44:50",
-    "publish_time": "2026-11-13 15:44:50",
-    "raw_data": {
-      "code": "202611133930683262",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1794555890083262",
-      "share": 1,
-      "showTime": "2026-11-13 15:44:50",
+      "showTime": "2026-11-13 22:42:32",
       "stockList": [
         "105.NVDA",
         "90.BK1161"
       ],
-      "summary": "【没有黄仁勋的英伟达 还能守住芯片霸主地位吗？】11月12日，英伟达迎来临时CEO，正式的CEO人选尚未定下。这家全球最大的AI芯片公司的管理层动荡，成为影响近期AI芯片领域走向的重要变量之一。",
-      "title": "没有黄仁勋的英伟达 还能守住芯片霸主地位吗？",
+      "summary": "英伟达股价跌幅扩大至2%，报162.935美元/股，总市值报3.93万亿美元。英伟达盘初一度曾上涨1.6%。",
+      "title": "英伟达股价跌幅扩大至2%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930683262.html",
-    "category": "科技",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931018279.html",
+    "category": "其他",
     "importance": 6,
-    "sentiment": "neutral",
+    "sentiment": "bullish",
     "related_stocks": [
       "105.NVDA",
       "90.BK1161"
     ],
     "has_stock_mention": true,
-    "comment_count": 4,
-    "share_count": 1,
+    "comment_count": 5,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ce00adcc21a0ad29",
+    "code": "202611133931016361",
+    "title": "英伟达高开低走 迅速跌超1%",
+    "summary": "英伟达高开低走，迅速跌超1%，盘初一度曾上涨1.6%。",
+    "content": "英伟达高开低走，迅速跌超1%，盘初一度曾上涨1.6%。",
+    "full_content": "英伟达高开低走，迅速跌超1%，盘初一度曾上涨1.6%。",
+    "sort_time": "1794580625016361",
+    "showTime": "2026-11-13 22:37:05",
+    "time": "2026-11-13 22:37:05",
+    "publish_time": "2026-11-13 22:37:05",
+    "raw_data": {
+      "code": "202611133931016361",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1794580625016361",
+      "share": 2,
+      "showTime": "2026-11-13 22:37:05",
+      "stockList": [],
+      "summary": "英伟达高开低走，迅速跌超1%，盘初一度曾上涨1.6%。",
+      "title": "英伟达高开低走 迅速跌超1%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931016361.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 7,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "d077564b399625bf",
+    "code": "202611133931010148",
+    "title": "苹果股价升至360美元/股 再次续刷记录新高",
+    "summary": "【苹果股价升至360美元/股 再次续刷记录新高】苹果股价上涨1.44%，报360.005美元/股，续刷记录新高，总市值报5.23万亿美元。",
+    "content": "【苹果股价升至360美元/股 再次续刷记录新高】苹果股价上涨1.44%，报360.005美元/股，续刷记录新高，总市值报5.23万亿美元。",
+    "full_content": "【苹果股价升至360美元/股 再次续刷记录新高】苹果股价上涨1.44%，报360.005美元/股，续刷记录新高，总市值报5.23万亿美元。",
+    "sort_time": "1794580454010148",
+    "showTime": "2026-11-13 22:34:14",
+    "time": "2026-11-13 22:34:14",
+    "publish_time": "2026-11-13 22:34:14",
+    "raw_data": {
+      "code": "202611133931010148",
+      "image": [],
+      "pinglun_Num": 7,
+      "realSort": "1794580454010148",
+      "share": 7,
+      "showTime": "2026-11-13 22:34:14",
+      "stockList": [
+        "105.AAPL"
+      ],
+      "summary": "【苹果股价升至360美元/股 再次续刷记录新高】苹果股价上涨1.44%，报360.005美元/股，续刷记录新高，总市值报5.23万亿美元。",
+      "title": "苹果股价升至360美元/股 再次续刷记录新高",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931010148.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "105.AAPL"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 7,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "9cbaa49da892a944",
+    "code": "202611133931010458",
+    "title": "AI芯片公司Cerebras大涨超18%",
+    "summary": "【AI芯片公司Cerebras大涨超18%】AI芯片公司Cerebras大涨超18%，第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。",
+    "content": "【AI芯片公司Cerebras大涨超18%】AI芯片公司Cerebras大涨超18%，第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。",
+    "full_content": "【AI芯片公司Cerebras大涨超18%】AI芯片公司Cerebras大涨超18%，第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。",
+    "sort_time": "1794580397010458",
+    "showTime": "2026-11-13 22:33:17",
+    "time": "2026-11-13 22:33:17",
+    "publish_time": "2026-11-13 22:33:17",
+    "raw_data": {
+      "code": "202611133931010458",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794580397010458",
+      "share": 0,
+      "showTime": "2026-11-13 22:33:17",
+      "stockList": [],
+      "summary": "【AI芯片公司Cerebras大涨超18%】AI芯片公司Cerebras大涨超18%，第三季度业绩超出市场预期，云业务收入成为增长的核心引擎。",
+      "title": "AI芯片公司Cerebras大涨超18%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931010458.html",
+    "category": "公司",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 0,
     "tags": {
       "industries": [
         {
@@ -893,148 +1452,294 @@
     }
   },
   {
-    "id": "e0e4a21b51f03124",
-    "code": "202611133930682373",
-    "title": "东亚药业：酮康唑原料药获欧洲CEP证书",
-    "summary": "【东亚药业：酮康唑原料药获欧洲CEP证书】东亚药业(605177)11月13日公告，公司收到欧洲药品与医疗保健质量管理局（EDQM）签发的酮康唑原料药欧洲药典适用性证书。",
-    "content": "【东亚药业：酮康唑原料药获欧洲CEP证书】东亚药业(605177)11月13日公告，公司收到欧洲药品与医疗保健质量管理局（EDQM）签发的酮康唑原料药欧洲药典适用性证书。",
-    "full_content": "【东亚药业：酮康唑原料药获欧洲CEP证书】东亚药业(605177)11月13日公告，公司收到欧洲药品与医疗保健质量管理局（EDQM）签发的酮康唑原料药欧洲药典适用性证书。",
-    "sort_time": "1794555836082373",
-    "showTime": "2026-11-13 15:43:56",
-    "time": "2026-11-13 15:43:56",
-    "publish_time": "2026-11-13 15:43:56",
+    "id": "253f5df0de58d0a1",
+    "code": "202611133931007134",
+    "title": "美股三大股指小幅高开 英伟达反弹1.6%",
+    "summary": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2.33%，Meta股价上涨0.42%。",
+    "content": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2.33%，Meta股价上涨0.42%。",
+    "full_content": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2.33%，Meta股价上涨0.42%。",
+    "sort_time": "1794580265007134",
+    "showTime": "2026-11-13 22:31:05",
+    "time": "2026-11-13 22:31:05",
+    "publish_time": "2026-11-13 22:31:05",
     "raw_data": {
-      "code": "202611133930682373",
+      "code": "202611133931007134",
       "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794555836082373",
-      "share": 0,
-      "showTime": "2026-11-13 15:43:56",
-      "stockList": [
-        "1.605177",
-        "90.BK1595"
-      ],
-      "summary": "【东亚药业：酮康唑原料药获欧洲CEP证书】东亚药业(605177)11月13日公告，公司收到欧洲药品与医疗保健质量管理局（EDQM）签发的酮康唑原料药欧洲药典适用性证书。",
-      "title": "东亚药业：酮康唑原料药获欧洲CEP证书",
+      "pinglun_Num": 8,
+      "realSort": "1794580265007134",
+      "share": 1,
+      "showTime": "2026-11-13 22:31:05",
+      "stockList": [],
+      "summary": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2.33%，Meta股价上涨0.42%。",
+      "title": "美股三大股指小幅高开 英伟达反弹1.6%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930682373.html",
-    "category": "其他",
-    "importance": 6,
+    "url": "https://kuaixun.eastmoney.com/news/202611133931007134.html",
+    "category": "股市",
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "1.605177",
-      "90.BK1595"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010401",
-          "name": "化学制药",
-          "level1": "制造业",
-          "level2": "医药制造业",
-          "matched_keyword": "原料药"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I010401"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "32764f065e355dc5",
-    "code": "202611133930680549",
-    "title": "国家市场监督管理总局局长刘桂平会见国际标准化组织主席哈立德·苏菲",
-    "summary": "【国家市场监督管理总局局长刘桂平会见国际标准化组织主席哈立德·苏菲】国家市场监督管理总局局长刘桂平11月8日会见来访的国际标准化组织（ISO）主席哈立德·苏菲一行。双方就国际标准化工作的最新进展和重点合作事项进行了交流，表示将进一步深化国际标准化交流合作，为完善国际标准体系、促进全球互联互通与可持续发展贡献力量。",
-    "content": "【国家市场监督管理总局局长刘桂平会见国际标准化组织主席哈立德·苏菲】国家市场监督管理总局局长刘桂平11月8日会见来访的国际标准化组织（ISO）主席哈立德·苏菲一行。双方就国际标准化工作的最新进展和重点合作事项进行了交流，表示将进一步深化国际标准化交流合作，为完善国际标准体系、促进全球互联互通与可持续发展贡献力量。",
-    "full_content": "【国家市场监督管理总局局长刘桂平会见国际标准化组织主席哈立德·苏菲】国家市场监督管理总局局长刘桂平11月8日会见来访的国际标准化组织（ISO）主席哈立德·苏菲一行。双方就国际标准化工作的最新进展和重点合作事项进行了交流，表示将进一步深化国际标准化交流合作，为完善国际标准体系、促进全球互联互通与可持续发展贡献力量。",
-    "sort_time": "1794555780080549",
-    "showTime": "2026-11-13 15:43:00",
-    "time": "2026-11-13 15:43:00",
-    "publish_time": "2026-11-13 15:43:00",
-    "raw_data": {
-      "code": "202611133930680549",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794555780080549",
-      "share": 0,
-      "showTime": "2026-11-13 15:43:00",
-      "stockList": [
-        "150.012372"
-      ],
-      "summary": "【国家市场监督管理总局局长刘桂平会见国际标准化组织主席哈立德·苏菲】国家市场监督管理总局局长刘桂平11月8日会见来访的国际标准化组织（ISO）主席哈立德·苏菲一行。双方就国际标准化工作的最新进展和重点合作事项进行了交流，表示将进一步深化国际标准化交流合作，为完善国际标准体系、促进全球互联互通与可持续发展贡献力量。",
-      "title": "国家市场监督管理总局局长刘桂平会见国际标准化组织主席哈立德·苏菲",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930680549.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "150.012372"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 8,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
         {
-          "id": "C508",
-          "name": "化工",
-          "matched_keyword": "化工"
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
         }
       ],
       "industry_ids": [],
       "concept_ids": [
-        "C508"
+        "C807"
       ]
     }
   },
   {
-    "id": "59653eec1502cc0d",
-    "code": "202611133930680689",
-    "title": "廖岷会见美国泛大西洋投资集团董事长福特",
-    "summary": "【廖岷会见美国泛大西洋投资集团董事长福特】财政部副部长廖岷11月6日下午在京会见美国泛大西洋投资集团董事长福特，就中美经贸关系、人工智能等进行沟通交流。",
-    "content": "【廖岷会见美国泛大西洋投资集团董事长福特】财政部副部长廖岷11月6日下午在京会见美国泛大西洋投资集团董事长福特，就中美经贸关系、人工智能等进行沟通交流。",
-    "full_content": "【廖岷会见美国泛大西洋投资集团董事长福特】财政部副部长廖岷11月6日下午在京会见美国泛大西洋投资集团董事长福特，就中美经贸关系、人工智能等进行沟通交流。",
-    "sort_time": "1794555704080689",
-    "showTime": "2026-11-13 15:41:44",
-    "time": "2026-11-13 15:41:44",
-    "publish_time": "2026-11-13 15:41:44",
+    "id": "084a5aa2da2073c2",
+    "code": "202611133931004768",
+    "title": "广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同",
+    "summary": "【广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同】据广电运通消息，11月13日，广电运通成员企业运通国际与孟加拉国合作伙伴Zara Zaman Technology Ltd.签署金额超1200万美元的采购合同。",
+    "content": "【广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同】据广电运通消息，11月13日，广电运通成员企业运通国际与孟加拉国合作伙伴Zara Zaman Technology Ltd.签署金额超1200万美元的采购合同。",
+    "full_content": "【广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同】据广电运通消息，11月13日，广电运通成员企业运通国际与孟加拉国合作伙伴Zara Zaman Technology Ltd.签署金额超1200万美元的采购合同。",
+    "sort_time": "1794579960004768",
+    "showTime": "2026-11-13 22:26:00",
+    "time": "2026-11-13 22:26:00",
+    "publish_time": "2026-11-13 22:26:00",
     "raw_data": {
-      "code": "202611133930680689",
+      "code": "202611133931004768",
       "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794555704080689",
-      "share": 0,
-      "showTime": "2026-11-13 15:41:44",
+      "pinglun_Num": 2,
+      "realSort": "1794579960004768",
+      "share": 1,
+      "showTime": "2026-11-13 22:26:00",
       "stockList": [
-        "0.161631",
-        "1.515980"
+        "0.002152",
+        "1007.BK000199"
       ],
-      "summary": "【廖岷会见美国泛大西洋投资集团董事长福特】财政部副部长廖岷11月6日下午在京会见美国泛大西洋投资集团董事长福特，就中美经贸关系、人工智能等进行沟通交流。",
-      "title": "廖岷会见美国泛大西洋投资集团董事长福特",
+      "summary": "【广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同】据广电运通消息，11月13日，广电运通成员企业运通国际与孟加拉国合作伙伴Zara Zaman Technology Ltd.签署金额超1200万美元的采购合同。",
+      "title": "广电运通：运通国际与孟加拉国合作伙伴签署超1200万美元采购合同",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930680689.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931004768.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.002152",
+      "1007.BK000199"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cb138641bd2d6b19",
+    "code": "202611133931002716",
+    "title": "DeepSeek发布全家桶应用API",
+    "summary": "【DeepSeek发布全家桶应用API】11月13日，DeepSeek正式开放全家桶应用API。在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用。",
+    "content": "【DeepSeek发布全家桶应用API】11月13日，DeepSeek正式开放全家桶应用API。在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用。",
+    "full_content": "【DeepSeek发布全家桶应用API】11月13日，DeepSeek正式开放全家桶应用API。在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用。",
+    "sort_time": "1794579878002716",
+    "showTime": "2026-11-13 22:24:38",
+    "time": "2026-11-13 22:24:38",
+    "publish_time": "2026-11-13 22:24:38",
+    "raw_data": {
+      "code": "202611133931002716",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1794579878002716",
+      "share": 1,
+      "showTime": "2026-11-13 22:24:38",
+      "stockList": [],
+      "summary": "【DeepSeek发布全家桶应用API】11月13日，DeepSeek正式开放全家桶应用API。在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含OCR、ASR、TTS等），支持单独或组合调用。",
+      "title": "DeepSeek发布全家桶应用API",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133931002716.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cb7b77190cb05004",
+    "code": "202611133930998994",
+    "title": "瑞银给予海光信息中性的初始评级",
+    "summary": "【瑞银给予海光信息中性的初始评级】瑞银给予海光信息中性的初始评级，目标价215元人民币。",
+    "content": "【瑞银给予海光信息中性的初始评级】瑞银给予海光信息中性的初始评级，目标价215元人民币。",
+    "full_content": "【瑞银给予海光信息中性的初始评级】瑞银给予海光信息中性的初始评级，目标价215元人民币。",
+    "sort_time": "1794579496098994",
+    "showTime": "2026-11-13 22:18:16",
+    "time": "2026-11-13 22:18:16",
+    "publish_time": "2026-11-13 22:18:16",
+    "raw_data": {
+      "code": "202611133930998994",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1794579496098994",
+      "share": 1,
+      "showTime": "2026-11-13 22:18:16",
+      "stockList": [
+        "1.688041"
+      ],
+      "summary": "【瑞银给予海光信息中性的初始评级】瑞银给予海光信息中性的初始评级，目标价215元人民币。",
+      "title": "瑞银给予海光信息中性的初始评级",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930998994.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.688041"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 12,
+    "share_count": 1,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "cebcf5d6dcaf1283",
+    "code": "202611133930994582",
+    "title": "美联储柯林斯：加息可能损害住房可负担性",
+    "summary": "【美联储柯林斯：加息可能损害住房可负担性】美联储柯林斯表示，加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
+    "content": "【美联储柯林斯：加息可能损害住房可负担性】美联储柯林斯表示，加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
+    "full_content": "【美联储柯林斯：加息可能损害住房可负担性】美联储柯林斯表示，加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
+    "sort_time": "1794579176094582",
+    "showTime": "2026-11-13 22:12:56",
+    "time": "2026-11-13 22:12:56",
+    "publish_time": "2026-11-13 22:12:56",
+    "raw_data": {
+      "code": "202611133930994582",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1794579176094582",
+      "share": 2,
+      "showTime": "2026-11-13 22:12:56",
+      "stockList": [],
+      "summary": "【美联储柯林斯：加息可能损害住房可负担性】美联储柯林斯表示，加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
+      "title": "美联储柯林斯：加息可能损害住房可负担性",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930994582.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 12,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a972105d7eb5cf09",
+    "code": "202611133930993721",
+    "title": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力",
+    "summary": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力。",
+    "content": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力。",
+    "full_content": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力。",
+    "sort_time": "1794579146093721",
+    "showTime": "2026-11-13 22:12:26",
+    "time": "2026-11-13 22:12:26",
+    "publish_time": "2026-11-13 22:12:26",
+    "raw_data": {
+      "code": "202611133930993721",
+      "image": [],
+      "pinglun_Num": 6,
+      "realSort": "1794579146093721",
+      "share": 0,
+      "showTime": "2026-11-13 22:12:26",
+      "stockList": [],
+      "summary": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力。",
+      "title": "美联储的柯林斯表示，应对通胀比住房问题更为重要；生产率的提高有助于限制部分通胀压力",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930993721.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 6,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6eaa134945b5d9d1",
+    "code": "202611133930993618",
+    "title": "报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品",
+    "summary": "【报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品】据报道，SpaceX旗下人工智能团队上周裁撤了约60名负责Grok Imagine图像及视频生成工具的员工，仅留下少数人员维持该产品运营。",
+    "content": "【报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品】据报道，SpaceX旗下人工智能团队上周裁撤了约60名负责Grok Imagine图像及视频生成工具的员工，仅留下少数人员维持该产品运营。",
+    "full_content": "【报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品】据报道，SpaceX旗下人工智能团队上周裁撤了约60名负责Grok Imagine图像及视频生成工具的员工，仅留下少数人员维持该产品运营。",
+    "sort_time": "1794579057093618",
+    "showTime": "2026-11-13 22:10:57",
+    "time": "2026-11-13 22:10:57",
+    "publish_time": "2026-11-13 22:10:57",
+    "raw_data": {
+      "code": "202611133930993618",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1794579057093618",
+      "share": 0,
+      "showTime": "2026-11-13 22:10:57",
+      "stockList": [
+        "105.SPCX",
+        "150.012322"
+      ],
+      "summary": "【报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品】据报道，SpaceX旗下人工智能团队上周裁撤了约60名负责Grok Imagine图像及视频生成工具的员工，仅留下少数人员维持该产品运营。",
+      "title": "报道称SpaceX裁撤Grok Imagine视频团队约60名员工 仅留少数人员维持产品",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930993618.html",
     "category": "科技",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "0.161631",
-      "1.515980"
+      "105.SPCX",
+      "150.012322"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
@@ -1052,219 +1757,163 @@
     }
   },
   {
-    "id": "721af4a263faa2fb",
-    "code": "202611133930679676",
-    "title": "港股内房股尾盘持续震荡走低 融创中国跌8.54%",
-    "summary": "【港股内房股尾盘持续震荡走低 融创中国跌8.54%】港股内房股尾盘持续震荡走低，融创中国跌8.54%，碧桂园跌7.14%，雅居乐集团跌6.72%，万科企业跌5.09%。",
-    "content": "【港股内房股尾盘持续震荡走低 融创中国跌8.54%】港股内房股尾盘持续震荡走低，融创中国跌8.54%，碧桂园跌7.14%，雅居乐集团跌6.72%，万科企业跌5.09%。",
-    "full_content": "【港股内房股尾盘持续震荡走低 融创中国跌8.54%】港股内房股尾盘持续震荡走低，融创中国跌8.54%，碧桂园跌7.14%，雅居乐集团跌6.72%，万科企业跌5.09%。",
-    "sort_time": "1794555657079676",
-    "showTime": "2026-11-13 15:40:57",
-    "time": "2026-11-13 15:40:57",
-    "publish_time": "2026-11-13 15:40:57",
+    "id": "34900f5bef929242",
+    "code": "202611133930988581",
+    "title": "美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点",
+    "summary": "【美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点】美国银行全球研究部（BofA Global Research）将2027年1月美联储加息25个基点纳入预测，目前预计美联储将在2026年12月、2027年1月和3月分别加息25个基点。",
+    "content": "【美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点】美国银行全球研究部（BofA Global Research）将2027年1月美联储加息25个基点纳入预测，目前预计美联储将在2026年12月、2027年1月和3月分别加息25个基点。",
+    "full_content": "【美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点】美国银行全球研究部（BofA Global Research）将2027年1月美联储加息25个基点纳入预测，目前预计美联储将在2026年12月、2027年1月和3月分别加息25个基点。",
+    "sort_time": "1794578737088581",
+    "showTime": "2026-11-13 22:05:37",
+    "time": "2026-11-13 22:05:37",
+    "publish_time": "2026-11-13 22:05:37",
     "raw_data": {
-      "code": "202611133930679676",
+      "code": "202611133930988581",
       "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1794555657079676",
-      "share": 6,
-      "showTime": "2026-11-13 15:40:57",
-      "stockList": [
-        "0.000002",
-        "153.CHVKY"
-      ],
-      "summary": "【港股内房股尾盘持续震荡走低 融创中国跌8.54%】港股内房股尾盘持续震荡走低，融创中国跌8.54%，碧桂园跌7.14%，雅居乐集团跌6.72%，万科企业跌5.09%。",
-      "title": "港股内房股尾盘持续震荡走低 融创中国跌8.54%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930679676.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.000002",
-      "153.CHVKY"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 6,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "41b91e964b069d1f",
-    "code": "202611133930678596",
-    "title": "《社区嵌入式服务设施 适老化设施配置规范》国家标准发布",
-    "summary": "【《社区嵌入式服务设施 适老化设施配置规范》国家标准发布】记者今天了解到，市场监管总局批准发布国家标准《社区嵌入式服务设施适老化设施配置规范》。该标准针对社区嵌入式服务设施适老化细节缺失、配置尺度不一等问题，统一规范各类为老服务空间的布局选址、硬件配置与检查改进要求，为推进15分钟居家养老服务圈建设、补齐社区适老化短板提供技术依据。",
-    "content": "【《社区嵌入式服务设施 适老化设施配置规范》国家标准发布】记者今天了解到，市场监管总局批准发布国家标准《社区嵌入式服务设施适老化设施配置规范》。该标准针对社区嵌入式服务设施适老化细节缺失、配置尺度不一等问题，统一规范各类为老服务空间的布局选址、硬件配置与检查改进要求，为推进15分钟居家养老服务圈建设、补齐社区适老化短板提供技术依据。",
-    "full_content": "【《社区嵌入式服务设施 适老化设施配置规范》国家标准发布】记者今天了解到，市场监管总局批准发布国家标准《社区嵌入式服务设施适老化设施配置规范》。该标准针对社区嵌入式服务设施适老化细节缺失、配置尺度不一等问题，统一规范各类为老服务空间的布局选址、硬件配置与检查改进要求，为推进15分钟居家养老服务圈建设、补齐社区适老化短板提供技术依据。",
-    "sort_time": "1794555465078596",
-    "showTime": "2026-11-13 15:37:45",
-    "time": "2026-11-13 15:37:45",
-    "publish_time": "2026-11-13 15:37:45",
-    "raw_data": {
-      "code": "202611133930678596",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794555465078596",
-      "share": 1,
-      "showTime": "2026-11-13 15:37:45",
+      "pinglun_Num": 26,
+      "realSort": "1794578737088581",
+      "share": 13,
+      "showTime": "2026-11-13 22:05:37",
       "stockList": [],
-      "summary": "【《社区嵌入式服务设施 适老化设施配置规范》国家标准发布】记者今天了解到，市场监管总局批准发布国家标准《社区嵌入式服务设施适老化设施配置规范》。该标准针对社区嵌入式服务设施适老化细节缺失、配置尺度不一等问题，统一规范各类为老服务空间的布局选址、硬件配置与检查改进要求，为推进15分钟居家养老服务圈建设、补齐社区适老化短板提供技术依据。",
-      "title": "《社区嵌入式服务设施 适老化设施配置规范》国家标准发布",
+      "summary": "【美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点】美国银行全球研究部（BofA Global Research）将2027年1月美联储加息25个基点纳入预测，目前预计美联储将在2026年12月、2027年1月和3月分别加息25个基点。",
+      "title": "美国银行将2027年1月加息纳入预测 预计美联储12月、1月及3月各加息25个基点",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930678596.html",
-    "category": "政策",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930988581.html",
+    "category": "国际",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 2,
-    "share_count": 1,
+    "comment_count": 26,
+    "share_count": 13,
     "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "925c1a08686e71af",
-    "code": "202611133930678761",
-    "title": "亚宝药业：终止SY-005注射液脓毒症项目临床并计提减值准备",
-    "summary": "【亚宝药业：终止SY-005注射液脓毒症项目临床并计提减值准备】亚宝药业(600351.SH)公告称，公司决定终止SY-005注射液用于脓毒症适应症项目的临床研究开发工作，并对该项目研发资本化金额6983.87万元全额计提资产减值准备，预计减少2026年度利润总额6983.87万元。",
-    "content": "【亚宝药业：终止SY-005注射液脓毒症项目临床并计提减值准备】亚宝药业(600351.SH)公告称，公司决定终止SY-005注射液用于脓毒症适应症项目的临床研究开发工作，并对该项目研发资本化金额6983.87万元全额计提资产减值准备，预计减少2026年度利润总额6983.87万元。",
-    "full_content": "【亚宝药业：终止SY-005注射液脓毒症项目临床并计提减值准备】亚宝药业(600351.SH)公告称，公司决定终止SY-005注射液用于脓毒症适应症项目的临床研究开发工作，并对该项目研发资本化金额6983.87万元全额计提资产减值准备，预计减少2026年度利润总额6983.87万元。",
-    "sort_time": "1794555370078761",
-    "showTime": "2026-11-13 15:36:10",
-    "time": "2026-11-13 15:36:10",
-    "publish_time": "2026-11-13 15:36:10",
-    "raw_data": {
-      "code": "202611133930678761",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794555370078761",
-      "share": 1,
-      "showTime": "2026-11-13 15:36:10",
-      "stockList": [
-        "1.600351"
-      ],
-      "summary": "【亚宝药业：终止SY-005注射液脓毒症项目临床并计提减值准备】亚宝药业(600351.SH)公告称，公司决定终止SY-005注射液用于脓毒症适应症项目的临床研究开发工作，并对该项目研发资本化金额6983.87万元全额计提资产减值准备，预计减少2026年度利润总额6983.87万元。",
-      "title": "亚宝药业：终止SY-005注射液脓毒症项目临床并计提减值准备",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930678761.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.600351"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0a10f9461fdaf1bd",
-    "code": "202611133930678414",
-    "title": "ST人福：HW201877胶囊进入II期临床试验",
-    "summary": "【ST人福：HW201877胶囊进入II期临床试验】ST人福(600079.SH)公告称，公司全资子公司研究院近日公示HW201877胶囊IIa期临床试验登记信息，该药用于治疗中重度活动性炎症性肠病，包括溃疡性结肠炎和克罗恩病。目前国内暂无同靶点同适应症药物上市，项目累计研发投入约6000万元。",
-    "content": "【ST人福：HW201877胶囊进入II期临床试验】ST人福(600079.SH)公告称，公司全资子公司研究院近日公示HW201877胶囊IIa期临床试验登记信息，该药用于治疗中重度活动性炎症性肠病，包括溃疡性结肠炎和克罗恩病。目前国内暂无同靶点同适应症药物上市，项目累计研发投入约6000万元。",
-    "full_content": "【ST人福：HW201877胶囊进入II期临床试验】ST人福(600079.SH)公告称，公司全资子公司研究院近日公示HW201877胶囊IIa期临床试验登记信息，该药用于治疗中重度活动性炎症性肠病，包括溃疡性结肠炎和克罗恩病。目前国内暂无同靶点同适应症药物上市，项目累计研发投入约6000万元。",
-    "sort_time": "1794555332078414",
-    "showTime": "2026-11-13 15:35:32",
-    "time": "2026-11-13 15:35:32",
-    "publish_time": "2026-11-13 15:35:32",
-    "raw_data": {
-      "code": "202611133930678414",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794555332078414",
-      "share": 0,
-      "showTime": "2026-11-13 15:35:32",
-      "stockList": [
-        "1.600079"
-      ],
-      "summary": "【ST人福：HW201877胶囊进入II期临床试验】ST人福(600079.SH)公告称，公司全资子公司研究院近日公示HW201877胶囊IIa期临床试验登记信息，该药用于治疗中重度活动性炎症性肠病，包括溃疡性结肠炎和克罗恩病。目前国内暂无同靶点同适应症药物上市，项目累计研发投入约6000万元。",
-      "title": "ST人福：HW201877胶囊进入II期临床试验",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930678414.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.600079"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
+      "industries": [
         {
-          "id": "C814",
-          "name": "ST板块",
-          "matched_keyword": "ST"
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
         }
       ],
-      "industry_ids": [],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
       "concept_ids": [
-        "C814"
+        "C402"
       ]
     }
   },
   {
-    "id": "14153ed64ce4a899",
-    "code": "202611133930677290",
-    "title": "东芝上半年净利润创历史新高",
-    "summary": "【东芝上半年净利润创历史新高】东芝上半年净利润创历史新高，得益于对铠侠持股估值上升。",
-    "content": "【东芝上半年净利润创历史新高】东芝上半年净利润创历史新高，得益于对铠侠持股估值上升。",
-    "full_content": "【东芝上半年净利润创历史新高】东芝上半年净利润创历史新高，得益于对铠侠持股估值上升。",
-    "sort_time": "1794555313077290",
-    "showTime": "2026-11-13 15:35:13",
-    "time": "2026-11-13 15:35:13",
-    "publish_time": "2026-11-13 15:35:13",
+    "id": "16191575f69f895d",
+    "code": "202611133930982796",
+    "title": "Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展",
+    "summary": "【Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展】Marvell宣布将在11月15日至20日举行的Supercomputing 2026大会上展示面向AI基础设施的互联及内存技术，涵盖光互联、CXL内存扩展、交换芯片及高速电缆等领域。",
+    "content": "【Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展】Marvell宣布将在11月15日至20日举行的Supercomputing 2026大会上展示面向AI基础设施的互联及内存技术，涵盖光互联、CXL内存扩展、交换芯片及高速电缆等领域。",
+    "full_content": "【Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展】Marvell宣布将在11月15日至20日举行的Supercomputing 2026大会上展示面向AI基础设施的互联及内存技术，涵盖光互联、CXL内存扩展、交换芯片及高速电缆等领域。",
+    "sort_time": "1794578538082796",
+    "showTime": "2026-11-13 22:02:18",
+    "time": "2026-11-13 22:02:18",
+    "publish_time": "2026-11-13 22:02:18",
     "raw_data": {
-      "code": "202611133930677290",
+      "code": "202611133930982796",
       "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1794555313077290",
-      "share": 1,
-      "showTime": "2026-11-13 15:35:13",
+      "pinglun_Num": 2,
+      "realSort": "1794578538082796",
+      "share": 0,
+      "showTime": "2026-11-13 22:02:18",
       "stockList": [
-        "90.BK1675"
+        "105.MRVL",
+        "90.BK0800"
       ],
-      "summary": "【东芝上半年净利润创历史新高】东芝上半年净利润创历史新高，得益于对铠侠持股估值上升。",
-      "title": "东芝上半年净利润创历史新高",
+      "summary": "【Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展】Marvell宣布将在11月15日至20日举行的Supercomputing 2026大会上展示面向AI基础设施的互联及内存技术，涵盖光互联、CXL内存扩展、交换芯片及高速电缆等领域。",
+      "title": "Marvell将展示AI基础设施互联及内存技术 聚焦跨机架扩展",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930677290.html",
-    "category": "公司",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930982796.html",
+    "category": "科技",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK1675"
+      "105.MRVL",
+      "90.BK0800"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 1,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "芯片"
+        }
+      ],
+      "industry_ids": [
+        "I010101"
+      ],
+      "concept_ids": [
+        "C001",
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "ef18cafe1dde3d51",
+    "code": "202611133930983124",
+    "title": "王毅同韩国外长赵显会谈",
+    "summary": "【王毅同韩国外长赵显会谈】据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
+    "content": "【王毅同韩国外长赵显会谈】据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
+    "full_content": "【王毅同韩国外长赵显会谈】据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
+    "sort_time": "1794578479083124",
+    "showTime": "2026-11-13 22:01:19",
+    "time": "2026-11-13 22:01:19",
+    "publish_time": "2026-11-13 22:01:19",
+    "raw_data": {
+      "code": "202611133930983124",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1794578479083124",
+      "share": 0,
+      "showTime": "2026-11-13 22:01:19",
+      "stockList": [],
+      "summary": "【王毅同韩国外长赵显会谈】据外交部网站消息，2026年11月13日，中共中央政治局委员、外交部长王毅在北京同韩国外交部长赵显举行会谈。",
+      "title": "王毅同韩国外长赵显会谈",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930983124.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1273,322 +1922,106 @@
     }
   },
   {
-    "id": "44a27c06f9a7882d",
-    "code": "202611133930678314",
-    "title": "LME伦铜跌破13500美元/吨",
-    "summary": "【LME伦铜跌破13500美元/吨】LME伦铜跌破13500美元/吨，最新报13499.945美元/吨，日内下跌0.65%。",
-    "content": "【LME伦铜跌破13500美元/吨】LME伦铜跌破13500美元/吨，最新报13499.945美元/吨，日内下跌0.65%。",
-    "full_content": "【LME伦铜跌破13500美元/吨】LME伦铜跌破13500美元/吨，最新报13499.945美元/吨，日内下跌0.65%。",
-    "sort_time": "1794555265078314",
-    "showTime": "2026-11-13 15:34:25",
-    "time": "2026-11-13 15:34:25",
-    "publish_time": "2026-11-13 15:34:25",
+    "id": "6c2eaf6e441df491",
+    "code": "202611133930982863",
+    "title": "天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工",
+    "summary": "【天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工】据天齐锂业消息，11月12日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目竣工仪式在重庆市铜梁区举行。该项目是全国首个全自动电池级金属锂工厂，集大型化、自动化、节能化于一体。项目投产后，天齐锂业重庆金属锂总产能将提升至1600吨/年。",
+    "content": "【天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工】据天齐锂业消息，11月12日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目竣工仪式在重庆市铜梁区举行。该项目是全国首个全自动电池级金属锂工厂，集大型化、自动化、节能化于一体。项目投产后，天齐锂业重庆金属锂总产能将提升至1600吨/年。",
+    "full_content": "【天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工】据天齐锂业消息，11月12日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目竣工仪式在重庆市铜梁区举行。该项目是全国首个全自动电池级金属锂工厂，集大型化、自动化、节能化于一体。项目投产后，天齐锂业重庆金属锂总产能将提升至1600吨/年。",
+    "sort_time": "1794578475082863",
+    "showTime": "2026-11-13 22:01:15",
+    "time": "2026-11-13 22:01:15",
+    "publish_time": "2026-11-13 22:01:15",
     "raw_data": {
-      "code": "202611133930678314",
+      "code": "202611133930982863",
       "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794555265078314",
+      "pinglun_Num": 10,
+      "realSort": "1794578475082863",
       "share": 1,
-      "showTime": "2026-11-13 15:34:25",
-      "stockList": [],
-      "summary": "【LME伦铜跌破13500美元/吨】LME伦铜跌破13500美元/吨，最新报13499.945美元/吨，日内下跌0.65%。",
-      "title": "LME伦铜跌破13500美元/吨",
+      "showTime": "2026-11-13 22:01:15",
+      "stockList": [
+        "0.002466",
+        "116.09696"
+      ],
+      "summary": "【天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工】据天齐锂业消息，11月12日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目竣工仪式在重庆市铜梁区举行。该项目是全国首个全自动电池级金属锂工厂，集大型化、自动化、节能化于一体。项目投产后，天齐锂业重庆金属锂总产能将提升至1600吨/年。",
+      "title": "天齐锂业1000吨/年高能锂电材料电池级金属锂项目竣工",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930678314.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930982863.html",
     "category": "期货",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.002466",
+      "116.09696"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 10,
     "share_count": 1,
     "tags": {
-      "industries": [],
+      "industries": [
+        {
+          "id": "I010201",
+          "name": "锂离子电池制造",
+          "level1": "制造业",
+          "level2": "电气机械和器材制造业",
+          "matched_keyword": "锂电"
+        }
+      ],
       "concepts": [
+        {
+          "id": "C102",
+          "name": "锂电池",
+          "matched_keyword": "锂电"
+        },
         {
           "id": "C501",
           "name": "有色金属",
           "matched_keyword": "铜"
         }
       ],
-      "industry_ids": [],
+      "industry_ids": [
+        "I010201"
+      ],
       "concept_ids": [
+        "C102",
         "C501"
       ]
     }
   },
   {
-    "id": "2728eb4f8028f48d",
-    "code": "202611133930676771",
-    "title": "西藏矿业：氯化钾为伴生产品 当前营收占比相对有限",
-    "summary": "【西藏矿业：氯化钾为伴生产品 当前营收占比相对有限】西藏矿业(000762)11月13日在互动平台表示，公司主要产品包括锂精矿、碳酸锂、氯化钾、铬铁矿，氯化钾为相关伴生产品，当前营收占比相对有限。",
-    "content": "【西藏矿业：氯化钾为伴生产品 当前营收占比相对有限】西藏矿业(000762)11月13日在互动平台表示，公司主要产品包括锂精矿、碳酸锂、氯化钾、铬铁矿，氯化钾为相关伴生产品，当前营收占比相对有限。",
-    "full_content": "【西藏矿业：氯化钾为伴生产品 当前营收占比相对有限】西藏矿业(000762)11月13日在互动平台表示，公司主要产品包括锂精矿、碳酸锂、氯化钾、铬铁矿，氯化钾为相关伴生产品，当前营收占比相对有限。",
-    "sort_time": "1794555046076771",
-    "showTime": "2026-11-13 15:30:46",
-    "time": "2026-11-13 15:30:46",
-    "publish_time": "2026-11-13 15:30:46",
+    "id": "cec6dd9f1b879bdc",
+    "code": "202611133930979929",
+    "title": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回",
+    "summary": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回。",
+    "content": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回。",
+    "full_content": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回。",
+    "sort_time": "1794578354079929",
+    "showTime": "2026-11-13 21:59:14",
+    "time": "2026-11-13 21:59:14",
+    "publish_time": "2026-11-13 21:59:14",
     "raw_data": {
-      "code": "202611133930676771",
+      "code": "202611133930979929",
       "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794555046076771",
-      "share": 0,
-      "showTime": "2026-11-13 15:30:46",
-      "stockList": [
-        "0.000762"
-      ],
-      "summary": "【西藏矿业：氯化钾为伴生产品 当前营收占比相对有限】西藏矿业(000762)11月13日在互动平台表示，公司主要产品包括锂精矿、碳酸锂、氯化钾、铬铁矿，氯化钾为相关伴生产品，当前营收占比相对有限。",
-      "title": "西藏矿业：氯化钾为伴生产品 当前营收占比相对有限",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930676771.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.000762"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "ce92d7997beaf148",
-    "code": "202611133930676686",
-    "title": "爱克股份等成立智能科技公司 含云计算设备业务",
-    "summary": "【爱克股份等成立智能科技公司 含云计算设备业务】企查查APP显示，近日，巢湖爱克莱特智能科技有限公司成立，经营范围包含：半导体照明器件制造；半导体照明器件销售；云计算装备技术服务；云计算设备销售；集成电路芯片设计及服务等。企查查股权穿透显示，该公司由爱克股份等共同持股。",
-    "content": "【爱克股份等成立智能科技公司 含云计算设备业务】企查查APP显示，近日，巢湖爱克莱特智能科技有限公司成立，经营范围包含：半导体照明器件制造；半导体照明器件销售；云计算装备技术服务；云计算设备销售；集成电路芯片设计及服务等。企查查股权穿透显示，该公司由爱克股份等共同持股。",
-    "full_content": "【爱克股份等成立智能科技公司 含云计算设备业务】企查查APP显示，近日，巢湖爱克莱特智能科技有限公司成立，经营范围包含：半导体照明器件制造；半导体照明器件销售；云计算装备技术服务；云计算设备销售；集成电路芯片设计及服务等。企查查股权穿透显示，该公司由爱克股份等共同持股。",
-    "sort_time": "1794555046076686",
-    "showTime": "2026-11-13 15:30:46",
-    "time": "2026-11-13 15:30:46",
-    "publish_time": "2026-11-13 15:30:46",
-    "raw_data": {
-      "code": "202611133930676686",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794555046076686",
-      "share": 0,
-      "showTime": "2026-11-13 15:30:46",
-      "stockList": [
-        "0.300889",
-        "90.BK0579"
-      ],
-      "summary": "【爱克股份等成立智能科技公司 含云计算设备业务】企查查APP显示，近日，巢湖爱克莱特智能科技有限公司成立，经营范围包含：半导体照明器件制造；半导体照明器件销售；云计算装备技术服务；云计算设备销售；集成电路芯片设计及服务等。企查查股权穿透显示，该公司由爱克股份等共同持股。",
-      "title": "爱克股份等成立智能科技公司 含云计算设备业务",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930676686.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300889",
-      "90.BK0579"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "集成电路"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "集成电路"
-        },
-        {
-          "id": "C005",
-          "name": "云计算",
-          "matched_keyword": "云计算"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002",
-        "C005"
-      ]
-    }
-  },
-  {
-    "id": "81f4ba33c491b5a5",
-    "code": "202611133930676585",
-    "title": "科沃斯：预计三季度是公司毛利率低点",
-    "summary": "【科沃斯：预计三季度是公司毛利率低点】科沃斯在2026年第三季度业绩说明会上表示，预计三季度是公司毛利率低点，后续预期毛利率会环比持平或改善。但鉴于今年及明年存储芯片价格仍将维持高位，预计接下来2至3个季度同比毛利率仍存在一定的压力。",
-    "content": "【科沃斯：预计三季度是公司毛利率低点】科沃斯在2026年第三季度业绩说明会上表示，预计三季度是公司毛利率低点，后续预期毛利率会环比持平或改善。但鉴于今年及明年存储芯片价格仍将维持高位，预计接下来2至3个季度同比毛利率仍存在一定的压力。",
-    "full_content": "【科沃斯：预计三季度是公司毛利率低点】科沃斯在2026年第三季度业绩说明会上表示，预计三季度是公司毛利率低点，后续预期毛利率会环比持平或改善。但鉴于今年及明年存储芯片价格仍将维持高位，预计接下来2至3个季度同比毛利率仍存在一定的压力。",
-    "sort_time": "1794555046076585",
-    "showTime": "2026-11-13 15:30:46",
-    "time": "2026-11-13 15:30:46",
-    "publish_time": "2026-11-13 15:30:46",
-    "raw_data": {
-      "code": "202611133930676585",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794555046076585",
-      "share": 0,
-      "showTime": "2026-11-13 15:30:46",
-      "stockList": [
-        "1.603486",
-        "1.113633"
-      ],
-      "summary": "【科沃斯：预计三季度是公司毛利率低点】科沃斯在2026年第三季度业绩说明会上表示，预计三季度是公司毛利率低点，后续预期毛利率会环比持平或改善。但鉴于今年及明年存储芯片价格仍将维持高位，预计接下来2至3个季度同比毛利率仍存在一定的压力。",
-      "title": "科沃斯：预计三季度是公司毛利率低点",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930676585.html",
-    "category": "宏观",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.603486",
-      "1.113633"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "存储芯片"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "d6a3930a9c63e002",
-    "code": "202611133930676143",
-    "title": "芯联集成旗下绍兴制造公司增资至84.8亿元 增幅约217%",
-    "summary": "【芯联集成旗下绍兴制造公司增资至84.8亿元 增幅约217%】天眼查App显示，近日，芯联先进集成电路制造（绍兴）有限公司发生工商变更，新增招银金融资产投资有限公司、交银金融资产投资有限公司等为股东，同时，注册资本由约26.8亿元人民币增至约84.8亿元人民币，增幅约217%。",
-    "content": "【芯联集成旗下绍兴制造公司增资至84.8亿元 增幅约217%】天眼查App显示，近日，芯联先进集成电路制造（绍兴）有限公司发生工商变更，新增招银金融资产投资有限公司、交银金融资产投资有限公司等为股东，同时，注册资本由约26.8亿元人民币增至约84.8亿元人民币，增幅约217%。",
-    "full_content": "【芯联集成旗下绍兴制造公司增资至84.8亿元 增幅约217%】天眼查App显示，近日，芯联先进集成电路制造（绍兴）有限公司发生工商变更，新增招银金融资产投资有限公司、交银金融资产投资有限公司等为股东，同时，注册资本由约26.8亿元人民币增至约84.8亿元人民币，增幅约217%。",
-    "sort_time": "1794554986076143",
-    "showTime": "2026-11-13 15:29:46",
-    "time": "2026-11-13 15:29:46",
-    "publish_time": "2026-11-13 15:29:46",
-    "raw_data": {
-      "code": "202611133930676143",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1794554986076143",
+      "pinglun_Num": 7,
+      "realSort": "1794578354079929",
       "share": 3,
-      "showTime": "2026-11-13 15:29:46",
-      "stockList": [
-        "1.688469",
-        "150.011668"
-      ],
-      "summary": "【芯联集成旗下绍兴制造公司增资至84.8亿元 增幅约217%】天眼查App显示，近日，芯联先进集成电路制造（绍兴）有限公司发生工商变更，新增招银金融资产投资有限公司、交银金融资产投资有限公司等为股东，同时，注册资本由约26.8亿元人民币增至约84.8亿元人民币，增幅约217%。",
-      "title": "芯联集成旗下绍兴制造公司增资至84.8亿元 增幅约217%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930676143.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "1.688469",
-      "150.011668"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 6,
-    "share_count": 3,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "集成电路"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "集成电路"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "5bacf5707b8f5deb",
-    "code": "202611133930675235",
-    "title": "印度尼西亚股市基准指数上涨2%",
-    "summary": "印度尼西亚股市基准指数上涨2%至5,355.75点。",
-    "content": "印度尼西亚股市基准指数上涨2%至5,355.75点。",
-    "full_content": "印度尼西亚股市基准指数上涨2%至5,355.75点。",
-    "sort_time": "1794554981075235",
-    "showTime": "2026-11-13 15:29:41",
-    "time": "2026-11-13 15:29:41",
-    "publish_time": "2026-11-13 15:29:41",
-    "raw_data": {
-      "code": "202611133930675235",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1794554981075235",
-      "share": 2,
-      "showTime": "2026-11-13 15:29:41",
+      "showTime": "2026-11-13 21:59:14",
       "stockList": [],
-      "summary": "印度尼西亚股市基准指数上涨2%至5,355.75点。",
-      "title": "印度尼西亚股市基准指数上涨2%",
+      "summary": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回。",
+      "title": "美国海军“迈克尔·墨菲”号驱逐舰从中东返回",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930675235.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930979929.html",
     "category": "其他",
     "importance": 5,
-    "sentiment": "bullish",
+    "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 2,
+    "comment_count": 7,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -1597,224 +2030,80 @@
     }
   },
   {
-    "id": "b751928869c15b81",
-    "code": "202611133930674874",
-    "title": "国家卫健委：重点人群应优先接种流感疫苗",
-    "summary": "【国家卫健委：重点人群应优先接种流感疫苗】国家卫生健康委今天举行新闻发布会，介绍时令节气与健康有关情况。中国疾病预防控制中心研究员王大燕介绍，接种疫苗是预防流感最经济有效的措施。由于流感病毒容易发生变异，建议每年接种流感疫苗，以降低感染后发生重症、住院和死亡的风险。",
-    "content": "【国家卫健委：重点人群应优先接种流感疫苗】国家卫生健康委今天举行新闻发布会，介绍时令节气与健康有关情况。中国疾病预防控制中心研究员王大燕介绍，接种疫苗是预防流感最经济有效的措施。由于流感病毒容易发生变异，建议每年接种流感疫苗，以降低感染后发生重症、住院和死亡的风险。",
-    "full_content": "【国家卫健委：重点人群应优先接种流感疫苗】国家卫生健康委今天举行新闻发布会，介绍时令节气与健康有关情况。中国疾病预防控制中心研究员王大燕介绍，接种疫苗是预防流感最经济有效的措施。由于流感病毒容易发生变异，建议每年接种流感疫苗，以降低感染后发生重症、住院和死亡的风险。",
-    "sort_time": "1794554916074874",
-    "showTime": "2026-11-13 15:28:36",
-    "time": "2026-11-13 15:28:36",
-    "publish_time": "2026-11-13 15:28:36",
+    "id": "a550a08d215c8b49",
+    "code": "202611133930976516",
+    "title": "美银全球研究下调应用材料目标价",
+    "summary": "【美银全球研究下调应用材料目标价】美银全球研究将应用材料目标价从650美元下调至520美元。",
+    "content": "【美银全球研究下调应用材料目标价】美银全球研究将应用材料目标价从650美元下调至520美元。",
+    "full_content": "【美银全球研究下调应用材料目标价】美银全球研究将应用材料目标价从650美元下调至520美元。",
+    "sort_time": "1794578111076516",
+    "showTime": "2026-11-13 21:55:11",
+    "time": "2026-11-13 21:55:11",
+    "publish_time": "2026-11-13 21:55:11",
     "raw_data": {
-      "code": "202611133930674874",
+      "code": "202611133930976516",
       "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1794554916074874",
-      "share": 2,
-      "showTime": "2026-11-13 15:28:36",
-      "stockList": [
-        "90.BK0548"
-      ],
-      "summary": "【国家卫健委：重点人群应优先接种流感疫苗】国家卫生健康委今天举行新闻发布会，介绍时令节气与健康有关情况。中国疾病预防控制中心研究员王大燕介绍，接种疫苗是预防流感最经济有效的措施。由于流感病毒容易发生变异，建议每年接种流感疫苗，以降低感染后发生重症、住院和死亡的风险。",
-      "title": "国家卫健委：重点人群应优先接种流感疫苗",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930674874.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0548"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 2,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010402",
-          "name": "生物制品",
-          "level1": "制造业",
-          "level2": "医药制造业",
-          "matched_keyword": "疫苗"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C305",
-          "name": "疫苗",
-          "matched_keyword": "疫苗"
-        }
-      ],
-      "industry_ids": [
-        "I010402"
-      ],
-      "concept_ids": [
-        "C305"
-      ]
-    }
-  },
-  {
-    "id": "a56643f694d4370f",
-    "code": "202611133930675056",
-    "title": "余承东亮相问界新M8发布会 阐述赛力斯与华为合作新模式",
-    "summary": "【余承东亮相问界新M8发布会 阐述赛力斯与华为合作新模式】11月13日，赛力斯于重庆工厂发布问界新M8。发布会现场，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东率先登场，并阐述了双方最新合作模式。",
-    "content": "【余承东亮相问界新M8发布会 阐述赛力斯与华为合作新模式】11月13日，赛力斯于重庆工厂发布问界新M8。发布会现场，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东率先登场，并阐述了双方最新合作模式。",
-    "full_content": "【余承东亮相问界新M8发布会 阐述赛力斯与华为合作新模式】11月13日，赛力斯于重庆工厂发布问界新M8。发布会现场，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东率先登场，并阐述了双方最新合作模式。",
-    "sort_time": "1794554676075056",
-    "showTime": "2026-11-13 15:24:36",
-    "time": "2026-11-13 15:24:36",
-    "publish_time": "2026-11-13 15:24:36",
-    "raw_data": {
-      "code": "202611133930675056",
-      "image": [],
-      "pinglun_Num": 5,
-      "realSort": "1794554676075056",
+      "pinglun_Num": 1,
+      "realSort": "1794578111076516",
       "share": 0,
-      "showTime": "2026-11-13 15:24:36",
+      "showTime": "2026-11-13 21:55:11",
       "stockList": [
-        "1.601127",
-        "116.09927"
+        "105.AMAT"
       ],
-      "summary": "【余承东亮相问界新M8发布会 阐述赛力斯与华为合作新模式】11月13日，赛力斯于重庆工厂发布问界新M8。发布会现场，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东率先登场，并阐述了双方最新合作模式。",
-      "title": "余承东亮相问界新M8发布会 阐述赛力斯与华为合作新模式",
+      "summary": "【美银全球研究下调应用材料目标价】美银全球研究将应用材料目标价从650美元下调至520美元。",
+      "title": "美银全球研究下调应用材料目标价",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930675056.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930976516.html",
     "category": "其他",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "1.601127",
-      "116.09927"
+      "105.AMAT"
     ],
     "has_stock_mention": true,
-    "comment_count": 5,
+    "comment_count": 1,
     "share_count": 0,
     "tags": {
       "industries": [],
-      "concepts": [
-        {
-          "id": "C806",
-          "name": "华为概念",
-          "matched_keyword": "华为"
-        }
-      ],
+      "concepts": [],
       "industry_ids": [],
-      "concept_ids": [
-        "C806"
-      ]
+      "concept_ids": []
     }
   },
   {
-    "id": "45129b0ec47a279e",
-    "code": "202611133930674147",
-    "title": "外交部：中方一贯反对滥用出口管制措施 扰乱全球产供链的稳定",
-    "summary": "【外交部：中方一贯反对滥用出口管制措施 扰乱全球产供链的稳定】彭博社记者提问，第一个问题，据本社报道，英伟达的芯片目前出现在上海的数据中心，请问外交部对此有何评论？第二个问题是，美国议员和商务部正在推动通过芯片法案来阻止中国公司通过国外渠道来获取美国算力，请问中国是否认为这些限制措施违反了中美的贸易休战协议？鉴于APEC峰会即将召开，中方对作何回应？毛宁表示，你的第一个问题，我不了解有关情况。第二个问题，中方一贯反对滥用出口管制措施，扰乱全球产供链的稳定，这不符合任何一方的利益。中美双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展的态势。",
-    "content": "【外交部：中方一贯反对滥用出口管制措施 扰乱全球产供链的稳定】彭博社记者提问，第一个问题，据本社报道，英伟达的芯片目前出现在上海的数据中心，请问外交部对此有何评论？第二个问题是，美国议员和商务部正在推动通过芯片法案来阻止中国公司通过国外渠道来获取美国算力，请问中国是否认为这些限制措施违反了中美的贸易休战协议？鉴于APEC峰会即将召开，中方对作何回应？毛宁表示，你的第一个问题，我不了解有关情况。第二个问题，中方一贯反对滥用出口管制措施，扰乱全球产供链的稳定，这不符合任何一方的利益。中美双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展的态势。",
-    "full_content": "【外交部：中方一贯反对滥用出口管制措施 扰乱全球产供链的稳定】彭博社记者提问，第一个问题，据本社报道，英伟达的芯片目前出现在上海的数据中心，请问外交部对此有何评论？第二个问题是，美国议员和商务部正在推动通过芯片法案来阻止中国公司通过国外渠道来获取美国算力，请问中国是否认为这些限制措施违反了中美的贸易休战协议？鉴于APEC峰会即将召开，中方对作何回应？毛宁表示，你的第一个问题，我不了解有关情况。第二个问题，中方一贯反对滥用出口管制措施，扰乱全球产供链的稳定，这不符合任何一方的利益。中美双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展的态势。",
-    "sort_time": "1794554659074147",
-    "showTime": "2026-11-13 15:24:19",
-    "time": "2026-11-13 15:24:19",
-    "publish_time": "2026-11-13 15:24:19",
+    "id": "068ade7d97b282a6",
+    "code": "202611133930970946",
+    "title": "布伦特原油期货价格涨超1%",
+    "summary": "【布伦特原油期货价格涨超1%】WTI原油期货价格涨0.69%，报89.354美元/桶；布伦特原油期货价格涨1.04%，报96.815美元/桶。",
+    "content": "【布伦特原油期货价格涨超1%】WTI原油期货价格涨0.69%，报89.354美元/桶；布伦特原油期货价格涨1.04%，报96.815美元/桶。",
+    "full_content": "【布伦特原油期货价格涨超1%】WTI原油期货价格涨0.69%，报89.354美元/桶；布伦特原油期货价格涨1.04%，报96.815美元/桶。",
+    "sort_time": "1794577864070946",
+    "showTime": "2026-11-13 21:51:04",
+    "time": "2026-11-13 21:51:04",
+    "publish_time": "2026-11-13 21:51:04",
     "raw_data": {
-      "code": "202611133930674147",
+      "code": "202611133930970946",
       "image": [],
-      "pinglun_Num": 231,
-      "realSort": "1794554659074147",
-      "share": 435,
-      "showTime": "2026-11-13 15:24:19",
-      "stockList": [
-        "90.BK1134"
-      ],
-      "summary": "【外交部：中方一贯反对滥用出口管制措施 扰乱全球产供链的稳定】彭博社记者提问，第一个问题，据本社报道，英伟达的芯片目前出现在上海的数据中心，请问外交部对此有何评论？第二个问题是，美国议员和商务部正在推动通过芯片法案来阻止中国公司通过国外渠道来获取美国算力，请问中国是否认为这些限制措施违反了中美的贸易休战协议？鉴于APEC峰会即将召开，中方对作何回应？毛宁表示，你的第一个问题，我不了解有关情况。第二个问题，中方一贯反对滥用出口管制措施，扰乱全球产供链的稳定，这不符合任何一方的利益。中美双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展的态势。",
-      "title": "美方正推动新法案阻止中国公司远程使用美国境外算力 外交部回应",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930674147.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1134"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 231,
-    "share_count": 435,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "芯片"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "芯片"
-        },
-        {
-          "id": "C006",
-          "name": "大数据",
-          "matched_keyword": "数据中心"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002",
-        "C006",
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "b5f568f4f53c8756",
-    "code": "202611133930674957",
-    "title": "卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元",
-    "summary": "【卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元】定价文件显示，卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元；陆上原油官方售价定为阿曼/迪拜原油每桶贴水9.5美元。",
-    "content": "【卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元】定价文件显示，卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元；陆上原油官方售价定为阿曼/迪拜原油每桶贴水9.5美元。",
-    "full_content": "【卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元】定价文件显示，卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元；陆上原油官方售价定为阿曼/迪拜原油每桶贴水9.5美元。",
-    "sort_time": "1794554605074957",
-    "showTime": "2026-11-13 15:23:25",
-    "time": "2026-11-13 15:23:25",
-    "publish_time": "2026-11-13 15:23:25",
-    "raw_data": {
-      "code": "202611133930674957",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1794554605074957",
-      "share": 0,
-      "showTime": "2026-11-13 15:23:25",
+      "pinglun_Num": 4,
+      "realSort": "1794577864070946",
+      "share": 3,
+      "showTime": "2026-11-13 21:51:04",
       "stockList": [],
-      "summary": "【卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元】定价文件显示，卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元；陆上原油官方售价定为阿曼/迪拜原油每桶贴水9.5美元。",
-      "title": "卡塔尔将12月份海上原油官方售价定为阿曼/迪拜原油每桶贴水10美元",
+      "summary": "【布伦特原油期货价格涨超1%】WTI原油期货价格涨0.69%，报89.354美元/桶；布伦特原油期货价格涨1.04%，报96.815美元/桶。",
+      "title": "布伦特原油期货价格涨超1%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930674957.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930970946.html",
     "category": "期货",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 0,
+    "comment_count": 4,
+    "share_count": 3,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1831,370 +2120,300 @@
     }
   },
   {
-    "id": "a4e1d640d1ffe811",
-    "code": "202611133930673158",
-    "title": "第五届中国－阿拉伯国家政党对话会举行",
-    "summary": "【第五届中国－阿拉伯国家政党对话会举行】11月13日，由中共中央对外联络部和中共江苏省委共同举办的第五届中国－阿拉伯国家政党对话会在苏州举行，主题为“百年变局下的中阿命运共同体建设：政党的责任与使命”。来自22个阿拉伯国家的100余位政党和政治组织领导人、政府官员、议会议员、驻华使节、工商界人士、智库媒体代表等参会。",
-    "content": "【第五届中国－阿拉伯国家政党对话会举行】11月13日，由中共中央对外联络部和中共江苏省委共同举办的第五届中国－阿拉伯国家政党对话会在苏州举行，主题为“百年变局下的中阿命运共同体建设：政党的责任与使命”。来自22个阿拉伯国家的100余位政党和政治组织领导人、政府官员、议会议员、驻华使节、工商界人士、智库媒体代表等参会。",
-    "full_content": "【第五届中国－阿拉伯国家政党对话会举行】11月13日，由中共中央对外联络部和中共江苏省委共同举办的第五届中国－阿拉伯国家政党对话会在苏州举行，主题为“百年变局下的中阿命运共同体建设：政党的责任与使命”。来自22个阿拉伯国家的100余位政党和政治组织领导人、政府官员、议会议员、驻华使节、工商界人士、智库媒体代表等参会。",
-    "sort_time": "1794554603073158",
-    "showTime": "2026-11-13 15:23:23",
-    "time": "2026-11-13 15:23:23",
-    "publish_time": "2026-11-13 15:23:23",
+    "id": "5adfc8c3071a1c2b",
+    "code": "202611133930967189",
+    "title": "Anthropic称正在调查性能下降的问题",
+    "summary": "Anthropic称正在调查性能下降的问题。",
+    "content": "Anthropic称正在调查性能下降的问题。",
+    "full_content": "Anthropic称正在调查性能下降的问题。",
+    "sort_time": "1794577414067189",
+    "showTime": "2026-11-13 21:43:34",
+    "time": "2026-11-13 21:43:34",
+    "publish_time": "2026-11-13 21:43:34",
     "raw_data": {
-      "code": "202611133930673158",
+      "code": "202611133930967189",
       "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794554603073158",
+      "pinglun_Num": 3,
+      "realSort": "1794577414067189",
+      "share": 4,
+      "showTime": "2026-11-13 21:43:34",
+      "stockList": [],
+      "summary": "Anthropic称正在调查性能下降的问题。",
+      "title": "Anthropic称正在调查性能下降的问题",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930967189.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 3,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "a9f8fb3a38406a77",
+    "code": "202611133930966282",
+    "title": "韩国考虑拨专款打击AI作弊行为",
+    "summary": "【韩国考虑拨专款打击AI作弊行为】由于担心考生利用人工智能（AI）眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。韩国最大在野党国民力量党议员金渭相近日提议，在2027年度预算中增加约65.7亿韩元（1美元约合1336韩元）经费，用于采购无线电信号探测设备并安排专职人员，防范国家资格考试中的AI作弊行为。",
+    "content": "【韩国考虑拨专款打击AI作弊行为】由于担心考生利用人工智能（AI）眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。韩国最大在野党国民力量党议员金渭相近日提议，在2027年度预算中增加约65.7亿韩元（1美元约合1336韩元）经费，用于采购无线电信号探测设备并安排专职人员，防范国家资格考试中的AI作弊行为。",
+    "full_content": "【韩国考虑拨专款打击AI作弊行为】由于担心考生利用人工智能（AI）眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。韩国最大在野党国民力量党议员金渭相近日提议，在2027年度预算中增加约65.7亿韩元（1美元约合1336韩元）经费，用于采购无线电信号探测设备并安排专职人员，防范国家资格考试中的AI作弊行为。",
+    "sort_time": "1794577410066282",
+    "showTime": "2026-11-13 21:43:30",
+    "time": "2026-11-13 21:43:30",
+    "publish_time": "2026-11-13 21:43:30",
+    "raw_data": {
+      "code": "202611133930966282",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1794577410066282",
       "share": 0,
-      "showTime": "2026-11-13 15:23:23",
-      "stockList": [],
-      "summary": "【第五届中国－阿拉伯国家政党对话会举行】11月13日，由中共中央对外联络部和中共江苏省委共同举办的第五届中国－阿拉伯国家政党对话会在苏州举行，主题为“百年变局下的中阿命运共同体建设：政党的责任与使命”。来自22个阿拉伯国家的100余位政党和政治组织领导人、政府官员、议会议员、驻华使节、工商界人士、智库媒体代表等参会。",
-      "title": "第五届中国－阿拉伯国家政党对话会举行",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930673158.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "240b0f660e0c5fa7",
-    "code": "202611133930672335",
-    "title": "伊朗称一艘液化气运输船在霍尔木兹海峡触雷爆炸",
-    "summary": "【伊朗称一艘液化气运输船在霍尔木兹海峡触雷爆炸】伊朗伊斯兰革命卫队海军公共关系部门13日发表声明说，一艘违规液化气运输船在霍尔木兹海峡东部触雷后发生爆炸并起火。",
-    "content": "【伊朗称一艘液化气运输船在霍尔木兹海峡触雷爆炸】伊朗伊斯兰革命卫队海军公共关系部门13日发表声明说，一艘违规液化气运输船在霍尔木兹海峡东部触雷后发生爆炸并起火。",
-    "full_content": "【伊朗称一艘液化气运输船在霍尔木兹海峡触雷爆炸】伊朗伊斯兰革命卫队海军公共关系部门13日发表声明说，一艘违规液化气运输船在霍尔木兹海峡东部触雷后发生爆炸并起火。",
-    "sort_time": "1794554579072335",
-    "showTime": "2026-11-13 15:22:59",
-    "time": "2026-11-13 15:22:59",
-    "publish_time": "2026-11-13 15:22:59",
-    "raw_data": {
-      "code": "202611133930672335",
-      "image": [],
-      "pinglun_Num": 4,
-      "realSort": "1794554579072335",
-      "share": 1,
-      "showTime": "2026-11-13 15:22:59",
-      "stockList": [],
-      "summary": "【伊朗称一艘液化气运输船在霍尔木兹海峡触雷爆炸】伊朗伊斯兰革命卫队海军公共关系部门13日发表声明说，一艘违规液化气运输船在霍尔木兹海峡东部触雷后发生爆炸并起火。",
-      "title": "伊朗称一艘液化气运输船在霍尔木兹海峡触雷爆炸",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930672335.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 4,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "698152071f4bf4d2",
-    "code": "202611133930670615",
-    "title": "外交部回应中美俄元首会晤",
-    "summary": "【外交部回应中美俄元首会晤】11月13日，外交部发言人毛宁主持例行记者会。有记者就中美俄元首会晤提问。毛宁表示，对于中美俄三国元首的会晤，我们同相关方保持着沟通，如果有进一步的信息我们会及时发布。",
-    "content": "【外交部回应中美俄元首会晤】11月13日，外交部发言人毛宁主持例行记者会。有记者就中美俄元首会晤提问。毛宁表示，对于中美俄三国元首的会晤，我们同相关方保持着沟通，如果有进一步的信息我们会及时发布。",
-    "full_content": "【外交部回应中美俄元首会晤】11月13日，外交部发言人毛宁主持例行记者会。有记者就中美俄元首会晤提问。毛宁表示，对于中美俄三国元首的会晤，我们同相关方保持着沟通，如果有进一步的信息我们会及时发布。",
-    "sort_time": "1794554514070615",
-    "showTime": "2026-11-13 15:21:54",
-    "time": "2026-11-13 15:21:54",
-    "publish_time": "2026-11-13 15:21:54",
-    "raw_data": {
-      "code": "202611133930670615",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794554514070615",
-      "share": 0,
-      "showTime": "2026-11-13 15:21:54",
-      "stockList": [],
-      "summary": "【外交部回应中美俄元首会晤】11月13日，外交部发言人毛宁主持例行记者会。有记者就中美俄元首会晤提问。毛宁表示，对于中美俄三国元首的会晤，我们同相关方保持着沟通，如果有进一步的信息我们会及时发布。",
-      "title": "外交部回应中美俄元首会晤",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930670615.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "fca9a4a5a6fb1342",
-    "code": "202611133930674428",
-    "title": "知情人士：特朗普政府要求日本从2027财年开始 在未来五年内将驻日美军费用分摊额提高至3万亿日元以上",
-    "summary": "【知情人士：特朗普政府要求日本从2027财年开始 在未来五年内将驻日美军费用分摊额提高至3万亿日元以上】知情人士称，特朗普政府要求日本从2027财年开始，在未来五年内将驻日美军费用分摊额提高至3万亿日元以上（约合190亿美元），相当于目前水平的三倍。",
-    "content": "【知情人士：特朗普政府要求日本从2027财年开始 在未来五年内将驻日美军费用分摊额提高至3万亿日元以上】知情人士称，特朗普政府要求日本从2027财年开始，在未来五年内将驻日美军费用分摊额提高至3万亿日元以上（约合190亿美元），相当于目前水平的三倍。",
-    "full_content": "【知情人士：特朗普政府要求日本从2027财年开始 在未来五年内将驻日美军费用分摊额提高至3万亿日元以上】知情人士称，特朗普政府要求日本从2027财年开始，在未来五年内将驻日美军费用分摊额提高至3万亿日元以上（约合190亿美元），相当于目前水平的三倍。",
-    "sort_time": "1794554507074428",
-    "showTime": "2026-11-13 15:21:47",
-    "time": "2026-11-13 15:21:47",
-    "publish_time": "2026-11-13 15:21:47",
-    "raw_data": {
-      "code": "202611133930674428",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794554507074428",
-      "share": 3,
-      "showTime": "2026-11-13 15:21:47",
-      "stockList": [],
-      "summary": "【知情人士：特朗普政府要求日本从2027财年开始 在未来五年内将驻日美军费用分摊额提高至3万亿日元以上】知情人士称，特朗普政府要求日本从2027财年开始，在未来五年内将驻日美军费用分摊额提高至3万亿日元以上（约合190亿美元），相当于目前水平的三倍。",
-      "title": "知情人士：特朗普政府要求日本从2027财年开始 在未来五年内将驻日美军费用分摊额提高至3万亿日元以上",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930674428.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "0f70eb9efb326c04",
-    "code": "202611133930670227",
-    "title": "福建金融投资等成立新兴与未来创投母基金",
-    "summary": "【福建金融投资等成立新兴与未来创投母基金】企查查APP显示，近日，福建省新兴与未来创业投资母基金合伙企业（有限合伙）成立，经营范围包含：以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该企业由福建省金融投资有限责任公司、福建省省级政府投资基金有限公司等共同出资。",
-    "content": "【福建金融投资等成立新兴与未来创投母基金】企查查APP显示，近日，福建省新兴与未来创业投资母基金合伙企业（有限合伙）成立，经营范围包含：以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该企业由福建省金融投资有限责任公司、福建省省级政府投资基金有限公司等共同出资。",
-    "full_content": "【福建金融投资等成立新兴与未来创投母基金】企查查APP显示，近日，福建省新兴与未来创业投资母基金合伙企业（有限合伙）成立，经营范围包含：以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该企业由福建省金融投资有限责任公司、福建省省级政府投资基金有限公司等共同出资。",
-    "sort_time": "1794554291070227",
-    "showTime": "2026-11-13 15:18:11",
-    "time": "2026-11-13 15:18:11",
-    "publish_time": "2026-11-13 15:18:11",
-    "raw_data": {
-      "code": "202611133930670227",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794554291070227",
-      "share": 3,
-      "showTime": "2026-11-13 15:18:11",
+      "showTime": "2026-11-13 21:43:30",
       "stockList": [
-        "90.BK0506",
-        "0.159940"
+        "90.BK0800",
+        "0.161631"
       ],
-      "summary": "【福建金融投资等成立新兴与未来创投母基金】企查查APP显示，近日，福建省新兴与未来创业投资母基金合伙企业（有限合伙）成立，经营范围包含：以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该企业由福建省金融投资有限责任公司、福建省省级政府投资基金有限公司等共同出资。",
-      "title": "福建金融投资等成立新兴与未来创投母基金",
+      "summary": "【韩国考虑拨专款打击AI作弊行为】由于担心考生利用人工智能（AI）眼镜等高科技设备在国家资格考试中作弊，韩国正考虑采取应对措施。韩国最大在野党国民力量党议员金渭相近日提议，在2027年度预算中增加约65.7亿韩元（1美元约合1336韩元）经费，用于采购无线电信号探测设备并安排专职人员，防范国家资格考试中的AI作弊行为。",
+      "title": "韩国考虑拨专款打击AI作弊行为",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930670227.html",
-    "category": "其他",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930966282.html",
+    "category": "科技",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK0506",
-      "0.159940"
+      "90.BK0800",
+      "0.161631"
     ],
     "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 3,
+    "comment_count": 2,
+    "share_count": 0,
     "tags": {
-      "industries": [
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "私募"
-        }
-      ],
+      "industries": [],
       "concepts": [
         {
-          "id": "C404",
-          "name": "信托",
-          "matched_keyword": "资管"
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
         }
       ],
-      "industry_ids": [
-        "I020201"
-      ],
+      "industry_ids": [],
       "concept_ids": [
-        "C404"
+        "C001"
       ]
     }
   },
   {
-    "id": "80cd49e0111f5cad",
-    "code": "202611133930669793",
-    "title": "长城证券完成第三批互换便利回购融资并落地首批股票买入",
-    "summary": "【长城证券完成第三批互换便利回购融资并落地首批股票买入】长城证券宣布，已完成第三批“证券、基金、保险公司互换便利”回购融资并落地首批股票买入。",
-    "content": "【长城证券完成第三批互换便利回购融资并落地首批股票买入】长城证券宣布，已完成第三批“证券、基金、保险公司互换便利”回购融资并落地首批股票买入。",
-    "full_content": "【长城证券完成第三批互换便利回购融资并落地首批股票买入】长城证券宣布，已完成第三批“证券、基金、保险公司互换便利”回购融资并落地首批股票买入。",
-    "sort_time": "1794554280069793",
-    "showTime": "2026-11-13 15:18:00",
-    "time": "2026-11-13 15:18:00",
-    "publish_time": "2026-11-13 15:18:00",
+    "id": "a1a71639c9c4d507",
+    "code": "202611133930964924",
+    "title": "小鹏汽车：2027年计划面向英国导入5款全新右舵车型",
+    "summary": "【小鹏汽车：2027年计划面向英国导入5款全新右舵车型】小鹏汽车表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。",
+    "content": "【小鹏汽车：2027年计划面向英国导入5款全新右舵车型】小鹏汽车表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。",
+    "full_content": "【小鹏汽车：2027年计划面向英国导入5款全新右舵车型】小鹏汽车表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。",
+    "sort_time": "1794577327064924",
+    "showTime": "2026-11-13 21:42:07",
+    "time": "2026-11-13 21:42:07",
+    "publish_time": "2026-11-13 21:42:07",
     "raw_data": {
-      "code": "202611133930669793",
+      "code": "202611133930964924",
       "image": [],
-      "pinglun_Num": 19,
-      "realSort": "1794554280069793",
-      "share": 1,
-      "showTime": "2026-11-13 15:18:00",
+      "pinglun_Num": 7,
+      "realSort": "1794577327064924",
+      "share": 0,
+      "showTime": "2026-11-13 21:42:07",
       "stockList": [
-        "0.002939",
-        "150.161027"
+        "116.09868",
+        "106.XPEV"
       ],
-      "summary": "【长城证券完成第三批互换便利回购融资并落地首批股票买入】长城证券宣布，已完成第三批“证券、基金、保险公司互换便利”回购融资并落地首批股票买入。",
-      "title": "长城证券完成第三批互换便利回购融资并落地首批股票买入",
+      "summary": "【小鹏汽车：2027年计划面向英国导入5款全新右舵车型】小鹏汽车表示，2027年计划面向英国导入5款全新右舵车型，并将搭载VLA 2.0的下一代NGP驾驶辅助系统引入英国。未来一年，小鹏计划在全英国建立约100个零售及服务网点。",
+      "title": "小鹏汽车：2027年计划面向英国导入5款全新右舵车型",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930669793.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930964924.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "116.09868",
+      "106.XPEV"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C605",
+          "name": "零售",
+          "matched_keyword": "零售"
+        }
+      ],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": [
+        "C605"
+      ]
+    }
+  },
+  {
+    "id": "75e1229d18a02d8c",
+    "code": "202611133930965781",
+    "title": "美联储古尔斯比：美国通胀朝着错误的方向发展",
+    "summary": "【美联储古尔斯比：美国通胀朝着错误的方向发展】美联储的古尔斯比表示，美国通胀是广泛的，且朝着错误的方向发展；美联储在通胀方面“还有工作要做”，通胀将决定利率路径。不应因为没有出现工资通胀就感到安心，美联储在评估劳动力市场对通胀的影响时需要谨慎，因为工资是价格压力的滞后指标。并表示，人工智能建设正在能源成本之上推动经济升温。",
+    "content": "【美联储古尔斯比：美国通胀朝着错误的方向发展】美联储的古尔斯比表示，美国通胀是广泛的，且朝着错误的方向发展；美联储在通胀方面“还有工作要做”，通胀将决定利率路径。不应因为没有出现工资通胀就感到安心，美联储在评估劳动力市场对通胀的影响时需要谨慎，因为工资是价格压力的滞后指标。并表示，人工智能建设正在能源成本之上推动经济升温。",
+    "full_content": "【美联储古尔斯比：美国通胀朝着错误的方向发展】美联储的古尔斯比表示，美国通胀是广泛的，且朝着错误的方向发展；美联储在通胀方面“还有工作要做”，通胀将决定利率路径。不应因为没有出现工资通胀就感到安心，美联储在评估劳动力市场对通胀的影响时需要谨慎，因为工资是价格压力的滞后指标。并表示，人工智能建设正在能源成本之上推动经济升温。",
+    "sort_time": "1794577276065781",
+    "showTime": "2026-11-13 21:41:16",
+    "time": "2026-11-13 21:41:16",
+    "publish_time": "2026-11-13 21:41:16",
+    "raw_data": {
+      "code": "202611133930965781",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1794577276065781",
+      "share": 0,
+      "showTime": "2026-11-13 21:41:16",
+      "stockList": [],
+      "summary": "【美联储古尔斯比：美国通胀朝着错误的方向发展】美联储的古尔斯比表示，美国通胀是广泛的，且朝着错误的方向发展；美联储在通胀方面“还有工作要做”，通胀将决定利率路径。不应因为没有出现工资通胀就感到安心，美联储在评估劳动力市场对通胀的影响时需要谨慎，因为工资是价格压力的滞后指标。并表示，人工智能建设正在能源成本之上推动经济升温。",
+      "title": "美联储古尔斯比：美国通胀朝着错误的方向发展",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930965781.html",
+    "category": "宏观",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 11,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "6a2454cd41269a40",
+    "code": "202611133930965143",
+    "title": "中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响",
+    "summary": "【中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响】中富通(300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务机器人能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。",
+    "content": "【中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响】中富通(300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务机器人能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。",
+    "full_content": "【中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响】中富通(300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务机器人能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。",
+    "sort_time": "1794577200065143",
+    "showTime": "2026-11-13 21:40:00",
+    "time": "2026-11-13 21:40:00",
+    "publish_time": "2026-11-13 21:40:00",
+    "raw_data": {
+      "code": "202611133930965143",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1794577200065143",
+      "share": 0,
+      "showTime": "2026-11-13 21:40:00",
+      "stockList": [
+        "0.300560",
+        "90.BK1408"
+      ],
+      "summary": "【中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响】中富通(300560)11月13日在互动平台表示，公司子公司天创信息长期服务公安政府部门，公司推出的AI政务服务机器人能够为群众提供24小时不间断的政务服务咨询，具备智能问答系统、业务办理指引、预约服务等核心能力，2025年4月已在福州一派出所试点应用；目前该业务处于研发阶段，尚未量产，对业绩无实质影响。",
+      "title": "中富通：AI政务服务机器人业务尚未量产 对业绩无实质影响",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930965143.html",
     "category": "公司",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "0.002939",
-      "150.161027"
+      "0.300560",
+      "90.BK1408"
     ],
     "has_stock_mention": true,
-    "comment_count": 19,
-    "share_count": 1,
+    "comment_count": 4,
+    "share_count": 0,
     "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        },
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "基金"
-        }
-      ],
+      "industries": [],
       "concepts": [
         {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
         },
         {
-          "id": "C403",
-          "name": "保险",
-          "matched_keyword": "保险"
+          "id": "C012",
+          "name": "机器人",
+          "matched_keyword": "机器人"
         }
       ],
-      "industry_ids": [
-        "I020102",
-        "I020201"
-      ],
+      "industry_ids": [],
       "concept_ids": [
-        "C401",
-        "C403"
+        "C001",
+        "C012"
       ]
     }
   },
   {
-    "id": "816aaec04124c502",
-    "code": "202611133930672533",
-    "title": "预测市场行业开始谨慎行事？Kalshi停止与特朗普长子的顾问合作",
-    "summary": "【预测市场行业开始谨慎行事？Kalshi停止与特朗普长子的顾问合作】预测市场平台Kalshi已终止与美国总统特朗普长子小唐纳德·特朗普之间的顾问合作，Kalshi称这是双方共同做出的商业决定。",
-    "content": "【预测市场行业开始谨慎行事？Kalshi停止与特朗普长子的顾问合作】预测市场平台Kalshi已终止与美国总统特朗普长子小唐纳德·特朗普之间的顾问合作，Kalshi称这是双方共同做出的商业决定。",
-    "full_content": "【预测市场行业开始谨慎行事？Kalshi停止与特朗普长子的顾问合作】预测市场平台Kalshi已终止与美国总统特朗普长子小唐纳德·特朗普之间的顾问合作，Kalshi称这是双方共同做出的商业决定。",
-    "sort_time": "1794554239072533",
-    "showTime": "2026-11-13 15:17:19",
-    "time": "2026-11-13 15:17:19",
-    "publish_time": "2026-11-13 15:17:19",
+    "id": "d1bd0a3e8218d143",
+    "code": "202611133930961217",
+    "title": "花旗集团下调思科目标价",
+    "summary": "【花旗集团下调思科目标价】花旗集团将思科目标价从139美元下调至120美元。",
+    "content": "【花旗集团下调思科目标价】花旗集团将思科目标价从139美元下调至120美元。",
+    "full_content": "【花旗集团下调思科目标价】花旗集团将思科目标价从139美元下调至120美元。",
+    "sort_time": "1794577085061217",
+    "showTime": "2026-11-13 21:38:05",
+    "time": "2026-11-13 21:38:05",
+    "publish_time": "2026-11-13 21:38:05",
     "raw_data": {
-      "code": "202611133930672533",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794554239072533",
-      "share": 0,
-      "showTime": "2026-11-13 15:17:19",
-      "stockList": [],
-      "summary": "【预测市场行业开始谨慎行事？Kalshi停止与特朗普长子的顾问合作】预测市场平台Kalshi已终止与美国总统特朗普长子小唐纳德·特朗普之间的顾问合作，Kalshi称这是双方共同做出的商业决定。",
-      "title": "预测市场行业开始谨慎行事？Kalshi停止与特朗普长子的顾问合作",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930672533.html",
-    "category": "行业",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8baa5c2d5b6fb524",
-    "code": "202611133930669555",
-    "title": "国债期货收盘全线下跌 30年期主力合约跌0.47%",
-    "summary": "【国债期货收盘全线下跌 30年期主力合约跌0.47%】国债期货收盘全线下跌，30年期主力合约跌0.47%报117.450元，10年期主力合约跌0.05%报110.045元，5年期主力合约跌0.03%报106.760元，2年期主力合约跌0.02%报102.636元。",
-    "content": "【国债期货收盘全线下跌 30年期主力合约跌0.47%】国债期货收盘全线下跌，30年期主力合约跌0.47%报117.450元，10年期主力合约跌0.05%报110.045元，5年期主力合约跌0.03%报106.760元，2年期主力合约跌0.02%报102.636元。",
-    "full_content": "【国债期货收盘全线下跌 30年期主力合约跌0.47%】国债期货收盘全线下跌，30年期主力合约跌0.47%报117.450元，10年期主力合约跌0.05%报110.045元，5年期主力合约跌0.03%报106.760元，2年期主力合约跌0.02%报102.636元。",
-    "sort_time": "1794554220069555",
-    "showTime": "2026-11-13 15:17:00",
-    "time": "2026-11-13 15:17:00",
-    "publish_time": "2026-11-13 15:17:00",
-    "raw_data": {
-      "code": "202611133930669555",
+      "code": "202611133930961217",
       "image": [],
       "pinglun_Num": 1,
-      "realSort": "1794554220069555",
+      "realSort": "1794577085061217",
       "share": 0,
-      "showTime": "2026-11-13 15:17:00",
-      "stockList": [],
-      "summary": "【国债期货收盘全线下跌 30年期主力合约跌0.47%】国债期货收盘全线下跌，30年期主力合约跌0.47%报117.450元，10年期主力合约跌0.05%报110.045元，5年期主力合约跌0.03%报106.760元，2年期主力合约跌0.02%报102.636元。",
-      "title": "国债期货收盘全线下跌 30年期主力合约跌0.47%",
+      "showTime": "2026-11-13 21:38:05",
+      "stockList": [
+        "105.CSCO"
+      ],
+      "summary": "【花旗集团下调思科目标价】花旗集团将思科目标价从139美元下调至120美元。",
+      "title": "花旗集团下调思科目标价",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930669555.html",
-    "category": "债券",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
+    "url": "https://kuaixun.eastmoney.com/news/202611133930961217.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.CSCO"
+    ],
+    "has_stock_mention": true,
     "comment_count": 1,
     "share_count": 0,
     "tags": {
@@ -2205,256 +2424,95 @@
     }
   },
   {
-    "id": "096006dc8c81a9d1",
-    "code": "202611133930666039",
-    "title": "微软加紧修复Outlook和Copilot系统故障 全球多地用户受到影响",
-    "summary": "【微软加紧修复Outlook和Copilot系统故障 全球多地用户受到影响】在服务中断半天后，微软公司仍在努力恢复其旗舰软件的访问，用户无法使用电子邮件和聊天服务，这是这家科技巨头近年来最严重的服务中断之一。",
-    "content": "【微软加紧修复Outlook和Copilot系统故障 全球多地用户受到影响】在服务中断半天后，微软公司仍在努力恢复其旗舰软件的访问，用户无法使用电子邮件和聊天服务，这是这家科技巨头近年来最严重的服务中断之一。",
-    "full_content": "【微软加紧修复Outlook和Copilot系统故障 全球多地用户受到影响】在服务中断半天后，微软公司仍在努力恢复其旗舰软件的访问，用户无法使用电子邮件和聊天服务，这是这家科技巨头近年来最严重的服务中断之一。",
-    "sort_time": "1794553976066039",
-    "showTime": "2026-11-13 15:12:56",
-    "time": "2026-11-13 15:12:56",
-    "publish_time": "2026-11-13 15:12:56",
+    "id": "45e61ddae90d2665",
+    "code": "202611133930949818",
+    "title": "国际金银小幅拉涨 现货黄金价格涨0.62%",
+    "summary": "【国际金银小幅拉涨 现货黄金价格涨0.62%】国际金银小幅拉涨，现货黄金价格涨0.62%，报3901.35美元/盎司；现货白银价格涨0.38%，报50.23美元/盎司。",
+    "content": "【国际金银小幅拉涨 现货黄金价格涨0.62%】国际金银小幅拉涨，现货黄金价格涨0.62%，报3901.35美元/盎司；现货白银价格涨0.38%，报50.23美元/盎司。",
+    "full_content": "【国际金银小幅拉涨 现货黄金价格涨0.62%】国际金银小幅拉涨，现货黄金价格涨0.62%，报3901.35美元/盎司；现货白银价格涨0.38%，报50.23美元/盎司。",
+    "sort_time": "1794576947049818",
+    "showTime": "2026-11-13 21:35:47",
+    "time": "2026-11-13 21:35:47",
+    "publish_time": "2026-11-13 21:35:47",
     "raw_data": {
-      "code": "202611133930666039",
+      "code": "202611133930949818",
       "image": [],
       "pinglun_Num": 3,
-      "realSort": "1794553976066039",
+      "realSort": "1794576947049818",
       "share": 3,
-      "showTime": "2026-11-13 15:12:56",
+      "showTime": "2026-11-13 21:35:47",
       "stockList": [
-        "105.MSFT"
+        "90.BK0732",
+        "90.BK1617"
       ],
-      "summary": "【微软加紧修复Outlook和Copilot系统故障 全球多地用户受到影响】在服务中断半天后，微软公司仍在努力恢复其旗舰软件的访问，用户无法使用电子邮件和聊天服务，这是这家科技巨头近年来最严重的服务中断之一。",
-      "title": "微软加紧修复Outlook和Copilot系统故障 全球多地用户受到影响",
+      "summary": "【国际金银小幅拉涨 现货黄金价格涨0.62%】国际金银小幅拉涨，现货黄金价格涨0.62%，报3901.35美元/盎司；现货白银价格涨0.38%，报50.23美元/盎司。",
+      "title": "国际金银小幅拉涨 现货黄金价格涨0.62%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930666039.html",
-    "category": "其他",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930949818.html",
+    "category": "期货",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "105.MSFT"
+      "90.BK0732",
+      "90.BK1617"
     ],
     "has_stock_mention": true,
     "comment_count": 3,
     "share_count": 3,
     "tags": {
       "industries": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
       "industry_ids": [],
-      "concept_ids": []
+      "concept_ids": [
+        "C502"
+      ]
     }
   },
   {
-    "id": "6a3311f8b0e7b110",
-    "code": "202611133930665194",
-    "title": "两部门：指导储能电池企业合理有序推进项目建设 防范盲目扩张风险",
-    "summary": "【两部门：指导储能电池企业合理有序推进项目建设 防范盲目扩张风险】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，鼓励新型储能制造企业提高关键原材料资源保障水平和产品质量等。落实锂电池产业调控要求，指导储能电池企业合理有序推进项目建设，防范盲目扩张风险。",
-    "content": "【两部门：指导储能电池企业合理有序推进项目建设 防范盲目扩张风险】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，鼓励新型储能制造企业提高关键原材料资源保障水平和产品质量等。落实锂电池产业调控要求，指导储能电池企业合理有序推进项目建设，防范盲目扩张风险。",
-    "full_content": "【两部门：指导储能电池企业合理有序推进项目建设 防范盲目扩张风险】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，鼓励新型储能制造企业提高关键原材料资源保障水平和产品质量等。落实锂电池产业调控要求，指导储能电池企业合理有序推进项目建设，防范盲目扩张风险。",
-    "sort_time": "1794553772065194",
-    "showTime": "2026-11-13 15:09:32",
-    "time": "2026-11-13 15:09:32",
-    "publish_time": "2026-11-13 15:09:32",
+    "id": "ad132c9f51d492d1",
+    "code": "202611133930959444",
+    "title": "交易员下调对美联储收紧政策的预期",
+    "summary": "PPI报告公布后，交易员下调对美联储收紧政策的预期。",
+    "content": "PPI报告公布后，交易员下调对美联储收紧政策的预期。",
+    "full_content": "PPI报告公布后，交易员下调对美联储收紧政策的预期。",
+    "sort_time": "1794576933059444",
+    "showTime": "2026-11-13 21:35:33",
+    "time": "2026-11-13 21:35:33",
+    "publish_time": "2026-11-13 21:35:33",
     "raw_data": {
-      "code": "202611133930665194",
+      "code": "202611133930959444",
       "image": [],
-      "pinglun_Num": 55,
-      "realSort": "1794553772065194",
-      "share": 31,
-      "showTime": "2026-11-13 15:09:32",
+      "pinglun_Num": 86,
+      "realSort": "1794576933059444",
+      "share": 32,
+      "showTime": "2026-11-13 21:35:33",
       "stockList": [],
-      "summary": "【两部门：指导储能电池企业合理有序推进项目建设 防范盲目扩张风险】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，鼓励新型储能制造企业提高关键原材料资源保障水平和产品质量等。落实锂电池产业调控要求，指导储能电池企业合理有序推进项目建设，防范盲目扩张风险。",
-      "title": "两部门：指导储能电池企业合理有序推进项目建设 防范盲目扩张风险",
+      "summary": "PPI报告公布后，交易员下调对美联储收紧政策的预期。",
+      "title": "交易员下调对美联储收紧政策的预期",
       "titleColor": 3
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930665194.html",
-    "category": "其他",
+    "url": "https://kuaixun.eastmoney.com/news/202611133930959444.html",
+    "category": "宏观",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 55,
-    "share_count": 31,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010201",
-          "name": "锂离子电池制造",
-          "level1": "制造业",
-          "level2": "电气机械和器材制造业",
-          "matched_keyword": "储能电池"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C102",
-          "name": "锂电池",
-          "matched_keyword": "储能电池"
-        },
-        {
-          "id": "C105",
-          "name": "储能",
-          "matched_keyword": "储能"
-        }
-      ],
-      "industry_ids": [
-        "I010201"
-      ],
-      "concept_ids": [
-        "C102",
-        "C105"
-      ]
-    }
-  },
-  {
-    "id": "13955259b934ee14",
-    "code": "202611133930664097",
-    "title": "国防部：中美两国防务部门就各层级交流对话保持沟通协调",
-    "summary": "【国防部：中美两国防务部门就各层级交流对话保持沟通协调】11月2日至3日，中美两军在华盛顿举行第4次危机沟通与预防工作组会议，双方就落实两国元首共识、加强沟通交流、避免误解误判等深入交换意见。保持中美两军关系稳定、健康、可持续发展符合双方共同利益，也是国际社会的普遍期待。中方重视中美两军战略沟通，两国防务部门就各层级交流对话保持着沟通协调。我们希望美方与中方一道，共同落实好两国元首重要共识，加强沟通对话，妥善管控分歧，为构建中美建设性战略稳定关系增添积极因素。",
-    "content": "【国防部：中美两国防务部门就各层级交流对话保持沟通协调】11月2日至3日，中美两军在华盛顿举行第4次危机沟通与预防工作组会议，双方就落实两国元首共识、加强沟通交流、避免误解误判等深入交换意见。保持中美两军关系稳定、健康、可持续发展符合双方共同利益，也是国际社会的普遍期待。中方重视中美两军战略沟通，两国防务部门就各层级交流对话保持着沟通协调。我们希望美方与中方一道，共同落实好两国元首重要共识，加强沟通对话，妥善管控分歧，为构建中美建设性战略稳定关系增添积极因素。",
-    "full_content": "【国防部：中美两国防务部门就各层级交流对话保持沟通协调】11月2日至3日，中美两军在华盛顿举行第4次危机沟通与预防工作组会议，双方就落实两国元首共识、加强沟通交流、避免误解误判等深入交换意见。保持中美两军关系稳定、健康、可持续发展符合双方共同利益，也是国际社会的普遍期待。中方重视中美两军战略沟通，两国防务部门就各层级交流对话保持着沟通协调。我们希望美方与中方一道，共同落实好两国元首重要共识，加强沟通对话，妥善管控分歧，为构建中美建设性战略稳定关系增添积极因素。",
-    "sort_time": "1794553765064097",
-    "showTime": "2026-11-13 15:09:25",
-    "time": "2026-11-13 15:09:25",
-    "publish_time": "2026-11-13 15:09:25",
-    "raw_data": {
-      "code": "202611133930664097",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1794553765064097",
-      "share": 1,
-      "showTime": "2026-11-13 15:09:25",
-      "stockList": [],
-      "summary": "【国防部：中美两国防务部门就各层级交流对话保持沟通协调】11月2日至3日，中美两军在华盛顿举行第4次危机沟通与预防工作组会议，双方就落实两国元首共识、加强沟通交流、避免误解误判等深入交换意见。保持中美两军关系稳定、健康、可持续发展符合双方共同利益，也是国际社会的普遍期待。中方重视中美两军战略沟通，两国防务部门就各层级交流对话保持着沟通协调。我们希望美方与中方一道，共同落实好两国元首重要共识，加强沟通对话，妥善管控分歧，为构建中美建设性战略稳定关系增添积极因素。",
-      "title": "国防部：中美两国防务部门就各层级交流对话保持沟通协调",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930664097.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 1,
+    "comment_count": 86,
+    "share_count": 32,
     "tags": {
       "industries": [],
-      "concepts": [
-        {
-          "id": "C201",
-          "name": "军工",
-          "matched_keyword": "国防"
-        }
-      ],
+      "concepts": [],
       "industry_ids": [],
-      "concept_ids": [
-        "C201"
-      ]
-    }
-  },
-  {
-    "id": "c6575b7751260681",
-    "code": "202611133930665849",
-    "title": "两部门：推动完善新型储能充放电价格机制",
-    "summary": "【两部门：推动完善新型储能充放电价格机制】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，推动完善新型储能充放电价格机制。推动新型储能公平参与各类电力市场，通过市场交易合理形成充放电价格。研究优化系统运行费分摊方式。根据电力供需实际情况动态完善峰谷分时电价机制，引导工商业用户和产业园区建设新型储能。",
-    "content": "【两部门：推动完善新型储能充放电价格机制】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，推动完善新型储能充放电价格机制。推动新型储能公平参与各类电力市场，通过市场交易合理形成充放电价格。研究优化系统运行费分摊方式。根据电力供需实际情况动态完善峰谷分时电价机制，引导工商业用户和产业园区建设新型储能。",
-    "full_content": "【两部门：推动完善新型储能充放电价格机制】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，推动完善新型储能充放电价格机制。推动新型储能公平参与各类电力市场，通过市场交易合理形成充放电价格。研究优化系统运行费分摊方式。根据电力供需实际情况动态完善峰谷分时电价机制，引导工商业用户和产业园区建设新型储能。",
-    "sort_time": "1794553725065849",
-    "showTime": "2026-11-13 15:08:45",
-    "time": "2026-11-13 15:08:45",
-    "publish_time": "2026-11-13 15:08:45",
-    "raw_data": {
-      "code": "202611133930665849",
-      "image": [],
-      "pinglun_Num": 6,
-      "realSort": "1794553725065849",
-      "share": 3,
-      "showTime": "2026-11-13 15:08:45",
-      "stockList": [],
-      "summary": "【两部门：推动完善新型储能充放电价格机制】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，推动完善新型储能充放电价格机制。推动新型储能公平参与各类电力市场，通过市场交易合理形成充放电价格。研究优化系统运行费分摊方式。根据电力供需实际情况动态完善峰谷分时电价机制，引导工商业用户和产业园区建设新型储能。",
-      "title": "两部门：推动完善新型储能充放电价格机制",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930665849.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 6,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C105",
-          "name": "储能",
-          "matched_keyword": "储能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C105"
-      ]
-    }
-  },
-  {
-    "id": "2a2a8410bf4418c5",
-    "code": "202611133930663994",
-    "title": "两部门：鼓励配置新型储能的新能源大基地作为一个整体 共同参与跨省区中长期市场",
-    "summary": "【两部门：鼓励配置新型储能的新能源大基地作为一个整体 共同参与跨省区中长期市场】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，进一步推动新型储能参与电能量市场。推动新型储能公平参与中长期、现货市场，通过市场价格信号激励新型储能合理安排运行计划。鼓励配置新型储能的新能源大基地作为一个整体，共同参与跨省区中长期市场。",
-    "content": "【两部门：鼓励配置新型储能的新能源大基地作为一个整体 共同参与跨省区中长期市场】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，进一步推动新型储能参与电能量市场。推动新型储能公平参与中长期、现货市场，通过市场价格信号激励新型储能合理安排运行计划。鼓励配置新型储能的新能源大基地作为一个整体，共同参与跨省区中长期市场。",
-    "full_content": "【两部门：鼓励配置新型储能的新能源大基地作为一个整体 共同参与跨省区中长期市场】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，进一步推动新型储能参与电能量市场。推动新型储能公平参与中长期、现货市场，通过市场价格信号激励新型储能合理安排运行计划。鼓励配置新型储能的新能源大基地作为一个整体，共同参与跨省区中长期市场。",
-    "sort_time": "1794553706063994",
-    "showTime": "2026-11-13 15:08:26",
-    "time": "2026-11-13 15:08:26",
-    "publish_time": "2026-11-13 15:08:26",
-    "raw_data": {
-      "code": "202611133930663994",
-      "image": [],
-      "pinglun_Num": 22,
-      "realSort": "1794553706063994",
-      "share": 2,
-      "showTime": "2026-11-13 15:08:26",
-      "stockList": [
-        "90.BK0493",
-        "150.014238"
-      ],
-      "summary": "【两部门：鼓励配置新型储能的新能源大基地作为一个整体 共同参与跨省区中长期市场】国家发展改革委、国家能源局印发《“十五五”新型储能实施方案》。其中提出，进一步推动新型储能参与电能量市场。推动新型储能公平参与中长期、现货市场，通过市场价格信号激励新型储能合理安排运行计划。鼓励配置新型储能的新能源大基地作为一个整体，共同参与跨省区中长期市场。",
-      "title": "两部门：鼓励配置新型储能的新能源大基地作为一个整体 共同参与跨省区中长期市场",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611133930663994.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0493",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 22,
-    "share_count": 2,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C105",
-          "name": "储能",
-          "matched_keyword": "储能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C105"
-      ]
+      "concept_ids": []
     }
   }
 ]
