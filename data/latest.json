@@ -1,428 +1,97 @@
 [
   {
-    "id": "9b17ca0b9c0232ce",
-    "code": "202611203935424713",
-    "title": "Anthropic上市首日开盘涨34% 市值达到1.5万亿美元",
-    "summary": "【Anthropic上市首日开盘涨34% 市值达到1.5万亿美元】人工智能公司Anthropic（ANT）今日正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。",
-    "content": "【Anthropic上市首日开盘涨34% 市值达到1.5万亿美元】人工智能公司Anthropic（ANT）今日正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。",
-    "full_content": "【Anthropic上市首日开盘涨34% 市值达到1.5万亿美元】人工智能公司Anthropic（ANT）今日正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。",
-    "sort_time": "1795107034024713",
-    "showTime": "2026-11-20 00:50:34",
-    "time": "2026-11-20 00:50:34",
-    "publish_time": "2026-11-20 00:50:34",
+    "id": "519fbceab5c626d1",
+    "code": "202611203935441920",
+    "title": "阿里巴巴三季度营收同比增长10% 平头哥三代GPU路线图加速推进",
+    "summary": "【阿里巴巴三季度营收同比增长10% 平头哥三代GPU路线图加速推进】在阿里巴巴集团首席执行官吴泳铭看来，集团全栈AI能力持续提升商业化水平，推动季度表现强劲——2027财年第二季度，营收为2715.19亿元，同比增长10%；经营利润为291.16亿元，同比增长443%。",
+    "content": "【阿里巴巴三季度营收同比增长10% 平头哥三代GPU路线图加速推进】在阿里巴巴集团首席执行官吴泳铭看来，集团全栈AI能力持续提升商业化水平，推动季度表现强劲——2027财年第二季度，营收为2715.19亿元，同比增长10%；经营利润为291.16亿元，同比增长443%。",
+    "full_content": "【阿里巴巴三季度营收同比增长10% 平头哥三代GPU路线图加速推进】在阿里巴巴集团首席执行官吴泳铭看来，集团全栈AI能力持续提升商业化水平，推动季度表现强劲——2027财年第二季度，营收为2715.19亿元，同比增长10%；经营利润为291.16亿元，同比增长443%。",
+    "sort_time": "1795130205041920",
+    "showTime": "2026-11-20 07:16:45",
+    "time": "2026-11-20 07:16:45",
+    "publish_time": "2026-11-20 07:16:45",
     "raw_data": {
-      "code": "202611203935424713",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1795107034024713",
-      "share": 50,
-      "showTime": "2026-11-20 00:50:34",
-      "stockList": [
-        "105.ANT"
-      ],
-      "summary": "【Anthropic上市首日开盘涨34% 市值达到1.5万亿美元】人工智能公司Anthropic（ANT）今日正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。",
-      "title": "Anthropic上市首日开盘涨34% 市值达到1.5万亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935424713.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "105.ANT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 50,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020202",
-          "name": "投资银行",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "IPO"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [
-        "I020202"
-      ],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "267938ce132cdeff",
-    "code": "202611203935424521",
-    "title": "General Medicine将其GLP-1体重管理护理服务引入LillyDirect",
-    "summary": "GeneralMedicine将其GLP-1体重管理护理服务引入LillyDirect。",
-    "content": "GeneralMedicine将其GLP-1体重管理护理服务引入LillyDirect。",
-    "full_content": "GeneralMedicine将其GLP-1体重管理护理服务引入LillyDirect。",
-    "sort_time": "1795106859024521",
-    "showTime": "2026-11-20 00:47:39",
-    "time": "2026-11-20 00:47:39",
-    "publish_time": "2026-11-20 00:47:39",
-    "raw_data": {
-      "code": "202611203935424521",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795106859024521",
-      "share": 0,
-      "showTime": "2026-11-20 00:47:39",
-      "stockList": [],
-      "summary": "GeneralMedicine将其GLP-1体重管理护理服务引入LillyDirect。",
-      "title": "General Medicine将其GLP-1体重管理护理服务引入LillyDirect",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935424521.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "9260132276da8987",
-    "code": "202611203935424028",
-    "title": "Anthropic开盘市值预计达2万亿美元",
-    "summary": "Anthropic开盘市值预计达2万亿美元。",
-    "content": "Anthropic开盘市值预计达2万亿美元。",
-    "full_content": "Anthropic开盘市值预计达2万亿美元。",
-    "sort_time": "1795106422024028",
-    "showTime": "2026-11-20 00:40:22",
-    "time": "2026-11-20 00:40:22",
-    "publish_time": "2026-11-20 00:40:22",
-    "raw_data": {
-      "code": "202611203935424028",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1795106422024028",
-      "share": 0,
-      "showTime": "2026-11-20 00:40:22",
-      "stockList": [
-        "105.ANT"
-      ],
-      "summary": "Anthropic开盘市值预计达2万亿美元。",
-      "title": "Anthropic开盘市值预计达2万亿美元",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935424028.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "cd2af6f652859b7b",
-    "code": "202611203935423842",
-    "title": "欧洲三大股指集体收跌 德国DAX指数跌近1%",
-    "summary": "【欧洲三大股指集体收跌 德国DAX指数跌近1%】英国富时100指数收跌0.87%，德国DAX指数下跌0.92%，法国CAC40指数下跌0.76%。",
-    "content": "【欧洲三大股指集体收跌 德国DAX指数跌近1%】英国富时100指数收跌0.87%，德国DAX指数下跌0.92%，法国CAC40指数下跌0.76%。",
-    "full_content": "【欧洲三大股指集体收跌 德国DAX指数跌近1%】英国富时100指数收跌0.87%，德国DAX指数下跌0.92%，法国CAC40指数下跌0.76%。",
-    "sort_time": "1795106237023842",
-    "showTime": "2026-11-20 00:37:17",
-    "time": "2026-11-20 00:37:17",
-    "publish_time": "2026-11-20 00:37:17",
-    "raw_data": {
-      "code": "202611203935423842",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795106237023842",
-      "share": 0,
-      "showTime": "2026-11-20 00:37:17",
-      "stockList": [],
-      "summary": "【欧洲三大股指集体收跌 德国DAX指数跌近1%】英国富时100指数收跌0.87%，德国DAX指数下跌0.92%，法国CAC40指数下跌0.76%。",
-      "title": "欧洲三大股指集体收跌 德国DAX指数跌近1%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935423842.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "c08a0aa3ceb665fb",
-    "code": "202611203935422193",
-    "title": "沙特首都最高建筑遭袭受损",
-    "summary": "【沙特首都最高建筑遭袭受损】沙特阿拉伯民防总局19日发表声明说，沙特首都利雅得最高建筑当天遭到也门胡塞武装袭击，但未造成人员伤亡。声明所附图片显示，遭袭建筑为位于利雅得阿卜杜拉国王金融区的公共投资基金大厦，是利雅得目前最高的建筑。声明说，袭击造成该建筑多个楼层和周边建筑受损。这起针对民用设施的袭击公然违反国际人道法。",
-    "content": "【沙特首都最高建筑遭袭受损】沙特阿拉伯民防总局19日发表声明说，沙特首都利雅得最高建筑当天遭到也门胡塞武装袭击，但未造成人员伤亡。声明所附图片显示，遭袭建筑为位于利雅得阿卜杜拉国王金融区的公共投资基金大厦，是利雅得目前最高的建筑。声明说，袭击造成该建筑多个楼层和周边建筑受损。这起针对民用设施的袭击公然违反国际人道法。",
-    "full_content": "【沙特首都最高建筑遭袭受损】沙特阿拉伯民防总局19日发表声明说，沙特首都利雅得最高建筑当天遭到也门胡塞武装袭击，但未造成人员伤亡。声明所附图片显示，遭袭建筑为位于利雅得阿卜杜拉国王金融区的公共投资基金大厦，是利雅得目前最高的建筑。声明说，袭击造成该建筑多个楼层和周边建筑受损。这起针对民用设施的袭击公然违反国际人道法。",
-    "sort_time": "1795105203022193",
-    "showTime": "2026-11-20 00:20:03",
-    "time": "2026-11-20 00:20:03",
-    "publish_time": "2026-11-20 00:20:03",
-    "raw_data": {
-      "code": "202611203935422193",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795105203022193",
-      "share": 0,
-      "showTime": "2026-11-20 00:20:03",
-      "stockList": [],
-      "summary": "【沙特首都最高建筑遭袭受损】沙特阿拉伯民防总局19日发表声明说，沙特首都利雅得最高建筑当天遭到也门胡塞武装袭击，但未造成人员伤亡。声明所附图片显示，遭袭建筑为位于利雅得阿卜杜拉国王金融区的公共投资基金大厦，是利雅得目前最高的建筑。声明说，袭击造成该建筑多个楼层和周边建筑受损。这起针对民用设施的袭击公然违反国际人道法。",
-      "title": "沙特首都最高建筑遭袭受损",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935422193.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020201",
-          "name": "基金管理",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "基金"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I020201"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a78d62a7f9346e48",
-    "code": "202611203935422020",
-    "title": "谷歌母公司Alphabet将通过加拿大债券发行筹集至少35亿美元",
-    "summary": "谷歌母公司Alphabet将通过加拿大债券发行筹集至少35亿美元。",
-    "content": "谷歌母公司Alphabet将通过加拿大债券发行筹集至少35亿美元。",
-    "full_content": "谷歌母公司Alphabet将通过加拿大债券发行筹集至少35亿美元。",
-    "sort_time": "1795105115022020",
-    "showTime": "2026-11-20 00:18:35",
-    "time": "2026-11-20 00:18:35",
-    "publish_time": "2026-11-20 00:18:35",
-    "raw_data": {
-      "code": "202611203935422020",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795105115022020",
-      "share": 0,
-      "showTime": "2026-11-20 00:18:35",
-      "stockList": [
-        "105.GOOGL"
-      ],
-      "summary": "谷歌母公司Alphabet将通过加拿大债券发行筹集至少35亿美元。",
-      "title": "谷歌母公司Alphabet将通过加拿大债券发行筹集至少35亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935422020.html",
-    "category": "债券",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.GOOGL"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "84d0eeda89509bf6",
-    "code": "202611203935420412",
-    "title": "Anthropic预计开盘报105美元 较IPO发行价上涨近27%",
-    "summary": "【Anthropic预计开盘报105美元 较IPO发行价上涨近27%】据知情人士消息，人工智能公司Anthropic股票预计将在未来一小时内开始交易，当前指示性开盘价为105美元/股，较83美元/股的IPO发行价上涨近27%。",
-    "content": "【Anthropic预计开盘报105美元 较IPO发行价上涨近27%】据知情人士消息，人工智能公司Anthropic股票预计将在未来一小时内开始交易，当前指示性开盘价为105美元/股，较83美元/股的IPO发行价上涨近27%。",
-    "full_content": "【Anthropic预计开盘报105美元 较IPO发行价上涨近27%】据知情人士消息，人工智能公司Anthropic股票预计将在未来一小时内开始交易，当前指示性开盘价为105美元/股，较83美元/股的IPO发行价上涨近27%。",
-    "sort_time": "1795104547020412",
-    "showTime": "2026-11-20 00:09:07",
-    "time": "2026-11-20 00:09:07",
-    "publish_time": "2026-11-20 00:09:07",
-    "raw_data": {
-      "code": "202611203935420412",
-      "image": [],
-      "pinglun_Num": 9,
-      "realSort": "1795104547020412",
-      "share": 6,
-      "showTime": "2026-11-20 00:09:07",
-      "stockList": [
-        "105.ANT",
-        "90.BK0697"
-      ],
-      "summary": "【Anthropic预计开盘报105美元 较IPO发行价上涨近27%】据知情人士消息，人工智能公司Anthropic股票预计将在未来一小时内开始交易，当前指示性开盘价为105美元/股，较83美元/股的IPO发行价上涨近27%。",
-      "title": "Anthropic预计开盘报105美元 较IPO发行价上涨近27%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935420412.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "105.ANT",
-      "90.BK0697"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 9,
-    "share_count": 6,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020202",
-          "name": "投资银行",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "IPO"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [
-        "I020202"
-      ],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "14a6ac0a6e3bf5d0",
-    "code": "202611203935419966",
-    "title": "Anthropic股票在纳斯达克上市首日开盘价预计为每股106美元 而IPO发行价为每股83美元",
-    "summary": "Anthropic股票在纳斯达克上市首日开盘价预计为每股106美元，而IPO发行价为每股83美元。",
-    "content": "Anthropic股票在纳斯达克上市首日开盘价预计为每股106美元，而IPO发行价为每股83美元。",
-    "full_content": "Anthropic股票在纳斯达克上市首日开盘价预计为每股106美元，而IPO发行价为每股83美元。",
-    "sort_time": "1795104242019966",
-    "showTime": "2026-11-20 00:04:02",
-    "time": "2026-11-20 00:04:02",
-    "publish_time": "2026-11-20 00:04:02",
-    "raw_data": {
-      "code": "202611203935419966",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1795104242019966",
-      "share": 2,
-      "showTime": "2026-11-20 00:04:02",
-      "stockList": [
-        "105.ANT",
-        "90.BK0697"
-      ],
-      "summary": "Anthropic股票在纳斯达克上市首日开盘价预计为每股106美元，而IPO发行价为每股83美元。",
-      "title": "Anthropic股票在纳斯达克上市首日开盘价预计为每股106美元 而IPO发行价为每股83美元",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935419966.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT",
-      "90.BK0697"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 2,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020202",
-          "name": "投资银行",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "IPO"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I020202"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "13222d31654ffe88",
-    "code": "202611203935419446",
-    "title": "AMD股价跌幅收窄至8% 此前一度跌11%",
-    "summary": "AMD股价跌幅收窄至8%，此前一度跌11%。",
-    "content": "AMD股价跌幅收窄至8%，此前一度跌11%。",
-    "full_content": "AMD股价跌幅收窄至8%，此前一度跌11%。",
-    "sort_time": "1795104057019446",
-    "showTime": "2026-11-20 00:00:57",
-    "time": "2026-11-20 00:00:57",
-    "publish_time": "2026-11-20 00:00:57",
-    "raw_data": {
-      "code": "202611203935419446",
+      "code": "202611203935441920",
       "image": [],
       "pinglun_Num": 1,
-      "realSort": "1795104057019446",
-      "share": 0,
-      "showTime": "2026-11-20 00:00:57",
+      "realSort": "1795130205041920",
+      "share": 2,
+      "showTime": "2026-11-20 07:16:45",
       "stockList": [
-        "105.AMD"
+        "106.BABA",
+        "116.09988"
       ],
-      "summary": "AMD股价跌幅收窄至8%，此前一度跌11%。",
-      "title": "AMD股价跌幅收窄至8% 此前一度跌11%",
+      "summary": "【阿里巴巴三季度营收同比增长10% 平头哥三代GPU路线图加速推进】在阿里巴巴集团首席执行官吴泳铭看来，集团全栈AI能力持续提升商业化水平，推动季度表现强劲——2027财年第二季度，营收为2715.19亿元，同比增长10%；经营利润为291.16亿元，同比增长443%。",
+      "title": "阿里巴巴三季度营收同比增长10% 平头哥三代GPU路线图加速推进",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935419446.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935441920.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "106.BABA",
+      "116.09988"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "GPU"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "b520cf6079912d22",
+    "code": "202611203935443619",
+    "title": "中国虚拟电厂发展报告发布 6月底已提前完成2027年调节能力目标",
+    "summary": "【中国虚拟电厂发展报告发布 6月底已提前完成2027年调节能力目标】11月19日，国家能源局关于我国虚拟电厂的首份报告——《中国虚拟电厂发展报告（2026）》正式发布。报告显示：截至2026年6月底，我国已建成并投运的虚拟电厂数量为592个，同比增长78.9%；虚拟电厂最大调节能力达到2042.8万千瓦，同比增长62.7%，提前完成2027年调节能力达到2000万千瓦以上的发展目标。",
+    "content": "【中国虚拟电厂发展报告发布 6月底已提前完成2027年调节能力目标】11月19日，国家能源局关于我国虚拟电厂的首份报告——《中国虚拟电厂发展报告（2026）》正式发布。报告显示：截至2026年6月底，我国已建成并投运的虚拟电厂数量为592个，同比增长78.9%；虚拟电厂最大调节能力达到2042.8万千瓦，同比增长62.7%，提前完成2027年调节能力达到2000万千瓦以上的发展目标。",
+    "full_content": "【中国虚拟电厂发展报告发布 6月底已提前完成2027年调节能力目标】11月19日，国家能源局关于我国虚拟电厂的首份报告——《中国虚拟电厂发展报告（2026）》正式发布。报告显示：截至2026年6月底，我国已建成并投运的虚拟电厂数量为592个，同比增长78.9%；虚拟电厂最大调节能力达到2042.8万千瓦，同比增长62.7%，提前完成2027年调节能力达到2000万千瓦以上的发展目标。",
+    "sort_time": "1795130141043619",
+    "showTime": "2026-11-20 07:15:41",
+    "time": "2026-11-20 07:15:41",
+    "publish_time": "2026-11-20 07:15:41",
+    "raw_data": {
+      "code": "202611203935443619",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1795130141043619",
+      "share": 0,
+      "showTime": "2026-11-20 07:15:41",
+      "stockList": [
+        "1.600406",
+        "1.688248"
+      ],
+      "summary": "【中国虚拟电厂发展报告发布 6月底已提前完成2027年调节能力目标】11月19日，国家能源局关于我国虚拟电厂的首份报告——《中国虚拟电厂发展报告（2026）》正式发布。报告显示：截至2026年6月底，我国已建成并投运的虚拟电厂数量为592个，同比增长78.9%；虚拟电厂最大调节能力达到2042.8万千瓦，同比增长62.7%，提前完成2027年调节能力达到2000万千瓦以上的发展目标。",
+      "title": "中国虚拟电厂发展报告发布 6月底已提前完成2027年调节能力目标",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935443619.html",
     "category": "其他",
     "importance": 6,
-    "sentiment": "neutral",
+    "sentiment": "bullish",
     "related_stocks": [
-      "105.AMD"
+      "1.600406",
+      "1.688248"
     ],
     "has_stock_mention": true,
     "comment_count": 1,
@@ -435,41 +104,259 @@
     }
   },
   {
-    "id": "4580a2d93819c00c",
-    "code": "202611203935419538",
-    "title": "COMEX铝期货跌超3% 现报2764.25美元/公吨",
-    "summary": "COMEX铝期货跌超3%，现报2764.25美元/公吨。",
-    "content": "COMEX铝期货跌超3%，现报2764.25美元/公吨。",
-    "full_content": "COMEX铝期货跌超3%，现报2764.25美元/公吨。",
-    "sort_time": "1795104032019538",
-    "showTime": "2026-11-20 00:00:32",
-    "time": "2026-11-20 00:00:32",
-    "publish_time": "2026-11-20 00:00:32",
+    "id": "0d9680585297a250",
+    "code": "202611203935442851",
+    "title": "信用债行情延续修复 大行二级资本债领涨",
+    "summary": "【信用债行情延续修复 大行二级资本债领涨】11月19日上午，信用债市场延续前两个交易日的修复行情。大型银行二级资本债表现突出，部分个券收益率下行4个基点；中低评级信用债走势仍有分化，部分个券收益率继续上行。同期银行间资金面延续宽松，10年期国债活跃券收益率降至1.58%以下。机构认为，资金利率回落为信用债修复提供了支撑。",
+    "content": "【信用债行情延续修复 大行二级资本债领涨】11月19日上午，信用债市场延续前两个交易日的修复行情。大型银行二级资本债表现突出，部分个券收益率下行4个基点；中低评级信用债走势仍有分化，部分个券收益率继续上行。同期银行间资金面延续宽松，10年期国债活跃券收益率降至1.58%以下。机构认为，资金利率回落为信用债修复提供了支撑。",
+    "full_content": "【信用债行情延续修复 大行二级资本债领涨】11月19日上午，信用债市场延续前两个交易日的修复行情。大型银行二级资本债表现突出，部分个券收益率下行4个基点；中低评级信用债走势仍有分化，部分个券收益率继续上行。同期银行间资金面延续宽松，10年期国债活跃券收益率降至1.58%以下。机构认为，资金利率回落为信用债修复提供了支撑。",
+    "sort_time": "1795130025042851",
+    "showTime": "2026-11-20 07:13:45",
+    "time": "2026-11-20 07:13:45",
+    "publish_time": "2026-11-20 07:13:45",
     "raw_data": {
-      "code": "202611203935419538",
+      "code": "202611203935442851",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1795104032019538",
-      "share": 0,
-      "showTime": "2026-11-20 00:00:32",
+      "realSort": "1795130025042851",
+      "share": 2,
+      "showTime": "2026-11-20 07:13:45",
       "stockList": [
-        "90.BK1361"
+        "1.601398",
+        "116.01398"
       ],
-      "summary": "COMEX铝期货跌超3%，现报2764.25美元/公吨。",
-      "title": "COMEX铝期货跌超3% 现报2764.25美元/公吨",
+      "summary": "【信用债行情延续修复 大行二级资本债领涨】11月19日上午，信用债市场延续前两个交易日的修复行情。大型银行二级资本债表现突出，部分个券收益率下行4个基点；中低评级信用债走势仍有分化，部分个券收益率继续上行。同期银行间资金面延续宽松，10年期国债活跃券收益率降至1.58%以下。机构认为，资金利率回落为信用债修复提供了支撑。",
+      "title": "信用债行情延续修复 大行二级资本债领涨",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935419538.html",
-    "category": "期货",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935442851.html",
+    "category": "宏观",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "90.BK1361"
+      "1.601398",
+      "116.01398"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "8de0180eb6152c2c",
+    "code": "202611203935480645",
+    "title": "Sandisk提交修订公司章程证书 实施8比1普通股正向拆股",
+    "summary": "【Sandisk提交修订公司章程证书 实施8比1普通股正向拆股】Sandisk（SNDK）提交修订公司章程证书，实施8比1普通股正向拆股，授权普通股从4.5亿股增至36亿股。修订于美东时间2026年11月19日下午4:01生效，预计11月20日开盘起按拆股后基准交易。",
+    "content": "【Sandisk提交修订公司章程证书 实施8比1普通股正向拆股】Sandisk（SNDK）提交修订公司章程证书，实施8比1普通股正向拆股，授权普通股从4.5亿股增至36亿股。修订于美东时间2026年11月19日下午4:01生效，预计11月20日开盘起按拆股后基准交易。",
+    "full_content": "【Sandisk提交修订公司章程证书 实施8比1普通股正向拆股】Sandisk（SNDK）提交修订公司章程证书，实施8比1普通股正向拆股，授权普通股从4.5亿股增至36亿股。修订于美东时间2026年11月19日下午4:01生效，预计11月20日开盘起按拆股后基准交易。",
+    "sort_time": "1795129980080645",
+    "showTime": "2026-11-20 07:13:00",
+    "time": "2026-11-20 07:13:00",
+    "publish_time": "2026-11-20 07:13:00",
+    "raw_data": {
+      "code": "202611203935480645",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795129980080645",
+      "share": 0,
+      "showTime": "2026-11-20 07:13:00",
+      "stockList": [
+        "105.SNDK"
+      ],
+      "summary": "【Sandisk提交修订公司章程证书 实施8比1普通股正向拆股】Sandisk（SNDK）提交修订公司章程证书，实施8比1普通股正向拆股，授权普通股从4.5亿股增至36亿股。修订于美东时间2026年11月19日下午4:01生效，预计11月20日开盘起按拆股后基准交易。",
+      "title": "Sandisk提交修订公司章程证书 实施8比1普通股正向拆股",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935480645.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.SNDK"
     ],
     "has_stock_mention": true,
     "comment_count": 0,
     "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "3219ec33f6c47288",
+    "code": "202611203935480151",
+    "title": "朱雀三号“二手”发动机再次完成试车",
+    "summary": "【朱雀三号“二手”发动机再次完成试车】飞上太空，还能回来接着用！此前成功回收的朱雀三号火箭，发动机已全部完成再次试车，具备重复使用条件。",
+    "content": "【朱雀三号“二手”发动机再次完成试车】飞上太空，还能回来接着用！此前成功回收的朱雀三号火箭，发动机已全部完成再次试车，具备重复使用条件。",
+    "full_content": "【朱雀三号“二手”发动机再次完成试车】飞上太空，还能回来接着用！此前成功回收的朱雀三号火箭，发动机已全部完成再次试车，具备重复使用条件。",
+    "sort_time": "1795129806080151",
+    "showTime": "2026-11-20 07:10:06",
+    "time": "2026-11-20 07:10:06",
+    "publish_time": "2026-11-20 07:10:06",
+    "raw_data": {
+      "code": "202611203935480151",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795129806080151",
+      "share": 2,
+      "showTime": "2026-11-20 07:10:06",
+      "stockList": [],
+      "summary": "【朱雀三号“二手”发动机再次完成试车】飞上太空，还能回来接着用！此前成功回收的朱雀三号火箭，发动机已全部完成再次试车，具备重复使用条件。",
+      "title": "朱雀三号“二手”发动机再次完成试车",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935480151.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "火箭"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C202"
+      ]
+    }
+  },
+  {
+    "id": "c4e0d5fd45248fa8",
+    "code": "202611203935443067",
+    "title": "工业互联网跃迁 算网电协同支撑智能化升级",
+    "summary": "【工业互联网跃迁 算网电协同支撑智能化升级】11月19日，2026中国5G+工业互联网大会在武汉开幕。工业和信息化部有关负责人在会上介绍，我国已建成工业5G专网2.7万个，培育各行业智能工厂750余家、领航级智能工厂49家，建成5G工厂1260家。",
+    "content": "【工业互联网跃迁 算网电协同支撑智能化升级】11月19日，2026中国5G+工业互联网大会在武汉开幕。工业和信息化部有关负责人在会上介绍，我国已建成工业5G专网2.7万个，培育各行业智能工厂750余家、领航级智能工厂49家，建成5G工厂1260家。",
+    "full_content": "【工业互联网跃迁 算网电协同支撑智能化升级】11月19日，2026中国5G+工业互联网大会在武汉开幕。工业和信息化部有关负责人在会上介绍，我国已建成工业5G专网2.7万个，培育各行业智能工厂750余家、领航级智能工厂49家，建成5G工厂1260家。",
+    "sort_time": "1795129727043067",
+    "showTime": "2026-11-20 07:08:47",
+    "time": "2026-11-20 07:08:47",
+    "publish_time": "2026-11-20 07:08:47",
+    "raw_data": {
+      "code": "202611203935443067",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795129727043067",
+      "share": 0,
+      "showTime": "2026-11-20 07:08:47",
+      "stockList": [
+        "1.600050",
+        "116.00762"
+      ],
+      "summary": "【工业互联网跃迁 算网电协同支撑智能化升级】11月19日，2026中国5G+工业互联网大会在武汉开幕。工业和信息化部有关负责人在会上介绍，我国已建成工业5G专网2.7万个，培育各行业智能工厂750余家、领航级智能工厂49家，建成5G工厂1260家。",
+      "title": "工业互联网跃迁 算网电协同支撑智能化升级",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935443067.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.600050",
+      "116.00762"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "5G"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "5G"
+        }
+      ],
+      "industry_ids": [
+        "I010104"
+      ],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "34d60182eb8091e4",
+    "code": "202611203935474145",
+    "title": "有色大跌 专家谈后市演绎",
+    "summary": "【有色大跌 专家谈后市演绎】美联储最新表态如一记重拳砸向有色金属市场。11月18日，伦铜主力合约盘中一度大跌6.41%，最终收跌4.55%；伦铝主力合约盘中最大跌幅达4.28%；伦锡主力合约盘中最大跌幅为8.21%。铜、铝、锡后市将如何演绎？在11月16日至18日举办的SME 2026上海金属周上，业内分析人士认为，受宏观预期压制，有色金属价格短期承压；品种基本面分化显著，铜、锡中长期供应仍偏紧，铝远期或转向过剩格局。",
+    "content": "【有色大跌 专家谈后市演绎】美联储最新表态如一记重拳砸向有色金属市场。11月18日，伦铜主力合约盘中一度大跌6.41%，最终收跌4.55%；伦铝主力合约盘中最大跌幅达4.28%；伦锡主力合约盘中最大跌幅为8.21%。铜、铝、锡后市将如何演绎？在11月16日至18日举办的SME 2026上海金属周上，业内分析人士认为，受宏观预期压制，有色金属价格短期承压；品种基本面分化显著，铜、锡中长期供应仍偏紧，铝远期或转向过剩格局。",
+    "full_content": "【有色大跌 专家谈后市演绎】美联储最新表态如一记重拳砸向有色金属市场。11月18日，伦铜主力合约盘中一度大跌6.41%，最终收跌4.55%；伦铝主力合约盘中最大跌幅达4.28%；伦锡主力合约盘中最大跌幅为8.21%。铜、铝、锡后市将如何演绎？在11月16日至18日举办的SME 2026上海金属周上，业内分析人士认为，受宏观预期压制，有色金属价格短期承压；品种基本面分化显著，铜、锡中长期供应仍偏紧，铝远期或转向过剩格局。",
+    "sort_time": "1795129611074145",
+    "showTime": "2026-11-20 07:06:51",
+    "time": "2026-11-20 07:06:51",
+    "publish_time": "2026-11-20 07:06:51",
+    "raw_data": {
+      "code": "202611203935474145",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795129611074145",
+      "share": 1,
+      "showTime": "2026-11-20 07:06:51",
+      "stockList": [
+        "1.601995",
+        "90.BK0478"
+      ],
+      "summary": "【有色大跌 专家谈后市演绎】美联储最新表态如一记重拳砸向有色金属市场。11月18日，伦铜主力合约盘中一度大跌6.41%，最终收跌4.55%；伦铝主力合约盘中最大跌幅达4.28%；伦锡主力合约盘中最大跌幅为8.21%。铜、铝、锡后市将如何演绎？在11月16日至18日举办的SME 2026上海金属周上，业内分析人士认为，受宏观预期压制，有色金属价格短期承压；品种基本面分化显著，铜、锡中长期供应仍偏紧，铝远期或转向过剩格局。",
+      "title": "有色大跌 专家谈后市演绎",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935474145.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.601995",
+      "90.BK0478"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [
@@ -486,588 +373,39 @@
     }
   },
   {
-    "id": "279dff9cc8e0525b",
-    "code": "202611203935419134",
-    "title": "麦当劳聘请前麦肯锡合伙人 以推动美国销售复苏",
-    "summary": "麦当劳聘请前麦肯锡合伙人，以推动美国销售复苏。",
-    "content": "麦当劳聘请前麦肯锡合伙人，以推动美国销售复苏。",
-    "full_content": "麦当劳聘请前麦肯锡合伙人，以推动美国销售复苏。",
-    "sort_time": "1795104012019134",
-    "showTime": "2026-11-20 00:00:12",
-    "time": "2026-11-20 00:00:12",
-    "publish_time": "2026-11-20 00:00:12",
+    "id": "a38f824cf5f0266a",
+    "code": "202611203935477171",
+    "title": "MSCI将于12月1日把Anthropic纳入大盘股指数",
+    "summary": "MSCI将于12月1日把Anthropic纳入大盘股指数。",
+    "content": "MSCI将于12月1日把Anthropic纳入大盘股指数。",
+    "full_content": "MSCI将于12月1日把Anthropic纳入大盘股指数。",
+    "sort_time": "1795129490077171",
+    "showTime": "2026-11-20 07:04:50",
+    "time": "2026-11-20 07:04:50",
+    "publish_time": "2026-11-20 07:04:50",
     "raw_data": {
-      "code": "202611203935419134",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1795104012019134",
-      "share": 0,
-      "showTime": "2026-11-20 00:00:12",
-      "stockList": [
-        "106.MCD"
-      ],
-      "summary": "麦当劳聘请前麦肯锡合伙人，以推动美国销售复苏。",
-      "title": "麦当劳聘请前麦肯锡合伙人 以推动美国销售复苏",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611203935419134.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "bullish",
-    "related_stocks": [
-      "106.MCD"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5e16bc073af7cde9",
-    "code": "202611193935416579",
-    "title": "AMD跌幅扩大至11% 至11月9日以来最低水平",
-    "summary": "AMD跌幅扩大至11%，至11月9日以来最低水平。此前Hunterbrook表示做空该公司。",
-    "content": "AMD跌幅扩大至11%，至11月9日以来最低水平。此前Hunterbrook表示做空该公司。",
-    "full_content": "AMD跌幅扩大至11%，至11月9日以来最低水平。此前Hunterbrook表示做空该公司。",
-    "sort_time": "1795103636016579",
-    "showTime": "2026-11-19 23:53:56",
-    "time": "2026-11-19 23:53:56",
-    "publish_time": "2026-11-19 23:53:56",
-    "raw_data": {
-      "code": "202611193935416579",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1795103636016579",
-      "share": 5,
-      "showTime": "2026-11-19 23:53:56",
-      "stockList": [],
-      "summary": "AMD跌幅扩大至11%，至11月9日以来最低水平。此前Hunterbrook表示做空该公司。",
-      "title": "AMD跌幅扩大至11% 至11月9日以来最低水平",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935416579.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 5,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d9e1f26657eac609",
-    "code": "202611193935415918",
-    "title": "美联储副主席杰斐逊表示：对改变通胀目标不感兴趣",
-    "summary": "美联储副主席杰斐逊表示，对改变通胀目标不感兴趣。",
-    "content": "美联储副主席杰斐逊表示，对改变通胀目标不感兴趣。",
-    "full_content": "美联储副主席杰斐逊表示，对改变通胀目标不感兴趣。",
-    "sort_time": "1795103528015918",
-    "showTime": "2026-11-19 23:52:08",
-    "time": "2026-11-19 23:52:08",
-    "publish_time": "2026-11-19 23:52:08",
-    "raw_data": {
-      "code": "202611193935415918",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1795103528015918",
-      "share": 0,
-      "showTime": "2026-11-19 23:52:08",
-      "stockList": [],
-      "summary": "美联储副主席杰斐逊表示，对改变通胀目标不感兴趣。",
-      "title": "美联储副主席杰斐逊表示：对改变通胀目标不感兴趣",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935415918.html",
-    "category": "宏观",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 12,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "e47b647a5f499571",
-    "code": "202611193935415511",
-    "title": "Anthropic CEO称公司目前“很享受”与SpaceX的合作",
-    "summary": "【Anthropic CEO称公司目前“很享受”与SpaceX的合作】Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）表示，公司目前“很享受”与SpaceX的合作。他称，虽然无法确定未来会如何安排，但目前SpaceX提供的算力质量很高，公司也很享受双方的合作。此前市场曾猜测Anthropic可能缩减对SpaceX算力资源的使用。",
-    "content": "【Anthropic CEO称公司目前“很享受”与SpaceX的合作】Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）表示，公司目前“很享受”与SpaceX的合作。他称，虽然无法确定未来会如何安排，但目前SpaceX提供的算力质量很高，公司也很享受双方的合作。此前市场曾猜测Anthropic可能缩减对SpaceX算力资源的使用。",
-    "full_content": "【Anthropic CEO称公司目前“很享受”与SpaceX的合作】Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）表示，公司目前“很享受”与SpaceX的合作。他称，虽然无法确定未来会如何安排，但目前SpaceX提供的算力质量很高，公司也很享受双方的合作。此前市场曾猜测Anthropic可能缩减对SpaceX算力资源的使用。",
-    "sort_time": "1795103392015511",
-    "showTime": "2026-11-19 23:49:52",
-    "time": "2026-11-19 23:49:52",
-    "publish_time": "2026-11-19 23:49:52",
-    "raw_data": {
-      "code": "202611193935415511",
+      "code": "202611203935477171",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1795103392015511",
+      "realSort": "1795129490077171",
       "share": 0,
-      "showTime": "2026-11-19 23:49:52",
-      "stockList": [
-        "105.SPCX",
-        "105.ANT"
-      ],
-      "summary": "【Anthropic CEO称公司目前“很享受”与SpaceX的合作】Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）表示，公司目前“很享受”与SpaceX的合作。他称，虽然无法确定未来会如何安排，但目前SpaceX提供的算力质量很高，公司也很享受双方的合作。此前市场曾猜测Anthropic可能缩减对SpaceX算力资源的使用。",
-      "title": "Anthropic CEO称公司目前“很享受”与SpaceX的合作",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935415511.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.SPCX",
-      "105.ANT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "5d9fab9e6175fb28",
-    "code": "202611193935414466",
-    "title": "人工智能公司Anthropic高管Rao表示：公司目前75%的算力资源分配给研发活动",
-    "summary": "人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
-    "content": "人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
-    "full_content": "人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
-    "sort_time": "1795103197014466",
-    "showTime": "2026-11-19 23:46:37",
-    "time": "2026-11-19 23:46:37",
-    "publish_time": "2026-11-19 23:46:37",
-    "raw_data": {
-      "code": "202611193935414466",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1795103197014466",
-      "share": 3,
-      "showTime": "2026-11-19 23:46:37",
+      "showTime": "2026-11-20 07:04:50",
       "stockList": [
         "105.ANT",
-        "90.BK1134"
+        "90.BK0821"
       ],
-      "summary": "人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
-      "title": "人工智能公司Anthropic高管Rao表示：公司目前75%的算力资源分配给研发活动",
+      "summary": "MSCI将于12月1日把Anthropic纳入大盘股指数。",
+      "title": "MSCI将于12月1日把Anthropic纳入大盘股指数",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935414466.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT",
-      "90.BK1134"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001",
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "e5f0c15b10c8e360",
-    "code": "202611193935412670",
-    "title": "农大科技：累计回购83.8万股",
-    "summary": "【农大科技：累计回购83.8万股】农大科技公告，截止2026年11月18日，公司通过回购股份专用证券账户以连续竞价方式回购公司股份838,402股，占公司总股本的1.10%，占预计回购数量上限的63.72%，最高成交价为29.11元/股，最低成交价为24.77元/股，已支付的总金额为21,586,590.68元（不含印花税、佣金等交易费用）。",
-    "content": "【农大科技：累计回购83.8万股】农大科技公告，截止2026年11月18日，公司通过回购股份专用证券账户以连续竞价方式回购公司股份838,402股，占公司总股本的1.10%，占预计回购数量上限的63.72%，最高成交价为29.11元/股，最低成交价为24.77元/股，已支付的总金额为21,586,590.68元（不含印花税、佣金等交易费用）。",
-    "full_content": "【农大科技：累计回购83.8万股】农大科技公告，截止2026年11月18日，公司通过回购股份专用证券账户以连续竞价方式回购公司股份838,402股，占公司总股本的1.10%，占预计回购数量上限的63.72%，最高成交价为29.11元/股，最低成交价为24.77元/股，已支付的总金额为21,586,590.68元（不含印花税、佣金等交易费用）。",
-    "sort_time": "1795102963012670",
-    "showTime": "2026-11-19 23:42:43",
-    "time": "2026-11-19 23:42:43",
-    "publish_time": "2026-11-19 23:42:43",
-    "raw_data": {
-      "code": "202611193935412670",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1795102963012670",
-      "share": 0,
-      "showTime": "2026-11-19 23:42:43",
-      "stockList": [
-        "0.920159"
-      ],
-      "summary": "【农大科技：累计回购83.8万股】农大科技公告，截止2026年11月18日，公司通过回购股份专用证券账户以连续竞价方式回购公司股份838,402股，占公司总股本的1.10%，占预计回购数量上限的63.72%，最高成交价为29.11元/股，最低成交价为24.77元/股，已支付的总金额为21,586,590.68元（不含印花税、佣金等交易费用）。",
-      "title": "农大科技：累计回购83.8万股",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935412670.html",
-    "category": "公司",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920159"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020102",
-          "name": "证券",
-          "level1": "金融业",
-          "level2": "货币金融服务",
-          "matched_keyword": "证券"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C401",
-          "name": "券商",
-          "matched_keyword": "证券"
-        }
-      ],
-      "industry_ids": [
-        "I020102"
-      ],
-      "concept_ids": [
-        "C401"
-      ]
-    }
-  },
-  {
-    "id": "df2a4d250046e839",
-    "code": "202611193935412778",
-    "title": "天罡股份：控股股东、实际控制人的一致行动人去世",
-    "summary": "【天罡股份：控股股东、实际控制人的一致行动人去世】天罡股份公告，公司控股股东、实际控制人的一致行动人戚其荣近日因病逝世。戚其荣与公司控股股东、实际控制人、董事长、总经理付涛为母子关系，与实际控制人付成林为母子关系，系公司控股股东、实际控制人的一致行动人，未在公司担任董事或高级管理人员职务。",
-    "content": "【天罡股份：控股股东、实际控制人的一致行动人去世】天罡股份公告，公司控股股东、实际控制人的一致行动人戚其荣近日因病逝世。戚其荣与公司控股股东、实际控制人、董事长、总经理付涛为母子关系，与实际控制人付成林为母子关系，系公司控股股东、实际控制人的一致行动人，未在公司担任董事或高级管理人员职务。",
-    "full_content": "【天罡股份：控股股东、实际控制人的一致行动人去世】天罡股份公告，公司控股股东、实际控制人的一致行动人戚其荣近日因病逝世。戚其荣与公司控股股东、实际控制人、董事长、总经理付涛为母子关系，与实际控制人付成林为母子关系，系公司控股股东、实际控制人的一致行动人，未在公司担任董事或高级管理人员职务。",
-    "sort_time": "1795102902012778",
-    "showTime": "2026-11-19 23:41:42",
-    "time": "2026-11-19 23:41:42",
-    "publish_time": "2026-11-19 23:41:42",
-    "raw_data": {
-      "code": "202611193935412778",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795102902012778",
-      "share": 0,
-      "showTime": "2026-11-19 23:41:42",
-      "stockList": [
-        "0.920651"
-      ],
-      "summary": "【天罡股份：控股股东、实际控制人的一致行动人去世】天罡股份公告，公司控股股东、实际控制人的一致行动人戚其荣近日因病逝世。戚其荣与公司控股股东、实际控制人、董事长、总经理付涛为母子关系，与实际控制人付成林为母子关系，系公司控股股东、实际控制人的一致行动人，未在公司担任董事或高级管理人员职务。",
-      "title": "天罡股份：控股股东、实际控制人的一致行动人去世",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935412778.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920651"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "a7394d5d35a8c092",
-    "code": "202611193935412341",
-    "title": "费城半导体指数回吐此前一度高达近5%的涨幅 现已转跌",
-    "summary": "费城半导体指数回吐此前一度高达近5%的涨幅，现已转跌。",
-    "content": "费城半导体指数回吐此前一度高达近5%的涨幅，现已转跌。",
-    "full_content": "费城半导体指数回吐此前一度高达近5%的涨幅，现已转跌。",
-    "sort_time": "1795102831012341",
-    "showTime": "2026-11-19 23:40:31",
-    "time": "2026-11-19 23:40:31",
-    "publish_time": "2026-11-19 23:40:31",
-    "raw_data": {
-      "code": "202611193935412341",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1795102831012341",
-      "share": 18,
-      "showTime": "2026-11-19 23:40:31",
-      "stockList": [
-        "90.BK1036",
-        "90.BK0459"
-      ],
-      "summary": "费城半导体指数回吐此前一度高达近5%的涨幅，现已转跌。",
-      "title": "费城半导体指数回吐此前一度高达近5%的涨幅 现已转跌",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935412341.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1036",
-      "90.BK0459"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 18,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010101",
-          "name": "半导体",
-          "level1": "制造业",
-          "level2": "计算机、通信和其他电子设备制造业",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C002",
-          "name": "芯片",
-          "matched_keyword": "半导体"
-        }
-      ],
-      "industry_ids": [
-        "I010101"
-      ],
-      "concept_ids": [
-        "C002"
-      ]
-    }
-  },
-  {
-    "id": "b145a203c6bee313",
-    "code": "202611193935412989",
-    "title": "Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录",
-    "summary": "【Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录】当地时间11月19日，Anthropic联合创始人兼首席执行官达里奥·阿莫代伊及联合创始人兼总裁丹妮拉·阿莫代伊在纽约纳斯达克敲响开市钟，标志着公司正式登陆纳斯达克，股票代码为ANT。",
-    "content": "【Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录】当地时间11月19日，Anthropic联合创始人兼首席执行官达里奥·阿莫代伊及联合创始人兼总裁丹妮拉·阿莫代伊在纽约纳斯达克敲响开市钟，标志着公司正式登陆纳斯达克，股票代码为ANT。",
-    "full_content": "【Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录】当地时间11月19日，Anthropic联合创始人兼首席执行官达里奥·阿莫代伊及联合创始人兼总裁丹妮拉·阿莫代伊在纽约纳斯达克敲响开市钟，标志着公司正式登陆纳斯达克，股票代码为ANT。",
-    "sort_time": "1795102811012989",
-    "showTime": "2026-11-19 23:40:11",
-    "time": "2026-11-19 23:40:11",
-    "publish_time": "2026-11-19 23:40:11",
-    "raw_data": {
-      "code": "202611193935412989",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1795102811012989",
-      "share": 11,
-      "showTime": "2026-11-19 23:40:11",
-      "stockList": [
-        "105.ANT",
-        "90.BK0697"
-      ],
-      "summary": "【Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录】当地时间11月19日，Anthropic联合创始人兼首席执行官达里奥·阿莫代伊及联合创始人兼总裁丹妮拉·阿莫代伊在纽约纳斯达克敲响开市钟，标志着公司正式登陆纳斯达克，股票代码为ANT。",
-      "title": "Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935412989.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935477171.html",
     "category": "其他",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
       "105.ANT",
-      "90.BK0697"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 11,
-    "tags": {
-      "industries": [
-        {
-          "id": "I020202",
-          "name": "投资银行",
-          "level1": "金融业",
-          "level2": "资本市场服务",
-          "matched_keyword": "IPO"
-        }
-      ],
-      "concepts": [],
-      "industry_ids": [
-        "I020202"
-      ],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "420b763f999530f4",
-    "code": "202611193935412032",
-    "title": "AMD跌幅快速扩大至8% 此前Hunterbrook表示做空该公司",
-    "summary": "AMD跌幅快速扩大至8%，此前Hunterbrook表示做空该公司。",
-    "content": "AMD跌幅快速扩大至8%，此前Hunterbrook表示做空该公司。",
-    "full_content": "AMD跌幅快速扩大至8%，此前Hunterbrook表示做空该公司。",
-    "sort_time": "1795102801012032",
-    "showTime": "2026-11-19 23:40:01",
-    "time": "2026-11-19 23:40:01",
-    "publish_time": "2026-11-19 23:40:01",
-    "raw_data": {
-      "code": "202611193935412032",
-      "image": [],
-      "pinglun_Num": 20,
-      "realSort": "1795102801012032",
-      "share": 25,
-      "showTime": "2026-11-19 23:40:01",
-      "stockList": [
-        "105.AMD"
-      ],
-      "summary": "AMD跌幅快速扩大至8%，此前Hunterbrook表示做空该公司。",
-      "title": "AMD跌幅快速扩大至8% 此前Hunterbrook表示做空该公司",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935412032.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.AMD"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 20,
-    "share_count": 25,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "6d640bf6e9016bd1",
-    "code": "202611193935409571",
-    "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
-    "summary": "【纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市】纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
-    "content": "【纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市】纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
-    "full_content": "【纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市】纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
-    "sort_time": "1795102659009571",
-    "showTime": "2026-11-19 23:37:39",
-    "time": "2026-11-19 23:37:39",
-    "publish_time": "2026-11-19 23:37:39",
-    "raw_data": {
-      "code": "202611193935409571",
-      "image": [],
-      "pinglun_Num": 23,
-      "realSort": "1795102659009571",
-      "share": 27,
-      "showTime": "2026-11-19 23:37:39",
-      "stockList": [
-        "105.ANT"
-      ],
-      "summary": "【纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市】纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
-      "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
-      "titleColor": 3
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935409571.html",
-    "category": "科技",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 23,
-    "share_count": 27,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C001"
-      ]
-    }
-  },
-  {
-    "id": "08558a8b22d06b5f",
-    "code": "202611193935409157",
-    "title": "奥美森：募投项目研发中心于2026年10月完成项目用地并证工作",
-    "summary": "【奥美森：募投项目研发中心于2026年10月完成项目用地并证工作】奥美森发布投资者关系活动记录表，募投项目金属管材数字化成型装备及其他订制类智能设备生产基地于2026年1月动工，2026年10月主体建筑封顶，预计2027年3月底竣工并逐步投入使用。募投项目研发中心于2026年10月完成项目用地并证工作，正在筹备报建。",
-    "content": "【奥美森：募投项目研发中心于2026年10月完成项目用地并证工作】奥美森发布投资者关系活动记录表，募投项目金属管材数字化成型装备及其他订制类智能设备生产基地于2026年1月动工，2026年10月主体建筑封顶，预计2027年3月底竣工并逐步投入使用。募投项目研发中心于2026年10月完成项目用地并证工作，正在筹备报建。",
-    "full_content": "【奥美森：募投项目研发中心于2026年10月完成项目用地并证工作】奥美森发布投资者关系活动记录表，募投项目金属管材数字化成型装备及其他订制类智能设备生产基地于2026年1月动工，2026年10月主体建筑封顶，预计2027年3月底竣工并逐步投入使用。募投项目研发中心于2026年10月完成项目用地并证工作，正在筹备报建。",
-    "sort_time": "1795102452009157",
-    "showTime": "2026-11-19 23:34:12",
-    "time": "2026-11-19 23:34:12",
-    "publish_time": "2026-11-19 23:34:12",
-    "raw_data": {
-      "code": "202611193935409157",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795102452009157",
-      "share": 0,
-      "showTime": "2026-11-19 23:34:12",
-      "stockList": [
-        "0.920080",
-        "150.012322"
-      ],
-      "summary": "【奥美森：募投项目研发中心于2026年10月完成项目用地并证工作】奥美森发布投资者关系活动记录表，募投项目金属管材数字化成型装备及其他订制类智能设备生产基地于2026年1月动工，2026年10月主体建筑封顶，预计2027年3月底竣工并逐步投入使用。募投项目研发中心于2026年10月完成项目用地并证工作，正在筹备报建。",
-      "title": "奥美森：募投项目研发中心于2026年10月完成项目用地并证工作",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935409157.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.920080",
-      "150.012322"
+      "90.BK0821"
     ],
     "has_stock_mention": true,
     "comment_count": 0,
@@ -1080,149 +418,82 @@
     }
   },
   {
-    "id": "2c860f9b9a122904",
-    "code": "202611193935406926",
-    "title": "现货黄金日内跌幅扩大至1% 报3686.11美元/盎司",
-    "summary": "现货黄金日内跌幅扩大至1%，报3686.11美元/盎司。",
-    "content": "现货黄金日内跌幅扩大至1%，报3686.11美元/盎司。",
-    "full_content": "现货黄金日内跌幅扩大至1%，报3686.11美元/盎司。",
-    "sort_time": "1795102259006926",
-    "showTime": "2026-11-19 23:30:59",
-    "time": "2026-11-19 23:30:59",
-    "publish_time": "2026-11-19 23:30:59",
+    "id": "3f9106ee57fc75bc",
+    "code": "202611203935478024",
+    "title": "美股股指期货小幅低开 纳指期货跌0.1%",
+    "summary": "美股股指期货小幅低开，其中纳指期货跌0.1%。",
+    "content": "美股股指期货小幅低开，其中纳指期货跌0.1%。",
+    "full_content": "美股股指期货小幅低开，其中纳指期货跌0.1%。",
+    "sort_time": "1795129310078024",
+    "showTime": "2026-11-20 07:01:50",
+    "time": "2026-11-20 07:01:50",
+    "publish_time": "2026-11-20 07:01:50",
     "raw_data": {
-      "code": "202611193935406926",
+      "code": "202611203935478024",
       "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1795102259006926",
+      "pinglun_Num": 0,
+      "realSort": "1795129310078024",
       "share": 2,
-      "showTime": "2026-11-19 23:30:59",
-      "stockList": [
-        "90.BK0732",
-        "90.BK1617"
-      ],
-      "summary": "现货黄金日内跌幅扩大至1%，报3686.11美元/盎司。",
-      "title": "现货黄金日内跌幅扩大至1% 报3686.11美元/盎司",
+      "showTime": "2026-11-20 07:01:50",
+      "stockList": [],
+      "summary": "美股股指期货小幅低开，其中纳指期货跌0.1%。",
+      "title": "美股股指期货小幅低开 纳指期货跌0.1%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935406926.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935478024.html",
     "category": "期货",
-    "importance": 6,
+    "importance": 5,
     "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0732",
-      "90.BK1617"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
     "share_count": 2,
     "tags": {
       "industries": [],
-      "concepts": [
-        {
-          "id": "C502",
-          "name": "黄金",
-          "matched_keyword": "黄金"
-        }
-      ],
+      "concepts": [],
       "industry_ids": [],
-      "concept_ids": [
-        "C502"
-      ]
+      "concept_ids": []
     }
   },
   {
-    "id": "6c49f020d8a45dc2",
-    "code": "202611193935406670",
-    "title": "美国上周EIA天然气库存增加200亿立方英尺 预期增加270亿立方英尺 前值增加610亿立方英尺",
-    "summary": "美国上周EIA天然气库存增加200亿立方英尺，预期增加270亿立方英尺，前值增加610亿立方英尺。",
-    "content": "美国上周EIA天然气库存增加200亿立方英尺，预期增加270亿立方英尺，前值增加610亿立方英尺。",
-    "full_content": "美国上周EIA天然气库存增加200亿立方英尺，预期增加270亿立方英尺，前值增加610亿立方英尺。",
-    "sort_time": "1795102234006670",
-    "showTime": "2026-11-19 23:30:34",
-    "time": "2026-11-19 23:30:34",
-    "publish_time": "2026-11-19 23:30:34",
+    "id": "6ca4e8321fa65fbe",
+    "code": "202611203935472845",
+    "title": "据报道：英伟达接近以逾5亿美元收购一家扩散式AI开发商Inception",
+    "summary": "据报道，英伟达接近以逾5亿美元收购一家扩散式AI开发商Inception。",
+    "content": "据报道，英伟达接近以逾5亿美元收购一家扩散式AI开发商Inception。",
+    "full_content": "据报道，英伟达接近以逾5亿美元收购一家扩散式AI开发商Inception。",
+    "sort_time": "1795128386072845",
+    "showTime": "2026-11-20 06:46:26",
+    "time": "2026-11-20 06:46:26",
+    "publish_time": "2026-11-20 06:46:26",
     "raw_data": {
-      "code": "202611193935406670",
+      "code": "202611203935472845",
       "image": [],
       "pinglun_Num": 0,
-      "realSort": "1795102234006670",
+      "realSort": "1795128386072845",
       "share": 0,
-      "showTime": "2026-11-19 23:30:34",
+      "showTime": "2026-11-20 06:46:26",
       "stockList": [
-        "90.BK1028",
-        "90.BK0427"
+        "105.NVDA",
+        "90.BK1161"
       ],
-      "summary": "美国上周EIA天然气库存增加200亿立方英尺，预期增加270亿立方英尺，前值增加610亿立方英尺。",
-      "title": "美国上周EIA天然气库存增加200亿立方英尺 预期增加270亿立方英尺 前值增加610亿立方英尺",
+      "summary": "据报道，英伟达接近以逾5亿美元收购一家扩散式AI开发商Inception。",
+      "title": "据报道：英伟达接近以逾5亿美元收购一家扩散式AI开发商Inception",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935406670.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK1028",
-      "90.BK0427"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C507",
-          "name": "天然气",
-          "matched_keyword": "天然气"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C507"
-      ]
-    }
-  },
-  {
-    "id": "f506340ac7093055",
-    "code": "202611193935406726",
-    "title": "Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大",
-    "summary": "【Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大】Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）为公司高达9000亿美元的AI投入承诺进行辩护。他表示，如果考虑公司资产负债表上的现金规模以及目前每年已实现的收入，这些承诺看起来就没有那么庞大。阿莫代伊还表示，公司在预测算力需求时，倾向于采取相对保守的估算方式。",
-    "content": "【Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大】Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）为公司高达9000亿美元的AI投入承诺进行辩护。他表示，如果考虑公司资产负债表上的现金规模以及目前每年已实现的收入，这些承诺看起来就没有那么庞大。阿莫代伊还表示，公司在预测算力需求时，倾向于采取相对保守的估算方式。",
-    "full_content": "【Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大】Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）为公司高达9000亿美元的AI投入承诺进行辩护。他表示，如果考虑公司资产负债表上的现金规模以及目前每年已实现的收入，这些承诺看起来就没有那么庞大。阿莫代伊还表示，公司在预测算力需求时，倾向于采取相对保守的估算方式。",
-    "sort_time": "1795102195006726",
-    "showTime": "2026-11-19 23:29:55",
-    "time": "2026-11-19 23:29:55",
-    "publish_time": "2026-11-19 23:29:55",
-    "raw_data": {
-      "code": "202611193935406726",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1795102195006726",
-      "share": 2,
-      "showTime": "2026-11-19 23:29:55",
-      "stockList": [
-        "105.ANT",
-        "90.BK0800"
-      ],
-      "summary": "【Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大】Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）为公司高达9000亿美元的AI投入承诺进行辩护。他表示，如果考虑公司资产负债表上的现金规模以及目前每年已实现的收入，这些承诺看起来就没有那么庞大。阿莫代伊还表示，公司在预测算力需求时，倾向于采取相对保守的估算方式。",
-      "title": "Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935406726.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935472845.html",
     "category": "科技",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "105.ANT",
-      "90.BK0800"
+      "105.NVDA",
+      "90.BK1161"
     ],
     "has_stock_mention": true,
-    "comment_count": 7,
-    "share_count": 2,
+    "comment_count": 0,
+    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [
@@ -1230,614 +501,52 @@
           "id": "C001",
           "name": "人工智能",
           "matched_keyword": "AI"
-        },
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
         }
       ],
       "industry_ids": [],
       "concept_ids": [
-        "C001",
-        "C011"
+        "C001"
       ]
     }
   },
   {
-    "id": "ea48949cfe90a39e",
-    "code": "202611193935406887",
-    "title": "方程豹钛9正式上市，比亚迪成全球首家率先实现折叠技术上车量产的车企",
-    "summary": "【方程豹钛9正式上市，比亚迪成全球首家率先实现折叠技术上车量产的车企】11月19日晚，比亚迪方程豹钛9正式上市。钛9首搭比亚迪最新科技成果“折叠智舱”和“DMS超级混动全能平台”。钛9顶配版首搭量产比亚迪科技创新重大技术成果——折叠智舱，此技术是折叠方向盘在汽车领域的首次正式量产，也是比亚迪布局L3、L4智能驾驶的重大成果。比亚迪成为全球首家率先实现折叠技术上车量产的车企。",
-    "content": "【方程豹钛9正式上市，比亚迪成全球首家率先实现折叠技术上车量产的车企】11月19日晚，比亚迪方程豹钛9正式上市。钛9首搭比亚迪最新科技成果“折叠智舱”和“DMS超级混动全能平台”。钛9顶配版首搭量产比亚迪科技创新重大技术成果——折叠智舱，此技术是折叠方向盘在汽车领域的首次正式量产，也是比亚迪布局L3、L4智能驾驶的重大成果。比亚迪成为全球首家率先实现折叠技术上车量产的车企。",
-    "full_content": "【方程豹钛9正式上市，比亚迪成全球首家率先实现折叠技术上车量产的车企】11月19日晚，比亚迪方程豹钛9正式上市。钛9首搭比亚迪最新科技成果“折叠智舱”和“DMS超级混动全能平台”。钛9顶配版首搭量产比亚迪科技创新重大技术成果——折叠智舱，此技术是折叠方向盘在汽车领域的首次正式量产，也是比亚迪布局L3、L4智能驾驶的重大成果。比亚迪成为全球首家率先实现折叠技术上车量产的车企。",
-    "sort_time": "1795102140006887",
-    "showTime": "2026-11-19 23:29:00",
-    "time": "2026-11-19 23:29:00",
-    "publish_time": "2026-11-19 23:29:00",
+    "id": "87dd42ffeaf9bf87",
+    "code": "202611203935472952",
+    "title": "史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%",
+    "summary": "【史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%】北京时间周五（11月20日）凌晨00:48，Anthropic在纳斯达克全球精选市场开始交易，股票代码为“ANT”，发行价为83美元，超过了70至78美元的推介区间。开盘后5分钟，Anthropic一度涨至日内高点115.10美元，涨幅最大时接近39%，市值短暂突破2万亿美元关口，一度成为全球第六大上市公司。",
+    "content": "【史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%】北京时间周五（11月20日）凌晨00:48，Anthropic在纳斯达克全球精选市场开始交易，股票代码为“ANT”，发行价为83美元，超过了70至78美元的推介区间。开盘后5分钟，Anthropic一度涨至日内高点115.10美元，涨幅最大时接近39%，市值短暂突破2万亿美元关口，一度成为全球第六大上市公司。",
+    "full_content": "【史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%】北京时间周五（11月20日）凌晨00:48，Anthropic在纳斯达克全球精选市场开始交易，股票代码为“ANT”，发行价为83美元，超过了70至78美元的推介区间。开盘后5分钟，Anthropic一度涨至日内高点115.10美元，涨幅最大时接近39%，市值短暂突破2万亿美元关口，一度成为全球第六大上市公司。",
+    "sort_time": "1795128351072952",
+    "showTime": "2026-11-20 06:45:51",
+    "time": "2026-11-20 06:45:51",
+    "publish_time": "2026-11-20 06:45:51",
     "raw_data": {
-      "code": "202611193935406887",
+      "code": "202611203935472952",
       "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1795102140006887",
-      "share": 0,
-      "showTime": "2026-11-19 23:29:00",
-      "stockList": [
-        "0.002594",
-        "116.01211"
-      ],
-      "summary": "【方程豹钛9正式上市，比亚迪成全球首家率先实现折叠技术上车量产的车企】11月19日晚，比亚迪方程豹钛9正式上市。钛9首搭比亚迪最新科技成果“折叠智舱”和“DMS超级混动全能平台”。钛9顶配版首搭量产比亚迪科技创新重大技术成果——折叠智舱，此技术是折叠方向盘在汽车领域的首次正式量产，也是比亚迪布局L3、L4智能驾驶的重大成果。比亚迪成为全球首家率先实现折叠技术上车量产的车企。",
-      "title": "方程豹钛9正式上市 比亚迪成全球首家率先实现折叠技术上车量产的车企",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935406887.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.002594",
-      "116.01211"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [
-        {
-          "id": "I010301",
-          "name": "汽车整车",
-          "level1": "制造业",
-          "level2": "汽车制造业",
-          "matched_keyword": "汽车"
-        }
-      ],
-      "concepts": [
-        {
-          "id": "C809",
-          "name": "比亚迪概念",
-          "matched_keyword": "比亚迪"
-        }
-      ],
-      "industry_ids": [
-        "I010301"
-      ],
-      "concept_ids": [
-        "C809"
-      ]
-    }
-  },
-  {
-    "id": "ee1c42269c8b9291",
-    "code": "202611193935405812",
-    "title": "美国钢铁公司与美国钢铁工人联合会达成一项初步四年劳资协议",
-    "summary": "美国钢铁公司与美国钢铁工人联合会达成一项初步四年劳资协议。该协议涵盖工资增长、医疗福利及工厂设施投资等内容。",
-    "content": "美国钢铁公司与美国钢铁工人联合会达成一项初步四年劳资协议。该协议涵盖工资增长、医疗福利及工厂设施投资等内容。",
-    "full_content": "美国钢铁公司与美国钢铁工人联合会达成一项初步四年劳资协议。该协议涵盖工资增长、医疗福利及工厂设施投资等内容。",
-    "sort_time": "1795102076005812",
-    "showTime": "2026-11-19 23:27:56",
-    "time": "2026-11-19 23:27:56",
-    "publish_time": "2026-11-19 23:27:56",
-    "raw_data": {
-      "code": "202611193935405812",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795102076005812",
-      "share": 0,
-      "showTime": "2026-11-19 23:27:56",
-      "stockList": [],
-      "summary": "美国钢铁公司与美国钢铁工人联合会达成一项初步四年劳资协议。该协议涵盖工资增长、医疗福利及工厂设施投资等内容。",
-      "title": "美国钢铁公司与美国钢铁工人联合会达成一项初步四年劳资协议",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935405812.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bullish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C504",
-          "name": "钢铁",
-          "matched_keyword": "钢铁"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C504"
-      ]
-    }
-  },
-  {
-    "id": "436726652f2770cb",
-    "code": "202611193935405750",
-    "title": "Anthropic首席执行官：将倾听数据中心社区的意见",
-    "summary": "【Anthropic首席执行官：将倾听数据中心社区的意见】Anthropic首席执行官表示，在中期选举之后，公司正专注于倾听消费者在数据中心方面的声音。“我认为对Anthropic来说非常重要的一点，就是让人们感受到这项技术并没有发生在他们身上。而且我认为，从我们的角度来看，建设数据中心同样需要倾听这些社区的需求，并帮助推动未来的发展。”",
-    "content": "【Anthropic首席执行官：将倾听数据中心社区的意见】Anthropic首席执行官表示，在中期选举之后，公司正专注于倾听消费者在数据中心方面的声音。“我认为对Anthropic来说非常重要的一点，就是让人们感受到这项技术并没有发生在他们身上。而且我认为，从我们的角度来看，建设数据中心同样需要倾听这些社区的需求，并帮助推动未来的发展。”",
-    "full_content": "【Anthropic首席执行官：将倾听数据中心社区的意见】Anthropic首席执行官表示，在中期选举之后，公司正专注于倾听消费者在数据中心方面的声音。“我认为对Anthropic来说非常重要的一点，就是让人们感受到这项技术并没有发生在他们身上。而且我认为，从我们的角度来看，建设数据中心同样需要倾听这些社区的需求，并帮助推动未来的发展。”",
-    "sort_time": "1795102058005750",
-    "showTime": "2026-11-19 23:27:38",
-    "time": "2026-11-19 23:27:38",
-    "publish_time": "2026-11-19 23:27:38",
-    "raw_data": {
-      "code": "202611193935405750",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1795102058005750",
-      "share": 1,
-      "showTime": "2026-11-19 23:27:38",
+      "pinglun_Num": 10,
+      "realSort": "1795128351072952",
+      "share": 16,
+      "showTime": "2026-11-20 06:45:51",
       "stockList": [
         "105.ANT",
-        "90.BK0922"
+        "90.BK0697"
       ],
-      "summary": "【Anthropic首席执行官：将倾听数据中心社区的意见】Anthropic首席执行官表示，在中期选举之后，公司正专注于倾听消费者在数据中心方面的声音。“我认为对Anthropic来说非常重要的一点，就是让人们感受到这项技术并没有发生在他们身上。而且我认为，从我们的角度来看，建设数据中心同样需要倾听这些社区的需求，并帮助推动未来的发展。”",
-      "title": "Anthropic首席执行官：将倾听数据中心社区的意见",
-      "titleColor": 0
+      "summary": "【史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%】北京时间周五（11月20日）凌晨00:48，Anthropic在纳斯达克全球精选市场开始交易，股票代码为“ANT”，发行价为83美元，超过了70至78美元的推介区间。开盘后5分钟，Anthropic一度涨至日内高点115.10美元，涨幅最大时接近39%，市值短暂突破2万亿美元关口，一度成为全球第六大上市公司。",
+      "title": "史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%",
+      "titleColor": 3
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935405750.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935472952.html",
     "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT",
-      "90.BK0922"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C006",
-          "name": "大数据",
-          "matched_keyword": "数据中心"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C006"
-      ]
-    }
-  },
-  {
-    "id": "6e0e0a7af3115f00",
-    "code": "202611193935405671",
-    "title": "Anthropic首席执行官达里奥·阿莫迪表示：Anthropic“希望”未来能获得投资级信用评",
-    "summary": "Anthropic首席执行官达里奥·阿莫迪表示，Anthropic“希望”未来能获得投资级信用评级。",
-    "content": "Anthropic首席执行官达里奥·阿莫迪表示，Anthropic“希望”未来能获得投资级信用评级。",
-    "full_content": "Anthropic首席执行官达里奥·阿莫迪表示，Anthropic“希望”未来能获得投资级信用评级。",
-    "sort_time": "1795101962005671",
-    "showTime": "2026-11-19 23:26:02",
-    "time": "2026-11-19 23:26:02",
-    "publish_time": "2026-11-19 23:26:02",
-    "raw_data": {
-      "code": "202611193935405671",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1795101962005671",
-      "share": 0,
-      "showTime": "2026-11-19 23:26:02",
-      "stockList": [
-        "105.ANT"
-      ],
-      "summary": "Anthropic首席执行官达里奥·阿莫迪表示，Anthropic“希望”未来能获得投资级信用评级。",
-      "title": "Anthropic首席执行官达里奥·阿莫迪表示：Anthropic“希望”未来能获得投资级信用评",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935405671.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "1ec690fe5b9d923f",
-    "code": "202611193935401110",
-    "title": "洲际交易所(ICE)白糖期货下跌近3% 至每公吨492.30美元",
-    "summary": "洲际交易所(ICE)白糖期货下跌近3%，至每公吨492.30美元。",
-    "content": "洲际交易所(ICE)白糖期货下跌近3%，至每公吨492.30美元。",
-    "full_content": "洲际交易所(ICE)白糖期货下跌近3%，至每公吨492.30美元。",
-    "sort_time": "1795101706001110",
-    "showTime": "2026-11-19 23:21:46",
-    "time": "2026-11-19 23:21:46",
-    "publish_time": "2026-11-19 23:21:46",
-    "raw_data": {
-      "code": "202611193935401110",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795101706001110",
-      "share": 0,
-      "showTime": "2026-11-19 23:21:46",
-      "stockList": [],
-      "summary": "洲际交易所(ICE)白糖期货下跌近3%，至每公吨492.30美元。",
-      "title": "洲际交易所(ICE)白糖期货下跌近3% 至每公吨492.30美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935401110.html",
-    "category": "期货",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "8d29072103585937",
-    "code": "202611193935400181",
-    "title": "墨西哥比索兑美元汇率自2025年6月以来首次跌破19关口",
-    "summary": "墨西哥比索兑美元汇率自2025年6月以来首次跌破19关口。",
-    "content": "墨西哥比索兑美元汇率自2025年6月以来首次跌破19关口。",
-    "full_content": "墨西哥比索兑美元汇率自2025年6月以来首次跌破19关口。",
-    "sort_time": "1795101577000181",
-    "showTime": "2026-11-19 23:19:37",
-    "time": "2026-11-19 23:19:37",
-    "publish_time": "2026-11-19 23:19:37",
-    "raw_data": {
-      "code": "202611193935400181",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795101577000181",
-      "share": 0,
-      "showTime": "2026-11-19 23:19:37",
-      "stockList": [],
-      "summary": "墨西哥比索兑美元汇率自2025年6月以来首次跌破19关口。",
-      "title": "墨西哥比索兑美元汇率自2025年6月以来首次跌破19关口",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935400181.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "bearish",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "46949189dd9f3df7",
-    "code": "202611193935400584",
-    "title": "标普500指数涨幅收窄",
-    "summary": "【标普500指数涨幅收窄】标普500指数涨幅收窄至0.4%，触及盘中低点。截至目前，道琼斯指数跌0.3%，标普500指数涨0.4%，纳斯达克综合指数涨1.02%。",
-    "content": "【标普500指数涨幅收窄】标普500指数涨幅收窄至0.4%，触及盘中低点。截至目前，道琼斯指数跌0.3%，标普500指数涨0.4%，纳斯达克综合指数涨1.02%。",
-    "full_content": "【标普500指数涨幅收窄】标普500指数涨幅收窄至0.4%，触及盘中低点。截至目前，道琼斯指数跌0.3%，标普500指数涨0.4%，纳斯达克综合指数涨1.02%。",
-    "sort_time": "1795101527000584",
-    "showTime": "2026-11-19 23:18:47",
-    "time": "2026-11-19 23:18:47",
-    "publish_time": "2026-11-19 23:18:47",
-    "raw_data": {
-      "code": "202611193935400584",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1795101527000584",
-      "share": 1,
-      "showTime": "2026-11-19 23:18:47",
-      "stockList": [],
-      "summary": "【标普500指数涨幅收窄】标普500指数涨幅收窄至0.4%，触及盘中低点。截至目前，道琼斯指数跌0.3%，标普500指数涨0.4%，纳斯达克综合指数涨1.02%。",
-      "title": "标普500指数涨幅收窄",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935400584.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 1,
-    "share_count": 1,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "af490734684cff79",
-    "code": "202611193935399336",
-    "title": "Anthropic首席执行官表示：鉴于当前销售额 其算力承诺规模并不算大 很难预测我们需要使用多少算力",
-    "summary": "Anthropic首席执行官表示，鉴于当前销售额，其算力承诺规模并不算大；很难预测我们需要使用多少算力。",
-    "content": "Anthropic首席执行官表示，鉴于当前销售额，其算力承诺规模并不算大；很难预测我们需要使用多少算力。",
-    "full_content": "Anthropic首席执行官表示，鉴于当前销售额，其算力承诺规模并不算大；很难预测我们需要使用多少算力。",
-    "sort_time": "1795101473099336",
-    "showTime": "2026-11-19 23:17:53",
-    "time": "2026-11-19 23:17:53",
-    "publish_time": "2026-11-19 23:17:53",
-    "raw_data": {
-      "code": "202611193935399336",
-      "image": [],
-      "pinglun_Num": 12,
-      "realSort": "1795101473099336",
-      "share": 9,
-      "showTime": "2026-11-19 23:17:53",
-      "stockList": [
-        "105.ANT",
-        "90.BK1134"
-      ],
-      "summary": "Anthropic首席执行官表示，鉴于当前销售额，其算力承诺规模并不算大；很难预测我们需要使用多少算力。",
-      "title": "Anthropic首席执行官表示：鉴于当前销售额 其算力承诺规模并不算大 很难预测我们需要使用多少算力",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935399336.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT",
-      "90.BK1134"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 12,
-    "share_count": 9,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C011",
-          "name": "算力",
-          "matched_keyword": "算力"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C011"
-      ]
-    }
-  },
-  {
-    "id": "77545de9ee8d6217",
-    "code": "202611193935398570",
-    "title": "美股涨幅收窄",
-    "summary": "【美股涨幅收窄】道指跌0.19%，标普500指数涨0.5%，纳斯达克指数涨1.28%。",
-    "content": "【美股涨幅收窄】道指跌0.19%，标普500指数涨0.5%，纳斯达克指数涨1.28%。",
-    "full_content": "【美股涨幅收窄】道指跌0.19%，标普500指数涨0.5%，纳斯达克指数涨1.28%。",
-    "sort_time": "1795101407098570",
-    "showTime": "2026-11-19 23:16:47",
-    "time": "2026-11-19 23:16:47",
-    "publish_time": "2026-11-19 23:16:47",
-    "raw_data": {
-      "code": "202611193935398570",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795101407098570",
-      "share": 0,
-      "showTime": "2026-11-19 23:16:47",
-      "stockList": [],
-      "summary": "【美股涨幅收窄】道指跌0.19%，标普500指数涨0.5%，纳斯达克指数涨1.28%。",
-      "title": "美股涨幅收窄",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935398570.html",
-    "category": "其他",
-    "importance": 5,
-    "sentiment": "neutral",
-    "related_stocks": [],
-    "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "66a3dc7bf8702c6d",
-    "code": "202611193935397429",
-    "title": "Anthropic首席执行官Dario Amodei表示：公司有能力在定价方面参与竞争",
-    "summary": "Anthropic首席执行官Dario Amodei表示，公司有能力在定价方面参与竞争。",
-    "content": "Anthropic首席执行官Dario Amodei表示，公司有能力在定价方面参与竞争。",
-    "full_content": "Anthropic首席执行官Dario Amodei表示，公司有能力在定价方面参与竞争。",
-    "sort_time": "1795101390097429",
-    "showTime": "2026-11-19 23:16:30",
-    "time": "2026-11-19 23:16:30",
-    "publish_time": "2026-11-19 23:16:30",
-    "raw_data": {
-      "code": "202611193935397429",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795101390097429",
-      "share": 0,
-      "showTime": "2026-11-19 23:16:30",
-      "stockList": [
-        "105.ANT"
-      ],
-      "summary": "Anthropic首席执行官Dario Amodei表示，公司有能力在定价方面参与竞争。",
-      "title": "Anthropic首席执行官Dario Amodei表示：公司有能力在定价方面参与竞争",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935397429.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "5fcf4a6e4e7140aa",
-    "code": "202611193935398797",
-    "title": "华自科技联合体中标冷水江市整市公共机构能源托管项目",
-    "summary": "【华自科技联合体中标冷水江市整市公共机构能源托管项目】据华自科技消息，近日，冷水江市整市合同能源费用托管项目中标结果公布。由中航建投能源科技（北京）有限公司牵头，联合上海云见智能科技有限公司、湖北中建三局建筑工程技术有限责任公司及华自科技组成的联合体成功中标。该项目为湖南首例公共机构整域能源托管项目，将为县域公共机构节能降碳和能源管理创新打造示范样板。",
-    "content": "【华自科技联合体中标冷水江市整市公共机构能源托管项目】据华自科技消息，近日，冷水江市整市合同能源费用托管项目中标结果公布。由中航建投能源科技（北京）有限公司牵头，联合上海云见智能科技有限公司、湖北中建三局建筑工程技术有限责任公司及华自科技组成的联合体成功中标。该项目为湖南首例公共机构整域能源托管项目，将为县域公共机构节能降碳和能源管理创新打造示范样板。",
-    "full_content": "【华自科技联合体中标冷水江市整市公共机构能源托管项目】据华自科技消息，近日，冷水江市整市合同能源费用托管项目中标结果公布。由中航建投能源科技（北京）有限公司牵头，联合上海云见智能科技有限公司、湖北中建三局建筑工程技术有限责任公司及华自科技组成的联合体成功中标。该项目为湖南首例公共机构整域能源托管项目，将为县域公共机构节能降碳和能源管理创新打造示范样板。",
-    "sort_time": "1795101300098797",
-    "showTime": "2026-11-19 23:15:00",
-    "time": "2026-11-19 23:15:00",
-    "publish_time": "2026-11-19 23:15:00",
-    "raw_data": {
-      "code": "202611193935398797",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795101300098797",
-      "share": 3,
-      "showTime": "2026-11-19 23:15:00",
-      "stockList": [
-        "0.300490",
-        "150.014238"
-      ],
-      "summary": "【华自科技联合体中标冷水江市整市公共机构能源托管项目】据华自科技消息，近日，冷水江市整市合同能源费用托管项目中标结果公布。由中航建投能源科技（北京）有限公司牵头，联合上海云见智能科技有限公司、湖北中建三局建筑工程技术有限责任公司及华自科技组成的联合体成功中标。该项目为湖南首例公共机构整域能源托管项目，将为县域公共机构节能降碳和能源管理创新打造示范样板。",
-      "title": "华自科技联合体中标冷水江市整市公共机构能源托管项目",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935398797.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.300490",
-      "150.014238"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "94063993861a297d",
-    "code": "202611193935396530",
-    "title": "美股光通信概念股普涨 Coherent大涨逾11%",
-    "summary": "【美股光通信概念股普涨 Coherent大涨逾11%】11月19日，美股光通信概念股普涨，Coherent(COHR.US)大涨逾11%，Lumentum(LITE.US)涨逾6%，CredoTechnology(CRDO.US)、迈威尔科技(MRVL.US)涨5%，康宁(GLW.US)、POETTechnologies(POET.US)、AppliedOptoelectronics(AAOI.US)涨逾4%，诺基亚(NOK.US)涨逾2%。",
-    "content": "【美股光通信概念股普涨 Coherent大涨逾11%】11月19日，美股光通信概念股普涨，Coherent(COHR.US)大涨逾11%，Lumentum(LITE.US)涨逾6%，CredoTechnology(CRDO.US)、迈威尔科技(MRVL.US)涨5%，康宁(GLW.US)、POETTechnologies(POET.US)、AppliedOptoelectronics(AAOI.US)涨逾4%，诺基亚(NOK.US)涨逾2%。",
-    "full_content": "【美股光通信概念股普涨 Coherent大涨逾11%】11月19日，美股光通信概念股普涨，Coherent(COHR.US)大涨逾11%，Lumentum(LITE.US)涨逾6%，CredoTechnology(CRDO.US)、迈威尔科技(MRVL.US)涨5%，康宁(GLW.US)、POETTechnologies(POET.US)、AppliedOptoelectronics(AAOI.US)涨逾4%，诺基亚(NOK.US)涨逾2%。",
-    "sort_time": "1795101130096530",
-    "showTime": "2026-11-19 23:12:10",
-    "time": "2026-11-19 23:12:10",
-    "publish_time": "2026-11-19 23:12:10",
-    "raw_data": {
-      "code": "202611193935396530",
-      "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1795101130096530",
-      "share": 3,
-      "showTime": "2026-11-19 23:12:10",
-      "stockList": [
-        "105.LITE",
-        "105.AAOI"
-      ],
-      "summary": "【美股光通信概念股普涨 Coherent大涨逾11%】11月19日，美股光通信概念股普涨，Coherent(COHR.US)大涨逾11%，Lumentum(LITE.US)涨逾6%，CredoTechnology(CRDO.US)、迈威尔科技(MRVL.US)涨5%，康宁(GLW.US)、POETTechnologies(POET.US)、AppliedOptoelectronics(AAOI.US)涨逾4%，诺基亚(NOK.US)涨逾2%。",
-      "title": "美股光通信概念股普涨 Coherent大涨逾11%",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935396530.html",
-    "category": "行业",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.LITE",
-      "105.AAOI"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C004",
-          "name": "5G",
-          "matched_keyword": "光通信"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C004"
-      ]
-    }
-  },
-  {
-    "id": "f118afcd7fb7ead3",
-    "code": "202611193935393183",
-    "title": "Anthropic上市首日 你需要知道的五件事",
-    "summary": "当地时间11月19日，人工智能公司Anthropic登陆纳斯达克，股票代码为“ANT”。公司股票发行价为每股83美元，IPO募资813.4亿美元，刷新全球IPO募资纪录。按发行价计算，这家成立仅五年的公司，完全摊薄估值已达到约1.5万亿美元。截至北京时间22:51，Anthropic每股撮合价为99.6美元，较83美元的发行价上涨约20%。",
-    "content": "当地时间11月19日，人工智能公司Anthropic登陆纳斯达克，股票代码为“ANT”。公司股票发行价为每股83美元，IPO募资813.4亿美元，刷新全球IPO募资纪录。按发行价计算，这家成立仅五年的公司，完全摊薄估值已达到约1.5万亿美元。截至北京时间22:51，Anthropic每股撮合价为99.6美元，较83美元的发行价上涨约20%。",
-    "full_content": "当地时间11月19日，人工智能公司Anthropic登陆纳斯达克，股票代码为“ANT”。公司股票发行价为每股83美元，IPO募资813.4亿美元，刷新全球IPO募资纪录。按发行价计算，这家成立仅五年的公司，完全摊薄估值已达到约1.5万亿美元。截至北京时间22:51，Anthropic每股撮合价为99.6美元，较83美元的发行价上涨约20%。",
-    "sort_time": "1795100922093183",
-    "showTime": "2026-11-19 23:08:42",
-    "time": "2026-11-19 23:08:42",
-    "publish_time": "2026-11-19 23:08:42",
-    "raw_data": {
-      "code": "202611193935393183",
-      "image": [],
-      "pinglun_Num": 1,
-      "realSort": "1795100922093183",
-      "share": 13,
-      "showTime": "2026-11-19 23:08:42",
-      "stockList": [
-        "105.ANT",
-        "90.BK0800"
-      ],
-      "summary": "当地时间11月19日，人工智能公司Anthropic登陆纳斯达克，股票代码为“ANT”。公司股票发行价为每股83美元，IPO募资813.4亿美元，刷新全球IPO募资纪录。按发行价计算，这家成立仅五年的公司，完全摊薄估值已达到约1.5万亿美元。截至北京时间22:51，Anthropic每股撮合价为99.6美元，较83美元的发行价上涨约20%。",
-      "title": "Anthropic上市首日 你需要知道的五件事",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935393183.html",
-    "category": "科技",
     "importance": 6,
     "sentiment": "bullish",
     "related_stocks": [
       "105.ANT",
-      "90.BK0800"
+      "90.BK0697"
     ],
     "has_stock_mention": true,
-    "comment_count": 1,
-    "share_count": 13,
+    "comment_count": 10,
+    "share_count": 16,
     "tags": {
       "industries": [
         {
@@ -1848,106 +557,410 @@
           "matched_keyword": "IPO"
         }
       ],
-      "concepts": [
-        {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "人工智能"
-        }
-      ],
+      "concepts": [],
       "industry_ids": [
         "I020202"
       ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5dca5a3948bcac47",
+    "code": "202611203935472786",
+    "title": "普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火",
+    "summary": "【普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火】俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。据俄罗斯总统网站19日发布的消息，在回应记者关于克里米亚大桥近日多次遭袭及受损情况的提问时，普京表示，克里米亚大桥是民用设施，俄方从未通过该桥运输军事装备和弹药，也没有通过该桥运输石油及石油制品。普京说，俄方此前曾评估与有关方面就海上停火及停止攻击能源设施举行谈判的可能性，但克里米亚大桥再次遭袭后，俄方不会就此进行谈判。他表示，俄方将作出回应，且力度将比乌方对克里米亚大桥的攻击更大。",
+    "content": "【普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火】俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。据俄罗斯总统网站19日发布的消息，在回应记者关于克里米亚大桥近日多次遭袭及受损情况的提问时，普京表示，克里米亚大桥是民用设施，俄方从未通过该桥运输军事装备和弹药，也没有通过该桥运输石油及石油制品。普京说，俄方此前曾评估与有关方面就海上停火及停止攻击能源设施举行谈判的可能性，但克里米亚大桥再次遭袭后，俄方不会就此进行谈判。他表示，俄方将作出回应，且力度将比乌方对克里米亚大桥的攻击更大。",
+    "full_content": "【普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火】俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。据俄罗斯总统网站19日发布的消息，在回应记者关于克里米亚大桥近日多次遭袭及受损情况的提问时，普京表示，克里米亚大桥是民用设施，俄方从未通过该桥运输军事装备和弹药，也没有通过该桥运输石油及石油制品。普京说，俄方此前曾评估与有关方面就海上停火及停止攻击能源设施举行谈判的可能性，但克里米亚大桥再次遭袭后，俄方不会就此进行谈判。他表示，俄方将作出回应，且力度将比乌方对克里米亚大桥的攻击更大。",
+    "sort_time": "1795128297072786",
+    "showTime": "2026-11-20 06:44:57",
+    "time": "2026-11-20 06:44:57",
+    "publish_time": "2026-11-20 06:44:57",
+    "raw_data": {
+      "code": "202611203935472786",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1795128297072786",
+      "share": 2,
+      "showTime": "2026-11-20 06:44:57",
+      "stockList": [
+        "0.159945",
+        "150.014238"
+      ],
+      "summary": "【普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火】俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。据俄罗斯总统网站19日发布的消息，在回应记者关于克里米亚大桥近日多次遭袭及受损情况的提问时，普京表示，克里米亚大桥是民用设施，俄方从未通过该桥运输军事装备和弹药，也没有通过该桥运输石油及石油制品。普京说，俄方此前曾评估与有关方面就海上停火及停止攻击能源设施举行谈判的可能性，但克里米亚大桥再次遭袭后，俄方不会就此进行谈判。他表示，俄方将作出回应，且力度将比乌方对克里米亚大桥的攻击更大。",
+      "title": "普京：克里米亚大桥遭袭后 俄方不会再讨论海上停火",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935472786.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "石油"
+        }
+      ],
+      "industry_ids": [],
       "concept_ids": [
-        "C001"
+        "C506"
       ]
     }
   },
   {
-    "id": "d271cf9461c67ef3",
-    "code": "202611193935393471",
-    "title": "波音全球集团总裁纳尔逊：中国将成全球最大民用航空市场",
-    "summary": "【波音全球集团总裁纳尔逊：中国将成全球最大民用航空市场】APEC会议期间，波音全球集团总裁布兰登·纳尔逊接受专访。他表示，中国与其他国家和地区之间的贸易往来，深刻地改变了世界，改善了无数人的生活。如果用一个词来形容中国经济发展，布兰登·纳尔逊认为是“震撼”，他表示，中国将成为全球最大的民用航空市场。纳尔逊还说，中国商飞和C919取得的成就令人惊叹。",
-    "content": "【波音全球集团总裁纳尔逊：中国将成全球最大民用航空市场】APEC会议期间，波音全球集团总裁布兰登·纳尔逊接受专访。他表示，中国与其他国家和地区之间的贸易往来，深刻地改变了世界，改善了无数人的生活。如果用一个词来形容中国经济发展，布兰登·纳尔逊认为是“震撼”，他表示，中国将成为全球最大的民用航空市场。纳尔逊还说，中国商飞和C919取得的成就令人惊叹。",
-    "full_content": "【波音全球集团总裁纳尔逊：中国将成全球最大民用航空市场】APEC会议期间，波音全球集团总裁布兰登·纳尔逊接受专访。他表示，中国与其他国家和地区之间的贸易往来，深刻地改变了世界，改善了无数人的生活。如果用一个词来形容中国经济发展，布兰登·纳尔逊认为是“震撼”，他表示，中国将成为全球最大的民用航空市场。纳尔逊还说，中国商飞和C919取得的成就令人惊叹。",
-    "sort_time": "1795100914093471",
-    "showTime": "2026-11-19 23:08:34",
-    "time": "2026-11-19 23:08:34",
-    "publish_time": "2026-11-19 23:08:34",
+    "id": "8743a46c81cc40ea",
+    "code": "202611203935472274",
+    "title": "欧盟批准匈牙利54亿欧元国防贷款计划",
+    "summary": "【欧盟批准匈牙利54亿欧元国防贷款计划】欧盟理事会19日批准匈牙利修订后的国防投资计划，同意通过欧盟“欧洲安全行动”框架向匈牙利提供最高54亿欧元贷款。",
+    "content": "【欧盟批准匈牙利54亿欧元国防贷款计划】欧盟理事会19日批准匈牙利修订后的国防投资计划，同意通过欧盟“欧洲安全行动”框架向匈牙利提供最高54亿欧元贷款。",
+    "full_content": "【欧盟批准匈牙利54亿欧元国防贷款计划】欧盟理事会19日批准匈牙利修订后的国防投资计划，同意通过欧盟“欧洲安全行动”框架向匈牙利提供最高54亿欧元贷款。",
+    "sort_time": "1795127997072274",
+    "showTime": "2026-11-20 06:39:57",
+    "time": "2026-11-20 06:39:57",
+    "publish_time": "2026-11-20 06:39:57",
     "raw_data": {
-      "code": "202611193935393471",
+      "code": "202611203935472274",
       "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795100914093471",
-      "share": 2,
-      "showTime": "2026-11-19 23:08:34",
+      "pinglun_Num": 1,
+      "realSort": "1795127997072274",
+      "share": 0,
+      "showTime": "2026-11-20 06:39:57",
       "stockList": [],
-      "summary": "【波音全球集团总裁纳尔逊：中国将成全球最大民用航空市场】APEC会议期间，波音全球集团总裁布兰登·纳尔逊接受专访。他表示，中国与其他国家和地区之间的贸易往来，深刻地改变了世界，改善了无数人的生活。如果用一个词来形容中国经济发展，布兰登·纳尔逊认为是“震撼”，他表示，中国将成为全球最大的民用航空市场。纳尔逊还说，中国商飞和C919取得的成就令人惊叹。",
-      "title": "波音全球集团总裁纳尔逊：中国将成全球最大民用航空市场",
+      "summary": "【欧盟批准匈牙利54亿欧元国防贷款计划】欧盟理事会19日批准匈牙利修订后的国防投资计划，同意通过欧盟“欧洲安全行动”框架向匈牙利提供最高54亿欧元贷款。",
+      "title": "欧盟批准匈牙利54亿欧元国防贷款计划",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935393471.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935472274.html",
     "category": "其他",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 0,
-    "share_count": 2,
+    "comment_count": 1,
+    "share_count": 0,
     "tags": {
       "industries": [],
       "concepts": [
         {
           "id": "C201",
           "name": "军工",
-          "matched_keyword": "航空"
-        },
-        {
-          "id": "C203",
-          "name": "大飞机",
-          "matched_keyword": "C919"
+          "matched_keyword": "国防"
         }
       ],
       "industry_ids": [],
       "concept_ids": [
-        "C201",
-        "C203"
+        "C201"
       ]
     }
   },
   {
-    "id": "f77091ed0248c60f",
-    "code": "202611193935392769",
-    "title": "巴西央行宣布举行美元即期外汇拍卖",
-    "summary": "巴西央行宣布举行美元即期外汇拍卖。",
-    "content": "巴西央行宣布举行美元即期外汇拍卖。",
-    "full_content": "巴西央行宣布举行美元即期外汇拍卖。",
-    "sort_time": "1795100830092769",
-    "showTime": "2026-11-19 23:07:10",
-    "time": "2026-11-19 23:07:10",
-    "publish_time": "2026-11-19 23:07:10",
+    "id": "f6ada90df564b693",
+    "code": "202611193935362065",
+    "title": "阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺",
+    "summary": "【阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺】阿里巴巴集团19日发布2027财年第二季度（截至2026年9月30日的季度）财报。",
+    "content": "【阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺】阿里巴巴集团19日发布2027财年第二季度（截至2026年9月30日的季度）财报。",
+    "full_content": "【阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺】阿里巴巴集团19日发布2027财年第二季度（截至2026年9月30日的季度）财报。",
+    "sort_time": "1795127699062065",
+    "showTime": "2026-11-20 06:34:59",
+    "time": "2026-11-20 06:34:59",
+    "publish_time": "2026-11-20 06:34:59",
     "raw_data": {
-      "code": "202611193935392769",
+      "code": "202611193935362065",
       "image": [],
-      "pinglun_Num": 3,
-      "realSort": "1795100830092769",
-      "share": 1,
-      "showTime": "2026-11-19 23:07:10",
+      "pinglun_Num": 8,
+      "realSort": "1795127699062065",
+      "share": 12,
+      "showTime": "2026-11-20 06:34:59",
+      "stockList": [
+        "116.09988",
+        "106.BABA"
+      ],
+      "summary": "【阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺】阿里巴巴集团19日发布2027财年第二季度（截至2026年9月30日的季度）财报。",
+      "title": "阿里云外部经常性收入增长67% 吴泳铭：近两年中国市场算力尤为紧缺",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611193935362065.html",
+    "category": "公司",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "116.09988",
+      "106.BABA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 8,
+    "share_count": 12,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "算力"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C011"
+      ]
+    }
+  },
+  {
+    "id": "0eea03ac5cafb92b",
+    "code": "202611203935444585",
+    "title": "量身定制融资方案 银行加码支持“六张网”建设",
+    "summary": "【量身定制融资方案 银行加码支持“六张网”建设】政策层面引导金融资源向“六张网”建设领域集聚，银行业也加码布局，为相关项目量身定制融资方案。业内人士普遍认为，银行支持“六张网”建设，既有利于稳定基建投资、扩大有效需求，也有助于优化金融资源配置，为银行业提供优化资产结构、培育新的信贷增长点等机遇。",
+    "content": "【量身定制融资方案 银行加码支持“六张网”建设】政策层面引导金融资源向“六张网”建设领域集聚，银行业也加码布局，为相关项目量身定制融资方案。业内人士普遍认为，银行支持“六张网”建设，既有利于稳定基建投资、扩大有效需求，也有助于优化金融资源配置，为银行业提供优化资产结构、培育新的信贷增长点等机遇。",
+    "full_content": "【量身定制融资方案 银行加码支持“六张网”建设】政策层面引导金融资源向“六张网”建设领域集聚，银行业也加码布局，为相关项目量身定制融资方案。业内人士普遍认为，银行支持“六张网”建设，既有利于稳定基建投资、扩大有效需求，也有助于优化金融资源配置，为银行业提供优化资产结构、培育新的信贷增长点等机遇。",
+    "sort_time": "1795126936044585",
+    "showTime": "2026-11-20 06:22:16",
+    "time": "2026-11-20 06:22:16",
+    "publish_time": "2026-11-20 06:22:16",
+    "raw_data": {
+      "code": "202611203935444585",
+      "image": [],
+      "pinglun_Num": 17,
+      "realSort": "1795126936044585",
+      "share": 8,
+      "showTime": "2026-11-20 06:22:16",
+      "stockList": [
+        "116.03988",
+        "1.601988"
+      ],
+      "summary": "【量身定制融资方案 银行加码支持“六张网”建设】政策层面引导金融资源向“六张网”建设领域集聚，银行业也加码布局，为相关项目量身定制融资方案。业内人士普遍认为，银行支持“六张网”建设，既有利于稳定基建投资、扩大有效需求，也有助于优化金融资源配置，为银行业提供优化资产结构、培育新的信贷增长点等机遇。",
+      "title": "量身定制融资方案 银行加码支持“六张网”建设",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935444585.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "116.03988",
+      "1.601988"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 17,
+    "share_count": 8,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "d77b7564f35bbf42",
+    "code": "202611193935355084",
+    "title": "赣锋锂业拟最高4亿元回购A股“护盘” 股价较年内高点回撤超60%",
+    "summary": "【赣锋锂业拟最高4亿元回购A股“护盘” 股价较年内高点回撤超60%】在股价持续震荡走低之际，锂矿龙头正式端出了回购方案。赣锋锂业（SZ002460，股价34.20元，市值717.07亿元）披露公告称，公司拟使用自有资金或自筹资金，以集中竞价方式回购部分A股股份，回购资金总额在2亿元至4亿元之间，用于维护公司价值及股东权益。",
+    "content": "【赣锋锂业拟最高4亿元回购A股“护盘” 股价较年内高点回撤超60%】在股价持续震荡走低之际，锂矿龙头正式端出了回购方案。赣锋锂业（SZ002460，股价34.20元，市值717.07亿元）披露公告称，公司拟使用自有资金或自筹资金，以集中竞价方式回购部分A股股份，回购资金总额在2亿元至4亿元之间，用于维护公司价值及股东权益。",
+    "full_content": "【赣锋锂业拟最高4亿元回购A股“护盘” 股价较年内高点回撤超60%】在股价持续震荡走低之际，锂矿龙头正式端出了回购方案。赣锋锂业（SZ002460，股价34.20元，市值717.07亿元）披露公告称，公司拟使用自有资金或自筹资金，以集中竞价方式回购部分A股股份，回购资金总额在2亿元至4亿元之间，用于维护公司价值及股东权益。",
+    "sort_time": "1795126772055084",
+    "showTime": "2026-11-20 06:19:32",
+    "time": "2026-11-20 06:19:32",
+    "publish_time": "2026-11-20 06:19:32",
+    "raw_data": {
+      "code": "202611193935355084",
+      "image": [],
+      "pinglun_Num": 9,
+      "realSort": "1795126772055084",
+      "share": 11,
+      "showTime": "2026-11-20 06:19:32",
+      "stockList": [
+        "0.002460",
+        "90.BK0478"
+      ],
+      "summary": "【赣锋锂业拟最高4亿元回购A股“护盘” 股价较年内高点回撤超60%】在股价持续震荡走低之际，锂矿龙头正式端出了回购方案。赣锋锂业（SZ002460，股价34.20元，市值717.07亿元）披露公告称，公司拟使用自有资金或自筹资金，以集中竞价方式回购部分A股股份，回购资金总额在2亿元至4亿元之间，用于维护公司价值及股东权益。",
+      "title": "赣锋锂业拟最高4亿元回购A股“护盘” 股价较年内高点回撤超60%",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611193935355084.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.002460",
+      "90.BK0478"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 9,
+    "share_count": 11,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ee2d35f51b963eef",
+    "code": "202611203935468265",
+    "title": "据报道：美国白宫国家网络总监肖恩·凯恩克罗斯即将离职",
+    "summary": "据报道，美国白宫国家网络总监肖恩·凯恩克罗斯（Sean Cairncross）即将离职。",
+    "content": "据报道，美国白宫国家网络总监肖恩·凯恩克罗斯（Sean Cairncross）即将离职。",
+    "full_content": "据报道，美国白宫国家网络总监肖恩·凯恩克罗斯（Sean Cairncross）即将离职。",
+    "sort_time": "1795126683068265",
+    "showTime": "2026-11-20 06:18:03",
+    "time": "2026-11-20 06:18:03",
+    "publish_time": "2026-11-20 06:18:03",
+    "raw_data": {
+      "code": "202611203935468265",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1795126683068265",
+      "share": 0,
+      "showTime": "2026-11-20 06:18:03",
       "stockList": [],
-      "summary": "巴西央行宣布举行美元即期外汇拍卖。",
-      "title": "巴西央行宣布举行美元即期外汇拍卖",
+      "summary": "据报道，美国白宫国家网络总监肖恩·凯恩克罗斯（Sean Cairncross）即将离职。",
+      "title": "据报道：美国白宫国家网络总监肖恩·凯恩克罗斯即将离职",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935392769.html",
-    "category": "宏观",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935468265.html",
+    "category": "科技",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 3,
-    "share_count": 1,
+    "comment_count": 1,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "ac5d64063dafe9a3",
+    "code": "202611193935317437",
+    "title": "DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队",
+    "summary": "【DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队】《每日经济新闻》记者获悉，DeepSeek第二轮融资有了最新进展。天眼查显示，11月17日，DeepSeek的工商主体杭州深度求索人工智能基础技术研究有限公司完成投资人变更，新增杭州程砚企业管理咨询合伙企业（有限合伙，以下简称杭州程砚），注册资本金也由此前的1644.7496万元增加至1991.8707万元。",
+    "content": "【DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队】《每日经济新闻》记者获悉，DeepSeek第二轮融资有了最新进展。天眼查显示，11月17日，DeepSeek的工商主体杭州深度求索人工智能基础技术研究有限公司完成投资人变更，新增杭州程砚企业管理咨询合伙企业（有限合伙，以下简称杭州程砚），注册资本金也由此前的1644.7496万元增加至1991.8707万元。",
+    "full_content": "【DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队】《每日经济新闻》记者获悉，DeepSeek第二轮融资有了最新进展。天眼查显示，11月17日，DeepSeek的工商主体杭州深度求索人工智能基础技术研究有限公司完成投资人变更，新增杭州程砚企业管理咨询合伙企业（有限合伙，以下简称杭州程砚），注册资本金也由此前的1644.7496万元增加至1991.8707万元。",
+    "sort_time": "1795126360017437",
+    "showTime": "2026-11-20 06:12:40",
+    "time": "2026-11-20 06:12:40",
+    "publish_time": "2026-11-20 06:12:40",
+    "raw_data": {
+      "code": "202611193935317437",
+      "image": [],
+      "pinglun_Num": 58,
+      "realSort": "1795126360017437",
+      "share": 50,
+      "showTime": "2026-11-20 06:12:40",
+      "stockList": [
+        "116.00700",
+        "0.300750"
+      ],
+      "summary": "【DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队】《每日经济新闻》记者获悉，DeepSeek第二轮融资有了最新进展。天眼查显示，11月17日，DeepSeek的工商主体杭州深度求索人工智能基础技术研究有限公司完成投资人变更，新增杭州程砚企业管理咨询合伙企业（有限合伙，以下简称杭州程砚），注册资本金也由此前的1644.7496万元增加至1991.8707万元。",
+      "title": "DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611193935317437.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "116.00700",
+      "0.300750"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 58,
+    "share_count": 50,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C810",
+          "name": "宁德时代概念",
+          "matched_keyword": "宁德时代"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C810"
+      ]
+    }
+  },
+  {
+    "id": "6091ba12f852a278",
+    "code": "202611203935465374",
+    "title": "周五你需要知道的隔夜全球要闻",
+    "summary": "周五你需要知道的隔夜全球要闻：Anthropic上市首秀收涨17%；交易员押注欧美三大央行利率将在数年内保持高位。",
+    "content": "周五你需要知道的隔夜全球要闻：Anthropic上市首秀收涨17%；交易员押注欧美三大央行利率将在数年内保持高位。",
+    "full_content": "周五你需要知道的隔夜全球要闻：Anthropic上市首秀收涨17%；交易员押注欧美三大央行利率将在数年内保持高位。",
+    "sort_time": "1795125907065374",
+    "showTime": "2026-11-20 06:05:07",
+    "time": "2026-11-20 06:05:07",
+    "publish_time": "2026-11-20 06:05:07",
+    "raw_data": {
+      "code": "202611203935465374",
+      "image": [],
+      "pinglun_Num": 5,
+      "realSort": "1795125907065374",
+      "share": 0,
+      "showTime": "2026-11-20 06:05:07",
+      "stockList": [
+        "105.ANT",
+        "105.NVDA"
+      ],
+      "summary": "周五你需要知道的隔夜全球要闻：Anthropic上市首秀收涨17%；交易员押注欧美三大央行利率将在数年内保持高位。",
+      "title": "周五你需要知道的隔夜全球要闻",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935465374.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.ANT",
+      "105.NVDA"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 5,
+    "share_count": 0,
     "tags": {
       "industries": [
         {
@@ -1974,227 +987,37 @@
     }
   },
   {
-    "id": "c3c0f4a0f20f0511",
-    "code": "202611193935392845",
-    "title": "法国制药企业赛诺菲据悉正在评估收购美国生物制药公司Insmed的可能性",
-    "summary": "法国制药企业赛诺菲据悉正在评估收购美国生物制药公司Insmed的可能性。",
-    "content": "法国制药企业赛诺菲据悉正在评估收购美国生物制药公司Insmed的可能性。",
-    "full_content": "法国制药企业赛诺菲据悉正在评估收购美国生物制药公司Insmed的可能性。",
-    "sort_time": "1795100809092845",
-    "showTime": "2026-11-19 23:06:49",
-    "time": "2026-11-19 23:06:49",
-    "publish_time": "2026-11-19 23:06:49",
+    "id": "a40d63bd9a4ee028",
+    "code": "202611203935465435",
+    "title": "美联储12月加息25个基点的概率为96.4%",
+    "summary": "【美联储12月加息25个基点的概率为96.4%】11月20日，据CME“美联储观察”：美联储12月加息25个基点的概率为96.4%，加息50个基点的概率为3.6%。美联储到明年1月累计加息25个基点的概率30%，累计加息50个基点的概率为67.5%，累计加息75个基点的概率为2.5%。",
+    "content": "【美联储12月加息25个基点的概率为96.4%】11月20日，据CME“美联储观察”：美联储12月加息25个基点的概率为96.4%，加息50个基点的概率为3.6%。美联储到明年1月累计加息25个基点的概率30%，累计加息50个基点的概率为67.5%，累计加息75个基点的概率为2.5%。",
+    "full_content": "【美联储12月加息25个基点的概率为96.4%】11月20日，据CME“美联储观察”：美联储12月加息25个基点的概率为96.4%，加息50个基点的概率为3.6%。美联储到明年1月累计加息25个基点的概率30%，累计加息50个基点的概率为67.5%，累计加息75个基点的概率为2.5%。",
+    "sort_time": "1795125904065435",
+    "showTime": "2026-11-20 06:05:04",
+    "time": "2026-11-20 06:05:04",
+    "publish_time": "2026-11-20 06:05:04",
     "raw_data": {
-      "code": "202611193935392845",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795100809092845",
-      "share": 0,
-      "showTime": "2026-11-19 23:06:49",
-      "stockList": [
-        "105.SNY",
-        "90.BK0465"
-      ],
-      "summary": "法国制药企业赛诺菲据悉正在评估收购美国生物制药公司Insmed的可能性。",
-      "title": "法国制药企业赛诺菲据悉正在评估收购美国生物制药公司Insmed的可能性",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935392845.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.SNY",
-      "90.BK0465"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "07f7fec50195c412",
-    "code": "202611193935392585",
-    "title": "胡塞武装据悉袭击了沙特利雅得金融区的一座大楼",
-    "summary": "胡塞武装据悉袭击了沙特利雅得金融区的一座大楼。",
-    "content": "胡塞武装据悉袭击了沙特利雅得金融区的一座大楼。",
-    "full_content": "胡塞武装据悉袭击了沙特利雅得金融区的一座大楼。",
-    "sort_time": "1795100783092585",
-    "showTime": "2026-11-19 23:06:23",
-    "time": "2026-11-19 23:06:23",
-    "publish_time": "2026-11-19 23:06:23",
-    "raw_data": {
-      "code": "202611193935392585",
-      "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1795100783092585",
-      "share": 0,
-      "showTime": "2026-11-19 23:06:23",
-      "stockList": [
-        "0.159940"
-      ],
-      "summary": "胡塞武装据悉袭击了沙特利雅得金融区的一座大楼。",
-      "title": "胡塞武装据悉袭击了沙特利雅得金融区的一座大楼",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935392585.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "0.159940"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 2,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "46c30c1872e45c59",
-    "code": "202611193935390862",
-    "title": "力拓集团计划向哥伦比亚的矿产勘探项目投资1亿美元",
-    "summary": "力拓集团计划向哥伦比亚的矿产勘探项目投资1亿美元。",
-    "content": "力拓集团计划向哥伦比亚的矿产勘探项目投资1亿美元。",
-    "full_content": "力拓集团计划向哥伦比亚的矿产勘探项目投资1亿美元。",
-    "sort_time": "1795100577090862",
-    "showTime": "2026-11-19 23:02:57",
-    "time": "2026-11-19 23:02:57",
-    "publish_time": "2026-11-19 23:02:57",
-    "raw_data": {
-      "code": "202611193935390862",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795100577090862",
-      "share": 0,
-      "showTime": "2026-11-19 23:02:57",
-      "stockList": [
-        "106.RIO"
-      ],
-      "summary": "力拓集团计划向哥伦比亚的矿产勘探项目投资1亿美元。",
-      "title": "力拓集团计划向哥伦比亚的矿产勘探项目投资1亿美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935390862.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "106.RIO"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [],
-      "industry_ids": [],
-      "concept_ids": []
-    }
-  },
-  {
-    "id": "d470cdd8cdb6a42f",
-    "code": "202611193935391183",
-    "title": "马斯克24小时中国行：点赞完深圳后飞往上海",
-    "summary": "【马斯克24小时中国行：点赞完深圳后飞往上海】11月19日晚，特斯拉副总裁陶琳在微博上发文称，短短24小时的中国行，马斯克专门从深圳飞到上海，并称“马斯克说想来上海，感谢亚太以及中国团队。” 陶琳表示，辅助驾驶技术进展一日千里，人形机器人正在快速提升各项技能。在跟同事们面对面的交流中，马斯克分享的很多好消息让大家兴奋不已，并对上海超级工厂的制造实力、中国团队展现出的执行力和制造水准赞赏有加。",
-    "content": "【马斯克24小时中国行：点赞完深圳后飞往上海】11月19日晚，特斯拉副总裁陶琳在微博上发文称，短短24小时的中国行，马斯克专门从深圳飞到上海，并称“马斯克说想来上海，感谢亚太以及中国团队。” 陶琳表示，辅助驾驶技术进展一日千里，人形机器人正在快速提升各项技能。在跟同事们面对面的交流中，马斯克分享的很多好消息让大家兴奋不已，并对上海超级工厂的制造实力、中国团队展现出的执行力和制造水准赞赏有加。",
-    "full_content": "【马斯克24小时中国行：点赞完深圳后飞往上海】11月19日晚，特斯拉副总裁陶琳在微博上发文称，短短24小时的中国行，马斯克专门从深圳飞到上海，并称“马斯克说想来上海，感谢亚太以及中国团队。” 陶琳表示，辅助驾驶技术进展一日千里，人形机器人正在快速提升各项技能。在跟同事们面对面的交流中，马斯克分享的很多好消息让大家兴奋不已，并对上海超级工厂的制造实力、中国团队展现出的执行力和制造水准赞赏有加。",
-    "sort_time": "1795100534091183",
-    "showTime": "2026-11-19 23:02:14",
-    "time": "2026-11-19 23:02:14",
-    "publish_time": "2026-11-19 23:02:14",
-    "raw_data": {
-      "code": "202611193935391183",
+      "code": "202611203935465435",
       "image": [],
       "pinglun_Num": 3,
-      "realSort": "1795100534091183",
-      "share": 4,
-      "showTime": "2026-11-19 23:02:14",
-      "stockList": [
-        "105.TSLA",
-        "150.011668"
-      ],
-      "summary": "【马斯克24小时中国行：点赞完深圳后飞往上海】11月19日晚，特斯拉副总裁陶琳在微博上发文称，短短24小时的中国行，马斯克专门从深圳飞到上海，并称“马斯克说想来上海，感谢亚太以及中国团队。” 陶琳表示，辅助驾驶技术进展一日千里，人形机器人正在快速提升各项技能。在跟同事们面对面的交流中，马斯克分享的很多好消息让大家兴奋不已，并对上海超级工厂的制造实力、中国团队展现出的执行力和制造水准赞赏有加。",
-      "title": "马斯克24小时中国行：点赞完深圳后飞往上海",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935391183.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.TSLA",
-      "150.011668"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 3,
-    "share_count": 4,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C012",
-          "name": "机器人",
-          "matched_keyword": "人形机器人"
-        },
-        {
-          "id": "C805",
-          "name": "特斯拉",
-          "matched_keyword": "特斯拉"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C012",
-        "C805"
-      ]
-    }
-  },
-  {
-    "id": "444f49cb801035e6",
-    "code": "202611193935388953",
-    "title": "美国10月份领先经济指标下降0.3%",
-    "summary": "美国10月份领先经济指标下降0.3%，预期持平。",
-    "content": "美国10月份领先经济指标下降0.3%，预期持平。",
-    "full_content": "美国10月份领先经济指标下降0.3%，预期持平。",
-    "sort_time": "1795100461088953",
-    "showTime": "2026-11-19 23:01:01",
-    "time": "2026-11-19 23:01:01",
-    "publish_time": "2026-11-19 23:01:01",
-    "raw_data": {
-      "code": "202611193935388953",
-      "image": [],
-      "pinglun_Num": 7,
-      "realSort": "1795100461088953",
-      "share": 0,
-      "showTime": "2026-11-19 23:01:01",
+      "realSort": "1795125904065435",
+      "share": 1,
+      "showTime": "2026-11-20 06:05:04",
       "stockList": [],
-      "summary": "美国10月份领先经济指标下降0.3%，预期持平。",
-      "title": "美国10月份领先经济指标下降0.3%",
+      "summary": "【美联储12月加息25个基点的概率为96.4%】11月20日，据CME“美联储观察”：美联储12月加息25个基点的概率为96.4%，加息50个基点的概率为3.6%。美联储到明年1月累计加息25个基点的概率30%，累计加息50个基点的概率为67.5%，累计加息75个基点的概率为2.5%。",
+      "title": "美联储12月加息25个基点的概率为96.4%",
       "titleColor": 0
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935388953.html",
-    "category": "其他",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935465435.html",
+    "category": "国际",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
-    "comment_count": 7,
-    "share_count": 0,
+    "comment_count": 3,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2203,145 +1026,501 @@
     }
   },
   {
-    "id": "9569cca718dde210",
-    "code": "202611193935387675",
-    "title": "国内部分商品期货夜盘收盘 主力合约多数上涨",
-    "summary": "截至23:00，国内部分商品期货夜盘收盘，主力合约多数上涨。涨幅方面，焦炭涨超4%，焦煤涨近4%，丁二烯胶涨近3%，铁矿石、沥青涨超2%，PTA涨近2%，螺纹钢、聚丙烯、对二甲苯、瓶片、塑料等涨超1%；跌幅方面，玻璃、纯碱跌超1%，燃油、胶版纸、白糖、豆一、淀粉小幅下跌。",
-    "content": "截至23:00，国内部分商品期货夜盘收盘，主力合约多数上涨。涨幅方面，焦炭涨超4%，焦煤涨近4%，丁二烯胶涨近3%，铁矿石、沥青涨超2%，PTA涨近2%，螺纹钢、聚丙烯、对二甲苯、瓶片、塑料等涨超1%；跌幅方面，玻璃、纯碱跌超1%，燃油、胶版纸、白糖、豆一、淀粉小幅下跌。",
-    "full_content": "截至23:00，国内部分商品期货夜盘收盘，主力合约多数上涨。涨幅方面，焦炭涨超4%，焦煤涨近4%，丁二烯胶涨近3%，铁矿石、沥青涨超2%，PTA涨近2%，螺纹钢、聚丙烯、对二甲苯、瓶片、塑料等涨超1%；跌幅方面，玻璃、纯碱跌超1%，燃油、胶版纸、白糖、豆一、淀粉小幅下跌。",
-    "sort_time": "1795100443087675",
-    "showTime": "2026-11-19 23:00:43",
-    "time": "2026-11-19 23:00:43",
-    "publish_time": "2026-11-19 23:00:43",
+    "id": "f559325a571c8478",
+    "code": "202611193935404897",
+    "title": "长鑫科技回购方案再生变！新增护盘式回购上限30亿元 注销上限增至40亿元",
+    "summary": "【长鑫科技回购方案再生变！新增护盘式回购上限30亿元 注销上限增至40亿元】11月19日，科创板存储龙头长鑫科技（688825.SH）披露《关于调整以集中竞价交易方式回购公司股份方案的公告》，明确本次股份回购中15亿—30亿元的部分将用于维护公司价值及股东权益（即“护盘式回购”），相关股份在回购完成后予以注销并减少注册资本。按方案安排，该部分回购自股东会审议通过本次方案之日起即可实施，实施期限为3个月。",
+    "content": "【长鑫科技回购方案再生变！新增护盘式回购上限30亿元 注销上限增至40亿元】11月19日，科创板存储龙头长鑫科技（688825.SH）披露《关于调整以集中竞价交易方式回购公司股份方案的公告》，明确本次股份回购中15亿—30亿元的部分将用于维护公司价值及股东权益（即“护盘式回购”），相关股份在回购完成后予以注销并减少注册资本。按方案安排，该部分回购自股东会审议通过本次方案之日起即可实施，实施期限为3个月。",
+    "full_content": "【长鑫科技回购方案再生变！新增护盘式回购上限30亿元 注销上限增至40亿元】11月19日，科创板存储龙头长鑫科技（688825.SH）披露《关于调整以集中竞价交易方式回购公司股份方案的公告》，明确本次股份回购中15亿—30亿元的部分将用于维护公司价值及股东权益（即“护盘式回购”），相关股份在回购完成后予以注销并减少注册资本。按方案安排，该部分回购自股东会审议通过本次方案之日起即可实施，实施期限为3个月。",
+    "sort_time": "1795125467004897",
+    "showTime": "2026-11-20 05:57:47",
+    "time": "2026-11-20 05:57:47",
+    "publish_time": "2026-11-20 05:57:47",
     "raw_data": {
-      "code": "202611193935387675",
+      "code": "202611193935404897",
       "image": [],
-      "pinglun_Num": 2,
-      "realSort": "1795100443087675",
-      "share": 3,
-      "showTime": "2026-11-19 23:00:43",
-      "stockList": [],
-      "summary": "截至23:00，国内部分商品期货夜盘收盘，主力合约多数上涨。涨幅方面，焦炭涨超4%，焦煤涨近4%，丁二烯胶涨近3%，铁矿石、沥青涨超2%，PTA涨近2%，螺纹钢、聚丙烯、对二甲苯、瓶片、塑料等涨超1%；跌幅方面，玻璃、纯碱跌超1%，燃油、胶版纸、白糖、豆一、淀粉小幅下跌。",
-      "title": "国内部分商品期货夜盘收盘 主力合约多数上涨",
+      "pinglun_Num": 68,
+      "realSort": "1795125467004897",
+      "share": 25,
+      "showTime": "2026-11-20 05:57:47",
+      "stockList": [
+        "1.688825"
+      ],
+      "summary": "【长鑫科技回购方案再生变！新增护盘式回购上限30亿元 注销上限增至40亿元】11月19日，科创板存储龙头长鑫科技（688825.SH）披露《关于调整以集中竞价交易方式回购公司股份方案的公告》，明确本次股份回购中15亿—30亿元的部分将用于维护公司价值及股东权益（即“护盘式回购”），相关股份在回购完成后予以注销并减少注册资本。按方案安排，该部分回购自股东会审议通过本次方案之日起即可实施，实施期限为3个月。",
+      "title": "长鑫科技回购方案再生变！新增护盘式回购上限30亿元 注销上限增至40亿元",
       "titleColor": 3
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935387675.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611193935404897.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "1.688825"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 68,
+    "share_count": 25,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "1e71c2f50fc3a02b",
+    "code": "202611193935355975",
+    "title": "福特官宣“正式进入电池业务” 底层技术来自中国合作伙伴",
+    "summary": "【福特官宣“正式进入电池业务” 底层技术来自中国合作伙伴】美国本土汽车产量最高的车企福特确认，其位于密歇根州的电池工厂已开始发运首批磷酸铁锂（LFP）方形电芯。",
+    "content": "【福特官宣“正式进入电池业务” 底层技术来自中国合作伙伴】美国本土汽车产量最高的车企福特确认，其位于密歇根州的电池工厂已开始发运首批磷酸铁锂（LFP）方形电芯。",
+    "full_content": "【福特官宣“正式进入电池业务” 底层技术来自中国合作伙伴】美国本土汽车产量最高的车企福特确认，其位于密歇根州的电池工厂已开始发运首批磷酸铁锂（LFP）方形电芯。",
+    "sort_time": "1795125209055975",
+    "showTime": "2026-11-20 05:53:29",
+    "time": "2026-11-20 05:53:29",
+    "publish_time": "2026-11-20 05:53:29",
+    "raw_data": {
+      "code": "202611193935355975",
+      "image": [],
+      "pinglun_Num": 20,
+      "realSort": "1795125209055975",
+      "share": 7,
+      "showTime": "2026-11-20 05:53:29",
+      "stockList": [
+        "106.F",
+        "0.300750"
+      ],
+      "summary": "【福特官宣“正式进入电池业务” 底层技术来自中国合作伙伴】美国本土汽车产量最高的车企福特确认，其位于密歇根州的电池工厂已开始发运首批磷酸铁锂（LFP）方形电芯。",
+      "title": "福特官宣“正式进入电池业务” 底层技术来自中国合作伙伴",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611193935355975.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.F",
+      "0.300750"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 20,
+    "share_count": 7,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010301",
+          "name": "汽车整车",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "汽车"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010301"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "6bc41569fd9cbc23",
+    "code": "202611203935461160",
+    "title": "现货白银短线跳水 跌幅扩大至5%",
+    "summary": "【现货白银短线跳水 跌幅扩大至5%】现货黄金价格跌2.75%，报3622.39美元/盎司；现货白银价格跌5.02%，报42.77美元/盎司。",
+    "content": "【现货白银短线跳水 跌幅扩大至5%】现货黄金价格跌2.75%，报3622.39美元/盎司；现货白银价格跌5.02%，报42.77美元/盎司。",
+    "full_content": "【现货白银短线跳水 跌幅扩大至5%】现货黄金价格跌2.75%，报3622.39美元/盎司；现货白银价格跌5.02%，报42.77美元/盎司。",
+    "sort_time": "1795124952061160",
+    "showTime": "2026-11-20 05:49:12",
+    "time": "2026-11-20 05:49:12",
+    "publish_time": "2026-11-20 05:49:12",
+    "raw_data": {
+      "code": "202611203935461160",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1795124952061160",
+      "share": 3,
+      "showTime": "2026-11-20 05:49:12",
+      "stockList": [
+        "90.BK1616"
+      ],
+      "summary": "【现货白银短线跳水 跌幅扩大至5%】现货黄金价格跌2.75%，报3622.39美元/盎司；现货白银价格跌5.02%，报42.77美元/盎司。",
+      "title": "现货白银短线跳水 跌幅扩大至5%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935461160.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1616"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "54a52de3ca6cd474",
+    "code": "202611203935460150",
+    "title": "美国行业协会拉响警报：全球PCB短缺危机正在蔓延 供应紧张局面或持续至2028年年中",
+    "summary": "【美国行业协会拉响警报：全球PCB短缺危机正在蔓延 供应紧张局面或持续至2028年年中】总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，全球电子产业正面临印刷电路板（PCB）的严重短缺。这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。",
+    "content": "【美国行业协会拉响警报：全球PCB短缺危机正在蔓延 供应紧张局面或持续至2028年年中】总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，全球电子产业正面临印刷电路板（PCB）的严重短缺。这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。",
+    "full_content": "【美国行业协会拉响警报：全球PCB短缺危机正在蔓延 供应紧张局面或持续至2028年年中】总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，全球电子产业正面临印刷电路板（PCB）的严重短缺。这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。",
+    "sort_time": "1795124709060150",
+    "showTime": "2026-11-20 05:45:09",
+    "time": "2026-11-20 05:45:09",
+    "publish_time": "2026-11-20 05:45:09",
+    "raw_data": {
+      "code": "202611203935460150",
+      "image": [],
+      "pinglun_Num": 18,
+      "realSort": "1795124709060150",
+      "share": 14,
+      "showTime": "2026-11-20 05:45:09",
+      "stockList": [
+        "90.BK0877"
+      ],
+      "summary": "【美国行业协会拉响警报：全球PCB短缺危机正在蔓延 供应紧张局面或持续至2028年年中】总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，全球电子产业正面临印刷电路板（PCB）的严重短缺。这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。",
+      "title": "美国行业协会拉响警报：全球PCB短缺危机正在蔓延 供应紧张局面或持续至2028年年中",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935460150.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0877"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 18,
+    "share_count": 14,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010102",
+          "name": "电子元件",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "电路板"
+        },
+        {
+          "id": "I010302",
+          "name": "汽车零部件",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "零部件"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010102",
+        "I010302"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "0c06bd9634fb39b1",
+    "code": "202611193935415640",
+    "title": "六家公募上报 新的ETF产品有何来头?",
+    "summary": "【六家公募上报 新的ETF产品有何来头?】公募ETF（交易型开放式指数基金）再度上新。近日，《国际金融报》记者获悉，已有六家公募基金公司上报中证A500成长ETF，相关申请均获监管受理。该产品跟踪中证A500成长指数，截至10月30日，指数权重集中在电子、有色金属、通信三大行业。",
+    "content": "【六家公募上报 新的ETF产品有何来头?】公募ETF（交易型开放式指数基金）再度上新。近日，《国际金融报》记者获悉，已有六家公募基金公司上报中证A500成长ETF，相关申请均获监管受理。该产品跟踪中证A500成长指数，截至10月30日，指数权重集中在电子、有色金属、通信三大行业。",
+    "full_content": "【六家公募上报 新的ETF产品有何来头?】公募ETF（交易型开放式指数基金）再度上新。近日，《国际金融报》记者获悉，已有六家公募基金公司上报中证A500成长ETF，相关申请均获监管受理。该产品跟踪中证A500成长指数，截至10月30日，指数权重集中在电子、有色金属、通信三大行业。",
+    "sort_time": "1795124447015640",
+    "showTime": "2026-11-20 05:40:47",
+    "time": "2026-11-20 05:40:47",
+    "publish_time": "2026-11-20 05:40:47",
+    "raw_data": {
+      "code": "202611193935415640",
+      "image": [],
+      "pinglun_Num": 12,
+      "realSort": "1795124447015640",
+      "share": 6,
+      "showTime": "2026-11-20 05:40:47",
+      "stockList": [
+        "90.BK0478",
+        "0.159259"
+      ],
+      "summary": "【六家公募上报 新的ETF产品有何来头?】公募ETF（交易型开放式指数基金）再度上新。近日，《国际金融报》记者获悉，已有六家公募基金公司上报中证A500成长ETF，相关申请均获监管受理。该产品跟踪中证A500成长指数，截至10月30日，指数权重集中在电子、有色金属、通信三大行业。",
+      "title": "六家公募上报 新的ETF产品有何来头?",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611193935415640.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0478",
+      "0.159259"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 12,
+    "share_count": 6,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "公募"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "通信"
+        },
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "有色金属"
+        }
+      ],
+      "industry_ids": [
+        "I020201"
+      ],
+      "concept_ids": [
+        "C004",
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "2b3b5540b8e1143f",
+    "code": "202611203935442328",
+    "title": "锂企“试水”金属锂 加码固态电池材料",
+    "summary": "【锂企“试水”金属锂 加码固态电池材料】固态电池还在路上，锂企在材料端已有所行动。近日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目在重庆市铜梁区竣工。项目投产后，天齐锂业金属锂总产能将提升至1600吨/年。记者从天齐锂业获悉，目前产品已面向下游头部电池及高端合金客户送样验证。不只是天齐锂业。赣锋锂业青海装置正在试车，盛新锂能超薄锂带已批量供货，贝特瑞、中一科技也从负极和箔材两头向金属锂延伸。作为固态电池负极潜在的重要材料，金属锂正被逐渐推向“前排”。",
+    "content": "【锂企“试水”金属锂 加码固态电池材料】固态电池还在路上，锂企在材料端已有所行动。近日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目在重庆市铜梁区竣工。项目投产后，天齐锂业金属锂总产能将提升至1600吨/年。记者从天齐锂业获悉，目前产品已面向下游头部电池及高端合金客户送样验证。不只是天齐锂业。赣锋锂业青海装置正在试车，盛新锂能超薄锂带已批量供货，贝特瑞、中一科技也从负极和箔材两头向金属锂延伸。作为固态电池负极潜在的重要材料，金属锂正被逐渐推向“前排”。",
+    "full_content": "【锂企“试水”金属锂 加码固态电池材料】固态电池还在路上，锂企在材料端已有所行动。近日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目在重庆市铜梁区竣工。项目投产后，天齐锂业金属锂总产能将提升至1600吨/年。记者从天齐锂业获悉，目前产品已面向下游头部电池及高端合金客户送样验证。不只是天齐锂业。赣锋锂业青海装置正在试车，盛新锂能超薄锂带已批量供货，贝特瑞、中一科技也从负极和箔材两头向金属锂延伸。作为固态电池负极潜在的重要材料，金属锂正被逐渐推向“前排”。",
+    "sort_time": "1795124196042328",
+    "showTime": "2026-11-20 05:36:36",
+    "time": "2026-11-20 05:36:36",
+    "publish_time": "2026-11-20 05:36:36",
+    "raw_data": {
+      "code": "202611203935442328",
+      "image": [],
+      "pinglun_Num": 10,
+      "realSort": "1795124196042328",
+      "share": 8,
+      "showTime": "2026-11-20 05:36:36",
+      "stockList": [
+        "0.002466",
+        "116.09696"
+      ],
+      "summary": "【锂企“试水”金属锂 加码固态电池材料】固态电池还在路上，锂企在材料端已有所行动。近日，天齐锂业年产1000吨高能锂电材料电池级金属锂项目在重庆市铜梁区竣工。项目投产后，天齐锂业金属锂总产能将提升至1600吨/年。记者从天齐锂业获悉，目前产品已面向下游头部电池及高端合金客户送样验证。不只是天齐锂业。赣锋锂业青海装置正在试车，盛新锂能超薄锂带已批量供货，贝特瑞、中一科技也从负极和箔材两头向金属锂延伸。作为固态电池负极潜在的重要材料，金属锂正被逐渐推向“前排”。",
+      "title": "锂企“试水”金属锂 加码固态电池材料",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935442328.html",
+    "category": "期货",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "0.002466",
+      "116.09696"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 10,
+    "share_count": 8,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010201",
+          "name": "锂离子电池制造",
+          "level1": "制造业",
+          "level2": "电气机械和器材制造业",
+          "matched_keyword": "锂电"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C102",
+          "name": "锂电池",
+          "matched_keyword": "固态电池"
+        },
+        {
+          "id": "C501",
+          "name": "有色金属",
+          "matched_keyword": "铜"
+        }
+      ],
+      "industry_ids": [
+        "I010201"
+      ],
+      "concept_ids": [
+        "C102",
+        "C501"
+      ]
+    }
+  },
+  {
+    "id": "572283e54ae57ecd",
+    "code": "202611203935457444",
+    "title": "现货黄金价格跌超2% 失守3650美元",
+    "summary": "【现货黄金价格跌超2% 失守3650美元】现货黄金价格跌2.18%，报3643.38美元/盎司；现货白银价格跌3.55%，报43.43美元/盎司。",
+    "content": "【现货黄金价格跌超2% 失守3650美元】现货黄金价格跌2.18%，报3643.38美元/盎司；现货白银价格跌3.55%，报43.43美元/盎司。",
+    "full_content": "【现货黄金价格跌超2% 失守3650美元】现货黄金价格跌2.18%，报3643.38美元/盎司；现货白银价格跌3.55%，报43.43美元/盎司。",
+    "sort_time": "1795123593057444",
+    "showTime": "2026-11-20 05:26:33",
+    "time": "2026-11-20 05:26:33",
+    "publish_time": "2026-11-20 05:26:33",
+    "raw_data": {
+      "code": "202611203935457444",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1795123593057444",
+      "share": 4,
+      "showTime": "2026-11-20 05:26:33",
+      "stockList": [],
+      "summary": "【现货黄金价格跌超2% 失守3650美元】现货黄金价格跌2.18%，报3643.38美元/盎司；现货白银价格跌3.55%，报43.43美元/盎司。",
+      "title": "现货黄金价格跌超2% 失守3650美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935457444.html",
     "category": "期货",
     "importance": 5,
     "sentiment": "neutral",
     "related_stocks": [],
     "has_stock_mention": false,
+    "comment_count": 1,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C502",
+          "name": "黄金",
+          "matched_keyword": "黄金"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C502"
+      ]
+    }
+  },
+  {
+    "id": "be153f7fbba65f31",
+    "code": "202611203935424713",
+    "title": "Anthropic上市首日收涨17% 市值一度达到1.5万亿美元",
+    "summary": "【Anthropic上市首日收涨17% 市值一度达到1.5万亿美元】人工智能公司Anthropic（ANT）今日正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。截至收盘，公司报97.17美元/股，较发行价上涨17.1%，市值达1.27万亿美元。",
+    "content": "【Anthropic上市首日收涨17% 市值一度达到1.5万亿美元】人工智能公司Anthropic（ANT）今日正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。截至收盘，公司报97.17美元/股，较发行价上涨17.1%，市值达1.27万亿美元。",
+    "full_content": "【Anthropic上市首日收涨17% 市值一度达到1.5万亿美元】人工智能公司Anthropic（ANT）今日正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。截至收盘，公司报97.17美元/股，较发行价上涨17.1%，市值达1.27万亿美元。",
+    "sort_time": "1795123368024713",
+    "showTime": "2026-11-20 05:22:48",
+    "time": "2026-11-20 05:22:48",
+    "publish_time": "2026-11-20 05:22:48",
+    "raw_data": {
+      "code": "202611203935424713",
+      "image": [],
+      "pinglun_Num": 141,
+      "realSort": "1795123368024713",
+      "share": 250,
+      "showTime": "2026-11-20 05:22:48",
+      "stockList": [
+        "105.ANT",
+        "90.BK0800"
+      ],
+      "summary": "【Anthropic上市首日收涨17% 市值一度达到1.5万亿美元】人工智能公司Anthropic（ANT）今日正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。截至收盘，公司报97.17美元/股，较发行价上涨17.1%，市值达1.27万亿美元。",
+      "title": "Anthropic上市首日收涨17% 市值一度达到1.5万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935424713.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "105.ANT",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 141,
+    "share_count": 250,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020202",
+          "name": "投资银行",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "IPO"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        }
+      ],
+      "industry_ids": [
+        "I020202"
+      ],
+      "concept_ids": [
+        "C001"
+      ]
+    }
+  },
+  {
+    "id": "eb67adb0342351a9",
+    "code": "202611203935456649",
+    "title": "MSCI将于12月1日将ANTHROPIC纳入大盘股指数",
+    "summary": "【MSCI将于12月1日将ANTHROPIC纳入大盘股指数】MSCI将于12月1日把Anthropic纳入大盘股指数。富时罗素表示，Anthropic将被快速纳入富时全球股票指数系列。",
+    "content": "【MSCI将于12月1日将ANTHROPIC纳入大盘股指数】MSCI将于12月1日把Anthropic纳入大盘股指数。富时罗素表示，Anthropic将被快速纳入富时全球股票指数系列。",
+    "full_content": "【MSCI将于12月1日将ANTHROPIC纳入大盘股指数】MSCI将于12月1日把Anthropic纳入大盘股指数。富时罗素表示，Anthropic将被快速纳入富时全球股票指数系列。",
+    "sort_time": "1795123310056649",
+    "showTime": "2026-11-20 05:21:50",
+    "time": "2026-11-20 05:21:50",
+    "publish_time": "2026-11-20 05:21:50",
+    "raw_data": {
+      "code": "202611203935456649",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1795123310056649",
+      "share": 1,
+      "showTime": "2026-11-20 05:21:50",
+      "stockList": [
+        "105.ANT",
+        "90.BK0821"
+      ],
+      "summary": "【MSCI将于12月1日将ANTHROPIC纳入大盘股指数】MSCI将于12月1日把Anthropic纳入大盘股指数。富时罗素表示，Anthropic将被快速纳入富时全球股票指数系列。",
+      "title": "MSCI将于12月1日将ANTHROPIC纳入大盘股指数",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935456649.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.ANT",
+      "90.BK0821"
+    ],
+    "has_stock_mention": true,
     "comment_count": 2,
-    "share_count": 3,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C504",
-          "name": "钢铁",
-          "matched_keyword": "螺纹钢"
-        },
-        {
-          "id": "C505",
-          "name": "煤炭",
-          "matched_keyword": "焦煤"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C504",
-        "C505"
-      ]
-    }
-  },
-  {
-    "id": "b9c3cca0d93dba9f",
-    "code": "202611193935385056",
-    "title": "乌克兰方面表示：有无人机残骸落在该国外交部院内",
-    "summary": "乌克兰方面表示，有无人机残骸落在该国外交部院内。",
-    "content": "乌克兰方面表示，有无人机残骸落在该国外交部院内。",
-    "full_content": "乌克兰方面表示，有无人机残骸落在该国外交部院内。",
-    "sort_time": "1795100119085056",
-    "showTime": "2026-11-19 22:55:19",
-    "time": "2026-11-19 22:55:19",
-    "publish_time": "2026-11-19 22:55:19",
-    "raw_data": {
-      "code": "202611193935385056",
-      "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795100119085056",
-      "share": 0,
-      "showTime": "2026-11-19 22:55:19",
-      "stockList": [
-        "90.BK0704"
-      ],
-      "summary": "乌克兰方面表示，有无人机残骸落在该国外交部院内。",
-      "title": "乌克兰方面表示：有无人机残骸落在该国外交部院内",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935385056.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "90.BK0704"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 0,
-    "share_count": 0,
-    "tags": {
-      "industries": [],
-      "concepts": [
-        {
-          "id": "C205",
-          "name": "低空经济",
-          "matched_keyword": "无人机"
-        }
-      ],
-      "industry_ids": [],
-      "concept_ids": [
-        "C205"
-      ]
-    }
-  },
-  {
-    "id": "c0abd15514acd82b",
-    "code": "202611193935385438",
-    "title": "Anthropic上市首日开盘价预计为99.60美元",
-    "summary": "Anthropic在纳斯达克上市首日开盘价预计为99.60美元，发行价为每股83美元。",
-    "content": "Anthropic在纳斯达克上市首日开盘价预计为99.60美元，发行价为每股83美元。",
-    "full_content": "Anthropic在纳斯达克上市首日开盘价预计为99.60美元，发行价为每股83美元。",
-    "sort_time": "1795100108085438",
-    "showTime": "2026-11-19 22:55:08",
-    "time": "2026-11-19 22:55:08",
-    "publish_time": "2026-11-19 22:55:08",
-    "raw_data": {
-      "code": "202611193935385438",
-      "image": [],
-      "pinglun_Num": 15,
-      "realSort": "1795100108085438",
-      "share": 5,
-      "showTime": "2026-11-19 22:55:08",
-      "stockList": [
-        "105.ANT"
-      ],
-      "summary": "Anthropic在纳斯达克上市首日开盘价预计为99.60美元，发行价为每股83美元。",
-      "title": "Anthropic上市首日开盘价预计为99.60美元",
-      "titleColor": 0
-    },
-    "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935385438.html",
-    "category": "其他",
-    "importance": 6,
-    "sentiment": "neutral",
-    "related_stocks": [
-      "105.ANT"
-    ],
-    "has_stock_mention": true,
-    "comment_count": 15,
-    "share_count": 5,
+    "share_count": 1,
     "tags": {
       "industries": [],
       "concepts": [],
@@ -2350,43 +1529,166 @@
     }
   },
   {
-    "id": "225af1be957d5501",
-    "code": "202611193935385230",
-    "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
-    "summary": "【SpaceX计划周四进行至少320亿美元AI芯片相关债务融资】马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
-    "content": "【SpaceX计划周四进行至少320亿美元AI芯片相关债务融资】马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
-    "full_content": "【SpaceX计划周四进行至少320亿美元AI芯片相关债务融资】马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
-    "sort_time": "1795100025085230",
-    "showTime": "2026-11-19 22:53:45",
-    "time": "2026-11-19 22:53:45",
-    "publish_time": "2026-11-19 22:53:45",
+    "id": "47e5ace6603bc10b",
+    "code": "202611203935455568",
+    "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
+    "summary": "【普京：克里米亚大桥遭袭后 不再讨论海上停火】俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。",
+    "content": "【普京：克里米亚大桥遭袭后 不再讨论海上停火】俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。",
+    "full_content": "【普京：克里米亚大桥遭袭后 不再讨论海上停火】俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。",
+    "sort_time": "1795123038055568",
+    "showTime": "2026-11-20 05:17:18",
+    "time": "2026-11-20 05:17:18",
+    "publish_time": "2026-11-20 05:17:18",
     "raw_data": {
-      "code": "202611193935385230",
+      "code": "202611203935455568",
       "image": [],
-      "pinglun_Num": 0,
-      "realSort": "1795100025085230",
-      "share": 3,
-      "showTime": "2026-11-19 22:53:45",
+      "pinglun_Num": 7,
+      "realSort": "1795123038055568",
+      "share": 8,
+      "showTime": "2026-11-20 05:17:18",
       "stockList": [
-        "105.SPCX",
-        "90.BK1127"
+        "0.159945",
+        "150.014238"
       ],
-      "summary": "【SpaceX计划周四进行至少320亿美元AI芯片相关债务融资】马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
-      "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
-      "titleColor": 0
+      "summary": "【普京：克里米亚大桥遭袭后 不再讨论海上停火】俄罗斯总统普京19日表示，在克里米亚大桥遭袭后，俄方不会就海上停火或停止攻击能源设施与有关方面进行谈判。",
+      "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
+      "titleColor": 3
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935385230.html",
-    "category": "科技",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935455568.html",
+    "category": "其他",
     "importance": 6,
     "sentiment": "neutral",
     "related_stocks": [
-      "105.SPCX",
-      "90.BK1127"
+      "0.159945",
+      "150.014238"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 7,
+    "share_count": 8,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "e70f9e0bfafb98d4",
+    "code": "202611203935455434",
+    "title": "富时A50期指连续夜盘收跌1.12% 报12553点",
+    "summary": "富时A50期指连续夜盘收跌1.12%，报12553点。",
+    "content": "富时A50期指连续夜盘收跌1.12%，报12553点。",
+    "full_content": "富时A50期指连续夜盘收跌1.12%，报12553点。",
+    "sort_time": "1795123003055434",
+    "showTime": "2026-11-20 05:16:43",
+    "time": "2026-11-20 05:16:43",
+    "publish_time": "2026-11-20 05:16:43",
+    "raw_data": {
+      "code": "202611203935455434",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1795123003055434",
+      "share": 3,
+      "showTime": "2026-11-20 05:16:43",
+      "stockList": [],
+      "summary": "富时A50期指连续夜盘收跌1.12%，报12553点。",
+      "title": "富时A50期指连续夜盘收跌1.12% 报12553点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935455434.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 3,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "29c20c9460b73daf",
+    "code": "202611203935455342",
+    "title": "日用消费品巨头宝洁计划到2030年裁减20%至30%的全球制造岗位",
+    "summary": "日用消费品巨头宝洁计划到2030年裁减20%至30%的全球制造岗位。",
+    "content": "日用消费品巨头宝洁计划到2030年裁减20%至30%的全球制造岗位。",
+    "full_content": "日用消费品巨头宝洁计划到2030年裁减20%至30%的全球制造岗位。",
+    "sort_time": "1795122834055342",
+    "showTime": "2026-11-20 05:13:54",
+    "time": "2026-11-20 05:13:54",
+    "publish_time": "2026-11-20 05:13:54",
+    "raw_data": {
+      "code": "202611203935455342",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795122834055342",
+      "share": 0,
+      "showTime": "2026-11-20 05:13:54",
+      "stockList": [
+        "106.PG",
+        "150.011668"
+      ],
+      "summary": "日用消费品巨头宝洁计划到2030年裁减20%至30%的全球制造岗位。",
+      "title": "日用消费品巨头宝洁计划到2030年裁减20%至30%的全球制造岗位",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935455342.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.PG",
+      "150.011668"
     ],
     "has_stock_mention": true,
     "comment_count": 0,
-    "share_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5e3cea0bb1a99547",
+    "code": "202611203935453672",
+    "title": "美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元",
+    "summary": "【美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元】美三大股指集体收跌。道琼斯指数跌2.19%，标普500指数跌2.02%，纳斯达克综合指数跌2.25%。Anthropic纳斯达克首秀，较发行价上涨17.1%，报97.17美元/股，市值达1.27万亿美元。AMD重挫近8%，做空机构Hunterbrook警告称其采用了与英伟达类似的“循环交易”。受此拖累，芯片股高开低走，英伟达跌超3%，美光科技跌超2%。",
+    "content": "【美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元】美三大股指集体收跌。道琼斯指数跌2.19%，标普500指数跌2.02%，纳斯达克综合指数跌2.25%。Anthropic纳斯达克首秀，较发行价上涨17.1%，报97.17美元/股，市值达1.27万亿美元。AMD重挫近8%，做空机构Hunterbrook警告称其采用了与英伟达类似的“循环交易”。受此拖累，芯片股高开低走，英伟达跌超3%，美光科技跌超2%。",
+    "full_content": "【美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元】美三大股指集体收跌。道琼斯指数跌2.19%，标普500指数跌2.02%，纳斯达克综合指数跌2.25%。Anthropic纳斯达克首秀，较发行价上涨17.1%，报97.17美元/股，市值达1.27万亿美元。AMD重挫近8%，做空机构Hunterbrook警告称其采用了与英伟达类似的“循环交易”。受此拖累，芯片股高开低走，英伟达跌超3%，美光科技跌超2%。",
+    "sort_time": "1795122035053672",
+    "showTime": "2026-11-20 05:00:35",
+    "time": "2026-11-20 05:00:35",
+    "publish_time": "2026-11-20 05:00:35",
+    "raw_data": {
+      "code": "202611203935453672",
+      "image": [],
+      "pinglun_Num": 4,
+      "realSort": "1795122035053672",
+      "share": 13,
+      "showTime": "2026-11-20 05:00:35",
+      "stockList": [],
+      "summary": "【美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元】美三大股指集体收跌。道琼斯指数跌2.19%，标普500指数跌2.02%，纳斯达克综合指数跌2.25%。Anthropic纳斯达克首秀，较发行价上涨17.1%，报97.17美元/股，市值达1.27万亿美元。AMD重挫近8%，做空机构Hunterbrook警告称其采用了与英伟达类似的“循环交易”。受此拖累，芯片股高开低走，英伟达跌超3%，美光科技跌超2%。",
+      "title": "美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935453672.html",
+    "category": "科技",
+    "importance": 5,
+    "sentiment": "bullish",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 4,
+    "share_count": 13,
     "tags": {
       "industries": [
         {
@@ -2399,11 +1701,6 @@
       ],
       "concepts": [
         {
-          "id": "C001",
-          "name": "人工智能",
-          "matched_keyword": "AI"
-        },
-        {
           "id": "C002",
           "name": "芯片",
           "matched_keyword": "芯片"
@@ -2413,61 +1710,990 @@
         "I010101"
       ],
       "concept_ids": [
-        "C001",
         "C002"
       ]
     }
   },
   {
-    "id": "c962dac3da466067",
-    "code": "202611193935384310",
-    "title": "中概股多数上涨 拼多多涨近13%",
-    "summary": "【中概股多数上涨 拼多多涨近13%】中概股多数上涨，拼多多涨12.7%，富途涨8%，脑再生科技涨5.33%，阿里巴巴涨4.22%，慧荣科技涨4.01%。",
-    "content": "【中概股多数上涨 拼多多涨近13%】中概股多数上涨，拼多多涨12.7%，富途涨8%，脑再生科技涨5.33%，阿里巴巴涨4.22%，慧荣科技涨4.01%。",
-    "full_content": "【中概股多数上涨 拼多多涨近13%】中概股多数上涨，拼多多涨12.7%，富途涨8%，脑再生科技涨5.33%，阿里巴巴涨4.22%，慧荣科技涨4.01%。",
-    "sort_time": "1795099895084310",
-    "showTime": "2026-11-19 22:51:35",
-    "time": "2026-11-19 22:51:35",
-    "publish_time": "2026-11-19 22:51:35",
+    "id": "54c0ad3dea9e4b1b",
+    "code": "202611193935389929",
+    "title": "又跌了！国内金价失守800元/克 后市怎么走？",
+    "summary": "【又跌了！国内金价失守800元/克 后市怎么走？】金价跌势仍在延续。11月19日，国际金价再度震荡下探。伦敦金现在前一交易日跌破3800美元/盎司整数关口的基础上，再度失守3700美元/盎司关口，刷新年内低点。",
+    "content": "【又跌了！国内金价失守800元/克 后市怎么走？】金价跌势仍在延续。11月19日，国际金价再度震荡下探。伦敦金现在前一交易日跌破3800美元/盎司整数关口的基础上，再度失守3700美元/盎司关口，刷新年内低点。",
+    "full_content": "【又跌了！国内金价失守800元/克 后市怎么走？】金价跌势仍在延续。11月19日，国际金价再度震荡下探。伦敦金现在前一交易日跌破3800美元/盎司整数关口的基础上，再度失守3700美元/盎司关口，刷新年内低点。",
+    "sort_time": "1795122000089929",
+    "showTime": "2026-11-20 05:00:00",
+    "time": "2026-11-20 05:00:00",
+    "publish_time": "2026-11-20 05:00:00",
     "raw_data": {
-      "code": "202611193935384310",
+      "code": "202611193935389929",
       "image": [],
-      "pinglun_Num": 11,
-      "realSort": "1795099895084310",
-      "share": 6,
-      "showTime": "2026-11-19 22:51:35",
+      "pinglun_Num": 109,
+      "realSort": "1795122000089929",
+      "share": 92,
+      "showTime": "2026-11-20 05:00:00",
       "stockList": [
-        "105.PDD",
-        "105.FUTU"
+        "1.600655",
+        "1.600612"
       ],
-      "summary": "【中概股多数上涨 拼多多涨近13%】中概股多数上涨，拼多多涨12.7%，富途涨8%，脑再生科技涨5.33%，阿里巴巴涨4.22%，慧荣科技涨4.01%。",
-      "title": "中概股多数上涨 拼多多涨近13%",
+      "summary": "【又跌了！国内金价失守800元/克 后市怎么走？】金价跌势仍在延续。11月19日，国际金价再度震荡下探。伦敦金现在前一交易日跌破3800美元/盎司整数关口的基础上，再度失守3700美元/盎司关口，刷新年内低点。",
+      "title": "又跌了！国内金价失守800元/克 后市怎么走？",
       "titleColor": 3
     },
     "source": "东方财富快讯",
-    "url": "https://kuaixun.eastmoney.com/news/202611193935384310.html",
+    "url": "https://kuaixun.eastmoney.com/news/202611193935389929.html",
     "category": "其他",
     "importance": 6,
-    "sentiment": "bullish",
+    "sentiment": "bearish",
     "related_stocks": [
-      "105.PDD",
-      "105.FUTU"
+      "1.600655",
+      "1.600612"
     ],
     "has_stock_mention": true,
-    "comment_count": 11,
-    "share_count": 6,
+    "comment_count": 109,
+    "share_count": 92,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7859f31f9e11ebb6",
+    "code": "202611203935452776",
+    "title": "法巴银行强化美联储加息预期 现预计将连续三次加息",
+    "summary": "【法巴银行强化美联储加息预期 现预计将连续三次加息】法国巴黎银行（BNPParibas）在其预测中增加了一次3月的美联储加息，预计在12月和1月行动之后，将迎来连续第三次25个基点的加息。",
+    "content": "【法巴银行强化美联储加息预期 现预计将连续三次加息】法国巴黎银行（BNPParibas）在其预测中增加了一次3月的美联储加息，预计在12月和1月行动之后，将迎来连续第三次25个基点的加息。",
+    "full_content": "【法巴银行强化美联储加息预期 现预计将连续三次加息】法国巴黎银行（BNPParibas）在其预测中增加了一次3月的美联储加息，预计在12月和1月行动之后，将迎来连续第三次25个基点的加息。",
+    "sort_time": "1795121465052776",
+    "showTime": "2026-11-20 04:51:05",
+    "time": "2026-11-20 04:51:05",
+    "publish_time": "2026-11-20 04:51:05",
+    "raw_data": {
+      "code": "202611203935452776",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795121465052776",
+      "share": 3,
+      "showTime": "2026-11-20 04:51:05",
+      "stockList": [
+        "185.BNP",
+        "90.BK1283"
+      ],
+      "summary": "【法巴银行强化美联储加息预期 现预计将连续三次加息】法国巴黎银行（BNPParibas）在其预测中增加了一次3月的美联储加息，预计在12月和1月行动之后，将迎来连续第三次25个基点的加息。",
+      "title": "法巴银行强化美联储加息预期 现预计将连续三次加息",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935452776.html",
+    "category": "国际",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "185.BNP",
+      "90.BK1283"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 3,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402"
+      ]
+    }
+  },
+  {
+    "id": "64eb38f346539204",
+    "code": "202611203935451985",
+    "title": "比特币跌至四个月来新低",
+    "summary": "比特币跌至四个月来新低，最新下跌0.6%，至61,876.23美元。",
+    "content": "比特币跌至四个月来新低，最新下跌0.6%，至61,876.23美元。",
+    "full_content": "比特币跌至四个月来新低，最新下跌0.6%，至61,876.23美元。",
+    "sort_time": "1795120791051985",
+    "showTime": "2026-11-20 04:39:51",
+    "time": "2026-11-20 04:39:51",
+    "publish_time": "2026-11-20 04:39:51",
+    "raw_data": {
+      "code": "202611203935451985",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795120791051985",
+      "share": 2,
+      "showTime": "2026-11-20 04:39:51",
+      "stockList": [
+        "90.BK0830"
+      ],
+      "summary": "比特币跌至四个月来新低，最新下跌0.6%，至61,876.23美元。",
+      "title": "比特币跌至四个月来新低",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935451985.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "bearish",
+    "related_stocks": [
+      "90.BK0830"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
     "tags": {
       "industries": [],
       "concepts": [
         {
-          "id": "C804",
-          "name": "拼多多概念",
-          "matched_keyword": "拼多多"
+          "id": "C008",
+          "name": "区块链",
+          "matched_keyword": "比特币"
         }
       ],
       "industry_ids": [],
       "concept_ids": [
-        "C804"
+        "C008"
+      ]
+    }
+  },
+  {
+    "id": "affd5308512b3f5c",
+    "code": "202611203935450160",
+    "title": "美联储古尔斯比称：人工智能数据中心建设加剧通胀",
+    "summary": "美联储古尔斯比称，人工智能数据中心建设加剧通胀。",
+    "content": "美联储古尔斯比称，人工智能数据中心建设加剧通胀。",
+    "full_content": "美联储古尔斯比称，人工智能数据中心建设加剧通胀。",
+    "sort_time": "1795120313050160",
+    "showTime": "2026-11-20 04:31:53",
+    "time": "2026-11-20 04:31:53",
+    "publish_time": "2026-11-20 04:31:53",
+    "raw_data": {
+      "code": "202611203935450160",
+      "image": [],
+      "pinglun_Num": 11,
+      "realSort": "1795120313050160",
+      "share": 4,
+      "showTime": "2026-11-20 04:31:53",
+      "stockList": [
+        "90.BK0800",
+        "90.BK0922"
+      ],
+      "summary": "美联储古尔斯比称，人工智能数据中心建设加剧通胀。",
+      "title": "美联储古尔斯比称：人工智能数据中心建设加剧通胀",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935450160.html",
+    "category": "宏观",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK0800",
+      "90.BK0922"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 11,
+    "share_count": 4,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "人工智能"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "bfccf8fa08964873",
+    "code": "202611203935443451",
+    "title": "基金净值透露调仓方向 机构探寻下阶段确定性",
+    "summary": "【基金净值透露调仓方向 机构探寻下阶段确定性】11月以来，海外市场波动及事件性因素扰动，A股科技板块震荡未止，机构投资者近期的调仓动作也随之浮出水面。数据显示：截至11月19日收盘，光模块、PCB两大市场热点板块本月以来跌幅均在10%上下，但区间振幅均超过25%；与此同时，以中芯国际、华虹宏力、寒武纪为代表的国产半导体产业链个股纷纷上涨，长江半导体设备指数上涨19.8%，区间振幅高达29.70%。",
+    "content": "【基金净值透露调仓方向 机构探寻下阶段确定性】11月以来，海外市场波动及事件性因素扰动，A股科技板块震荡未止，机构投资者近期的调仓动作也随之浮出水面。数据显示：截至11月19日收盘，光模块、PCB两大市场热点板块本月以来跌幅均在10%上下，但区间振幅均超过25%；与此同时，以中芯国际、华虹宏力、寒武纪为代表的国产半导体产业链个股纷纷上涨，长江半导体设备指数上涨19.8%，区间振幅高达29.70%。",
+    "full_content": "【基金净值透露调仓方向 机构探寻下阶段确定性】11月以来，海外市场波动及事件性因素扰动，A股科技板块震荡未止，机构投资者近期的调仓动作也随之浮出水面。数据显示：截至11月19日收盘，光模块、PCB两大市场热点板块本月以来跌幅均在10%上下，但区间振幅均超过25%；与此同时，以中芯国际、华虹宏力、寒武纪为代表的国产半导体产业链个股纷纷上涨，长江半导体设备指数上涨19.8%，区间振幅高达29.70%。",
+    "sort_time": "1795120225043451",
+    "showTime": "2026-11-20 04:30:25",
+    "time": "2026-11-20 04:30:25",
+    "publish_time": "2026-11-20 04:30:25",
+    "raw_data": {
+      "code": "202611203935443451",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1795120225043451",
+      "share": 5,
+      "showTime": "2026-11-20 04:30:25",
+      "stockList": [
+        "0.300308",
+        "116.03308"
+      ],
+      "summary": "【基金净值透露调仓方向 机构探寻下阶段确定性】11月以来，海外市场波动及事件性因素扰动，A股科技板块震荡未止，机构投资者近期的调仓动作也随之浮出水面。数据显示：截至11月19日收盘，光模块、PCB两大市场热点板块本月以来跌幅均在10%上下，但区间振幅均超过25%；与此同时，以中芯国际、华虹宏力、寒武纪为代表的国产半导体产业链个股纷纷上涨，长江半导体设备指数上涨19.8%，区间振幅高达29.70%。",
+      "title": "基金净值透露调仓方向 机构探寻下阶段确定性",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935443451.html",
+    "category": "股市",
+    "importance": 6,
+    "sentiment": "bullish",
+    "related_stocks": [
+      "0.300308",
+      "116.03308"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 5,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010101",
+          "name": "半导体",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "半导体"
+        },
+        {
+          "id": "I010102",
+          "name": "电子元件",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "PCB"
+        },
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "光模块"
+        },
+        {
+          "id": "I020201",
+          "name": "基金管理",
+          "level1": "金融业",
+          "level2": "资本市场服务",
+          "matched_keyword": "基金"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C002",
+          "name": "芯片",
+          "matched_keyword": "半导体"
+        }
+      ],
+      "industry_ids": [
+        "I010101",
+        "I010102",
+        "I010104",
+        "I020201"
+      ],
+      "concept_ids": [
+        "C002"
+      ]
+    }
+  },
+  {
+    "id": "bda041ffaebadeae",
+    "code": "202611203935449768",
+    "title": "英伟达与微软将加速计算从Azure扩展至Windows PC",
+    "summary": "英伟达表示，正在与微软扩展全栈合作。旗下VeraRubinNVL72系统现已在微软Azure数据中心运行，使企业能够在云端和本地WindowsPC上定制AI模型并部署应用。",
+    "content": "英伟达表示，正在与微软扩展全栈合作。旗下VeraRubinNVL72系统现已在微软Azure数据中心运行，使企业能够在云端和本地WindowsPC上定制AI模型并部署应用。",
+    "full_content": "英伟达表示，正在与微软扩展全栈合作。旗下VeraRubinNVL72系统现已在微软Azure数据中心运行，使企业能够在云端和本地WindowsPC上定制AI模型并部署应用。",
+    "sort_time": "1795119447049768",
+    "showTime": "2026-11-20 04:17:27",
+    "time": "2026-11-20 04:17:27",
+    "publish_time": "2026-11-20 04:17:27",
+    "raw_data": {
+      "code": "202611203935449768",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795119447049768",
+      "share": 2,
+      "showTime": "2026-11-20 04:17:27",
+      "stockList": [
+        "105.NVDA",
+        "105.MSFT"
+      ],
+      "summary": "英伟达表示，正在与微软扩展全栈合作。旗下VeraRubinNVL72系统现已在微软Azure数据中心运行，使企业能够在云端和本地WindowsPC上定制AI模型并部署应用。",
+      "title": "英伟达与微软将加速计算从Azure扩展至Windows PC",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935449768.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.NVDA",
+      "105.MSFT"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C001",
+        "C006"
+      ]
+    }
+  },
+  {
+    "id": "b95a41efefc1ea2b",
+    "code": "202611203935449023",
+    "title": "特斯拉表示：将Cybercab扩展至美国达拉斯",
+    "summary": "特斯拉表示，将Cybercab扩展至美国达拉斯。",
+    "content": "特斯拉表示，将Cybercab扩展至美国达拉斯。",
+    "full_content": "特斯拉表示，将Cybercab扩展至美国达拉斯。",
+    "sort_time": "1795118729049023",
+    "showTime": "2026-11-20 04:05:29",
+    "time": "2026-11-20 04:05:29",
+    "publish_time": "2026-11-20 04:05:29",
+    "raw_data": {
+      "code": "202611203935449023",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795118729049023",
+      "share": 0,
+      "showTime": "2026-11-20 04:05:29",
+      "stockList": [
+        "105.TSLA",
+        "90.BK0644"
+      ],
+      "summary": "特斯拉表示，将Cybercab扩展至美国达拉斯。",
+      "title": "特斯拉表示：将Cybercab扩展至美国达拉斯",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935449023.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.TSLA",
+      "90.BK0644"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C805",
+          "name": "特斯拉",
+          "matched_keyword": "特斯拉"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C805"
+      ]
+    }
+  },
+  {
+    "id": "707979810e0dc4b3",
+    "code": "202611203935448094",
+    "title": "富时中国A50指数期货跌幅扩大",
+    "summary": "富时中国A50指数期货跌幅扩大，现跌1.0%，最新报12566.0点。",
+    "content": "富时中国A50指数期货跌幅扩大，现跌1.0%，最新报12566.0点。",
+    "full_content": "富时中国A50指数期货跌幅扩大，现跌1.0%，最新报12566.0点。",
+    "sort_time": "1795118538048094",
+    "showTime": "2026-11-20 04:02:18",
+    "time": "2026-11-20 04:02:18",
+    "publish_time": "2026-11-20 04:02:18",
+    "raw_data": {
+      "code": "202611203935448094",
+      "image": [],
+      "pinglun_Num": 108,
+      "realSort": "1795118538048094",
+      "share": 67,
+      "showTime": "2026-11-20 04:02:18",
+      "stockList": [],
+      "summary": "富时中国A50指数期货跌幅扩大，现跌1.0%，最新报12566.0点。",
+      "title": "富时中国A50指数期货跌幅扩大",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935448094.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 108,
+    "share_count": 67,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "7b0a17318c294543",
+    "code": "202611203935447689",
+    "title": "美国行业协会拉响警报：全球电路板短缺危机正在蔓延 供应紧张局面或持续至2028年年中",
+    "summary": "【美国行业协会拉响警报：全球电路板短缺危机正在蔓延 供应紧张局面或持续至2028年年中】全球电子产业正面临印刷电路板（PCB）的严重短缺。总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。",
+    "content": "【美国行业协会拉响警报：全球电路板短缺危机正在蔓延 供应紧张局面或持续至2028年年中】全球电子产业正面临印刷电路板（PCB）的严重短缺。总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。",
+    "full_content": "【美国行业协会拉响警报：全球电路板短缺危机正在蔓延 供应紧张局面或持续至2028年年中】全球电子产业正面临印刷电路板（PCB）的严重短缺。总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。",
+    "sort_time": "1795118053047689",
+    "showTime": "2026-11-20 03:54:13",
+    "time": "2026-11-20 03:54:13",
+    "publish_time": "2026-11-20 03:54:13",
+    "raw_data": {
+      "code": "202611203935447689",
+      "image": [],
+      "pinglun_Num": 430,
+      "realSort": "1795118053047689",
+      "share": 852,
+      "showTime": "2026-11-20 03:54:13",
+      "stockList": [
+        "150.011668",
+        "1007.BK000053"
+      ],
+      "summary": "【美国行业协会拉响警报：全球电路板短缺危机正在蔓延 供应紧张局面或持续至2028年年中】全球电子产业正面临印刷电路板（PCB）的严重短缺。总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。",
+      "title": "美国行业协会拉响警报：全球电路板短缺危机正在蔓延 供应紧张局面或持续至2028年年中",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935447689.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "150.011668",
+      "1007.BK000053"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 430,
+    "share_count": 852,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010102",
+          "name": "电子元件",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "电路板"
+        },
+        {
+          "id": "I010302",
+          "name": "汽车零部件",
+          "level1": "制造业",
+          "level2": "汽车制造业",
+          "matched_keyword": "零部件"
+        }
+      ],
+      "concepts": [],
+      "industry_ids": [
+        "I010102",
+        "I010302"
+      ],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "85015b19216e9b76",
+    "code": "202611203935446271",
+    "title": "苹果相机业务迎人事震荡 核心负责人突然离职",
+    "summary": "【苹果相机业务迎人事震荡 核心负责人突然离职】知名苹果爆料人马克·古尔曼发文称，苹果公司负责相机及照片软件业务的高管已经离职。",
+    "content": "【苹果相机业务迎人事震荡 核心负责人突然离职】知名苹果爆料人马克·古尔曼发文称，苹果公司负责相机及照片软件业务的高管已经离职。",
+    "full_content": "【苹果相机业务迎人事震荡 核心负责人突然离职】知名苹果爆料人马克·古尔曼发文称，苹果公司负责相机及照片软件业务的高管已经离职。",
+    "sort_time": "1795116760046271",
+    "showTime": "2026-11-20 03:32:40",
+    "time": "2026-11-20 03:32:40",
+    "publish_time": "2026-11-20 03:32:40",
+    "raw_data": {
+      "code": "202611203935446271",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1795116760046271",
+      "share": 2,
+      "showTime": "2026-11-20 03:32:40",
+      "stockList": [
+        "105.AAPL",
+        "90.BK0666"
+      ],
+      "summary": "【苹果相机业务迎人事震荡 核心负责人突然离职】知名苹果爆料人马克·古尔曼发文称，苹果公司负责相机及照片软件业务的高管已经离职。",
+      "title": "苹果相机业务迎人事震荡 核心负责人突然离职",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935446271.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.AAPL",
+      "90.BK0666"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 2,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C807",
+          "name": "苹果概念",
+          "matched_keyword": "苹果"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C807"
+      ]
+    }
+  },
+  {
+    "id": "a9dde74b84513d10",
+    "code": "202611203935446347",
+    "title": "WTI原油期货结算价为83.21美元/桶 微跌0.06%",
+    "summary": "【WTI原油期货结算价为83.21美元/桶 微跌0.06%】WTI原油期货结算价为83.21美元/桶，微跌0.06%；布伦特原油期货结算价为91.98美元/桶，微涨0.03%。",
+    "content": "【WTI原油期货结算价为83.21美元/桶 微跌0.06%】WTI原油期货结算价为83.21美元/桶，微跌0.06%；布伦特原油期货结算价为91.98美元/桶，微涨0.03%。",
+    "full_content": "【WTI原油期货结算价为83.21美元/桶 微跌0.06%】WTI原油期货结算价为83.21美元/桶，微跌0.06%；布伦特原油期货结算价为91.98美元/桶，微涨0.03%。",
+    "sort_time": "1795116696046347",
+    "showTime": "2026-11-20 03:31:36",
+    "time": "2026-11-20 03:31:36",
+    "publish_time": "2026-11-20 03:31:36",
+    "raw_data": {
+      "code": "202611203935446347",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795116696046347",
+      "share": 0,
+      "showTime": "2026-11-20 03:31:36",
+      "stockList": [],
+      "summary": "【WTI原油期货结算价为83.21美元/桶 微跌0.06%】WTI原油期货结算价为83.21美元/桶，微跌0.06%；布伦特原油期货结算价为91.98美元/桶，微涨0.03%。",
+      "title": "WTI原油期货结算价为83.21美元/桶 微跌0.06%",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935446347.html",
+    "category": "期货",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "原油"
+        }
+      ],
+      "industry_ids": [],
+      "concept_ids": [
+        "C506"
+      ]
+    }
+  },
+  {
+    "id": "9c924d04e07ef82b",
+    "code": "202611193935400839",
+    "title": "谷歌签约贝索斯旗下蓝色起源 计划2029年一季度发射多颗太空AI算力卫星",
+    "summary": "【谷歌签约贝索斯旗下蓝色起源 计划2029年一季度发射多颗太空AI算力卫星】谷歌当地时间周四宣布选定贝索斯旗下蓝色起源的“新格伦”火箭，计划2029年发射多颗AI算力卫星，在太空中用太阳能驱动AI运算。此前谷歌首颗原型卫星已在轨完成初步测试，但散热和发射成本仍是瓶颈，业内专家称太空数据中心离商用尚远。",
+    "content": "【谷歌签约贝索斯旗下蓝色起源 计划2029年一季度发射多颗太空AI算力卫星】谷歌当地时间周四宣布选定贝索斯旗下蓝色起源的“新格伦”火箭，计划2029年发射多颗AI算力卫星，在太空中用太阳能驱动AI运算。此前谷歌首颗原型卫星已在轨完成初步测试，但散热和发射成本仍是瓶颈，业内专家称太空数据中心离商用尚远。",
+    "full_content": "【谷歌签约贝索斯旗下蓝色起源 计划2029年一季度发射多颗太空AI算力卫星】谷歌当地时间周四宣布选定贝索斯旗下蓝色起源的“新格伦”火箭，计划2029年发射多颗AI算力卫星，在太空中用太阳能驱动AI运算。此前谷歌首颗原型卫星已在轨完成初步测试，但散热和发射成本仍是瓶颈，业内专家称太空数据中心离商用尚远。",
+    "sort_time": "1795116000000839",
+    "showTime": "2026-11-20 03:20:00",
+    "time": "2026-11-20 03:20:00",
+    "publish_time": "2026-11-20 03:20:00",
+    "raw_data": {
+      "code": "202611193935400839",
+      "image": [],
+      "pinglun_Num": 1,
+      "realSort": "1795116000000839",
+      "share": 6,
+      "showTime": "2026-11-20 03:20:00",
+      "stockList": [
+        "105.GOOGL",
+        "90.BK0800"
+      ],
+      "summary": "【谷歌签约贝索斯旗下蓝色起源 计划2029年一季度发射多颗太空AI算力卫星】谷歌当地时间周四宣布选定贝索斯旗下蓝色起源的“新格伦”火箭，计划2029年发射多颗AI算力卫星，在太空中用太阳能驱动AI运算。此前谷歌首颗原型卫星已在轨完成初步测试，但散热和发射成本仍是瓶颈，业内专家称太空数据中心离商用尚远。",
+      "title": "谷歌签约贝索斯旗下蓝色起源 计划2029年一季度发射多颗太空AI算力卫星",
+      "titleColor": 3
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611193935400839.html",
+    "category": "科技",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.GOOGL",
+      "90.BK0800"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 1,
+    "share_count": 6,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010202",
+          "name": "光伏设备",
+          "level1": "制造业",
+          "level2": "电气机械和器材制造业",
+          "matched_keyword": "太阳能"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C001",
+          "name": "人工智能",
+          "matched_keyword": "AI"
+        },
+        {
+          "id": "C006",
+          "name": "大数据",
+          "matched_keyword": "数据中心"
+        },
+        {
+          "id": "C011",
+          "name": "算力",
+          "matched_keyword": "算力"
+        },
+        {
+          "id": "C103",
+          "name": "光伏",
+          "matched_keyword": "太阳能"
+        },
+        {
+          "id": "C202",
+          "name": "航天",
+          "matched_keyword": "火箭"
+        }
+      ],
+      "industry_ids": [
+        "I010202"
+      ],
+      "concept_ids": [
+        "C001",
+        "C006",
+        "C011",
+        "C103",
+        "C202"
+      ]
+    }
+  },
+  {
+    "id": "a8225cc74523cefe",
+    "code": "202611203935445727",
+    "title": "恒生指数主连夜盘收跌0.21% 报22759点",
+    "summary": "恒生指数主连夜盘收跌0.21%，报22759点；恒生科技指数主连夜盘收跌0.99%，报3609点。",
+    "content": "恒生指数主连夜盘收跌0.21%，报22759点；恒生科技指数主连夜盘收跌0.99%，报3609点。",
+    "full_content": "恒生指数主连夜盘收跌0.21%，报22759点；恒生科技指数主连夜盘收跌0.99%，报3609点。",
+    "sort_time": "1795115958045727",
+    "showTime": "2026-11-20 03:19:18",
+    "time": "2026-11-20 03:19:18",
+    "publish_time": "2026-11-20 03:19:18",
+    "raw_data": {
+      "code": "202611203935445727",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795115958045727",
+      "share": 0,
+      "showTime": "2026-11-20 03:19:18",
+      "stockList": [],
+      "summary": "恒生指数主连夜盘收跌0.21%，报22759点；恒生科技指数主连夜盘收跌0.99%，报3609点。",
+      "title": "恒生指数主连夜盘收跌0.21% 报22759点",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935445727.html",
+    "category": "其他",
+    "importance": 5,
+    "sentiment": "neutral",
+    "related_stocks": [],
+    "has_stock_mention": false,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "2cbfcc6944b970ff",
+    "code": "202611203935445920",
+    "title": "Meta已将其智能手表的大范围发布推迟至2027年 其目标是在2026年下半年销售1000万台可穿戴设备",
+    "summary": "Meta已将其智能手表的大范围发布推迟至2027年，其目标是在2026年下半年销售1000万台可穿戴设备。",
+    "content": "Meta已将其智能手表的大范围发布推迟至2027年，其目标是在2026年下半年销售1000万台可穿戴设备。",
+    "full_content": "Meta已将其智能手表的大范围发布推迟至2027年，其目标是在2026年下半年销售1000万台可穿戴设备。",
+    "sort_time": "1795115887045920",
+    "showTime": "2026-11-20 03:18:07",
+    "time": "2026-11-20 03:18:07",
+    "publish_time": "2026-11-20 03:18:07",
+    "raw_data": {
+      "code": "202611203935445920",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795115887045920",
+      "share": 0,
+      "showTime": "2026-11-20 03:18:07",
+      "stockList": [
+        "105.META",
+        "90.BK0641"
+      ],
+      "summary": "Meta已将其智能手表的大范围发布推迟至2027年，其目标是在2026年下半年销售1000万台可穿戴设备。",
+      "title": "Meta已将其智能手表的大范围发布推迟至2027年 其目标是在2026年下半年销售1000万台可穿戴设备",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935445920.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.META",
+      "90.BK0641"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010103",
+          "name": "消费电子",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "可穿戴"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C013",
+          "name": "消费电子",
+          "matched_keyword": "可穿戴"
+        }
+      ],
+      "industry_ids": [
+        "I010103"
+      ],
+      "concept_ids": [
+        "C013"
+      ]
+    }
+  },
+  {
+    "id": "a7fc437c1852a330",
+    "code": "202611203935445524",
+    "title": "Meta计划对Muse Charm收费300美元 其中包含最长一年的Verizon免费5G服务",
+    "summary": "Meta计划对Muse Charm收费300美元，其中包含最长一年的Verizon免费5G服务。",
+    "content": "Meta计划对Muse Charm收费300美元，其中包含最长一年的Verizon免费5G服务。",
+    "full_content": "Meta计划对Muse Charm收费300美元，其中包含最长一年的Verizon免费5G服务。",
+    "sort_time": "1795115798045524",
+    "showTime": "2026-11-20 03:16:38",
+    "time": "2026-11-20 03:16:38",
+    "publish_time": "2026-11-20 03:16:38",
+    "raw_data": {
+      "code": "202611203935445524",
+      "image": [],
+      "pinglun_Num": 2,
+      "realSort": "1795115798045524",
+      "share": 0,
+      "showTime": "2026-11-20 03:16:38",
+      "stockList": [
+        "105.META",
+        "90.BK0714"
+      ],
+      "summary": "Meta计划对Muse Charm收费300美元，其中包含最长一年的Verizon免费5G服务。",
+      "title": "Meta计划对Muse Charm收费300美元 其中包含最长一年的Verizon免费5G服务",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935445524.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "105.META",
+      "90.BK0714"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 2,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I010104",
+          "name": "通信设备",
+          "level1": "制造业",
+          "level2": "计算机、通信和其他电子设备制造业",
+          "matched_keyword": "5G"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C004",
+          "name": "5G",
+          "matched_keyword": "5G"
+        }
+      ],
+      "industry_ids": [
+        "I010104"
+      ],
+      "concept_ids": [
+        "C004"
+      ]
+    }
+  },
+  {
+    "id": "9d221377f25fcda6",
+    "code": "202611203935445453",
+    "title": "莫斯科游戏节将于11月21日至30日在上海举行",
+    "summary": "莫斯科游戏节将于11月21日至30日在上海举行。",
+    "content": "莫斯科游戏节将于11月21日至30日在上海举行。",
+    "full_content": "莫斯科游戏节将于11月21日至30日在上海举行。",
+    "sort_time": "1795114945045453",
+    "showTime": "2026-11-20 03:02:25",
+    "time": "2026-11-20 03:02:25",
+    "publish_time": "2026-11-20 03:02:25",
+    "raw_data": {
+      "code": "202611203935445453",
+      "image": [],
+      "pinglun_Num": 3,
+      "realSort": "1795114945045453",
+      "share": 0,
+      "showTime": "2026-11-20 03:02:25",
+      "stockList": [
+        "90.BK1301",
+        "90.BK1046"
+      ],
+      "summary": "莫斯科游戏节将于11月21日至30日在上海举行。",
+      "title": "莫斯科游戏节将于11月21日至30日在上海举行",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935445453.html",
+    "category": "其他",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "90.BK1301",
+      "90.BK1046"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 3,
+    "share_count": 0,
+    "tags": {
+      "industries": [],
+      "concepts": [],
+      "industry_ids": [],
+      "concept_ids": []
+    }
+  },
+  {
+    "id": "5490dbd83685a188",
+    "code": "202611203935444688",
+    "title": "消息人士称：加拿大蒙特利尔银行资本市场在退出美国油气投资银行业务六年后正重返该领域",
+    "summary": "消息人士称，加拿大蒙特利尔银行资本市场（BMO）在退出美国油气投资银行业务六年后正重返该领域。",
+    "content": "消息人士称，加拿大蒙特利尔银行资本市场（BMO）在退出美国油气投资银行业务六年后正重返该领域。",
+    "full_content": "消息人士称，加拿大蒙特利尔银行资本市场（BMO）在退出美国油气投资银行业务六年后正重返该领域。",
+    "sort_time": "1795114125044688",
+    "showTime": "2026-11-20 02:48:45",
+    "time": "2026-11-20 02:48:45",
+    "publish_time": "2026-11-20 02:48:45",
+    "raw_data": {
+      "code": "202611203935444688",
+      "image": [],
+      "pinglun_Num": 0,
+      "realSort": "1795114125044688",
+      "share": 0,
+      "showTime": "2026-11-20 02:48:45",
+      "stockList": [
+        "106.BMO"
+      ],
+      "summary": "消息人士称，加拿大蒙特利尔银行资本市场（BMO）在退出美国油气投资银行业务六年后正重返该领域。",
+      "title": "消息人士称：加拿大蒙特利尔银行资本市场在退出美国油气投资银行业务六年后正重返该领域",
+      "titleColor": 0
+    },
+    "source": "东方财富快讯",
+    "url": "https://kuaixun.eastmoney.com/news/202611203935444688.html",
+    "category": "行业",
+    "importance": 6,
+    "sentiment": "neutral",
+    "related_stocks": [
+      "106.BMO"
+    ],
+    "has_stock_mention": true,
+    "comment_count": 0,
+    "share_count": 0,
+    "tags": {
+      "industries": [
+        {
+          "id": "I020101",
+          "name": "银行",
+          "level1": "金融业",
+          "level2": "货币金融服务",
+          "matched_keyword": "银行"
+        }
+      ],
+      "concepts": [
+        {
+          "id": "C402",
+          "name": "银行",
+          "matched_keyword": "银行"
+        },
+        {
+          "id": "C506",
+          "name": "石油",
+          "matched_keyword": "油气"
+        }
+      ],
+      "industry_ids": [
+        "I020101"
+      ],
+      "concept_ids": [
+        "C402",
+        "C506"
       ]
     }
   }
